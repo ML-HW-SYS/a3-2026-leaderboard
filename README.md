@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `March 17, 2026 at 09:23:04 PM ET`
+Last updated: `March 17, 2026 at 09:32:19 PM ET`
 
 ## Pages
 
@@ -10,9 +10,23 @@ Last updated: `March 17, 2026 at 09:23:04 PM ET`
 
 ## Official Overall
 
-| rank | nickname | status | commit | score | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
+| rank | nickname | status | commit | setup_s | run_s | total_s | score | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+
+## Column Guide
+
+- `rank`: placement among passing rows in that table.
+- `status`: public state for that row, such as `evaluated`, `failed`, `no_submission`, or `no_repo`.
+- `graded_file`: which tracked file produced that result, either `submission.py` or `develop.py`.
+- `commit`: short commit hash for the evaluated snapshot.
+- `setup_s`: evaluator-reported setup time in seconds.
+- `run_s`: evaluator-reported timed run duration in seconds.
+- `total_s`: evaluator-reported total warmup-plus-run time in seconds.
+- `total_s` is the timing value that matters for timeout comparisons.
+- `score`: official overall score, larger is better.
+- `R1` and `R2`: decode throughput in `tok/s`.
+- `R3` and `R4`: TTFT in `ms`.
 
 ## Notes
 
