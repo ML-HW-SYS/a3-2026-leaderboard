@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `March 17, 2026 at 09:48:32 PM ET`
+Last updated: `March 17, 2026 at 09:58:38 PM ET`
 
 ## Pages
 
@@ -19,7 +19,7 @@ Last updated: `March 17, 2026 at 09:48:32 PM ET`
 - `rank`: placement among passing rows in that table.
 - `status`: public state for that row, such as `evaluated`, `failed`, `no_submission`, or `no_repo`.
 - `graded_file`: which tracked file produced that result, either `submission.py` or `develop.py`.
-- `commit`: short commit hash for the evaluated snapshot.
+- `commit`: short commit hash for the evaluated snapshot. Match it against your GitHub commit history to identify the exact version that produced that result.
 - `runtime_s`: compact `setup/run/total` timing in seconds from the evaluator JSON.
 - In `runtime_s`, the final `total` value is the timing value that matters for timeout comparisons.
 - `score`: official overall score, larger is better.
