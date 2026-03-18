@@ -1,27 +1,27 @@
 # Official Regimes
 
-Last updated: `March 18, 2026 at 02:39:59 PM ET`
+Last updated: `March 18, 2026 at 02:43:23 PM ET`
 
 ## R1 (tok/s)
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
-|  | TA | failed | cf2750 |  |
+| 1 | TA | evaluated | 324cb8 | 553.3 |
 
 ## R2 (tok/s)
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
-|  | TA | failed | cf2750 |  |
+| 1 | TA | evaluated | 324cb8 | 295.5 |
 
 ## R3 (ms)
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
-|  | TA | failed | cf2750 |  |
+| 1 | TA | evaluated | 324cb8 | 83.2 |
 
 ## R4 (ms)
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
-|  | TA | failed | cf2750 |  |
+| 1 | TA | evaluated | 324cb8 | 131.7 |
