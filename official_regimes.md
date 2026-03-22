@@ -1,31 +1,31 @@
 # Official Regimes
 
-Last updated: `March 22, 2026 at 06:15:41 PM ET`
+Last updated: `March 22, 2026 at 06:30:46 PM ET`
 
 ## R1 (tok/s)
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | TA | evaluated | 324cb8 | 553.3 |
-|  | nickname55555555 | failed | 847a3d |  |
+| 2 | nickname55555555 | evaluated | 2663a2 | 525.0 |
 
 ## R2 (tok/s)
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | TA | evaluated | 324cb8 | 295.5 |
-|  | nickname55555555 | failed | 847a3d |  |
+| 2 | nickname55555555 | evaluated | 2663a2 | 176.0 |
 
 ## R3 (ms)
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | TA | evaluated | 324cb8 | 83.2 |
-|  | nickname55555555 | failed | 847a3d |  |
+| 2 | nickname55555555 | evaluated | 2663a2 | 280.3 |
 
 ## R4 (ms)
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | TA | evaluated | 324cb8 | 131.7 |
-|  | nickname55555555 | failed | 847a3d |  |
+| 2 | nickname55555555 | evaluated | 2663a2 | 189.7 |
