@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `March 24, 2026 at 07:33:29 PM ET`
+Last updated: `March 24, 2026 at 07:48:42 PM ET`
 
 ## R1 (tok/s)
 
@@ -24,7 +24,7 @@ Last updated: `March 24, 2026 at 07:33:29 PM ET`
 
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | - - | submission.py | 6079d5 | 81.8 |
+| 1 | - - | develop.py | 6079d5 | 81.2 |
 | 2 | TA | submission.py | 324cb8 | 83.2 |
 | 3 | chyyy | submission.py | bc02d9 | 102.5 |
 | 4 | nickname55555555 | develop.py | ba4228 | 280.0 |
