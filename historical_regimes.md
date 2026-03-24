@@ -1,13 +1,13 @@
 # Historical Best By Regime
 
-Last updated: `March 24, 2026 at 05:32:53 PM ET`
+Last updated: `March 24, 2026 at 05:48:18 PM ET`
 
 ## R1 (tok/s)
 
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | TA | submission.py | 324cb8 | 553.3 |
-| 2 | chyyy | develop.py | 97be52 | 540.7 |
+| 2 | chyyy | submission.py | afdaa3 | 542.9 |
 | 3 | nickname55555555 | develop.py | ba4228 | 526.4 |
 
 ## R2 (tok/s)
@@ -23,7 +23,7 @@ Last updated: `March 24, 2026 at 05:32:53 PM ET`
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | TA | submission.py | 324cb8 | 83.2 |
-| 2 | chyyy | develop.py | 97be52 | 105.2 |
+| 2 | chyyy | submission.py | afdaa3 | 103.7 |
 | 3 | nickname55555555 | develop.py | ba4228 | 280.0 |
 
 ## R4 (ms)
@@ -31,5 +31,5 @@ Last updated: `March 24, 2026 at 05:32:53 PM ET`
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | TA | submission.py | 324cb8 | 131.7 |
-| 2 | chyyy | submission.py | 97be52 | 151.2 |
+| 2 | chyyy | submission.py | afdaa3 | 146.2 |
 | 3 | nickname55555555 | develop.py | ba4228 | 189.5 |
