@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `March 24, 2026 at 06:48:03 PM ET`
+Last updated: `March 24, 2026 at 07:03:05 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Mar 24 06:56 PM ET | chyyy | evaluated |  | develop.py | bc02d9 | 19.2/3.6/22.9 | 540.4 | 302.3 | 102.6 | 145.6 |
+| Mar 24 06:54 PM ET | Shengwei | failed_compliance | Submission compliance check failed for submission.py: - missing required function(s): setup, run | submission.py | aba515 |  |  |  |  |  |
 | Mar 24 06:41 PM ET | chyyy | evaluated |  | submission.py | bc02d9 | 39.4/3.6/43.0 | 542.5 | 302.6 | 102.5 | 145.5 |
 | Mar 24 05:56 PM ET | chyyy | evaluated |  | develop.py | afdaa3 | 19.1/3.6/22.7 | 541.3 | 300.7 | 103.4 | 146.4 |
 | Mar 24 05:41 PM ET | chyyy | evaluated |  | submission.py | afdaa3 | 40.7/3.6/44.3 | 542.9 | 300.3 | 103.7 | 146.2 |
