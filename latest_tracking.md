@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `March 24, 2026 at 07:03:05 PM ET`
+Last updated: `March 24, 2026 at 07:17:45 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Mar 24 07:09 PM ET | Shengwei | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | develop.py | aba515 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Mar 24 06:56 PM ET | chyyy | evaluated |  | develop.py | bc02d9 | 19.2/3.6/22.9 | 540.4 | 302.3 | 102.6 | 145.6 |
 | Mar 24 06:54 PM ET | Shengwei | failed_compliance | Submission compliance check failed for submission.py: - missing required function(s): setup, run | submission.py | aba515 |  |  |  |  |  |
 | Mar 24 06:41 PM ET | chyyy | evaluated |  | submission.py | bc02d9 | 39.4/3.6/43.0 | 542.5 | 302.6 | 102.5 | 145.5 |
