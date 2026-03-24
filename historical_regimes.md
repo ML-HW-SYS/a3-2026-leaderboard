@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `March 24, 2026 at 06:32:40 PM ET`
+Last updated: `March 24, 2026 at 06:48:03 PM ET`
 
 ## R1 (tok/s)
 
@@ -23,7 +23,7 @@ Last updated: `March 24, 2026 at 06:32:40 PM ET`
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | TA | submission.py | 324cb8 | 83.2 |
-| 2 | chyyy | develop.py | afdaa3 | 103.4 |
+| 2 | chyyy | submission.py | bc02d9 | 102.5 |
 | 3 | nickname55555555 | develop.py | ba4228 | 280.0 |
 
 ## R4 (ms)
@@ -31,5 +31,5 @@ Last updated: `March 24, 2026 at 06:32:40 PM ET`
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | TA | submission.py | 324cb8 | 131.7 |
-| 2 | chyyy | submission.py | afdaa3 | 146.2 |
+| 2 | chyyy | submission.py | bc02d9 | 145.5 |
 | 3 | nickname55555555 | develop.py | ba4228 | 189.5 |
