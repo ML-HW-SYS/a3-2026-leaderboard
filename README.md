@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `March 24, 2026 at 07:17:45 PM ET`
+Last updated: `March 24, 2026 at 07:33:29 PM ET`
 
 ## Pages
 
@@ -12,9 +12,10 @@ Last updated: `March 24, 2026 at 07:17:45 PM ET`
 
 | rank | nickname | status | commit | runtime_s | score | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | TA | evaluated | 324cb8 | 19.8/3.5/23.3 | 0.997 | 553.3 | 295.5 | 83.2 | 131.7 |
-| 2 | chyyy | evaluated | bc02d9 | 39.4/3.6/43.0 | 0.924 | 542.5 | 302.6 | 102.5 | 145.5 |
-| 3 | nickname55555555 | evaluated | 2663a2 | 19.6/5.8/25.3 | 0.583 | 525.0 | 176.0 | 280.3 | 189.7 |
+| 1 | - - | evaluated | 6079d5 | 58.4/3.6/61.9 | 1.025 | 568.2 | 274.3 | 81.8 | 114.3 |
+| 2 | TA | evaluated | 324cb8 | 19.8/3.5/23.3 | 0.997 | 553.3 | 295.5 | 83.2 | 131.7 |
+| 3 | chyyy | evaluated | bc02d9 | 39.4/3.6/43.0 | 0.924 | 542.5 | 302.6 | 102.5 | 145.5 |
+| 4 | nickname55555555 | evaluated | 2663a2 | 19.6/5.8/25.3 | 0.583 | 525.0 | 176.0 | 280.3 | 189.7 |
 |  | Shengwei | failed | aba515 |  |  |  |  |  |  |
 
 ## Column Guide
