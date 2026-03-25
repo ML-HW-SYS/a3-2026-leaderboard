@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `March 25, 2026 at 12:44:14 AM ET`
+Last updated: `March 25, 2026 at 12:59:36 AM ET`
 
 ## R1 (tok/s)
 
@@ -10,6 +10,7 @@ Last updated: `March 25, 2026 at 12:44:14 AM ET`
 | 2 | TA | submission.py | 324cb8 | 553.3 |
 | 3 | chyyy | submission.py | afdaa3 | 542.9 |
 | 4 | nickname55555555 | develop.py | 8198f4 | 538.8 |
+| 5 | gravlax | develop.py | 1221ac | 523.8 |
 
 ## R2 (tok/s)
 
@@ -19,6 +20,7 @@ Last updated: `March 25, 2026 at 12:44:14 AM ET`
 | 2 | chyyy | submission.py | 97be52 | 303.0 |
 | 3 | TA | submission.py | 324cb8 | 295.5 |
 | 4 | nickname55555555 | submission.py | 8198f4 | 176.8 |
+| 5 | gravlax | develop.py | 1221ac | 169.2 |
 
 ## R3 (ms)
 
@@ -28,6 +30,7 @@ Last updated: `March 25, 2026 at 12:44:14 AM ET`
 | 2 | TA | submission.py | 324cb8 | 83.2 |
 | 3 | chyyy | submission.py | bc02d9 | 102.5 |
 | 4 | nickname55555555 | submission.py | 8198f4 | 279.6 |
+| 5 | gravlax | develop.py | 1221ac | 309.2 |
 
 ## R4 (ms)
 
@@ -37,3 +40,4 @@ Last updated: `March 25, 2026 at 12:44:14 AM ET`
 | 2 | TA | submission.py | 324cb8 | 131.7 |
 | 3 | chyyy | submission.py | bc02d9 | 145.5 |
 | 4 | nickname55555555 | submission.py | 8198f4 | 187.9 |
+| 5 | gravlax | develop.py | 1221ac | 246.8 |
