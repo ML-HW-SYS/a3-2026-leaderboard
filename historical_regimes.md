@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `March 24, 2026 at 10:30:57 PM ET`
+Last updated: `March 24, 2026 at 10:46:20 PM ET`
 
 ## R1 (tok/s)
 
@@ -9,7 +9,7 @@ Last updated: `March 24, 2026 at 10:30:57 PM ET`
 | 1 | - - | submission.py | dbf473 | 589.7 |
 | 2 | TA | submission.py | 324cb8 | 553.3 |
 | 3 | chyyy | submission.py | afdaa3 | 542.9 |
-| 4 | nickname55555555 | develop.py | ba4228 | 526.4 |
+| 4 | nickname55555555 | submission.py | 8198f4 | 537.9 |
 
 ## R2 (tok/s)
 
@@ -18,7 +18,7 @@ Last updated: `March 24, 2026 at 10:30:57 PM ET`
 | 1 | - - | submission.py | dbf473 | 326.2 |
 | 2 | chyyy | submission.py | 97be52 | 303.0 |
 | 3 | TA | submission.py | 324cb8 | 295.5 |
-| 4 | nickname55555555 | develop.py | ba4228 | 176.3 |
+| 4 | nickname55555555 | submission.py | 8198f4 | 176.8 |
 
 ## R3 (ms)
 
@@ -27,7 +27,7 @@ Last updated: `March 24, 2026 at 10:30:57 PM ET`
 | 1 | - - | submission.py | dbf473 | 81.0 |
 | 2 | TA | submission.py | 324cb8 | 83.2 |
 | 3 | chyyy | submission.py | bc02d9 | 102.5 |
-| 4 | nickname55555555 | develop.py | ba4228 | 280.0 |
+| 4 | nickname55555555 | submission.py | 8198f4 | 279.6 |
 
 ## R4 (ms)
 
@@ -36,4 +36,4 @@ Last updated: `March 24, 2026 at 10:30:57 PM ET`
 | 1 | - - | submission.py | dbf473 | 113.7 |
 | 2 | TA | submission.py | 324cb8 | 131.7 |
 | 3 | chyyy | submission.py | bc02d9 | 145.5 |
-| 4 | nickname55555555 | develop.py | ba4228 | 189.5 |
+| 4 | nickname55555555 | submission.py | 8198f4 | 187.9 |
