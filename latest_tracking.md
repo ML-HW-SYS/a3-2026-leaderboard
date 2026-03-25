@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `March 25, 2026 at 04:18:49 PM ET`
+Last updated: `March 25, 2026 at 04:34:11 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Mar 25 04:28 PM ET | gravlax | failed_correctness | Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Running evaluation... ... | develop.py | 873be6 | 37.6/5.0/42.6 | 530.4 | 155.8 | 65.6 | 119.7 |
 | Mar 25 04:13 PM ET | gravlax | evaluated |  | develop.py | 1f23d9 | 37.3/3.7/40.9 | 534.6 | 258.3 | 63.3 | 116.1 |
 | Mar 25 03:57 PM ET | nickname55555555 | evaluated |  | develop.py | 05c6ab | 23.0/2.8/25.8 | 552.0 | 334.1 | 32.1 | 52.8 |
 | Mar 25 03:41 PM ET | nickname55555555 | evaluated |  | submission.py | 05c6ab | 56.4/2.8/59.2 | 553.4 | 334.0 | 31.9 | 52.5 |
