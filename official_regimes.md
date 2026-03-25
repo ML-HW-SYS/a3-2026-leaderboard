@@ -1,13 +1,13 @@
 # Official Regimes
 
-Last updated: `March 25, 2026 at 03:32:44 PM ET`
+Last updated: `March 25, 2026 at 03:48:22 PM ET`
 
 ## R1 (tok/s)
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | dbf473 | 589.7 |
-| 2 | nickname55555555 | evaluated | 7034af | 554.4 |
+| 2 | nickname55555555 | evaluated | 05c6ab | 553.4 |
 | 3 | TA | evaluated | 324cb8 | 553.3 |
 | 4 | chyyy | evaluated | 794dd9 | 539.8 |
 |  | gravlax | failed | 1221ac |  |
@@ -17,10 +17,10 @@ Last updated: `March 25, 2026 at 03:32:44 PM ET`
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | - - | evaluated | dbf473 | 326.2 |
-| 2 | chyyy | evaluated | 794dd9 | 301.8 |
-| 3 | TA | evaluated | 324cb8 | 295.5 |
-| 4 | nickname55555555 | evaluated | 7034af | 279.3 |
+| 1 | nickname55555555 | evaluated | 05c6ab | 334.0 |
+| 2 | - - | evaluated | dbf473 | 326.2 |
+| 3 | chyyy | evaluated | 794dd9 | 301.8 |
+| 4 | TA | evaluated | 324cb8 | 295.5 |
 |  | gravlax | failed | 1221ac |  |
 |  | Shengwei | failed | aba515 |  |
 
@@ -28,10 +28,10 @@ Last updated: `March 25, 2026 at 03:32:44 PM ET`
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | chyyy | evaluated | 794dd9 | 64.4 |
-| 2 | - - | evaluated | dbf473 | 81.0 |
-| 3 | TA | evaluated | 324cb8 | 83.2 |
-| 4 | nickname55555555 | evaluated | 7034af | 108.0 |
+| 1 | nickname55555555 | evaluated | 05c6ab | 31.9 |
+| 2 | chyyy | evaluated | 794dd9 | 64.4 |
+| 3 | - - | evaluated | dbf473 | 81.0 |
+| 4 | TA | evaluated | 324cb8 | 83.2 |
 |  | gravlax | failed | 1221ac |  |
 |  | Shengwei | failed | aba515 |  |
 
@@ -39,7 +39,7 @@ Last updated: `March 25, 2026 at 03:32:44 PM ET`
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | nickname55555555 | evaluated | 7034af | 92.7 |
+| 1 | nickname55555555 | evaluated | 05c6ab | 52.5 |
 | 2 | - - | evaluated | dbf473 | 113.7 |
 | 3 | chyyy | evaluated | 794dd9 | 126.4 |
 | 4 | TA | evaluated | 324cb8 | 131.7 |

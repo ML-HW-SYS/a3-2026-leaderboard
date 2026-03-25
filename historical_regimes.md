@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `March 25, 2026 at 03:32:44 PM ET`
+Last updated: `March 25, 2026 at 03:48:22 PM ET`
 
 ## R1 (tok/s)
 
@@ -16,27 +16,27 @@ Last updated: `March 25, 2026 at 03:32:44 PM ET`
 
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | - - | submission.py | dbf473 | 326.2 |
-| 2 | chyyy | submission.py | 97be52 | 303.0 |
-| 3 | TA | submission.py | 324cb8 | 295.5 |
-| 4 | nickname55555555 | submission.py | 9ad081 | 280.3 |
+| 1 | nickname55555555 | submission.py | 05c6ab | 334.0 |
+| 2 | - - | submission.py | dbf473 | 326.2 |
+| 3 | chyyy | submission.py | 97be52 | 303.0 |
+| 4 | TA | submission.py | 324cb8 | 295.5 |
 | 5 | gravlax | develop.py | 275e38 | 169.2 |
 
 ## R3 (ms)
 
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | chyyy | submission.py | 794dd9 | 64.4 |
-| 2 | - - | submission.py | dbf473 | 81.0 |
-| 3 | TA | submission.py | 324cb8 | 83.2 |
-| 4 | nickname55555555 | submission.py | 7034af | 108.0 |
+| 1 | nickname55555555 | submission.py | 05c6ab | 31.9 |
+| 2 | chyyy | submission.py | 794dd9 | 64.4 |
+| 3 | - - | submission.py | dbf473 | 81.0 |
+| 4 | TA | submission.py | 324cb8 | 83.2 |
 | 5 | gravlax | develop.py | e5b875 | 306.4 |
 
 ## R4 (ms)
 
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | nickname55555555 | submission.py | 7034af | 92.7 |
+| 1 | nickname55555555 | submission.py | 05c6ab | 52.5 |
 | 2 | - - | submission.py | dbf473 | 113.7 |
 | 3 | chyyy | submission.py | 794dd9 | 126.4 |
 | 4 | TA | submission.py | 324cb8 | 131.7 |
