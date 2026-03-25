@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `March 25, 2026 at 11:18:59 AM ET`
+Last updated: `March 25, 2026 at 11:34:12 AM ET`
 
 ## R1 (tok/s)
 
@@ -8,7 +8,7 @@ Last updated: `March 25, 2026 at 11:18:59 AM ET`
 | --- | --- | --- | --- | --- |
 | 1 | - - | submission.py | dbf473 | 589.7 |
 | 2 | TA | submission.py | 324cb8 | 553.3 |
-| 3 | nickname55555555 | submission.py | 9ad081 | 552.8 |
+| 3 | nickname55555555 | develop.py | 9ad081 | 553.3 |
 | 4 | chyyy | submission.py | afdaa3 | 542.9 |
 | 5 | gravlax | develop.py | 1221ac | 523.8 |
 
