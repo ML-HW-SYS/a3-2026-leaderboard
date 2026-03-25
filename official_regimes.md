@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `March 25, 2026 at 12:29:31 AM ET`
+Last updated: `March 25, 2026 at 12:44:14 AM ET`
 
 ## R1 (tok/s)
 
@@ -10,6 +10,7 @@ Last updated: `March 25, 2026 at 12:29:31 AM ET`
 | 2 | TA | evaluated | 324cb8 | 553.3 |
 | 3 | chyyy | evaluated | bc02d9 | 542.5 |
 | 4 | nickname55555555 | evaluated | 8198f4 | 537.9 |
+|  | gravlax | failed | 1221ac |  |
 |  | Shengwei | failed | aba515 |  |
 
 ## R2 (tok/s)
@@ -20,6 +21,7 @@ Last updated: `March 25, 2026 at 12:29:31 AM ET`
 | 2 | chyyy | evaluated | bc02d9 | 302.6 |
 | 3 | TA | evaluated | 324cb8 | 295.5 |
 | 4 | nickname55555555 | evaluated | 8198f4 | 176.8 |
+|  | gravlax | failed | 1221ac |  |
 |  | Shengwei | failed | aba515 |  |
 
 ## R3 (ms)
@@ -30,6 +32,7 @@ Last updated: `March 25, 2026 at 12:29:31 AM ET`
 | 2 | TA | evaluated | 324cb8 | 83.2 |
 | 3 | chyyy | evaluated | bc02d9 | 102.5 |
 | 4 | nickname55555555 | evaluated | 8198f4 | 279.6 |
+|  | gravlax | failed | 1221ac |  |
 |  | Shengwei | failed | aba515 |  |
 
 ## R4 (ms)
@@ -40,4 +43,5 @@ Last updated: `March 25, 2026 at 12:29:31 AM ET`
 | 2 | TA | evaluated | 324cb8 | 131.7 |
 | 3 | chyyy | evaluated | bc02d9 | 145.5 |
 | 4 | nickname55555555 | evaluated | 8198f4 | 187.9 |
+|  | gravlax | failed | 1221ac |  |
 |  | Shengwei | failed | aba515 |  |
