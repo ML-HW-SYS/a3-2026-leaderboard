@@ -1,12 +1,12 @@
 # Official Regimes
 
-Last updated: `March 24, 2026 at 10:01:02 PM ET`
+Last updated: `March 24, 2026 at 10:16:17 PM ET`
 
 ## R1 (tok/s)
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | - - | evaluated | 6079d5 | 568.2 |
+| 1 | - - | evaluated | dbf473 | 589.7 |
 | 2 | TA | evaluated | 324cb8 | 553.3 |
 | 3 | chyyy | evaluated | bc02d9 | 542.5 |
 | 4 | nickname55555555 | evaluated | 2663a2 | 525.0 |
@@ -16,9 +16,9 @@ Last updated: `March 24, 2026 at 10:01:02 PM ET`
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | chyyy | evaluated | bc02d9 | 302.6 |
-| 2 | TA | evaluated | 324cb8 | 295.5 |
-| 3 | - - | evaluated | 6079d5 | 274.3 |
+| 1 | - - | evaluated | dbf473 | 326.2 |
+| 2 | chyyy | evaluated | bc02d9 | 302.6 |
+| 3 | TA | evaluated | 324cb8 | 295.5 |
 | 4 | nickname55555555 | evaluated | 2663a2 | 176.0 |
 |  | Shengwei | failed | aba515 |  |
 
@@ -26,7 +26,7 @@ Last updated: `March 24, 2026 at 10:01:02 PM ET`
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | - - | evaluated | 6079d5 | 81.8 |
+| 1 | - - | evaluated | dbf473 | 81.0 |
 | 2 | TA | evaluated | 324cb8 | 83.2 |
 | 3 | chyyy | evaluated | bc02d9 | 102.5 |
 | 4 | nickname55555555 | evaluated | 2663a2 | 280.3 |
@@ -36,7 +36,7 @@ Last updated: `March 24, 2026 at 10:01:02 PM ET`
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | - - | evaluated | 6079d5 | 114.3 |
+| 1 | - - | evaluated | dbf473 | 113.7 |
 | 2 | TA | evaluated | 324cb8 | 131.7 |
 | 3 | chyyy | evaluated | bc02d9 | 145.5 |
 | 4 | nickname55555555 | evaluated | 2663a2 | 189.7 |
