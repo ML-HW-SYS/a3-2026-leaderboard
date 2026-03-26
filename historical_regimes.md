@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `March 26, 2026 at 01:09:30 AM ET`
+Last updated: `March 26, 2026 at 01:24:31 AM ET`
 
 ## R1 (tok/s)
 
@@ -20,14 +20,14 @@ Last updated: `March 26, 2026 at 01:09:30 AM ET`
 | 2 | - - | submission.py | dbf473 | 326.2 |
 | 3 | chyyy | submission.py | 97be52 | 303.0 |
 | 4 | TA | submission.py | 324cb8 | 295.5 |
-| 5 | gravlax | submission.py | b1229d | 272.5 |
+| 5 | gravlax | develop.py | b1229d | 273.0 |
 
 ## R3 (ms)
 
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | nickname55555555 | submission.py | 05c6ab | 31.9 |
-| 2 | gravlax | submission.py | b1229d | 35.0 |
+| 2 | gravlax | develop.py | b1229d | 35.0 |
 | 3 | chyyy | submission.py | 794dd9 | 64.4 |
 | 4 | - - | submission.py | dbf473 | 81.0 |
 | 5 | TA | submission.py | 324cb8 | 83.2 |
