@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `March 26, 2026 at 12:54:28 AM ET`
+Last updated: `March 26, 2026 at 01:09:30 AM ET`
 
 ## R1 (tok/s)
 
@@ -10,7 +10,7 @@ Last updated: `March 26, 2026 at 12:54:28 AM ET`
 | 2 | nickname55555555 | evaluated | 05c6ab | 553.4 |
 | 3 | TA | evaluated | 324cb8 | 553.3 |
 | 4 | chyyy | evaluated | 794dd9 | 539.8 |
-|  | gravlax | failed | 1221ac |  |
+| 5 | gravlax | evaluated | b1229d | 532.3 |
 |  | Shengwei | failed | aba515 |  |
 
 ## R2 (tok/s)
@@ -21,7 +21,7 @@ Last updated: `March 26, 2026 at 12:54:28 AM ET`
 | 2 | - - | evaluated | dbf473 | 326.2 |
 | 3 | chyyy | evaluated | 794dd9 | 301.8 |
 | 4 | TA | evaluated | 324cb8 | 295.5 |
-|  | gravlax | failed | 1221ac |  |
+| 5 | gravlax | evaluated | b1229d | 272.5 |
 |  | Shengwei | failed | aba515 |  |
 
 ## R3 (ms)
@@ -29,10 +29,10 @@ Last updated: `March 26, 2026 at 12:54:28 AM ET`
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | nickname55555555 | evaluated | 05c6ab | 31.9 |
-| 2 | chyyy | evaluated | 794dd9 | 64.4 |
-| 3 | - - | evaluated | dbf473 | 81.0 |
-| 4 | TA | evaluated | 324cb8 | 83.2 |
-|  | gravlax | failed | 1221ac |  |
+| 2 | gravlax | evaluated | b1229d | 35.0 |
+| 3 | chyyy | evaluated | 794dd9 | 64.4 |
+| 4 | - - | evaluated | dbf473 | 81.0 |
+| 5 | TA | evaluated | 324cb8 | 83.2 |
 |  | Shengwei | failed | aba515 |  |
 
 ## R4 (ms)
@@ -40,8 +40,8 @@ Last updated: `March 26, 2026 at 12:54:28 AM ET`
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | nickname55555555 | evaluated | 05c6ab | 52.5 |
-| 2 | - - | evaluated | dbf473 | 113.7 |
-| 3 | chyyy | evaluated | 794dd9 | 126.4 |
-| 4 | TA | evaluated | 324cb8 | 131.7 |
-|  | gravlax | failed | 1221ac |  |
+| 2 | gravlax | evaluated | b1229d | 59.7 |
+| 3 | - - | evaluated | dbf473 | 113.7 |
+| 4 | chyyy | evaluated | 794dd9 | 126.4 |
+| 5 | TA | evaluated | 324cb8 | 131.7 |
 |  | Shengwei | failed | aba515 |  |
