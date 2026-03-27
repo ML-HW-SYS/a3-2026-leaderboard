@@ -1,12 +1,12 @@
 # Historical Best By Regime
 
-Last updated: `March 27, 2026 at 01:40:35 AM ET`
+Last updated: `March 27, 2026 at 01:55:44 AM ET`
 
 ## R1 (tok/s)
 
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | - - | develop.py | 442030 | 590.5 |
+| 1 | - - | submission.py | adc0f3 | 591.4 |
 | 2 | nickname55555555 | develop.py | 7034af | 554.6 |
 | 3 | TA | submission.py | 324cb8 | 553.3 |
 | 4 | chyyy | submission.py | afdaa3 | 542.9 |
@@ -16,7 +16,7 @@ Last updated: `March 27, 2026 at 01:40:35 AM ET`
 
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | - - | submission.py | 442030 | 384.4 |
+| 1 | - - | submission.py | adc0f3 | 386.9 |
 | 2 | nickname55555555 | develop.py | 05c6ab | 334.1 |
 | 3 | chyyy | submission.py | 97be52 | 303.0 |
 | 4 | TA | submission.py | 324cb8 | 295.5 |
@@ -26,7 +26,7 @@ Last updated: `March 27, 2026 at 01:40:35 AM ET`
 
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | - - | submission.py | 442030 | 21.9 |
+| 1 | - - | submission.py | adc0f3 | 21.8 |
 | 2 | nickname55555555 | submission.py | 05c6ab | 31.9 |
 | 3 | gravlax | develop.py | b1229d | 35.0 |
 | 4 | chyyy | submission.py | 794dd9 | 64.4 |

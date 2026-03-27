@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `March 27, 2026 at 01:40:35 AM ET`
+Last updated: `March 27, 2026 at 01:55:44 AM ET`
 
 ## Pages
 
@@ -12,7 +12,7 @@ Last updated: `March 27, 2026 at 01:40:35 AM ET`
 
 | rank | nickname | status | commit | runtime_s | score | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | - - | evaluated | 442030 | 60.0/2.5/62.5 | 1.982 | 588.9 | 384.4 | 21.9 | 44.4 |
+| 1 | - - | evaluated | adc0f3 | 25.6/2.5/28.1 | 1.989 | 591.4 | 386.9 | 21.8 | 44.5 |
 | 2 | nickname55555555 | evaluated | 05c6ab | 56.4/2.8/59.2 | 1.645 | 553.4 | 334.0 | 31.9 | 52.5 |
 | 3 | gravlax | evaluated | b1229d | 19.9/3.2/23.1 | 1.464 | 532.3 | 272.5 | 35.0 | 59.7 |
 | 4 | chyyy | evaluated | 794dd9 | 19.4/3.4/22.8 | 1.073 | 539.8 | 301.8 | 64.4 | 126.4 |
