@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `March 27, 2026 at 01:09:44 AM ET`
+Last updated: `March 27, 2026 at 01:25:28 AM ET`
 
 ## Pages
 
@@ -12,9 +12,9 @@ Last updated: `March 27, 2026 at 01:09:44 AM ET`
 
 | rank | nickname | status | commit | runtime_s | score | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | nickname55555555 | evaluated | 05c6ab | 56.4/2.8/59.2 | 1.645 | 553.4 | 334.0 | 31.9 | 52.5 |
-| 2 | gravlax | evaluated | b1229d | 19.9/3.2/23.1 | 1.464 | 532.3 | 272.5 | 35.0 | 59.7 |
-| 3 | - - | evaluated | 2c3225 | 42.9/2.8/45.7 | 1.433 | 588.9 | 345.0 | 58.1 | 54.9 |
+| 1 | - - | evaluated | 442030 | 60.0/2.5/62.5 | 1.982 | 588.9 | 384.4 | 21.9 | 44.4 |
+| 2 | nickname55555555 | evaluated | 05c6ab | 56.4/2.8/59.2 | 1.645 | 553.4 | 334.0 | 31.9 | 52.5 |
+| 3 | gravlax | evaluated | b1229d | 19.9/3.2/23.1 | 1.464 | 532.3 | 272.5 | 35.0 | 59.7 |
 | 4 | chyyy | evaluated | 794dd9 | 19.4/3.4/22.8 | 1.073 | 539.8 | 301.8 | 64.4 | 126.4 |
 | 5 | TA | evaluated | 324cb8 | 19.8/3.5/23.3 | 0.997 | 553.3 | 295.5 | 83.2 | 131.7 |
 |  | Shengwei | failed | aba515 |  |  |  |  |  |  |
