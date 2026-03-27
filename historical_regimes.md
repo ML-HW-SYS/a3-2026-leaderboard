@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `March 27, 2026 at 04:23:52 PM ET`
+Last updated: `March 27, 2026 at 04:38:54 PM ET`
 
 ## R1 (tok/s)
 
@@ -33,7 +33,7 @@ Last updated: `March 27, 2026 at 04:23:52 PM ET`
 | 3 | gravlax | develop.py | b1229d | 35.0 |
 | 4 | chyyy | submission.py | 794dd9 | 64.4 |
 | 5 | TA | submission.py | 324cb8 | 83.2 |
-| 6 | lipphi | submission.py | a3a71b | 104.4 |
+| 6 | lipphi | develop.py | d58cae | 104.4 |
 
 ## R4 (ms)
 
