@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `March 28, 2026 at 11:01:31 AM ET`
+Last updated: `March 28, 2026 at 11:17:07 AM ET`
 
 ## Pages
 
@@ -18,7 +18,8 @@ Last updated: `March 28, 2026 at 11:01:31 AM ET`
 | 4 | chyyy | evaluated | 794dd9 | 19.4/3.4/22.8 | 1.073 | 539.8 | 301.8 | 64.4 | 126.4 |
 | 5 | TA | evaluated | 324cb8 | 19.8/3.5/23.3 | 0.997 | 553.3 | 295.5 | 83.2 | 131.7 |
 | 6 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
-| 7 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
+| 7 | gm | evaluated | a57e9f | 50.9/5.7/56.6 | 0.562 | 547.3 | 194.7 | 300.6 | 235.5 |
+| 8 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
 |  | Shengwei | failed | aba515 |  |  |  |  |  |  |
 
 ## Column Guide
