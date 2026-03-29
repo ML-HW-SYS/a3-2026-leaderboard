@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `March 28, 2026 at 11:52:08 PM ET`
+Last updated: `March 29, 2026 at 12:07:11 AM ET`
 
 ## R1 (tok/s)
 
@@ -33,9 +33,9 @@ Last updated: `March 28, 2026 at 11:52:08 PM ET`
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | submission.py | adc0f3 | 21.8 |
-| 2 | nickname55555555 | submission.py | 05c6ab | 31.9 |
-| 3 | gravlax | develop.py | b1229d | 35.0 |
-| 4 | gm | develop.py | 7b8a67 | 57.2 |
+| 2 | gm | develop.py | a71638 | 28.4 |
+| 3 | nickname55555555 | submission.py | 05c6ab | 31.9 |
+| 4 | gravlax | develop.py | b1229d | 35.0 |
 | 5 | chyyy | submission.py | 794dd9 | 64.4 |
 | 6 | TA | submission.py | 324cb8 | 83.2 |
 | 7 | lipphi | develop.py | d58cae | 104.4 |
@@ -47,8 +47,8 @@ Last updated: `March 28, 2026 at 11:52:08 PM ET`
 | --- | --- | --- | --- | --- |
 | 1 | - - | submission.py | 442030 | 44.4 |
 | 2 | nickname55555555 | submission.py | 05c6ab | 52.5 |
-| 3 | gravlax | submission.py | b1229d | 59.7 |
-| 4 | gm | develop.py | 7b8a67 | 109.7 |
+| 3 | gm | develop.py | a71638 | 52.7 |
+| 4 | gravlax | submission.py | b1229d | 59.7 |
 | 5 | chyyy | submission.py | 794dd9 | 126.4 |
 | 6 | TA | submission.py | 324cb8 | 131.7 |
 | 7 | lipphi | submission.py | a3a71b | 150.9 |
