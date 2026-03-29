@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `March 28, 2026 at 09:08:39 PM ET`
+Last updated: `March 28, 2026 at 09:23:56 PM ET`
 
 ## R1 (tok/s)
 
@@ -20,7 +20,7 @@ Last updated: `March 28, 2026 at 09:08:39 PM ET`
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | submission.py | adc0f3 | 386.9 |
-| 2 | gm | submission.py | d5ef22 | 336.2 |
+| 2 | gm | develop.py | 637cde | 336.3 |
 | 3 | nickname55555555 | develop.py | 99ddc2 | 334.4 |
 | 4 | lipphi | submission.py | a3a71b | 306.7 |
 | 5 | chyyy | submission.py | 97be52 | 303.0 |
@@ -35,7 +35,7 @@ Last updated: `March 28, 2026 at 09:08:39 PM ET`
 | 1 | - - | submission.py | adc0f3 | 21.8 |
 | 2 | nickname55555555 | submission.py | 05c6ab | 31.9 |
 | 3 | gravlax | develop.py | b1229d | 35.0 |
-| 4 | gm | submission.py | c64be1 | 62.2 |
+| 4 | gm | develop.py | 637cde | 61.6 |
 | 5 | chyyy | submission.py | 794dd9 | 64.4 |
 | 6 | TA | submission.py | 324cb8 | 83.2 |
 | 7 | lipphi | develop.py | d58cae | 104.4 |
@@ -48,7 +48,7 @@ Last updated: `March 28, 2026 at 09:08:39 PM ET`
 | 1 | - - | submission.py | 442030 | 44.4 |
 | 2 | nickname55555555 | submission.py | 05c6ab | 52.5 |
 | 3 | gravlax | submission.py | b1229d | 59.7 |
-| 4 | gm | submission.py | c64be1 | 121.2 |
+| 4 | gm | develop.py | 637cde | 115.5 |
 | 5 | chyyy | submission.py | 794dd9 | 126.4 |
 | 6 | TA | submission.py | 324cb8 | 131.7 |
 | 7 | lipphi | submission.py | a3a71b | 150.9 |
