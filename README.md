@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `March 29, 2026 at 08:40:32 AM ET`
+Last updated: `March 29, 2026 at 08:55:12 AM ET`
 
 ## Pages
 
@@ -20,6 +20,7 @@ Last updated: `March 29, 2026 at 08:40:32 AM ET`
 | 6 | TA | evaluated | 324cb8 | 19.8/3.5/23.3 | 0.997 | 553.3 | 295.5 | 83.2 | 131.7 |
 | 7 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
 | 8 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
+|  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | Shengwei | failed | aba515 |  |  |  |  |  |  |
 
 ## Column Guide
