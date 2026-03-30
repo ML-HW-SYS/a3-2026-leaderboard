@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `March 30, 2026 at 10:38:32 AM ET`
+Last updated: `March 30, 2026 at 10:53:11 AM ET`
 
 ## R1 (tok/s)
 
@@ -15,6 +15,7 @@ Last updated: `March 30, 2026 at 10:38:32 AM ET`
 | 7 | gravlax | evaluated | b1229d | 532.3 |
 | 8 | gm | evaluated | c64be1 | 524.0 |
 |  | dhanushikka | failed | 14b1fd |  |
+|  | landrum | failed | b88426 |  |
 |  | Shengwei | failed | aba515 |  |
 
 ## R2 (tok/s)
@@ -30,6 +31,7 @@ Last updated: `March 30, 2026 at 10:38:32 AM ET`
 | 7 | gravlax | evaluated | b1229d | 272.5 |
 | 8 | your_nickname_here | evaluated | f10b9b | 173.1 |
 |  | dhanushikka | failed | 14b1fd |  |
+|  | landrum | failed | b88426 |  |
 |  | Shengwei | failed | aba515 |  |
 
 ## R3 (ms)
@@ -45,6 +47,7 @@ Last updated: `March 30, 2026 at 10:38:32 AM ET`
 | 7 | lipphi | evaluated | a3a71b | 104.4 |
 | 8 | your_nickname_here | evaluated | f10b9b | 308.1 |
 |  | dhanushikka | failed | 14b1fd |  |
+|  | landrum | failed | b88426 |  |
 |  | Shengwei | failed | aba515 |  |
 
 ## R4 (ms)
@@ -60,4 +63,5 @@ Last updated: `March 30, 2026 at 10:38:32 AM ET`
 | 7 | lipphi | evaluated | a3a71b | 150.9 |
 | 8 | your_nickname_here | evaluated | f10b9b | 246.4 |
 |  | dhanushikka | failed | 14b1fd |  |
+|  | landrum | failed | b88426 |  |
 |  | Shengwei | failed | aba515 |  |
