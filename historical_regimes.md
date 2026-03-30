@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `March 30, 2026 at 06:58:11 PM ET`
+Last updated: `March 30, 2026 at 07:13:16 PM ET`
 
 ## R1 (tok/s)
 
@@ -28,7 +28,7 @@ Last updated: `March 30, 2026 at 06:58:11 PM ET`
 | 6 | TA | submission.py | 324cb8 | 295.5 |
 | 7 | gravlax | develop.py | b1229d | 273.0 |
 | 8 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 9 | happyface | develop.py | f778c2 | 170.3 |
+| 9 | happyface | develop.py | ea99f9 | 170.5 |
 
 ## R3 (ms)
 
@@ -41,7 +41,7 @@ Last updated: `March 30, 2026 at 06:58:11 PM ET`
 | 5 | chyyy | develop.py | aefcb7 | 54.6 |
 | 6 | TA | submission.py | 324cb8 | 83.2 |
 | 7 | lipphi | develop.py | d58cae | 104.4 |
-| 8 | happyface | develop.py | f778c2 | 307.1 |
+| 8 | happyface | develop.py | ea99f9 | 307.1 |
 | 9 | your_nickname_here | submission.py | 59e245 | 307.4 |
 
 ## R4 (ms)
@@ -55,5 +55,5 @@ Last updated: `March 30, 2026 at 06:58:11 PM ET`
 | 5 | chyyy | develop.py | aefcb7 | 105.8 |
 | 6 | TA | submission.py | 324cb8 | 131.7 |
 | 7 | lipphi | submission.py | a3a71b | 150.9 |
-| 8 | happyface | develop.py | f778c2 | 245.6 |
+| 8 | happyface | develop.py | ea99f9 | 245.5 |
 | 9 | your_nickname_here | submission.py | 59e245 | 245.7 |
