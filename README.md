@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `March 29, 2026 at 11:05:53 PM ET`
+Last updated: `March 29, 2026 at 11:20:33 PM ET`
 
 ## Pages
 
