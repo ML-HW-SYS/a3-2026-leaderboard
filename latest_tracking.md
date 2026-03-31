@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `March 31, 2026 at 01:26:41 PM ET`
+Last updated: `March 31, 2026 at 01:41:32 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Mar 31 01:33 PM ET | fishyfins | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | develop.py | b8a4a4 | 13.1/0.0/13.1 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Mar 31 01:18 PM ET | fishyfins | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | submission.py | b8a4a4 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Mar 30 11:32 PM ET | chyyy | evaluated |  | develop.py | 56b321 | 22.9/2.8/25.7 | 556.5 | 318.6 | 26.1 | 48.8 |
 | Mar 30 11:17 PM ET | chyyy | evaluated |  | submission.py | 56b321 | 58.9/2.8/61.7 | 557.7 | 319.5 | 26.1 | 48.9 |
