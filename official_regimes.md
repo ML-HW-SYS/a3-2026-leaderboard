@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `March 30, 2026 at 11:08:41 PM ET`
+Last updated: `March 30, 2026 at 11:24:25 PM ET`
 
 ## R1 (tok/s)
 
@@ -8,7 +8,7 @@ Last updated: `March 30, 2026 at 11:08:41 PM ET`
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 591.4 |
 | 2 | your_nickname_here | evaluated | f10b9b | 557.8 |
-| 3 | chyyy | evaluated | e845c2 | 554.7 |
+| 3 | chyyy | evaluated | 56b321 | 557.7 |
 | 4 | TA | evaluated | 324cb8 | 553.3 |
 | 5 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
 | 6 | lipphi | evaluated | a3a71b | 534.8 |
@@ -26,9 +26,9 @@ Last updated: `March 30, 2026 at 11:08:41 PM ET`
 | 1 | - - | evaluated | adc0f3 | 386.9 |
 | 2 | gm | evaluated | c64be1 | 335.4 |
 | 3 | nickname55555555 | evaluated | 99ddc2 | 334.1 |
-| 4 | lipphi | evaluated | a3a71b | 306.7 |
-| 5 | TA | evaluated | 324cb8 | 295.5 |
-| 6 | chyyy | evaluated | e845c2 | 295.4 |
+| 4 | chyyy | evaluated | 56b321 | 319.5 |
+| 5 | lipphi | evaluated | a3a71b | 306.7 |
+| 6 | TA | evaluated | 324cb8 | 295.5 |
 | 7 | gravlax | evaluated | b1229d | 272.5 |
 | 8 | your_nickname_here | evaluated | f10b9b | 173.1 |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -41,9 +41,9 @@ Last updated: `March 30, 2026 at 11:08:41 PM ET`
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 21.8 |
-| 2 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
-| 3 | gravlax | evaluated | b1229d | 35.0 |
-| 4 | chyyy | evaluated | e845c2 | 56.9 |
+| 2 | chyyy | evaluated | 56b321 | 26.1 |
+| 3 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
+| 4 | gravlax | evaluated | b1229d | 35.0 |
 | 5 | gm | evaluated | c64be1 | 62.2 |
 | 6 | TA | evaluated | 324cb8 | 83.2 |
 | 7 | lipphi | evaluated | a3a71b | 104.4 |
@@ -58,9 +58,9 @@ Last updated: `March 30, 2026 at 11:08:41 PM ET`
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 44.5 |
-| 2 | nickname55555555 | evaluated | 99ddc2 | 53.0 |
-| 3 | gravlax | evaluated | b1229d | 59.7 |
-| 4 | chyyy | evaluated | e845c2 | 109.3 |
+| 2 | chyyy | evaluated | 56b321 | 48.9 |
+| 3 | nickname55555555 | evaluated | 99ddc2 | 53.0 |
+| 4 | gravlax | evaluated | b1229d | 59.7 |
 | 5 | gm | evaluated | c64be1 | 121.2 |
 | 6 | TA | evaluated | 324cb8 | 131.7 |
 | 7 | lipphi | evaluated | a3a71b | 150.9 |
