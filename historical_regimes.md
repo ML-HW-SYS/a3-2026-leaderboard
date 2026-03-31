@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `March 31, 2026 at 04:55:45 PM ET`
+Last updated: `March 31, 2026 at 05:11:28 PM ET`
 
 ## R1 (tok/s)
 
@@ -39,7 +39,7 @@ Last updated: `March 31, 2026 at 04:55:45 PM ET`
 | 3 | gm | develop.py | a71638 | 28.4 |
 | 4 | nickname55555555 | submission.py | 05c6ab | 31.9 |
 | 5 | gravlax | develop.py | b1229d | 35.0 |
-| 6 | happyface | develop.py | 07140f | 69.1 |
+| 6 | happyface | develop.py | 7b3759 | 65.2 |
 | 7 | TA | submission.py | 324cb8 | 83.2 |
 | 8 | lipphi | develop.py | d58cae | 104.4 |
 | 9 | your_nickname_here | submission.py | 59e245 | 307.4 |
@@ -53,7 +53,7 @@ Last updated: `March 31, 2026 at 04:55:45 PM ET`
 | 3 | nickname55555555 | submission.py | 05c6ab | 52.5 |
 | 4 | gm | develop.py | a71638 | 52.7 |
 | 5 | gravlax | submission.py | b1229d | 59.7 |
-| 6 | happyface | develop.py | 07140f | 119.1 |
+| 6 | happyface | develop.py | 7b3759 | 110.4 |
 | 7 | TA | submission.py | 324cb8 | 131.7 |
 | 8 | lipphi | submission.py | a3a71b | 150.9 |
 | 9 | your_nickname_here | submission.py | 59e245 | 245.7 |
