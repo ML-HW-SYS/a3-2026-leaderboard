@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `March 31, 2026 at 04:40:20 PM ET`
+Last updated: `March 31, 2026 at 04:55:45 PM ET`
 
 ## R1 (tok/s)
 
@@ -13,10 +13,10 @@ Last updated: `March 31, 2026 at 04:40:20 PM ET`
 | 5 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
 | 6 | lipphi | evaluated | a3a71b | 534.8 |
 | 7 | gravlax | evaluated | b1229d | 532.3 |
-| 8 | gm | evaluated | c64be1 | 524.0 |
+| 8 | happyface | evaluated | 6c702a | 528.8 |
+| 9 | gm | evaluated | c64be1 | 524.0 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
-|  | happyface | failed | 3fa1c3 |  |
 |  | landrum | failed | b88426 |  |
 |  | Shengwei | failed | aba515 |  |
 
@@ -32,9 +32,9 @@ Last updated: `March 31, 2026 at 04:40:20 PM ET`
 | 6 | TA | evaluated | 324cb8 | 295.5 |
 | 7 | gravlax | evaluated | b1229d | 272.5 |
 | 8 | your_nickname_here | evaluated | f10b9b | 173.1 |
+| 9 | happyface | evaluated | 6c702a | 169.9 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
-|  | happyface | failed | 3fa1c3 |  |
 |  | landrum | failed | b88426 |  |
 |  | Shengwei | failed | aba515 |  |
 
@@ -49,10 +49,10 @@ Last updated: `March 31, 2026 at 04:40:20 PM ET`
 | 5 | gm | evaluated | c64be1 | 62.2 |
 | 6 | TA | evaluated | 324cb8 | 83.2 |
 | 7 | lipphi | evaluated | a3a71b | 104.4 |
-| 8 | your_nickname_here | evaluated | f10b9b | 308.1 |
+| 8 | happyface | evaluated | 6c702a | 306.4 |
+| 9 | your_nickname_here | evaluated | f10b9b | 308.1 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
-|  | happyface | failed | 3fa1c3 |  |
 |  | landrum | failed | b88426 |  |
 |  | Shengwei | failed | aba515 |  |
 
@@ -67,9 +67,9 @@ Last updated: `March 31, 2026 at 04:40:20 PM ET`
 | 5 | gm | evaluated | c64be1 | 121.2 |
 | 6 | TA | evaluated | 324cb8 | 131.7 |
 | 7 | lipphi | evaluated | a3a71b | 150.9 |
-| 8 | your_nickname_here | evaluated | f10b9b | 246.4 |
+| 8 | happyface | evaluated | 6c702a | 241.1 |
+| 9 | your_nickname_here | evaluated | f10b9b | 246.4 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
-|  | happyface | failed | 3fa1c3 |  |
 |  | landrum | failed | b88426 |  |
 |  | Shengwei | failed | aba515 |  |
