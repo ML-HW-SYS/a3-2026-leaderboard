@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `March 31, 2026 at 07:53:01 PM ET`
+Last updated: `March 31, 2026 at 08:08:27 PM ET`
 
 ## R1 (tok/s)
 
@@ -8,7 +8,7 @@ Last updated: `March 31, 2026 at 07:53:01 PM ET`
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 591.4 |
 | 2 | your_nickname_here | evaluated | f10b9b | 557.8 |
-| 3 | chyyy | evaluated | 56b321 | 557.7 |
+| 3 | chyyy | evaluated | 219967 | 555.2 |
 | 4 | TA | evaluated | 324cb8 | 553.3 |
 | 5 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
 | 6 | lipphi | evaluated | a3a71b | 534.8 |
@@ -27,7 +27,7 @@ Last updated: `March 31, 2026 at 07:53:01 PM ET`
 | 1 | - - | evaluated | adc0f3 | 386.9 |
 | 2 | gm | evaluated | c64be1 | 335.4 |
 | 3 | nickname55555555 | evaluated | 99ddc2 | 334.1 |
-| 4 | chyyy | evaluated | 56b321 | 319.5 |
+| 4 | chyyy | evaluated | 219967 | 318.7 |
 | 5 | lipphi | evaluated | a3a71b | 306.7 |
 | 6 | TA | evaluated | 324cb8 | 295.5 |
 | 7 | gravlax | evaluated | b1229d | 272.5 |
@@ -43,7 +43,7 @@ Last updated: `March 31, 2026 at 07:53:01 PM ET`
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 21.8 |
-| 2 | chyyy | evaluated | 56b321 | 26.1 |
+| 2 | chyyy | evaluated | 219967 | 24.8 |
 | 3 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
 | 4 | gravlax | evaluated | b1229d | 35.0 |
 | 5 | gm | evaluated | c64be1 | 62.2 |
@@ -61,7 +61,7 @@ Last updated: `March 31, 2026 at 07:53:01 PM ET`
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 44.5 |
-| 2 | chyyy | evaluated | 56b321 | 48.9 |
+| 2 | chyyy | evaluated | 219967 | 47.6 |
 | 3 | nickname55555555 | evaluated | 99ddc2 | 53.0 |
 | 4 | gravlax | evaluated | b1229d | 59.7 |
 | 5 | gm | evaluated | c64be1 | 121.2 |
