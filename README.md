@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 01, 2026 at 05:26:12 PM ET`
+Last updated: `April 01, 2026 at 05:40:52 PM ET`
 
 ## Pages
 
@@ -23,6 +23,7 @@ Last updated: `April 01, 2026 at 05:26:12 PM ET`
 | 9 | happyface | evaluated | 6c702a | 39.6/6.2/45.8 | 0.533 | 528.8 | 169.9 | 306.4 | 241.1 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | fishyfins | failed | b8a4a4 | 0.0/0.0/0.0 |  |  |  |  |  |
+|  | ishan-pat | failed | acf3d7 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | landrum | failed | b88426 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | Shengwei | failed | aba515 |  |  |  |  |  |  |
 

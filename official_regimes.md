@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 01, 2026 at 05:26:12 PM ET`
+Last updated: `April 01, 2026 at 05:40:52 PM ET`
 
 ## R1 (tok/s)
 
@@ -17,6 +17,7 @@ Last updated: `April 01, 2026 at 05:26:12 PM ET`
 | 9 | gm | evaluated | 0c2fc9 | 518.1 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
+|  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | Shengwei | failed | aba515 |  |
 
@@ -35,6 +36,7 @@ Last updated: `April 01, 2026 at 05:26:12 PM ET`
 | 9 | happyface | evaluated | 6c702a | 169.9 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
+|  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | Shengwei | failed | aba515 |  |
 
@@ -53,6 +55,7 @@ Last updated: `April 01, 2026 at 05:26:12 PM ET`
 | 9 | your_nickname_here | evaluated | f10b9b | 308.1 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
+|  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | Shengwei | failed | aba515 |  |
 
@@ -71,5 +74,6 @@ Last updated: `April 01, 2026 at 05:26:12 PM ET`
 | 9 | your_nickname_here | evaluated | f10b9b | 246.4 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
+|  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | Shengwei | failed | aba515 |  |
