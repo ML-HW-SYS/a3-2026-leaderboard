@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 02, 2026 at 11:06:04 AM ET`
+Last updated: `April 02, 2026 at 11:22:08 AM ET`
 
 ## R1 (tok/s)
 
@@ -11,11 +11,11 @@ Last updated: `April 02, 2026 at 11:06:04 AM ET`
 | 3 | chyyy | evaluated | 34cc06 | 555.7 |
 | 4 | TA | evaluated | 324cb8 | 553.3 |
 | 5 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
-| 6 | andrasferenczy | evaluated | 6204c7 | 540.6 |
-| 7 | lipphi | evaluated | a3a71b | 534.8 |
-| 8 | gravlax | evaluated | b1229d | 532.3 |
-| 9 | happyface | evaluated | 6c702a | 528.8 |
-| 10 | gm | evaluated | 0c2fc9 | 518.1 |
+| 6 | lipphi | evaluated | a3a71b | 534.8 |
+| 7 | gravlax | evaluated | b1229d | 532.3 |
+| 8 | happyface | evaluated | 6c702a | 528.8 |
+| 9 | gm | evaluated | 0c2fc9 | 518.1 |
+|  | andrasferenczy | failed | 3dc5a2 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -33,9 +33,9 @@ Last updated: `April 02, 2026 at 11:06:04 AM ET`
 | 5 | lipphi | evaluated | a3a71b | 306.7 |
 | 6 | TA | evaluated | 324cb8 | 295.5 |
 | 7 | gravlax | evaluated | b1229d | 272.5 |
-| 8 | andrasferenczy | evaluated | 6204c7 | 176.4 |
-| 9 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 10 | happyface | evaluated | 6c702a | 169.9 |
+| 8 | your_nickname_here | evaluated | f10b9b | 173.1 |
+| 9 | happyface | evaluated | 6c702a | 169.9 |
+|  | andrasferenczy | failed | 3dc5a2 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -53,9 +53,9 @@ Last updated: `April 02, 2026 at 11:06:04 AM ET`
 | 5 | gravlax | evaluated | b1229d | 35.0 |
 | 6 | TA | evaluated | 324cb8 | 83.2 |
 | 7 | lipphi | evaluated | a3a71b | 104.4 |
-| 8 | andrasferenczy | evaluated | 6204c7 | 280.0 |
-| 9 | happyface | evaluated | 6c702a | 306.4 |
-| 10 | your_nickname_here | evaluated | f10b9b | 308.1 |
+| 8 | happyface | evaluated | 6c702a | 306.4 |
+| 9 | your_nickname_here | evaluated | f10b9b | 308.1 |
+|  | andrasferenczy | failed | 3dc5a2 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -73,9 +73,9 @@ Last updated: `April 02, 2026 at 11:06:04 AM ET`
 | 5 | gravlax | evaluated | b1229d | 59.7 |
 | 6 | TA | evaluated | 324cb8 | 131.7 |
 | 7 | lipphi | evaluated | a3a71b | 150.9 |
-| 8 | andrasferenczy | evaluated | 6204c7 | 188.1 |
-| 9 | happyface | evaluated | 6c702a | 241.1 |
-| 10 | your_nickname_here | evaluated | f10b9b | 246.4 |
+| 8 | happyface | evaluated | 6c702a | 241.1 |
+| 9 | your_nickname_here | evaluated | f10b9b | 246.4 |
+|  | andrasferenczy | failed | 3dc5a2 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
 |  | ishan-pat | failed | acf3d7 |  |
