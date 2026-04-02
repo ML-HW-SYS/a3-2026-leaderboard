@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 02, 2026 at 11:22:08 AM ET`
+Last updated: `April 02, 2026 at 11:37:55 AM ET`
 
 ## Pages
 
@@ -19,8 +19,9 @@ Last updated: `April 02, 2026 at 11:22:08 AM ET`
 | 5 | gravlax | evaluated | b1229d | 19.9/3.2/23.1 | 1.464 | 532.3 | 272.5 | 35.0 | 59.7 |
 | 6 | TA | evaluated | 324cb8 | 19.8/3.5/23.3 | 0.997 | 553.3 | 295.5 | 83.2 | 131.7 |
 | 7 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
-| 8 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
-| 9 | happyface | evaluated | 6c702a | 39.6/6.2/45.8 | 0.533 | 528.8 | 169.9 | 306.4 | 241.1 |
+| 8 | tuo | evaluated | 4735b8 | 60.3/5.0/65.4 | 0.686 | 460.6 | 197.3 | 168.0 | 161.7 |
+| 9 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
+| 10 | happyface | evaluated | 6c702a | 39.6/6.2/45.8 | 0.533 | 528.8 | 169.9 | 306.4 | 241.1 |
 |  | andrasferenczy | failed | 3dc5a2 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | fishyfins | failed | b8a4a4 | 0.0/0.0/0.0 |  |  |  |  |  |

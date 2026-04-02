@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 02, 2026 at 11:22:08 AM ET`
+Last updated: `April 02, 2026 at 11:37:55 AM ET`
 
 ## R1 (tok/s)
 
@@ -16,6 +16,7 @@ Last updated: `April 02, 2026 at 11:22:08 AM ET`
 | 8 | andrasferenczy | submission.py | 6204c7 | 540.6 |
 | 9 | lipphi | submission.py | a3a71b | 534.8 |
 | 10 | gravlax | develop.py | 1f23d9 | 534.6 |
+| 11 | tuo | submission.py | 4735b8 | 460.6 |
 
 ## R2 (tok/s)
 
@@ -29,8 +30,9 @@ Last updated: `April 02, 2026 at 11:22:08 AM ET`
 | 6 | TA | submission.py | 324cb8 | 295.5 |
 | 7 | gravlax | develop.py | b1229d | 273.0 |
 | 8 | happyface | develop.py | 7255fc | 258.8 |
-| 9 | andrasferenczy | submission.py | 6204c7 | 176.4 |
-| 10 | your_nickname_here | submission.py | 59e245 | 173.4 |
+| 9 | tuo | submission.py | 4735b8 | 197.3 |
+| 10 | andrasferenczy | submission.py | 6204c7 | 176.4 |
+| 11 | your_nickname_here | submission.py | 59e245 | 173.4 |
 
 ## R3 (ms)
 
@@ -44,8 +46,9 @@ Last updated: `April 02, 2026 at 11:22:08 AM ET`
 | 6 | happyface | develop.py | 7b3759 | 65.2 |
 | 7 | TA | submission.py | 324cb8 | 83.2 |
 | 8 | lipphi | develop.py | d58cae | 104.4 |
-| 9 | andrasferenczy | submission.py | 6204c7 | 280.0 |
-| 10 | your_nickname_here | submission.py | 59e245 | 307.4 |
+| 9 | tuo | submission.py | 4735b8 | 168.0 |
+| 10 | andrasferenczy | submission.py | 6204c7 | 280.0 |
+| 11 | your_nickname_here | submission.py | 59e245 | 307.4 |
 
 ## R4 (ms)
 
@@ -59,5 +62,6 @@ Last updated: `April 02, 2026 at 11:22:08 AM ET`
 | 6 | happyface | develop.py | 7b3759 | 110.4 |
 | 7 | TA | submission.py | 324cb8 | 131.7 |
 | 8 | lipphi | submission.py | a3a71b | 150.9 |
-| 9 | andrasferenczy | submission.py | 6204c7 | 188.1 |
-| 10 | your_nickname_here | submission.py | 59e245 | 245.7 |
+| 9 | tuo | submission.py | 4735b8 | 161.7 |
+| 10 | andrasferenczy | submission.py | 6204c7 | 188.1 |
+| 11 | your_nickname_here | submission.py | 59e245 | 245.7 |

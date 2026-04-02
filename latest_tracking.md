@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 02, 2026 at 11:22:08 AM ET`
+Last updated: `April 02, 2026 at 11:37:55 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 02 11:31 AM ET | tuo | evaluated |  | submission.py | 4735b8 | 60.3/5.0/65.4 | 460.6 | 197.3 | 168.0 | 161.7 |
 | Apr 02 11:15 AM ET | andrasferenczy | failed_correctness | Running setup... Running evaluation... Loading artifacts from: /home/syphon/mlhwsys/a3-2026/artifacts/public Loading ... | submission.py | 3dc5a2 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 02 10:44 AM ET | andrasferenczy | evaluated |  | submission.py | 6204c7 | 37.9/5.7/43.6 | 540.6 | 176.4 | 280.0 | 188.1 |
 | Apr 02 10:29 AM ET | andrasferenczy | evaluated |  | develop.py | 23c286 | 19.6/6.2/25.8 | 524.2 | 169.0 | 309.6 | 247.0 |
