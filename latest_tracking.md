@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 02, 2026 at 04:07:17 PM ET`
+Last updated: `April 02, 2026 at 04:22:37 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 02 04:16 PM ET | andrasferenczy | evaluated |  | submission.py | 9c7f53 | 37.3/3.2/40.5 | 539.1 | 277.2 | 31.9 | 63.7 |
 | Apr 02 04:06 PM ET | 1_Core_2GHz_Colab_CPU | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | develop.py | 5570ff | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 02 04:01 PM ET | gm | evaluated |  | develop.py | 796f3b | 50.0/3.2/53.2 | 517.8 | 326.9 | 57.3 | 108.8 |
 | Apr 02 03:50 PM ET | 1_Core_2GHz_Colab_CPU | evaluated |  | submission.py | 5570ff | 35.3/4.9/40.1 | 557.3 | 210.6 | 188.6 | 188.2 |

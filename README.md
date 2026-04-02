@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 02, 2026 at 04:07:17 PM ET`
+Last updated: `April 02, 2026 at 04:22:37 PM ET`
 
 ## Pages
 
@@ -16,15 +16,15 @@ Last updated: `April 02, 2026 at 04:07:17 PM ET`
 | 2 | chyyy | evaluated | 34cc06 | 33.5/2.4/35.9 | 1.918 | 555.7 | 433.8 | 24.8 | 47.6 |
 | 3 | gm | evaluated | 0c2fc9 | 50.7/2.7/53.5 | 1.746 | 518.1 | 355.8 | 26.9 | 48.9 |
 | 4 | nickname55555555 | evaluated | 99ddc2 | 27.8/2.8/30.6 | 1.633 | 552.2 | 334.1 | 32.4 | 53.0 |
-| 5 | gravlax | evaluated | b1229d | 19.9/3.2/23.1 | 1.464 | 532.3 | 272.5 | 35.0 | 59.7 |
-| 6 | TA | evaluated | 324cb8 | 19.8/3.5/23.3 | 0.997 | 553.3 | 295.5 | 83.2 | 131.7 |
-| 7 | happyface | evaluated | ca7f90 | 36.1/3.9/40.1 | 0.927 | 541.5 | 244.1 | 94.2 | 126.1 |
-| 8 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
-| 9 | tuo | evaluated | 4735b8 | 60.3/5.0/65.4 | 0.686 | 460.6 | 197.3 | 168.0 | 161.7 |
-| 10 | 1_Core_2GHz_Colab_CPU | evaluated | 5570ff | 35.3/4.9/40.1 | 0.684 | 557.3 | 210.6 | 188.6 | 188.2 |
-| 11 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
+| 5 | andrasferenczy | evaluated | 9c7f53 | 37.3/3.2/40.5 | 1.486 | 539.1 | 277.2 | 31.9 | 63.7 |
+| 6 | gravlax | evaluated | b1229d | 19.9/3.2/23.1 | 1.464 | 532.3 | 272.5 | 35.0 | 59.7 |
+| 7 | TA | evaluated | 324cb8 | 19.8/3.5/23.3 | 0.997 | 553.3 | 295.5 | 83.2 | 131.7 |
+| 8 | happyface | evaluated | ca7f90 | 36.1/3.9/40.1 | 0.927 | 541.5 | 244.1 | 94.2 | 126.1 |
+| 9 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
+| 10 | tuo | evaluated | 4735b8 | 60.3/5.0/65.4 | 0.686 | 460.6 | 197.3 | 168.0 | 161.7 |
+| 11 | 1_Core_2GHz_Colab_CPU | evaluated | 5570ff | 35.3/4.9/40.1 | 0.684 | 557.3 | 210.6 | 188.6 | 188.2 |
+| 12 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
 |  | abarat007 | failed | 9e63f6 |  |  |  |  |  |  |
-|  | andrasferenczy | failed | 43dff4 | 19.4/4.0/23.4 |  |  |  |  |  |
 |  | ashaikh23 | failed | a5012f |  |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | fishyfins | failed | b8a4a4 | 0.0/0.0/0.0 |  |  |  |  |  |
