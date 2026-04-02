@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 02, 2026 at 06:36:21 PM ET`
+Last updated: `April 02, 2026 at 06:52:17 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 02 06:51 PM ET | 1_Core_2GHz_Colab_CPU | evaluated |  | submission.py | bd9ae0 | 34.9/4.4/39.3 | 558.0 | 221.1 | 160.0 | 131.1 |
+| Apr 02 06:45 PM ET | gm | evaluated |  | develop.py | cd6e62 | 20.9/3.2/24.0 | 536.4 | 275.0 | 30.7 | 58.3 |
+| Apr 02 06:43 PM ET | fishyfins | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | develop.py | 3da559 | 15.4/0.0/15.4 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 02 06:34 PM ET | happyface | evaluated |  | develop.py | 0aca52 | 18.6/3.4/22.0 | 539.7 | 259.4 | 63.4 | 65.7 |
 | Apr 02 06:28 PM ET | fishyfins | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | develop.py | cbbb11 | 13.1/0.0/13.1 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 02 05:44 PM ET | tuo | failed_security | Security policy check failed for develop.py: - prohibited import: importlib.util - prohibited import: pathlib - prohi... | develop.py | 4e7068 |  |  |  |  |  |

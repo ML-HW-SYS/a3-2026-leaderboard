@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 02, 2026 at 06:36:21 PM ET`
+Last updated: `April 02, 2026 at 06:52:17 PM ET`
 
 ## Pages
 
@@ -21,7 +21,7 @@ Last updated: `April 02, 2026 at 06:36:21 PM ET`
 | 7 | TA | evaluated | 324cb8 | 19.8/3.5/23.3 | 0.997 | 553.3 | 295.5 | 83.2 | 131.7 |
 | 8 | happyface | evaluated | ca7f90 | 36.1/3.9/40.1 | 0.927 | 541.5 | 244.1 | 94.2 | 126.1 |
 | 9 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
-| 10 | 1_Core_2GHz_Colab_CPU | evaluated | 5570ff | 35.3/4.9/40.1 | 0.684 | 557.3 | 210.6 | 188.6 | 188.2 |
+| 10 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 34.9/4.4/39.3 | 0.790 | 558.0 | 221.1 | 160.0 | 131.1 |
 | 11 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
 | 12 | tuo | evaluated | 4e7068 | 26.0/7.1/33.2 | 0.465 | 359.4 | 145.7 | 301.5 | 246.7 |
 |  | abarat007 | failed | 9e63f6 |  |  |  |  |  |  |

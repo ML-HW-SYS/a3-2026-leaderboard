@@ -1,14 +1,14 @@
 # Official Regimes
 
-Last updated: `April 02, 2026 at 06:36:21 PM ET`
+Last updated: `April 02, 2026 at 06:52:17 PM ET`
 
 ## R1 (tok/s)
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 591.4 |
-| 2 | your_nickname_here | evaluated | f10b9b | 557.8 |
-| 3 | 1_Core_2GHz_Colab_CPU | evaluated | 5570ff | 557.3 |
+| 2 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 558.0 |
+| 3 | your_nickname_here | evaluated | f10b9b | 557.8 |
 | 4 | chyyy | evaluated | 34cc06 | 555.7 |
 | 5 | TA | evaluated | 324cb8 | 553.3 |
 | 6 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
@@ -41,7 +41,7 @@ Last updated: `April 02, 2026 at 06:36:21 PM ET`
 | 7 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
 | 8 | gravlax | evaluated | b1229d | 272.5 |
 | 9 | happyface | evaluated | ca7f90 | 244.1 |
-| 10 | 1_Core_2GHz_Colab_CPU | evaluated | 5570ff | 210.6 |
+| 10 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 221.1 |
 | 11 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 12 | tuo | evaluated | 4e7068 | 145.7 |
 |  | abarat007 | failed | 9e63f6 |  |
@@ -67,7 +67,7 @@ Last updated: `April 02, 2026 at 06:36:21 PM ET`
 | 7 | TA | evaluated | 324cb8 | 83.2 |
 | 8 | happyface | evaluated | ca7f90 | 94.2 |
 | 9 | lipphi | evaluated | a3a71b | 104.4 |
-| 10 | 1_Core_2GHz_Colab_CPU | evaluated | 5570ff | 188.6 |
+| 10 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 160.0 |
 | 11 | tuo | evaluated | 4e7068 | 301.5 |
 | 12 | your_nickname_here | evaluated | f10b9b | 308.1 |
 |  | abarat007 | failed | 9e63f6 |  |
@@ -91,9 +91,9 @@ Last updated: `April 02, 2026 at 06:36:21 PM ET`
 | 5 | gravlax | evaluated | b1229d | 59.7 |
 | 6 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
 | 7 | happyface | evaluated | ca7f90 | 126.1 |
-| 8 | TA | evaluated | 324cb8 | 131.7 |
-| 9 | lipphi | evaluated | a3a71b | 150.9 |
-| 10 | 1_Core_2GHz_Colab_CPU | evaluated | 5570ff | 188.2 |
+| 8 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 131.1 |
+| 9 | TA | evaluated | 324cb8 | 131.7 |
+| 10 | lipphi | evaluated | a3a71b | 150.9 |
 | 11 | your_nickname_here | evaluated | f10b9b | 246.4 |
 | 12 | tuo | evaluated | 4e7068 | 246.7 |
 |  | abarat007 | failed | 9e63f6 |  |
