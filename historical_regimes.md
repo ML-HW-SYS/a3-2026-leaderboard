@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 02, 2026 at 03:35:36 PM ET`
+Last updated: `April 02, 2026 at 03:51:44 PM ET`
 
 ## R1 (tok/s)
 
@@ -9,15 +9,16 @@ Last updated: `April 02, 2026 at 03:35:36 PM ET`
 | 1 | - - | submission.py | adc0f3 | 591.4 |
 | 2 | your_nickname_here | submission.py | 59e245 | 559.6 |
 | 3 | chyyy | submission.py | 56b321 | 557.7 |
-| 4 | nickname55555555 | develop.py | 7034af | 554.6 |
-| 5 | TA | submission.py | 324cb8 | 553.3 |
-| 6 | gm | develop.py | a57e9f | 548.9 |
-| 7 | happyface | develop.py | 7255fc | 544.6 |
-| 8 | andrasferenczy | submission.py | 6204c7 | 540.6 |
-| 9 | lipphi | submission.py | a3a71b | 534.8 |
-| 10 | gravlax | develop.py | 1f23d9 | 534.6 |
-| 11 | Shengwei | develop.py | fa264e | 524.8 |
-| 12 | tuo | submission.py | 4735b8 | 460.6 |
+| 4 | 1_Core_2GHz_Colab_CPU | submission.py | 5570ff | 557.3 |
+| 5 | nickname55555555 | develop.py | 7034af | 554.6 |
+| 6 | TA | submission.py | 324cb8 | 553.3 |
+| 7 | gm | develop.py | a57e9f | 548.9 |
+| 8 | happyface | develop.py | 7255fc | 544.6 |
+| 9 | andrasferenczy | submission.py | 6204c7 | 540.6 |
+| 10 | lipphi | submission.py | a3a71b | 534.8 |
+| 11 | gravlax | develop.py | 1f23d9 | 534.6 |
+| 12 | Shengwei | develop.py | fa264e | 524.8 |
+| 13 | tuo | submission.py | 4735b8 | 460.6 |
 
 ## R2 (tok/s)
 
@@ -31,10 +32,11 @@ Last updated: `April 02, 2026 at 03:35:36 PM ET`
 | 6 | TA | submission.py | 324cb8 | 295.5 |
 | 7 | gravlax | develop.py | b1229d | 273.0 |
 | 8 | happyface | develop.py | 7255fc | 258.8 |
-| 9 | tuo | submission.py | 4735b8 | 197.3 |
-| 10 | andrasferenczy | submission.py | 6204c7 | 176.4 |
-| 11 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 12 | Shengwei | develop.py | fa264e | 169.8 |
+| 9 | 1_Core_2GHz_Colab_CPU | submission.py | 5570ff | 210.6 |
+| 10 | tuo | submission.py | 4735b8 | 197.3 |
+| 11 | andrasferenczy | submission.py | 6204c7 | 176.4 |
+| 12 | your_nickname_here | submission.py | 59e245 | 173.4 |
+| 13 | Shengwei | develop.py | fa264e | 169.8 |
 
 ## R3 (ms)
 
@@ -49,9 +51,10 @@ Last updated: `April 02, 2026 at 03:35:36 PM ET`
 | 7 | TA | submission.py | 324cb8 | 83.2 |
 | 8 | lipphi | develop.py | d58cae | 104.4 |
 | 9 | tuo | submission.py | 4735b8 | 168.0 |
-| 10 | andrasferenczy | submission.py | 6204c7 | 280.0 |
-| 11 | your_nickname_here | submission.py | 59e245 | 307.4 |
-| 12 | Shengwei | develop.py | fa264e | 307.8 |
+| 10 | 1_Core_2GHz_Colab_CPU | submission.py | 5570ff | 188.6 |
+| 11 | andrasferenczy | submission.py | 6204c7 | 280.0 |
+| 12 | your_nickname_here | submission.py | 59e245 | 307.4 |
+| 13 | Shengwei | develop.py | fa264e | 307.8 |
 
 ## R4 (ms)
 
@@ -67,5 +70,6 @@ Last updated: `April 02, 2026 at 03:35:36 PM ET`
 | 8 | lipphi | submission.py | a3a71b | 150.9 |
 | 9 | tuo | submission.py | 4735b8 | 161.7 |
 | 10 | andrasferenczy | submission.py | 6204c7 | 188.1 |
-| 11 | your_nickname_here | submission.py | 59e245 | 245.7 |
-| 12 | Shengwei | develop.py | fa264e | 246.0 |
+| 11 | 1_Core_2GHz_Colab_CPU | submission.py | 5570ff | 188.2 |
+| 12 | your_nickname_here | submission.py | 59e245 | 245.7 |
+| 13 | Shengwei | develop.py | fa264e | 246.0 |

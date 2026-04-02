@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 02, 2026 at 03:35:36 PM ET`
+Last updated: `April 02, 2026 at 03:51:44 PM ET`
 
 ## R1 (tok/s)
 
@@ -8,14 +8,15 @@ Last updated: `April 02, 2026 at 03:35:36 PM ET`
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 591.4 |
 | 2 | your_nickname_here | evaluated | f10b9b | 557.8 |
-| 3 | chyyy | evaluated | 34cc06 | 555.7 |
-| 4 | TA | evaluated | 324cb8 | 553.3 |
-| 5 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
-| 6 | happyface | evaluated | ca7f90 | 541.5 |
-| 7 | lipphi | evaluated | a3a71b | 534.8 |
-| 8 | gravlax | evaluated | b1229d | 532.3 |
-| 9 | gm | evaluated | 0c2fc9 | 518.1 |
-| 10 | tuo | evaluated | 4735b8 | 460.6 |
+| 3 | 1_Core_2GHz_Colab_CPU | evaluated | 5570ff | 557.3 |
+| 4 | chyyy | evaluated | 34cc06 | 555.7 |
+| 5 | TA | evaluated | 324cb8 | 553.3 |
+| 6 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
+| 7 | happyface | evaluated | ca7f90 | 541.5 |
+| 8 | lipphi | evaluated | a3a71b | 534.8 |
+| 9 | gravlax | evaluated | b1229d | 532.3 |
+| 10 | gm | evaluated | 0c2fc9 | 518.1 |
+| 11 | tuo | evaluated | 4735b8 | 460.6 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | andrasferenczy | failed | 43dff4 |  |
 |  | ashaikh23 | failed | a5012f |  |
@@ -37,8 +38,9 @@ Last updated: `April 02, 2026 at 03:35:36 PM ET`
 | 6 | TA | evaluated | 324cb8 | 295.5 |
 | 7 | gravlax | evaluated | b1229d | 272.5 |
 | 8 | happyface | evaluated | ca7f90 | 244.1 |
-| 9 | tuo | evaluated | 4735b8 | 197.3 |
-| 10 | your_nickname_here | evaluated | f10b9b | 173.1 |
+| 9 | 1_Core_2GHz_Colab_CPU | evaluated | 5570ff | 210.6 |
+| 10 | tuo | evaluated | 4735b8 | 197.3 |
+| 11 | your_nickname_here | evaluated | f10b9b | 173.1 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | andrasferenczy | failed | 43dff4 |  |
 |  | ashaikh23 | failed | a5012f |  |
@@ -61,7 +63,8 @@ Last updated: `April 02, 2026 at 03:35:36 PM ET`
 | 7 | happyface | evaluated | ca7f90 | 94.2 |
 | 8 | lipphi | evaluated | a3a71b | 104.4 |
 | 9 | tuo | evaluated | 4735b8 | 168.0 |
-| 10 | your_nickname_here | evaluated | f10b9b | 308.1 |
+| 10 | 1_Core_2GHz_Colab_CPU | evaluated | 5570ff | 188.6 |
+| 11 | your_nickname_here | evaluated | f10b9b | 308.1 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | andrasferenczy | failed | 43dff4 |  |
 |  | ashaikh23 | failed | a5012f |  |
@@ -84,7 +87,8 @@ Last updated: `April 02, 2026 at 03:35:36 PM ET`
 | 7 | TA | evaluated | 324cb8 | 131.7 |
 | 8 | lipphi | evaluated | a3a71b | 150.9 |
 | 9 | tuo | evaluated | 4735b8 | 161.7 |
-| 10 | your_nickname_here | evaluated | f10b9b | 246.4 |
+| 10 | 1_Core_2GHz_Colab_CPU | evaluated | 5570ff | 188.2 |
+| 11 | your_nickname_here | evaluated | f10b9b | 246.4 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | andrasferenczy | failed | 43dff4 |  |
 |  | ashaikh23 | failed | a5012f |  |

@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 02, 2026 at 03:35:36 PM ET`
+Last updated: `April 02, 2026 at 03:51:44 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 02 03:50 PM ET | 1_Core_2GHz_Colab_CPU | evaluated |  | submission.py | 5570ff | 35.3/4.9/40.1 | 557.3 | 210.6 | 188.6 | 188.2 |
+| Apr 02 03:49 PM ET | abarat007 | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | develop.py | 9e63f6 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 02 03:45 PM ET | gm | evaluated |  | develop.py | 02751f | 42.8/5.6/48.4 | 525.8 | 179.7 | 272.7 | 171.4 |
 | Apr 02 03:33 PM ET | ashaikh23 | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | develop.py | a5012f | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 02 03:33 PM ET | abarat007 | failed_compliance | Submission compliance check failed for submission.py: - missing required function(s): setup, run | submission.py | 9e63f6 |  |  |  |  |  |
 | Apr 02 03:29 PM ET | gm | evaluated |  | develop.py | 749ece | 43.1/5.6/48.7 | 536.0 | 180.0 | 276.4 | 180.8 |
