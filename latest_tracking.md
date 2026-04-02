@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 02, 2026 at 03:20:08 PM ET`
+Last updated: `April 02, 2026 at 03:35:36 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 02 03:33 PM ET | ashaikh23 | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | develop.py | a5012f | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 02 03:33 PM ET | abarat007 | failed_compliance | Submission compliance check failed for submission.py: - missing required function(s): setup, run | submission.py | 9e63f6 |  |  |  |  |  |
+| Apr 02 03:29 PM ET | gm | evaluated |  | develop.py | 749ece | 43.1/5.6/48.7 | 536.0 | 180.0 | 276.4 | 180.8 |
 | Apr 02 03:18 PM ET | happyface | evaluated |  | develop.py | ca7f90 | 18.4/3.9/22.3 | 540.3 | 244.2 | 94.5 | 127.0 |
 | Apr 02 03:17 PM ET | ashaikh23 | failed_compliance | Submission compliance check failed for submission.py: - missing required function(s): setup, run | submission.py | a5012f |  |  |  |  |  |
 | Apr 02 03:03 PM ET | happyface | evaluated |  | submission.py | ca7f90 | 36.1/3.9/40.1 | 541.5 | 244.1 | 94.2 | 126.1 |

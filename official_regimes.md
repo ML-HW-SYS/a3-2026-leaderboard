@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 02, 2026 at 03:20:08 PM ET`
+Last updated: `April 02, 2026 at 03:35:36 PM ET`
 
 ## R1 (tok/s)
 
@@ -16,6 +16,7 @@ Last updated: `April 02, 2026 at 03:20:08 PM ET`
 | 8 | gravlax | evaluated | b1229d | 532.3 |
 | 9 | gm | evaluated | 0c2fc9 | 518.1 |
 | 10 | tuo | evaluated | 4735b8 | 460.6 |
+|  | abarat007 | failed | 9e63f6 |  |
 |  | andrasferenczy | failed | 43dff4 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -38,6 +39,7 @@ Last updated: `April 02, 2026 at 03:20:08 PM ET`
 | 8 | happyface | evaluated | ca7f90 | 244.1 |
 | 9 | tuo | evaluated | 4735b8 | 197.3 |
 | 10 | your_nickname_here | evaluated | f10b9b | 173.1 |
+|  | abarat007 | failed | 9e63f6 |  |
 |  | andrasferenczy | failed | 43dff4 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -60,6 +62,7 @@ Last updated: `April 02, 2026 at 03:20:08 PM ET`
 | 8 | lipphi | evaluated | a3a71b | 104.4 |
 | 9 | tuo | evaluated | 4735b8 | 168.0 |
 | 10 | your_nickname_here | evaluated | f10b9b | 308.1 |
+|  | abarat007 | failed | 9e63f6 |  |
 |  | andrasferenczy | failed | 43dff4 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -82,6 +85,7 @@ Last updated: `April 02, 2026 at 03:20:08 PM ET`
 | 8 | lipphi | evaluated | a3a71b | 150.9 |
 | 9 | tuo | evaluated | 4735b8 | 161.7 |
 | 10 | your_nickname_here | evaluated | f10b9b | 246.4 |
+|  | abarat007 | failed | 9e63f6 |  |
 |  | andrasferenczy | failed | 43dff4 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
