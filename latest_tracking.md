@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 02, 2026 at 03:05:07 PM ET`
+Last updated: `April 02, 2026 at 03:20:08 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 02 03:18 PM ET | happyface | evaluated |  | develop.py | ca7f90 | 18.4/3.9/22.3 | 540.3 | 244.2 | 94.5 | 127.0 |
+| Apr 02 03:17 PM ET | ashaikh23 | failed_compliance | Submission compliance check failed for submission.py: - missing required function(s): setup, run | submission.py | a5012f |  |  |  |  |  |
 | Apr 02 03:03 PM ET | happyface | evaluated |  | submission.py | ca7f90 | 36.1/3.9/40.1 | 541.5 | 244.1 | 94.2 | 126.1 |
 | Apr 02 02:41 PM ET | Shengwei | evaluated |  | develop.py | fa264e | 20.9/6.2/27.1 | 524.8 | 169.8 | 307.8 | 246.0 |
 | Apr 02 12:01 PM ET | andrasferenczy | failed_correctness | Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Running setup... Loadi... | develop.py | 43dff4 | 19.4/4.0/23.4 | 526.1 | 169.2 | 0.0 | 0.0 |

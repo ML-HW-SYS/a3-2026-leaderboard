@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 02, 2026 at 03:05:07 PM ET`
+Last updated: `April 02, 2026 at 03:20:08 PM ET`
 
 ## Pages
 
@@ -23,6 +23,7 @@ Last updated: `April 02, 2026 at 03:05:07 PM ET`
 | 9 | tuo | evaluated | 4735b8 | 60.3/5.0/65.4 | 0.686 | 460.6 | 197.3 | 168.0 | 161.7 |
 | 10 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
 |  | andrasferenczy | failed | 43dff4 | 19.4/4.0/23.4 |  |  |  |  |  |
+|  | ashaikh23 | failed | a5012f |  |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | fishyfins | failed | b8a4a4 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | ishan-pat | failed | acf3d7 | 0.0/0.0/0.0 |  |  |  |  |  |
