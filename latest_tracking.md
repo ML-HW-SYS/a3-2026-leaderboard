@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 02, 2026 at 04:52:38 PM ET`
+Last updated: `April 02, 2026 at 05:07:18 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 02 05:02 PM ET | yb | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | submission.py | 8ca88e | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 02 05:00 PM ET | prousoglou | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | submission.py | f33caa | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 02 04:35 PM ET | abarat007 | evaluated |  | develop.py | 71d00e | 35.9/4.1/39.9 | 527.6 | 219.0 | 80.6 | 114.2 |
 | Apr 02 04:16 PM ET | andrasferenczy | evaluated |  | submission.py | 9c7f53 | 37.3/3.2/40.5 | 539.1 | 277.2 | 31.9 | 63.7 |
 | Apr 02 04:06 PM ET | 1_Core_2GHz_Colab_CPU | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | develop.py | 5570ff | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |

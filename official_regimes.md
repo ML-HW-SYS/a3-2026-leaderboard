@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 02, 2026 at 04:52:38 PM ET`
+Last updated: `April 02, 2026 at 05:07:18 PM ET`
 
 ## R1 (tok/s)
 
@@ -24,7 +24,9 @@ Last updated: `April 02, 2026 at 04:52:38 PM ET`
 |  | fishyfins | failed | b8a4a4 |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
+|  | prousoglou | failed | f33caa |  |
 |  | Shengwei | failed | aba515 |  |
+|  | yb | failed | 8ca88e |  |
 
 ## R2 (tok/s)
 
@@ -48,7 +50,9 @@ Last updated: `April 02, 2026 at 04:52:38 PM ET`
 |  | fishyfins | failed | b8a4a4 |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
+|  | prousoglou | failed | f33caa |  |
 |  | Shengwei | failed | aba515 |  |
+|  | yb | failed | 8ca88e |  |
 
 ## R3 (ms)
 
@@ -72,7 +76,9 @@ Last updated: `April 02, 2026 at 04:52:38 PM ET`
 |  | fishyfins | failed | b8a4a4 |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
+|  | prousoglou | failed | f33caa |  |
 |  | Shengwei | failed | aba515 |  |
+|  | yb | failed | 8ca88e |  |
 
 ## R4 (ms)
 
@@ -96,4 +102,6 @@ Last updated: `April 02, 2026 at 04:52:38 PM ET`
 |  | fishyfins | failed | b8a4a4 |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
+|  | prousoglou | failed | f33caa |  |
 |  | Shengwei | failed | aba515 |  |
+|  | yb | failed | 8ca88e |  |
