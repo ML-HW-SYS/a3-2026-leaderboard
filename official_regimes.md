@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 02, 2026 at 10:05:44 AM ET`
+Last updated: `April 02, 2026 at 10:20:56 AM ET`
 
 ## R1 (tok/s)
 
@@ -14,8 +14,8 @@ Last updated: `April 02, 2026 at 10:05:44 AM ET`
 | 6 | lipphi | evaluated | a3a71b | 534.8 |
 | 7 | gravlax | evaluated | b1229d | 532.3 |
 | 8 | happyface | evaluated | 6c702a | 528.8 |
-| 9 | gm | evaluated | 0c2fc9 | 518.1 |
-|  | andrasferenczy | failed | 2a2bb2 |  |
+| 9 | andrasferenczy | evaluated | 23c286 | 527.3 |
+| 10 | gm | evaluated | 0c2fc9 | 518.1 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -35,7 +35,7 @@ Last updated: `April 02, 2026 at 10:05:44 AM ET`
 | 7 | gravlax | evaluated | b1229d | 272.5 |
 | 8 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 9 | happyface | evaluated | 6c702a | 169.9 |
-|  | andrasferenczy | failed | 2a2bb2 |  |
+| 10 | andrasferenczy | evaluated | 23c286 | 169.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -55,7 +55,7 @@ Last updated: `April 02, 2026 at 10:05:44 AM ET`
 | 7 | lipphi | evaluated | a3a71b | 104.4 |
 | 8 | happyface | evaluated | 6c702a | 306.4 |
 | 9 | your_nickname_here | evaluated | f10b9b | 308.1 |
-|  | andrasferenczy | failed | 2a2bb2 |  |
+| 10 | andrasferenczy | evaluated | 23c286 | 309.2 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -75,7 +75,7 @@ Last updated: `April 02, 2026 at 10:05:44 AM ET`
 | 7 | lipphi | evaluated | a3a71b | 150.9 |
 | 8 | happyface | evaluated | 6c702a | 241.1 |
 | 9 | your_nickname_here | evaluated | f10b9b | 246.4 |
-|  | andrasferenczy | failed | 2a2bb2 |  |
+| 10 | andrasferenczy | evaluated | 23c286 | 246.9 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
 |  | ishan-pat | failed | acf3d7 |  |
