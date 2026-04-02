@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 02, 2026 at 09:50:41 AM ET`
+Last updated: `April 02, 2026 at 10:05:44 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 02 09:59 AM ET | andrasferenczy | failed_correctness | Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Running setup... Loadi... | submission.py | 2a2bb2 | 19.3/4.0/23.3 | 524.7 | 169.2 | 0.0 | 0.0 |
 | Apr 02 09:44 AM ET | andrasferenczy | evaluated |  | submission.py | 2799a8 | 39.8/6.2/46.0 | 525.5 | 169.6 | 308.7 | 247.1 |
 | Apr 02 03:36 AM ET | chyyy | evaluated |  | develop.py | 34cc06 | 23.2/2.4/25.6 | 556.8 | 432.1 | 24.8 | 47.5 |
 | Apr 02 03:21 AM ET | chyyy | evaluated |  | submission.py | 34cc06 | 33.5/2.4/35.9 | 555.7 | 433.8 | 24.8 | 47.6 |
