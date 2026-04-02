@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 02, 2026 at 05:21:58 PM ET`
+Last updated: `April 02, 2026 at 05:37:10 PM ET`
 
 ## R1 (tok/s)
 
@@ -17,7 +17,7 @@ Last updated: `April 02, 2026 at 05:21:58 PM ET`
 | 9 | lipphi | evaluated | a3a71b | 534.8 |
 | 10 | gravlax | evaluated | b1229d | 532.3 |
 | 11 | gm | evaluated | 0c2fc9 | 518.1 |
-| 12 | tuo | evaluated | 4735b8 | 460.6 |
+| 12 | tuo | evaluated | 4e7068 | 359.4 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -42,8 +42,8 @@ Last updated: `April 02, 2026 at 05:21:58 PM ET`
 | 8 | gravlax | evaluated | b1229d | 272.5 |
 | 9 | happyface | evaluated | ca7f90 | 244.1 |
 | 10 | 1_Core_2GHz_Colab_CPU | evaluated | 5570ff | 210.6 |
-| 11 | tuo | evaluated | 4735b8 | 197.3 |
-| 12 | your_nickname_here | evaluated | f10b9b | 173.1 |
+| 11 | your_nickname_here | evaluated | f10b9b | 173.1 |
+| 12 | tuo | evaluated | 4e7068 | 145.7 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -67,8 +67,8 @@ Last updated: `April 02, 2026 at 05:21:58 PM ET`
 | 7 | TA | evaluated | 324cb8 | 83.2 |
 | 8 | happyface | evaluated | ca7f90 | 94.2 |
 | 9 | lipphi | evaluated | a3a71b | 104.4 |
-| 10 | tuo | evaluated | 4735b8 | 168.0 |
-| 11 | 1_Core_2GHz_Colab_CPU | evaluated | 5570ff | 188.6 |
+| 10 | 1_Core_2GHz_Colab_CPU | evaluated | 5570ff | 188.6 |
+| 11 | tuo | evaluated | 4e7068 | 301.5 |
 | 12 | your_nickname_here | evaluated | f10b9b | 308.1 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
@@ -93,9 +93,9 @@ Last updated: `April 02, 2026 at 05:21:58 PM ET`
 | 7 | happyface | evaluated | ca7f90 | 126.1 |
 | 8 | TA | evaluated | 324cb8 | 131.7 |
 | 9 | lipphi | evaluated | a3a71b | 150.9 |
-| 10 | tuo | evaluated | 4735b8 | 161.7 |
-| 11 | 1_Core_2GHz_Colab_CPU | evaluated | 5570ff | 188.2 |
-| 12 | your_nickname_here | evaluated | f10b9b | 246.4 |
+| 10 | 1_Core_2GHz_Colab_CPU | evaluated | 5570ff | 188.2 |
+| 11 | your_nickname_here | evaluated | f10b9b | 246.4 |
+| 12 | tuo | evaluated | 4e7068 | 246.7 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
