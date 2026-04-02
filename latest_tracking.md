@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 02, 2026 at 05:37:10 PM ET`
+Last updated: `April 02, 2026 at 05:51:49 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 02 05:44 PM ET | tuo | failed_security | Security policy check failed for develop.py: - prohibited import: importlib.util - prohibited import: pathlib - prohi... | develop.py | 4e7068 |  |  |  |  |  |
 | Apr 02 05:30 PM ET | tuo | evaluated |  | submission.py | 4e7068 | 26.0/7.1/33.2 | 359.4 | 145.7 | 301.5 | 246.7 |
 | Apr 02 05:17 PM ET | yb | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | develop.py | 8ca88e | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 02 05:14 PM ET | prousoglou | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | develop.py | f33caa | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
