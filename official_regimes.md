@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 02, 2026 at 11:37:55 AM ET`
+Last updated: `April 02, 2026 at 11:52:58 AM ET`
 
 ## R1 (tok/s)
 
@@ -16,7 +16,7 @@ Last updated: `April 02, 2026 at 11:37:55 AM ET`
 | 8 | happyface | evaluated | 6c702a | 528.8 |
 | 9 | gm | evaluated | 0c2fc9 | 518.1 |
 | 10 | tuo | evaluated | 4735b8 | 460.6 |
-|  | andrasferenczy | failed | 3dc5a2 |  |
+|  | andrasferenczy | failed | 43dff4 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -37,7 +37,7 @@ Last updated: `April 02, 2026 at 11:37:55 AM ET`
 | 8 | tuo | evaluated | 4735b8 | 197.3 |
 | 9 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 10 | happyface | evaluated | 6c702a | 169.9 |
-|  | andrasferenczy | failed | 3dc5a2 |  |
+|  | andrasferenczy | failed | 43dff4 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -58,7 +58,7 @@ Last updated: `April 02, 2026 at 11:37:55 AM ET`
 | 8 | tuo | evaluated | 4735b8 | 168.0 |
 | 9 | happyface | evaluated | 6c702a | 306.4 |
 | 10 | your_nickname_here | evaluated | f10b9b | 308.1 |
-|  | andrasferenczy | failed | 3dc5a2 |  |
+|  | andrasferenczy | failed | 43dff4 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -79,7 +79,7 @@ Last updated: `April 02, 2026 at 11:37:55 AM ET`
 | 8 | tuo | evaluated | 4735b8 | 161.7 |
 | 9 | happyface | evaluated | 6c702a | 241.1 |
 | 10 | your_nickname_here | evaluated | f10b9b | 246.4 |
-|  | andrasferenczy | failed | 3dc5a2 |  |
+|  | andrasferenczy | failed | 43dff4 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
 |  | ishan-pat | failed | acf3d7 |  |
