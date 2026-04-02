@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 02, 2026 at 03:12:53 AM ET`
+Last updated: `April 02, 2026 at 03:28:09 AM ET`
 
 ## R1 (tok/s)
 
@@ -8,7 +8,7 @@ Last updated: `April 02, 2026 at 03:12:53 AM ET`
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 591.4 |
 | 2 | your_nickname_here | evaluated | f10b9b | 557.8 |
-| 3 | chyyy | evaluated | 219967 | 555.2 |
+| 3 | chyyy | evaluated | 34cc06 | 555.7 |
 | 4 | TA | evaluated | 324cb8 | 553.3 |
 | 5 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
 | 6 | lipphi | evaluated | a3a71b | 534.8 |
@@ -25,10 +25,10 @@ Last updated: `April 02, 2026 at 03:12:53 AM ET`
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | - - | evaluated | adc0f3 | 386.9 |
-| 2 | gm | evaluated | 0c2fc9 | 355.8 |
-| 3 | nickname55555555 | evaluated | 99ddc2 | 334.1 |
-| 4 | chyyy | evaluated | 219967 | 318.7 |
+| 1 | chyyy | evaluated | 34cc06 | 433.8 |
+| 2 | - - | evaluated | adc0f3 | 386.9 |
+| 3 | gm | evaluated | 0c2fc9 | 355.8 |
+| 4 | nickname55555555 | evaluated | 99ddc2 | 334.1 |
 | 5 | lipphi | evaluated | a3a71b | 306.7 |
 | 6 | TA | evaluated | 324cb8 | 295.5 |
 | 7 | gravlax | evaluated | b1229d | 272.5 |
@@ -45,7 +45,7 @@ Last updated: `April 02, 2026 at 03:12:53 AM ET`
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 21.8 |
-| 2 | chyyy | evaluated | 219967 | 24.8 |
+| 2 | chyyy | evaluated | 34cc06 | 24.8 |
 | 3 | gm | evaluated | 0c2fc9 | 26.9 |
 | 4 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
 | 5 | gravlax | evaluated | b1229d | 35.0 |
@@ -64,7 +64,7 @@ Last updated: `April 02, 2026 at 03:12:53 AM ET`
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 44.5 |
-| 2 | chyyy | evaluated | 219967 | 47.6 |
+| 2 | chyyy | evaluated | 34cc06 | 47.6 |
 | 3 | gm | evaluated | 0c2fc9 | 48.9 |
 | 4 | nickname55555555 | evaluated | 99ddc2 | 53.0 |
 | 5 | gravlax | evaluated | b1229d | 59.7 |
