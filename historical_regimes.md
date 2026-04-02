@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 02, 2026 at 06:21:10 PM ET`
+Last updated: `April 02, 2026 at 06:36:21 PM ET`
 
 ## R1 (tok/s)
 
@@ -33,7 +33,7 @@ Last updated: `April 02, 2026 at 06:21:10 PM ET`
 | 6 | TA | submission.py | 324cb8 | 295.5 |
 | 7 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
 | 8 | gravlax | develop.py | b1229d | 273.0 |
-| 9 | happyface | develop.py | 7255fc | 258.8 |
+| 9 | happyface | develop.py | 0aca52 | 259.4 |
 | 10 | abarat007 | develop.py | 71d00e | 219.0 |
 | 11 | 1_Core_2GHz_Colab_CPU | submission.py | 5570ff | 210.6 |
 | 12 | tuo | submission.py | 4735b8 | 197.3 |
@@ -50,7 +50,7 @@ Last updated: `April 02, 2026 at 06:21:10 PM ET`
 | 4 | nickname55555555 | submission.py | 05c6ab | 31.9 |
 | 5 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
 | 6 | gravlax | develop.py | b1229d | 35.0 |
-| 7 | happyface | develop.py | 7b3759 | 65.2 |
+| 7 | happyface | develop.py | 0aca52 | 63.4 |
 | 8 | abarat007 | develop.py | 71d00e | 80.6 |
 | 9 | TA | submission.py | 324cb8 | 83.2 |
 | 10 | lipphi | develop.py | d58cae | 104.4 |
@@ -69,7 +69,7 @@ Last updated: `April 02, 2026 at 06:21:10 PM ET`
 | 4 | nickname55555555 | submission.py | 05c6ab | 52.5 |
 | 5 | gravlax | submission.py | b1229d | 59.7 |
 | 6 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
-| 7 | happyface | develop.py | 7b3759 | 110.4 |
+| 7 | happyface | develop.py | 0aca52 | 65.7 |
 | 8 | abarat007 | develop.py | 71d00e | 114.2 |
 | 9 | TA | submission.py | 324cb8 | 131.7 |
 | 10 | lipphi | submission.py | a3a71b | 150.9 |
