@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 02, 2026 at 02:34:41 PM ET`
+Last updated: `April 02, 2026 at 02:49:47 PM ET`
 
 ## R1 (tok/s)
 
@@ -16,7 +16,8 @@ Last updated: `April 02, 2026 at 02:34:41 PM ET`
 | 8 | andrasferenczy | submission.py | 6204c7 | 540.6 |
 | 9 | lipphi | submission.py | a3a71b | 534.8 |
 | 10 | gravlax | develop.py | 1f23d9 | 534.6 |
-| 11 | tuo | submission.py | 4735b8 | 460.6 |
+| 11 | Shengwei | develop.py | fa264e | 524.8 |
+| 12 | tuo | submission.py | 4735b8 | 460.6 |
 
 ## R2 (tok/s)
 
@@ -33,6 +34,7 @@ Last updated: `April 02, 2026 at 02:34:41 PM ET`
 | 9 | tuo | submission.py | 4735b8 | 197.3 |
 | 10 | andrasferenczy | submission.py | 6204c7 | 176.4 |
 | 11 | your_nickname_here | submission.py | 59e245 | 173.4 |
+| 12 | Shengwei | develop.py | fa264e | 169.8 |
 
 ## R3 (ms)
 
@@ -49,6 +51,7 @@ Last updated: `April 02, 2026 at 02:34:41 PM ET`
 | 9 | tuo | submission.py | 4735b8 | 168.0 |
 | 10 | andrasferenczy | submission.py | 6204c7 | 280.0 |
 | 11 | your_nickname_here | submission.py | 59e245 | 307.4 |
+| 12 | Shengwei | develop.py | fa264e | 307.8 |
 
 ## R4 (ms)
 
@@ -65,3 +68,4 @@ Last updated: `April 02, 2026 at 02:34:41 PM ET`
 | 9 | tuo | submission.py | 4735b8 | 161.7 |
 | 10 | andrasferenczy | submission.py | 6204c7 | 188.1 |
 | 11 | your_nickname_here | submission.py | 59e245 | 245.7 |
+| 12 | Shengwei | develop.py | fa264e | 246.0 |
