@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 02, 2026 at 10:42:08 PM ET`
+Last updated: `April 02, 2026 at 10:57:14 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 02 10:49 PM ET | prousoglou | evaluated |  | develop.py | 1a9fa5 | 18.6/3.7/22.4 | 523.3 | 257.9 | 65.5 | 126.9 |
 | Apr 02 10:40 PM ET | happyface | evaluated |  | develop.py | f5436a | 18.6/3.4/22.0 | 540.6 | 259.3 | 63.6 | 65.9 |
 | Apr 02 10:37 PM ET | bl792 | evaluated |  | submission.py | 3b3a8a | 60.3/6.1/66.5 | 528.5 | 170.2 | 304.3 | 233.2 |
 | Apr 02 10:27 PM ET | happyface | failed_correctness | Loading artifacts from: /home/syphon/mlhwsys/a3-2026/artifacts/public Loading submission: /home/syphon/mlhwsys/a3-202... | develop.py | 3a88f1 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
