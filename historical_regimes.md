@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 03, 2026 at 12:20:16 PM ET`
+Last updated: `April 03, 2026 at 12:35:59 PM ET`
 
 ## R1 (tok/s)
 
@@ -44,7 +44,7 @@ Last updated: `April 03, 2026 at 12:20:16 PM ET`
 | 14 | abarat007 | develop.py | 71d00e | 219.0 |
 | 15 | tuo | submission.py | dcc492 | 197.5 |
 | 16 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 17 | beratcelik | submission.py | 6ce29b | 169.6 |
+| 17 | beratcelik | develop.py | 6ce29b | 169.8 |
 
 ## R3 (ms)
 

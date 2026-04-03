@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 03, 2026 at 12:20:16 PM ET`
+Last updated: `April 03, 2026 at 12:35:59 PM ET`
 
 ## R1 (tok/s)
 
@@ -15,11 +15,11 @@ Last updated: `April 03, 2026 at 12:20:16 PM ET`
 | 7 | Shengwei | evaluated | 33733e | 543.9 |
 | 8 | happyface | evaluated | 7e8b61 | 543.0 |
 | 9 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
-| 10 | lipphi | evaluated | a3a71b | 534.8 |
-| 11 | gravlax | evaluated | b1229d | 532.3 |
-| 12 | bl792 | evaluated | 9af784 | 525.3 |
-| 13 | beratcelik | evaluated | 6ce29b | 524.7 |
-| 14 | gm | evaluated | 540f22 | 515.9 |
+| 10 | gm | evaluated | 91739c | 538.1 |
+| 11 | lipphi | evaluated | a3a71b | 534.8 |
+| 12 | gravlax | evaluated | b1229d | 532.3 |
+| 13 | bl792 | evaluated | 9af784 | 525.3 |
+| 14 | beratcelik | evaluated | 6ce29b | 524.7 |
 | 15 | tuo | evaluated | dcc492 | 457.0 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
@@ -36,16 +36,16 @@ Last updated: `April 03, 2026 at 12:20:16 PM ET`
 | --- | --- | --- | --- | --- |
 | 1 | chyyy | evaluated | 34cc06 | 433.8 |
 | 2 | - - | evaluated | adc0f3 | 386.9 |
-| 3 | gm | evaluated | 540f22 | 355.3 |
-| 4 | nickname55555555 | evaluated | 99ddc2 | 334.1 |
-| 5 | lipphi | evaluated | a3a71b | 306.7 |
-| 6 | TA | evaluated | 324cb8 | 295.5 |
-| 7 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
-| 8 | gravlax | evaluated | b1229d | 272.5 |
-| 9 | happyface | evaluated | 7e8b61 | 258.2 |
-| 10 | bl792 | evaluated | 9af784 | 226.0 |
-| 11 | Shengwei | evaluated | 33733e | 224.0 |
-| 12 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 221.1 |
+| 3 | nickname55555555 | evaluated | 99ddc2 | 334.1 |
+| 4 | lipphi | evaluated | a3a71b | 306.7 |
+| 5 | TA | evaluated | 324cb8 | 295.5 |
+| 6 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
+| 7 | gravlax | evaluated | b1229d | 272.5 |
+| 8 | happyface | evaluated | 7e8b61 | 258.2 |
+| 9 | bl792 | evaluated | 9af784 | 226.0 |
+| 10 | Shengwei | evaluated | 33733e | 224.0 |
+| 11 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 221.1 |
+| 12 | gm | evaluated | 91739c | 211.5 |
 | 13 | tuo | evaluated | dcc492 | 197.5 |
 | 14 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 15 | beratcelik | evaluated | 6ce29b | 169.6 |
@@ -64,7 +64,7 @@ Last updated: `April 03, 2026 at 12:20:16 PM ET`
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 21.8 |
 | 2 | chyyy | evaluated | 34cc06 | 24.8 |
-| 3 | gm | evaluated | 540f22 | 26.8 |
+| 3 | gm | evaluated | 91739c | 26.9 |
 | 4 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
 | 5 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
 | 6 | gravlax | evaluated | b1229d | 35.0 |
@@ -92,7 +92,7 @@ Last updated: `April 03, 2026 at 12:20:16 PM ET`
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 44.5 |
 | 2 | chyyy | evaluated | 34cc06 | 47.6 |
-| 3 | gm | evaluated | 540f22 | 48.7 |
+| 3 | gm | evaluated | 91739c | 48.9 |
 | 4 | nickname55555555 | evaluated | 99ddc2 | 53.0 |
 | 5 | gravlax | evaluated | b1229d | 59.7 |
 | 6 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
