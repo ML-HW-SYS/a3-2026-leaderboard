@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 03, 2026 at 07:25:17 PM ET`
+Last updated: `April 03, 2026 at 07:40:44 PM ET`
 
 ## Pages
 
@@ -31,6 +31,7 @@ Last updated: `April 03, 2026 at 07:25:17 PM ET`
 | 17 | tuo | evaluated | 30a3c3 | 46.4/5.0/51.3 | 0.681 | 495.2 | 203.8 | 174.4 | 178.4 |
 | 18 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
 | 19 | beratcelik | evaluated | 6ce29b | 72.8/6.1/78.9 | 0.537 | 524.7 | 169.6 | 305.0 | 232.3 |
+| 20 | chickfila | evaluated | 02225e | 40.5/6.2/46.7 | 0.527 | 525.1 | 169.2 | 309.6 | 247.3 |
 |  | ashaikh23 | failed | a5012f |  |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | fishyfins | failed | b8a4a4 | 0.0/0.0/0.0 |  |  |  |  |  |

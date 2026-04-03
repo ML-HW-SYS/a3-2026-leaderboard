@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 03, 2026 at 07:25:17 PM ET`
+Last updated: `April 03, 2026 at 07:40:44 PM ET`
 
 ## R1 (tok/s)
 
@@ -22,9 +22,10 @@ Last updated: `April 03, 2026 at 07:25:17 PM ET`
 | 14 | lipphi | evaluated | a3a71b | 534.8 |
 | 15 | gravlax | evaluated | b1229d | 532.3 |
 | 16 | bl792 | evaluated | 9af784 | 525.3 |
-| 17 | beratcelik | evaluated | 6ce29b | 524.7 |
-| 18 | abarat007 | evaluated | 538151 | 523.4 |
-| 19 | tuo | evaluated | 30a3c3 | 495.2 |
+| 17 | chickfila | evaluated | 02225e | 525.1 |
+| 18 | beratcelik | evaluated | 6ce29b | 524.7 |
+| 19 | abarat007 | evaluated | 538151 | 523.4 |
+| 20 | tuo | evaluated | 30a3c3 | 495.2 |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
@@ -57,6 +58,7 @@ Last updated: `April 03, 2026 at 07:25:17 PM ET`
 | 17 | tuo | evaluated | 30a3c3 | 203.8 |
 | 18 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 19 | beratcelik | evaluated | 6ce29b | 169.6 |
+| 20 | chickfila | evaluated | 02225e | 169.2 |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
@@ -89,6 +91,7 @@ Last updated: `April 03, 2026 at 07:25:17 PM ET`
 | 17 | 13rabbit | evaluated | 24af86 | 193.8 |
 | 18 | beratcelik | evaluated | 6ce29b | 305.0 |
 | 19 | your_nickname_here | evaluated | f10b9b | 308.1 |
+| 20 | chickfila | evaluated | 02225e | 309.6 |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
@@ -121,6 +124,7 @@ Last updated: `April 03, 2026 at 07:25:17 PM ET`
 | 17 | tuo | evaluated | 30a3c3 | 178.4 |
 | 18 | beratcelik | evaluated | 6ce29b | 232.3 |
 | 19 | your_nickname_here | evaluated | f10b9b | 246.4 |
+| 20 | chickfila | evaluated | 02225e | 247.3 |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |

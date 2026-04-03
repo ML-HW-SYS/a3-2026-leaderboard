@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 03, 2026 at 07:25:17 PM ET`
+Last updated: `April 03, 2026 at 07:40:44 PM ET`
 
 ## R1 (tok/s)
 
@@ -23,8 +23,9 @@ Last updated: `April 03, 2026 at 07:25:17 PM ET`
 | 15 | lipphi | submission.py | a3a71b | 534.8 |
 | 16 | gravlax | develop.py | 1f23d9 | 534.6 |
 | 17 | bl792 | submission.py | 3b3a8a | 528.5 |
-| 18 | beratcelik | submission.py | 6ce29b | 524.7 |
-| 19 | tuo | submission.py | 30a3c3 | 495.2 |
+| 18 | chickfila | submission.py | 02225e | 525.1 |
+| 19 | beratcelik | submission.py | 6ce29b | 524.7 |
+| 20 | tuo | submission.py | 30a3c3 | 495.2 |
 
 ## R2 (tok/s)
 
@@ -49,6 +50,7 @@ Last updated: `April 03, 2026 at 07:25:17 PM ET`
 | 17 | tuo | submission.py | 30a3c3 | 203.8 |
 | 18 | your_nickname_here | submission.py | 59e245 | 173.4 |
 | 19 | beratcelik | develop.py | 6ce29b | 169.8 |
+| 20 | chickfila | submission.py | 02225e | 169.2 |
 
 ## R3 (ms)
 
@@ -73,6 +75,7 @@ Last updated: `April 03, 2026 at 07:25:17 PM ET`
 | 17 | 13rabbit | submission.py | 24af86 | 193.8 |
 | 18 | beratcelik | submission.py | 6ce29b | 305.0 |
 | 19 | your_nickname_here | submission.py | 59e245 | 307.4 |
+| 20 | chickfila | submission.py | 02225e | 309.6 |
 
 ## R4 (ms)
 
@@ -97,3 +100,4 @@ Last updated: `April 03, 2026 at 07:25:17 PM ET`
 | 17 | tuo | submission.py | 4735b8 | 161.7 |
 | 18 | beratcelik | submission.py | 6ce29b | 232.3 |
 | 19 | your_nickname_here | submission.py | 59e245 | 245.7 |
+| 20 | chickfila | submission.py | 02225e | 247.3 |
