@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 03, 2026 at 01:38:13 PM ET`
+Last updated: `April 03, 2026 at 01:53:59 PM ET`
 
 ## R1 (tok/s)
 
@@ -35,13 +35,13 @@ Last updated: `April 03, 2026 at 01:38:13 PM ET`
 | 3 | prousoglou | develop.py | 6d0906 | 367.5 |
 | 4 | gm | develop.py | fd15e9 | 357.3 |
 | 5 | nickname55555555 | develop.py | 99ddc2 | 334.4 |
-| 6 | lipphi | submission.py | a3a71b | 306.7 |
-| 7 | TA | submission.py | 324cb8 | 295.5 |
-| 8 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
-| 9 | gravlax | develop.py | b1229d | 273.0 |
-| 10 | happyface | develop.py | 0aca52 | 259.4 |
-| 11 | bl792 | develop.py | 6ec673 | 228.2 |
-| 12 | Shengwei | submission.py | 33733e | 224.0 |
+| 6 | Shengwei | submission.py | 395bbf | 327.4 |
+| 7 | lipphi | submission.py | a3a71b | 306.7 |
+| 8 | TA | submission.py | 324cb8 | 295.5 |
+| 9 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
+| 10 | gravlax | develop.py | b1229d | 273.0 |
+| 11 | happyface | develop.py | 0aca52 | 259.4 |
+| 12 | bl792 | develop.py | 6ec673 | 228.2 |
 | 13 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 221.1 |
 | 14 | abarat007 | develop.py | 71d00e | 219.0 |
 | 15 | tuo | submission.py | dcc492 | 197.5 |
@@ -62,13 +62,13 @@ Last updated: `April 03, 2026 at 01:38:13 PM ET`
 | 6 | prousoglou | develop.py | 6d0906 | 34.7 |
 | 7 | gravlax | develop.py | b1229d | 35.0 |
 | 8 | happyface | submission.py | 9f7886 | 63.4 |
-| 9 | abarat007 | develop.py | 71d00e | 80.6 |
-| 10 | TA | submission.py | 324cb8 | 83.2 |
-| 11 | bl792 | submission.py | 9af784 | 97.1 |
-| 12 | lipphi | develop.py | d58cae | 104.4 |
-| 13 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 160.0 |
-| 14 | tuo | submission.py | 4735b8 | 168.0 |
-| 15 | Shengwei | submission.py | 33733e | 238.7 |
+| 9 | Shengwei | submission.py | 395bbf | 71.0 |
+| 10 | abarat007 | develop.py | 71d00e | 80.6 |
+| 11 | TA | submission.py | 324cb8 | 83.2 |
+| 12 | bl792 | submission.py | 9af784 | 97.1 |
+| 13 | lipphi | develop.py | d58cae | 104.4 |
+| 14 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 160.0 |
+| 15 | tuo | submission.py | 4735b8 | 168.0 |
 | 16 | TheProphet | develop.py | 186ddb | 279.0 |
 | 17 | beratcelik | submission.py | 6ce29b | 305.0 |
 | 18 | your_nickname_here | submission.py | 59e245 | 307.4 |
@@ -86,11 +86,11 @@ Last updated: `April 03, 2026 at 01:38:13 PM ET`
 | 6 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
 | 7 | prousoglou | develop.py | 6d0906 | 65.6 |
 | 8 | happyface | develop.py | 0aca52 | 65.7 |
-| 9 | abarat007 | develop.py | 71d00e | 114.2 |
-| 10 | bl792 | develop.py | 9af784 | 130.8 |
-| 11 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 131.1 |
-| 12 | TA | submission.py | 324cb8 | 131.7 |
-| 13 | Shengwei | develop.py | 33733e | 132.4 |
+| 9 | Shengwei | submission.py | 395bbf | 87.5 |
+| 10 | abarat007 | develop.py | 71d00e | 114.2 |
+| 11 | bl792 | develop.py | 9af784 | 130.8 |
+| 12 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 131.1 |
+| 13 | TA | submission.py | 324cb8 | 131.7 |
 | 14 | lipphi | submission.py | a3a71b | 150.9 |
 | 15 | tuo | submission.py | 4735b8 | 161.7 |
 | 16 | TheProphet | develop.py | 186ddb | 187.7 |

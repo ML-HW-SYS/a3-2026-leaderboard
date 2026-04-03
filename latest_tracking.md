@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 03, 2026 at 01:38:13 PM ET`
+Last updated: `April 03, 2026 at 01:53:59 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 03 01:45 PM ET | Shengwei | evaluated |  | submission.py | 395bbf | 39.2/3.1/42.3 | 542.9 | 327.4 | 71.0 | 87.5 |
+| Apr 03 01:43 PM ET | 13rabbit | evaluated |  | develop.py | fe30c9 | 19.5/6.2/25.7 | 540.7 | 170.4 | 308.3 | 244.9 |
 | Apr 03 01:28 PM ET | 13rabbit | evaluated |  | submission.py | fe30c9 | 39.8/6.1/46.0 | 543.0 | 170.8 | 307.5 | 244.5 |
 | Apr 03 01:16 PM ET | gm | evaluated |  | develop.py | 2898fc | 15.8/13.7/29.6 | 102.0 | 78.3 | 307.5 | 235.1 |
 | Apr 03 01:01 PM ET | gm | evaluated |  | submission.py | 2898fc | 20.9/2.7/23.6 | 541.1 | 357.0 | 26.8 | 48.5 |

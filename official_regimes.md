@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 03, 2026 at 01:38:13 PM ET`
+Last updated: `April 03, 2026 at 01:53:59 PM ET`
 
 ## R1 (tok/s)
 
@@ -13,9 +13,9 @@ Last updated: `April 03, 2026 at 01:38:13 PM ET`
 | 5 | chyyy | evaluated | 34cc06 | 555.7 |
 | 6 | TA | evaluated | 324cb8 | 553.3 |
 | 7 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
-| 8 | Shengwei | evaluated | 33733e | 543.9 |
-| 9 | happyface | evaluated | 7e8b61 | 543.0 |
-| 10 | 13rabbit | evaluated | fe30c9 | 543.0 |
+| 8 | happyface | evaluated | 7e8b61 | 543.0 |
+| 9 | 13rabbit | evaluated | fe30c9 | 543.0 |
+| 10 | Shengwei | evaluated | 395bbf | 542.9 |
 | 11 | gm | evaluated | 2898fc | 541.1 |
 | 12 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
 | 13 | lipphi | evaluated | a3a71b | 534.8 |
@@ -40,13 +40,13 @@ Last updated: `April 03, 2026 at 01:38:13 PM ET`
 | 2 | - - | evaluated | adc0f3 | 386.9 |
 | 3 | gm | evaluated | 2898fc | 357.0 |
 | 4 | nickname55555555 | evaluated | 99ddc2 | 334.1 |
-| 5 | lipphi | evaluated | a3a71b | 306.7 |
-| 6 | TA | evaluated | 324cb8 | 295.5 |
-| 7 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
-| 8 | gravlax | evaluated | b1229d | 272.5 |
-| 9 | happyface | evaluated | 7e8b61 | 258.2 |
-| 10 | bl792 | evaluated | 9af784 | 226.0 |
-| 11 | Shengwei | evaluated | 33733e | 224.0 |
+| 5 | Shengwei | evaluated | 395bbf | 327.4 |
+| 6 | lipphi | evaluated | a3a71b | 306.7 |
+| 7 | TA | evaluated | 324cb8 | 295.5 |
+| 8 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
+| 9 | gravlax | evaluated | b1229d | 272.5 |
+| 10 | happyface | evaluated | 7e8b61 | 258.2 |
+| 11 | bl792 | evaluated | 9af784 | 226.0 |
 | 12 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 221.1 |
 | 13 | tuo | evaluated | dcc492 | 197.5 |
 | 14 | TheProphet | evaluated | 186ddb | 176.8 |
@@ -73,12 +73,12 @@ Last updated: `April 03, 2026 at 01:38:13 PM ET`
 | 5 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
 | 6 | gravlax | evaluated | b1229d | 35.0 |
 | 7 | happyface | evaluated | 7e8b61 | 63.7 |
-| 8 | TA | evaluated | 324cb8 | 83.2 |
-| 9 | bl792 | evaluated | 9af784 | 97.1 |
-| 10 | lipphi | evaluated | a3a71b | 104.4 |
-| 11 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 160.0 |
-| 12 | tuo | evaluated | dcc492 | 168.7 |
-| 13 | Shengwei | evaluated | 33733e | 238.7 |
+| 8 | Shengwei | evaluated | 395bbf | 71.0 |
+| 9 | TA | evaluated | 324cb8 | 83.2 |
+| 10 | bl792 | evaluated | 9af784 | 97.1 |
+| 11 | lipphi | evaluated | a3a71b | 104.4 |
+| 12 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 160.0 |
+| 13 | tuo | evaluated | dcc492 | 168.7 |
 | 14 | TheProphet | evaluated | 186ddb | 279.6 |
 | 15 | beratcelik | evaluated | 6ce29b | 305.0 |
 | 16 | 13rabbit | evaluated | fe30c9 | 307.5 |
@@ -103,10 +103,10 @@ Last updated: `April 03, 2026 at 01:38:13 PM ET`
 | 5 | gravlax | evaluated | b1229d | 59.7 |
 | 6 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
 | 7 | happyface | evaluated | 7e8b61 | 66.0 |
-| 8 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 131.1 |
-| 9 | bl792 | evaluated | 9af784 | 131.5 |
-| 10 | TA | evaluated | 324cb8 | 131.7 |
-| 11 | Shengwei | evaluated | 33733e | 132.9 |
+| 8 | Shengwei | evaluated | 395bbf | 87.5 |
+| 9 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 131.1 |
+| 10 | bl792 | evaluated | 9af784 | 131.5 |
+| 11 | TA | evaluated | 324cb8 | 131.7 |
 | 12 | lipphi | evaluated | a3a71b | 150.9 |
 | 13 | tuo | evaluated | dcc492 | 162.1 |
 | 14 | TheProphet | evaluated | 186ddb | 188.3 |
