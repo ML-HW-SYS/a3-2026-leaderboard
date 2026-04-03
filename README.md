@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 02, 2026 at 09:12:08 PM ET`
+Last updated: `April 02, 2026 at 09:27:09 PM ET`
 
 ## Pages
 
@@ -18,17 +18,17 @@ Last updated: `April 02, 2026 at 09:12:08 PM ET`
 | 4 | nickname55555555 | evaluated | 99ddc2 | 27.8/2.8/30.6 | 1.633 | 552.2 | 334.1 | 32.4 | 53.0 |
 | 5 | andrasferenczy | evaluated | 9c7f53 | 37.3/3.2/40.5 | 1.486 | 539.1 | 277.2 | 31.9 | 63.7 |
 | 6 | gravlax | evaluated | b1229d | 19.9/3.2/23.1 | 1.464 | 532.3 | 272.5 | 35.0 | 59.7 |
-| 7 | TA | evaluated | 324cb8 | 19.8/3.5/23.3 | 0.997 | 553.3 | 295.5 | 83.2 | 131.7 |
-| 8 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
-| 9 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 34.9/4.4/39.3 | 0.790 | 558.0 | 221.1 | 160.0 | 131.1 |
-| 10 | Shengwei | evaluated | 33733e | 40.6/4.7/45.3 | 0.710 | 543.9 | 224.0 | 238.7 | 132.9 |
-| 11 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
-| 12 | tuo | evaluated | 4e7068 | 26.0/7.1/33.2 | 0.465 | 359.4 | 145.7 | 301.5 | 246.7 |
+| 7 | happyface | evaluated | 7e8b61 | 18.5/3.4/22.0 | 1.219 | 543.0 | 258.2 | 63.7 | 66.0 |
+| 8 | TA | evaluated | 324cb8 | 19.8/3.5/23.3 | 0.997 | 553.3 | 295.5 | 83.2 | 131.7 |
+| 9 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
+| 10 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 34.9/4.4/39.3 | 0.790 | 558.0 | 221.1 | 160.0 | 131.1 |
+| 11 | Shengwei | evaluated | 33733e | 40.6/4.7/45.3 | 0.710 | 543.9 | 224.0 | 238.7 | 132.9 |
+| 12 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
+| 13 | tuo | evaluated | 4e7068 | 26.0/7.1/33.2 | 0.465 | 359.4 | 145.7 | 301.5 | 246.7 |
 |  | abarat007 | failed | 9e63f6 |  |  |  |  |  |  |
 |  | ashaikh23 | failed | a5012f |  |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | fishyfins | failed | b8a4a4 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | happyface | failed | 70985d | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | ishan-pat | failed | acf3d7 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | landrum | failed | b88426 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | prousoglou | failed | f33caa | 0.0/0.0/0.0 |  |  |  |  |  |

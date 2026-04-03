@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 02, 2026 at 09:12:08 PM ET`
+Last updated: `April 02, 2026 at 09:27:09 PM ET`
 
 ## R1 (tok/s)
 
@@ -13,16 +13,16 @@ Last updated: `April 02, 2026 at 09:12:08 PM ET`
 | 5 | TA | evaluated | 324cb8 | 553.3 |
 | 6 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
 | 7 | Shengwei | evaluated | 33733e | 543.9 |
-| 8 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
-| 9 | lipphi | evaluated | a3a71b | 534.8 |
-| 10 | gravlax | evaluated | b1229d | 532.3 |
-| 11 | gm | evaluated | 0c2fc9 | 518.1 |
-| 12 | tuo | evaluated | 4e7068 | 359.4 |
+| 8 | happyface | evaluated | 7e8b61 | 543.0 |
+| 9 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
+| 10 | lipphi | evaluated | a3a71b | 534.8 |
+| 11 | gravlax | evaluated | b1229d | 532.3 |
+| 12 | gm | evaluated | 0c2fc9 | 518.1 |
+| 13 | tuo | evaluated | 4e7068 | 359.4 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
-|  | happyface | failed | 70985d |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | prousoglou | failed | f33caa |  |
@@ -40,15 +40,15 @@ Last updated: `April 02, 2026 at 09:12:08 PM ET`
 | 6 | TA | evaluated | 324cb8 | 295.5 |
 | 7 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
 | 8 | gravlax | evaluated | b1229d | 272.5 |
-| 9 | Shengwei | evaluated | 33733e | 224.0 |
-| 10 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 221.1 |
-| 11 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 12 | tuo | evaluated | 4e7068 | 145.7 |
+| 9 | happyface | evaluated | 7e8b61 | 258.2 |
+| 10 | Shengwei | evaluated | 33733e | 224.0 |
+| 11 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 221.1 |
+| 12 | your_nickname_here | evaluated | f10b9b | 173.1 |
+| 13 | tuo | evaluated | 4e7068 | 145.7 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
-|  | happyface | failed | 70985d |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | prousoglou | failed | f33caa |  |
@@ -64,17 +64,17 @@ Last updated: `April 02, 2026 at 09:12:08 PM ET`
 | 4 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
 | 5 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
 | 6 | gravlax | evaluated | b1229d | 35.0 |
-| 7 | TA | evaluated | 324cb8 | 83.2 |
-| 8 | lipphi | evaluated | a3a71b | 104.4 |
-| 9 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 160.0 |
-| 10 | Shengwei | evaluated | 33733e | 238.7 |
-| 11 | tuo | evaluated | 4e7068 | 301.5 |
-| 12 | your_nickname_here | evaluated | f10b9b | 308.1 |
+| 7 | happyface | evaluated | 7e8b61 | 63.7 |
+| 8 | TA | evaluated | 324cb8 | 83.2 |
+| 9 | lipphi | evaluated | a3a71b | 104.4 |
+| 10 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 160.0 |
+| 11 | Shengwei | evaluated | 33733e | 238.7 |
+| 12 | tuo | evaluated | 4e7068 | 301.5 |
+| 13 | your_nickname_here | evaluated | f10b9b | 308.1 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
-|  | happyface | failed | 70985d |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | prousoglou | failed | f33caa |  |
@@ -90,17 +90,17 @@ Last updated: `April 02, 2026 at 09:12:08 PM ET`
 | 4 | nickname55555555 | evaluated | 99ddc2 | 53.0 |
 | 5 | gravlax | evaluated | b1229d | 59.7 |
 | 6 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
-| 7 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 131.1 |
-| 8 | TA | evaluated | 324cb8 | 131.7 |
-| 9 | Shengwei | evaluated | 33733e | 132.9 |
-| 10 | lipphi | evaluated | a3a71b | 150.9 |
-| 11 | your_nickname_here | evaluated | f10b9b | 246.4 |
-| 12 | tuo | evaluated | 4e7068 | 246.7 |
+| 7 | happyface | evaluated | 7e8b61 | 66.0 |
+| 8 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 131.1 |
+| 9 | TA | evaluated | 324cb8 | 131.7 |
+| 10 | Shengwei | evaluated | 33733e | 132.9 |
+| 11 | lipphi | evaluated | a3a71b | 150.9 |
+| 12 | your_nickname_here | evaluated | f10b9b | 246.4 |
+| 13 | tuo | evaluated | 4e7068 | 246.7 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | b8a4a4 |  |
-|  | happyface | failed | 70985d |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | prousoglou | failed | f33caa |  |
