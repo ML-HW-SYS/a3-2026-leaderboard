@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 02, 2026 at 10:28:36 PM ET`
+Last updated: `April 02, 2026 at 10:42:08 PM ET`
 
 ## Pages
 
@@ -24,6 +24,7 @@ Last updated: `April 02, 2026 at 10:28:36 PM ET`
 | 10 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 34.9/4.4/39.3 | 0.790 | 558.0 | 221.1 | 160.0 | 131.1 |
 | 11 | Shengwei | evaluated | 33733e | 40.6/4.7/45.3 | 0.710 | 543.9 | 224.0 | 238.7 | 132.9 |
 | 12 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
+| 13 | bl792 | evaluated | 3b3a8a | 60.3/6.1/66.5 | 0.538 | 528.5 | 170.2 | 304.3 | 233.2 |
 |  | abarat007 | failed | 9e63f6 |  |  |  |  |  |  |
 |  | ashaikh23 | failed | a5012f |  |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |

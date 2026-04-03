@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 02, 2026 at 10:28:36 PM ET`
+Last updated: `April 02, 2026 at 10:42:08 PM ET`
 
 ## R1 (tok/s)
 
@@ -17,7 +17,8 @@ Last updated: `April 02, 2026 at 10:28:36 PM ET`
 | 9 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
 | 10 | lipphi | evaluated | a3a71b | 534.8 |
 | 11 | gravlax | evaluated | b1229d | 532.3 |
-| 12 | gm | evaluated | 0c2fc9 | 518.1 |
+| 12 | bl792 | evaluated | 3b3a8a | 528.5 |
+| 13 | gm | evaluated | 0c2fc9 | 518.1 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -44,6 +45,7 @@ Last updated: `April 02, 2026 at 10:28:36 PM ET`
 | 10 | Shengwei | evaluated | 33733e | 224.0 |
 | 11 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 221.1 |
 | 12 | your_nickname_here | evaluated | f10b9b | 173.1 |
+| 13 | bl792 | evaluated | 3b3a8a | 170.2 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -69,7 +71,8 @@ Last updated: `April 02, 2026 at 10:28:36 PM ET`
 | 9 | lipphi | evaluated | a3a71b | 104.4 |
 | 10 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 160.0 |
 | 11 | Shengwei | evaluated | 33733e | 238.7 |
-| 12 | your_nickname_here | evaluated | f10b9b | 308.1 |
+| 12 | bl792 | evaluated | 3b3a8a | 304.3 |
+| 13 | your_nickname_here | evaluated | f10b9b | 308.1 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -95,7 +98,8 @@ Last updated: `April 02, 2026 at 10:28:36 PM ET`
 | 9 | TA | evaluated | 324cb8 | 131.7 |
 | 10 | Shengwei | evaluated | 33733e | 132.9 |
 | 11 | lipphi | evaluated | a3a71b | 150.9 |
-| 12 | your_nickname_here | evaluated | f10b9b | 246.4 |
+| 12 | bl792 | evaluated | 3b3a8a | 233.2 |
+| 13 | your_nickname_here | evaluated | f10b9b | 246.4 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
