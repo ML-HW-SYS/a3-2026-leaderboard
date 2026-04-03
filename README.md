@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 03, 2026 at 01:10:42 AM ET`
+Last updated: `April 03, 2026 at 01:27:08 AM ET`
 
 ## Pages
 
@@ -21,10 +21,10 @@ Last updated: `April 03, 2026 at 01:10:42 AM ET`
 | 7 | happyface | evaluated | 7e8b61 | 18.5/3.4/22.0 | 1.219 | 543.0 | 258.2 | 63.7 | 66.0 |
 | 8 | TA | evaluated | 324cb8 | 19.8/3.5/23.3 | 0.997 | 553.3 | 295.5 | 83.2 | 131.7 |
 | 9 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
-| 10 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 34.9/4.4/39.3 | 0.790 | 558.0 | 221.1 | 160.0 | 131.1 |
-| 11 | Shengwei | evaluated | 33733e | 40.6/4.7/45.3 | 0.710 | 543.9 | 224.0 | 238.7 | 132.9 |
-| 12 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
-| 13 | bl792 | evaluated | 3b3a8a | 60.3/6.1/66.5 | 0.538 | 528.5 | 170.2 | 304.3 | 233.2 |
+| 10 | bl792 | evaluated | 6ec673 | 18.7/4.3/23.0 | 0.826 | 523.9 | 228.2 | 128.1 | 132.7 |
+| 11 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 34.9/4.4/39.3 | 0.790 | 558.0 | 221.1 | 160.0 | 131.1 |
+| 12 | Shengwei | evaluated | 33733e | 40.6/4.7/45.3 | 0.710 | 543.9 | 224.0 | 238.7 | 132.9 |
+| 13 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
 |  | abarat007 | failed | 9e63f6 |  |  |  |  |  |  |
 |  | ashaikh23 | failed | a5012f |  |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |

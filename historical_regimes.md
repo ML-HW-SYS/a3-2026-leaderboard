@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 03, 2026 at 01:10:42 AM ET`
+Last updated: `April 03, 2026 at 01:27:08 AM ET`
 
 ## R1 (tok/s)
 
@@ -37,12 +37,12 @@ Last updated: `April 03, 2026 at 01:10:42 AM ET`
 | 8 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
 | 9 | gravlax | develop.py | b1229d | 273.0 |
 | 10 | happyface | develop.py | 0aca52 | 259.4 |
-| 11 | Shengwei | submission.py | 33733e | 224.0 |
-| 12 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 221.1 |
-| 13 | abarat007 | develop.py | 71d00e | 219.0 |
-| 14 | tuo | submission.py | 4735b8 | 197.3 |
-| 15 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 16 | bl792 | submission.py | 3b3a8a | 170.2 |
+| 11 | bl792 | submission.py | 6ec673 | 228.2 |
+| 12 | Shengwei | submission.py | 33733e | 224.0 |
+| 13 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 221.1 |
+| 14 | abarat007 | develop.py | 71d00e | 219.0 |
+| 15 | tuo | submission.py | 4735b8 | 197.3 |
+| 16 | your_nickname_here | submission.py | 59e245 | 173.4 |
 
 ## R3 (ms)
 
@@ -59,10 +59,10 @@ Last updated: `April 03, 2026 at 01:10:42 AM ET`
 | 9 | abarat007 | develop.py | 71d00e | 80.6 |
 | 10 | TA | submission.py | 324cb8 | 83.2 |
 | 11 | lipphi | develop.py | d58cae | 104.4 |
-| 12 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 160.0 |
-| 13 | tuo | submission.py | 4735b8 | 168.0 |
-| 14 | Shengwei | submission.py | 33733e | 238.7 |
-| 15 | bl792 | submission.py | 3b3a8a | 304.3 |
+| 12 | bl792 | submission.py | 6ec673 | 128.1 |
+| 13 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 160.0 |
+| 14 | tuo | submission.py | 4735b8 | 168.0 |
+| 15 | Shengwei | submission.py | 33733e | 238.7 |
 | 16 | your_nickname_here | submission.py | 59e245 | 307.4 |
 
 ## R4 (ms)
@@ -81,7 +81,7 @@ Last updated: `April 03, 2026 at 01:10:42 AM ET`
 | 10 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 131.1 |
 | 11 | TA | submission.py | 324cb8 | 131.7 |
 | 12 | Shengwei | develop.py | 33733e | 132.4 |
-| 13 | lipphi | submission.py | a3a71b | 150.9 |
-| 14 | tuo | submission.py | 4735b8 | 161.7 |
-| 15 | bl792 | submission.py | 3b3a8a | 233.2 |
+| 13 | bl792 | submission.py | 6ec673 | 132.7 |
+| 14 | lipphi | submission.py | a3a71b | 150.9 |
+| 15 | tuo | submission.py | 4735b8 | 161.7 |
 | 16 | your_nickname_here | submission.py | 59e245 | 245.7 |
