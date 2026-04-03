@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 03, 2026 at 02:12:14 AM ET`
+Last updated: `April 03, 2026 at 02:27:15 AM ET`
 
 ## R1 (tok/s)
 
@@ -17,7 +17,7 @@ Last updated: `April 03, 2026 at 02:12:14 AM ET`
 | 9 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
 | 10 | lipphi | evaluated | a3a71b | 534.8 |
 | 11 | gravlax | evaluated | b1229d | 532.3 |
-| 12 | bl792 | evaluated | 6ec673 | 523.9 |
+| 12 | bl792 | evaluated | 9af784 | 525.3 |
 | 13 | gm | evaluated | 0c2fc9 | 518.1 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
@@ -42,7 +42,7 @@ Last updated: `April 03, 2026 at 02:12:14 AM ET`
 | 7 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
 | 8 | gravlax | evaluated | b1229d | 272.5 |
 | 9 | happyface | evaluated | 7e8b61 | 258.2 |
-| 10 | bl792 | evaluated | 6ec673 | 228.2 |
+| 10 | bl792 | evaluated | 9af784 | 226.0 |
 | 11 | Shengwei | evaluated | 33733e | 224.0 |
 | 12 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 221.1 |
 | 13 | your_nickname_here | evaluated | f10b9b | 173.1 |
@@ -68,8 +68,8 @@ Last updated: `April 03, 2026 at 02:12:14 AM ET`
 | 6 | gravlax | evaluated | b1229d | 35.0 |
 | 7 | happyface | evaluated | 7e8b61 | 63.7 |
 | 8 | TA | evaluated | 324cb8 | 83.2 |
-| 9 | lipphi | evaluated | a3a71b | 104.4 |
-| 10 | bl792 | evaluated | 6ec673 | 128.1 |
+| 9 | bl792 | evaluated | 9af784 | 97.1 |
+| 10 | lipphi | evaluated | a3a71b | 104.4 |
 | 11 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 160.0 |
 | 12 | Shengwei | evaluated | 33733e | 238.7 |
 | 13 | your_nickname_here | evaluated | f10b9b | 308.1 |
@@ -95,8 +95,8 @@ Last updated: `April 03, 2026 at 02:12:14 AM ET`
 | 6 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
 | 7 | happyface | evaluated | 7e8b61 | 66.0 |
 | 8 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 131.1 |
-| 9 | TA | evaluated | 324cb8 | 131.7 |
-| 10 | bl792 | evaluated | 6ec673 | 132.7 |
+| 9 | bl792 | evaluated | 9af784 | 131.5 |
+| 10 | TA | evaluated | 324cb8 | 131.7 |
 | 11 | Shengwei | evaluated | 33733e | 132.9 |
 | 12 | lipphi | evaluated | a3a71b | 150.9 |
 | 13 | your_nickname_here | evaluated | f10b9b | 246.4 |

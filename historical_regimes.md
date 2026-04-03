@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 03, 2026 at 02:12:14 AM ET`
+Last updated: `April 03, 2026 at 02:27:15 AM ET`
 
 ## R1 (tok/s)
 
@@ -58,8 +58,8 @@ Last updated: `April 03, 2026 at 02:12:14 AM ET`
 | 8 | happyface | submission.py | 9f7886 | 63.4 |
 | 9 | abarat007 | develop.py | 71d00e | 80.6 |
 | 10 | TA | submission.py | 324cb8 | 83.2 |
-| 11 | lipphi | develop.py | d58cae | 104.4 |
-| 12 | bl792 | submission.py | 6ec673 | 128.1 |
+| 11 | bl792 | submission.py | 9af784 | 97.1 |
+| 12 | lipphi | develop.py | d58cae | 104.4 |
 | 13 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 160.0 |
 | 14 | tuo | submission.py | 4735b8 | 168.0 |
 | 15 | Shengwei | submission.py | 33733e | 238.7 |
@@ -79,9 +79,9 @@ Last updated: `April 03, 2026 at 02:12:14 AM ET`
 | 8 | happyface | develop.py | 0aca52 | 65.7 |
 | 9 | abarat007 | develop.py | 71d00e | 114.2 |
 | 10 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 131.1 |
-| 11 | TA | submission.py | 324cb8 | 131.7 |
-| 12 | Shengwei | develop.py | 33733e | 132.4 |
-| 13 | bl792 | develop.py | 6ec673 | 132.4 |
+| 11 | bl792 | submission.py | 9af784 | 131.5 |
+| 12 | TA | submission.py | 324cb8 | 131.7 |
+| 13 | Shengwei | develop.py | 33733e | 132.4 |
 | 14 | lipphi | submission.py | a3a71b | 150.9 |
 | 15 | tuo | submission.py | 4735b8 | 161.7 |
 | 16 | your_nickname_here | submission.py | 59e245 | 245.7 |
