@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 03, 2026 at 02:53:32 PM ET`
+Last updated: `April 03, 2026 at 03:08:37 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 03 03:01 PM ET | tuo | failed_security | Security policy check failed for develop.py: - prohibited import: importlib.util - prohibited import: pathlib - prohi... | develop.py | 30a3c3 |  |  |  |  |  |
+| Apr 03 03:01 PM ET | prousoglou | evaluated |  | submission.py | 570c63 | 18.4/2.7/21.1 | 556.7 | 368.2 | 34.7 | 65.3 |
+| Apr 03 02:53 PM ET | SIUUU | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | submission.py | ad9184 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 03 02:46 PM ET | tuo | evaluated |  | submission.py | 30a3c3 | 46.4/5.0/51.3 | 495.2 | 203.8 | 174.4 | 178.4 |
 | Apr 03 01:45 PM ET | Shengwei | evaluated |  | submission.py | 395bbf | 39.2/3.1/42.3 | 542.9 | 327.4 | 71.0 | 87.5 |
 | Apr 03 01:43 PM ET | 13rabbit | evaluated |  | develop.py | fe30c9 | 19.5/6.2/25.7 | 540.7 | 170.4 | 308.3 | 244.9 |

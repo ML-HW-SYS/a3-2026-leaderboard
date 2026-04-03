@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 03, 2026 at 02:53:32 PM ET`
+Last updated: `April 03, 2026 at 03:08:37 PM ET`
 
 ## R1 (tok/s)
 
@@ -11,7 +11,7 @@ Last updated: `April 03, 2026 at 02:53:32 PM ET`
 | 3 | your_nickname_here | submission.py | 59e245 | 559.6 |
 | 4 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 558.0 |
 | 5 | chyyy | submission.py | 56b321 | 557.7 |
-| 6 | prousoglou | develop.py | 6d0906 | 556.5 |
+| 6 | prousoglou | submission.py | 570c63 | 556.7 |
 | 7 | nickname55555555 | develop.py | 7034af | 554.6 |
 | 8 | TA | submission.py | 324cb8 | 553.3 |
 | 9 | gm | develop.py | a57e9f | 548.9 |
@@ -32,7 +32,7 @@ Last updated: `April 03, 2026 at 02:53:32 PM ET`
 | --- | --- | --- | --- | --- |
 | 1 | chyyy | submission.py | 34cc06 | 433.8 |
 | 2 | - - | submission.py | adc0f3 | 386.9 |
-| 3 | prousoglou | develop.py | 6d0906 | 367.5 |
+| 3 | prousoglou | submission.py | 570c63 | 368.2 |
 | 4 | gm | develop.py | fd15e9 | 357.3 |
 | 5 | nickname55555555 | develop.py | 99ddc2 | 334.4 |
 | 6 | Shengwei | submission.py | 395bbf | 327.4 |
@@ -59,7 +59,7 @@ Last updated: `April 03, 2026 at 02:53:32 PM ET`
 | 3 | gm | submission.py | 2898fc | 26.8 |
 | 4 | nickname55555555 | submission.py | 05c6ab | 31.9 |
 | 5 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
-| 6 | prousoglou | develop.py | 6d0906 | 34.7 |
+| 6 | prousoglou | submission.py | 570c63 | 34.7 |
 | 7 | gravlax | develop.py | b1229d | 35.0 |
 | 8 | happyface | submission.py | 9f7886 | 63.4 |
 | 9 | Shengwei | submission.py | 395bbf | 71.0 |
@@ -84,7 +84,7 @@ Last updated: `April 03, 2026 at 02:53:32 PM ET`
 | 4 | nickname55555555 | submission.py | 05c6ab | 52.5 |
 | 5 | gravlax | submission.py | b1229d | 59.7 |
 | 6 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
-| 7 | prousoglou | develop.py | 6d0906 | 65.6 |
+| 7 | prousoglou | submission.py | 570c63 | 65.3 |
 | 8 | happyface | develop.py | 0aca52 | 65.7 |
 | 9 | Shengwei | submission.py | 395bbf | 87.5 |
 | 10 | abarat007 | develop.py | 71d00e | 114.2 |
