@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 03, 2026 at 01:22:47 PM ET`
+Last updated: `April 03, 2026 at 01:38:13 PM ET`
 
 ## R1 (tok/s)
 
@@ -15,13 +15,14 @@ Last updated: `April 03, 2026 at 01:22:47 PM ET`
 | 7 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
 | 8 | Shengwei | evaluated | 33733e | 543.9 |
 | 9 | happyface | evaluated | 7e8b61 | 543.0 |
-| 10 | gm | evaluated | 2898fc | 541.1 |
-| 11 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
-| 12 | lipphi | evaluated | a3a71b | 534.8 |
-| 13 | gravlax | evaluated | b1229d | 532.3 |
-| 14 | bl792 | evaluated | 9af784 | 525.3 |
-| 15 | beratcelik | evaluated | 6ce29b | 524.7 |
-| 16 | tuo | evaluated | dcc492 | 457.0 |
+| 10 | 13rabbit | evaluated | fe30c9 | 543.0 |
+| 11 | gm | evaluated | 2898fc | 541.1 |
+| 12 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
+| 13 | lipphi | evaluated | a3a71b | 534.8 |
+| 14 | gravlax | evaluated | b1229d | 532.3 |
+| 15 | bl792 | evaluated | 9af784 | 525.3 |
+| 16 | beratcelik | evaluated | 6ce29b | 524.7 |
+| 17 | tuo | evaluated | dcc492 | 457.0 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -50,7 +51,8 @@ Last updated: `April 03, 2026 at 01:22:47 PM ET`
 | 13 | tuo | evaluated | dcc492 | 197.5 |
 | 14 | TheProphet | evaluated | 186ddb | 176.8 |
 | 15 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 16 | beratcelik | evaluated | 6ce29b | 169.6 |
+| 16 | 13rabbit | evaluated | fe30c9 | 170.8 |
+| 17 | beratcelik | evaluated | 6ce29b | 169.6 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -79,7 +81,8 @@ Last updated: `April 03, 2026 at 01:22:47 PM ET`
 | 13 | Shengwei | evaluated | 33733e | 238.7 |
 | 14 | TheProphet | evaluated | 186ddb | 279.6 |
 | 15 | beratcelik | evaluated | 6ce29b | 305.0 |
-| 16 | your_nickname_here | evaluated | f10b9b | 308.1 |
+| 16 | 13rabbit | evaluated | fe30c9 | 307.5 |
+| 17 | your_nickname_here | evaluated | f10b9b | 308.1 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -108,7 +111,8 @@ Last updated: `April 03, 2026 at 01:22:47 PM ET`
 | 13 | tuo | evaluated | dcc492 | 162.1 |
 | 14 | TheProphet | evaluated | 186ddb | 188.3 |
 | 15 | beratcelik | evaluated | 6ce29b | 232.3 |
-| 16 | your_nickname_here | evaluated | f10b9b | 246.4 |
+| 16 | 13rabbit | evaluated | fe30c9 | 244.5 |
+| 17 | your_nickname_here | evaluated | f10b9b | 246.4 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |

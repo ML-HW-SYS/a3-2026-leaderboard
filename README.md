@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 03, 2026 at 01:22:47 PM ET`
+Last updated: `April 03, 2026 at 01:38:13 PM ET`
 
 ## Pages
 
@@ -28,6 +28,7 @@ Last updated: `April 03, 2026 at 01:22:47 PM ET`
 | 14 | TheProphet | evaluated | 186ddb | 38.7/5.7/44.4 | 0.595 | 562.0 | 176.8 | 279.6 | 188.3 |
 | 15 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
 | 16 | beratcelik | evaluated | 6ce29b | 72.8/6.1/78.9 | 0.537 | 524.7 | 169.6 | 305.0 | 232.3 |
+| 17 | 13rabbit | evaluated | fe30c9 | 39.8/6.1/46.0 | 0.535 | 543.0 | 170.8 | 307.5 | 244.5 |
 |  | abarat007 | failed | 9e63f6 |  |  |  |  |  |  |
 |  | ashaikh23 | failed | a5012f |  |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |

@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 03, 2026 at 01:22:47 PM ET`
+Last updated: `April 03, 2026 at 01:38:13 PM ET`
 
 ## R1 (tok/s)
 
@@ -17,13 +17,14 @@ Last updated: `April 03, 2026 at 01:22:47 PM ET`
 | 9 | gm | develop.py | a57e9f | 548.9 |
 | 10 | happyface | develop.py | 7255fc | 544.6 |
 | 11 | Shengwei | submission.py | 33733e | 543.9 |
-| 12 | andrasferenczy | submission.py | 6204c7 | 540.6 |
-| 13 | lipphi | submission.py | a3a71b | 534.8 |
-| 14 | gravlax | develop.py | 1f23d9 | 534.6 |
-| 15 | bl792 | submission.py | 3b3a8a | 528.5 |
-| 16 | abarat007 | develop.py | 71d00e | 527.6 |
-| 17 | beratcelik | submission.py | 6ce29b | 524.7 |
-| 18 | tuo | submission.py | 4735b8 | 460.6 |
+| 12 | 13rabbit | submission.py | fe30c9 | 543.0 |
+| 13 | andrasferenczy | submission.py | 6204c7 | 540.6 |
+| 14 | lipphi | submission.py | a3a71b | 534.8 |
+| 15 | gravlax | develop.py | 1f23d9 | 534.6 |
+| 16 | bl792 | submission.py | 3b3a8a | 528.5 |
+| 17 | abarat007 | develop.py | 71d00e | 527.6 |
+| 18 | beratcelik | submission.py | 6ce29b | 524.7 |
+| 19 | tuo | submission.py | 4735b8 | 460.6 |
 
 ## R2 (tok/s)
 
@@ -46,7 +47,8 @@ Last updated: `April 03, 2026 at 01:22:47 PM ET`
 | 15 | tuo | submission.py | dcc492 | 197.5 |
 | 16 | TheProphet | develop.py | 186ddb | 177.2 |
 | 17 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 18 | beratcelik | develop.py | 6ce29b | 169.8 |
+| 18 | 13rabbit | submission.py | fe30c9 | 170.8 |
+| 19 | beratcelik | develop.py | 6ce29b | 169.8 |
 
 ## R3 (ms)
 
@@ -70,6 +72,7 @@ Last updated: `April 03, 2026 at 01:22:47 PM ET`
 | 16 | TheProphet | develop.py | 186ddb | 279.0 |
 | 17 | beratcelik | submission.py | 6ce29b | 305.0 |
 | 18 | your_nickname_here | submission.py | 59e245 | 307.4 |
+| 19 | 13rabbit | submission.py | fe30c9 | 307.5 |
 
 ## R4 (ms)
 
@@ -92,4 +95,5 @@ Last updated: `April 03, 2026 at 01:22:47 PM ET`
 | 15 | tuo | submission.py | 4735b8 | 161.7 |
 | 16 | TheProphet | develop.py | 186ddb | 187.7 |
 | 17 | beratcelik | submission.py | 6ce29b | 232.3 |
-| 18 | your_nickname_here | submission.py | 59e245 | 245.7 |
+| 18 | 13rabbit | submission.py | fe30c9 | 244.5 |
+| 19 | your_nickname_here | submission.py | 59e245 | 245.7 |
