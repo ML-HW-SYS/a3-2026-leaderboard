@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 03, 2026 at 12:52:12 PM ET`
+Last updated: `April 03, 2026 at 01:07:39 PM ET`
 
 ## R1 (tok/s)
 
@@ -44,7 +44,7 @@ Last updated: `April 03, 2026 at 12:52:12 PM ET`
 | 13 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 221.1 |
 | 14 | abarat007 | develop.py | 71d00e | 219.0 |
 | 15 | tuo | submission.py | dcc492 | 197.5 |
-| 16 | TheProphet | submission.py | 186ddb | 176.8 |
+| 16 | TheProphet | develop.py | 186ddb | 177.2 |
 | 17 | your_nickname_here | submission.py | 59e245 | 173.4 |
 | 18 | beratcelik | develop.py | 6ce29b | 169.8 |
 
@@ -54,7 +54,7 @@ Last updated: `April 03, 2026 at 12:52:12 PM ET`
 | --- | --- | --- | --- | --- |
 | 1 | - - | submission.py | adc0f3 | 21.8 |
 | 2 | chyyy | submission.py | 34cc06 | 24.8 |
-| 3 | gm | submission.py | 540f22 | 26.8 |
+| 3 | gm | submission.py | 2898fc | 26.8 |
 | 4 | nickname55555555 | submission.py | 05c6ab | 31.9 |
 | 5 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
 | 6 | prousoglou | develop.py | 6d0906 | 34.7 |
@@ -67,7 +67,7 @@ Last updated: `April 03, 2026 at 12:52:12 PM ET`
 | 13 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 160.0 |
 | 14 | tuo | submission.py | 4735b8 | 168.0 |
 | 15 | Shengwei | submission.py | 33733e | 238.7 |
-| 16 | TheProphet | submission.py | 186ddb | 279.6 |
+| 16 | TheProphet | develop.py | 186ddb | 279.0 |
 | 17 | beratcelik | submission.py | 6ce29b | 305.0 |
 | 18 | your_nickname_here | submission.py | 59e245 | 307.4 |
 
@@ -77,7 +77,7 @@ Last updated: `April 03, 2026 at 12:52:12 PM ET`
 | --- | --- | --- | --- | --- |
 | 1 | - - | submission.py | 442030 | 44.4 |
 | 2 | chyyy | develop.py | 34cc06 | 47.5 |
-| 3 | gm | submission.py | 540f22 | 48.7 |
+| 3 | gm | submission.py | 2898fc | 48.5 |
 | 4 | nickname55555555 | submission.py | 05c6ab | 52.5 |
 | 5 | gravlax | submission.py | b1229d | 59.7 |
 | 6 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
@@ -90,6 +90,6 @@ Last updated: `April 03, 2026 at 12:52:12 PM ET`
 | 13 | Shengwei | develop.py | 33733e | 132.4 |
 | 14 | lipphi | submission.py | a3a71b | 150.9 |
 | 15 | tuo | submission.py | 4735b8 | 161.7 |
-| 16 | TheProphet | submission.py | 186ddb | 188.3 |
+| 16 | TheProphet | develop.py | 186ddb | 187.7 |
 | 17 | beratcelik | submission.py | 6ce29b | 232.3 |
 | 18 | your_nickname_here | submission.py | 59e245 | 245.7 |

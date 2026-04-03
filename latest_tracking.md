@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 03, 2026 at 12:52:12 PM ET`
+Last updated: `April 03, 2026 at 01:07:39 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 03 01:01 PM ET | gm | evaluated |  | submission.py | 2898fc | 20.9/2.7/23.6 | 541.1 | 357.0 | 26.8 | 48.5 |
+| Apr 03 12:58 PM ET | TheProphet | evaluated |  | develop.py | 186ddb | 19.4/5.7/25.1 | 554.7 | 177.2 | 279.0 | 187.7 |
 | Apr 03 12:46 PM ET | gm | evaluated |  | develop.py | 91739c | 42.4/6.8/49.3 | 328.2 | 164.5 | 307.4 | 234.8 |
 | Apr 03 12:42 PM ET | TheProphet | evaluated |  | submission.py | 186ddb | 38.7/5.7/44.4 | 562.0 | 176.8 | 279.6 | 188.3 |
 | Apr 03 12:35 PM ET | beratcelik | evaluated |  | develop.py | 6ce29b | 19.7/6.2/25.9 | 524.0 | 169.8 | 308.7 | 246.5 |
