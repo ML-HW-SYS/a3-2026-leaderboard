@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 03, 2026 at 01:27:08 AM ET`
+Last updated: `April 03, 2026 at 01:42:10 AM ET`
 
 ## R1 (tok/s)
 
@@ -37,7 +37,7 @@ Last updated: `April 03, 2026 at 01:27:08 AM ET`
 | 8 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
 | 9 | gravlax | develop.py | b1229d | 273.0 |
 | 10 | happyface | develop.py | 0aca52 | 259.4 |
-| 11 | bl792 | submission.py | 6ec673 | 228.2 |
+| 11 | bl792 | develop.py | 6ec673 | 228.2 |
 | 12 | Shengwei | submission.py | 33733e | 224.0 |
 | 13 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 221.1 |
 | 14 | abarat007 | develop.py | 71d00e | 219.0 |
@@ -81,7 +81,7 @@ Last updated: `April 03, 2026 at 01:27:08 AM ET`
 | 10 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 131.1 |
 | 11 | TA | submission.py | 324cb8 | 131.7 |
 | 12 | Shengwei | develop.py | 33733e | 132.4 |
-| 13 | bl792 | submission.py | 6ec673 | 132.7 |
+| 13 | bl792 | develop.py | 6ec673 | 132.4 |
 | 14 | lipphi | submission.py | a3a71b | 150.9 |
 | 15 | tuo | submission.py | 4735b8 | 161.7 |
 | 16 | your_nickname_here | submission.py | 59e245 | 245.7 |
