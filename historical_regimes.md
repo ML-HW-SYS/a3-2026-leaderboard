@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 02, 2026 at 11:41:14 PM ET`
+Last updated: `April 02, 2026 at 11:56:38 PM ET`
 
 ## R1 (tok/s)
 
@@ -16,10 +16,10 @@ Last updated: `April 02, 2026 at 11:41:14 PM ET`
 | 8 | happyface | develop.py | 7255fc | 544.6 |
 | 9 | Shengwei | submission.py | 33733e | 543.9 |
 | 10 | andrasferenczy | submission.py | 6204c7 | 540.6 |
-| 11 | lipphi | submission.py | a3a71b | 534.8 |
-| 12 | gravlax | develop.py | 1f23d9 | 534.6 |
-| 13 | bl792 | submission.py | 3b3a8a | 528.5 |
-| 14 | prousoglou | develop.py | d97179 | 528.1 |
+| 11 | prousoglou | develop.py | 1b2edc | 536.1 |
+| 12 | lipphi | submission.py | a3a71b | 534.8 |
+| 13 | gravlax | develop.py | 1f23d9 | 534.6 |
+| 14 | bl792 | submission.py | 3b3a8a | 528.5 |
 | 15 | abarat007 | develop.py | 71d00e | 527.6 |
 | 16 | tuo | submission.py | 4735b8 | 460.6 |
 
@@ -36,7 +36,7 @@ Last updated: `April 02, 2026 at 11:41:14 PM ET`
 | 7 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
 | 8 | gravlax | develop.py | b1229d | 273.0 |
 | 9 | happyface | develop.py | 0aca52 | 259.4 |
-| 10 | prousoglou | develop.py | 1a9fa5 | 257.9 |
+| 10 | prousoglou | develop.py | 1b2edc | 259.1 |
 | 11 | Shengwei | submission.py | 33733e | 224.0 |
 | 12 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 221.1 |
 | 13 | abarat007 | develop.py | 71d00e | 219.0 |
@@ -55,7 +55,7 @@ Last updated: `April 02, 2026 at 11:41:14 PM ET`
 | 5 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
 | 6 | gravlax | develop.py | b1229d | 35.0 |
 | 7 | happyface | submission.py | 9f7886 | 63.4 |
-| 8 | prousoglou | develop.py | 1a9fa5 | 65.5 |
+| 8 | prousoglou | develop.py | 1b2edc | 65.1 |
 | 9 | abarat007 | develop.py | 71d00e | 80.6 |
 | 10 | TA | submission.py | 324cb8 | 83.2 |
 | 11 | lipphi | develop.py | d58cae | 104.4 |
@@ -77,7 +77,7 @@ Last updated: `April 02, 2026 at 11:41:14 PM ET`
 | 6 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
 | 7 | happyface | develop.py | 0aca52 | 65.7 |
 | 8 | abarat007 | develop.py | 71d00e | 114.2 |
-| 9 | prousoglou | develop.py | 1a9fa5 | 126.9 |
+| 9 | prousoglou | develop.py | 1b2edc | 125.7 |
 | 10 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 131.1 |
 | 11 | TA | submission.py | 324cb8 | 131.7 |
 | 12 | Shengwei | develop.py | 33733e | 132.4 |
