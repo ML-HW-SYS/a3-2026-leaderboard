@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 03, 2026 at 02:37:59 PM ET`
+Last updated: `April 03, 2026 at 02:53:32 PM ET`
 
 ## R1 (tok/s)
 
@@ -22,7 +22,7 @@ Last updated: `April 03, 2026 at 02:37:59 PM ET`
 | 14 | gravlax | evaluated | b1229d | 532.3 |
 | 15 | bl792 | evaluated | 9af784 | 525.3 |
 | 16 | beratcelik | evaluated | 6ce29b | 524.7 |
-| 17 | tuo | evaluated | dcc492 | 457.0 |
+| 17 | tuo | evaluated | 30a3c3 | 495.2 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -48,7 +48,7 @@ Last updated: `April 03, 2026 at 02:37:59 PM ET`
 | 10 | happyface | evaluated | 7e8b61 | 258.2 |
 | 11 | bl792 | evaluated | 9af784 | 226.0 |
 | 12 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 221.1 |
-| 13 | tuo | evaluated | dcc492 | 197.5 |
+| 13 | tuo | evaluated | 30a3c3 | 203.8 |
 | 14 | TheProphet | evaluated | 186ddb | 176.8 |
 | 15 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 16 | 13rabbit | evaluated | fe30c9 | 170.8 |
@@ -78,7 +78,7 @@ Last updated: `April 03, 2026 at 02:37:59 PM ET`
 | 10 | bl792 | evaluated | 9af784 | 97.1 |
 | 11 | lipphi | evaluated | a3a71b | 104.4 |
 | 12 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 160.0 |
-| 13 | tuo | evaluated | dcc492 | 168.7 |
+| 13 | tuo | evaluated | 30a3c3 | 174.4 |
 | 14 | TheProphet | evaluated | 186ddb | 279.6 |
 | 15 | beratcelik | evaluated | 6ce29b | 305.0 |
 | 16 | 13rabbit | evaluated | fe30c9 | 307.5 |
@@ -108,7 +108,7 @@ Last updated: `April 03, 2026 at 02:37:59 PM ET`
 | 10 | bl792 | evaluated | 9af784 | 131.5 |
 | 11 | TA | evaluated | 324cb8 | 131.7 |
 | 12 | lipphi | evaluated | a3a71b | 150.9 |
-| 13 | tuo | evaluated | dcc492 | 162.1 |
+| 13 | tuo | evaluated | 30a3c3 | 178.4 |
 | 14 | TheProphet | evaluated | 186ddb | 188.3 |
 | 15 | beratcelik | evaluated | 6ce29b | 232.3 |
 | 16 | 13rabbit | evaluated | fe30c9 | 244.5 |
