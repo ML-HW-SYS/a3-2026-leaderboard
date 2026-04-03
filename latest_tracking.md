@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 02, 2026 at 08:07:35 PM ET`
+Last updated: `April 02, 2026 at 08:24:04 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 02 08:22 PM ET | happyface | evaluated |  | develop.py | 2dc592 | 18.5/3.5/22.0 | 534.9 | 256.9 | 63.7 | 65.9 |
+| Apr 02 08:16 PM ET | prousoglou | evaluated |  | develop.py | d97179 | 30.2/10.6/40.8 | 528.1 | 104.6 | 790.8 | 395.1 |
+| Apr 02 08:14 PM ET | Shengwei | evaluated |  | submission.py | 33733e | 40.6/4.7/45.3 | 543.9 | 224.0 | 238.7 | 132.9 |
 | Apr 02 08:06 PM ET | happyface | evaluated |  | submission.py | 9f7886 | 18.5/3.4/22.0 | 544.3 | 258.7 | 63.4 | 65.7 |
 | Apr 02 07:17 PM ET | gm | evaluated |  | develop.py | fd15e9 | 47.1/2.8/49.8 | 527.3 | 357.3 | 30.7 | 58.0 |
 | Apr 02 07:01 PM ET | gm | evaluated |  | develop.py | 34426d | 42.1/6.1/48.2 | 534.6 | 173.3 | 303.9 | 237.6 |
