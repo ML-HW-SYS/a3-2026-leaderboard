@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 03, 2026 at 10:32:56 AM ET`
+Last updated: `April 03, 2026 at 10:48:04 AM ET`
 
 ## Pages
 
@@ -24,7 +24,8 @@ Last updated: `April 03, 2026 at 10:32:56 AM ET`
 | 10 | bl792 | evaluated | 9af784 | 18.9/4.2/23.0 | 0.886 | 525.3 | 226.0 | 97.1 | 131.5 |
 | 11 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 34.9/4.4/39.3 | 0.790 | 558.0 | 221.1 | 160.0 | 131.1 |
 | 12 | Shengwei | evaluated | 33733e | 40.6/4.7/45.3 | 0.710 | 543.9 | 224.0 | 238.7 | 132.9 |
-| 13 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
+| 13 | tuo | evaluated | dcc492 | 22.9/5.0/28.0 | 0.684 | 457.0 | 197.5 | 168.7 | 162.1 |
+| 14 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
 |  | abarat007 | failed | 9e63f6 |  |  |  |  |  |  |
 |  | ashaikh23 | failed | a5012f |  |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
@@ -32,7 +33,6 @@ Last updated: `April 03, 2026 at 10:32:56 AM ET`
 |  | ishan-pat | failed | acf3d7 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | landrum | failed | b88426 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | prousoglou | failed | f33caa | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | tuo | failed | 6ea89f |  |  |  |  |  |  |
 |  | yb | failed | 8ca88e | 0.0/0.0/0.0 |  |  |  |  |  |
 
 ## Column Guide

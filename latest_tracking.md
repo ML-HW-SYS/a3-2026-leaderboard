@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 03, 2026 at 10:32:56 AM ET`
+Last updated: `April 03, 2026 at 10:48:04 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 03 10:41 AM ET | gm | failed_security | Security policy check failed for develop.py: - prohibited import: os | develop.py | 2ae9fb |  |  |  |  |  |
+| Apr 03 10:41 AM ET | tuo | evaluated |  | submission.py | dcc492 | 22.9/5.0/28.0 | 457.0 | 197.5 | 168.7 | 162.1 |
 | Apr 03 10:26 AM ET | gm | evaluated |  | develop.py | 1bd9d8 | 27.0/6.2/33.2 | 527.5 | 169.4 | 309.2 | 246.7 |
 | Apr 03 09:42 AM ET | gm | evaluated |  | develop.py | 540f22 | 21.2/2.7/24.0 | 517.2 | 355.5 | 26.9 | 48.7 |
 | Apr 03 09:27 AM ET | gm | evaluated |  | submission.py | 540f22 | 21.2/2.7/24.0 | 515.9 | 355.3 | 26.8 | 48.7 |
