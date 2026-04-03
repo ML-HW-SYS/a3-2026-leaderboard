@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 03, 2026 at 03:23:17 PM ET`
+Last updated: `April 03, 2026 at 03:37:57 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 03 03:33 PM ET | mdavalos10 | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | develop.py | b601f0 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 03 03:18 PM ET | mdavalos10 | failed_compliance | Submission compliance check failed for submission.py: - missing required function(s): setup, run | submission.py | b601f0 |  |  |  |  |  |
 | Apr 03 03:09 PM ET | SIUUU | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | develop.py | ad9184 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 03 03:01 PM ET | tuo | failed_security | Security policy check failed for develop.py: - prohibited import: importlib.util - prohibited import: pathlib - prohi... | develop.py | 30a3c3 |  |  |  |  |  |
