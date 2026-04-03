@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 02, 2026 at 07:52:34 PM ET`
+Last updated: `April 02, 2026 at 08:07:35 PM ET`
 
 ## R1 (tok/s)
 
@@ -12,7 +12,7 @@ Last updated: `April 02, 2026 at 07:52:34 PM ET`
 | 4 | chyyy | evaluated | 34cc06 | 555.7 |
 | 5 | TA | evaluated | 324cb8 | 553.3 |
 | 6 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
-| 7 | happyface | evaluated | ca7f90 | 541.5 |
+| 7 | happyface | evaluated | 9f7886 | 544.3 |
 | 8 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
 | 9 | lipphi | evaluated | a3a71b | 534.8 |
 | 10 | gravlax | evaluated | b1229d | 532.3 |
@@ -40,7 +40,7 @@ Last updated: `April 02, 2026 at 07:52:34 PM ET`
 | 6 | TA | evaluated | 324cb8 | 295.5 |
 | 7 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
 | 8 | gravlax | evaluated | b1229d | 272.5 |
-| 9 | happyface | evaluated | ca7f90 | 244.1 |
+| 9 | happyface | evaluated | 9f7886 | 258.7 |
 | 10 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 221.1 |
 | 11 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 12 | tuo | evaluated | 4e7068 | 145.7 |
@@ -64,8 +64,8 @@ Last updated: `April 02, 2026 at 07:52:34 PM ET`
 | 4 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
 | 5 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
 | 6 | gravlax | evaluated | b1229d | 35.0 |
-| 7 | TA | evaluated | 324cb8 | 83.2 |
-| 8 | happyface | evaluated | ca7f90 | 94.2 |
+| 7 | happyface | evaluated | 9f7886 | 63.4 |
+| 8 | TA | evaluated | 324cb8 | 83.2 |
 | 9 | lipphi | evaluated | a3a71b | 104.4 |
 | 10 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 160.0 |
 | 11 | tuo | evaluated | 4e7068 | 301.5 |
@@ -90,7 +90,7 @@ Last updated: `April 02, 2026 at 07:52:34 PM ET`
 | 4 | nickname55555555 | evaluated | 99ddc2 | 53.0 |
 | 5 | gravlax | evaluated | b1229d | 59.7 |
 | 6 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
-| 7 | happyface | evaluated | ca7f90 | 126.1 |
+| 7 | happyface | evaluated | 9f7886 | 65.7 |
 | 8 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 131.1 |
 | 9 | TA | evaluated | 324cb8 | 131.7 |
 | 10 | lipphi | evaluated | a3a71b | 150.9 |
