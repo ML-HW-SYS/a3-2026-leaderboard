@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 03, 2026 at 12:35:59 PM ET`
+Last updated: `April 03, 2026 at 12:52:12 PM ET`
 
 ## Pages
 
@@ -25,8 +25,9 @@ Last updated: `April 03, 2026 at 12:35:59 PM ET`
 | 11 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 34.9/4.4/39.3 | 0.790 | 558.0 | 221.1 | 160.0 | 131.1 |
 | 12 | Shengwei | evaluated | 33733e | 40.6/4.7/45.3 | 0.710 | 543.9 | 224.0 | 238.7 | 132.9 |
 | 13 | tuo | evaluated | dcc492 | 22.9/5.0/28.0 | 0.684 | 457.0 | 197.5 | 168.7 | 162.1 |
-| 14 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
-| 15 | beratcelik | evaluated | 6ce29b | 72.8/6.1/78.9 | 0.537 | 524.7 | 169.6 | 305.0 | 232.3 |
+| 14 | TheProphet | evaluated | 186ddb | 38.7/5.7/44.4 | 0.595 | 562.0 | 176.8 | 279.6 | 188.3 |
+| 15 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
+| 16 | beratcelik | evaluated | 6ce29b | 72.8/6.1/78.9 | 0.537 | 524.7 | 169.6 | 305.0 | 232.3 |
 |  | abarat007 | failed | 9e63f6 |  |  |  |  |  |  |
 |  | ashaikh23 | failed | a5012f |  |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
