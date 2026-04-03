@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 03, 2026 at 06:36:59 PM ET`
+Last updated: `April 03, 2026 at 06:52:21 PM ET`
 
 ## R1 (tok/s)
 
@@ -15,9 +15,9 @@ Last updated: `April 03, 2026 at 06:36:59 PM ET`
 | 7 | TA | evaluated | 324cb8 | 553.3 |
 | 8 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
 | 9 | happyface | evaluated | 7e8b61 | 543.0 |
-| 10 | 13rabbit | evaluated | fe30c9 | 543.0 |
-| 11 | Shengwei | evaluated | 395bbf | 542.9 |
-| 12 | gm | evaluated | 2898fc | 541.1 |
+| 10 | Shengwei | evaluated | 395bbf | 542.9 |
+| 11 | gm | evaluated | 2898fc | 541.1 |
+| 12 | 13rabbit | evaluated | 24af86 | 540.4 |
 | 13 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
 | 14 | lipphi | evaluated | a3a71b | 534.8 |
 | 15 | gravlax | evaluated | b1229d | 532.3 |
@@ -52,10 +52,10 @@ Last updated: `April 03, 2026 at 06:36:59 PM ET`
 | 12 | bl792 | evaluated | 9af784 | 226.0 |
 | 13 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 221.1 |
 | 14 | abarat007 | evaluated | 1db8e1 | 218.5 |
-| 15 | tuo | evaluated | 30a3c3 | 203.8 |
-| 16 | TheProphet | evaluated | 186ddb | 176.8 |
-| 17 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 18 | 13rabbit | evaluated | fe30c9 | 170.8 |
+| 15 | 13rabbit | evaluated | 24af86 | 215.5 |
+| 16 | tuo | evaluated | 30a3c3 | 203.8 |
+| 17 | TheProphet | evaluated | 186ddb | 176.8 |
+| 18 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 19 | beratcelik | evaluated | 6ce29b | 169.6 |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -85,9 +85,9 @@ Last updated: `April 03, 2026 at 06:36:59 PM ET`
 | 13 | lipphi | evaluated | a3a71b | 104.4 |
 | 14 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 160.0 |
 | 15 | tuo | evaluated | 30a3c3 | 174.4 |
-| 16 | TheProphet | evaluated | 186ddb | 279.6 |
-| 17 | beratcelik | evaluated | 6ce29b | 305.0 |
-| 18 | 13rabbit | evaluated | fe30c9 | 307.5 |
+| 16 | 13rabbit | evaluated | 24af86 | 193.8 |
+| 17 | TheProphet | evaluated | 186ddb | 279.6 |
+| 18 | beratcelik | evaluated | 6ce29b | 305.0 |
 | 19 | your_nickname_here | evaluated | f10b9b | 308.1 |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -116,10 +116,10 @@ Last updated: `April 03, 2026 at 06:36:59 PM ET`
 | 12 | bl792 | evaluated | 9af784 | 131.5 |
 | 13 | TA | evaluated | 324cb8 | 131.7 |
 | 14 | lipphi | evaluated | a3a71b | 150.9 |
-| 15 | tuo | evaluated | 30a3c3 | 178.4 |
-| 16 | TheProphet | evaluated | 186ddb | 188.3 |
-| 17 | beratcelik | evaluated | 6ce29b | 232.3 |
-| 18 | 13rabbit | evaluated | fe30c9 | 244.5 |
+| 15 | 13rabbit | evaluated | 24af86 | 156.8 |
+| 16 | tuo | evaluated | 30a3c3 | 178.4 |
+| 17 | TheProphet | evaluated | 186ddb | 188.3 |
+| 18 | beratcelik | evaluated | 6ce29b | 232.3 |
 | 19 | your_nickname_here | evaluated | f10b9b | 246.4 |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |

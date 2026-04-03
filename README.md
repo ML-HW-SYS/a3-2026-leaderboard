@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 03, 2026 at 06:36:59 PM ET`
+Last updated: `April 03, 2026 at 06:52:21 PM ET`
 
 ## Pages
 
@@ -26,11 +26,11 @@ Last updated: `April 03, 2026 at 06:36:59 PM ET`
 | 12 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
 | 13 | bl792 | evaluated | 9af784 | 18.9/4.2/23.0 | 0.886 | 525.3 | 226.0 | 97.1 | 131.5 |
 | 14 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 34.9/4.4/39.3 | 0.790 | 558.0 | 221.1 | 160.0 | 131.1 |
-| 15 | tuo | evaluated | 30a3c3 | 46.4/5.0/51.3 | 0.681 | 495.2 | 203.8 | 174.4 | 178.4 |
-| 16 | TheProphet | evaluated | 186ddb | 38.7/5.7/44.4 | 0.595 | 562.0 | 176.8 | 279.6 | 188.3 |
-| 17 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
-| 18 | beratcelik | evaluated | 6ce29b | 72.8/6.1/78.9 | 0.537 | 524.7 | 169.6 | 305.0 | 232.3 |
-| 19 | 13rabbit | evaluated | fe30c9 | 39.8/6.1/46.0 | 0.535 | 543.0 | 170.8 | 307.5 | 244.5 |
+| 15 | 13rabbit | evaluated | 24af86 | 37.5/4.7/42.3 | 0.710 | 540.4 | 215.5 | 193.8 | 156.8 |
+| 16 | tuo | evaluated | 30a3c3 | 46.4/5.0/51.3 | 0.681 | 495.2 | 203.8 | 174.4 | 178.4 |
+| 17 | TheProphet | evaluated | 186ddb | 38.7/5.7/44.4 | 0.595 | 562.0 | 176.8 | 279.6 | 188.3 |
+| 18 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
+| 19 | beratcelik | evaluated | 6ce29b | 72.8/6.1/78.9 | 0.537 | 524.7 | 169.6 | 305.0 | 232.3 |
 |  | ashaikh23 | failed | a5012f |  |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | fishyfins | failed | b8a4a4 | 0.0/0.0/0.0 |  |  |  |  |  |
