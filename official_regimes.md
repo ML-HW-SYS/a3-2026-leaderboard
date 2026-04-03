@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 03, 2026 at 09:18:18 AM ET`
+Last updated: `April 03, 2026 at 09:33:21 AM ET`
 
 ## R1 (tok/s)
 
@@ -18,7 +18,7 @@ Last updated: `April 03, 2026 at 09:18:18 AM ET`
 | 10 | lipphi | evaluated | a3a71b | 534.8 |
 | 11 | gravlax | evaluated | b1229d | 532.3 |
 | 12 | bl792 | evaluated | 9af784 | 525.3 |
-| 13 | gm | evaluated | 0c2fc9 | 518.1 |
+| 13 | gm | evaluated | 540f22 | 515.9 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -35,7 +35,7 @@ Last updated: `April 03, 2026 at 09:18:18 AM ET`
 | --- | --- | --- | --- | --- |
 | 1 | chyyy | evaluated | 34cc06 | 433.8 |
 | 2 | - - | evaluated | adc0f3 | 386.9 |
-| 3 | gm | evaluated | 0c2fc9 | 355.8 |
+| 3 | gm | evaluated | 540f22 | 355.3 |
 | 4 | nickname55555555 | evaluated | 99ddc2 | 334.1 |
 | 5 | lipphi | evaluated | a3a71b | 306.7 |
 | 6 | TA | evaluated | 324cb8 | 295.5 |
@@ -62,7 +62,7 @@ Last updated: `April 03, 2026 at 09:18:18 AM ET`
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 21.8 |
 | 2 | chyyy | evaluated | 34cc06 | 24.8 |
-| 3 | gm | evaluated | 0c2fc9 | 26.9 |
+| 3 | gm | evaluated | 540f22 | 26.8 |
 | 4 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
 | 5 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
 | 6 | gravlax | evaluated | b1229d | 35.0 |
@@ -89,7 +89,7 @@ Last updated: `April 03, 2026 at 09:18:18 AM ET`
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 44.5 |
 | 2 | chyyy | evaluated | 34cc06 | 47.6 |
-| 3 | gm | evaluated | 0c2fc9 | 48.9 |
+| 3 | gm | evaluated | 540f22 | 48.7 |
 | 4 | nickname55555555 | evaluated | 99ddc2 | 53.0 |
 | 5 | gravlax | evaluated | b1229d | 59.7 |
 | 6 | andrasferenczy | evaluated | 9c7f53 | 63.7 |

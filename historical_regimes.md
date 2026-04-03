@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 03, 2026 at 09:18:18 AM ET`
+Last updated: `April 03, 2026 at 09:33:21 AM ET`
 
 ## R1 (tok/s)
 
@@ -50,7 +50,7 @@ Last updated: `April 03, 2026 at 09:18:18 AM ET`
 | --- | --- | --- | --- | --- |
 | 1 | - - | submission.py | adc0f3 | 21.8 |
 | 2 | chyyy | submission.py | 34cc06 | 24.8 |
-| 3 | gm | submission.py | 0c2fc9 | 26.9 |
+| 3 | gm | submission.py | 540f22 | 26.8 |
 | 4 | nickname55555555 | submission.py | 05c6ab | 31.9 |
 | 5 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
 | 6 | prousoglou | develop.py | 6d0906 | 34.7 |
@@ -71,7 +71,7 @@ Last updated: `April 03, 2026 at 09:18:18 AM ET`
 | --- | --- | --- | --- | --- |
 | 1 | - - | submission.py | 442030 | 44.4 |
 | 2 | chyyy | develop.py | 34cc06 | 47.5 |
-| 3 | gm | develop.py | 0c2fc9 | 48.9 |
+| 3 | gm | submission.py | 540f22 | 48.7 |
 | 4 | nickname55555555 | submission.py | 05c6ab | 52.5 |
 | 5 | gravlax | submission.py | b1229d | 59.7 |
 | 6 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
