@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 02, 2026 at 09:27:09 PM ET`
+Last updated: `April 02, 2026 at 09:41:49 PM ET`
 
 ## R1 (tok/s)
 
@@ -18,7 +18,6 @@ Last updated: `April 02, 2026 at 09:27:09 PM ET`
 | 10 | lipphi | evaluated | a3a71b | 534.8 |
 | 11 | gravlax | evaluated | b1229d | 532.3 |
 | 12 | gm | evaluated | 0c2fc9 | 518.1 |
-| 13 | tuo | evaluated | 4e7068 | 359.4 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -26,6 +25,7 @@ Last updated: `April 02, 2026 at 09:27:09 PM ET`
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | prousoglou | failed | f33caa |  |
+|  | tuo | failed | 6ea89f |  |
 |  | yb | failed | 8ca88e |  |
 
 ## R2 (tok/s)
@@ -44,7 +44,6 @@ Last updated: `April 02, 2026 at 09:27:09 PM ET`
 | 10 | Shengwei | evaluated | 33733e | 224.0 |
 | 11 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 221.1 |
 | 12 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 13 | tuo | evaluated | 4e7068 | 145.7 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -52,6 +51,7 @@ Last updated: `April 02, 2026 at 09:27:09 PM ET`
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | prousoglou | failed | f33caa |  |
+|  | tuo | failed | 6ea89f |  |
 |  | yb | failed | 8ca88e |  |
 
 ## R3 (ms)
@@ -69,8 +69,7 @@ Last updated: `April 02, 2026 at 09:27:09 PM ET`
 | 9 | lipphi | evaluated | a3a71b | 104.4 |
 | 10 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 160.0 |
 | 11 | Shengwei | evaluated | 33733e | 238.7 |
-| 12 | tuo | evaluated | 4e7068 | 301.5 |
-| 13 | your_nickname_here | evaluated | f10b9b | 308.1 |
+| 12 | your_nickname_here | evaluated | f10b9b | 308.1 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -78,6 +77,7 @@ Last updated: `April 02, 2026 at 09:27:09 PM ET`
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | prousoglou | failed | f33caa |  |
+|  | tuo | failed | 6ea89f |  |
 |  | yb | failed | 8ca88e |  |
 
 ## R4 (ms)
@@ -96,7 +96,6 @@ Last updated: `April 02, 2026 at 09:27:09 PM ET`
 | 10 | Shengwei | evaluated | 33733e | 132.9 |
 | 11 | lipphi | evaluated | a3a71b | 150.9 |
 | 12 | your_nickname_here | evaluated | f10b9b | 246.4 |
-| 13 | tuo | evaluated | 4e7068 | 246.7 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -104,4 +103,5 @@ Last updated: `April 02, 2026 at 09:27:09 PM ET`
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | prousoglou | failed | f33caa |  |
+|  | tuo | failed | 6ea89f |  |
 |  | yb | failed | 8ca88e |  |

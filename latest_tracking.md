@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 02, 2026 at 09:27:09 PM ET`
+Last updated: `April 02, 2026 at 09:41:49 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 02 09:34 PM ET | tuo | failed_security | Security policy check failed for submission.py: - prohibited import: sys | submission.py | 6ea89f |  |  |  |  |  |
 | Apr 02 09:25 PM ET | happyface | evaluated |  | submission.py | 7e8b61 | 18.5/3.4/22.0 | 543.0 | 258.2 | 63.7 | 66.0 |
 | Apr 02 08:56 PM ET | happyface | failed_correctness | Loading artifacts from: /home/syphon/mlhwsys/a3-2026/artifacts/public Loading submission: /home/syphon/mlhwsys/a3-202... | develop.py | 70985d | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 02 08:40 PM ET | happyface | failed_correctness | Loading artifacts from: /home/syphon/mlhwsys/a3-2026/artifacts/public Loading submission: /home/syphon/mlhwsys/a3-202... | submission.py | 70985d | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
