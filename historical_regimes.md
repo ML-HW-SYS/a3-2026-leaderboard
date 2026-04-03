@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 03, 2026 at 12:02:12 PM ET`
+Last updated: `April 03, 2026 at 12:20:16 PM ET`
 
 ## R1 (tok/s)
 
@@ -21,7 +21,8 @@ Last updated: `April 03, 2026 at 12:02:12 PM ET`
 | 13 | gravlax | develop.py | 1f23d9 | 534.6 |
 | 14 | bl792 | submission.py | 3b3a8a | 528.5 |
 | 15 | abarat007 | develop.py | 71d00e | 527.6 |
-| 16 | tuo | submission.py | 4735b8 | 460.6 |
+| 16 | beratcelik | submission.py | 6ce29b | 524.7 |
+| 17 | tuo | submission.py | 4735b8 | 460.6 |
 
 ## R2 (tok/s)
 
@@ -43,6 +44,7 @@ Last updated: `April 03, 2026 at 12:02:12 PM ET`
 | 14 | abarat007 | develop.py | 71d00e | 219.0 |
 | 15 | tuo | submission.py | dcc492 | 197.5 |
 | 16 | your_nickname_here | submission.py | 59e245 | 173.4 |
+| 17 | beratcelik | submission.py | 6ce29b | 169.6 |
 
 ## R3 (ms)
 
@@ -63,7 +65,8 @@ Last updated: `April 03, 2026 at 12:02:12 PM ET`
 | 13 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 160.0 |
 | 14 | tuo | submission.py | 4735b8 | 168.0 |
 | 15 | Shengwei | submission.py | 33733e | 238.7 |
-| 16 | your_nickname_here | submission.py | 59e245 | 307.4 |
+| 16 | beratcelik | submission.py | 6ce29b | 305.0 |
+| 17 | your_nickname_here | submission.py | 59e245 | 307.4 |
 
 ## R4 (ms)
 
@@ -84,4 +87,5 @@ Last updated: `April 03, 2026 at 12:02:12 PM ET`
 | 13 | Shengwei | develop.py | 33733e | 132.4 |
 | 14 | lipphi | submission.py | a3a71b | 150.9 |
 | 15 | tuo | submission.py | 4735b8 | 161.7 |
-| 16 | your_nickname_here | submission.py | 59e245 | 245.7 |
+| 16 | beratcelik | submission.py | 6ce29b | 232.3 |
+| 17 | your_nickname_here | submission.py | 59e245 | 245.7 |

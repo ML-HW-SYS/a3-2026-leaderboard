@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 03, 2026 at 12:02:12 PM ET`
+Last updated: `April 03, 2026 at 12:20:16 PM ET`
 
 ## R1 (tok/s)
 
@@ -18,8 +18,9 @@ Last updated: `April 03, 2026 at 12:02:12 PM ET`
 | 10 | lipphi | evaluated | a3a71b | 534.8 |
 | 11 | gravlax | evaluated | b1229d | 532.3 |
 | 12 | bl792 | evaluated | 9af784 | 525.3 |
-| 13 | gm | evaluated | 540f22 | 515.9 |
-| 14 | tuo | evaluated | dcc492 | 457.0 |
+| 13 | beratcelik | evaluated | 6ce29b | 524.7 |
+| 14 | gm | evaluated | 540f22 | 515.9 |
+| 15 | tuo | evaluated | dcc492 | 457.0 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -47,6 +48,7 @@ Last updated: `April 03, 2026 at 12:02:12 PM ET`
 | 12 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 221.1 |
 | 13 | tuo | evaluated | dcc492 | 197.5 |
 | 14 | your_nickname_here | evaluated | f10b9b | 173.1 |
+| 15 | beratcelik | evaluated | 6ce29b | 169.6 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -73,7 +75,8 @@ Last updated: `April 03, 2026 at 12:02:12 PM ET`
 | 11 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 160.0 |
 | 12 | tuo | evaluated | dcc492 | 168.7 |
 | 13 | Shengwei | evaluated | 33733e | 238.7 |
-| 14 | your_nickname_here | evaluated | f10b9b | 308.1 |
+| 14 | beratcelik | evaluated | 6ce29b | 305.0 |
+| 15 | your_nickname_here | evaluated | f10b9b | 308.1 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -100,7 +103,8 @@ Last updated: `April 03, 2026 at 12:02:12 PM ET`
 | 11 | Shengwei | evaluated | 33733e | 132.9 |
 | 12 | lipphi | evaluated | a3a71b | 150.9 |
 | 13 | tuo | evaluated | dcc492 | 162.1 |
-| 14 | your_nickname_here | evaluated | f10b9b | 246.4 |
+| 14 | beratcelik | evaluated | 6ce29b | 232.3 |
+| 15 | your_nickname_here | evaluated | f10b9b | 246.4 |
 |  | abarat007 | failed | 9e63f6 |  |
 |  | ashaikh23 | failed | a5012f |  |
 |  | dhanushikka | failed | 14b1fd |  |
