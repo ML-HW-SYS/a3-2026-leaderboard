@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 03, 2026 at 06:52:21 PM ET`
+Last updated: `April 03, 2026 at 07:09:37 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 03 07:07 PM ET | abarat007 | evaluated |  | submission.py | 538151 | 81.8/4.0/85.8 | 523.4 | 218.4 | 60.0 | 109.9 |
+| Apr 03 06:59 PM ET | TheProphet | evaluated |  | submission.py | 6211b5 | 42.2/3.0/45.3 | 562.0 | 342.0 | 70.0 | 87.6 |
+| Apr 03 06:57 PM ET | 13rabbit | evaluated |  | develop.py | 24af86 | 19.0/4.7/23.7 | 539.4 | 214.8 | 194.3 | 157.5 |
 | Apr 03 06:42 PM ET | 13rabbit | evaluated |  | submission.py | 24af86 | 37.5/4.7/42.3 | 540.4 | 215.5 | 193.8 | 156.8 |
 | Apr 03 06:29 PM ET | fishyfins | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | develop.py | 50b36e | 13.2/0.0/13.2 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 03 06:20 PM ET | abarat007 | evaluated |  | develop.py | 1db8e1 | 23.1/4.1/27.2 | 523.6 | 218.7 | 81.0 | 114.3 |
