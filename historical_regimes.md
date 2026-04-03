@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 02, 2026 at 08:24:04 PM ET`
+Last updated: `April 02, 2026 at 08:41:24 PM ET`
 
 ## R1 (tok/s)
 
@@ -39,8 +39,8 @@ Last updated: `April 02, 2026 at 08:24:04 PM ET`
 | 11 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 221.1 |
 | 12 | abarat007 | develop.py | 71d00e | 219.0 |
 | 13 | tuo | submission.py | 4735b8 | 197.3 |
-| 14 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 15 | prousoglou | develop.py | d97179 | 104.6 |
+| 14 | prousoglou | develop.py | dae720 | 190.6 |
+| 15 | your_nickname_here | submission.py | 59e245 | 173.4 |
 
 ## R3 (ms)
 
@@ -59,8 +59,8 @@ Last updated: `April 02, 2026 at 08:24:04 PM ET`
 | 11 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 160.0 |
 | 12 | tuo | submission.py | 4735b8 | 168.0 |
 | 13 | Shengwei | submission.py | 33733e | 238.7 |
-| 14 | your_nickname_here | submission.py | 59e245 | 307.4 |
-| 15 | prousoglou | develop.py | d97179 | 790.8 |
+| 14 | prousoglou | develop.py | dae720 | 240.6 |
+| 15 | your_nickname_here | submission.py | 59e245 | 307.4 |
 
 ## R4 (ms)
 
@@ -76,8 +76,8 @@ Last updated: `April 02, 2026 at 08:24:04 PM ET`
 | 8 | abarat007 | develop.py | 71d00e | 114.2 |
 | 9 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 131.1 |
 | 10 | TA | submission.py | 324cb8 | 131.7 |
-| 11 | Shengwei | submission.py | 33733e | 132.9 |
-| 12 | lipphi | submission.py | a3a71b | 150.9 |
-| 13 | tuo | submission.py | 4735b8 | 161.7 |
-| 14 | your_nickname_here | submission.py | 59e245 | 245.7 |
-| 15 | prousoglou | develop.py | d97179 | 395.1 |
+| 11 | Shengwei | develop.py | 33733e | 132.4 |
+| 12 | prousoglou | develop.py | dae720 | 138.0 |
+| 13 | lipphi | submission.py | a3a71b | 150.9 |
+| 14 | tuo | submission.py | 4735b8 | 161.7 |
+| 15 | your_nickname_here | submission.py | 59e245 | 245.7 |

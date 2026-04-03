@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 02, 2026 at 08:24:04 PM ET`
+Last updated: `April 02, 2026 at 08:41:24 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 02 08:40 PM ET | happyface | failed_correctness | Loading artifacts from: /home/syphon/mlhwsys/a3-2026/artifacts/public Loading submission: /home/syphon/mlhwsys/a3-202... | submission.py | 70985d | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 02 08:32 PM ET | prousoglou | evaluated |  | develop.py | dae720 | 40.9/5.2/46.1 | 524.2 | 190.6 | 240.6 | 138.0 |
+| Apr 02 08:30 PM ET | Shengwei | evaluated |  | develop.py | 33733e | 19.8/4.7/24.5 | 543.2 | 222.2 | 238.7 | 132.4 |
 | Apr 02 08:22 PM ET | happyface | evaluated |  | develop.py | 2dc592 | 18.5/3.5/22.0 | 534.9 | 256.9 | 63.7 | 65.9 |
 | Apr 02 08:16 PM ET | prousoglou | evaluated |  | develop.py | d97179 | 30.2/10.6/40.8 | 528.1 | 104.6 | 790.8 | 395.1 |
 | Apr 02 08:14 PM ET | Shengwei | evaluated |  | submission.py | 33733e | 40.6/4.7/45.3 | 543.9 | 224.0 | 238.7 | 132.9 |
