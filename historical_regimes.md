@@ -1,13 +1,13 @@
 # Historical Best By Regime
 
-Last updated: `April 03, 2026 at 07:09:37 PM ET`
+Last updated: `April 03, 2026 at 07:25:17 PM ET`
 
 ## R1 (tok/s)
 
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | submission.py | adc0f3 | 591.4 |
-| 2 | TheProphet | submission.py | 6211b5 | 562.0 |
+| 2 | TheProphet | develop.py | 6211b5 | 565.4 |
 | 3 | your_nickname_here | submission.py | 59e245 | 559.6 |
 | 4 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 558.0 |
 | 5 | chyyy | submission.py | 56b321 | 557.7 |
@@ -61,7 +61,7 @@ Last updated: `April 03, 2026 at 07:09:37 PM ET`
 | 5 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
 | 6 | prousoglou | submission.py | 570c63 | 34.7 |
 | 7 | gravlax | develop.py | b1229d | 35.0 |
-| 8 | abarat007 | submission.py | 538151 | 60.0 |
+| 8 | abarat007 | develop.py | 538151 | 58.9 |
 | 9 | happyface | submission.py | 9f7886 | 63.4 |
 | 10 | TheProphet | submission.py | 6211b5 | 70.0 |
 | 11 | Shengwei | submission.py | 395bbf | 71.0 |
@@ -88,7 +88,7 @@ Last updated: `April 03, 2026 at 07:09:37 PM ET`
 | 8 | happyface | develop.py | 0aca52 | 65.7 |
 | 9 | Shengwei | submission.py | 395bbf | 87.5 |
 | 10 | TheProphet | submission.py | 6211b5 | 87.6 |
-| 11 | abarat007 | submission.py | 538151 | 109.9 |
+| 11 | abarat007 | develop.py | 538151 | 109.6 |
 | 12 | bl792 | develop.py | 9af784 | 130.8 |
 | 13 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 131.1 |
 | 14 | TA | submission.py | 324cb8 | 131.7 |
