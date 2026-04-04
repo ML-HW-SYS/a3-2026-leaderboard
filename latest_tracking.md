@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 03, 2026 at 08:12:50 PM ET`
+Last updated: `April 03, 2026 at 08:29:12 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 03 08:23 PM ET | chickfila | failed_security | Security policy check failed for develop.py: - prohibited import: os | develop.py | 273f38 |  |  |  |  |  |
+| Apr 03 08:22 PM ET | Rithvik | failed_security | Security policy check failed for develop.py: - prohibited import: importlib.util - prohibited import: pathlib | develop.py | b367b3 |  |  |  |  |  |
+| Apr 03 08:22 PM ET | tuo | failed_security | Security policy check failed for develop.py: - prohibited import: importlib.util - prohibited import: pathlib - prohi... | develop.py | 528c17 |  |  |  |  |  |
+| Apr 03 08:20 PM ET | TheProphet | failed_correctness | Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Running evaluation... ... | submission.py | 81d295 | 58.4/6.0/64.4 | 562.0 | 100.5 | 0.0 | 0.0 |
 | Apr 03 08:10 PM ET | abarat007 | evaluated |  | develop.py | 410fa2 | 29.1/4.0/33.1 | 523.4 | 218.9 | 59.5 | 114.4 |
 | Apr 03 08:06 PM ET | chickfila | failed_security | Security policy check failed for submission.py: - prohibited import: os | submission.py | 2e4128 |  |  |  |  |  |
 | Apr 03 08:05 PM ET | Rithvik | evaluated |  | submission.py | b367b3 | 15.2/39.4/54.7 | 36.5 | 21.1 | 131.4 | 166.9 |
