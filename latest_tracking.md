@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 03, 2026 at 09:15:40 PM ET`
+Last updated: `April 03, 2026 at 09:30:38 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 03 09:24 PM ET | Rithvik | failed_security | Security policy check failed for develop.py: - prohibited import: importlib.util - prohibited import: pathlib | develop.py | 1a7556 |  |  |  |  |  |
+| Apr 03 09:22 PM ET | fishyfins | failed_correctness | Running setup... Running setup... Running setup... Running evaluation... Running setup... Running evaluation... Loadi... | develop.py | d3139f | 18.0/2.2/20.2 | 0.0 | 0.0 | 307.2 | 244.4 |
 | Apr 03 09:09 PM ET | Rithvik | evaluated |  | submission.py | 1a7556 | 26.7/4.4/31.1 | 527.1 | 228.8 | 131.6 | 166.5 |
 | Apr 03 09:07 PM ET | fishyfins | failed_correctness | Running setup... Running setup... Running setup... Running evaluation... Running setup... Running evaluation... Loadi... | submission.py | d3139f | 18.0/2.2/20.2 | 0.0 | 0.0 | 307.3 | 244.5 |
 | Apr 03 08:53 PM ET | tuo | failed_security | Security policy check failed for develop.py: - prohibited import: importlib.util - prohibited import: pathlib - prohi... | develop.py | 92c00e |  |  |  |  |  |
