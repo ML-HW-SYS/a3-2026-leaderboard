@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 04, 2026 at 01:33:49 PM ET`
+Last updated: `April 04, 2026 at 01:48:52 PM ET`
 
 ## R1 (tok/s)
 
@@ -50,7 +50,7 @@ Last updated: `April 04, 2026 at 01:33:49 PM ET`
 | 12 | gravlax | develop.py | b1229d | 273.0 |
 | 13 | abarat007 | submission.py | 47c54f | 262.0 |
 | 14 | happyface | develop.py | 0aca52 | 259.4 |
-| 15 | Rithvik | submission.py | 1a7556 | 228.8 |
+| 15 | Rithvik | submission.py | cc03b2 | 240.4 |
 | 16 | bl792 | develop.py | 6ec673 | 228.2 |
 | 17 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 221.1 |
 | 18 | 13rabbit | submission.py | 24af86 | 215.5 |
@@ -80,8 +80,8 @@ Last updated: `April 04, 2026 at 01:33:49 PM ET`
 | 12 | Shengwei | submission.py | 395bbf | 71.0 |
 | 13 | TA | submission.py | 324cb8 | 83.2 |
 | 14 | bl792 | submission.py | 9af784 | 97.1 |
-| 15 | lipphi | develop.py | d58cae | 104.4 |
-| 16 | Rithvik | submission.py | b367b3 | 131.4 |
+| 15 | Rithvik | submission.py | cc03b2 | 101.7 |
+| 16 | lipphi | develop.py | d58cae | 104.4 |
 | 17 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 160.0 |
 | 18 | tuo | submission.py | 92c00e | 166.9 |
 | 19 | 13rabbit | submission.py | 24af86 | 193.8 |
@@ -106,15 +106,15 @@ Last updated: `April 04, 2026 at 01:33:49 PM ET`
 | 8 | prousoglou | submission.py | 570c63 | 65.3 |
 | 9 | happyface | develop.py | 0aca52 | 65.7 |
 | 10 | Shengwei | submission.py | 395bbf | 87.5 |
-| 11 | abarat007 | submission.py | f67875 | 107.5 |
-| 12 | beratcelik | submission.py | 20645a | 112.8 |
-| 13 | bl792 | develop.py | 9af784 | 130.8 |
-| 14 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 131.1 |
-| 15 | TA | submission.py | 324cb8 | 131.7 |
-| 16 | lipphi | submission.py | a3a71b | 150.9 |
-| 17 | 13rabbit | submission.py | 24af86 | 156.8 |
-| 18 | tuo | submission.py | 4274da | 160.5 |
-| 19 | Rithvik | submission.py | 1a7556 | 166.5 |
+| 11 | Rithvik | submission.py | cc03b2 | 106.9 |
+| 12 | abarat007 | submission.py | f67875 | 107.5 |
+| 13 | beratcelik | submission.py | 20645a | 112.8 |
+| 14 | bl792 | develop.py | 9af784 | 130.8 |
+| 15 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 131.1 |
+| 16 | TA | submission.py | 324cb8 | 131.7 |
+| 17 | lipphi | submission.py | a3a71b | 150.9 |
+| 18 | 13rabbit | submission.py | 24af86 | 156.8 |
+| 19 | tuo | submission.py | 4274da | 160.5 |
 | 20 | ashaikh23 | develop.py | 4e1462 | 228.8 |
 | 21 | pyjuan91 | develop.py | 268544 | 234.1 |
 | 22 | ethanchen | submission.py | a0d359 | 239.7 |

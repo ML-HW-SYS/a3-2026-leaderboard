@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 04, 2026 at 01:33:49 PM ET`
+Last updated: `April 04, 2026 at 01:48:52 PM ET`
 
 ## R1 (tok/s)
 
@@ -24,8 +24,8 @@ Last updated: `April 04, 2026 at 01:33:49 PM ET`
 | 16 | gravlax | evaluated | b1229d | 532.3 |
 | 17 | pyjuan91 | evaluated | 268544 | 531.0 |
 | 18 | ethanchen | evaluated | a0d359 | 528.1 |
-| 19 | Rithvik | evaluated | 1a7556 | 527.1 |
-| 20 | ashaikh23 | evaluated | 647265 | 526.7 |
+| 19 | ashaikh23 | evaluated | 647265 | 526.7 |
+| 20 | Rithvik | evaluated | cc03b2 | 526.7 |
 | 21 | abarat007 | evaluated | 55288f | 526.4 |
 | 22 | bl792 | evaluated | 9af784 | 525.3 |
 | 23 | beratcelik | evaluated | db8d71 | 517.4 |
@@ -58,7 +58,7 @@ Last updated: `April 04, 2026 at 01:33:49 PM ET`
 | 11 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
 | 12 | gravlax | evaluated | b1229d | 272.5 |
 | 13 | happyface | evaluated | 7e8b61 | 258.2 |
-| 14 | Rithvik | evaluated | 1a7556 | 228.8 |
+| 14 | Rithvik | evaluated | cc03b2 | 240.4 |
 | 15 | bl792 | evaluated | 9af784 | 226.0 |
 | 16 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 221.1 |
 | 17 | abarat007 | evaluated | 55288f | 218.4 |
@@ -98,8 +98,8 @@ Last updated: `April 04, 2026 at 01:33:49 PM ET`
 | 12 | Shengwei | evaluated | 395bbf | 71.0 |
 | 13 | TA | evaluated | 324cb8 | 83.2 |
 | 14 | bl792 | evaluated | 9af784 | 97.1 |
-| 15 | lipphi | evaluated | a3a71b | 104.4 |
-| 16 | Rithvik | evaluated | 1a7556 | 131.6 |
+| 15 | Rithvik | evaluated | cc03b2 | 101.7 |
+| 16 | lipphi | evaluated | a3a71b | 104.4 |
 | 17 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 160.0 |
 | 18 | tuo | evaluated | 4274da | 167.5 |
 | 19 | 13rabbit | evaluated | 24af86 | 193.8 |
@@ -133,15 +133,15 @@ Last updated: `April 04, 2026 at 01:33:49 PM ET`
 | 8 | happyface | evaluated | 7e8b61 | 66.0 |
 | 9 | Shengwei | evaluated | 395bbf | 87.5 |
 | 10 | TheProphet | evaluated | 0a9c73 | 87.7 |
-| 11 | abarat007 | evaluated | 55288f | 107.6 |
-| 12 | beratcelik | evaluated | db8d71 | 113.7 |
-| 13 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 131.1 |
-| 14 | bl792 | evaluated | 9af784 | 131.5 |
-| 15 | TA | evaluated | 324cb8 | 131.7 |
-| 16 | lipphi | evaluated | a3a71b | 150.9 |
-| 17 | 13rabbit | evaluated | 24af86 | 156.8 |
-| 18 | tuo | evaluated | 4274da | 160.5 |
-| 19 | Rithvik | evaluated | 1a7556 | 166.5 |
+| 11 | Rithvik | evaluated | cc03b2 | 106.9 |
+| 12 | abarat007 | evaluated | 55288f | 107.6 |
+| 13 | beratcelik | evaluated | db8d71 | 113.7 |
+| 14 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 131.1 |
+| 15 | bl792 | evaluated | 9af784 | 131.5 |
+| 16 | TA | evaluated | 324cb8 | 131.7 |
+| 17 | lipphi | evaluated | a3a71b | 150.9 |
+| 18 | 13rabbit | evaluated | 24af86 | 156.8 |
+| 19 | tuo | evaluated | 4274da | 160.5 |
 | 20 | ashaikh23 | evaluated | 647265 | 229.0 |
 | 21 | pyjuan91 | evaluated | 268544 | 234.4 |
 | 22 | ethanchen | evaluated | a0d359 | 239.7 |
