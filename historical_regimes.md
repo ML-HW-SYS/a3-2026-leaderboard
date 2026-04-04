@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 04, 2026 at 02:19:55 AM ET`
+Last updated: `April 04, 2026 at 02:34:59 AM ET`
 
 ## R1 (tok/s)
 
@@ -48,7 +48,7 @@ Last updated: `April 04, 2026 at 02:19:55 AM ET`
 | 11 | gravlax | develop.py | b1229d | 273.0 |
 | 12 | abarat007 | submission.py | 47c54f | 262.0 |
 | 13 | happyface | develop.py | 0aca52 | 259.4 |
-| 14 | fishyfins | develop.py | 866448 | 242.8 |
+| 14 | fishyfins | develop.py | 87e789 | 243.3 |
 | 15 | Rithvik | submission.py | 1a7556 | 228.8 |
 | 16 | bl792 | develop.py | 6ec673 | 228.2 |
 | 17 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 221.1 |
