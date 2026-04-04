@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 04, 2026 at 02:05:08 PM ET`
+Last updated: `April 04, 2026 at 02:20:50 PM ET`
 
 ## R1 (tok/s)
 
@@ -67,7 +67,7 @@ Last updated: `April 04, 2026 at 02:05:08 PM ET`
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | submission.py | adc0f3 | 21.8 |
-| 2 | TheProphet | submission.py | 5b306e | 24.2 |
+| 2 | TheProphet | develop.py | 5b306e | 24.1 |
 | 3 | chyyy | submission.py | 34cc06 | 24.8 |
 | 4 | gm | submission.py | 2898fc | 26.8 |
 | 5 | nickname55555555 | submission.py | 05c6ab | 31.9 |
@@ -97,7 +97,7 @@ Last updated: `April 04, 2026 at 02:05:08 PM ET`
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | submission.py | 442030 | 44.4 |
-| 2 | TheProphet | submission.py | 5b306e | 46.4 |
+| 2 | TheProphet | develop.py | 5b306e | 46.2 |
 | 3 | chyyy | develop.py | 34cc06 | 47.5 |
 | 4 | gm | submission.py | 2898fc | 48.5 |
 | 5 | nickname55555555 | submission.py | 05c6ab | 52.5 |

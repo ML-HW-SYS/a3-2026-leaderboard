@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 04, 2026 at 02:05:08 PM ET`
+Last updated: `April 04, 2026 at 02:20:50 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 04 02:18 PM ET | abarat007 | evaluated |  | develop.py | 7a7fc0 | 22.6/3.6/26.2 | 539.2 | 259.6 | 55.6 | 107.5 |
+| Apr 04 02:17 PM ET | lofiWeightsToRelaxTo_ | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | develop.py | 3b9586 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 04 02:11 PM ET | TheProphet | evaluated |  | develop.py | 5b306e | 31.6/2.5/34.1 | 564.3 | 381.4 | 24.1 | 46.2 |
 | Apr 04 02:03 PM ET | abarat007 | evaluated |  | submission.py | 7a7fc0 | 29.9/3.6/33.5 | 539.9 | 260.8 | 55.3 | 107.5 |
 | Apr 04 02:01 PM ET | lofiWeightsToRelaxTo_ | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | submission.py | 3b9586 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 04 01:58 PM ET | Rithvik | failed_security | Security policy check failed for develop.py: - prohibited import: importlib.util - prohibited import: pathlib | develop.py | cc03b2 |  |  |  |  |  |
