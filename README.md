@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 04, 2026 at 05:28:25 PM ET`
+Last updated: `April 04, 2026 at 05:45:30 PM ET`
 
 ## Pages
 
@@ -21,12 +21,12 @@ Last updated: `April 04, 2026 at 05:28:25 PM ET`
 | 7 | andrasferenczy | evaluated | 9c7f53 | 37.3/3.2/40.5 | 1.486 | 539.1 | 277.2 | 31.9 | 63.7 |
 | 8 | gravlax | evaluated | b1229d | 19.9/3.2/23.1 | 1.464 | 532.3 | 272.5 | 35.0 | 59.7 |
 | 9 | happyface | evaluated | 7e8b61 | 18.5/3.4/22.0 | 1.219 | 543.0 | 258.2 | 63.7 | 66.0 |
-| 10 | TA | evaluated | 324cb8 | 19.8/3.5/23.3 | 0.997 | 553.3 | 295.5 | 83.2 | 131.7 |
-| 11 | Rithvik | evaluated | cc03b2 | 19.4/3.9/23.3 | 0.937 | 526.7 | 240.4 | 101.7 | 106.9 |
-| 12 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
-| 13 | bl792 | evaluated | 9af784 | 18.9/4.2/23.0 | 0.886 | 525.3 | 226.0 | 97.1 | 131.5 |
-| 14 | beratcelik | evaluated | db8d71 | 46.5/5.6/52.1 | 0.874 | 517.4 | 132.6 | 68.5 | 113.7 |
-| 15 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 34.9/4.4/39.3 | 0.790 | 558.0 | 221.1 | 160.0 | 131.1 |
+| 10 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 37.2/3.1/40.3 | 1.177 | 560.4 | 326.5 | 70.9 | 89.2 |
+| 11 | TA | evaluated | 324cb8 | 19.8/3.5/23.3 | 0.997 | 553.3 | 295.5 | 83.2 | 131.7 |
+| 12 | Rithvik | evaluated | cc03b2 | 19.4/3.9/23.3 | 0.937 | 526.7 | 240.4 | 101.7 | 106.9 |
+| 13 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
+| 14 | bl792 | evaluated | 9af784 | 18.9/4.2/23.0 | 0.886 | 525.3 | 226.0 | 97.1 | 131.5 |
+| 15 | beratcelik | evaluated | db8d71 | 46.5/5.6/52.1 | 0.874 | 517.4 | 132.6 | 68.5 | 113.7 |
 | 16 | fishyfins | evaluated | a777bb | 20.0/4.0/23.9 | 0.741 | 591.4 | 586.8 | 309.3 | 246.0 |
 | 17 | tuo | evaluated | 4274da | 76.5/4.8/81.3 | 0.711 | 507.3 | 204.2 | 167.5 | 160.5 |
 | 18 | 13rabbit | evaluated | 24af86 | 37.5/4.7/42.3 | 0.710 | 540.4 | 215.5 | 193.8 | 156.8 |
@@ -43,7 +43,7 @@ Last updated: `April 04, 2026 at 05:28:25 PM ET`
 |  | ngoguen | failed | 7e2d47 |  |  |  |  |  |  |
 |  | poppyPotatoe | failed | aa5125 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | PurplePickle67 | failed | 6a683b |  |  |  |  |  |  |
-|  | Shengwei | failed | a5d1f8 | 40.6/3.3/43.9 |  |  |  |  |  |
+|  | Shengwei | failed | 077330 | 40.8/3.1/43.9 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | sjb | failed | 2fa80d | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | TheProphet | failed | 969e14 | 65.2/10.1/75.3 |  |  |  |  |  |
