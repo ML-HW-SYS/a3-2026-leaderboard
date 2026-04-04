@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 04, 2026 at 02:53:31 PM ET`
+Last updated: `April 04, 2026 at 03:09:26 PM ET`
 
 ## R1 (tok/s)
 
@@ -19,8 +19,8 @@ Last updated: `April 04, 2026 at 02:53:31 PM ET`
 | 11 | Shengwei | evaluated | 395bbf | 542.9 |
 | 12 | gm | evaluated | 2898fc | 541.1 |
 | 13 | 13rabbit | evaluated | 24af86 | 540.4 |
-| 14 | abarat007 | evaluated | 7a7fc0 | 539.9 |
-| 15 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
+| 14 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
+| 15 | abarat007 | evaluated | 260fed | 537.5 |
 | 16 | lipphi | evaluated | a3a71b | 534.8 |
 | 17 | gravlax | evaluated | b1229d | 532.3 |
 | 18 | pyjuan91 | evaluated | 268544 | 531.0 |
@@ -57,8 +57,8 @@ Last updated: `April 04, 2026 at 02:53:31 PM ET`
 | 9 | lipphi | evaluated | a3a71b | 306.7 |
 | 10 | TA | evaluated | 324cb8 | 295.5 |
 | 11 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
-| 12 | gravlax | evaluated | b1229d | 272.5 |
-| 13 | abarat007 | evaluated | 7a7fc0 | 260.8 |
+| 12 | abarat007 | evaluated | 260fed | 276.9 |
+| 13 | gravlax | evaluated | b1229d | 272.5 |
 | 14 | happyface | evaluated | 7e8b61 | 258.2 |
 | 15 | Rithvik | evaluated | cc03b2 | 240.4 |
 | 16 | bl792 | evaluated | 9af784 | 226.0 |
@@ -90,11 +90,11 @@ Last updated: `April 04, 2026 at 02:53:31 PM ET`
 | 2 | TheProphet | evaluated | 5b306e | 24.2 |
 | 3 | chyyy | evaluated | 34cc06 | 24.8 |
 | 4 | gm | evaluated | 2898fc | 26.8 |
-| 5 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
-| 6 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
-| 7 | prousoglou | evaluated | 570c63 | 34.7 |
-| 8 | gravlax | evaluated | b1229d | 35.0 |
-| 9 | abarat007 | evaluated | 7a7fc0 | 55.3 |
+| 5 | abarat007 | evaluated | 260fed | 28.4 |
+| 6 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
+| 7 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
+| 8 | prousoglou | evaluated | 570c63 | 34.7 |
+| 9 | gravlax | evaluated | b1229d | 35.0 |
 | 10 | happyface | evaluated | 7e8b61 | 63.7 |
 | 11 | beratcelik | evaluated | db8d71 | 68.5 |
 | 12 | Shengwei | evaluated | 395bbf | 71.0 |
@@ -130,14 +130,14 @@ Last updated: `April 04, 2026 at 02:53:31 PM ET`
 | 2 | TheProphet | evaluated | 5b306e | 46.4 |
 | 3 | chyyy | evaluated | 34cc06 | 47.6 |
 | 4 | gm | evaluated | 2898fc | 48.5 |
-| 5 | nickname55555555 | evaluated | 99ddc2 | 53.0 |
-| 6 | gravlax | evaluated | b1229d | 59.7 |
-| 7 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
-| 8 | prousoglou | evaluated | 570c63 | 65.3 |
-| 9 | happyface | evaluated | 7e8b61 | 66.0 |
-| 10 | Shengwei | evaluated | 395bbf | 87.5 |
-| 11 | Rithvik | evaluated | cc03b2 | 106.9 |
-| 12 | abarat007 | evaluated | 7a7fc0 | 107.5 |
+| 5 | abarat007 | evaluated | 260fed | 51.5 |
+| 6 | nickname55555555 | evaluated | 99ddc2 | 53.0 |
+| 7 | gravlax | evaluated | b1229d | 59.7 |
+| 8 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
+| 9 | prousoglou | evaluated | 570c63 | 65.3 |
+| 10 | happyface | evaluated | 7e8b61 | 66.0 |
+| 11 | Shengwei | evaluated | 395bbf | 87.5 |
+| 12 | Rithvik | evaluated | cc03b2 | 106.9 |
 | 13 | beratcelik | evaluated | db8d71 | 113.7 |
 | 14 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 131.1 |
 | 15 | bl792 | evaluated | 9af784 | 131.5 |
