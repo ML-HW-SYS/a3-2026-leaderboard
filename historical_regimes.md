@@ -1,13 +1,13 @@
 # Historical Best By Regime
 
-Last updated: `April 04, 2026 at 03:04:45 AM ET`
+Last updated: `April 04, 2026 at 03:19:50 AM ET`
 
 ## R1 (tok/s)
 
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | - - | submission.py | adc0f3 | 591.4 |
-| 2 | fishyfins | develop.py | 866448 | 580.7 |
+| 1 | fishyfins | develop.py | f834c6 | 594.1 |
+| 2 | - - | submission.py | adc0f3 | 591.4 |
 | 3 | TheProphet | develop.py | e67a1f | 567.0 |
 | 4 | your_nickname_here | submission.py | 59e245 | 559.6 |
 | 5 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 558.0 |
@@ -35,20 +35,20 @@ Last updated: `April 04, 2026 at 03:04:45 AM ET`
 
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | chyyy | submission.py | 34cc06 | 433.8 |
-| 2 | - - | submission.py | adc0f3 | 386.9 |
-| 3 | TheProphet | develop.py | e67a1f | 377.6 |
-| 4 | prousoglou | submission.py | 570c63 | 368.2 |
-| 5 | gm | develop.py | fd15e9 | 357.3 |
-| 6 | nickname55555555 | develop.py | 99ddc2 | 334.4 |
-| 7 | Shengwei | submission.py | 395bbf | 327.4 |
-| 8 | lipphi | submission.py | a3a71b | 306.7 |
-| 9 | TA | submission.py | 324cb8 | 295.5 |
-| 10 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
-| 11 | gravlax | develop.py | b1229d | 273.0 |
-| 12 | abarat007 | submission.py | 47c54f | 262.0 |
-| 13 | happyface | develop.py | 0aca52 | 259.4 |
-| 14 | fishyfins | develop.py | 87e789 | 243.3 |
+| 1 | fishyfins | develop.py | f834c6 | 592.5 |
+| 2 | chyyy | submission.py | 34cc06 | 433.8 |
+| 3 | - - | submission.py | adc0f3 | 386.9 |
+| 4 | TheProphet | develop.py | e67a1f | 377.6 |
+| 5 | prousoglou | submission.py | 570c63 | 368.2 |
+| 6 | gm | develop.py | fd15e9 | 357.3 |
+| 7 | nickname55555555 | develop.py | 99ddc2 | 334.4 |
+| 8 | Shengwei | submission.py | 395bbf | 327.4 |
+| 9 | lipphi | submission.py | a3a71b | 306.7 |
+| 10 | TA | submission.py | 324cb8 | 295.5 |
+| 11 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
+| 12 | gravlax | develop.py | b1229d | 273.0 |
+| 13 | abarat007 | submission.py | 47c54f | 262.0 |
+| 14 | happyface | develop.py | 0aca52 | 259.4 |
 | 15 | Rithvik | submission.py | 1a7556 | 228.8 |
 | 16 | bl792 | develop.py | 6ec673 | 228.2 |
 | 17 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 221.1 |
