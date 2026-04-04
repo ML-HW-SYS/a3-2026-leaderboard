@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 04, 2026 at 04:28:44 PM ET`
+Last updated: `April 04, 2026 at 04:56:44 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 04 04:51 PM ET | chickfila | evaluated |  | submission.py | a9d066 | 43.0/5.1/48.1 | 523.3 | 225.4 | 269.1 | 190.7 |
+| Apr 04 04:47 PM ET | Shengwei | evaluated |  | submission.py | dac7ff | 40.6/5.8/46.3 | 528.0 | 174.2 | 278.1 | 184.0 |
 | Apr 04 04:20 PM ET | TheProphet | failed_correctness | Running setup... Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Runni... | develop.py | 969e14 | 35.6/5.5/41.0 | 0.0 | 98.7 | 24.0 | 46.2 |
 | Apr 04 04:11 PM ET | abarat007 | evaluated |  | develop.py | 260fed | 27.0/3.1/30.1 | 538.9 | 277.1 | 28.4 | 51.7 |
 | Apr 04 04:04 PM ET | TheProphet | failed_correctness | Running setup... Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Runni... | submission.py | 969e14 | 65.2/10.1/75.3 | 0.0 | 52.2 | 24.2 | 46.5 |
