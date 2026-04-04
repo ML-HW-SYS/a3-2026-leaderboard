@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 03, 2026 at 11:03:06 PM ET`
+Last updated: `April 03, 2026 at 11:17:47 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 03 11:10 PM ET | tuo | failed_security | Security policy check failed for develop.py: - prohibited import: importlib.util - prohibited import: pathlib - prohi... | develop.py | 4274da |  |  |  |  |  |
 | Apr 03 10:56 PM ET | tuo | evaluated |  | submission.py | 4274da | 76.5/4.8/81.3 | 507.3 | 204.2 | 167.5 | 160.5 |
 | Apr 03 10:30 PM ET | ashaikh23 | evaluated |  | submission.py | 647265 | 23.4/6.1/29.5 | 526.7 | 169.6 | 301.1 | 229.0 |
 | Apr 03 10:15 PM ET | ashaikh23 | evaluated |  | develop.py | 4e1462 | 34.7/6.1/40.8 | 525.4 | 169.6 | 301.1 | 228.8 |
