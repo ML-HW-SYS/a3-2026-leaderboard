@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 03, 2026 at 10:47:03 PM ET`
+Last updated: `April 03, 2026 at 11:03:06 PM ET`
 
 ## R1 (tok/s)
 
@@ -27,7 +27,7 @@ Last updated: `April 03, 2026 at 10:47:03 PM ET`
 | 19 | ashaikh23 | submission.py | 647265 | 526.7 |
 | 20 | chickfila | develop.py | 02225e | 525.8 |
 | 21 | beratcelik | submission.py | 6ce29b | 524.7 |
-| 22 | tuo | submission.py | 30a3c3 | 495.2 |
+| 22 | tuo | submission.py | 4274da | 507.3 |
 
 ## R2 (tok/s)
 
@@ -50,7 +50,7 @@ Last updated: `April 03, 2026 at 10:47:03 PM ET`
 | 15 | bl792 | develop.py | 6ec673 | 228.2 |
 | 16 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 221.1 |
 | 17 | 13rabbit | submission.py | 24af86 | 215.5 |
-| 18 | tuo | submission.py | 30a3c3 | 203.8 |
+| 18 | tuo | submission.py | 4274da | 204.2 |
 | 19 | your_nickname_here | submission.py | 59e245 | 173.4 |
 | 20 | beratcelik | develop.py | 6ce29b | 169.8 |
 | 21 | ashaikh23 | submission.py | 647265 | 169.6 |
@@ -104,7 +104,7 @@ Last updated: `April 03, 2026 at 10:47:03 PM ET`
 | 14 | TA | submission.py | 324cb8 | 131.7 |
 | 15 | lipphi | submission.py | a3a71b | 150.9 |
 | 16 | 13rabbit | submission.py | 24af86 | 156.8 |
-| 17 | tuo | submission.py | 92c00e | 161.0 |
+| 17 | tuo | submission.py | 4274da | 160.5 |
 | 18 | Rithvik | submission.py | 1a7556 | 166.5 |
 | 19 | ashaikh23 | develop.py | 4e1462 | 228.8 |
 | 20 | beratcelik | submission.py | 6ce29b | 232.3 |
