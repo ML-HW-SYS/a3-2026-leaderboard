@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 04, 2026 at 01:49:47 AM ET`
+Last updated: `April 04, 2026 at 02:05:03 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 04 01:57 AM ET | fishyfins | evaluated |  | develop.py | 866448 | 30.9/5.2/36.2 | 580.7 | 242.8 | 309.3 | 246.1 |
 | Apr 04 01:41 AM ET | fishyfins | failed_correctness | Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Failed to capture deco... | develop.py | b055ce | 19.3/6.9/26.2 | 182.7 | 125.0 | 0.0 | 0.0 |
 | Apr 04 01:37 AM ET | poppyPotatoe | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | develop.py | aa5125 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 04 01:26 AM ET | fishyfins | failed_correctness | Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Failed to capture deco... | develop.py | 801e34 | 24.2/8.0/32.2 | 189.3 | 128.9 | 326.4 | 0.0 |
