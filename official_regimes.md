@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 04, 2026 at 10:14:12 AM ET`
+Last updated: `April 04, 2026 at 10:33:39 AM ET`
 
 ## R1 (tok/s)
 
@@ -23,12 +23,13 @@ Last updated: `April 04, 2026 at 10:14:12 AM ET`
 | 15 | lipphi | evaluated | a3a71b | 534.8 |
 | 16 | gravlax | evaluated | b1229d | 532.3 |
 | 17 | pyjuan91 | evaluated | 268544 | 531.0 |
-| 18 | Rithvik | evaluated | 1a7556 | 527.1 |
-| 19 | ashaikh23 | evaluated | 647265 | 526.7 |
-| 20 | abarat007 | evaluated | 55288f | 526.4 |
-| 21 | bl792 | evaluated | 9af784 | 525.3 |
-| 22 | beratcelik | evaluated | 6ce29b | 524.7 |
-| 23 | tuo | evaluated | 4274da | 507.3 |
+| 18 | ethanchen | evaluated | a0d359 | 528.1 |
+| 19 | Rithvik | evaluated | 1a7556 | 527.1 |
+| 20 | ashaikh23 | evaluated | 647265 | 526.7 |
+| 21 | abarat007 | evaluated | 55288f | 526.4 |
+| 22 | bl792 | evaluated | 9af784 | 525.3 |
+| 23 | beratcelik | evaluated | 6ce29b | 524.7 |
+| 24 | tuo | evaluated | 4274da | 507.3 |
 |  | chickfila | failed | 2a267f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -67,6 +68,7 @@ Last updated: `April 04, 2026 at 10:14:12 AM ET`
 | 21 | pyjuan91 | evaluated | 268544 | 170.5 |
 | 22 | ashaikh23 | evaluated | 647265 | 169.6 |
 | 23 | beratcelik | evaluated | 6ce29b | 169.6 |
+| 24 | ethanchen | evaluated | a0d359 | 169.3 |
 |  | chickfila | failed | 2a267f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -103,8 +105,9 @@ Last updated: `April 04, 2026 at 10:14:12 AM ET`
 | 19 | ashaikh23 | evaluated | 647265 | 301.1 |
 | 20 | pyjuan91 | evaluated | 268544 | 303.8 |
 | 21 | beratcelik | evaluated | 6ce29b | 305.0 |
-| 22 | your_nickname_here | evaluated | f10b9b | 308.1 |
-| 23 | fishyfins | evaluated | a777bb | 309.3 |
+| 22 | ethanchen | evaluated | a0d359 | 306.3 |
+| 23 | your_nickname_here | evaluated | f10b9b | 308.1 |
+| 24 | fishyfins | evaluated | a777bb | 309.3 |
 |  | chickfila | failed | 2a267f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -141,8 +144,9 @@ Last updated: `April 04, 2026 at 10:14:12 AM ET`
 | 19 | ashaikh23 | evaluated | 647265 | 229.0 |
 | 20 | beratcelik | evaluated | 6ce29b | 232.3 |
 | 21 | pyjuan91 | evaluated | 268544 | 234.4 |
-| 22 | fishyfins | evaluated | a777bb | 246.0 |
-| 23 | your_nickname_here | evaluated | f10b9b | 246.4 |
+| 22 | ethanchen | evaluated | a0d359 | 239.7 |
+| 23 | fishyfins | evaluated | a777bb | 246.0 |
+| 24 | your_nickname_here | evaluated | f10b9b | 246.4 |
 |  | chickfila | failed | 2a267f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ishan-pat | failed | acf3d7 |  |

@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 04, 2026 at 10:14:12 AM ET`
+Last updated: `April 04, 2026 at 10:33:39 AM ET`
 
 ## R1 (tok/s)
 
@@ -25,11 +25,12 @@ Last updated: `April 04, 2026 at 10:14:12 AM ET`
 | 17 | gravlax | develop.py | 1f23d9 | 534.6 |
 | 18 | pyjuan91 | submission.py | 268544 | 531.0 |
 | 19 | bl792 | submission.py | 3b3a8a | 528.5 |
-| 20 | Rithvik | submission.py | 1a7556 | 527.1 |
-| 21 | ashaikh23 | submission.py | 647265 | 526.7 |
-| 22 | chickfila | develop.py | 02225e | 525.8 |
-| 23 | beratcelik | submission.py | 6ce29b | 524.7 |
-| 24 | tuo | submission.py | 4274da | 507.3 |
+| 20 | ethanchen | submission.py | a0d359 | 528.1 |
+| 21 | Rithvik | submission.py | 1a7556 | 527.1 |
+| 22 | ashaikh23 | submission.py | 647265 | 526.7 |
+| 23 | chickfila | develop.py | 02225e | 525.8 |
+| 24 | beratcelik | submission.py | 6ce29b | 524.7 |
+| 25 | tuo | submission.py | 4274da | 507.3 |
 
 ## R2 (tok/s)
 
@@ -58,7 +59,8 @@ Last updated: `April 04, 2026 at 10:14:12 AM ET`
 | 21 | pyjuan91 | develop.py | 268544 | 170.5 |
 | 22 | beratcelik | develop.py | 6ce29b | 169.8 |
 | 23 | ashaikh23 | submission.py | 647265 | 169.6 |
-| 24 | chickfila | submission.py | 02225e | 169.2 |
+| 24 | ethanchen | submission.py | a0d359 | 169.3 |
+| 25 | chickfila | submission.py | 02225e | 169.2 |
 
 ## R3 (ms)
 
@@ -85,9 +87,10 @@ Last updated: `April 04, 2026 at 10:14:12 AM ET`
 | 19 | ashaikh23 | develop.py | 4e1462 | 301.1 |
 | 20 | pyjuan91 | develop.py | 268544 | 303.2 |
 | 21 | beratcelik | submission.py | 6ce29b | 305.0 |
-| 22 | fishyfins | develop.py | d3139f | 307.2 |
-| 23 | your_nickname_here | submission.py | 59e245 | 307.4 |
-| 24 | chickfila | develop.py | 02225e | 309.5 |
+| 22 | ethanchen | submission.py | a0d359 | 306.3 |
+| 23 | fishyfins | develop.py | d3139f | 307.2 |
+| 24 | your_nickname_here | submission.py | 59e245 | 307.4 |
+| 25 | chickfila | develop.py | 02225e | 309.5 |
 
 ## R4 (ms)
 
@@ -114,6 +117,7 @@ Last updated: `April 04, 2026 at 10:14:12 AM ET`
 | 19 | ashaikh23 | develop.py | 4e1462 | 228.8 |
 | 20 | beratcelik | submission.py | 6ce29b | 232.3 |
 | 21 | pyjuan91 | develop.py | 268544 | 234.1 |
-| 22 | fishyfins | develop.py | d3139f | 244.4 |
-| 23 | your_nickname_here | submission.py | 59e245 | 245.7 |
-| 24 | chickfila | develop.py | 02225e | 247.3 |
+| 22 | ethanchen | submission.py | a0d359 | 239.7 |
+| 23 | fishyfins | develop.py | d3139f | 244.4 |
+| 24 | your_nickname_here | submission.py | 59e245 | 245.7 |
+| 25 | chickfila | develop.py | 02225e | 247.3 |

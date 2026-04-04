@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 04, 2026 at 10:14:12 AM ET`
+Last updated: `April 04, 2026 at 10:33:39 AM ET`
 
 ## Pages
 
@@ -35,6 +35,7 @@ Last updated: `April 04, 2026 at 10:14:12 AM ET`
 | 21 | pyjuan91 | evaluated | 268544 | 40.5/6.1/46.6 | 0.539 | 531.0 | 170.5 | 303.8 | 234.4 |
 | 22 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
 | 23 | beratcelik | evaluated | 6ce29b | 72.8/6.1/78.9 | 0.537 | 524.7 | 169.6 | 305.0 | 232.3 |
+| 24 | ethanchen | evaluated | a0d359 | 38.4/6.2/44.6 | 0.533 | 528.1 | 169.3 | 306.3 | 239.7 |
 |  | chickfila | failed | 2a267f |  |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | ishan-pat | failed | acf3d7 | 0.0/0.0/0.0 |  |  |  |  |  |
