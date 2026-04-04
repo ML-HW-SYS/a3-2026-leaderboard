@@ -1,13 +1,13 @@
 # Historical Best By Regime
 
-Last updated: `April 03, 2026 at 09:46:36 PM ET`
+Last updated: `April 03, 2026 at 10:01:52 PM ET`
 
 ## R1 (tok/s)
 
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | submission.py | adc0f3 | 591.4 |
-| 2 | TheProphet | develop.py | 6211b5 | 565.4 |
+| 2 | TheProphet | develop.py | e67a1f | 567.0 |
 | 3 | your_nickname_here | submission.py | 59e245 | 559.6 |
 | 4 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 558.0 |
 | 5 | chyyy | submission.py | 56b321 | 557.7 |
@@ -34,7 +34,7 @@ Last updated: `April 03, 2026 at 09:46:36 PM ET`
 | --- | --- | --- | --- | --- |
 | 1 | chyyy | submission.py | 34cc06 | 433.8 |
 | 2 | - - | submission.py | adc0f3 | 386.9 |
-| 3 | TheProphet | submission.py | e67a1f | 376.4 |
+| 3 | TheProphet | develop.py | e67a1f | 377.6 |
 | 4 | prousoglou | submission.py | 570c63 | 368.2 |
 | 5 | gm | develop.py | fd15e9 | 357.3 |
 | 6 | nickname55555555 | develop.py | 99ddc2 | 334.4 |

@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 03, 2026 at 09:46:36 PM ET`
+Last updated: `April 03, 2026 at 10:01:52 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 03 09:56 PM ET | PurplePickle67 | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | develop.py | 6a683b | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 03 09:56 PM ET | chickfila | failed_security | Security policy check failed for submission.py: - prohibited import: os | submission.py | 2a267f |  |  |  |  |  |
+| Apr 03 09:53 PM ET | TheProphet | failed_correctness | Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Running evaluation... ... | develop.py | e67a1f | 29.9/2.3/32.2 | 567.0 | 377.6 | 0.0 | 0.0 |
 | Apr 03 09:40 PM ET | PurplePickle67 | failed_compliance | Submission compliance check failed for submission.py: - missing required function(s): setup, run | submission.py | 6a683b |  |  |  |  |  |
 | Apr 03 09:38 PM ET | TheProphet | failed_correctness | Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Running evaluation... ... | submission.py | e67a1f | 52.1/2.3/54.3 | 564.7 | 376.4 | 0.0 | 0.0 |
 | Apr 03 09:24 PM ET | Rithvik | failed_security | Security policy check failed for develop.py: - prohibited import: importlib.util - prohibited import: pathlib | develop.py | 1a7556 |  |  |  |  |  |

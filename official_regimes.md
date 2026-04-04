@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 03, 2026 at 09:46:36 PM ET`
+Last updated: `April 03, 2026 at 10:01:52 PM ET`
 
 ## R1 (tok/s)
 
@@ -26,7 +26,7 @@ Last updated: `April 03, 2026 at 09:46:36 PM ET`
 | 18 | beratcelik | evaluated | 6ce29b | 524.7 |
 | 19 | tuo | evaluated | 92c00e | 457.9 |
 |  | ashaikh23 | failed | a5012f |  |
-|  | chickfila | failed | 0b96b9 |  |
+|  | chickfila | failed | 2a267f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | d3139f |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -61,7 +61,7 @@ Last updated: `April 03, 2026 at 09:46:36 PM ET`
 | 18 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 19 | beratcelik | evaluated | 6ce29b | 169.6 |
 |  | ashaikh23 | failed | a5012f |  |
-|  | chickfila | failed | 0b96b9 |  |
+|  | chickfila | failed | 2a267f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | d3139f |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -96,7 +96,7 @@ Last updated: `April 03, 2026 at 09:46:36 PM ET`
 | 18 | beratcelik | evaluated | 6ce29b | 305.0 |
 | 19 | your_nickname_here | evaluated | f10b9b | 308.1 |
 |  | ashaikh23 | failed | a5012f |  |
-|  | chickfila | failed | 0b96b9 |  |
+|  | chickfila | failed | 2a267f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | d3139f |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -131,7 +131,7 @@ Last updated: `April 03, 2026 at 09:46:36 PM ET`
 | 18 | beratcelik | evaluated | 6ce29b | 232.3 |
 | 19 | your_nickname_here | evaluated | f10b9b | 246.4 |
 |  | ashaikh23 | failed | a5012f |  |
-|  | chickfila | failed | 0b96b9 |  |
+|  | chickfila | failed | 2a267f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | d3139f |  |
 |  | ishan-pat | failed | acf3d7 |  |

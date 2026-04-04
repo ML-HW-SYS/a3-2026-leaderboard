@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 03, 2026 at 09:46:36 PM ET`
+Last updated: `April 03, 2026 at 10:01:52 PM ET`
 
 ## Pages
 
@@ -32,7 +32,7 @@ Last updated: `April 03, 2026 at 09:46:36 PM ET`
 | 18 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
 | 19 | beratcelik | evaluated | 6ce29b | 72.8/6.1/78.9 | 0.537 | 524.7 | 169.6 | 305.0 | 232.3 |
 |  | ashaikh23 | failed | a5012f |  |  |  |  |  |  |
-|  | chickfila | failed | 0b96b9 |  |  |  |  |  |  |
+|  | chickfila | failed | 2a267f |  |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | fishyfins | failed | d3139f | 18.0/2.2/20.2 |  |  |  |  |  |
 |  | ishan-pat | failed | acf3d7 | 0.0/0.0/0.0 |  |  |  |  |  |
