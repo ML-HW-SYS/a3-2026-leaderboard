@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 04, 2026 at 12:32:48 PM ET`
+Last updated: `April 04, 2026 at 12:48:56 PM ET`
 
 ## Pages
 
@@ -26,7 +26,7 @@ Last updated: `April 04, 2026 at 12:32:48 PM ET`
 | 12 | TA | evaluated | 324cb8 | 19.8/3.5/23.3 | 0.997 | 553.3 | 295.5 | 83.2 | 131.7 |
 | 13 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
 | 14 | bl792 | evaluated | 9af784 | 18.9/4.2/23.0 | 0.886 | 525.3 | 226.0 | 97.1 | 131.5 |
-| 15 | beratcelik | evaluated | 20645a | 56.2/6.2/62.3 | 0.837 | 487.4 | 116.3 | 68.0 | 112.8 |
+| 15 | beratcelik | evaluated | 0433b8 | 58.8/5.5/64.2 | 0.871 | 489.2 | 138.0 | 68.3 | 113.7 |
 | 16 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 34.9/4.4/39.3 | 0.790 | 558.0 | 221.1 | 160.0 | 131.1 |
 | 17 | Rithvik | evaluated | 1a7556 | 26.7/4.4/31.1 | 0.777 | 527.1 | 228.8 | 131.6 | 166.5 |
 | 18 | fishyfins | evaluated | a777bb | 20.0/4.0/23.9 | 0.741 | 591.4 | 586.8 | 309.3 | 246.0 |

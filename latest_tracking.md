@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 04, 2026 at 12:32:48 PM ET`
+Last updated: `April 04, 2026 at 12:48:56 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 04 12:48 PM ET | beratcelik | evaluated |  | submission.py | 0433b8 | 58.8/5.5/64.2 | 489.2 | 138.0 | 68.3 | 113.7 |
+| Apr 04 12:39 PM ET | TheProphet | evaluated |  | develop.py | 0a9c73 | 19.0/3.0/22.0 | 566.6 | 341.3 | 70.4 | 88.0 |
 | Apr 04 12:32 PM ET | beratcelik | evaluated |  | submission.py | 20645a | 56.2/6.2/62.3 | 487.4 | 116.3 | 68.0 | 112.8 |
 | Apr 04 12:23 PM ET | TheProphet | evaluated |  | submission.py | 0a9c73 | 19.0/3.0/22.0 | 567.2 | 341.8 | 70.2 | 87.7 |
 | Apr 04 11:05 AM ET | ngoguen | failed_security | Security policy check failed for develop.py: - prohibited import: importlib.util - prohibited import: pathlib | develop.py | ab2b1c |  |  |  |  |  |
