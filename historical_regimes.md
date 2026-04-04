@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 03, 2026 at 08:45:12 PM ET`
+Last updated: `April 03, 2026 at 09:00:11 PM ET`
 
 ## R1 (tok/s)
 
@@ -77,8 +77,9 @@ Last updated: `April 03, 2026 at 08:45:12 PM ET`
 | 17 | tuo | submission.py | 92c00e | 166.9 |
 | 18 | 13rabbit | submission.py | 24af86 | 193.8 |
 | 19 | beratcelik | submission.py | 6ce29b | 305.0 |
-| 20 | your_nickname_here | submission.py | 59e245 | 307.4 |
-| 21 | chickfila | develop.py | 02225e | 309.5 |
+| 20 | fishyfins | develop.py | 368f94 | 307.2 |
+| 21 | your_nickname_here | submission.py | 59e245 | 307.4 |
+| 22 | chickfila | develop.py | 02225e | 309.5 |
 
 ## R4 (ms)
 
@@ -103,5 +104,6 @@ Last updated: `April 03, 2026 at 08:45:12 PM ET`
 | 17 | tuo | submission.py | 92c00e | 161.0 |
 | 18 | Rithvik | submission.py | b367b3 | 166.9 |
 | 19 | beratcelik | submission.py | 6ce29b | 232.3 |
-| 20 | your_nickname_here | submission.py | 59e245 | 245.7 |
-| 21 | chickfila | develop.py | 02225e | 247.3 |
+| 20 | fishyfins | develop.py | 368f94 | 244.5 |
+| 21 | your_nickname_here | submission.py | 59e245 | 245.7 |
+| 22 | chickfila | develop.py | 02225e | 247.3 |
