@@ -1,13 +1,13 @@
 # Official Regimes
 
-Last updated: `April 04, 2026 at 03:34:55 AM ET`
+Last updated: `April 04, 2026 at 03:49:58 AM ET`
 
 ## R1 (tok/s)
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | - - | evaluated | adc0f3 | 591.4 |
-| 2 | fishyfins | evaluated | 67ec3a | 580.5 |
+| 1 | fishyfins | evaluated | a777bb | 591.4 |
+| 2 | - - | evaluated | adc0f3 | 591.4 |
 | 3 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 558.0 |
 | 4 | your_nickname_here | evaluated | f10b9b | 557.8 |
 | 5 | prousoglou | evaluated | 570c63 | 556.7 |
@@ -43,18 +43,18 @@ Last updated: `April 04, 2026 at 03:34:55 AM ET`
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | chyyy | evaluated | 34cc06 | 433.8 |
-| 2 | - - | evaluated | adc0f3 | 386.9 |
-| 3 | prousoglou | evaluated | 570c63 | 368.2 |
-| 4 | gm | evaluated | 2898fc | 357.0 |
-| 5 | nickname55555555 | evaluated | 99ddc2 | 334.1 |
-| 6 | Shengwei | evaluated | 395bbf | 327.4 |
-| 7 | lipphi | evaluated | a3a71b | 306.7 |
-| 8 | TA | evaluated | 324cb8 | 295.5 |
-| 9 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
-| 10 | gravlax | evaluated | b1229d | 272.5 |
-| 11 | happyface | evaluated | 7e8b61 | 258.2 |
-| 12 | fishyfins | evaluated | 67ec3a | 243.0 |
+| 1 | fishyfins | evaluated | a777bb | 586.8 |
+| 2 | chyyy | evaluated | 34cc06 | 433.8 |
+| 3 | - - | evaluated | adc0f3 | 386.9 |
+| 4 | prousoglou | evaluated | 570c63 | 368.2 |
+| 5 | gm | evaluated | 2898fc | 357.0 |
+| 6 | nickname55555555 | evaluated | 99ddc2 | 334.1 |
+| 7 | Shengwei | evaluated | 395bbf | 327.4 |
+| 8 | lipphi | evaluated | a3a71b | 306.7 |
+| 9 | TA | evaluated | 324cb8 | 295.5 |
+| 10 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
+| 11 | gravlax | evaluated | b1229d | 272.5 |
+| 12 | happyface | evaluated | 7e8b61 | 258.2 |
 | 13 | Rithvik | evaluated | 1a7556 | 228.8 |
 | 14 | bl792 | evaluated | 9af784 | 226.0 |
 | 15 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 221.1 |
@@ -101,7 +101,7 @@ Last updated: `April 04, 2026 at 03:34:55 AM ET`
 | 19 | pyjuan91 | evaluated | 268544 | 303.8 |
 | 20 | beratcelik | evaluated | 6ce29b | 305.0 |
 | 21 | your_nickname_here | evaluated | f10b9b | 308.1 |
-| 22 | fishyfins | evaluated | 67ec3a | 309.4 |
+| 22 | fishyfins | evaluated | a777bb | 309.3 |
 |  | chickfila | failed | 2a267f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -137,7 +137,7 @@ Last updated: `April 04, 2026 at 03:34:55 AM ET`
 | 18 | ashaikh23 | evaluated | 647265 | 229.0 |
 | 19 | beratcelik | evaluated | 6ce29b | 232.3 |
 | 20 | pyjuan91 | evaluated | 268544 | 234.4 |
-| 21 | fishyfins | evaluated | 67ec3a | 245.9 |
+| 21 | fishyfins | evaluated | a777bb | 246.0 |
 | 22 | your_nickname_here | evaluated | f10b9b | 246.4 |
 |  | chickfila | failed | 2a267f |  |
 |  | dhanushikka | failed | 14b1fd |  |
