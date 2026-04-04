@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 04, 2026 at 04:56:44 PM ET`
+Last updated: `April 04, 2026 at 05:28:25 PM ET`
 
 ## Pages
 
@@ -31,11 +31,10 @@ Last updated: `April 04, 2026 at 04:56:44 PM ET`
 | 17 | tuo | evaluated | 4274da | 76.5/4.8/81.3 | 0.711 | 507.3 | 204.2 | 167.5 | 160.5 |
 | 18 | 13rabbit | evaluated | 24af86 | 37.5/4.7/42.3 | 0.710 | 540.4 | 215.5 | 193.8 | 156.8 |
 | 19 | chickfila | evaluated | a9d066 | 43.0/5.1/48.1 | 0.625 | 523.3 | 225.4 | 269.1 | 190.7 |
-| 20 | Shengwei | evaluated | dac7ff | 40.6/5.8/46.3 | 0.587 | 528.0 | 174.2 | 278.1 | 184.0 |
-| 21 | ashaikh23 | evaluated | 647265 | 23.4/6.1/29.5 | 0.541 | 526.7 | 169.6 | 301.1 | 229.0 |
-| 22 | pyjuan91 | evaluated | 268544 | 40.5/6.1/46.6 | 0.539 | 531.0 | 170.5 | 303.8 | 234.4 |
-| 23 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
-| 24 | ethanchen | evaluated | a0d359 | 38.4/6.2/44.6 | 0.533 | 528.1 | 169.3 | 306.3 | 239.7 |
+| 20 | ashaikh23 | evaluated | 647265 | 23.4/6.1/29.5 | 0.541 | 526.7 | 169.6 | 301.1 | 229.0 |
+| 21 | pyjuan91 | evaluated | 268544 | 40.5/6.1/46.6 | 0.539 | 531.0 | 170.5 | 303.8 | 234.4 |
+| 22 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
+| 23 | ethanchen | evaluated | a0d359 | 38.4/6.2/44.6 | 0.533 | 528.1 | 169.3 | 306.3 | 239.7 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | ishan-pat | failed | acf3d7 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | landrum | failed | b88426 | 0.0/0.0/0.0 |  |  |  |  |  |
@@ -44,7 +43,9 @@ Last updated: `April 04, 2026 at 04:56:44 PM ET`
 |  | ngoguen | failed | 7e2d47 |  |  |  |  |  |  |
 |  | poppyPotatoe | failed | aa5125 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | PurplePickle67 | failed | 6a683b |  |  |  |  |  |  |
+|  | Shengwei | failed | a5d1f8 | 40.6/3.3/43.9 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
+|  | sjb | failed | 2fa80d | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | TheProphet | failed | 969e14 | 65.2/10.1/75.3 |  |  |  |  |  |
 |  | yb | failed | 8ca88e | 0.0/0.0/0.0 |  |  |  |  |  |
 

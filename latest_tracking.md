@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 04, 2026 at 04:56:44 PM ET`
+Last updated: `April 04, 2026 at 05:28:25 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 04 05:07 PM ET | chickfila | evaluated |  | develop.py | a9d066 | 63.7/3.1/66.8 | 533.2 | 351.2 | 64.5 | 109.0 |
+| Apr 04 05:03 PM ET | Shengwei | failed_correctness | Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Running evaluation... ... | submission.py | a5d1f8 | 40.6/3.3/43.9 | 531.4 | 266.9 | 35.1 | 60.3 |
+| Apr 04 05:00 PM ET | sjb | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | submission.py | 2fa80d | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 04 04:51 PM ET | chickfila | evaluated |  | submission.py | a9d066 | 43.0/5.1/48.1 | 523.3 | 225.4 | 269.1 | 190.7 |
 | Apr 04 04:47 PM ET | Shengwei | evaluated |  | submission.py | dac7ff | 40.6/5.8/46.3 | 528.0 | 174.2 | 278.1 | 184.0 |
 | Apr 04 04:20 PM ET | TheProphet | failed_correctness | Running setup... Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Runni... | develop.py | 969e14 | 35.6/5.5/41.0 | 0.0 | 98.7 | 24.0 | 46.2 |
