@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 04, 2026 at 10:33:39 AM ET`
+Last updated: `April 04, 2026 at 10:48:43 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 04 10:34 AM ET | ethanchen | failed_security | Security policy check failed for develop.py: - prohibited import: importlib.util - prohibited import: os | develop.py | 49841f |  |  |  |  |  |
 | Apr 04 10:16 AM ET | ngoguen | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | develop.py | 5f823d | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 04 10:15 AM ET | ethanchen | evaluated |  | submission.py | a0d359 | 38.4/6.2/44.6 | 528.1 | 169.3 | 306.3 | 239.7 |
 | Apr 04 10:01 AM ET | ngoguen | failed_compliance | Submission compliance check failed for submission.py: - missing required function(s): setup, run | submission.py | 7e2d47 |  |  |  |  |  |
