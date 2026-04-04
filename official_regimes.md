@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 04, 2026 at 12:17:39 AM ET`
+Last updated: `April 04, 2026 at 12:33:48 AM ET`
 
 ## R1 (tok/s)
 
@@ -20,12 +20,13 @@ Last updated: `April 04, 2026 at 12:17:39 AM ET`
 | 12 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
 | 13 | lipphi | evaluated | a3a71b | 534.8 |
 | 14 | gravlax | evaluated | b1229d | 532.3 |
-| 15 | Rithvik | evaluated | 1a7556 | 527.1 |
-| 16 | ashaikh23 | evaluated | 647265 | 526.7 |
-| 17 | abarat007 | evaluated | f67875 | 526.3 |
-| 18 | bl792 | evaluated | 9af784 | 525.3 |
-| 19 | beratcelik | evaluated | 6ce29b | 524.7 |
-| 20 | tuo | evaluated | 4274da | 507.3 |
+| 15 | pyjuan91 | evaluated | 268544 | 531.0 |
+| 16 | Rithvik | evaluated | 1a7556 | 527.1 |
+| 17 | ashaikh23 | evaluated | 647265 | 526.7 |
+| 18 | abarat007 | evaluated | 55288f | 526.4 |
+| 19 | bl792 | evaluated | 9af784 | 525.3 |
+| 20 | beratcelik | evaluated | 6ce29b | 524.7 |
+| 21 | tuo | evaluated | 4274da | 507.3 |
 |  | chickfila | failed | 2a267f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | d3139f |  |
@@ -55,12 +56,13 @@ Last updated: `April 04, 2026 at 12:17:39 AM ET`
 | 12 | Rithvik | evaluated | 1a7556 | 228.8 |
 | 13 | bl792 | evaluated | 9af784 | 226.0 |
 | 14 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 221.1 |
-| 15 | abarat007 | evaluated | f67875 | 218.7 |
+| 15 | abarat007 | evaluated | 55288f | 218.4 |
 | 16 | 13rabbit | evaluated | 24af86 | 215.5 |
 | 17 | tuo | evaluated | 4274da | 204.2 |
 | 18 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 19 | ashaikh23 | evaluated | 647265 | 169.6 |
-| 20 | beratcelik | evaluated | 6ce29b | 169.6 |
+| 19 | pyjuan91 | evaluated | 268544 | 170.5 |
+| 20 | ashaikh23 | evaluated | 647265 | 169.6 |
+| 21 | beratcelik | evaluated | 6ce29b | 169.6 |
 |  | chickfila | failed | 2a267f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | d3139f |  |
@@ -83,7 +85,7 @@ Last updated: `April 04, 2026 at 12:17:39 AM ET`
 | 5 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
 | 6 | prousoglou | evaluated | 570c63 | 34.7 |
 | 7 | gravlax | evaluated | b1229d | 35.0 |
-| 8 | abarat007 | evaluated | f67875 | 55.9 |
+| 8 | abarat007 | evaluated | 55288f | 55.4 |
 | 9 | happyface | evaluated | 7e8b61 | 63.7 |
 | 10 | Shengwei | evaluated | 395bbf | 71.0 |
 | 11 | TA | evaluated | 324cb8 | 83.2 |
@@ -94,8 +96,9 @@ Last updated: `April 04, 2026 at 12:17:39 AM ET`
 | 16 | tuo | evaluated | 4274da | 167.5 |
 | 17 | 13rabbit | evaluated | 24af86 | 193.8 |
 | 18 | ashaikh23 | evaluated | 647265 | 301.1 |
-| 19 | beratcelik | evaluated | 6ce29b | 305.0 |
-| 20 | your_nickname_here | evaluated | f10b9b | 308.1 |
+| 19 | pyjuan91 | evaluated | 268544 | 303.8 |
+| 20 | beratcelik | evaluated | 6ce29b | 305.0 |
+| 21 | your_nickname_here | evaluated | f10b9b | 308.1 |
 |  | chickfila | failed | 2a267f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | d3139f |  |
@@ -120,7 +123,7 @@ Last updated: `April 04, 2026 at 12:17:39 AM ET`
 | 7 | prousoglou | evaluated | 570c63 | 65.3 |
 | 8 | happyface | evaluated | 7e8b61 | 66.0 |
 | 9 | Shengwei | evaluated | 395bbf | 87.5 |
-| 10 | abarat007 | evaluated | f67875 | 107.5 |
+| 10 | abarat007 | evaluated | 55288f | 107.6 |
 | 11 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 131.1 |
 | 12 | bl792 | evaluated | 9af784 | 131.5 |
 | 13 | TA | evaluated | 324cb8 | 131.7 |
@@ -130,7 +133,8 @@ Last updated: `April 04, 2026 at 12:17:39 AM ET`
 | 17 | Rithvik | evaluated | 1a7556 | 166.5 |
 | 18 | ashaikh23 | evaluated | 647265 | 229.0 |
 | 19 | beratcelik | evaluated | 6ce29b | 232.3 |
-| 20 | your_nickname_here | evaluated | f10b9b | 246.4 |
+| 20 | pyjuan91 | evaluated | 268544 | 234.4 |
+| 21 | your_nickname_here | evaluated | f10b9b | 246.4 |
 |  | chickfila | failed | 2a267f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | d3139f |  |

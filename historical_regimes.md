@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 04, 2026 at 12:17:39 AM ET`
+Last updated: `April 04, 2026 at 12:33:48 AM ET`
 
 ## R1 (tok/s)
 
@@ -22,12 +22,13 @@ Last updated: `April 04, 2026 at 12:17:39 AM ET`
 | 14 | abarat007 | submission.py | 47c54f | 535.6 |
 | 15 | lipphi | submission.py | a3a71b | 534.8 |
 | 16 | gravlax | develop.py | 1f23d9 | 534.6 |
-| 17 | bl792 | submission.py | 3b3a8a | 528.5 |
-| 18 | Rithvik | submission.py | 1a7556 | 527.1 |
-| 19 | ashaikh23 | submission.py | 647265 | 526.7 |
-| 20 | chickfila | develop.py | 02225e | 525.8 |
-| 21 | beratcelik | submission.py | 6ce29b | 524.7 |
-| 22 | tuo | submission.py | 4274da | 507.3 |
+| 17 | pyjuan91 | submission.py | 268544 | 531.0 |
+| 18 | bl792 | submission.py | 3b3a8a | 528.5 |
+| 19 | Rithvik | submission.py | 1a7556 | 527.1 |
+| 20 | ashaikh23 | submission.py | 647265 | 526.7 |
+| 21 | chickfila | develop.py | 02225e | 525.8 |
+| 22 | beratcelik | submission.py | 6ce29b | 524.7 |
+| 23 | tuo | submission.py | 4274da | 507.3 |
 
 ## R2 (tok/s)
 
@@ -52,9 +53,10 @@ Last updated: `April 04, 2026 at 12:17:39 AM ET`
 | 17 | 13rabbit | submission.py | 24af86 | 215.5 |
 | 18 | tuo | submission.py | 4274da | 204.2 |
 | 19 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 20 | beratcelik | develop.py | 6ce29b | 169.8 |
-| 21 | ashaikh23 | submission.py | 647265 | 169.6 |
-| 22 | chickfila | submission.py | 02225e | 169.2 |
+| 20 | pyjuan91 | submission.py | 268544 | 170.5 |
+| 21 | beratcelik | develop.py | 6ce29b | 169.8 |
+| 22 | ashaikh23 | submission.py | 647265 | 169.6 |
+| 23 | chickfila | submission.py | 02225e | 169.2 |
 
 ## R3 (ms)
 
@@ -67,7 +69,7 @@ Last updated: `April 04, 2026 at 12:17:39 AM ET`
 | 5 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
 | 6 | prousoglou | submission.py | 570c63 | 34.7 |
 | 7 | gravlax | develop.py | b1229d | 35.0 |
-| 8 | abarat007 | develop.py | f67875 | 55.8 |
+| 8 | abarat007 | submission.py | 55288f | 55.4 |
 | 9 | happyface | submission.py | 9f7886 | 63.4 |
 | 10 | TheProphet | submission.py | 6211b5 | 70.0 |
 | 11 | Shengwei | submission.py | 395bbf | 71.0 |
@@ -79,10 +81,11 @@ Last updated: `April 04, 2026 at 12:17:39 AM ET`
 | 17 | tuo | submission.py | 92c00e | 166.9 |
 | 18 | 13rabbit | submission.py | 24af86 | 193.8 |
 | 19 | ashaikh23 | develop.py | 4e1462 | 301.1 |
-| 20 | beratcelik | submission.py | 6ce29b | 305.0 |
-| 21 | fishyfins | develop.py | d3139f | 307.2 |
-| 22 | your_nickname_here | submission.py | 59e245 | 307.4 |
-| 23 | chickfila | develop.py | 02225e | 309.5 |
+| 20 | pyjuan91 | submission.py | 268544 | 303.8 |
+| 21 | beratcelik | submission.py | 6ce29b | 305.0 |
+| 22 | fishyfins | develop.py | d3139f | 307.2 |
+| 23 | your_nickname_here | submission.py | 59e245 | 307.4 |
+| 24 | chickfila | develop.py | 02225e | 309.5 |
 
 ## R4 (ms)
 
@@ -108,6 +111,7 @@ Last updated: `April 04, 2026 at 12:17:39 AM ET`
 | 18 | Rithvik | submission.py | 1a7556 | 166.5 |
 | 19 | ashaikh23 | develop.py | 4e1462 | 228.8 |
 | 20 | beratcelik | submission.py | 6ce29b | 232.3 |
-| 21 | fishyfins | develop.py | d3139f | 244.4 |
-| 22 | your_nickname_here | submission.py | 59e245 | 245.7 |
-| 23 | chickfila | develop.py | 02225e | 247.3 |
+| 21 | pyjuan91 | submission.py | 268544 | 234.4 |
+| 22 | fishyfins | develop.py | d3139f | 244.4 |
+| 23 | your_nickname_here | submission.py | 59e245 | 245.7 |
+| 24 | chickfila | develop.py | 02225e | 247.3 |

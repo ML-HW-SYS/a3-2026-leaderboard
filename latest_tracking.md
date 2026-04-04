@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 04, 2026 at 12:17:39 AM ET`
+Last updated: `April 04, 2026 at 12:33:48 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 04 12:31 AM ET | abarat007 | evaluated |  | submission.py | 55288f | 38.4/4.0/42.4 | 526.4 | 218.4 | 55.4 | 107.6 |
+| Apr 04 12:21 AM ET | pyjuan91 | evaluated |  | submission.py | 268544 | 40.5/6.1/46.6 | 531.0 | 170.5 | 303.8 | 234.4 |
 | Apr 03 11:46 PM ET | abarat007 | evaluated |  | develop.py | f67875 | 22.8/4.0/26.8 | 527.3 | 218.9 | 55.8 | 107.8 |
 | Apr 03 11:31 PM ET | abarat007 | evaluated |  | submission.py | f67875 | 40.4/4.0/44.4 | 526.3 | 218.7 | 55.9 | 107.5 |
 | Apr 03 11:10 PM ET | tuo | failed_security | Security policy check failed for develop.py: - prohibited import: importlib.util - prohibited import: pathlib - prohi... | develop.py | 4274da |  |  |  |  |  |
