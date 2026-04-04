@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 03, 2026 at 09:30:38 PM ET`
+Last updated: `April 03, 2026 at 09:46:36 PM ET`
 
 ## Pages
 
@@ -38,8 +38,9 @@ Last updated: `April 03, 2026 at 09:30:38 PM ET`
 |  | ishan-pat | failed | acf3d7 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | landrum | failed | b88426 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
+|  | PurplePickle67 | failed | 6a683b |  |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | TheProphet | failed | 81d295 | 58.4/6.0/64.4 |  |  |  |  |  |
+|  | TheProphet | failed | e67a1f | 52.1/2.3/54.3 |  |  |  |  |  |
 |  | yb | failed | 8ca88e | 0.0/0.0/0.0 |  |  |  |  |  |
 
 ## Column Guide

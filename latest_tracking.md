@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 03, 2026 at 09:30:38 PM ET`
+Last updated: `April 03, 2026 at 09:46:36 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 03 09:40 PM ET | PurplePickle67 | failed_compliance | Submission compliance check failed for submission.py: - missing required function(s): setup, run | submission.py | 6a683b |  |  |  |  |  |
+| Apr 03 09:38 PM ET | TheProphet | failed_correctness | Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Running evaluation... ... | submission.py | e67a1f | 52.1/2.3/54.3 | 564.7 | 376.4 | 0.0 | 0.0 |
 | Apr 03 09:24 PM ET | Rithvik | failed_security | Security policy check failed for develop.py: - prohibited import: importlib.util - prohibited import: pathlib | develop.py | 1a7556 |  |  |  |  |  |
 | Apr 03 09:22 PM ET | fishyfins | failed_correctness | Running setup... Running setup... Running setup... Running evaluation... Running setup... Running evaluation... Loadi... | develop.py | d3139f | 18.0/2.2/20.2 | 0.0 | 0.0 | 307.2 | 244.4 |
 | Apr 03 09:09 PM ET | Rithvik | evaluated |  | submission.py | 1a7556 | 26.7/4.4/31.1 | 527.1 | 228.8 | 131.6 | 166.5 |

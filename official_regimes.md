@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 03, 2026 at 09:30:38 PM ET`
+Last updated: `April 03, 2026 at 09:46:36 PM ET`
 
 ## R1 (tok/s)
 
@@ -32,8 +32,9 @@ Last updated: `April 03, 2026 at 09:30:38 PM ET`
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | PurplePickle67 | failed | 6a683b |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 81d295 |  |
+|  | TheProphet | failed | e67a1f |  |
 |  | yb | failed | 8ca88e |  |
 
 ## R2 (tok/s)
@@ -66,8 +67,9 @@ Last updated: `April 03, 2026 at 09:30:38 PM ET`
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | PurplePickle67 | failed | 6a683b |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 81d295 |  |
+|  | TheProphet | failed | e67a1f |  |
 |  | yb | failed | 8ca88e |  |
 
 ## R3 (ms)
@@ -100,8 +102,9 @@ Last updated: `April 03, 2026 at 09:30:38 PM ET`
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | PurplePickle67 | failed | 6a683b |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 81d295 |  |
+|  | TheProphet | failed | e67a1f |  |
 |  | yb | failed | 8ca88e |  |
 
 ## R4 (ms)
@@ -134,6 +137,7 @@ Last updated: `April 03, 2026 at 09:30:38 PM ET`
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | PurplePickle67 | failed | 6a683b |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 81d295 |  |
+|  | TheProphet | failed | e67a1f |  |
 |  | yb | failed | 8ca88e |  |
