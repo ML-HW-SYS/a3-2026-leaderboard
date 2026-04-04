@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 03, 2026 at 11:17:47 PM ET`
+Last updated: `April 03, 2026 at 11:33:12 PM ET`
 
 ## R1 (tok/s)
 
@@ -22,7 +22,7 @@ Last updated: `April 03, 2026 at 11:17:47 PM ET`
 | 14 | gravlax | evaluated | b1229d | 532.3 |
 | 15 | Rithvik | evaluated | 1a7556 | 527.1 |
 | 16 | ashaikh23 | evaluated | 647265 | 526.7 |
-| 17 | abarat007 | evaluated | 410fa2 | 526.0 |
+| 17 | abarat007 | evaluated | f67875 | 526.3 |
 | 18 | bl792 | evaluated | 9af784 | 525.3 |
 | 19 | beratcelik | evaluated | 6ce29b | 524.7 |
 | 20 | tuo | evaluated | 4274da | 507.3 |
@@ -55,7 +55,7 @@ Last updated: `April 03, 2026 at 11:17:47 PM ET`
 | 12 | Rithvik | evaluated | 1a7556 | 228.8 |
 | 13 | bl792 | evaluated | 9af784 | 226.0 |
 | 14 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 221.1 |
-| 15 | abarat007 | evaluated | 410fa2 | 219.1 |
+| 15 | abarat007 | evaluated | f67875 | 218.7 |
 | 16 | 13rabbit | evaluated | 24af86 | 215.5 |
 | 17 | tuo | evaluated | 4274da | 204.2 |
 | 18 | your_nickname_here | evaluated | f10b9b | 173.1 |
@@ -83,7 +83,7 @@ Last updated: `April 03, 2026 at 11:17:47 PM ET`
 | 5 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
 | 6 | prousoglou | evaluated | 570c63 | 34.7 |
 | 7 | gravlax | evaluated | b1229d | 35.0 |
-| 8 | abarat007 | evaluated | 410fa2 | 59.4 |
+| 8 | abarat007 | evaluated | f67875 | 55.9 |
 | 9 | happyface | evaluated | 7e8b61 | 63.7 |
 | 10 | Shengwei | evaluated | 395bbf | 71.0 |
 | 11 | TA | evaluated | 324cb8 | 83.2 |
@@ -120,7 +120,7 @@ Last updated: `April 03, 2026 at 11:17:47 PM ET`
 | 7 | prousoglou | evaluated | 570c63 | 65.3 |
 | 8 | happyface | evaluated | 7e8b61 | 66.0 |
 | 9 | Shengwei | evaluated | 395bbf | 87.5 |
-| 10 | abarat007 | evaluated | 410fa2 | 113.8 |
+| 10 | abarat007 | evaluated | f67875 | 107.5 |
 | 11 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 131.1 |
 | 12 | bl792 | evaluated | 9af784 | 131.5 |
 | 13 | TA | evaluated | 324cb8 | 131.7 |
