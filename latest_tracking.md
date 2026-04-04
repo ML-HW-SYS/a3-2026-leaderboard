@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 04, 2026 at 12:33:48 AM ET`
+Last updated: `April 04, 2026 at 12:49:41 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 04 12:47 AM ET | abarat007 | evaluated |  | develop.py | 55288f | 23.0/4.0/27.0 | 523.3 | 218.3 | 55.9 | 107.5 |
+| Apr 04 12:41 AM ET | fishyfins | failed_correctness | Running setup... Running setup... Running setup... Running evaluation... Running setup... Running evaluation... Loadi... | submission.py | 916e35 | 19.4/2.2/21.6 | 0.0 | 0.0 | 309.0 | 246.0 |
+| Apr 04 12:36 AM ET | pyjuan91 | evaluated |  | develop.py | 268544 | 19.8/6.1/25.9 | 529.5 | 170.5 | 303.2 | 234.1 |
 | Apr 04 12:31 AM ET | abarat007 | evaluated |  | submission.py | 55288f | 38.4/4.0/42.4 | 526.4 | 218.4 | 55.4 | 107.6 |
 | Apr 04 12:21 AM ET | pyjuan91 | evaluated |  | submission.py | 268544 | 40.5/6.1/46.6 | 531.0 | 170.5 | 303.8 | 234.4 |
 | Apr 03 11:46 PM ET | abarat007 | evaluated |  | develop.py | f67875 | 22.8/4.0/26.8 | 527.3 | 218.9 | 55.8 | 107.8 |

@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 04, 2026 at 12:33:48 AM ET`
+Last updated: `April 04, 2026 at 12:49:41 AM ET`
 
 ## Pages
 
@@ -35,7 +35,7 @@ Last updated: `April 04, 2026 at 12:33:48 AM ET`
 | 21 | beratcelik | evaluated | 6ce29b | 72.8/6.1/78.9 | 0.537 | 524.7 | 169.6 | 305.0 | 232.3 |
 |  | chickfila | failed | 2a267f |  |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
-|  | fishyfins | failed | d3139f | 18.0/2.2/20.2 |  |  |  |  |  |
+|  | fishyfins | failed | 916e35 | 19.4/2.2/21.6 |  |  |  |  |  |
 |  | ishan-pat | failed | acf3d7 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | landrum | failed | b88426 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |

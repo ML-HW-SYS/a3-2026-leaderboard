@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 04, 2026 at 12:33:48 AM ET`
+Last updated: `April 04, 2026 at 12:49:41 AM ET`
 
 ## R1 (tok/s)
 
@@ -29,7 +29,7 @@ Last updated: `April 04, 2026 at 12:33:48 AM ET`
 | 21 | tuo | evaluated | 4274da | 507.3 |
 |  | chickfila | failed | 2a267f |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | d3139f |  |
+|  | fishyfins | failed | 916e35 |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -65,7 +65,7 @@ Last updated: `April 04, 2026 at 12:33:48 AM ET`
 | 21 | beratcelik | evaluated | 6ce29b | 169.6 |
 |  | chickfila | failed | 2a267f |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | d3139f |  |
+|  | fishyfins | failed | 916e35 |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -101,7 +101,7 @@ Last updated: `April 04, 2026 at 12:33:48 AM ET`
 | 21 | your_nickname_here | evaluated | f10b9b | 308.1 |
 |  | chickfila | failed | 2a267f |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | d3139f |  |
+|  | fishyfins | failed | 916e35 |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -137,7 +137,7 @@ Last updated: `April 04, 2026 at 12:33:48 AM ET`
 | 21 | your_nickname_here | evaluated | f10b9b | 246.4 |
 |  | chickfila | failed | 2a267f |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | d3139f |  |
+|  | fishyfins | failed | 916e35 |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | mdavalos10 | failed | b601f0 |  |
