@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 03, 2026 at 09:00:11 PM ET`
+Last updated: `April 03, 2026 at 09:15:40 PM ET`
 
 ## R1 (tok/s)
 
@@ -20,15 +20,15 @@ Last updated: `April 03, 2026 at 09:00:11 PM ET`
 | 12 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
 | 13 | lipphi | evaluated | a3a71b | 534.8 |
 | 14 | gravlax | evaluated | b1229d | 532.3 |
-| 15 | abarat007 | evaluated | 410fa2 | 526.0 |
-| 16 | bl792 | evaluated | 9af784 | 525.3 |
-| 17 | beratcelik | evaluated | 6ce29b | 524.7 |
-| 18 | tuo | evaluated | 92c00e | 457.9 |
-| 19 | Rithvik | evaluated | b367b3 | 36.5 |
+| 15 | Rithvik | evaluated | 1a7556 | 527.1 |
+| 16 | abarat007 | evaluated | 410fa2 | 526.0 |
+| 17 | bl792 | evaluated | 9af784 | 525.3 |
+| 18 | beratcelik | evaluated | 6ce29b | 524.7 |
+| 19 | tuo | evaluated | 92c00e | 457.9 |
 |  | ashaikh23 | failed | a5012f |  |
 |  | chickfila | failed | 0b96b9 |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | b8a4a4 |  |
+|  | fishyfins | failed | d3139f |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -51,18 +51,18 @@ Last updated: `April 03, 2026 at 09:00:11 PM ET`
 | 9 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
 | 10 | gravlax | evaluated | b1229d | 272.5 |
 | 11 | happyface | evaluated | 7e8b61 | 258.2 |
-| 12 | bl792 | evaluated | 9af784 | 226.0 |
-| 13 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 221.1 |
-| 14 | abarat007 | evaluated | 410fa2 | 219.1 |
-| 15 | 13rabbit | evaluated | 24af86 | 215.5 |
-| 16 | tuo | evaluated | 92c00e | 198.7 |
-| 17 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 18 | beratcelik | evaluated | 6ce29b | 169.6 |
-| 19 | Rithvik | evaluated | b367b3 | 21.1 |
+| 12 | Rithvik | evaluated | 1a7556 | 228.8 |
+| 13 | bl792 | evaluated | 9af784 | 226.0 |
+| 14 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 221.1 |
+| 15 | abarat007 | evaluated | 410fa2 | 219.1 |
+| 16 | 13rabbit | evaluated | 24af86 | 215.5 |
+| 17 | tuo | evaluated | 92c00e | 198.7 |
+| 18 | your_nickname_here | evaluated | f10b9b | 173.1 |
+| 19 | beratcelik | evaluated | 6ce29b | 169.6 |
 |  | ashaikh23 | failed | a5012f |  |
 |  | chickfila | failed | 0b96b9 |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | b8a4a4 |  |
+|  | fishyfins | failed | d3139f |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -87,7 +87,7 @@ Last updated: `April 03, 2026 at 09:00:11 PM ET`
 | 11 | TA | evaluated | 324cb8 | 83.2 |
 | 12 | bl792 | evaluated | 9af784 | 97.1 |
 | 13 | lipphi | evaluated | a3a71b | 104.4 |
-| 14 | Rithvik | evaluated | b367b3 | 131.4 |
+| 14 | Rithvik | evaluated | 1a7556 | 131.6 |
 | 15 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 160.0 |
 | 16 | tuo | evaluated | 92c00e | 166.9 |
 | 17 | 13rabbit | evaluated | 24af86 | 193.8 |
@@ -96,7 +96,7 @@ Last updated: `April 03, 2026 at 09:00:11 PM ET`
 |  | ashaikh23 | failed | a5012f |  |
 |  | chickfila | failed | 0b96b9 |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | b8a4a4 |  |
+|  | fishyfins | failed | d3139f |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -124,13 +124,13 @@ Last updated: `April 03, 2026 at 09:00:11 PM ET`
 | 14 | lipphi | evaluated | a3a71b | 150.9 |
 | 15 | 13rabbit | evaluated | 24af86 | 156.8 |
 | 16 | tuo | evaluated | 92c00e | 161.0 |
-| 17 | Rithvik | evaluated | b367b3 | 166.9 |
+| 17 | Rithvik | evaluated | 1a7556 | 166.5 |
 | 18 | beratcelik | evaluated | 6ce29b | 232.3 |
 | 19 | your_nickname_here | evaluated | f10b9b | 246.4 |
 |  | ashaikh23 | failed | a5012f |  |
 |  | chickfila | failed | 0b96b9 |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | b8a4a4 |  |
+|  | fishyfins | failed | d3139f |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | mdavalos10 | failed | b601f0 |  |

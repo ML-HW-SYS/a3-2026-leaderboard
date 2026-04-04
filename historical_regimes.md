@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 03, 2026 at 09:00:11 PM ET`
+Last updated: `April 03, 2026 at 09:15:40 PM ET`
 
 ## R1 (tok/s)
 
@@ -23,10 +23,10 @@ Last updated: `April 03, 2026 at 09:00:11 PM ET`
 | 15 | lipphi | submission.py | a3a71b | 534.8 |
 | 16 | gravlax | develop.py | 1f23d9 | 534.6 |
 | 17 | bl792 | submission.py | 3b3a8a | 528.5 |
-| 18 | chickfila | develop.py | 02225e | 525.8 |
-| 19 | beratcelik | submission.py | 6ce29b | 524.7 |
-| 20 | tuo | submission.py | 30a3c3 | 495.2 |
-| 21 | Rithvik | submission.py | b367b3 | 36.5 |
+| 18 | Rithvik | submission.py | 1a7556 | 527.1 |
+| 19 | chickfila | develop.py | 02225e | 525.8 |
+| 20 | beratcelik | submission.py | 6ce29b | 524.7 |
+| 21 | tuo | submission.py | 30a3c3 | 495.2 |
 
 ## R2 (tok/s)
 
@@ -45,14 +45,14 @@ Last updated: `April 03, 2026 at 09:00:11 PM ET`
 | 11 | gravlax | develop.py | b1229d | 273.0 |
 | 12 | abarat007 | submission.py | 47c54f | 262.0 |
 | 13 | happyface | develop.py | 0aca52 | 259.4 |
-| 14 | bl792 | develop.py | 6ec673 | 228.2 |
-| 15 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 221.1 |
-| 16 | 13rabbit | submission.py | 24af86 | 215.5 |
-| 17 | tuo | submission.py | 30a3c3 | 203.8 |
-| 18 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 19 | beratcelik | develop.py | 6ce29b | 169.8 |
-| 20 | chickfila | submission.py | 02225e | 169.2 |
-| 21 | Rithvik | submission.py | b367b3 | 21.1 |
+| 14 | Rithvik | submission.py | 1a7556 | 228.8 |
+| 15 | bl792 | develop.py | 6ec673 | 228.2 |
+| 16 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 221.1 |
+| 17 | 13rabbit | submission.py | 24af86 | 215.5 |
+| 18 | tuo | submission.py | 30a3c3 | 203.8 |
+| 19 | your_nickname_here | submission.py | 59e245 | 173.4 |
+| 20 | beratcelik | develop.py | 6ce29b | 169.8 |
+| 21 | chickfila | submission.py | 02225e | 169.2 |
 
 ## R3 (ms)
 
@@ -102,8 +102,8 @@ Last updated: `April 03, 2026 at 09:00:11 PM ET`
 | 15 | lipphi | submission.py | a3a71b | 150.9 |
 | 16 | 13rabbit | submission.py | 24af86 | 156.8 |
 | 17 | tuo | submission.py | 92c00e | 161.0 |
-| 18 | Rithvik | submission.py | b367b3 | 166.9 |
+| 18 | Rithvik | submission.py | 1a7556 | 166.5 |
 | 19 | beratcelik | submission.py | 6ce29b | 232.3 |
-| 20 | fishyfins | develop.py | 368f94 | 244.5 |
+| 20 | fishyfins | submission.py | d3139f | 244.5 |
 | 21 | your_nickname_here | submission.py | 59e245 | 245.7 |
 | 22 | chickfila | develop.py | 02225e | 247.3 |
