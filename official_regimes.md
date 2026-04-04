@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 04, 2026 at 09:28:57 AM ET`
+Last updated: `April 04, 2026 at 09:44:26 AM ET`
 
 ## R1 (tok/s)
 
@@ -8,7 +8,7 @@ Last updated: `April 04, 2026 at 09:28:57 AM ET`
 | --- | --- | --- | --- | --- |
 | 1 | fishyfins | evaluated | a777bb | 591.4 |
 | 2 | - - | evaluated | adc0f3 | 591.4 |
-| 3 | TheProphet | evaluated | e29081 | 567.1 |
+| 3 | TheProphet | evaluated | ad10e3 | 563.4 |
 | 4 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 558.0 |
 | 5 | your_nickname_here | evaluated | f10b9b | 557.8 |
 | 6 | prousoglou | evaluated | 570c63 | 556.7 |
@@ -46,7 +46,7 @@ Last updated: `April 04, 2026 at 09:28:57 AM ET`
 | 1 | fishyfins | evaluated | a777bb | 586.8 |
 | 2 | chyyy | evaluated | 34cc06 | 433.8 |
 | 3 | - - | evaluated | adc0f3 | 386.9 |
-| 4 | TheProphet | evaluated | e29081 | 380.3 |
+| 4 | TheProphet | evaluated | ad10e3 | 381.7 |
 | 5 | prousoglou | evaluated | 570c63 | 368.2 |
 | 6 | gm | evaluated | 2898fc | 357.0 |
 | 7 | nickname55555555 | evaluated | 99ddc2 | 334.1 |
@@ -83,9 +83,9 @@ Last updated: `April 04, 2026 at 09:28:57 AM ET`
 | 1 | - - | evaluated | adc0f3 | 21.8 |
 | 2 | chyyy | evaluated | 34cc06 | 24.8 |
 | 3 | gm | evaluated | 2898fc | 26.8 |
-| 4 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
-| 5 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
-| 6 | TheProphet | evaluated | e29081 | 32.9 |
+| 4 | TheProphet | evaluated | ad10e3 | 31.3 |
+| 5 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
+| 6 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
 | 7 | prousoglou | evaluated | 570c63 | 34.7 |
 | 8 | gravlax | evaluated | b1229d | 35.0 |
 | 9 | abarat007 | evaluated | 55288f | 55.4 |
@@ -122,8 +122,8 @@ Last updated: `April 04, 2026 at 09:28:57 AM ET`
 | 3 | gm | evaluated | 2898fc | 48.5 |
 | 4 | nickname55555555 | evaluated | 99ddc2 | 53.0 |
 | 5 | gravlax | evaluated | b1229d | 59.7 |
-| 6 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
-| 7 | TheProphet | evaluated | e29081 | 64.3 |
+| 6 | TheProphet | evaluated | ad10e3 | 62.5 |
+| 7 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
 | 8 | prousoglou | evaluated | 570c63 | 65.3 |
 | 9 | happyface | evaluated | 7e8b61 | 66.0 |
 | 10 | Shengwei | evaluated | 395bbf | 87.5 |

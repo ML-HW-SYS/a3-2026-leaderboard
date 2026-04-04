@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 04, 2026 at 09:28:57 AM ET`
+Last updated: `April 04, 2026 at 09:44:26 AM ET`
 
 ## R1 (tok/s)
 
@@ -38,7 +38,7 @@ Last updated: `April 04, 2026 at 09:28:57 AM ET`
 | 1 | fishyfins | develop.py | f834c6 | 592.5 |
 | 2 | chyyy | submission.py | 34cc06 | 433.8 |
 | 3 | - - | submission.py | adc0f3 | 386.9 |
-| 4 | TheProphet | develop.py | e29081 | 380.6 |
+| 4 | TheProphet | submission.py | ad10e3 | 381.7 |
 | 5 | prousoglou | submission.py | 570c63 | 368.2 |
 | 6 | gm | develop.py | fd15e9 | 357.3 |
 | 7 | nickname55555555 | develop.py | 99ddc2 | 334.4 |
@@ -67,9 +67,9 @@ Last updated: `April 04, 2026 at 09:28:57 AM ET`
 | 1 | - - | submission.py | adc0f3 | 21.8 |
 | 2 | chyyy | submission.py | 34cc06 | 24.8 |
 | 3 | gm | submission.py | 2898fc | 26.8 |
-| 4 | nickname55555555 | submission.py | 05c6ab | 31.9 |
-| 5 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
-| 6 | TheProphet | submission.py | e29081 | 32.9 |
+| 4 | TheProphet | submission.py | ad10e3 | 31.3 |
+| 5 | nickname55555555 | submission.py | 05c6ab | 31.9 |
+| 6 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
 | 7 | prousoglou | submission.py | 570c63 | 34.7 |
 | 8 | gravlax | develop.py | b1229d | 35.0 |
 | 9 | abarat007 | submission.py | 55288f | 55.4 |
@@ -98,8 +98,8 @@ Last updated: `April 04, 2026 at 09:28:57 AM ET`
 | 3 | gm | submission.py | 2898fc | 48.5 |
 | 4 | nickname55555555 | submission.py | 05c6ab | 52.5 |
 | 5 | gravlax | submission.py | b1229d | 59.7 |
-| 6 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
-| 7 | TheProphet | submission.py | e29081 | 64.3 |
+| 6 | TheProphet | submission.py | ad10e3 | 62.5 |
+| 7 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
 | 8 | prousoglou | submission.py | 570c63 | 65.3 |
 | 9 | happyface | develop.py | 0aca52 | 65.7 |
 | 10 | Shengwei | submission.py | 395bbf | 87.5 |
