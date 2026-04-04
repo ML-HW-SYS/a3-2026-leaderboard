@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 03, 2026 at 07:56:23 PM ET`
+Last updated: `April 03, 2026 at 08:12:50 PM ET`
 
 ## R1 (tok/s)
 
@@ -26,6 +26,7 @@ Last updated: `April 03, 2026 at 07:56:23 PM ET`
 | 18 | chickfila | develop.py | 02225e | 525.8 |
 | 19 | beratcelik | submission.py | 6ce29b | 524.7 |
 | 20 | tuo | submission.py | 30a3c3 | 495.2 |
+| 21 | Rithvik | submission.py | b367b3 | 36.5 |
 
 ## R2 (tok/s)
 
@@ -51,6 +52,7 @@ Last updated: `April 03, 2026 at 07:56:23 PM ET`
 | 18 | your_nickname_here | submission.py | 59e245 | 173.4 |
 | 19 | beratcelik | develop.py | 6ce29b | 169.8 |
 | 20 | chickfila | submission.py | 02225e | 169.2 |
+| 21 | Rithvik | submission.py | b367b3 | 21.1 |
 
 ## R3 (ms)
 
@@ -70,12 +72,13 @@ Last updated: `April 03, 2026 at 07:56:23 PM ET`
 | 12 | TA | submission.py | 324cb8 | 83.2 |
 | 13 | bl792 | submission.py | 9af784 | 97.1 |
 | 14 | lipphi | develop.py | d58cae | 104.4 |
-| 15 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 160.0 |
-| 16 | tuo | submission.py | 4735b8 | 168.0 |
-| 17 | 13rabbit | submission.py | 24af86 | 193.8 |
-| 18 | beratcelik | submission.py | 6ce29b | 305.0 |
-| 19 | your_nickname_here | submission.py | 59e245 | 307.4 |
-| 20 | chickfila | develop.py | 02225e | 309.5 |
+| 15 | Rithvik | submission.py | b367b3 | 131.4 |
+| 16 | 1_Core_2GHz_Colab_CPU | submission.py | bd9ae0 | 160.0 |
+| 17 | tuo | submission.py | 4735b8 | 168.0 |
+| 18 | 13rabbit | submission.py | 24af86 | 193.8 |
+| 19 | beratcelik | submission.py | 6ce29b | 305.0 |
+| 20 | your_nickname_here | submission.py | 59e245 | 307.4 |
+| 21 | chickfila | develop.py | 02225e | 309.5 |
 
 ## R4 (ms)
 
@@ -98,6 +101,7 @@ Last updated: `April 03, 2026 at 07:56:23 PM ET`
 | 15 | lipphi | submission.py | a3a71b | 150.9 |
 | 16 | 13rabbit | submission.py | 24af86 | 156.8 |
 | 17 | tuo | submission.py | 4735b8 | 161.7 |
-| 18 | beratcelik | submission.py | 6ce29b | 232.3 |
-| 19 | your_nickname_here | submission.py | 59e245 | 245.7 |
-| 20 | chickfila | develop.py | 02225e | 247.3 |
+| 18 | Rithvik | submission.py | b367b3 | 166.9 |
+| 19 | beratcelik | submission.py | 6ce29b | 232.3 |
+| 20 | your_nickname_here | submission.py | 59e245 | 245.7 |
+| 21 | chickfila | develop.py | 02225e | 247.3 |

@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 03, 2026 at 07:56:23 PM ET`
+Last updated: `April 03, 2026 at 08:12:50 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 03 08:10 PM ET | abarat007 | evaluated |  | develop.py | 410fa2 | 29.1/4.0/33.1 | 523.4 | 218.9 | 59.5 | 114.4 |
+| Apr 03 08:06 PM ET | chickfila | failed_security | Security policy check failed for submission.py: - prohibited import: os | submission.py | 2e4128 |  |  |  |  |  |
+| Apr 03 08:05 PM ET | Rithvik | evaluated |  | submission.py | b367b3 | 15.2/39.4/54.7 | 36.5 | 21.1 | 131.4 | 166.9 |
+| Apr 03 08:04 PM ET | tuo | evaluated |  | submission.py | 528c17 | 15.4/5.8/21.2 | 360.4 | 173.4 | 176.5 | 179.6 |
 | Apr 03 07:54 PM ET | abarat007 | evaluated |  | submission.py | 410fa2 | 29.1/4.0/33.1 | 526.0 | 219.1 | 59.4 | 113.8 |
 | Apr 03 07:50 PM ET | chickfila | evaluated |  | develop.py | 02225e | 21.0/6.2/27.2 | 525.8 | 169.1 | 309.5 | 247.3 |
 | Apr 03 07:35 PM ET | chickfila | evaluated |  | submission.py | 02225e | 40.5/6.2/46.7 | 525.1 | 169.2 | 309.6 | 247.3 |

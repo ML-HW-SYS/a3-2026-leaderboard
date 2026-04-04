@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 03, 2026 at 07:56:23 PM ET`
+Last updated: `April 03, 2026 at 08:12:50 PM ET`
 
 ## Pages
 
@@ -28,11 +28,12 @@ Last updated: `April 03, 2026 at 07:56:23 PM ET`
 | 14 | bl792 | evaluated | 9af784 | 18.9/4.2/23.0 | 0.886 | 525.3 | 226.0 | 97.1 | 131.5 |
 | 15 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 34.9/4.4/39.3 | 0.790 | 558.0 | 221.1 | 160.0 | 131.1 |
 | 16 | 13rabbit | evaluated | 24af86 | 37.5/4.7/42.3 | 0.710 | 540.4 | 215.5 | 193.8 | 156.8 |
-| 17 | tuo | evaluated | 30a3c3 | 46.4/5.0/51.3 | 0.681 | 495.2 | 203.8 | 174.4 | 178.4 |
+| 17 | tuo | evaluated | 528c17 | 15.4/5.8/21.2 | 0.601 | 360.4 | 173.4 | 176.5 | 179.6 |
 | 18 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
 | 19 | beratcelik | evaluated | 6ce29b | 72.8/6.1/78.9 | 0.537 | 524.7 | 169.6 | 305.0 | 232.3 |
-| 20 | chickfila | evaluated | 02225e | 40.5/6.2/46.7 | 0.527 | 525.1 | 169.2 | 309.6 | 247.3 |
+| 20 | Rithvik | evaluated | b367b3 | 15.2/39.4/54.7 | 0.220 | 36.5 | 21.1 | 131.4 | 166.9 |
 |  | ashaikh23 | failed | a5012f |  |  |  |  |  |  |
+|  | chickfila | failed | 2e4128 |  |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | fishyfins | failed | b8a4a4 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | ishan-pat | failed | acf3d7 | 0.0/0.0/0.0 |  |  |  |  |  |
