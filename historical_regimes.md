@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 04, 2026 at 05:45:30 PM ET`
+Last updated: `April 04, 2026 at 06:07:58 PM ET`
 
 ## R1 (tok/s)
 
@@ -53,12 +53,12 @@ Last updated: `April 04, 2026 at 05:45:30 PM ET`
 | 14 | abarat007 | develop.py | 260fed | 277.1 |
 | 15 | gravlax | develop.py | b1229d | 273.0 |
 | 16 | happyface | develop.py | 0aca52 | 259.4 |
-| 17 | Rithvik | submission.py | cc03b2 | 240.4 |
-| 18 | bl792 | develop.py | 6ec673 | 228.2 |
-| 19 | 13rabbit | submission.py | 24af86 | 215.5 |
-| 20 | tuo | submission.py | 4274da | 204.2 |
-| 21 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 22 | pyjuan91 | develop.py | 268544 | 170.5 |
+| 17 | pyjuan91 | submission.py | 7ff296 | 256.3 |
+| 18 | Rithvik | submission.py | cc03b2 | 240.4 |
+| 19 | bl792 | develop.py | 6ec673 | 228.2 |
+| 20 | 13rabbit | submission.py | 24af86 | 215.5 |
+| 21 | tuo | submission.py | 4274da | 204.2 |
+| 22 | your_nickname_here | submission.py | 59e245 | 173.4 |
 | 23 | beratcelik | develop.py | 6ce29b | 169.8 |
 | 24 | ashaikh23 | submission.py | 647265 | 169.6 |
 | 25 | ethanchen | submission.py | a0d359 | 169.3 |
@@ -84,7 +84,7 @@ Last updated: `April 04, 2026 at 05:45:30 PM ET`
 | 14 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 70.9 |
 | 15 | TA | submission.py | 324cb8 | 83.2 |
 | 16 | bl792 | submission.py | 9af784 | 97.1 |
-| 17 | Rithvik | submission.py | cc03b2 | 101.7 |
+| 17 | Rithvik | submission.py | 114138 | 101.7 |
 | 18 | lipphi | develop.py | d58cae | 104.4 |
 | 19 | tuo | submission.py | 92c00e | 166.9 |
 | 20 | 13rabbit | submission.py | 24af86 | 193.8 |
@@ -111,7 +111,7 @@ Last updated: `April 04, 2026 at 05:45:30 PM ET`
 | 10 | happyface | develop.py | 0aca52 | 65.7 |
 | 11 | Shengwei | submission.py | 077330 | 84.1 |
 | 12 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 89.2 |
-| 13 | Rithvik | submission.py | cc03b2 | 106.9 |
+| 13 | Rithvik | submission.py | 114138 | 106.7 |
 | 14 | chickfila | develop.py | a9d066 | 109.0 |
 | 15 | beratcelik | submission.py | 20645a | 112.8 |
 | 16 | bl792 | develop.py | 9af784 | 130.8 |

@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 04, 2026 at 05:45:30 PM ET`
+Last updated: `April 04, 2026 at 06:07:58 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 04 06:05 PM ET | Rithvik | evaluated |  | submission.py | 114138 | 20.2/3.9/24.1 | 524.6 | 240.3 | 101.7 | 106.7 |
+| Apr 04 06:03 PM ET | Shengwei | evaluated |  | submission.py | 87ccb2 | 20.0/3.1/23.2 | 543.1 | 326.4 | 71.5 | 88.2 |
+| Apr 04 06:03 PM ET | TheProphet | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | submission.py | 801074 | 16.5/0.0/16.5 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 04 05:59 PM ET | pyjuan91 | failed_correctness | Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Running evaluation... ... | submission.py | 7ff296 | 20.5/3.7/24.2 | 524.3 | 256.3 | 67.3 | 114.2 |
 | Apr 04 05:44 PM ET | 1_Core_2GHz_Colab_CPU | evaluated |  | submission.py | 91d4be | 37.2/3.1/40.3 | 560.4 | 326.5 | 70.9 | 89.2 |
 | Apr 04 05:36 PM ET | Shengwei | failed_correctness | Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Running evaluation... ... | submission.py | 077330 | 40.8/3.1/43.9 | 546.9 | 330.0 | 70.1 | 84.1 |
 | Apr 04 05:33 PM ET | sjb | evaluated |  | develop.py | 2fa80d | 52.9/7.1/60.1 | 518.7 | 169.2 | 423.1 | 361.1 |
