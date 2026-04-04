@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 03, 2026 at 10:01:52 PM ET`
+Last updated: `April 03, 2026 at 10:17:13 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 03 10:15 PM ET | ashaikh23 | evaluated |  | develop.py | 4e1462 | 34.7/6.1/40.8 | 525.4 | 169.6 | 301.1 | 228.8 |
 | Apr 03 09:56 PM ET | PurplePickle67 | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | develop.py | 6a683b | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 03 09:56 PM ET | chickfila | failed_security | Security policy check failed for submission.py: - prohibited import: os | submission.py | 2a267f |  |  |  |  |  |
 | Apr 03 09:53 PM ET | TheProphet | failed_correctness | Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Running evaluation... ... | develop.py | e67a1f | 29.9/2.3/32.2 | 567.0 | 377.6 | 0.0 | 0.0 |
