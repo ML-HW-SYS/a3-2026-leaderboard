@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 04, 2026 at 01:48:52 PM ET`
+Last updated: `April 04, 2026 at 02:05:08 PM ET`
 
 ## R1 (tok/s)
 
@@ -8,7 +8,7 @@ Last updated: `April 04, 2026 at 01:48:52 PM ET`
 | --- | --- | --- | --- | --- |
 | 1 | fishyfins | evaluated | a777bb | 591.4 |
 | 2 | - - | evaluated | adc0f3 | 591.4 |
-| 3 | TheProphet | evaluated | 0a9c73 | 567.2 |
+| 3 | TheProphet | evaluated | 5b306e | 564.1 |
 | 4 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 558.0 |
 | 5 | your_nickname_here | evaluated | f10b9b | 557.8 |
 | 6 | prousoglou | evaluated | 570c63 | 556.7 |
@@ -19,14 +19,14 @@ Last updated: `April 04, 2026 at 01:48:52 PM ET`
 | 11 | Shengwei | evaluated | 395bbf | 542.9 |
 | 12 | gm | evaluated | 2898fc | 541.1 |
 | 13 | 13rabbit | evaluated | 24af86 | 540.4 |
-| 14 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
-| 15 | lipphi | evaluated | a3a71b | 534.8 |
-| 16 | gravlax | evaluated | b1229d | 532.3 |
-| 17 | pyjuan91 | evaluated | 268544 | 531.0 |
-| 18 | ethanchen | evaluated | a0d359 | 528.1 |
-| 19 | ashaikh23 | evaluated | 647265 | 526.7 |
-| 20 | Rithvik | evaluated | cc03b2 | 526.7 |
-| 21 | abarat007 | evaluated | 55288f | 526.4 |
+| 14 | abarat007 | evaluated | 7a7fc0 | 539.9 |
+| 15 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
+| 16 | lipphi | evaluated | a3a71b | 534.8 |
+| 17 | gravlax | evaluated | b1229d | 532.3 |
+| 18 | pyjuan91 | evaluated | 268544 | 531.0 |
+| 19 | ethanchen | evaluated | a0d359 | 528.1 |
+| 20 | ashaikh23 | evaluated | 647265 | 526.7 |
+| 21 | Rithvik | evaluated | cc03b2 | 526.7 |
 | 22 | bl792 | evaluated | 9af784 | 525.3 |
 | 23 | beratcelik | evaluated | db8d71 | 517.4 |
 | 24 | tuo | evaluated | 4274da | 507.3 |
@@ -34,6 +34,7 @@ Last updated: `April 04, 2026 at 01:48:52 PM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
+|  | lofiWeightsToRelaxTo_ | failed | 3b9586 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
@@ -48,20 +49,20 @@ Last updated: `April 04, 2026 at 01:48:52 PM ET`
 | 1 | fishyfins | evaluated | a777bb | 586.8 |
 | 2 | chyyy | evaluated | 34cc06 | 433.8 |
 | 3 | - - | evaluated | adc0f3 | 386.9 |
-| 4 | prousoglou | evaluated | 570c63 | 368.2 |
-| 5 | gm | evaluated | 2898fc | 357.0 |
-| 6 | TheProphet | evaluated | 0a9c73 | 341.8 |
+| 4 | TheProphet | evaluated | 5b306e | 381.4 |
+| 5 | prousoglou | evaluated | 570c63 | 368.2 |
+| 6 | gm | evaluated | 2898fc | 357.0 |
 | 7 | nickname55555555 | evaluated | 99ddc2 | 334.1 |
 | 8 | Shengwei | evaluated | 395bbf | 327.4 |
 | 9 | lipphi | evaluated | a3a71b | 306.7 |
 | 10 | TA | evaluated | 324cb8 | 295.5 |
 | 11 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
 | 12 | gravlax | evaluated | b1229d | 272.5 |
-| 13 | happyface | evaluated | 7e8b61 | 258.2 |
-| 14 | Rithvik | evaluated | cc03b2 | 240.4 |
-| 15 | bl792 | evaluated | 9af784 | 226.0 |
-| 16 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 221.1 |
-| 17 | abarat007 | evaluated | 55288f | 218.4 |
+| 13 | abarat007 | evaluated | 7a7fc0 | 260.8 |
+| 14 | happyface | evaluated | 7e8b61 | 258.2 |
+| 15 | Rithvik | evaluated | cc03b2 | 240.4 |
+| 16 | bl792 | evaluated | 9af784 | 226.0 |
+| 17 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 221.1 |
 | 18 | 13rabbit | evaluated | 24af86 | 215.5 |
 | 19 | tuo | evaluated | 4274da | 204.2 |
 | 20 | your_nickname_here | evaluated | f10b9b | 173.1 |
@@ -73,6 +74,7 @@ Last updated: `April 04, 2026 at 01:48:52 PM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
+|  | lofiWeightsToRelaxTo_ | failed | 3b9586 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
@@ -85,16 +87,16 @@ Last updated: `April 04, 2026 at 01:48:52 PM ET`
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 21.8 |
-| 2 | chyyy | evaluated | 34cc06 | 24.8 |
-| 3 | gm | evaluated | 2898fc | 26.8 |
-| 4 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
-| 5 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
-| 6 | prousoglou | evaluated | 570c63 | 34.7 |
-| 7 | gravlax | evaluated | b1229d | 35.0 |
-| 8 | abarat007 | evaluated | 55288f | 55.4 |
-| 9 | happyface | evaluated | 7e8b61 | 63.7 |
-| 10 | beratcelik | evaluated | db8d71 | 68.5 |
-| 11 | TheProphet | evaluated | 0a9c73 | 70.2 |
+| 2 | TheProphet | evaluated | 5b306e | 24.2 |
+| 3 | chyyy | evaluated | 34cc06 | 24.8 |
+| 4 | gm | evaluated | 2898fc | 26.8 |
+| 5 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
+| 6 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
+| 7 | prousoglou | evaluated | 570c63 | 34.7 |
+| 8 | gravlax | evaluated | b1229d | 35.0 |
+| 9 | abarat007 | evaluated | 7a7fc0 | 55.3 |
+| 10 | happyface | evaluated | 7e8b61 | 63.7 |
+| 11 | beratcelik | evaluated | db8d71 | 68.5 |
 | 12 | Shengwei | evaluated | 395bbf | 71.0 |
 | 13 | TA | evaluated | 324cb8 | 83.2 |
 | 14 | bl792 | evaluated | 9af784 | 97.1 |
@@ -112,6 +114,7 @@ Last updated: `April 04, 2026 at 01:48:52 PM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
+|  | lofiWeightsToRelaxTo_ | failed | 3b9586 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
@@ -124,17 +127,17 @@ Last updated: `April 04, 2026 at 01:48:52 PM ET`
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 44.5 |
-| 2 | chyyy | evaluated | 34cc06 | 47.6 |
-| 3 | gm | evaluated | 2898fc | 48.5 |
-| 4 | nickname55555555 | evaluated | 99ddc2 | 53.0 |
-| 5 | gravlax | evaluated | b1229d | 59.7 |
-| 6 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
-| 7 | prousoglou | evaluated | 570c63 | 65.3 |
-| 8 | happyface | evaluated | 7e8b61 | 66.0 |
-| 9 | Shengwei | evaluated | 395bbf | 87.5 |
-| 10 | TheProphet | evaluated | 0a9c73 | 87.7 |
+| 2 | TheProphet | evaluated | 5b306e | 46.4 |
+| 3 | chyyy | evaluated | 34cc06 | 47.6 |
+| 4 | gm | evaluated | 2898fc | 48.5 |
+| 5 | nickname55555555 | evaluated | 99ddc2 | 53.0 |
+| 6 | gravlax | evaluated | b1229d | 59.7 |
+| 7 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
+| 8 | prousoglou | evaluated | 570c63 | 65.3 |
+| 9 | happyface | evaluated | 7e8b61 | 66.0 |
+| 10 | Shengwei | evaluated | 395bbf | 87.5 |
 | 11 | Rithvik | evaluated | cc03b2 | 106.9 |
-| 12 | abarat007 | evaluated | 55288f | 107.6 |
+| 12 | abarat007 | evaluated | 7a7fc0 | 107.5 |
 | 13 | beratcelik | evaluated | db8d71 | 113.7 |
 | 14 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 131.1 |
 | 15 | bl792 | evaluated | 9af784 | 131.5 |
@@ -151,6 +154,7 @@ Last updated: `April 04, 2026 at 01:48:52 PM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
+|  | lofiWeightsToRelaxTo_ | failed | 3b9586 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |

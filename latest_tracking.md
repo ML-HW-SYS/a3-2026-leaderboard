@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 04, 2026 at 01:48:52 PM ET`
+Last updated: `April 04, 2026 at 02:05:08 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 04 02:03 PM ET | abarat007 | evaluated |  | submission.py | 7a7fc0 | 29.9/3.6/33.5 | 539.9 | 260.8 | 55.3 | 107.5 |
+| Apr 04 02:01 PM ET | lofiWeightsToRelaxTo_ | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | submission.py | 3b9586 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 04 01:58 PM ET | Rithvik | failed_security | Security policy check failed for develop.py: - prohibited import: importlib.util - prohibited import: pathlib | develop.py | cc03b2 |  |  |  |  |  |
+| Apr 04 01:56 PM ET | TheProphet | evaluated |  | submission.py | 5b306e | 58.9/2.5/61.4 | 564.1 | 381.4 | 24.2 | 46.4 |
 | Apr 04 01:42 PM ET | Rithvik | evaluated |  | submission.py | cc03b2 | 19.4/3.9/23.3 | 526.7 | 240.4 | 101.7 | 106.9 |
 | Apr 04 01:19 PM ET | beratcelik | evaluated |  | submission.py | db8d71 | 46.5/5.6/52.1 | 517.4 | 132.6 | 68.5 | 113.7 |
 | Apr 04 12:48 PM ET | beratcelik | evaluated |  | submission.py | 0433b8 | 58.8/5.5/64.2 | 489.2 | 138.0 | 68.3 | 113.7 |
