@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 04, 2026 at 02:49:39 AM ET`
+Last updated: `April 04, 2026 at 03:04:45 AM ET`
 
 ## Pages
 
@@ -29,13 +29,13 @@ Last updated: `April 04, 2026 at 02:49:39 AM ET`
 | 15 | Rithvik | evaluated | 1a7556 | 26.7/4.4/31.1 | 0.777 | 527.1 | 228.8 | 131.6 | 166.5 |
 | 16 | tuo | evaluated | 4274da | 76.5/4.8/81.3 | 0.711 | 507.3 | 204.2 | 167.5 | 160.5 |
 | 17 | 13rabbit | evaluated | 24af86 | 37.5/4.7/42.3 | 0.710 | 540.4 | 215.5 | 193.8 | 156.8 |
-| 18 | ashaikh23 | evaluated | 647265 | 23.4/6.1/29.5 | 0.541 | 526.7 | 169.6 | 301.1 | 229.0 |
-| 19 | pyjuan91 | evaluated | 268544 | 40.5/6.1/46.6 | 0.539 | 531.0 | 170.5 | 303.8 | 234.4 |
-| 20 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
-| 21 | beratcelik | evaluated | 6ce29b | 72.8/6.1/78.9 | 0.537 | 524.7 | 169.6 | 305.0 | 232.3 |
+| 18 | fishyfins | evaluated | 67ec3a | 20.9/5.2/26.1 | 0.592 | 580.5 | 243.0 | 309.4 | 245.9 |
+| 19 | ashaikh23 | evaluated | 647265 | 23.4/6.1/29.5 | 0.541 | 526.7 | 169.6 | 301.1 | 229.0 |
+| 20 | pyjuan91 | evaluated | 268544 | 40.5/6.1/46.6 | 0.539 | 531.0 | 170.5 | 303.8 | 234.4 |
+| 21 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
+| 22 | beratcelik | evaluated | 6ce29b | 72.8/6.1/78.9 | 0.537 | 524.7 | 169.6 | 305.0 | 232.3 |
 |  | chickfila | failed | 2a267f |  |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
-|  | fishyfins | failed | 916e35 | 19.4/2.2/21.6 |  |  |  |  |  |
 |  | ishan-pat | failed | acf3d7 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | landrum | failed | b88426 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
