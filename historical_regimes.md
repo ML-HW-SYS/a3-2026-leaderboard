@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 03, 2026 at 10:17:13 PM ET`
+Last updated: `April 03, 2026 at 10:32:23 PM ET`
 
 ## R1 (tok/s)
 
@@ -24,8 +24,8 @@ Last updated: `April 03, 2026 at 10:17:13 PM ET`
 | 16 | gravlax | develop.py | 1f23d9 | 534.6 |
 | 17 | bl792 | submission.py | 3b3a8a | 528.5 |
 | 18 | Rithvik | submission.py | 1a7556 | 527.1 |
-| 19 | chickfila | develop.py | 02225e | 525.8 |
-| 20 | ashaikh23 | develop.py | 4e1462 | 525.4 |
+| 19 | ashaikh23 | submission.py | 647265 | 526.7 |
+| 20 | chickfila | develop.py | 02225e | 525.8 |
 | 21 | beratcelik | submission.py | 6ce29b | 524.7 |
 | 22 | tuo | submission.py | 30a3c3 | 495.2 |
 
@@ -53,7 +53,7 @@ Last updated: `April 03, 2026 at 10:17:13 PM ET`
 | 18 | tuo | submission.py | 30a3c3 | 203.8 |
 | 19 | your_nickname_here | submission.py | 59e245 | 173.4 |
 | 20 | beratcelik | develop.py | 6ce29b | 169.8 |
-| 21 | ashaikh23 | develop.py | 4e1462 | 169.6 |
+| 21 | ashaikh23 | submission.py | 647265 | 169.6 |
 | 22 | chickfila | submission.py | 02225e | 169.2 |
 
 ## R3 (ms)

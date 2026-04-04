@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 03, 2026 at 10:17:13 PM ET`
+Last updated: `April 03, 2026 at 10:32:23 PM ET`
 
 ## R1 (tok/s)
 
@@ -21,11 +21,11 @@ Last updated: `April 03, 2026 at 10:17:13 PM ET`
 | 13 | lipphi | evaluated | a3a71b | 534.8 |
 | 14 | gravlax | evaluated | b1229d | 532.3 |
 | 15 | Rithvik | evaluated | 1a7556 | 527.1 |
-| 16 | abarat007 | evaluated | 410fa2 | 526.0 |
-| 17 | bl792 | evaluated | 9af784 | 525.3 |
-| 18 | beratcelik | evaluated | 6ce29b | 524.7 |
-| 19 | tuo | evaluated | 92c00e | 457.9 |
-|  | ashaikh23 | failed | a5012f |  |
+| 16 | ashaikh23 | evaluated | 647265 | 526.7 |
+| 17 | abarat007 | evaluated | 410fa2 | 526.0 |
+| 18 | bl792 | evaluated | 9af784 | 525.3 |
+| 19 | beratcelik | evaluated | 6ce29b | 524.7 |
+| 20 | tuo | evaluated | 92c00e | 457.9 |
 |  | chickfila | failed | 2a267f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | d3139f |  |
@@ -59,8 +59,8 @@ Last updated: `April 03, 2026 at 10:17:13 PM ET`
 | 16 | 13rabbit | evaluated | 24af86 | 215.5 |
 | 17 | tuo | evaluated | 92c00e | 198.7 |
 | 18 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 19 | beratcelik | evaluated | 6ce29b | 169.6 |
-|  | ashaikh23 | failed | a5012f |  |
+| 19 | ashaikh23 | evaluated | 647265 | 169.6 |
+| 20 | beratcelik | evaluated | 6ce29b | 169.6 |
 |  | chickfila | failed | 2a267f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | d3139f |  |
@@ -93,9 +93,9 @@ Last updated: `April 03, 2026 at 10:17:13 PM ET`
 | 15 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 160.0 |
 | 16 | tuo | evaluated | 92c00e | 166.9 |
 | 17 | 13rabbit | evaluated | 24af86 | 193.8 |
-| 18 | beratcelik | evaluated | 6ce29b | 305.0 |
-| 19 | your_nickname_here | evaluated | f10b9b | 308.1 |
-|  | ashaikh23 | failed | a5012f |  |
+| 18 | ashaikh23 | evaluated | 647265 | 301.1 |
+| 19 | beratcelik | evaluated | 6ce29b | 305.0 |
+| 20 | your_nickname_here | evaluated | f10b9b | 308.1 |
 |  | chickfila | failed | 2a267f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | d3139f |  |
@@ -128,9 +128,9 @@ Last updated: `April 03, 2026 at 10:17:13 PM ET`
 | 15 | 13rabbit | evaluated | 24af86 | 156.8 |
 | 16 | tuo | evaluated | 92c00e | 161.0 |
 | 17 | Rithvik | evaluated | 1a7556 | 166.5 |
-| 18 | beratcelik | evaluated | 6ce29b | 232.3 |
-| 19 | your_nickname_here | evaluated | f10b9b | 246.4 |
-|  | ashaikh23 | failed | a5012f |  |
+| 18 | ashaikh23 | evaluated | 647265 | 229.0 |
+| 19 | beratcelik | evaluated | 6ce29b | 232.3 |
+| 20 | your_nickname_here | evaluated | f10b9b | 246.4 |
 |  | chickfila | failed | 2a267f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | d3139f |  |

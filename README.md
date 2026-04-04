@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 03, 2026 at 10:17:13 PM ET`
+Last updated: `April 03, 2026 at 10:32:23 PM ET`
 
 ## Pages
 
@@ -29,9 +29,9 @@ Last updated: `April 03, 2026 at 10:17:13 PM ET`
 | 15 | Rithvik | evaluated | 1a7556 | 26.7/4.4/31.1 | 0.777 | 527.1 | 228.8 | 131.6 | 166.5 |
 | 16 | 13rabbit | evaluated | 24af86 | 37.5/4.7/42.3 | 0.710 | 540.4 | 215.5 | 193.8 | 156.8 |
 | 17 | tuo | evaluated | 92c00e | 22.8/5.0/27.8 | 0.688 | 457.9 | 198.7 | 166.9 | 161.0 |
-| 18 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
-| 19 | beratcelik | evaluated | 6ce29b | 72.8/6.1/78.9 | 0.537 | 524.7 | 169.6 | 305.0 | 232.3 |
-|  | ashaikh23 | failed | a5012f |  |  |  |  |  |  |
+| 18 | ashaikh23 | evaluated | 647265 | 23.4/6.1/29.5 | 0.541 | 526.7 | 169.6 | 301.1 | 229.0 |
+| 19 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
+| 20 | beratcelik | evaluated | 6ce29b | 72.8/6.1/78.9 | 0.537 | 524.7 | 169.6 | 305.0 | 232.3 |
 |  | chickfila | failed | 2a267f |  |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | fishyfins | failed | d3139f | 18.0/2.2/20.2 |  |  |  |  |  |
