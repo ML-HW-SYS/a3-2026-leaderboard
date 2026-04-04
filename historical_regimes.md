@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 04, 2026 at 08:44:57 AM ET`
+Last updated: `April 04, 2026 at 08:59:37 AM ET`
 
 ## R1 (tok/s)
 
