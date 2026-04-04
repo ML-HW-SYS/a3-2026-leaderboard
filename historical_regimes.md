@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 04, 2026 at 01:19:32 AM ET`
+Last updated: `April 04, 2026 at 01:34:42 AM ET`
 
 ## R1 (tok/s)
 
@@ -29,6 +29,7 @@ Last updated: `April 04, 2026 at 01:19:32 AM ET`
 | 21 | chickfila | develop.py | 02225e | 525.8 |
 | 22 | beratcelik | submission.py | 6ce29b | 524.7 |
 | 23 | tuo | submission.py | 4274da | 507.3 |
+| 24 | fishyfins | develop.py | 801e34 | 189.3 |
 
 ## R2 (tok/s)
 
@@ -57,6 +58,7 @@ Last updated: `April 04, 2026 at 01:19:32 AM ET`
 | 21 | beratcelik | develop.py | 6ce29b | 169.8 |
 | 22 | ashaikh23 | submission.py | 647265 | 169.6 |
 | 23 | chickfila | submission.py | 02225e | 169.2 |
+| 24 | fishyfins | develop.py | 801e34 | 128.9 |
 
 ## R3 (ms)
 

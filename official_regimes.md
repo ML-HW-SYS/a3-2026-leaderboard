@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 04, 2026 at 01:19:32 AM ET`
+Last updated: `April 04, 2026 at 01:34:42 AM ET`
 
 ## R1 (tok/s)
 
@@ -33,6 +33,7 @@ Last updated: `April 04, 2026 at 01:19:32 AM ET`
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | poppyPotatoe | failed | aa5125 |  |
 |  | PurplePickle67 | failed | 6a683b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | e67a1f |  |
@@ -69,6 +70,7 @@ Last updated: `April 04, 2026 at 01:19:32 AM ET`
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | poppyPotatoe | failed | aa5125 |  |
 |  | PurplePickle67 | failed | 6a683b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | e67a1f |  |
@@ -105,6 +107,7 @@ Last updated: `April 04, 2026 at 01:19:32 AM ET`
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | poppyPotatoe | failed | aa5125 |  |
 |  | PurplePickle67 | failed | 6a683b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | e67a1f |  |
@@ -141,6 +144,7 @@ Last updated: `April 04, 2026 at 01:19:32 AM ET`
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | poppyPotatoe | failed | aa5125 |  |
 |  | PurplePickle67 | failed | 6a683b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | e67a1f |  |
