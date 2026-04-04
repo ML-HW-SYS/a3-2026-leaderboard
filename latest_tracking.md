@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 04, 2026 at 12:16:43 PM ET`
+Last updated: `April 04, 2026 at 12:32:48 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 04 12:32 PM ET | beratcelik | evaluated |  | submission.py | 20645a | 56.2/6.2/62.3 | 487.4 | 116.3 | 68.0 | 112.8 |
+| Apr 04 12:23 PM ET | TheProphet | evaluated |  | submission.py | 0a9c73 | 19.0/3.0/22.0 | 567.2 | 341.8 | 70.2 | 87.7 |
 | Apr 04 11:05 AM ET | ngoguen | failed_security | Security policy check failed for develop.py: - prohibited import: importlib.util - prohibited import: pathlib | develop.py | ab2b1c |  |  |  |  |  |
 | Apr 04 10:34 AM ET | ethanchen | failed_security | Security policy check failed for develop.py: - prohibited import: importlib.util - prohibited import: os | develop.py | 49841f |  |  |  |  |  |
 | Apr 04 10:16 AM ET | ngoguen | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | develop.py | 5f823d | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
