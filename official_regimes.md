@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 04, 2026 at 09:59:32 AM ET`
+Last updated: `April 04, 2026 at 10:14:12 AM ET`
 
 ## R1 (tok/s)
 
@@ -34,6 +34,7 @@ Last updated: `April 04, 2026 at 09:59:32 AM ET`
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | PurplePickle67 | failed | 6a683b |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -71,6 +72,7 @@ Last updated: `April 04, 2026 at 09:59:32 AM ET`
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | PurplePickle67 | failed | 6a683b |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -108,6 +110,7 @@ Last updated: `April 04, 2026 at 09:59:32 AM ET`
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | PurplePickle67 | failed | 6a683b |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -145,6 +148,7 @@ Last updated: `April 04, 2026 at 09:59:32 AM ET`
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | PurplePickle67 | failed | 6a683b |  |
 |  | SIUUU | failed | ad9184 |  |
