@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 04, 2026 at 01:03:36 PM ET`
+Last updated: `April 04, 2026 at 01:19:09 PM ET`
 
 ## R1 (tok/s)
 
@@ -28,8 +28,8 @@ Last updated: `April 04, 2026 at 01:03:36 PM ET`
 | 20 | ashaikh23 | evaluated | 647265 | 526.7 |
 | 21 | abarat007 | evaluated | 55288f | 526.4 |
 | 22 | bl792 | evaluated | 9af784 | 525.3 |
-| 23 | tuo | evaluated | 4274da | 507.3 |
-| 24 | beratcelik | evaluated | 0433b8 | 489.2 |
+| 23 | beratcelik | evaluated | db8d71 | 517.4 |
+| 24 | tuo | evaluated | 4274da | 507.3 |
 |  | chickfila | failed | 2a267f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -68,7 +68,7 @@ Last updated: `April 04, 2026 at 01:03:36 PM ET`
 | 21 | pyjuan91 | evaluated | 268544 | 170.5 |
 | 22 | ashaikh23 | evaluated | 647265 | 169.6 |
 | 23 | ethanchen | evaluated | a0d359 | 169.3 |
-| 24 | beratcelik | evaluated | 0433b8 | 138.0 |
+| 24 | beratcelik | evaluated | db8d71 | 132.6 |
 |  | chickfila | failed | 2a267f |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -93,7 +93,7 @@ Last updated: `April 04, 2026 at 01:03:36 PM ET`
 | 7 | gravlax | evaluated | b1229d | 35.0 |
 | 8 | abarat007 | evaluated | 55288f | 55.4 |
 | 9 | happyface | evaluated | 7e8b61 | 63.7 |
-| 10 | beratcelik | evaluated | 0433b8 | 68.3 |
+| 10 | beratcelik | evaluated | db8d71 | 68.5 |
 | 11 | TheProphet | evaluated | 0a9c73 | 70.2 |
 | 12 | Shengwei | evaluated | 395bbf | 71.0 |
 | 13 | TA | evaluated | 324cb8 | 83.2 |
@@ -134,7 +134,7 @@ Last updated: `April 04, 2026 at 01:03:36 PM ET`
 | 9 | Shengwei | evaluated | 395bbf | 87.5 |
 | 10 | TheProphet | evaluated | 0a9c73 | 87.7 |
 | 11 | abarat007 | evaluated | 55288f | 107.6 |
-| 12 | beratcelik | evaluated | 0433b8 | 113.7 |
+| 12 | beratcelik | evaluated | db8d71 | 113.7 |
 | 13 | 1_Core_2GHz_Colab_CPU | evaluated | bd9ae0 | 131.1 |
 | 14 | bl792 | evaluated | 9af784 | 131.5 |
 | 15 | TA | evaluated | 324cb8 | 131.7 |
