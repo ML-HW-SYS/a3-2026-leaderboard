@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 04, 2026 at 12:49:41 AM ET`
+Last updated: `April 04, 2026 at 01:04:37 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 04 12:56 AM ET | fishyfins | failed_correctness | Running setup... Running setup... Running setup... Failed to capture decode graph for batch 1: maximum recursion dept... | develop.py | 916e35 | 16.8/0.0/16.8 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 04 12:47 AM ET | abarat007 | evaluated |  | develop.py | 55288f | 23.0/4.0/27.0 | 523.3 | 218.3 | 55.9 | 107.5 |
 | Apr 04 12:41 AM ET | fishyfins | failed_correctness | Running setup... Running setup... Running setup... Running evaluation... Running setup... Running evaluation... Loadi... | submission.py | 916e35 | 19.4/2.2/21.6 | 0.0 | 0.0 | 309.0 | 246.0 |
 | Apr 04 12:36 AM ET | pyjuan91 | evaluated |  | develop.py | 268544 | 19.8/6.1/25.9 | 529.5 | 170.5 | 303.2 | 234.1 |
