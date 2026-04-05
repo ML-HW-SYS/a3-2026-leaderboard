@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 05, 2026 at 01:46:40 PM ET`
+Last updated: `April 05, 2026 at 01:57:07 PM ET`
 
 ## R1 (tok/s)
 
@@ -45,10 +45,10 @@ Last updated: `April 05, 2026 at 01:46:40 PM ET`
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | chyyy | submission.py | 34cc06 | 433.8 |
-| 2 | - - | submission.py | adc0f3 | 386.9 |
-| 3 | TheProphet | submission.py | 84eefa | 382.8 |
-| 4 | prousoglou | submission.py | 570c63 | 368.2 |
-| 5 | chickfila | submission.py | 29860a | 365.0 |
+| 2 | chickfila | submission.py | f0956d | 398.8 |
+| 3 | - - | submission.py | adc0f3 | 386.9 |
+| 4 | TheProphet | submission.py | 84eefa | 382.8 |
+| 5 | prousoglou | submission.py | 570c63 | 368.2 |
 | 6 | gm | develop.py | fd15e9 | 357.3 |
 | 7 | nickname55555555 | develop.py | 99ddc2 | 334.4 |
 | 8 | Shengwei | submission.py | 077330 | 330.0 |
@@ -91,10 +91,10 @@ Last updated: `April 05, 2026 at 01:46:40 PM ET`
 | 7 | nickname55555555 | submission.py | 05c6ab | 31.9 |
 | 8 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
 | 9 | prousoglou | submission.py | 570c63 | 34.7 |
-| 10 | gravlax | develop.py | b1229d | 35.0 |
-| 11 | ashaikh23 | submission.py | d98c0b | 58.8 |
-| 12 | happyface | submission.py | 9f7886 | 63.4 |
-| 13 | chickfila | develop.py | a9d066 | 64.5 |
+| 10 | chickfila | submission.py | f0956d | 34.7 |
+| 11 | gravlax | develop.py | b1229d | 35.0 |
+| 12 | ashaikh23 | submission.py | d98c0b | 58.8 |
+| 13 | happyface | submission.py | 9f7886 | 63.4 |
 | 14 | beratcelik | submission.py | 20645a | 68.0 |
 | 15 | Shengwei | submission.py | 077330 | 70.1 |
 | 16 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 70.9 |
@@ -125,15 +125,15 @@ Last updated: `April 05, 2026 at 01:46:40 PM ET`
 | 3 | chyyy | develop.py | 34cc06 | 47.5 |
 | 4 | Rithvik | submission.py | 1523b4 | 47.6 |
 | 5 | gm | submission.py | 2898fc | 48.5 |
-| 6 | abarat007 | submission.py | 260fed | 51.5 |
-| 7 | nickname55555555 | submission.py | 05c6ab | 52.5 |
-| 8 | gravlax | submission.py | b1229d | 59.7 |
-| 9 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
-| 10 | prousoglou | submission.py | 570c63 | 65.3 |
-| 11 | happyface | develop.py | 0aca52 | 65.7 |
-| 12 | Shengwei | submission.py | 077330 | 84.1 |
-| 13 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 89.2 |
-| 14 | chickfila | develop.py | a9d066 | 109.0 |
+| 6 | chickfila | submission.py | f0956d | 49.6 |
+| 7 | abarat007 | submission.py | 260fed | 51.5 |
+| 8 | nickname55555555 | submission.py | 05c6ab | 52.5 |
+| 9 | gravlax | submission.py | b1229d | 59.7 |
+| 10 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
+| 11 | prousoglou | submission.py | 570c63 | 65.3 |
+| 12 | happyface | develop.py | 0aca52 | 65.7 |
+| 13 | Shengwei | submission.py | 077330 | 84.1 |
+| 14 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 89.2 |
 | 15 | ashaikh23 | submission.py | d98c0b | 109.9 |
 | 16 | beratcelik | submission.py | 20645a | 112.8 |
 | 17 | ishan-pat | develop.py | c482b3 | 114.3 |
