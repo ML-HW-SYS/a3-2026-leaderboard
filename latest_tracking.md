@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 04, 2026 at 10:49:27 PM ET`
+Last updated: `April 04, 2026 at 10:57:30 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 04 10:51 PM ET | pyjuan91 | failed_correctness | R2: ERR: CUDA error: an illegal memory access was encountered Search for `cudaErrorIllegalAddress' in https://docs.nv... | develop.py | 55e076 | 21.9/7.0/28.8 | 524.3 | 0.0 | 616.8 | 336.0 |
 | Apr 04 10:43 PM ET | pyjuan91 | failed_correctness | R2: ERR: CUDA error: an illegal memory access was encountered Search for `cudaErrorIllegalAddress' in https://docs.nv... | submission.py | 55e076 | 21.8/7.0/28.8 | 525.3 | 0.0 | 616.8 | 338.4 |
 | Apr 04 10:22 PM ET | Shengwei | evaluated |  | develop.py | 1f8749 | 27.6/6.2/33.8 | 525.1 | 169.8 | 308.8 | 249.7 |
 | Apr 04 10:20 PM ET | alifim | evaluated |  | develop.py | d6600e | 20.0/6.3/26.3 | 523.2 | 168.7 | 311.6 | 251.4 |
