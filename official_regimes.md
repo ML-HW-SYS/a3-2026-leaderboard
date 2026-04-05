@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 11:31:41 AM ET`
+Last updated: `April 05, 2026 at 11:39:51 AM ET`
 
 ## R1 (tok/s)
 
@@ -39,7 +39,7 @@ Last updated: `April 05, 2026 at 11:31:41 AM ET`
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
-|  | ngoguen | failed | 5b8c6d |  |
+|  | ngoguen | failed | 833d7f |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | 55e076 |  |
 |  | Rithvik | failed | 8e6767 |  |
@@ -84,7 +84,7 @@ Last updated: `April 05, 2026 at 11:31:41 AM ET`
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
-|  | ngoguen | failed | 5b8c6d |  |
+|  | ngoguen | failed | 833d7f |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | 55e076 |  |
 |  | Rithvik | failed | 8e6767 |  |
@@ -129,7 +129,7 @@ Last updated: `April 05, 2026 at 11:31:41 AM ET`
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
-|  | ngoguen | failed | 5b8c6d |  |
+|  | ngoguen | failed | 833d7f |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | 55e076 |  |
 |  | Rithvik | failed | 8e6767 |  |
@@ -174,7 +174,7 @@ Last updated: `April 05, 2026 at 11:31:41 AM ET`
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
-|  | ngoguen | failed | 5b8c6d |  |
+|  | ngoguen | failed | 833d7f |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | 55e076 |  |
 |  | Rithvik | failed | 8e6767 |  |

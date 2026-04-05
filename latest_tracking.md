@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 11:31:41 AM ET`
+Last updated: `April 05, 2026 at 11:39:51 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 11:33 AM ET | ngoguen | failed_security | Security policy check failed for submission.py: \| - prohibited import: develop | submission.py | 833d7f |  |  |  |  |  |
+| Apr 05 11:33 AM ET | JasonWang07 | failed_correctness | R3: SETUP: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent ... | develop.py | 0473eb | 40.3/3.4/43.8 | 541.1 | 206.7 | 0.0 | 0.0 |
 | Apr 05 11:30 AM ET | ishan-pat | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | develop.py | 58c595 | 35.7/4.1/39.8 | 524.2 | 218.2 | 81.5 | 114.3 |
 | Apr 05 11:24 AM ET | ngoguen | failed_compliance | Submission compliance check failed for develop.py: \| - missing required function(s): setup, run | develop.py | 0ced1d |  |  |  |  |  |
 | Apr 05 11:24 AM ET | JasonWang07 | failed_correctness | R3: SETUP: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent ... | submission.py | 0473eb | 60.0/3.4/63.4 | 543.4 | 207.3 | 0.0 | 0.0 |
