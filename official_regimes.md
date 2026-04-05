@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 01:23:59 AM ET`
+Last updated: `April 05, 2026 at 01:31:50 AM ET`
 
 ## R1 (tok/s)
 
@@ -16,14 +16,14 @@ Last updated: `April 05, 2026 at 01:23:59 AM ET`
 | 8 | happyface | evaluated | 7e8b61 | 543.0 |
 | 9 | gm | evaluated | 2898fc | 541.1 |
 | 10 | 13rabbit | evaluated | 24af86 | 540.4 |
-| 11 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
-| 12 | abarat007 | evaluated | 260fed | 537.5 |
-| 13 | Shengwei | evaluated | 1f8749 | 537.3 |
-| 14 | lipphi | evaluated | a3a71b | 534.8 |
-| 15 | chickfila | evaluated | 29860a | 534.6 |
-| 16 | gravlax | evaluated | b1229d | 532.3 |
-| 17 | ethanchen | evaluated | a0d359 | 528.1 |
-| 18 | ashaikh23 | evaluated | 647265 | 526.7 |
+| 11 | ashaikh23 | evaluated | d98c0b | 539.3 |
+| 12 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
+| 13 | abarat007 | evaluated | 260fed | 537.5 |
+| 14 | Shengwei | evaluated | 1f8749 | 537.3 |
+| 15 | lipphi | evaluated | a3a71b | 534.8 |
+| 16 | chickfila | evaluated | 29860a | 534.6 |
+| 17 | gravlax | evaluated | b1229d | 532.3 |
+| 18 | ethanchen | evaluated | a0d359 | 528.1 |
 | 19 | alifim | evaluated | d6600e | 526.6 |
 | 20 | bl792 | evaluated | 9af784 | 525.3 |
 | 21 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 524.5 |
@@ -57,19 +57,19 @@ Last updated: `April 05, 2026 at 01:23:59 AM ET`
 | 4 | chickfila | evaluated | 29860a | 365.0 |
 | 5 | gm | evaluated | 2898fc | 357.0 |
 | 6 | nickname55555555 | evaluated | 99ddc2 | 334.1 |
-| 7 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
-| 8 | Shengwei | evaluated | 1f8749 | 326.3 |
-| 9 | lipphi | evaluated | a3a71b | 306.7 |
-| 10 | TA | evaluated | a6e863 | 294.5 |
-| 11 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
-| 12 | abarat007 | evaluated | 260fed | 276.9 |
-| 13 | gravlax | evaluated | b1229d | 272.5 |
-| 14 | happyface | evaluated | 7e8b61 | 258.2 |
-| 15 | bl792 | evaluated | 9af784 | 226.0 |
-| 16 | 13rabbit | evaluated | 24af86 | 215.5 |
-| 17 | tuo | evaluated | 3d6d40 | 204.6 |
-| 18 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 19 | ashaikh23 | evaluated | 647265 | 169.6 |
+| 7 | ashaikh23 | evaluated | d98c0b | 330.0 |
+| 8 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
+| 9 | Shengwei | evaluated | 1f8749 | 326.3 |
+| 10 | lipphi | evaluated | a3a71b | 306.7 |
+| 11 | TA | evaluated | a6e863 | 294.5 |
+| 12 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
+| 13 | abarat007 | evaluated | 260fed | 276.9 |
+| 14 | gravlax | evaluated | b1229d | 272.5 |
+| 15 | happyface | evaluated | 7e8b61 | 258.2 |
+| 16 | bl792 | evaluated | 9af784 | 226.0 |
+| 17 | 13rabbit | evaluated | 24af86 | 215.5 |
+| 18 | tuo | evaluated | 3d6d40 | 204.6 |
+| 19 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 20 | alifim | evaluated | d6600e | 169.6 |
 | 21 | ethanchen | evaluated | a0d359 | 169.3 |
 | 22 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 169.1 |
@@ -104,17 +104,17 @@ Last updated: `April 05, 2026 at 01:23:59 AM ET`
 | 6 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
 | 7 | prousoglou | evaluated | 570c63 | 34.7 |
 | 8 | gravlax | evaluated | b1229d | 35.0 |
-| 9 | happyface | evaluated | 7e8b61 | 63.7 |
-| 10 | chickfila | evaluated | 29860a | 65.8 |
-| 11 | beratcelik | evaluated | db8d71 | 68.5 |
-| 12 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
-| 13 | Shengwei | evaluated | 1f8749 | 71.4 |
-| 14 | TA | evaluated | a6e863 | 85.6 |
-| 15 | bl792 | evaluated | 9af784 | 97.1 |
-| 16 | lipphi | evaluated | a3a71b | 104.4 |
-| 17 | tuo | evaluated | 3d6d40 | 167.8 |
-| 18 | 13rabbit | evaluated | 24af86 | 193.8 |
-| 19 | ashaikh23 | evaluated | 647265 | 301.1 |
+| 9 | ashaikh23 | evaluated | d98c0b | 58.8 |
+| 10 | happyface | evaluated | 7e8b61 | 63.7 |
+| 11 | chickfila | evaluated | 29860a | 65.8 |
+| 12 | beratcelik | evaluated | db8d71 | 68.5 |
+| 13 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
+| 14 | Shengwei | evaluated | 1f8749 | 71.4 |
+| 15 | TA | evaluated | a6e863 | 85.6 |
+| 16 | bl792 | evaluated | 9af784 | 97.1 |
+| 17 | lipphi | evaluated | a3a71b | 104.4 |
+| 18 | tuo | evaluated | 3d6d40 | 167.8 |
+| 19 | 13rabbit | evaluated | 24af86 | 193.8 |
 | 20 | ethanchen | evaluated | a0d359 | 306.3 |
 | 21 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 22 | alifim | evaluated | d6600e | 309.6 |
@@ -153,13 +153,13 @@ Last updated: `April 05, 2026 at 01:23:59 AM ET`
 | 10 | Shengwei | evaluated | 1f8749 | 88.1 |
 | 11 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
 | 12 | chickfila | evaluated | 29860a | 109.9 |
-| 13 | beratcelik | evaluated | db8d71 | 113.7 |
-| 14 | bl792 | evaluated | 9af784 | 131.5 |
-| 15 | TA | evaluated | a6e863 | 135.6 |
-| 16 | lipphi | evaluated | a3a71b | 150.9 |
-| 17 | 13rabbit | evaluated | 24af86 | 156.8 |
-| 18 | tuo | evaluated | 3d6d40 | 162.8 |
-| 19 | ashaikh23 | evaluated | 647265 | 229.0 |
+| 13 | ashaikh23 | evaluated | d98c0b | 109.9 |
+| 14 | beratcelik | evaluated | db8d71 | 113.7 |
+| 15 | bl792 | evaluated | 9af784 | 131.5 |
+| 16 | TA | evaluated | a6e863 | 135.6 |
+| 17 | lipphi | evaluated | a3a71b | 150.9 |
+| 18 | 13rabbit | evaluated | 24af86 | 156.8 |
+| 19 | tuo | evaluated | 3d6d40 | 162.8 |
 | 20 | ethanchen | evaluated | a0d359 | 239.7 |
 | 21 | your_nickname_here | evaluated | f10b9b | 246.4 |
 | 22 | alifim | evaluated | d6600e | 250.4 |

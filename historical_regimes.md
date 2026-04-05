@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 05, 2026 at 01:23:59 AM ET`
+Last updated: `April 05, 2026 at 01:31:50 AM ET`
 
 ## R1 (tok/s)
 
@@ -49,7 +49,7 @@ Last updated: `April 05, 2026 at 01:23:59 AM ET`
 | 6 | gm | develop.py | fd15e9 | 357.3 |
 | 7 | nickname55555555 | develop.py | 99ddc2 | 334.4 |
 | 8 | Shengwei | submission.py | 077330 | 330.0 |
-| 9 | ashaikh23 | develop.py | ba7196 | 328.4 |
+| 9 | ashaikh23 | submission.py | d98c0b | 330.0 |
 | 10 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 326.5 |
 | 11 | lipphi | submission.py | a3a71b | 306.7 |
 | 12 | TA | submission.py | 324cb8 | 295.5 |
@@ -85,7 +85,7 @@ Last updated: `April 05, 2026 at 01:23:59 AM ET`
 | 7 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
 | 8 | prousoglou | submission.py | 570c63 | 34.7 |
 | 9 | gravlax | develop.py | b1229d | 35.0 |
-| 10 | ashaikh23 | develop.py | ba7196 | 59.8 |
+| 10 | ashaikh23 | submission.py | d98c0b | 58.8 |
 | 11 | happyface | submission.py | 9f7886 | 63.4 |
 | 12 | chickfila | develop.py | a9d066 | 64.5 |
 | 13 | beratcelik | submission.py | 20645a | 68.0 |
@@ -125,7 +125,7 @@ Last updated: `April 05, 2026 at 01:23:59 AM ET`
 | 12 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 89.2 |
 | 13 | Rithvik | submission.py | a43cf4 | 106.0 |
 | 14 | chickfila | develop.py | a9d066 | 109.0 |
-| 15 | ashaikh23 | develop.py | ba7196 | 110.9 |
+| 15 | ashaikh23 | submission.py | d98c0b | 109.9 |
 | 16 | beratcelik | submission.py | 20645a | 112.8 |
 | 17 | bl792 | develop.py | 9af784 | 130.8 |
 | 18 | TA | submission.py | 324cb8 | 131.7 |
