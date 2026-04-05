@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 04:05:19 PM ET`
+Last updated: `April 05, 2026 at 04:13:10 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 04:06 PM ET | Sulaiman Alam | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | 326c2a |  |  |  |  |  |
+| Apr 05 04:06 PM ET | JasonWang07 | failed_correctness | R1: SETUP: ERR: UserError: Consider annotating your code using torch._check*(). Could not extract specialized integer... | submission.py | e6529e | 24.4/1.8/26.2 | 0.0 | 0.0 | 256.6 | 195.9 |
 | Apr 05 03:59 PM ET | Sulaiman Alam | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 326c2a | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 05 03:51 PM ET | JasonWang07 | evaluated |  | develop.py | 1b4aca | 25.4/4.3/29.7 | 557.1 | 221.7 | 157.1 | 121.1 |
 | Apr 05 03:48 PM ET | ishan-pat | failed_correctness | R3: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | develop.py | a91b85 | 31.3/5.4/36.6 | 523.2 | 116.5 | 0.0 | 0.0 |
