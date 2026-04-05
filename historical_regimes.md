@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 05, 2026 at 05:52:02 PM ET`
+Last updated: `April 05, 2026 at 06:00:12 PM ET`
 
 ## R1 (tok/s)
 
@@ -62,10 +62,10 @@ Last updated: `April 05, 2026 at 05:52:02 PM ET`
 | 15 | Rithvik | submission.py | 1523b4 | 281.0 |
 | 16 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
 | 17 | gravlax | develop.py | b1229d | 273.0 |
-| 18 | happyface | develop.py | 0aca52 | 259.4 |
-| 19 | pyjuan91 | submission.py | 7ff296 | 256.3 |
-| 20 | ethanchen | submission.py | ea518d | 251.2 |
-| 21 | lofiWeightsToRelaxTo_ | submission.py | a359a7 | 250.8 |
+| 18 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
+| 19 | happyface | develop.py | 0aca52 | 259.4 |
+| 20 | pyjuan91 | submission.py | 7ff296 | 256.3 |
+| 21 | ethanchen | submission.py | ea518d | 251.2 |
 | 22 | fishyfins | develop.py | 87e789 | 243.3 |
 | 23 | bl792 | develop.py | 6ec673 | 228.2 |
 | 24 | ishan-pat | submission.py | c482b3 | 217.9 |
@@ -95,14 +95,14 @@ Last updated: `April 05, 2026 at 05:52:02 PM ET`
 | 9 | prousoglou | submission.py | 570c63 | 34.7 |
 | 10 | chickfila | submission.py | f0956d | 34.7 |
 | 11 | gravlax | develop.py | b1229d | 35.0 |
-| 12 | ashaikh23 | submission.py | d98c0b | 58.8 |
-| 13 | happyface | submission.py | 9f7886 | 63.4 |
-| 14 | beratcelik | submission.py | 5720e8 | 67.8 |
-| 15 | JasonWang07 | submission.py | f27837 | 68.2 |
-| 16 | Shengwei | submission.py | 077330 | 70.1 |
-| 17 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 70.9 |
-| 18 | ethanchen | submission.py | bf6f9e | 74.0 |
-| 19 | lofiWeightsToRelaxTo_ | submission.py | a359a7 | 74.8 |
+| 12 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 43.1 |
+| 13 | ashaikh23 | submission.py | d98c0b | 58.8 |
+| 14 | happyface | submission.py | 9f7886 | 63.4 |
+| 15 | beratcelik | submission.py | 5720e8 | 67.8 |
+| 16 | JasonWang07 | submission.py | f27837 | 68.2 |
+| 17 | Shengwei | submission.py | 077330 | 70.1 |
+| 18 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 70.9 |
+| 19 | ethanchen | submission.py | bf6f9e | 74.0 |
 | 20 | ishan-pat | submission.py | e8adf9 | 81.1 |
 | 21 | TA | submission.py | 324cb8 | 83.2 |
 | 22 | bl792 | submission.py | 9af784 | 97.1 |
@@ -132,17 +132,17 @@ Last updated: `April 05, 2026 at 05:52:02 PM ET`
 | 7 | abarat007 | submission.py | 260fed | 51.5 |
 | 8 | nickname55555555 | submission.py | 05c6ab | 52.5 |
 | 9 | gravlax | submission.py | b1229d | 59.7 |
-| 10 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
-| 11 | prousoglou | submission.py | 570c63 | 65.3 |
-| 12 | happyface | develop.py | 0aca52 | 65.7 |
-| 13 | JasonWang07 | develop.py | f27837 | 78.3 |
-| 14 | Shengwei | submission.py | 077330 | 84.1 |
-| 15 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 89.2 |
-| 16 | ashaikh23 | submission.py | d98c0b | 109.9 |
-| 17 | beratcelik | submission.py | 20645a | 112.8 |
-| 18 | ishan-pat | develop.py | c482b3 | 114.3 |
-| 19 | ethanchen | submission.py | bf6f9e | 123.0 |
-| 20 | lofiWeightsToRelaxTo_ | submission.py | a359a7 | 124.0 |
+| 10 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 59.9 |
+| 11 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
+| 12 | prousoglou | submission.py | 570c63 | 65.3 |
+| 13 | happyface | develop.py | 0aca52 | 65.7 |
+| 14 | JasonWang07 | develop.py | f27837 | 78.3 |
+| 15 | Shengwei | submission.py | 077330 | 84.1 |
+| 16 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 89.2 |
+| 17 | ashaikh23 | submission.py | d98c0b | 109.9 |
+| 18 | beratcelik | submission.py | 20645a | 112.8 |
+| 19 | ishan-pat | develop.py | c482b3 | 114.3 |
+| 20 | ethanchen | submission.py | bf6f9e | 123.0 |
 | 21 | bl792 | develop.py | 9af784 | 130.8 |
 | 22 | TA | submission.py | 324cb8 | 131.7 |
 | 23 | sjb | submission.py | 421a78 | 147.1 |
