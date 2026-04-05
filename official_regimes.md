@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 02:43:25 PM ET`
+Last updated: `April 05, 2026 at 02:52:19 PM ET`
 
 ## R1 (tok/s)
 
@@ -12,9 +12,9 @@ Last updated: `April 05, 2026 at 02:43:25 PM ET`
 | 4 | your_nickname_here | evaluated | f10b9b | 557.8 |
 | 5 | prousoglou | evaluated | 570c63 | 556.7 |
 | 6 | TA | evaluated | a6e863 | 556.6 |
-| 7 | JasonWang07 | evaluated | a30fe6 | 555.9 |
-| 8 | chyyy | evaluated | 34cc06 | 555.7 |
-| 9 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
+| 7 | chyyy | evaluated | 34cc06 | 555.7 |
+| 8 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
+| 9 | JasonWang07 | evaluated | 3fb23e | 551.6 |
 | 10 | happyface | evaluated | 7e8b61 | 543.0 |
 | 11 | gm | evaluated | 2898fc | 541.1 |
 | 12 | 13rabbit | evaluated | 24af86 | 540.4 |
@@ -72,7 +72,7 @@ Last updated: `April 05, 2026 at 02:43:25 PM ET`
 | 17 | ethanchen | evaluated | ea518d | 251.2 |
 | 18 | bl792 | evaluated | 9af784 | 226.0 |
 | 19 | 13rabbit | evaluated | 24af86 | 215.5 |
-| 20 | JasonWang07 | evaluated | a30fe6 | 210.3 |
+| 20 | JasonWang07 | evaluated | 3fb23e | 209.1 |
 | 21 | tuo | evaluated | 3d6d40 | 204.6 |
 | 22 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 23 | ngoguen | evaluated | a5cdb8 | 169.7 |
@@ -121,7 +121,7 @@ Last updated: `April 05, 2026 at 02:43:25 PM ET`
 | 19 | lipphi | evaluated | a3a71b | 104.4 |
 | 20 | sjb | evaluated | 421a78 | 128.8 |
 | 21 | tuo | evaluated | 3d6d40 | 167.8 |
-| 22 | JasonWang07 | evaluated | a30fe6 | 188.0 |
+| 22 | JasonWang07 | evaluated | 3fb23e | 188.9 |
 | 23 | 13rabbit | evaluated | 24af86 | 193.8 |
 | 24 | hw_bloss | evaluated | 2d26da | 307.0 |
 | 25 | your_nickname_here | evaluated | f10b9b | 308.1 |
@@ -169,7 +169,7 @@ Last updated: `April 05, 2026 at 02:43:25 PM ET`
 | 20 | lipphi | evaluated | a3a71b | 150.9 |
 | 21 | 13rabbit | evaluated | 24af86 | 156.8 |
 | 22 | tuo | evaluated | 3d6d40 | 162.8 |
-| 23 | JasonWang07 | evaluated | a30fe6 | 180.7 |
+| 23 | JasonWang07 | evaluated | 3fb23e | 181.9 |
 | 24 | hw_bloss | evaluated | 2d26da | 239.3 |
 | 25 | your_nickname_here | evaluated | f10b9b | 246.4 |
 | 26 | ngoguen | evaluated | a5cdb8 | 249.7 |

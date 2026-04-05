@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 05, 2026 at 02:43:25 PM ET`
+Last updated: `April 05, 2026 at 02:52:19 PM ET`
 
 ## Pages
 
@@ -34,7 +34,7 @@ Last updated: `April 05, 2026 at 02:43:25 PM ET`
 | 20 | sjb | evaluated | 421a78 | 43.6/5.2/48.8 | 0.741 | 526.7 | 164.0 | 128.8 | 147.1 |
 | 21 | 13rabbit | evaluated | 24af86 | 37.5/4.7/42.3 | 0.710 | 540.4 | 215.5 | 193.8 | 156.8 |
 | 22 | tuo | evaluated | 3d6d40 | 74.5/4.9/79.3 | 0.704 | 494.8 | 204.6 | 167.8 | 162.8 |
-| 23 | JasonWang07 | evaluated | a30fe6 | 40.2/4.8/45.0 | 0.691 | 555.9 | 210.3 | 188.0 | 180.7 |
+| 23 | JasonWang07 | evaluated | 3fb23e | 25.6/4.9/30.4 | 0.687 | 551.6 | 209.1 | 188.9 | 181.9 |
 | 24 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
 | 25 | hw_bloss | evaluated | 2d26da | 60.3/6.2/66.5 | 0.532 | 523.5 | 169.3 | 307.0 | 239.3 |
 | 26 | alifim | evaluated | d6600e | 39.4/6.2/45.6 | 0.526 | 526.6 | 169.6 | 309.6 | 250.4 |
@@ -44,7 +44,7 @@ Last updated: `April 05, 2026 at 02:43:25 PM ET`
 | 30 | PurplePickle67 | evaluated | 6aebcc | 16.5/14.2/30.8 | 0.264 | 103.8 | 78.1 | 412.9 | 269.7 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | fishyfins | failed | 7a0977 | 20.0/5.2/25.2 |  |  |  |  |  |
-|  | ishan-pat | failed | f2fa10 | 46.9/5.4/52.2 |  |  |  |  |  |
+|  | ishan-pat | failed | f2fa10 | 46.7/5.4/52.1 |  |  |  |  |  |
 |  | Junyi Li | failed | c31a30 | 71.5/6.1/77.6 |  |  |  |  |  |
 |  | landrum | failed | b88426 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | leoli | failed | 1f54f4 | 0.0/0.0/0.0 |  |  |  |  |  |
