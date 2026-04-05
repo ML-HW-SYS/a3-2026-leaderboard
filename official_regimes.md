@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 04, 2026 at 11:45:28 PM ET`
+Last updated: `April 04, 2026 at 11:53:26 PM ET`
 
 ## R1 (tok/s)
 
@@ -20,13 +20,13 @@ Last updated: `April 04, 2026 at 11:45:28 PM ET`
 | 12 | abarat007 | evaluated | 260fed | 537.5 |
 | 13 | Shengwei | evaluated | 1f8749 | 537.3 |
 | 14 | lipphi | evaluated | a3a71b | 534.8 |
-| 15 | gravlax | evaluated | b1229d | 532.3 |
-| 16 | ethanchen | evaluated | a0d359 | 528.1 |
-| 17 | ashaikh23 | evaluated | 647265 | 526.7 |
-| 18 | alifim | evaluated | d6600e | 526.6 |
-| 19 | bl792 | evaluated | 9af784 | 525.3 |
-| 20 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 524.5 |
-| 21 | chickfila | evaluated | a9d066 | 523.3 |
+| 15 | chickfila | evaluated | 29860a | 534.6 |
+| 16 | gravlax | evaluated | b1229d | 532.3 |
+| 17 | ethanchen | evaluated | a0d359 | 528.1 |
+| 18 | ashaikh23 | evaluated | 647265 | 526.7 |
+| 19 | alifim | evaluated | d6600e | 526.6 |
+| 20 | bl792 | evaluated | 9af784 | 525.3 |
+| 21 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 524.5 |
 | 22 | beratcelik | evaluated | db8d71 | 517.4 |
 | 23 | tuo | evaluated | 3d6d40 | 494.8 |
 | 24 | PurplePickle67 | evaluated | 6aebcc | 103.8 |
@@ -53,18 +53,18 @@ Last updated: `April 04, 2026 at 11:45:28 PM ET`
 | 1 | chyyy | evaluated | 34cc06 | 433.8 |
 | 2 | - - | evaluated | adc0f3 | 386.9 |
 | 3 | prousoglou | evaluated | 570c63 | 368.2 |
-| 4 | gm | evaluated | 2898fc | 357.0 |
-| 5 | nickname55555555 | evaluated | 99ddc2 | 334.1 |
-| 6 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
-| 7 | Shengwei | evaluated | 1f8749 | 326.3 |
-| 8 | lipphi | evaluated | a3a71b | 306.7 |
-| 9 | TA | evaluated | a6e863 | 294.5 |
-| 10 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
-| 11 | abarat007 | evaluated | 260fed | 276.9 |
-| 12 | gravlax | evaluated | b1229d | 272.5 |
-| 13 | happyface | evaluated | 7e8b61 | 258.2 |
-| 14 | bl792 | evaluated | 9af784 | 226.0 |
-| 15 | chickfila | evaluated | a9d066 | 225.4 |
+| 4 | chickfila | evaluated | 29860a | 365.0 |
+| 5 | gm | evaluated | 2898fc | 357.0 |
+| 6 | nickname55555555 | evaluated | 99ddc2 | 334.1 |
+| 7 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
+| 8 | Shengwei | evaluated | 1f8749 | 326.3 |
+| 9 | lipphi | evaluated | a3a71b | 306.7 |
+| 10 | TA | evaluated | a6e863 | 294.5 |
+| 11 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
+| 12 | abarat007 | evaluated | 260fed | 276.9 |
+| 13 | gravlax | evaluated | b1229d | 272.5 |
+| 14 | happyface | evaluated | 7e8b61 | 258.2 |
+| 15 | bl792 | evaluated | 9af784 | 226.0 |
 | 16 | 13rabbit | evaluated | 24af86 | 215.5 |
 | 17 | tuo | evaluated | 3d6d40 | 204.6 |
 | 18 | your_nickname_here | evaluated | f10b9b | 173.1 |
@@ -103,15 +103,15 @@ Last updated: `April 04, 2026 at 11:45:28 PM ET`
 | 7 | prousoglou | evaluated | 570c63 | 34.7 |
 | 8 | gravlax | evaluated | b1229d | 35.0 |
 | 9 | happyface | evaluated | 7e8b61 | 63.7 |
-| 10 | beratcelik | evaluated | db8d71 | 68.5 |
-| 11 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
-| 12 | Shengwei | evaluated | 1f8749 | 71.4 |
-| 13 | TA | evaluated | a6e863 | 85.6 |
-| 14 | bl792 | evaluated | 9af784 | 97.1 |
-| 15 | lipphi | evaluated | a3a71b | 104.4 |
-| 16 | tuo | evaluated | 3d6d40 | 167.8 |
-| 17 | 13rabbit | evaluated | 24af86 | 193.8 |
-| 18 | chickfila | evaluated | a9d066 | 269.1 |
+| 10 | chickfila | evaluated | 29860a | 65.8 |
+| 11 | beratcelik | evaluated | db8d71 | 68.5 |
+| 12 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
+| 13 | Shengwei | evaluated | 1f8749 | 71.4 |
+| 14 | TA | evaluated | a6e863 | 85.6 |
+| 15 | bl792 | evaluated | 9af784 | 97.1 |
+| 16 | lipphi | evaluated | a3a71b | 104.4 |
+| 17 | tuo | evaluated | 3d6d40 | 167.8 |
+| 18 | 13rabbit | evaluated | 24af86 | 193.8 |
 | 19 | ashaikh23 | evaluated | 647265 | 301.1 |
 | 20 | ethanchen | evaluated | a0d359 | 306.3 |
 | 21 | your_nickname_here | evaluated | f10b9b | 308.1 |
@@ -149,13 +149,13 @@ Last updated: `April 04, 2026 at 11:45:28 PM ET`
 | 9 | happyface | evaluated | 7e8b61 | 66.0 |
 | 10 | Shengwei | evaluated | 1f8749 | 88.1 |
 | 11 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
-| 12 | beratcelik | evaluated | db8d71 | 113.7 |
-| 13 | bl792 | evaluated | 9af784 | 131.5 |
-| 14 | TA | evaluated | a6e863 | 135.6 |
-| 15 | lipphi | evaluated | a3a71b | 150.9 |
-| 16 | 13rabbit | evaluated | 24af86 | 156.8 |
-| 17 | tuo | evaluated | 3d6d40 | 162.8 |
-| 18 | chickfila | evaluated | a9d066 | 190.7 |
+| 12 | chickfila | evaluated | 29860a | 109.9 |
+| 13 | beratcelik | evaluated | db8d71 | 113.7 |
+| 14 | bl792 | evaluated | 9af784 | 131.5 |
+| 15 | TA | evaluated | a6e863 | 135.6 |
+| 16 | lipphi | evaluated | a3a71b | 150.9 |
+| 17 | 13rabbit | evaluated | 24af86 | 156.8 |
+| 18 | tuo | evaluated | 3d6d40 | 162.8 |
 | 19 | ashaikh23 | evaluated | 647265 | 229.0 |
 | 20 | ethanchen | evaluated | a0d359 | 239.7 |
 | 21 | your_nickname_here | evaluated | f10b9b | 246.4 |

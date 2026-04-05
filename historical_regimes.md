@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 04, 2026 at 11:45:28 PM ET`
+Last updated: `April 04, 2026 at 11:53:26 PM ET`
 
 ## R1 (tok/s)
 
@@ -23,7 +23,7 @@ Last updated: `April 04, 2026 at 11:45:28 PM ET`
 | 15 | abarat007 | submission.py | 7a7fc0 | 539.9 |
 | 16 | lipphi | submission.py | a3a71b | 534.8 |
 | 17 | gravlax | develop.py | 1f23d9 | 534.6 |
-| 18 | chickfila | develop.py | a9d066 | 533.2 |
+| 18 | chickfila | submission.py | 29860a | 534.6 |
 | 19 | pyjuan91 | submission.py | 268544 | 531.0 |
 | 20 | bl792 | submission.py | 3b3a8a | 528.5 |
 | 21 | ethanchen | submission.py | a0d359 | 528.1 |
@@ -44,8 +44,8 @@ Last updated: `April 04, 2026 at 11:45:28 PM ET`
 | 2 | - - | submission.py | adc0f3 | 386.9 |
 | 3 | TheProphet | submission.py | 84eefa | 382.8 |
 | 4 | prousoglou | submission.py | 570c63 | 368.2 |
-| 5 | gm | develop.py | fd15e9 | 357.3 |
-| 6 | chickfila | develop.py | a9d066 | 351.2 |
+| 5 | chickfila | submission.py | 29860a | 365.0 |
+| 6 | gm | develop.py | fd15e9 | 357.3 |
 | 7 | nickname55555555 | develop.py | 99ddc2 | 334.4 |
 | 8 | Shengwei | submission.py | 077330 | 330.0 |
 | 9 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 326.5 |
