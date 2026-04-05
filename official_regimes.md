@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 04, 2026 at 10:57:30 PM ET`
+Last updated: `April 04, 2026 at 11:05:40 PM ET`
 
 ## R1 (tok/s)
 
@@ -32,6 +32,7 @@ Last updated: `April 04, 2026 at 10:57:30 PM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
+|  | JasonWang07 | failed | 0be172 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -75,6 +76,7 @@ Last updated: `April 04, 2026 at 10:57:30 PM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
+|  | JasonWang07 | failed | 0be172 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -118,6 +120,7 @@ Last updated: `April 04, 2026 at 10:57:30 PM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
+|  | JasonWang07 | failed | 0be172 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -161,6 +164,7 @@ Last updated: `April 04, 2026 at 10:57:30 PM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
+|  | JasonWang07 | failed | 0be172 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |

@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 04, 2026 at 10:57:30 PM ET`
+Last updated: `April 04, 2026 at 11:05:40 PM ET`
 
 ## Pages
 
@@ -38,6 +38,7 @@ Last updated: `April 04, 2026 at 10:57:30 PM ET`
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | fishyfins | failed | 7a0977 | 20.0/5.2/25.2 |  |  |  |  |  |
 |  | ishan-pat | failed | acf3d7 | 0.0/0.0/0.0 |  |  |  |  |  |
+|  | JasonWang07 | failed | 0be172 | 39.3/6.2/45.6 |  |  |  |  |  |
 |  | landrum | failed | b88426 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | leoli | failed | 1f54f4 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
