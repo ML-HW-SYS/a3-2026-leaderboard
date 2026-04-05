@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 10:16:28 AM ET`
+Last updated: `April 05, 2026 at 10:24:15 AM ET`
 
 ## R1 (tok/s)
 
@@ -23,15 +23,15 @@ Last updated: `April 05, 2026 at 10:16:28 AM ET`
 | 15 | lipphi | evaluated | a3a71b | 534.8 |
 | 16 | chickfila | evaluated | 29860a | 534.6 |
 | 17 | gravlax | evaluated | b1229d | 532.3 |
-| 18 | ethanchen | evaluated | a0d359 | 528.1 |
-| 19 | alifim | evaluated | d6600e | 526.6 |
-| 20 | bl792 | evaluated | 9af784 | 525.3 |
-| 21 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 524.5 |
-| 22 | nicknam534534 | evaluated | 1bad48 | 524.1 |
-| 23 | beratcelik | evaluated | db8d71 | 517.4 |
-| 24 | tuo | evaluated | 3d6d40 | 494.8 |
-| 25 | PurplePickle67 | evaluated | 6aebcc | 103.8 |
+| 18 | alifim | evaluated | d6600e | 526.6 |
+| 19 | bl792 | evaluated | 9af784 | 525.3 |
+| 20 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 524.5 |
+| 21 | nicknam534534 | evaluated | 1bad48 | 524.1 |
+| 22 | beratcelik | evaluated | db8d71 | 517.4 |
+| 23 | tuo | evaluated | 3d6d40 | 494.8 |
+| 24 | PurplePickle67 | evaluated | 6aebcc | 103.8 |
 |  | dhanushikka | failed | 14b1fd |  |
+|  | ethanchen | failed | bf6f9e |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | JasonWang07 | failed | 0be172 |  |
@@ -71,12 +71,12 @@ Last updated: `April 05, 2026 at 10:16:28 AM ET`
 | 18 | tuo | evaluated | 3d6d40 | 204.6 |
 | 19 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 20 | alifim | evaluated | d6600e | 169.6 |
-| 21 | ethanchen | evaluated | a0d359 | 169.3 |
-| 22 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 169.1 |
-| 23 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 24 | beratcelik | evaluated | db8d71 | 132.6 |
-| 25 | PurplePickle67 | evaluated | 6aebcc | 78.1 |
+| 21 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 169.1 |
+| 22 | nicknam534534 | evaluated | 1bad48 | 148.4 |
+| 23 | beratcelik | evaluated | db8d71 | 132.6 |
+| 24 | PurplePickle67 | evaluated | 6aebcc | 78.1 |
 |  | dhanushikka | failed | 14b1fd |  |
+|  | ethanchen | failed | bf6f9e |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | JasonWang07 | failed | 0be172 |  |
@@ -115,13 +115,13 @@ Last updated: `April 05, 2026 at 10:16:28 AM ET`
 | 17 | lipphi | evaluated | a3a71b | 104.4 |
 | 18 | tuo | evaluated | 3d6d40 | 167.8 |
 | 19 | 13rabbit | evaluated | 24af86 | 193.8 |
-| 20 | ethanchen | evaluated | a0d359 | 306.3 |
-| 21 | your_nickname_here | evaluated | f10b9b | 308.1 |
-| 22 | alifim | evaluated | d6600e | 309.6 |
-| 23 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 311.1 |
-| 24 | nicknam534534 | evaluated | 1bad48 | 405.4 |
-| 25 | PurplePickle67 | evaluated | 6aebcc | 412.9 |
+| 20 | your_nickname_here | evaluated | f10b9b | 308.1 |
+| 21 | alifim | evaluated | d6600e | 309.6 |
+| 22 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 311.1 |
+| 23 | nicknam534534 | evaluated | 1bad48 | 405.4 |
+| 24 | PurplePickle67 | evaluated | 6aebcc | 412.9 |
 |  | dhanushikka | failed | 14b1fd |  |
+|  | ethanchen | failed | bf6f9e |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | JasonWang07 | failed | 0be172 |  |
@@ -160,13 +160,13 @@ Last updated: `April 05, 2026 at 10:16:28 AM ET`
 | 17 | lipphi | evaluated | a3a71b | 150.9 |
 | 18 | 13rabbit | evaluated | 24af86 | 156.8 |
 | 19 | tuo | evaluated | 3d6d40 | 162.8 |
-| 20 | ethanchen | evaluated | a0d359 | 239.7 |
-| 21 | your_nickname_here | evaluated | f10b9b | 246.4 |
-| 22 | alifim | evaluated | d6600e | 250.4 |
-| 23 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 250.9 |
-| 24 | nicknam534534 | evaluated | 1bad48 | 269.2 |
-| 25 | PurplePickle67 | evaluated | 6aebcc | 269.7 |
+| 20 | your_nickname_here | evaluated | f10b9b | 246.4 |
+| 21 | alifim | evaluated | d6600e | 250.4 |
+| 22 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 250.9 |
+| 23 | nicknam534534 | evaluated | 1bad48 | 269.2 |
+| 24 | PurplePickle67 | evaluated | 6aebcc | 269.7 |
 |  | dhanushikka | failed | 14b1fd |  |
+|  | ethanchen | failed | bf6f9e |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | JasonWang07 | failed | 0be172 |  |
