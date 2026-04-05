@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 06:15:24 PM ET`
+Last updated: `April 05, 2026 at 06:23:18 PM ET`
 
 ## R1 (tok/s)
 
@@ -37,6 +37,7 @@ Last updated: `April 05, 2026 at 06:15:24 PM ET`
 | 29 | tuo | evaluated | 3d6d40 | 494.8 |
 | 30 | Rithvik | evaluated | 1b2948 | 478.7 |
 | 31 | PurplePickle67 | evaluated | 6aebcc | 103.8 |
+|  | abhik | failed | 34d9ff |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | Junyi Li | failed | c31a30 |  |
@@ -85,6 +86,7 @@ Last updated: `April 05, 2026 at 06:15:24 PM ET`
 | 29 | nicknam534534 | evaluated | 1bad48 | 148.4 |
 | 30 | beratcelik | evaluated | a1b586 | 133.1 |
 | 31 | PurplePickle67 | evaluated | 6aebcc | 78.1 |
+|  | abhik | failed | 34d9ff |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | Junyi Li | failed | c31a30 |  |
@@ -133,6 +135,7 @@ Last updated: `April 05, 2026 at 06:15:24 PM ET`
 | 29 | ngoguen | evaluated | a5cdb8 | 310.3 |
 | 30 | nicknam534534 | evaluated | 1bad48 | 405.4 |
 | 31 | PurplePickle67 | evaluated | 6aebcc | 412.9 |
+|  | abhik | failed | 34d9ff |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | Junyi Li | failed | c31a30 |  |
@@ -181,6 +184,7 @@ Last updated: `April 05, 2026 at 06:15:24 PM ET`
 | 29 | alifim | evaluated | d6600e | 250.4 |
 | 30 | nicknam534534 | evaluated | 1bad48 | 269.2 |
 | 31 | PurplePickle67 | evaluated | 6aebcc | 269.7 |
+|  | abhik | failed | 34d9ff |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | Junyi Li | failed | c31a30 |  |

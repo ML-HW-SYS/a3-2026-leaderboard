@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 06:15:24 PM ET`
+Last updated: `April 05, 2026 at 06:23:18 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 06:21 PM ET | abhik | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 34d9ff | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 05 06:20 PM ET | bl792 | evaluated |  | develop.py | 172fde | 18.6/4.1/22.7 | 521.6 | 222.1 | 71.8 | 128.8 |
 | Apr 05 06:12 PM ET | bl792 | evaluated |  | submission.py | 172fde | 20.0/4.1/24.1 | 524.6 | 222.6 | 71.3 | 127.9 |
 | Apr 05 05:58 PM ET | lofiWeightsToRelaxTo_ | evaluated |  | submission.py | 5a5409 | 41.6/3.3/44.9 | 515.1 | 266.6 | 43.1 | 59.9 |
 | Apr 05 05:41 PM ET | bl792 | evaluated |  | develop.py | 4d5ebe | 18.9/4.2/23.1 | 525.3 | 225.0 | 97.1 | 131.2 |
