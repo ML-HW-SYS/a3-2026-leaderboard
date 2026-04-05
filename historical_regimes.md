@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 04, 2026 at 10:08:31 PM ET`
+Last updated: `April 04, 2026 at 10:18:25 PM ET`
 
 ## R1 (tok/s)
 
@@ -13,8 +13,8 @@ Last updated: `April 04, 2026 at 10:08:31 PM ET`
 | 5 | your_nickname_here | submission.py | 59e245 | 559.6 |
 | 6 | chyyy | submission.py | 56b321 | 557.7 |
 | 7 | prousoglou | submission.py | 570c63 | 556.7 |
-| 8 | nickname55555555 | develop.py | 7034af | 554.6 |
-| 9 | TA | submission.py | 324cb8 | 553.3 |
+| 8 | TA | submission.py | a6e863 | 556.6 |
+| 9 | nickname55555555 | develop.py | 7034af | 554.6 |
 | 10 | gm | develop.py | a57e9f | 548.9 |
 | 11 | happyface | develop.py | 7255fc | 544.6 |
 | 12 | Shengwei | submission.py | 33733e | 543.9 |
@@ -29,10 +29,11 @@ Last updated: `April 04, 2026 at 10:08:31 PM ET`
 | 21 | ethanchen | submission.py | a0d359 | 528.1 |
 | 22 | Rithvik | submission.py | 1a7556 | 527.1 |
 | 23 | ashaikh23 | submission.py | 647265 | 526.7 |
-| 24 | beratcelik | submission.py | 6ce29b | 524.7 |
-| 25 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
-| 26 | sjb | develop.py | 2fa80d | 518.7 |
-| 27 | tuo | submission.py | 4274da | 507.3 |
+| 24 | alifim | submission.py | d6600e | 526.6 |
+| 25 | beratcelik | submission.py | 6ce29b | 524.7 |
+| 26 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
+| 27 | sjb | develop.py | 2fa80d | 518.7 |
+| 28 | tuo | submission.py | 4274da | 507.3 |
 
 ## R2 (tok/s)
 
@@ -62,9 +63,10 @@ Last updated: `April 04, 2026 at 10:08:31 PM ET`
 | 22 | your_nickname_here | submission.py | 59e245 | 173.4 |
 | 23 | beratcelik | develop.py | 6ce29b | 169.8 |
 | 24 | ashaikh23 | submission.py | 647265 | 169.6 |
-| 25 | ethanchen | submission.py | a0d359 | 169.3 |
-| 26 | sjb | develop.py | 2fa80d | 169.2 |
-| 27 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 169.1 |
+| 25 | alifim | submission.py | d6600e | 169.6 |
+| 26 | ethanchen | submission.py | a0d359 | 169.3 |
+| 27 | sjb | develop.py | 2fa80d | 169.2 |
+| 28 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 169.1 |
 
 ## R3 (ms)
 
@@ -96,7 +98,8 @@ Last updated: `April 04, 2026 at 10:08:31 PM ET`
 | 24 | ethanchen | submission.py | a0d359 | 306.3 |
 | 25 | fishyfins | develop.py | d3139f | 307.2 |
 | 26 | your_nickname_here | submission.py | 59e245 | 307.4 |
-| 27 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 311.1 |
+| 27 | alifim | submission.py | d6600e | 309.6 |
+| 28 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 311.1 |
 
 ## R4 (ms)
 
@@ -128,4 +131,5 @@ Last updated: `April 04, 2026 at 10:08:31 PM ET`
 | 24 | ethanchen | submission.py | a0d359 | 239.7 |
 | 25 | fishyfins | develop.py | d3139f | 244.4 |
 | 26 | your_nickname_here | submission.py | 59e245 | 245.7 |
-| 27 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 250.9 |
+| 27 | alifim | submission.py | d6600e | 250.4 |
+| 28 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 250.9 |
