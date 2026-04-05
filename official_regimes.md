@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 03:57:56 PM ET`
+Last updated: `April 05, 2026 at 04:05:19 PM ET`
 
 ## R1 (tok/s)
 
@@ -46,6 +46,7 @@ Last updated: `April 05, 2026 at 03:57:56 PM ET`
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | 55e076 |  |
 |  | SIUUU | failed | ad9184 |  |
+|  | Sulaiman Alam | failed | 326c2a |  |
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
 
@@ -93,6 +94,7 @@ Last updated: `April 05, 2026 at 03:57:56 PM ET`
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | 55e076 |  |
 |  | SIUUU | failed | ad9184 |  |
+|  | Sulaiman Alam | failed | 326c2a |  |
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
 
@@ -140,6 +142,7 @@ Last updated: `April 05, 2026 at 03:57:56 PM ET`
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | 55e076 |  |
 |  | SIUUU | failed | ad9184 |  |
+|  | Sulaiman Alam | failed | 326c2a |  |
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
 
@@ -187,5 +190,6 @@ Last updated: `April 05, 2026 at 03:57:56 PM ET`
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | 55e076 |  |
 |  | SIUUU | failed | ad9184 |  |
+|  | Sulaiman Alam | failed | 326c2a |  |
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |

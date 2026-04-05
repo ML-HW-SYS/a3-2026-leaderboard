@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 03:57:56 PM ET`
+Last updated: `April 05, 2026 at 04:05:19 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 03:59 PM ET | Sulaiman Alam | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 326c2a | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 05 03:51 PM ET | JasonWang07 | evaluated |  | develop.py | 1b4aca | 25.4/4.3/29.7 | 557.1 | 221.7 | 157.1 | 121.1 |
 | Apr 05 03:48 PM ET | ishan-pat | failed_correctness | R3: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | develop.py | a91b85 | 31.3/5.4/36.6 | 523.2 | 116.5 | 0.0 | 0.0 |
 | Apr 05 03:42 PM ET | JasonWang07 | evaluated |  | submission.py | 1b4aca | 60.3/4.3/64.6 | 561.1 | 221.8 | 157.3 | 121.2 |
