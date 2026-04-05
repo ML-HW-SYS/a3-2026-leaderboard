@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 04, 2026 at 10:00:21 PM ET`
+Last updated: `April 04, 2026 at 10:08:31 PM ET`
 
 ## R1 (tok/s)
 
@@ -30,8 +30,9 @@ Last updated: `April 04, 2026 at 10:00:21 PM ET`
 | 22 | Rithvik | submission.py | 1a7556 | 527.1 |
 | 23 | ashaikh23 | submission.py | 647265 | 526.7 |
 | 24 | beratcelik | submission.py | 6ce29b | 524.7 |
-| 25 | sjb | develop.py | 2fa80d | 518.7 |
-| 26 | tuo | submission.py | 4274da | 507.3 |
+| 25 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
+| 26 | sjb | develop.py | 2fa80d | 518.7 |
+| 27 | tuo | submission.py | 4274da | 507.3 |
 
 ## R2 (tok/s)
 
@@ -63,6 +64,7 @@ Last updated: `April 04, 2026 at 10:00:21 PM ET`
 | 24 | ashaikh23 | submission.py | 647265 | 169.6 |
 | 25 | ethanchen | submission.py | a0d359 | 169.3 |
 | 26 | sjb | develop.py | 2fa80d | 169.2 |
+| 27 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 169.1 |
 
 ## R3 (ms)
 
@@ -94,6 +96,7 @@ Last updated: `April 04, 2026 at 10:00:21 PM ET`
 | 24 | ethanchen | submission.py | a0d359 | 306.3 |
 | 25 | fishyfins | develop.py | d3139f | 307.2 |
 | 26 | your_nickname_here | submission.py | 59e245 | 307.4 |
+| 27 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 311.1 |
 
 ## R4 (ms)
 
@@ -125,3 +128,4 @@ Last updated: `April 04, 2026 at 10:00:21 PM ET`
 | 24 | ethanchen | submission.py | a0d359 | 239.7 |
 | 25 | fishyfins | develop.py | d3139f | 244.4 |
 | 26 | your_nickname_here | submission.py | 59e245 | 245.7 |
+| 27 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 250.9 |

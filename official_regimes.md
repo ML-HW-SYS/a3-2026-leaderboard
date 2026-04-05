@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 04, 2026 at 10:00:21 PM ET`
+Last updated: `April 04, 2026 at 10:08:31 PM ET`
 
 ## R1 (tok/s)
 
@@ -24,16 +24,16 @@ Last updated: `April 04, 2026 at 10:00:21 PM ET`
 | 16 | ethanchen | evaluated | a0d359 | 528.1 |
 | 17 | ashaikh23 | evaluated | 647265 | 526.7 |
 | 18 | bl792 | evaluated | 9af784 | 525.3 |
-| 19 | chickfila | evaluated | a9d066 | 523.3 |
-| 20 | beratcelik | evaluated | db8d71 | 517.4 |
-| 21 | tuo | evaluated | 4274da | 507.3 |
+| 19 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 524.5 |
+| 20 | chickfila | evaluated | a9d066 | 523.3 |
+| 21 | beratcelik | evaluated | db8d71 | 517.4 |
+| 22 | tuo | evaluated | 4274da | 507.3 |
 |  | alifim | failed | d013b8 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
-|  | lofiWeightsToRelaxTo_ | failed | 4c7505 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
@@ -69,14 +69,14 @@ Last updated: `April 04, 2026 at 10:00:21 PM ET`
 | 18 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 19 | ashaikh23 | evaluated | 647265 | 169.6 |
 | 20 | ethanchen | evaluated | a0d359 | 169.3 |
-| 21 | beratcelik | evaluated | db8d71 | 132.6 |
+| 21 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 169.1 |
+| 22 | beratcelik | evaluated | db8d71 | 132.6 |
 |  | alifim | failed | d013b8 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
-|  | lofiWeightsToRelaxTo_ | failed | 4c7505 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
@@ -113,13 +113,13 @@ Last updated: `April 04, 2026 at 10:00:21 PM ET`
 | 19 | ashaikh23 | evaluated | 647265 | 301.1 |
 | 20 | ethanchen | evaluated | a0d359 | 306.3 |
 | 21 | your_nickname_here | evaluated | f10b9b | 308.1 |
+| 22 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 311.1 |
 |  | alifim | failed | d013b8 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
-|  | lofiWeightsToRelaxTo_ | failed | 4c7505 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
@@ -156,13 +156,13 @@ Last updated: `April 04, 2026 at 10:00:21 PM ET`
 | 19 | ashaikh23 | evaluated | 647265 | 229.0 |
 | 20 | ethanchen | evaluated | a0d359 | 239.7 |
 | 21 | your_nickname_here | evaluated | f10b9b | 246.4 |
+| 22 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 250.9 |
 |  | alifim | failed | d013b8 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
-|  | lofiWeightsToRelaxTo_ | failed | 4c7505 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |

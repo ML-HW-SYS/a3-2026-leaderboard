@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 04, 2026 at 10:00:21 PM ET`
+Last updated: `April 04, 2026 at 10:08:31 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 04 10:07 PM ET | lofiWeightsToRelaxTo_ | evaluated | Correctness: PASS \| tolerances: atol=0.200, rtol=0.100 \| fail_rate_tol: 0.05 \| global: max_abs_diff=0.2812, ref_at_ma... | submission.py | 48a97e | 39.6/6.3/45.9 | 524.5 | 169.1 | 311.1 | 250.9 |
 | Apr 04 09:57 PM ET | Rithvik | failed_security | Security policy check failed for develop.py: \| - prohibited import: importlib.util \| - prohibited import: pathlib | develop.py | a43cf4 |  |  |  |  |  |
 | Apr 04 09:56 PM ET | fishyfins | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | 7a0977 | 21.1/3.9/25.0 | 591.8 | 586.4 | 307.1 | 244.5 |
 | Apr 04 09:55 PM ET | leoli | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | 1f54f4 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |

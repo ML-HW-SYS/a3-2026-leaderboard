@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 04, 2026 at 10:00:21 PM ET`
+Last updated: `April 04, 2026 at 10:08:31 PM ET`
 
 ## Pages
 
@@ -33,13 +33,13 @@ Last updated: `April 04, 2026 at 10:00:21 PM ET`
 | 19 | ashaikh23 | evaluated | 647265 | 23.4/6.1/29.5 | 0.541 | 526.7 | 169.6 | 301.1 | 229.0 |
 | 20 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
 | 21 | ethanchen | evaluated | a0d359 | 38.4/6.2/44.6 | 0.533 | 528.1 | 169.3 | 306.3 | 239.7 |
+| 22 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 39.6/6.3/45.9 | 0.524 | 524.5 | 169.1 | 311.1 | 250.9 |
 |  | alifim | failed | d013b8 | 20.3/6.2/26.6 |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | fishyfins | failed | 7a0977 | 20.0/5.2/25.2 |  |  |  |  |  |
 |  | ishan-pat | failed | acf3d7 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | landrum | failed | b88426 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | leoli | failed | 1f54f4 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | lofiWeightsToRelaxTo_ | failed | 4c7505 | 39.8/6.2/46.0 |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
 |  | ngoguen | failed | 7e2d47 |  |  |  |  |  |  |
 |  | poppyPotatoe | failed | aa5125 | 0.0/0.0/0.0 |  |  |  |  |  |
