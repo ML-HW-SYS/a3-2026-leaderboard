@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 05, 2026 at 11:13:04 AM ET`
+Last updated: `April 05, 2026 at 11:21:09 AM ET`
 
 ## R1 (tok/s)
 
@@ -59,16 +59,16 @@ Last updated: `April 05, 2026 at 11:13:04 AM ET`
 | 15 | gravlax | develop.py | b1229d | 273.0 |
 | 16 | happyface | develop.py | 0aca52 | 259.4 |
 | 17 | pyjuan91 | submission.py | 7ff296 | 256.3 |
-| 18 | fishyfins | develop.py | 87e789 | 243.3 |
-| 19 | Rithvik | submission.py | cc03b2 | 240.4 |
-| 20 | bl792 | develop.py | 6ec673 | 228.2 |
-| 21 | 13rabbit | submission.py | 24af86 | 215.5 |
-| 22 | tuo | submission.py | 3d6d40 | 204.6 |
-| 23 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 24 | JasonWang07 | submission.py | 422601 | 170.0 |
-| 25 | beratcelik | develop.py | 6ce29b | 169.8 |
-| 26 | alifim | submission.py | d6600e | 169.6 |
-| 27 | ethanchen | submission.py | a0d359 | 169.3 |
+| 18 | ethanchen | submission.py | ea518d | 251.2 |
+| 19 | fishyfins | develop.py | 87e789 | 243.3 |
+| 20 | Rithvik | submission.py | cc03b2 | 240.4 |
+| 21 | bl792 | develop.py | 6ec673 | 228.2 |
+| 22 | 13rabbit | submission.py | 24af86 | 215.5 |
+| 23 | tuo | submission.py | 3d6d40 | 204.6 |
+| 24 | your_nickname_here | submission.py | 59e245 | 173.4 |
+| 25 | JasonWang07 | submission.py | 422601 | 170.0 |
+| 26 | beratcelik | develop.py | 6ce29b | 169.8 |
+| 27 | alifim | submission.py | d6600e | 169.6 |
 | 28 | sjb | develop.py | 2fa80d | 169.2 |
 | 29 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 169.1 |
 | 30 | nicknam534534 | submission.py | 1bad48 | 148.4 |
