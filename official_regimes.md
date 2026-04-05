@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 10:47:05 AM ET`
+Last updated: `April 05, 2026 at 10:56:20 AM ET`
 
 ## R1 (tok/s)
 
@@ -27,21 +27,21 @@ Last updated: `April 05, 2026 at 10:47:05 AM ET`
 | 19 | bl792 | evaluated | 9af784 | 525.3 |
 | 20 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 524.5 |
 | 21 | nicknam534534 | evaluated | 1bad48 | 524.1 |
-| 22 | beratcelik | evaluated | db8d71 | 517.4 |
-| 23 | tuo | evaluated | 3d6d40 | 494.8 |
-| 24 | PurplePickle67 | evaluated | 6aebcc | 103.8 |
+| 22 | JasonWang07 | evaluated | 422601 | 523.8 |
+| 23 | beratcelik | evaluated | db8d71 | 517.4 |
+| 24 | tuo | evaluated | 3d6d40 | 494.8 |
+| 25 | PurplePickle67 | evaluated | 6aebcc | 103.8 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ethanchen | failed | bf6f9e |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
-|  | JasonWang07 | failed | 0be172 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | 55e076 |  |
-|  | Rithvik | failed | a43cf4 |  |
+|  | Rithvik | failed | 8e6767 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | sjb | failed | 0a90cc |  |
 |  | TheProphet | failed | 84eefa |  |
@@ -70,23 +70,23 @@ Last updated: `April 05, 2026 at 10:47:05 AM ET`
 | 17 | 13rabbit | evaluated | 24af86 | 215.5 |
 | 18 | tuo | evaluated | 3d6d40 | 204.6 |
 | 19 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 20 | alifim | evaluated | d6600e | 169.6 |
-| 21 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 169.1 |
-| 22 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 23 | beratcelik | evaluated | db8d71 | 132.6 |
-| 24 | PurplePickle67 | evaluated | 6aebcc | 78.1 |
+| 20 | JasonWang07 | evaluated | 422601 | 170.0 |
+| 21 | alifim | evaluated | d6600e | 169.6 |
+| 22 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 169.1 |
+| 23 | nicknam534534 | evaluated | 1bad48 | 148.4 |
+| 24 | beratcelik | evaluated | db8d71 | 132.6 |
+| 25 | PurplePickle67 | evaluated | 6aebcc | 78.1 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ethanchen | failed | bf6f9e |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
-|  | JasonWang07 | failed | 0be172 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | 55e076 |  |
-|  | Rithvik | failed | a43cf4 |  |
+|  | Rithvik | failed | 8e6767 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | sjb | failed | 0a90cc |  |
 |  | TheProphet | failed | 84eefa |  |
@@ -116,22 +116,22 @@ Last updated: `April 05, 2026 at 10:47:05 AM ET`
 | 18 | tuo | evaluated | 3d6d40 | 167.8 |
 | 19 | 13rabbit | evaluated | 24af86 | 193.8 |
 | 20 | your_nickname_here | evaluated | f10b9b | 308.1 |
-| 21 | alifim | evaluated | d6600e | 309.6 |
-| 22 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 311.1 |
-| 23 | nicknam534534 | evaluated | 1bad48 | 405.4 |
-| 24 | PurplePickle67 | evaluated | 6aebcc | 412.9 |
+| 21 | JasonWang07 | evaluated | 422601 | 308.9 |
+| 22 | alifim | evaluated | d6600e | 309.6 |
+| 23 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 311.1 |
+| 24 | nicknam534534 | evaluated | 1bad48 | 405.4 |
+| 25 | PurplePickle67 | evaluated | 6aebcc | 412.9 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ethanchen | failed | bf6f9e |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
-|  | JasonWang07 | failed | 0be172 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | 55e076 |  |
-|  | Rithvik | failed | a43cf4 |  |
+|  | Rithvik | failed | 8e6767 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | sjb | failed | 0a90cc |  |
 |  | TheProphet | failed | 84eefa |  |
@@ -161,22 +161,22 @@ Last updated: `April 05, 2026 at 10:47:05 AM ET`
 | 18 | 13rabbit | evaluated | 24af86 | 156.8 |
 | 19 | tuo | evaluated | 3d6d40 | 162.8 |
 | 20 | your_nickname_here | evaluated | f10b9b | 246.4 |
-| 21 | alifim | evaluated | d6600e | 250.4 |
-| 22 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 250.9 |
-| 23 | nicknam534534 | evaluated | 1bad48 | 269.2 |
-| 24 | PurplePickle67 | evaluated | 6aebcc | 269.7 |
+| 21 | JasonWang07 | evaluated | 422601 | 248.6 |
+| 22 | alifim | evaluated | d6600e | 250.4 |
+| 23 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 250.9 |
+| 24 | nicknam534534 | evaluated | 1bad48 | 269.2 |
+| 25 | PurplePickle67 | evaluated | 6aebcc | 269.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ethanchen | failed | bf6f9e |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
-|  | JasonWang07 | failed | 0be172 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | 55e076 |  |
-|  | Rithvik | failed | a43cf4 |  |
+|  | Rithvik | failed | 8e6767 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | sjb | failed | 0a90cc |  |
 |  | TheProphet | failed | 84eefa |  |
