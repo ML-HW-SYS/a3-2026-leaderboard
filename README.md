@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 05, 2026 at 02:52:19 PM ET`
+Last updated: `April 05, 2026 at 03:00:37 PM ET`
 
 ## Pages
 
@@ -44,7 +44,7 @@ Last updated: `April 05, 2026 at 02:52:19 PM ET`
 | 30 | PurplePickle67 | evaluated | 6aebcc | 16.5/14.2/30.8 | 0.264 | 103.8 | 78.1 | 412.9 | 269.7 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | fishyfins | failed | 7a0977 | 20.0/5.2/25.2 |  |  |  |  |  |
-|  | ishan-pat | failed | f2fa10 | 46.7/5.4/52.1 |  |  |  |  |  |
+|  | ishan-pat | failed | f2fa10 | 46.9/5.4/52.2 |  |  |  |  |  |
 |  | Junyi Li | failed | c31a30 | 71.5/6.1/77.6 |  |  |  |  |  |
 |  | landrum | failed | b88426 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | leoli | failed | 1f54f4 | 0.0/0.0/0.0 |  |  |  |  |  |
