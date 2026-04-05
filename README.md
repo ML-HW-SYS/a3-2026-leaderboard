@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 04, 2026 at 11:20:52 PM ET`
+Last updated: `April 04, 2026 at 11:30:14 PM ET`
 
 ## Pages
 
@@ -27,14 +27,15 @@ Last updated: `April 04, 2026 at 11:20:52 PM ET`
 | 13 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
 | 14 | bl792 | evaluated | 9af784 | 18.9/4.2/23.0 | 0.886 | 525.3 | 226.0 | 97.1 | 131.5 |
 | 15 | beratcelik | evaluated | db8d71 | 46.5/5.6/52.1 | 0.874 | 517.4 | 132.6 | 68.5 | 113.7 |
-| 16 | tuo | evaluated | 4274da | 76.5/4.8/81.3 | 0.711 | 507.3 | 204.2 | 167.5 | 160.5 |
-| 17 | 13rabbit | evaluated | 24af86 | 37.5/4.7/42.3 | 0.710 | 540.4 | 215.5 | 193.8 | 156.8 |
+| 16 | 13rabbit | evaluated | 24af86 | 37.5/4.7/42.3 | 0.710 | 540.4 | 215.5 | 193.8 | 156.8 |
+| 17 | tuo | evaluated | 3d6d40 | 74.5/4.9/79.3 | 0.704 | 494.8 | 204.6 | 167.8 | 162.8 |
 | 18 | chickfila | evaluated | a9d066 | 43.0/5.1/48.1 | 0.625 | 523.3 | 225.4 | 269.1 | 190.7 |
 | 19 | ashaikh23 | evaluated | 647265 | 23.4/6.1/29.5 | 0.541 | 526.7 | 169.6 | 301.1 | 229.0 |
 | 20 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
 | 21 | ethanchen | evaluated | a0d359 | 38.4/6.2/44.6 | 0.533 | 528.1 | 169.3 | 306.3 | 239.7 |
 | 22 | alifim | evaluated | d6600e | 39.4/6.2/45.6 | 0.526 | 526.6 | 169.6 | 309.6 | 250.4 |
 | 23 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 39.6/6.3/45.9 | 0.524 | 524.5 | 169.1 | 311.1 | 250.9 |
+| 24 | PurplePickle67 | evaluated | 6aebcc | 16.5/14.2/30.8 | 0.264 | 103.8 | 78.1 | 412.9 | 269.7 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | fishyfins | failed | 7a0977 | 20.0/5.2/25.2 |  |  |  |  |  |
 |  | ishan-pat | failed | acf3d7 | 0.0/0.0/0.0 |  |  |  |  |  |
@@ -44,7 +45,6 @@ Last updated: `April 04, 2026 at 11:20:52 PM ET`
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
 |  | ngoguen | failed | 7e2d47 |  |  |  |  |  |  |
 |  | poppyPotatoe | failed | aa5125 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | PurplePickle67 | failed | 6a683b |  |  |  |  |  |  |
 |  | pyjuan91 | failed | 55e076 | 21.8/7.0/28.8 |  |  |  |  |  |
 |  | Rithvik | failed | a43cf4 | 19.5/3.9/23.4 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |

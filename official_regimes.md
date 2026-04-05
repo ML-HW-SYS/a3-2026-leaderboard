@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 04, 2026 at 11:20:52 PM ET`
+Last updated: `April 04, 2026 at 11:30:14 PM ET`
 
 ## R1 (tok/s)
 
@@ -28,7 +28,8 @@ Last updated: `April 04, 2026 at 11:20:52 PM ET`
 | 20 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 524.5 |
 | 21 | chickfila | evaluated | a9d066 | 523.3 |
 | 22 | beratcelik | evaluated | db8d71 | 517.4 |
-| 23 | tuo | evaluated | 4274da | 507.3 |
+| 23 | tuo | evaluated | 3d6d40 | 494.8 |
+| 24 | PurplePickle67 | evaluated | 6aebcc | 103.8 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -38,7 +39,6 @@ Last updated: `April 04, 2026 at 11:20:52 PM ET`
 |  | mdavalos10 | failed | b601f0 |  |
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
-|  | PurplePickle67 | failed | 6a683b |  |
 |  | pyjuan91 | failed | 55e076 |  |
 |  | Rithvik | failed | a43cf4 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -66,13 +66,14 @@ Last updated: `April 04, 2026 at 11:20:52 PM ET`
 | 14 | bl792 | evaluated | 9af784 | 226.0 |
 | 15 | chickfila | evaluated | a9d066 | 225.4 |
 | 16 | 13rabbit | evaluated | 24af86 | 215.5 |
-| 17 | tuo | evaluated | 4274da | 204.2 |
+| 17 | tuo | evaluated | 3d6d40 | 204.6 |
 | 18 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 19 | ashaikh23 | evaluated | 647265 | 169.6 |
 | 20 | alifim | evaluated | d6600e | 169.6 |
 | 21 | ethanchen | evaluated | a0d359 | 169.3 |
 | 22 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 169.1 |
 | 23 | beratcelik | evaluated | db8d71 | 132.6 |
+| 24 | PurplePickle67 | evaluated | 6aebcc | 78.1 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -82,7 +83,6 @@ Last updated: `April 04, 2026 at 11:20:52 PM ET`
 |  | mdavalos10 | failed | b601f0 |  |
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
-|  | PurplePickle67 | failed | 6a683b |  |
 |  | pyjuan91 | failed | 55e076 |  |
 |  | Rithvik | failed | a43cf4 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -109,7 +109,7 @@ Last updated: `April 04, 2026 at 11:20:52 PM ET`
 | 13 | TA | evaluated | a6e863 | 85.6 |
 | 14 | bl792 | evaluated | 9af784 | 97.1 |
 | 15 | lipphi | evaluated | a3a71b | 104.4 |
-| 16 | tuo | evaluated | 4274da | 167.5 |
+| 16 | tuo | evaluated | 3d6d40 | 167.8 |
 | 17 | 13rabbit | evaluated | 24af86 | 193.8 |
 | 18 | chickfila | evaluated | a9d066 | 269.1 |
 | 19 | ashaikh23 | evaluated | 647265 | 301.1 |
@@ -117,6 +117,7 @@ Last updated: `April 04, 2026 at 11:20:52 PM ET`
 | 21 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 22 | alifim | evaluated | d6600e | 309.6 |
 | 23 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 311.1 |
+| 24 | PurplePickle67 | evaluated | 6aebcc | 412.9 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -126,7 +127,6 @@ Last updated: `April 04, 2026 at 11:20:52 PM ET`
 |  | mdavalos10 | failed | b601f0 |  |
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
-|  | PurplePickle67 | failed | 6a683b |  |
 |  | pyjuan91 | failed | 55e076 |  |
 |  | Rithvik | failed | a43cf4 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -154,13 +154,14 @@ Last updated: `April 04, 2026 at 11:20:52 PM ET`
 | 14 | TA | evaluated | a6e863 | 135.6 |
 | 15 | lipphi | evaluated | a3a71b | 150.9 |
 | 16 | 13rabbit | evaluated | 24af86 | 156.8 |
-| 17 | tuo | evaluated | 4274da | 160.5 |
+| 17 | tuo | evaluated | 3d6d40 | 162.8 |
 | 18 | chickfila | evaluated | a9d066 | 190.7 |
 | 19 | ashaikh23 | evaluated | 647265 | 229.0 |
 | 20 | ethanchen | evaluated | a0d359 | 239.7 |
 | 21 | your_nickname_here | evaluated | f10b9b | 246.4 |
 | 22 | alifim | evaluated | d6600e | 250.4 |
 | 23 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 250.9 |
+| 24 | PurplePickle67 | evaluated | 6aebcc | 269.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -170,7 +171,6 @@ Last updated: `April 04, 2026 at 11:20:52 PM ET`
 |  | mdavalos10 | failed | b601f0 |  |
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
-|  | PurplePickle67 | failed | 6a683b |  |
 |  | pyjuan91 | failed | 55e076 |  |
 |  | Rithvik | failed | a43cf4 |  |
 |  | SIUUU | failed | ad9184 |  |

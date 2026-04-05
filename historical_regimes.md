@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 04, 2026 at 11:20:52 PM ET`
+Last updated: `April 04, 2026 at 11:30:14 PM ET`
 
 ## R1 (tok/s)
 
@@ -34,6 +34,7 @@ Last updated: `April 04, 2026 at 11:20:52 PM ET`
 | 26 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
 | 27 | sjb | develop.py | 2fa80d | 518.7 |
 | 28 | tuo | submission.py | 4274da | 507.3 |
+| 29 | PurplePickle67 | submission.py | 6aebcc | 103.8 |
 
 ## R2 (tok/s)
 
@@ -59,7 +60,7 @@ Last updated: `April 04, 2026 at 11:20:52 PM ET`
 | 18 | Rithvik | submission.py | cc03b2 | 240.4 |
 | 19 | bl792 | develop.py | 6ec673 | 228.2 |
 | 20 | 13rabbit | submission.py | 24af86 | 215.5 |
-| 21 | tuo | submission.py | 4274da | 204.2 |
+| 21 | tuo | submission.py | 3d6d40 | 204.6 |
 | 22 | your_nickname_here | submission.py | 59e245 | 173.4 |
 | 23 | beratcelik | develop.py | 6ce29b | 169.8 |
 | 24 | ashaikh23 | submission.py | 647265 | 169.6 |
@@ -67,6 +68,7 @@ Last updated: `April 04, 2026 at 11:20:52 PM ET`
 | 26 | ethanchen | submission.py | a0d359 | 169.3 |
 | 27 | sjb | develop.py | 2fa80d | 169.2 |
 | 28 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 169.1 |
+| 29 | PurplePickle67 | submission.py | 6aebcc | 78.1 |
 
 ## R3 (ms)
 
@@ -100,6 +102,7 @@ Last updated: `April 04, 2026 at 11:20:52 PM ET`
 | 26 | your_nickname_here | submission.py | 59e245 | 307.4 |
 | 27 | alifim | submission.py | d6600e | 309.6 |
 | 28 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 311.1 |
+| 29 | PurplePickle67 | submission.py | 6aebcc | 412.9 |
 
 ## R4 (ms)
 
@@ -133,3 +136,4 @@ Last updated: `April 04, 2026 at 11:20:52 PM ET`
 | 26 | your_nickname_here | submission.py | 59e245 | 245.7 |
 | 27 | alifim | submission.py | d6600e | 250.4 |
 | 28 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 250.9 |
+| 29 | PurplePickle67 | submission.py | 6aebcc | 269.7 |
