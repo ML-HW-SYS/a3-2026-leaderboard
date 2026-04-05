@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 05, 2026 at 12:54:06 AM ET`
+Last updated: `April 05, 2026 at 01:01:59 AM ET`
 
 ## R1 (tok/s)
 
@@ -139,5 +139,5 @@ Last updated: `April 05, 2026 at 12:54:06 AM ET`
 | 26 | your_nickname_here | submission.py | 59e245 | 245.7 |
 | 27 | alifim | submission.py | d6600e | 250.4 |
 | 28 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 250.9 |
-| 29 | nicknam534534 | submission.py | 1bad48 | 269.2 |
+| 29 | nicknam534534 | develop.py | 1bad48 | 269.0 |
 | 30 | PurplePickle67 | submission.py | 6aebcc | 269.7 |
