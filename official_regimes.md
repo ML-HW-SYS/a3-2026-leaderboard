@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 02:14:23 PM ET`
+Last updated: `April 05, 2026 at 02:25:06 PM ET`
 
 ## R1 (tok/s)
 
@@ -8,18 +8,18 @@ Last updated: `April 05, 2026 at 02:14:23 PM ET`
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 591.4 |
 | 2 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 560.4 |
-| 3 | your_nickname_here | evaluated | f10b9b | 557.8 |
-| 4 | JasonWang07 | evaluated | 6871b3 | 557.0 |
-| 5 | prousoglou | evaluated | 570c63 | 556.7 |
-| 6 | TA | evaluated | a6e863 | 556.6 |
-| 7 | chyyy | evaluated | 34cc06 | 555.7 |
-| 8 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
-| 9 | happyface | evaluated | 7e8b61 | 543.0 |
-| 10 | gm | evaluated | 2898fc | 541.1 |
-| 11 | 13rabbit | evaluated | 24af86 | 540.4 |
-| 12 | ashaikh23 | evaluated | d98c0b | 539.3 |
-| 13 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
-| 14 | abarat007 | evaluated | cad595 | 539.1 |
+| 3 | abarat007 | evaluated | d7f626 | 559.5 |
+| 4 | your_nickname_here | evaluated | f10b9b | 557.8 |
+| 5 | JasonWang07 | evaluated | 6871b3 | 557.0 |
+| 6 | prousoglou | evaluated | 570c63 | 556.7 |
+| 7 | TA | evaluated | a6e863 | 556.6 |
+| 8 | chyyy | evaluated | 34cc06 | 555.7 |
+| 9 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
+| 10 | happyface | evaluated | 7e8b61 | 543.0 |
+| 11 | gm | evaluated | 2898fc | 541.1 |
+| 12 | 13rabbit | evaluated | 24af86 | 540.4 |
+| 13 | ashaikh23 | evaluated | d98c0b | 539.3 |
+| 14 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
 | 15 | Shengwei | evaluated | 1f8749 | 537.3 |
 | 16 | lipphi | evaluated | a3a71b | 534.8 |
 | 17 | chickfila | evaluated | f0956d | 534.5 |
@@ -55,15 +55,15 @@ Last updated: `April 05, 2026 at 02:14:23 PM ET`
 | 1 | chyyy | evaluated | 34cc06 | 433.8 |
 | 2 | chickfila | evaluated | f0956d | 398.8 |
 | 3 | - - | evaluated | adc0f3 | 386.9 |
-| 4 | prousoglou | evaluated | 570c63 | 368.2 |
-| 5 | gm | evaluated | 2898fc | 357.0 |
-| 6 | nickname55555555 | evaluated | 99ddc2 | 334.1 |
-| 7 | ashaikh23 | evaluated | d98c0b | 330.0 |
-| 8 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
-| 9 | Shengwei | evaluated | 1f8749 | 326.3 |
-| 10 | lipphi | evaluated | a3a71b | 306.7 |
-| 11 | TA | evaluated | a6e863 | 294.5 |
-| 12 | abarat007 | evaluated | cad595 | 278.2 |
+| 4 | abarat007 | evaluated | d7f626 | 378.6 |
+| 5 | prousoglou | evaluated | 570c63 | 368.2 |
+| 6 | gm | evaluated | 2898fc | 357.0 |
+| 7 | nickname55555555 | evaluated | 99ddc2 | 334.1 |
+| 8 | ashaikh23 | evaluated | d98c0b | 330.0 |
+| 9 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
+| 10 | Shengwei | evaluated | 1f8749 | 326.3 |
+| 11 | lipphi | evaluated | a3a71b | 306.7 |
+| 12 | TA | evaluated | a6e863 | 294.5 |
 | 13 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
 | 14 | Rithvik | evaluated | 1b2948 | 275.9 |
 | 15 | gravlax | evaluated | b1229d | 272.5 |
@@ -102,7 +102,7 @@ Last updated: `April 05, 2026 at 02:14:23 PM ET`
 | 2 | chyyy | evaluated | 34cc06 | 24.8 |
 | 3 | gm | evaluated | 2898fc | 26.8 |
 | 4 | Rithvik | evaluated | 1b2948 | 27.2 |
-| 5 | abarat007 | evaluated | cad595 | 28.3 |
+| 5 | abarat007 | evaluated | d7f626 | 28.1 |
 | 6 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
 | 7 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
 | 8 | prousoglou | evaluated | 570c63 | 34.7 |
@@ -149,7 +149,7 @@ Last updated: `April 05, 2026 at 02:14:23 PM ET`
 | 3 | gm | evaluated | 2898fc | 48.5 |
 | 4 | Rithvik | evaluated | 1b2948 | 49.1 |
 | 5 | chickfila | evaluated | f0956d | 49.6 |
-| 6 | abarat007 | evaluated | cad595 | 51.7 |
+| 6 | abarat007 | evaluated | d7f626 | 51.5 |
 | 7 | nickname55555555 | evaluated | 99ddc2 | 53.0 |
 | 8 | gravlax | evaluated | b1229d | 59.7 |
 | 9 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
