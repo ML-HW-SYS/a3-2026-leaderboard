@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 04, 2026 at 11:30:14 PM ET`
+Last updated: `April 04, 2026 at 11:38:08 PM ET`
 
 ## R1 (tok/s)
 
@@ -34,7 +34,7 @@ Last updated: `April 04, 2026 at 11:30:14 PM ET`
 | 26 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
 | 27 | sjb | develop.py | 2fa80d | 518.7 |
 | 28 | tuo | submission.py | 4274da | 507.3 |
-| 29 | PurplePickle67 | submission.py | 6aebcc | 103.8 |
+| 29 | PurplePickle67 | develop.py | 6aebcc | 105.9 |
 
 ## R2 (tok/s)
 
