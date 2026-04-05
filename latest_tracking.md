@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 02:25:06 PM ET`
+Last updated: `April 05, 2026 at 02:35:06 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 02:33 PM ET | ishan-pat | failed_correctness | R2: SETUP: ERR: ValueError: block_mask was created for block_mask.shape=(1, 1, 4096, 4096) but got q_len=4096 and kv_... | submission.py | a3c2fc | 28.2/1.0/29.2 | 518.3 | 0.0 | 0.0 | 0.0 |
+| Apr 05 02:29 PM ET | hw_bloss | evaluated |  | submission.py | 2d26da | 60.3/6.2/66.5 | 523.5 | 169.3 | 307.0 | 239.3 |
+| Apr 05 02:26 PM ET | JasonWang07 | evaluated |  | submission.py | a30fe6 | 40.2/4.8/45.0 | 555.9 | 210.3 | 188.0 | 180.7 |
 | Apr 05 02:24 PM ET | abarat007 | evaluated |  | submission.py | d7f626 | 47.1/2.6/49.7 | 559.5 | 378.6 | 28.1 | 51.5 |
 | Apr 05 02:13 PM ET | abarat007 | evaluated |  | develop.py | cad595 | 26.7/3.1/29.9 | 532.2 | 277.6 | 28.3 | 51.8 |
 | Apr 05 02:07 PM ET | JasonWang07 | evaluated |  | develop.py | 6871b3 | 23.5/4.8/28.3 | 555.2 | 209.9 | 188.0 | 181.3 |
