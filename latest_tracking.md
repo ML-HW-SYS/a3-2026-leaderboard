@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 02:02:49 AM ET`
+Last updated: `April 05, 2026 at 02:10:31 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 02:06 AM ET | fishyfins | failed_correctness | R1: SETUP: ERR: Unsupported: Length mismatch when unpacking object for UNPACK_SEQUENCE Explanation: SizeVariable(leng... | develop.py | efcd8d | 16.6/2.2/18.9 | 0.0 | 0.0 | 310.6 | 250.8 |
 | Apr 05 01:58 AM ET | fishyfins | failed_correctness | R1: SETUP: ERR: InductorError: LoweringException: AssertionError: Broadcast failed in ExpandView([2, 1, 64], [1, 2, 1... | develop.py | 6ab9fd | 28.3/2.2/30.5 | 0.0 | 0.0 | 309.9 | 250.7 |
 | Apr 05 01:43 AM ET | fishyfins | evaluated |  | develop.py | 20210e | 27.3/6.2/33.5 | 524.6 | 169.3 | 310.3 | 250.3 |
 | Apr 05 01:30 AM ET | ashaikh23 | evaluated |  | submission.py | d98c0b | 20.4/3.2/23.5 | 539.3 | 330.0 | 58.8 | 109.9 |
