@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 06:32:01 PM ET`
+Last updated: `April 05, 2026 at 06:40:36 PM ET`
 
 ## R1 (tok/s)
 
@@ -40,6 +40,7 @@ Last updated: `April 05, 2026 at 06:32:01 PM ET`
 |  | abhik | failed | 34d9ff |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
+|  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
@@ -89,6 +90,7 @@ Last updated: `April 05, 2026 at 06:32:01 PM ET`
 |  | abhik | failed | 34d9ff |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
+|  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
@@ -138,6 +140,7 @@ Last updated: `April 05, 2026 at 06:32:01 PM ET`
 |  | abhik | failed | 34d9ff |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
+|  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
@@ -187,6 +190,7 @@ Last updated: `April 05, 2026 at 06:32:01 PM ET`
 |  | abhik | failed | 34d9ff |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
+|  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |

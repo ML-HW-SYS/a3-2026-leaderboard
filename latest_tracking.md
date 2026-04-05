@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 06:32:01 PM ET`
+Last updated: `April 05, 2026 at 06:40:36 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 06:40 PM ET | jl | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | cc349d | 62.2/6.2/68.3 | 523.8 | 169.5 | 305.5 | 234.0 |
 | Apr 05 06:29 PM ET | abhik | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | 34d9ff | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 05 06:29 PM ET | mdavalos10 | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | develop.py | 1f10e2 | 69.0/4.0/73.0 | 534.1 | 171.0 | 0.0 | 0.0 |
 | Apr 05 06:21 PM ET | abhik | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 34d9ff | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
