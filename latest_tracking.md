@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 12:04:30 PM ET`
+Last updated: `April 05, 2026 at 12:13:44 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 12:12 PM ET | ishan-pat | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | e8adf9 | 23.6/4.1/27.7 | 523.8 | 218.7 | 81.1 | 115.0 |
+| Apr 05 12:06 PM ET | ngoguen | evaluated |  | submission.py | a5cdb8 | 40.8/6.2/47.0 | 515.9 | 169.7 | 310.3 | 249.7 |
+| Apr 05 12:05 PM ET | JasonWang07 | evaluated |  | submission.py | c05a99 | 19.8/5.0/24.8 | 542.9 | 207.3 | 191.7 | 193.3 |
 | Apr 05 11:50 AM ET | ngoguen | failed_compliance | Submission compliance check failed for submission.py: \| - non-allowed external import: baselines.baseline5_custom_att... | submission.py | d0c8f1 |  |  |  |  |  |
 | Apr 05 11:50 AM ET | JasonWang07 | evaluated |  | develop.py | 4fdfba | 19.8/5.0/24.8 | 539.2 | 207.4 | 191.1 | 193.5 |
 | Apr 05 11:47 AM ET | mdavalos10 | failed_correctness | R1: SETUP: ERR: RuntimeError: Decode path requires quantized packed weights/scales (no fallback). \| R2: SETUP: ERR: U... | develop.py | a839ab | 37.2/0.0/37.2 | 0.0 | 0.0 | 0.0 | 0.0 |

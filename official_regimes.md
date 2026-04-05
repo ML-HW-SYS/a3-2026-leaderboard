@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 12:04:30 PM ET`
+Last updated: `April 05, 2026 at 12:13:44 PM ET`
 
 ## R1 (tok/s)
 
@@ -14,8 +14,8 @@ Last updated: `April 05, 2026 at 12:04:30 PM ET`
 | 6 | chyyy | evaluated | 34cc06 | 555.7 |
 | 7 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
 | 8 | happyface | evaluated | 7e8b61 | 543.0 |
-| 9 | gm | evaluated | 2898fc | 541.1 |
-| 10 | JasonWang07 | evaluated | 4fdfba | 540.6 |
+| 9 | JasonWang07 | evaluated | c05a99 | 542.9 |
+| 10 | gm | evaluated | 2898fc | 541.1 |
 | 11 | 13rabbit | evaluated | 24af86 | 540.4 |
 | 12 | ashaikh23 | evaluated | d98c0b | 539.3 |
 | 13 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
@@ -31,16 +31,16 @@ Last updated: `April 05, 2026 at 12:04:30 PM ET`
 | 23 | nicknam534534 | evaluated | 1bad48 | 524.1 |
 | 24 | ethanchen | evaluated | ea518d | 523.7 |
 | 25 | beratcelik | evaluated | db8d71 | 517.4 |
-| 26 | tuo | evaluated | 3d6d40 | 494.8 |
-| 27 | Rithvik | evaluated | 1523b4 | 492.5 |
-| 28 | PurplePickle67 | evaluated | 6aebcc | 103.8 |
+| 26 | ngoguen | evaluated | a5cdb8 | 515.9 |
+| 27 | tuo | evaluated | 3d6d40 | 494.8 |
+| 28 | Rithvik | evaluated | 1523b4 | 492.5 |
+| 29 | PurplePickle67 | evaluated | 6aebcc | 103.8 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
-|  | ishan-pat | failed | acf3d7 |  |
+|  | ishan-pat | failed | e8adf9 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
-|  | ngoguen | failed | d0c8f1 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | 55e076 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -70,22 +70,22 @@ Last updated: `April 05, 2026 at 12:04:30 PM ET`
 | 17 | ethanchen | evaluated | ea518d | 251.2 |
 | 18 | bl792 | evaluated | 9af784 | 226.0 |
 | 19 | 13rabbit | evaluated | 24af86 | 215.5 |
-| 20 | JasonWang07 | evaluated | 4fdfba | 207.0 |
+| 20 | JasonWang07 | evaluated | c05a99 | 207.3 |
 | 21 | tuo | evaluated | 3d6d40 | 204.6 |
 | 22 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 23 | alifim | evaluated | d6600e | 169.6 |
-| 24 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 169.1 |
-| 25 | sjb | evaluated | 421a78 | 164.0 |
-| 26 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 27 | beratcelik | evaluated | db8d71 | 132.6 |
-| 28 | PurplePickle67 | evaluated | 6aebcc | 78.1 |
+| 23 | ngoguen | evaluated | a5cdb8 | 169.7 |
+| 24 | alifim | evaluated | d6600e | 169.6 |
+| 25 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 169.1 |
+| 26 | sjb | evaluated | 421a78 | 164.0 |
+| 27 | nicknam534534 | evaluated | 1bad48 | 148.4 |
+| 28 | beratcelik | evaluated | db8d71 | 132.6 |
+| 29 | PurplePickle67 | evaluated | 6aebcc | 78.1 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
-|  | ishan-pat | failed | acf3d7 |  |
+|  | ishan-pat | failed | e8adf9 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
-|  | ngoguen | failed | d0c8f1 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | 55e076 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -117,20 +117,20 @@ Last updated: `April 05, 2026 at 12:04:30 PM ET`
 | 19 | lipphi | evaluated | a3a71b | 104.4 |
 | 20 | sjb | evaluated | 421a78 | 128.8 |
 | 21 | tuo | evaluated | 3d6d40 | 167.8 |
-| 22 | JasonWang07 | evaluated | 4fdfba | 192.2 |
+| 22 | JasonWang07 | evaluated | c05a99 | 191.7 |
 | 23 | 13rabbit | evaluated | 24af86 | 193.8 |
 | 24 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 25 | alifim | evaluated | d6600e | 309.6 |
-| 26 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 311.1 |
-| 27 | nicknam534534 | evaluated | 1bad48 | 405.4 |
-| 28 | PurplePickle67 | evaluated | 6aebcc | 412.9 |
+| 26 | ngoguen | evaluated | a5cdb8 | 310.3 |
+| 27 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 311.1 |
+| 28 | nicknam534534 | evaluated | 1bad48 | 405.4 |
+| 29 | PurplePickle67 | evaluated | 6aebcc | 412.9 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
-|  | ishan-pat | failed | acf3d7 |  |
+|  | ishan-pat | failed | e8adf9 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
-|  | ngoguen | failed | d0c8f1 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | 55e076 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -163,19 +163,19 @@ Last updated: `April 05, 2026 at 12:04:30 PM ET`
 | 20 | lipphi | evaluated | a3a71b | 150.9 |
 | 21 | 13rabbit | evaluated | 24af86 | 156.8 |
 | 22 | tuo | evaluated | 3d6d40 | 162.8 |
-| 23 | JasonWang07 | evaluated | 4fdfba | 194.9 |
+| 23 | JasonWang07 | evaluated | c05a99 | 193.3 |
 | 24 | your_nickname_here | evaluated | f10b9b | 246.4 |
-| 25 | alifim | evaluated | d6600e | 250.4 |
-| 26 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 250.9 |
-| 27 | nicknam534534 | evaluated | 1bad48 | 269.2 |
-| 28 | PurplePickle67 | evaluated | 6aebcc | 269.7 |
+| 25 | ngoguen | evaluated | a5cdb8 | 249.7 |
+| 26 | alifim | evaluated | d6600e | 250.4 |
+| 27 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 250.9 |
+| 28 | nicknam534534 | evaluated | 1bad48 | 269.2 |
+| 29 | PurplePickle67 | evaluated | 6aebcc | 269.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
-|  | ishan-pat | failed | acf3d7 |  |
+|  | ishan-pat | failed | e8adf9 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
-|  | ngoguen | failed | d0c8f1 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | 55e076 |  |
 |  | SIUUU | failed | ad9184 |  |
