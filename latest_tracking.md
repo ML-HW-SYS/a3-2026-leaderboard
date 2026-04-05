@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 04:47:18 PM ET`
+Last updated: `April 05, 2026 at 04:56:01 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 04:54 PM ET | lofiWeightsToRelaxTo_ | evaluated |  | submission.py | a359a7 | 39.3/3.8/43.2 | 513.5 | 250.8 | 74.8 | 124.0 |
+| Apr 05 04:48 PM ET | JasonWang07 | evaluated |  | develop.py | f27837 | 26.3/3.0/29.3 | 554.1 | 336.1 | 68.8 | 78.3 |
 | Apr 05 04:47 PM ET | beratcelik | evaluated |  | submission.py | 5720e8 | 26.8/6.2/33.0 | 484.8 | 116.4 | 67.8 | 114.0 |
 | Apr 05 04:40 PM ET | JasonWang07 | evaluated |  | submission.py | f27837 | 60.6/3.0/63.6 | 557.4 | 336.2 | 68.2 | 78.8 |
 | Apr 05 04:38 PM ET | beratcelik | evaluated |  | submission.py | e0df45 | 44.0/6.1/50.1 | 525.6 | 117.5 | 68.8 | 114.0 |
