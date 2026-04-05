@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 04, 2026 at 06:07:58 PM ET`
+Last updated: `April 04, 2026 at 08:50:51 PM ET`
 
 ## Pages
 
@@ -28,25 +28,26 @@ Last updated: `April 04, 2026 at 06:07:58 PM ET`
 | 14 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
 | 15 | bl792 | evaluated | 9af784 | 18.9/4.2/23.0 | 0.886 | 525.3 | 226.0 | 97.1 | 131.5 |
 | 16 | beratcelik | evaluated | db8d71 | 46.5/5.6/52.1 | 0.874 | 517.4 | 132.6 | 68.5 | 113.7 |
-| 17 | fishyfins | evaluated | a777bb | 20.0/4.0/23.9 | 0.741 | 591.4 | 586.8 | 309.3 | 246.0 |
-| 18 | tuo | evaluated | 4274da | 76.5/4.8/81.3 | 0.711 | 507.3 | 204.2 | 167.5 | 160.5 |
-| 19 | 13rabbit | evaluated | 24af86 | 37.5/4.7/42.3 | 0.710 | 540.4 | 215.5 | 193.8 | 156.8 |
-| 20 | chickfila | evaluated | a9d066 | 43.0/5.1/48.1 | 0.625 | 523.3 | 225.4 | 269.1 | 190.7 |
-| 21 | ashaikh23 | evaluated | 647265 | 23.4/6.1/29.5 | 0.541 | 526.7 | 169.6 | 301.1 | 229.0 |
-| 22 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
-| 23 | ethanchen | evaluated | a0d359 | 38.4/6.2/44.6 | 0.533 | 528.1 | 169.3 | 306.3 | 239.7 |
+| 17 | tuo | evaluated | 4274da | 76.5/4.8/81.3 | 0.711 | 507.3 | 204.2 | 167.5 | 160.5 |
+| 18 | 13rabbit | evaluated | 24af86 | 37.5/4.7/42.3 | 0.710 | 540.4 | 215.5 | 193.8 | 156.8 |
+| 19 | chickfila | evaluated | a9d066 | 43.0/5.1/48.1 | 0.625 | 523.3 | 225.4 | 269.1 | 190.7 |
+| 20 | ashaikh23 | evaluated | 647265 | 23.4/6.1/29.5 | 0.541 | 526.7 | 169.6 | 301.1 | 229.0 |
+| 21 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
+| 22 | ethanchen | evaluated | a0d359 | 38.4/6.2/44.6 | 0.533 | 528.1 | 169.3 | 306.3 | 239.7 |
+|  | alifim | failed | 49f27b | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
+|  | fishyfins | failed | a777bb | 20.0/4.0/23.9 |  |  |  |  |  |
 |  | ishan-pat | failed | acf3d7 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | landrum | failed | b88426 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | lofiWeightsToRelaxTo_ | failed | 3b9586 | 0.0/0.0/0.0 |  |  |  |  |  |
+|  | lofiWeightsToRelaxTo_ | failed | 4c7505 | 39.8/6.2/46.0 |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
 |  | ngoguen | failed | 7e2d47 |  |  |  |  |  |  |
 |  | poppyPotatoe | failed | aa5125 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | PurplePickle67 | failed | 6a683b |  |  |  |  |  |  |
-|  | pyjuan91 | failed | 7ff296 | 20.5/3.7/24.2 |  |  |  |  |  |
+|  | pyjuan91 | failed | 2c08a9 | 22.0/7.1/29.2 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | sjb | failed | 2fa80d | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | TheProphet | failed | 801074 | 16.5/0.0/16.5 |  |  |  |  |  |
+|  | sjb | failed | 0a90cc | 41.2/5.2/46.4 |  |  |  |  |  |
+|  | TheProphet | failed | 84eefa | 82.6/2.6/85.2 |  |  |  |  |  |
 |  | yb | failed | 8ca88e | 0.0/0.0/0.0 |  |  |  |  |  |
 
 ## Column Guide

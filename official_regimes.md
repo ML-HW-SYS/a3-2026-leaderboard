@@ -1,87 +1,89 @@
 # Official Regimes
 
-Last updated: `April 04, 2026 at 06:07:58 PM ET`
+Last updated: `April 04, 2026 at 08:50:51 PM ET`
 
 ## R1 (tok/s)
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | fishyfins | evaluated | a777bb | 591.4 |
-| 2 | - - | evaluated | adc0f3 | 591.4 |
-| 3 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 560.4 |
-| 4 | your_nickname_here | evaluated | f10b9b | 557.8 |
-| 5 | prousoglou | evaluated | 570c63 | 556.7 |
-| 6 | chyyy | evaluated | 34cc06 | 555.7 |
-| 7 | TA | evaluated | 324cb8 | 553.3 |
-| 8 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
-| 9 | Shengwei | evaluated | 87ccb2 | 543.1 |
-| 10 | happyface | evaluated | 7e8b61 | 543.0 |
-| 11 | gm | evaluated | 2898fc | 541.1 |
-| 12 | 13rabbit | evaluated | 24af86 | 540.4 |
-| 13 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
-| 14 | abarat007 | evaluated | 260fed | 537.5 |
-| 15 | lipphi | evaluated | a3a71b | 534.8 |
-| 16 | gravlax | evaluated | b1229d | 532.3 |
-| 17 | ethanchen | evaluated | a0d359 | 528.1 |
-| 18 | ashaikh23 | evaluated | 647265 | 526.7 |
-| 19 | bl792 | evaluated | 9af784 | 525.3 |
-| 20 | Rithvik | evaluated | 114138 | 524.6 |
-| 21 | chickfila | evaluated | a9d066 | 523.3 |
-| 22 | beratcelik | evaluated | db8d71 | 517.4 |
-| 23 | tuo | evaluated | 4274da | 507.3 |
+| 1 | - - | evaluated | adc0f3 | 591.4 |
+| 2 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 560.4 |
+| 3 | your_nickname_here | evaluated | f10b9b | 557.8 |
+| 4 | prousoglou | evaluated | 570c63 | 556.7 |
+| 5 | chyyy | evaluated | 34cc06 | 555.7 |
+| 6 | TA | evaluated | 324cb8 | 553.3 |
+| 7 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
+| 8 | Shengwei | evaluated | 87ccb2 | 543.1 |
+| 9 | happyface | evaluated | 7e8b61 | 543.0 |
+| 10 | gm | evaluated | 2898fc | 541.1 |
+| 11 | 13rabbit | evaluated | 24af86 | 540.4 |
+| 12 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
+| 13 | abarat007 | evaluated | 260fed | 537.5 |
+| 14 | lipphi | evaluated | a3a71b | 534.8 |
+| 15 | gravlax | evaluated | b1229d | 532.3 |
+| 16 | ethanchen | evaluated | a0d359 | 528.1 |
+| 17 | ashaikh23 | evaluated | 647265 | 526.7 |
+| 18 | bl792 | evaluated | 9af784 | 525.3 |
+| 19 | Rithvik | evaluated | 114138 | 524.6 |
+| 20 | chickfila | evaluated | a9d066 | 523.3 |
+| 21 | beratcelik | evaluated | db8d71 | 517.4 |
+| 22 | tuo | evaluated | 4274da | 507.3 |
+|  | alifim | failed | 49f27b |  |
 |  | dhanushikka | failed | 14b1fd |  |
+|  | fishyfins | failed | a777bb |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
-|  | lofiWeightsToRelaxTo_ | failed | 3b9586 |  |
+|  | lofiWeightsToRelaxTo_ | failed | 4c7505 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | PurplePickle67 | failed | 6a683b |  |
-|  | pyjuan91 | failed | 7ff296 |  |
+|  | pyjuan91 | failed | 2c08a9 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | sjb | failed | 2fa80d |  |
-|  | TheProphet | failed | 801074 |  |
+|  | sjb | failed | 0a90cc |  |
+|  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
 
 ## R2 (tok/s)
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | fishyfins | evaluated | a777bb | 586.8 |
-| 2 | chyyy | evaluated | 34cc06 | 433.8 |
-| 3 | - - | evaluated | adc0f3 | 386.9 |
-| 4 | prousoglou | evaluated | 570c63 | 368.2 |
-| 5 | gm | evaluated | 2898fc | 357.0 |
-| 6 | nickname55555555 | evaluated | 99ddc2 | 334.1 |
-| 7 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
-| 8 | Shengwei | evaluated | 87ccb2 | 326.4 |
-| 9 | lipphi | evaluated | a3a71b | 306.7 |
-| 10 | TA | evaluated | 324cb8 | 295.5 |
-| 11 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
-| 12 | abarat007 | evaluated | 260fed | 276.9 |
-| 13 | gravlax | evaluated | b1229d | 272.5 |
-| 14 | happyface | evaluated | 7e8b61 | 258.2 |
-| 15 | Rithvik | evaluated | 114138 | 240.3 |
-| 16 | bl792 | evaluated | 9af784 | 226.0 |
-| 17 | chickfila | evaluated | a9d066 | 225.4 |
-| 18 | 13rabbit | evaluated | 24af86 | 215.5 |
-| 19 | tuo | evaluated | 4274da | 204.2 |
-| 20 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 21 | ashaikh23 | evaluated | 647265 | 169.6 |
-| 22 | ethanchen | evaluated | a0d359 | 169.3 |
-| 23 | beratcelik | evaluated | db8d71 | 132.6 |
+| 1 | chyyy | evaluated | 34cc06 | 433.8 |
+| 2 | - - | evaluated | adc0f3 | 386.9 |
+| 3 | prousoglou | evaluated | 570c63 | 368.2 |
+| 4 | gm | evaluated | 2898fc | 357.0 |
+| 5 | nickname55555555 | evaluated | 99ddc2 | 334.1 |
+| 6 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
+| 7 | Shengwei | evaluated | 87ccb2 | 326.4 |
+| 8 | lipphi | evaluated | a3a71b | 306.7 |
+| 9 | TA | evaluated | 324cb8 | 295.5 |
+| 10 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
+| 11 | abarat007 | evaluated | 260fed | 276.9 |
+| 12 | gravlax | evaluated | b1229d | 272.5 |
+| 13 | happyface | evaluated | 7e8b61 | 258.2 |
+| 14 | Rithvik | evaluated | 114138 | 240.3 |
+| 15 | bl792 | evaluated | 9af784 | 226.0 |
+| 16 | chickfila | evaluated | a9d066 | 225.4 |
+| 17 | 13rabbit | evaluated | 24af86 | 215.5 |
+| 18 | tuo | evaluated | 4274da | 204.2 |
+| 19 | your_nickname_here | evaluated | f10b9b | 173.1 |
+| 20 | ashaikh23 | evaluated | 647265 | 169.6 |
+| 21 | ethanchen | evaluated | a0d359 | 169.3 |
+| 22 | beratcelik | evaluated | db8d71 | 132.6 |
+|  | alifim | failed | 49f27b |  |
 |  | dhanushikka | failed | 14b1fd |  |
+|  | fishyfins | failed | a777bb |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
-|  | lofiWeightsToRelaxTo_ | failed | 3b9586 |  |
+|  | lofiWeightsToRelaxTo_ | failed | 4c7505 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | PurplePickle67 | failed | 6a683b |  |
-|  | pyjuan91 | failed | 7ff296 |  |
+|  | pyjuan91 | failed | 2c08a9 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | sjb | failed | 2fa80d |  |
-|  | TheProphet | failed | 801074 |  |
+|  | sjb | failed | 0a90cc |  |
+|  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
 
 ## R3 (ms)
@@ -110,19 +112,20 @@ Last updated: `April 04, 2026 at 06:07:58 PM ET`
 | 20 | ashaikh23 | evaluated | 647265 | 301.1 |
 | 21 | ethanchen | evaluated | a0d359 | 306.3 |
 | 22 | your_nickname_here | evaluated | f10b9b | 308.1 |
-| 23 | fishyfins | evaluated | a777bb | 309.3 |
+|  | alifim | failed | 49f27b |  |
 |  | dhanushikka | failed | 14b1fd |  |
+|  | fishyfins | failed | a777bb |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
-|  | lofiWeightsToRelaxTo_ | failed | 3b9586 |  |
+|  | lofiWeightsToRelaxTo_ | failed | 4c7505 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | PurplePickle67 | failed | 6a683b |  |
-|  | pyjuan91 | failed | 7ff296 |  |
+|  | pyjuan91 | failed | 2c08a9 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | sjb | failed | 2fa80d |  |
-|  | TheProphet | failed | 801074 |  |
+|  | sjb | failed | 0a90cc |  |
+|  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
 
 ## R4 (ms)
@@ -150,18 +153,19 @@ Last updated: `April 04, 2026 at 06:07:58 PM ET`
 | 19 | chickfila | evaluated | a9d066 | 190.7 |
 | 20 | ashaikh23 | evaluated | 647265 | 229.0 |
 | 21 | ethanchen | evaluated | a0d359 | 239.7 |
-| 22 | fishyfins | evaluated | a777bb | 246.0 |
-| 23 | your_nickname_here | evaluated | f10b9b | 246.4 |
+| 22 | your_nickname_here | evaluated | f10b9b | 246.4 |
+|  | alifim | failed | 49f27b |  |
 |  | dhanushikka | failed | 14b1fd |  |
+|  | fishyfins | failed | a777bb |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
-|  | lofiWeightsToRelaxTo_ | failed | 3b9586 |  |
+|  | lofiWeightsToRelaxTo_ | failed | 4c7505 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | PurplePickle67 | failed | 6a683b |  |
-|  | pyjuan91 | failed | 7ff296 |  |
+|  | pyjuan91 | failed | 2c08a9 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | sjb | failed | 2fa80d |  |
-|  | TheProphet | failed | 801074 |  |
+|  | sjb | failed | 0a90cc |  |
+|  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |

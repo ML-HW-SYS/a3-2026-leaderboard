@@ -1,9 +1,16 @@
 # Latest Tracking
 
-Last updated: `April 04, 2026 at 06:07:58 PM ET`
+Last updated: `April 04, 2026 at 08:50:51 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 04 08:47 PM ET | lofiWeightsToRelaxTo_ | failed_correctness | Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Running evaluation... ... | submission.py | 4c7505 | 39.8/6.2/46.0 | 523.2 | 169.8 | 307.9 | 246.6 |
+| Apr 04 08:43 PM ET | Rithvik | failed_security | Security policy check failed for develop.py: - prohibited import: importlib.util - prohibited import: pathlib | develop.py | 114138 |  |  |  |  |  |
+| Apr 04 08:41 PM ET | Shengwei | failed_correctness | Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Running evaluation... ... | develop.py | ec5f12 | 20.0/6.2/26.3 | 520.9 | 168.2 | 309.0 | 246.6 |
+| Apr 04 08:41 PM ET | TheProphet | failed_correctness | Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Running evaluation... ... | submission.py | 84eefa | 82.6/2.6/85.2 | 546.0 | 382.8 | 24.1 | 46.7 |
+| Apr 04 08:37 PM ET | sjb | failed_correctness | Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Running evaluation... ... | submission.py | 0a90cc | 41.2/5.2/46.4 | 524.2 | 164.3 | 129.0 | 147.4 |
+| Apr 04 08:36 PM ET | alifim | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | submission.py | 49f27b | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 04 08:35 PM ET | pyjuan91 | failed_correctness | Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Running evaluation... ... | submission.py | 2c08a9 | 22.0/7.1/29.2 | 520.1 | 0.0 | 616.8 | 370.3 |
 | Apr 04 06:05 PM ET | Rithvik | evaluated |  | submission.py | 114138 | 20.2/3.9/24.1 | 524.6 | 240.3 | 101.7 | 106.7 |
 | Apr 04 06:03 PM ET | Shengwei | evaluated |  | submission.py | 87ccb2 | 20.0/3.1/23.2 | 543.1 | 326.4 | 71.5 | 88.2 |
 | Apr 04 06:03 PM ET | TheProphet | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | submission.py | 801074 | 16.5/0.0/16.5 | 0.0 | 0.0 | 0.0 | 0.0 |
@@ -42,10 +49,10 @@ Last updated: `April 04, 2026 at 06:07:58 PM ET`
 | Apr 04 09:35 AM ET | TheProphet | evaluated |  | submission.py | ad10e3 | 45.2/2.6/47.9 | 563.4 | 381.7 | 31.3 | 62.5 |
 | Apr 04 07:37 AM ET | TheProphet | evaluated |  | develop.py | e29081 | 21.9/2.6/24.6 | 566.0 | 380.6 | 32.9 | 64.4 |
 | Apr 04 07:22 AM ET | TheProphet | evaluated |  | submission.py | e29081 | 45.4/2.6/48.1 | 567.1 | 380.3 | 32.9 | 64.3 |
-| Apr 04 03:57 AM ET | fishyfins | evaluated |  | develop.py | a777bb | 20.1/4.0/24.0 | 592.5 | 587.9 | 309.4 | 245.9 |
-| Apr 04 03:42 AM ET | fishyfins | evaluated |  | submission.py | a777bb | 20.0/4.0/23.9 | 591.4 | 586.8 | 309.3 | 246.0 |
-| Apr 04 03:27 AM ET | fishyfins | evaluated |  | develop.py | e451db | 22.3/4.0/26.3 | 591.6 | 584.7 | 309.2 | 246.3 |
-| Apr 04 03:11 AM ET | fishyfins | evaluated |  | develop.py | f834c6 | 21.6/3.9/25.6 | 594.1 | 592.5 | 309.2 | 246.0 |
+| Apr 04 03:57 AM ET | fishyfins | failed | Flagged: invalid_caching_behavior | develop.py | a777bb | 20.1/4.0/24.0 | 592.5 | 587.9 | 309.4 | 245.9 |
+| Apr 04 03:42 AM ET | fishyfins | failed | Flagged: invalid_caching_behavior | submission.py | a777bb | 20.0/4.0/23.9 | 591.4 | 586.8 | 309.3 | 246.0 |
+| Apr 04 03:27 AM ET | fishyfins | failed | Flagged: invalid_caching_behavior | develop.py | e451db | 22.3/4.0/26.3 | 591.6 | 584.7 | 309.2 | 246.3 |
+| Apr 04 03:11 AM ET | fishyfins | failed | Flagged: invalid_caching_behavior | develop.py | f834c6 | 21.6/3.9/25.6 | 594.1 | 592.5 | 309.2 | 246.0 |
 | Apr 04 02:56 AM ET | fishyfins | evaluated |  | submission.py | 67ec3a | 20.9/5.2/26.1 | 580.5 | 243.0 | 309.4 | 245.9 |
 | Apr 04 02:27 AM ET | fishyfins | evaluated |  | develop.py | 87e789 | 19.6/5.2/24.8 | 574.6 | 243.3 | 309.4 | 246.3 |
 | Apr 04 02:12 AM ET | fishyfins | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | develop.py | 0bf1a7 | 14.8/0.0/14.8 | 0.0 | 0.0 | 0.0 | 0.0 |
