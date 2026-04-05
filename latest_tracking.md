@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 01:19:31 PM ET`
+Last updated: `April 05, 2026 at 01:28:49 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 01:24 PM ET | Junyi Li | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | c31a30 | 71.5/6.1/77.6 | 521.1 | 170.0 | 302.0 | 230.5 |
+| Apr 05 01:20 PM ET | JasonWang07 | evaluated |  | submission.py | 79b096 | 23.7/4.9/28.6 | 540.1 | 207.0 | 188.2 | 182.0 |
 | Apr 05 01:12 PM ET | JasonWang07 | evaluated |  | submission.py | bfcc48 | 23.7/4.9/28.6 | 539.3 | 207.0 | 188.0 | 182.1 |
 | Apr 05 01:05 PM ET | JasonWang07 | evaluated |  | submission.py | 660aec | 42.0/4.8/46.8 | 558.8 | 210.0 | 188.1 | 181.2 |
 | Apr 05 12:56 PM ET | JasonWang07 | evaluated |  | submission.py | 0ea38a | 57.0/26.1/83.2 | 44.7 | 38.8 | 188.7 | 181.8 |

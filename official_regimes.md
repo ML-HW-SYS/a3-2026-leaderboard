@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 01:19:31 PM ET`
+Last updated: `April 05, 2026 at 01:28:49 PM ET`
 
 ## R1 (tok/s)
 
@@ -16,7 +16,7 @@ Last updated: `April 05, 2026 at 01:19:31 PM ET`
 | 8 | happyface | evaluated | 7e8b61 | 543.0 |
 | 9 | gm | evaluated | 2898fc | 541.1 |
 | 10 | 13rabbit | evaluated | 24af86 | 540.4 |
-| 11 | JasonWang07 | evaluated | bfcc48 | 539.3 |
+| 11 | JasonWang07 | evaluated | 79b096 | 540.1 |
 | 12 | ashaikh23 | evaluated | d98c0b | 539.3 |
 | 13 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
 | 14 | abarat007 | evaluated | 260fed | 537.5 |
@@ -38,6 +38,7 @@ Last updated: `April 05, 2026 at 01:19:31 PM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | e8adf9 |  |
+|  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -70,7 +71,7 @@ Last updated: `April 05, 2026 at 01:19:31 PM ET`
 | 17 | ethanchen | evaluated | ea518d | 251.2 |
 | 18 | bl792 | evaluated | 9af784 | 226.0 |
 | 19 | 13rabbit | evaluated | 24af86 | 215.5 |
-| 20 | JasonWang07 | evaluated | bfcc48 | 207.0 |
+| 20 | JasonWang07 | evaluated | 79b096 | 207.0 |
 | 21 | tuo | evaluated | 3d6d40 | 204.6 |
 | 22 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 23 | ngoguen | evaluated | a5cdb8 | 169.7 |
@@ -83,6 +84,7 @@ Last updated: `April 05, 2026 at 01:19:31 PM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | e8adf9 |  |
+|  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -117,7 +119,7 @@ Last updated: `April 05, 2026 at 01:19:31 PM ET`
 | 19 | lipphi | evaluated | a3a71b | 104.4 |
 | 20 | sjb | evaluated | 421a78 | 128.8 |
 | 21 | tuo | evaluated | 3d6d40 | 167.8 |
-| 22 | JasonWang07 | evaluated | bfcc48 | 188.0 |
+| 22 | JasonWang07 | evaluated | 79b096 | 188.2 |
 | 23 | 13rabbit | evaluated | 24af86 | 193.8 |
 | 24 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 25 | alifim | evaluated | d6600e | 309.6 |
@@ -128,6 +130,7 @@ Last updated: `April 05, 2026 at 01:19:31 PM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | e8adf9 |  |
+|  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -163,7 +166,7 @@ Last updated: `April 05, 2026 at 01:19:31 PM ET`
 | 20 | lipphi | evaluated | a3a71b | 150.9 |
 | 21 | 13rabbit | evaluated | 24af86 | 156.8 |
 | 22 | tuo | evaluated | 3d6d40 | 162.8 |
-| 23 | JasonWang07 | evaluated | bfcc48 | 182.1 |
+| 23 | JasonWang07 | evaluated | 79b096 | 182.0 |
 | 24 | your_nickname_here | evaluated | f10b9b | 246.4 |
 | 25 | ngoguen | evaluated | a5cdb8 | 249.7 |
 | 26 | alifim | evaluated | d6600e | 250.4 |
@@ -173,6 +176,7 @@ Last updated: `April 05, 2026 at 01:19:31 PM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | e8adf9 |  |
+|  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
