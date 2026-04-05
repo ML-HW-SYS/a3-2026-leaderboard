@@ -1,9 +1,14 @@
 # Latest Tracking
 
-Last updated: `April 04, 2026 at 08:50:51 PM ET`
+Last updated: `April 04, 2026 at 09:07:45 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 04 09:04 PM ET | ishan-pat | failed_correctness | Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Running evaluation... ... | develop.py | ba5068 | 36.4/3.3/39.7 | 519.2 | 218.0 | 0.0 | 0.0 |
+| Apr 04 08:58 PM ET | TheProphet | failed_correctness | Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Running evaluation... ... | develop.py | 84eefa | 31.4/2.6/34.0 | 560.5 | 374.5 | 24.1 | 46.6 |
+| Apr 04 08:55 PM ET | sjb | failed_correctness | Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Running evaluation... ... | develop.py | 0a90cc | 24.3/5.2/29.5 | 521.5 | 164.3 | 129.0 | 147.4 |
+| Apr 04 08:54 PM ET | alifim | failed_correctness | Running setup... Running setup... Running setup... Running setup... Loading artifacts from: /home/syphon/mlhwsys/a3-2... | develop.py | 3f7ade | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 04 08:53 PM ET | pyjuan91 | failed_correctness | Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Running evaluation... ... | develop.py | 2c08a9 | 22.0/7.1/29.1 | 525.2 | 0.0 | 617.0 | 371.3 |
 | Apr 04 08:47 PM ET | lofiWeightsToRelaxTo_ | failed_correctness | Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Running evaluation... ... | submission.py | 4c7505 | 39.8/6.2/46.0 | 523.2 | 169.8 | 307.9 | 246.6 |
 | Apr 04 08:43 PM ET | Rithvik | failed_security | Security policy check failed for develop.py: - prohibited import: importlib.util - prohibited import: pathlib | develop.py | 114138 |  |  |  |  |  |
 | Apr 04 08:41 PM ET | Shengwei | failed_correctness | Running setup... Running evaluation... Running setup... Running evaluation... Running setup... Running evaluation... ... | develop.py | ec5f12 | 20.0/6.2/26.3 | 520.9 | 168.2 | 309.0 | 246.6 |
