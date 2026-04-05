@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 11:21:09 AM ET`
+Last updated: `April 05, 2026 at 11:31:41 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 11:30 AM ET | ishan-pat | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | develop.py | 58c595 | 35.7/4.1/39.8 | 524.2 | 218.2 | 81.5 | 114.3 |
+| Apr 05 11:24 AM ET | ngoguen | failed_compliance | Submission compliance check failed for develop.py: \| - missing required function(s): setup, run | develop.py | 0ced1d |  |  |  |  |  |
+| Apr 05 11:24 AM ET | JasonWang07 | failed_correctness | R3: SETUP: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent ... | submission.py | 0473eb | 60.0/3.4/63.4 | 543.4 | 207.3 | 0.0 | 0.0 |
+| Apr 05 11:22 AM ET | ethanchen | evaluated |  | develop.py | ea518d | 39.4/6.3/45.6 | 522.3 | 169.1 | 311.1 | 251.4 |
 | Apr 05 11:14 AM ET | ethanchen | evaluated |  | submission.py | ea518d | 37.9/3.8/41.7 | 523.7 | 251.2 | 74.4 | 123.6 |
 | Apr 05 11:07 AM ET | sjb | evaluated |  | develop.py | 421a78 | 24.0/5.2/29.2 | 522.6 | 163.7 | 129.3 | 148.2 |
 | Apr 05 11:06 AM ET | ngoguen | failed_compliance | Submission compliance check failed for submission.py: \| - missing required function(s): setup, run | submission.py | 5b8c6d |  |  |  |  |  |

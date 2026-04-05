@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 05, 2026 at 11:21:09 AM ET`
+Last updated: `April 05, 2026 at 11:31:41 AM ET`
 
 ## Pages
 
@@ -34,14 +34,14 @@ Last updated: `April 05, 2026 at 11:21:09 AM ET`
 | 20 | 13rabbit | evaluated | 24af86 | 37.5/4.7/42.3 | 0.710 | 540.4 | 215.5 | 193.8 | 156.8 |
 | 21 | tuo | evaluated | 3d6d40 | 74.5/4.9/79.3 | 0.704 | 494.8 | 204.6 | 167.8 | 162.8 |
 | 22 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
-| 23 | JasonWang07 | evaluated | 422601 | 40.1/6.2/46.3 | 0.526 | 523.8 | 170.0 | 308.9 | 248.6 |
-| 24 | alifim | evaluated | d6600e | 39.4/6.2/45.6 | 0.526 | 526.6 | 169.6 | 309.6 | 250.4 |
-| 25 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 39.6/6.3/45.9 | 0.524 | 524.5 | 169.1 | 311.1 | 250.9 |
-| 26 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
-| 27 | PurplePickle67 | evaluated | 6aebcc | 16.5/14.2/30.8 | 0.264 | 103.8 | 78.1 | 412.9 | 269.7 |
+| 23 | alifim | evaluated | d6600e | 39.4/6.2/45.6 | 0.526 | 526.6 | 169.6 | 309.6 | 250.4 |
+| 24 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 39.6/6.3/45.9 | 0.524 | 524.5 | 169.1 | 311.1 | 250.9 |
+| 25 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
+| 26 | PurplePickle67 | evaluated | 6aebcc | 16.5/14.2/30.8 | 0.264 | 103.8 | 78.1 | 412.9 | 269.7 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | fishyfins | failed | 7a0977 | 20.0/5.2/25.2 |  |  |  |  |  |
 |  | ishan-pat | failed | acf3d7 | 0.0/0.0/0.0 |  |  |  |  |  |
+|  | JasonWang07 | failed | 0473eb | 60.0/3.4/63.4 |  |  |  |  |  |
 |  | landrum | failed | b88426 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | leoli | failed | 1f54f4 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |

@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 11:21:09 AM ET`
+Last updated: `April 05, 2026 at 11:31:41 AM ET`
 
 ## R1 (tok/s)
 
@@ -28,14 +28,14 @@ Last updated: `April 05, 2026 at 11:21:09 AM ET`
 | 20 | bl792 | evaluated | 9af784 | 525.3 |
 | 21 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 524.5 |
 | 22 | nicknam534534 | evaluated | 1bad48 | 524.1 |
-| 23 | JasonWang07 | evaluated | 422601 | 523.8 |
-| 24 | ethanchen | evaluated | ea518d | 523.7 |
-| 25 | beratcelik | evaluated | db8d71 | 517.4 |
-| 26 | tuo | evaluated | 3d6d40 | 494.8 |
-| 27 | PurplePickle67 | evaluated | 6aebcc | 103.8 |
+| 23 | ethanchen | evaluated | ea518d | 523.7 |
+| 24 | beratcelik | evaluated | db8d71 | 517.4 |
+| 25 | tuo | evaluated | 3d6d40 | 494.8 |
+| 26 | PurplePickle67 | evaluated | 6aebcc | 103.8 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
+|  | JasonWang07 | failed | 0473eb |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -71,16 +71,16 @@ Last updated: `April 05, 2026 at 11:21:09 AM ET`
 | 18 | 13rabbit | evaluated | 24af86 | 215.5 |
 | 19 | tuo | evaluated | 3d6d40 | 204.6 |
 | 20 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 21 | JasonWang07 | evaluated | 422601 | 170.0 |
-| 22 | alifim | evaluated | d6600e | 169.6 |
-| 23 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 169.1 |
-| 24 | sjb | evaluated | 421a78 | 164.0 |
-| 25 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 26 | beratcelik | evaluated | db8d71 | 132.6 |
-| 27 | PurplePickle67 | evaluated | 6aebcc | 78.1 |
+| 21 | alifim | evaluated | d6600e | 169.6 |
+| 22 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 169.1 |
+| 23 | sjb | evaluated | 421a78 | 164.0 |
+| 24 | nicknam534534 | evaluated | 1bad48 | 148.4 |
+| 25 | beratcelik | evaluated | db8d71 | 132.6 |
+| 26 | PurplePickle67 | evaluated | 6aebcc | 78.1 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
+|  | JasonWang07 | failed | 0473eb |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -118,14 +118,14 @@ Last updated: `April 05, 2026 at 11:21:09 AM ET`
 | 20 | tuo | evaluated | 3d6d40 | 167.8 |
 | 21 | 13rabbit | evaluated | 24af86 | 193.8 |
 | 22 | your_nickname_here | evaluated | f10b9b | 308.1 |
-| 23 | JasonWang07 | evaluated | 422601 | 308.9 |
-| 24 | alifim | evaluated | d6600e | 309.6 |
-| 25 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 311.1 |
-| 26 | nicknam534534 | evaluated | 1bad48 | 405.4 |
-| 27 | PurplePickle67 | evaluated | 6aebcc | 412.9 |
+| 23 | alifim | evaluated | d6600e | 309.6 |
+| 24 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 311.1 |
+| 25 | nicknam534534 | evaluated | 1bad48 | 405.4 |
+| 26 | PurplePickle67 | evaluated | 6aebcc | 412.9 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
+|  | JasonWang07 | failed | 0473eb |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -163,14 +163,14 @@ Last updated: `April 05, 2026 at 11:21:09 AM ET`
 | 20 | 13rabbit | evaluated | 24af86 | 156.8 |
 | 21 | tuo | evaluated | 3d6d40 | 162.8 |
 | 22 | your_nickname_here | evaluated | f10b9b | 246.4 |
-| 23 | JasonWang07 | evaluated | 422601 | 248.6 |
-| 24 | alifim | evaluated | d6600e | 250.4 |
-| 25 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 250.9 |
-| 26 | nicknam534534 | evaluated | 1bad48 | 269.2 |
-| 27 | PurplePickle67 | evaluated | 6aebcc | 269.7 |
+| 23 | alifim | evaluated | d6600e | 250.4 |
+| 24 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 250.9 |
+| 25 | nicknam534534 | evaluated | 1bad48 | 269.2 |
+| 26 | PurplePickle67 | evaluated | 6aebcc | 269.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
+|  | JasonWang07 | failed | 0473eb |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
