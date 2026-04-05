@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 02:35:06 PM ET`
+Last updated: `April 05, 2026 at 02:43:25 PM ET`
 
 ## R1 (tok/s)
 
@@ -38,7 +38,7 @@ Last updated: `April 05, 2026 at 02:35:06 PM ET`
 | 30 | PurplePickle67 | evaluated | 6aebcc | 103.8 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
-|  | ishan-pat | failed | a3c2fc |  |
+|  | ishan-pat | failed | f2fa10 |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
@@ -85,7 +85,7 @@ Last updated: `April 05, 2026 at 02:35:06 PM ET`
 | 30 | PurplePickle67 | evaluated | 6aebcc | 78.1 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
-|  | ishan-pat | failed | a3c2fc |  |
+|  | ishan-pat | failed | f2fa10 |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
@@ -132,7 +132,7 @@ Last updated: `April 05, 2026 at 02:35:06 PM ET`
 | 30 | PurplePickle67 | evaluated | 6aebcc | 412.9 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
-|  | ishan-pat | failed | a3c2fc |  |
+|  | ishan-pat | failed | f2fa10 |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
@@ -179,7 +179,7 @@ Last updated: `April 05, 2026 at 02:35:06 PM ET`
 | 30 | PurplePickle67 | evaluated | 6aebcc | 269.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
-|  | ishan-pat | failed | a3c2fc |  |
+|  | ishan-pat | failed | f2fa10 |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
