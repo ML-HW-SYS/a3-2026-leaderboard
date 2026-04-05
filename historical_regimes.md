@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 05, 2026 at 01:03:24 PM ET`
+Last updated: `April 05, 2026 at 01:11:36 PM ET`
 
 ## R1 (tok/s)
 
@@ -11,12 +11,12 @@ Last updated: `April 05, 2026 at 01:03:24 PM ET`
 | 3 | TheProphet | submission.py | 0a9c73 | 567.2 |
 | 4 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 560.4 |
 | 5 | your_nickname_here | submission.py | 59e245 | 559.6 |
-| 6 | chyyy | submission.py | 56b321 | 557.7 |
-| 7 | prousoglou | submission.py | 570c63 | 556.7 |
-| 8 | TA | submission.py | a6e863 | 556.6 |
-| 9 | nickname55555555 | develop.py | 7034af | 554.6 |
-| 10 | gm | develop.py | a57e9f | 548.9 |
-| 11 | JasonWang07 | develop.py | c05a99 | 545.1 |
+| 6 | JasonWang07 | submission.py | 660aec | 558.8 |
+| 7 | chyyy | submission.py | 56b321 | 557.7 |
+| 8 | prousoglou | submission.py | 570c63 | 556.7 |
+| 9 | TA | submission.py | a6e863 | 556.6 |
+| 10 | nickname55555555 | develop.py | 7034af | 554.6 |
+| 11 | gm | develop.py | a57e9f | 548.9 |
 | 12 | happyface | develop.py | 7255fc | 544.6 |
 | 13 | Shengwei | submission.py | 33733e | 543.9 |
 | 14 | 13rabbit | submission.py | fe30c9 | 543.0 |
@@ -65,7 +65,7 @@ Last updated: `April 05, 2026 at 01:03:24 PM ET`
 | 20 | fishyfins | develop.py | 87e789 | 243.3 |
 | 21 | bl792 | develop.py | 6ec673 | 228.2 |
 | 22 | 13rabbit | submission.py | 24af86 | 215.5 |
-| 23 | JasonWang07 | develop.py | ea0ffc | 209.2 |
+| 23 | JasonWang07 | submission.py | 660aec | 210.0 |
 | 24 | tuo | submission.py | 3d6d40 | 204.6 |
 | 25 | your_nickname_here | submission.py | 59e245 | 173.4 |
 | 26 | beratcelik | develop.py | 6ce29b | 169.8 |
