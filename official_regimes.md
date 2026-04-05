@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 05:27:35 PM ET`
+Last updated: `April 05, 2026 at 05:36:55 PM ET`
 
 ## R1 (tok/s)
 
@@ -26,14 +26,14 @@ Last updated: `April 05, 2026 at 05:27:35 PM ET`
 | 18 | gravlax | evaluated | b1229d | 532.3 |
 | 19 | sjb | evaluated | 421a78 | 526.7 |
 | 20 | alifim | evaluated | d6600e | 526.6 |
-| 21 | bl792 | evaluated | 9af784 | 525.3 |
+| 21 | bl792 | evaluated | 4d5ebe | 525.1 |
 | 22 | nicknam534534 | evaluated | 1bad48 | 524.1 |
 | 23 | ishan-pat | evaluated | a91b85 | 523.9 |
 | 24 | ethanchen | evaluated | ea518d | 523.7 |
 | 25 | hw_bloss | evaluated | 2d26da | 523.5 |
-| 26 | ngoguen | evaluated | a5cdb8 | 515.9 |
-| 27 | lofiWeightsToRelaxTo_ | evaluated | a359a7 | 513.5 |
-| 28 | beratcelik | evaluated | f92625 | 512.8 |
+| 26 | beratcelik | evaluated | a1b586 | 521.2 |
+| 27 | ngoguen | evaluated | a5cdb8 | 515.9 |
+| 28 | lofiWeightsToRelaxTo_ | evaluated | a359a7 | 513.5 |
 | 29 | tuo | evaluated | 3d6d40 | 494.8 |
 | 30 | Rithvik | evaluated | 1b2948 | 478.7 |
 | 31 | PurplePickle67 | evaluated | 6aebcc | 103.8 |
@@ -73,7 +73,7 @@ Last updated: `April 05, 2026 at 05:27:35 PM ET`
 | 17 | happyface | evaluated | 7e8b61 | 258.2 |
 | 18 | ethanchen | evaluated | ea518d | 251.2 |
 | 19 | lofiWeightsToRelaxTo_ | evaluated | a359a7 | 250.8 |
-| 20 | bl792 | evaluated | 9af784 | 226.0 |
+| 20 | bl792 | evaluated | 4d5ebe | 224.6 |
 | 21 | ishan-pat | evaluated | a91b85 | 217.2 |
 | 22 | 13rabbit | evaluated | 24af86 | 215.5 |
 | 23 | tuo | evaluated | 3d6d40 | 204.6 |
@@ -83,7 +83,7 @@ Last updated: `April 05, 2026 at 05:27:35 PM ET`
 | 27 | hw_bloss | evaluated | 2d26da | 169.3 |
 | 28 | sjb | evaluated | 421a78 | 164.0 |
 | 29 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 30 | beratcelik | evaluated | f92625 | 132.4 |
+| 30 | beratcelik | evaluated | a1b586 | 133.1 |
 | 31 | PurplePickle67 | evaluated | 6aebcc | 78.1 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
@@ -114,7 +114,7 @@ Last updated: `April 05, 2026 at 05:27:35 PM ET`
 | 10 | gravlax | evaluated | b1229d | 35.0 |
 | 11 | ashaikh23 | evaluated | d98c0b | 58.8 |
 | 12 | happyface | evaluated | 7e8b61 | 63.7 |
-| 13 | beratcelik | evaluated | f92625 | 69.0 |
+| 13 | beratcelik | evaluated | a1b586 | 68.6 |
 | 14 | JasonWang07 | evaluated | 414385 | 69.4 |
 | 15 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
 | 16 | Shengwei | evaluated | 1f8749 | 71.4 |
@@ -122,7 +122,7 @@ Last updated: `April 05, 2026 at 05:27:35 PM ET`
 | 18 | lofiWeightsToRelaxTo_ | evaluated | a359a7 | 74.8 |
 | 19 | ishan-pat | evaluated | a91b85 | 82.0 |
 | 20 | TA | evaluated | a6e863 | 85.6 |
-| 21 | bl792 | evaluated | 9af784 | 97.1 |
+| 21 | bl792 | evaluated | 4d5ebe | 97.3 |
 | 22 | lipphi | evaluated | a3a71b | 104.4 |
 | 23 | sjb | evaluated | 421a78 | 128.8 |
 | 24 | tuo | evaluated | 3d6d40 | 167.8 |
@@ -165,11 +165,11 @@ Last updated: `April 05, 2026 at 05:27:35 PM ET`
 | 13 | Shengwei | evaluated | 1f8749 | 88.1 |
 | 14 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
 | 15 | ashaikh23 | evaluated | d98c0b | 109.9 |
-| 16 | beratcelik | evaluated | f92625 | 114.9 |
+| 16 | beratcelik | evaluated | a1b586 | 114.4 |
 | 17 | ishan-pat | evaluated | a91b85 | 115.0 |
 | 18 | ethanchen | evaluated | ea518d | 123.6 |
 | 19 | lofiWeightsToRelaxTo_ | evaluated | a359a7 | 124.0 |
-| 20 | bl792 | evaluated | 9af784 | 131.5 |
+| 20 | bl792 | evaluated | 4d5ebe | 131.9 |
 | 21 | TA | evaluated | a6e863 | 135.6 |
 | 22 | sjb | evaluated | 421a78 | 147.1 |
 | 23 | lipphi | evaluated | a3a71b | 150.9 |
