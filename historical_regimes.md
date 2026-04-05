@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 05, 2026 at 06:07:32 PM ET`
+Last updated: `April 05, 2026 at 06:15:24 PM ET`
 
 ## R1 (tok/s)
 
@@ -102,10 +102,10 @@ Last updated: `April 05, 2026 at 06:07:32 PM ET`
 | 16 | JasonWang07 | submission.py | f27837 | 68.2 |
 | 17 | Shengwei | submission.py | 077330 | 70.1 |
 | 18 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 70.9 |
-| 19 | ethanchen | submission.py | bf6f9e | 74.0 |
-| 20 | ishan-pat | submission.py | e8adf9 | 81.1 |
-| 21 | TA | submission.py | 324cb8 | 83.2 |
-| 22 | bl792 | submission.py | 9af784 | 97.1 |
+| 19 | bl792 | submission.py | 172fde | 71.3 |
+| 20 | ethanchen | submission.py | bf6f9e | 74.0 |
+| 21 | ishan-pat | submission.py | e8adf9 | 81.1 |
+| 22 | TA | submission.py | 324cb8 | 83.2 |
 | 23 | lipphi | develop.py | d58cae | 104.4 |
 | 24 | sjb | submission.py | 421a78 | 128.8 |
 | 25 | tuo | submission.py | 92c00e | 166.9 |
@@ -143,7 +143,7 @@ Last updated: `April 05, 2026 at 06:07:32 PM ET`
 | 18 | beratcelik | submission.py | 20645a | 112.8 |
 | 19 | ishan-pat | develop.py | c482b3 | 114.3 |
 | 20 | ethanchen | submission.py | bf6f9e | 123.0 |
-| 21 | bl792 | develop.py | 9af784 | 130.8 |
+| 21 | bl792 | submission.py | 172fde | 127.9 |
 | 22 | TA | submission.py | 324cb8 | 131.7 |
 | 23 | sjb | submission.py | 421a78 | 147.1 |
 | 24 | lipphi | submission.py | a3a71b | 150.9 |

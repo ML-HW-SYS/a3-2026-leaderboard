@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 06:07:32 PM ET`
+Last updated: `April 05, 2026 at 06:15:24 PM ET`
 
 ## R1 (tok/s)
 
@@ -26,7 +26,7 @@ Last updated: `April 05, 2026 at 06:07:32 PM ET`
 | 18 | gravlax | evaluated | b1229d | 532.3 |
 | 19 | sjb | evaluated | 421a78 | 526.7 |
 | 20 | alifim | evaluated | d6600e | 526.6 |
-| 21 | bl792 | evaluated | 4d5ebe | 525.1 |
+| 21 | bl792 | evaluated | 172fde | 524.6 |
 | 22 | nicknam534534 | evaluated | 1bad48 | 524.1 |
 | 23 | ishan-pat | evaluated | a91b85 | 523.9 |
 | 24 | ethanchen | evaluated | ea518d | 523.7 |
@@ -73,7 +73,7 @@ Last updated: `April 05, 2026 at 06:07:32 PM ET`
 | 17 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
 | 18 | happyface | evaluated | 7e8b61 | 258.2 |
 | 19 | ethanchen | evaluated | ea518d | 251.2 |
-| 20 | bl792 | evaluated | 4d5ebe | 224.6 |
+| 20 | bl792 | evaluated | 172fde | 222.6 |
 | 21 | ishan-pat | evaluated | a91b85 | 217.2 |
 | 22 | 13rabbit | evaluated | 24af86 | 215.5 |
 | 23 | tuo | evaluated | 3d6d40 | 204.6 |
@@ -118,11 +118,11 @@ Last updated: `April 05, 2026 at 06:07:32 PM ET`
 | 14 | beratcelik | evaluated | a1b586 | 68.6 |
 | 15 | JasonWang07 | evaluated | 414385 | 69.4 |
 | 16 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
-| 17 | Shengwei | evaluated | 1f8749 | 71.4 |
-| 18 | ethanchen | evaluated | ea518d | 74.4 |
-| 19 | ishan-pat | evaluated | a91b85 | 82.0 |
-| 20 | TA | evaluated | a6e863 | 85.6 |
-| 21 | bl792 | evaluated | 4d5ebe | 97.3 |
+| 17 | bl792 | evaluated | 172fde | 71.3 |
+| 18 | Shengwei | evaluated | 1f8749 | 71.4 |
+| 19 | ethanchen | evaluated | ea518d | 74.4 |
+| 20 | ishan-pat | evaluated | a91b85 | 82.0 |
+| 21 | TA | evaluated | a6e863 | 85.6 |
 | 22 | lipphi | evaluated | a3a71b | 104.4 |
 | 23 | sjb | evaluated | 421a78 | 128.8 |
 | 24 | tuo | evaluated | 3d6d40 | 167.8 |
@@ -169,7 +169,7 @@ Last updated: `April 05, 2026 at 06:07:32 PM ET`
 | 17 | beratcelik | evaluated | a1b586 | 114.4 |
 | 18 | ishan-pat | evaluated | a91b85 | 115.0 |
 | 19 | ethanchen | evaluated | ea518d | 123.6 |
-| 20 | bl792 | evaluated | 4d5ebe | 131.9 |
+| 20 | bl792 | evaluated | 172fde | 127.9 |
 | 21 | TA | evaluated | a6e863 | 135.6 |
 | 22 | sjb | evaluated | 421a78 | 147.1 |
 | 23 | lipphi | evaluated | a3a71b | 150.9 |
