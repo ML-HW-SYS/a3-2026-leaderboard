@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 07:20:24 PM ET`
+Last updated: `April 05, 2026 at 07:28:48 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 07:26 PM ET | mdavalos10 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | f8cdcc | 22.6/6.2/28.7 | 533.4 | 171.1 | 309.1 | 247.0 |
+| Apr 05 07:25 PM ET | bl792 | evaluated |  | develop.py | 743b6d | 18.3/3.6/21.9 | 524.1 | 234.8 | 41.1 | 68.4 |
 | Apr 05 07:17 PM ET | bl792 | evaluated |  | submission.py | 743b6d | 18.3/3.6/21.9 | 524.5 | 234.0 | 41.1 | 68.4 |
 | Apr 05 07:02 PM ET | mdavalos10 | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | develop.py | 9550f0 | 58.1/3.9/62.1 | 534.5 | 171.2 | 0.0 | 0.0 |
 | Apr 05 06:49 PM ET | jl | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | cc349d | 25.1/6.1/31.2 | 521.2 | 170.3 | 304.6 | 233.3 |
