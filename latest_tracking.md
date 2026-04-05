@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 04, 2026 at 10:18:25 PM ET`
+Last updated: `April 04, 2026 at 10:26:53 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 04 10:22 PM ET | Shengwei | evaluated |  | develop.py | 1f8749 | 27.6/6.2/33.8 | 525.1 | 169.8 | 308.8 | 249.7 |
+| Apr 04 10:20 PM ET | alifim | evaluated |  | develop.py | d6600e | 20.0/6.3/26.3 | 523.2 | 168.7 | 311.6 | 251.4 |
 | Apr 04 10:14 PM ET | Shengwei | evaluated |  | submission.py | 1f8749 | 39.6/3.2/42.8 | 537.3 | 326.3 | 71.4 | 88.1 |
 | Apr 04 10:12 PM ET | TA | evaluated |  | submission.py | a6e863 | 47.2/3.5/50.8 | 556.6 | 294.5 | 85.6 | 135.6 |
 | Apr 04 10:11 PM ET | alifim | evaluated |  | submission.py | d6600e | 39.4/6.2/45.6 | 526.6 | 169.6 | 309.6 | 250.4 |
