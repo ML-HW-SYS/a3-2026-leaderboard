@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 01:57:07 PM ET`
+Last updated: `April 05, 2026 at 02:05:54 PM ET`
 
 ## R1 (tok/s)
 
@@ -9,20 +9,20 @@ Last updated: `April 05, 2026 at 01:57:07 PM ET`
 | 1 | - - | evaluated | adc0f3 | 591.4 |
 | 2 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 560.4 |
 | 3 | your_nickname_here | evaluated | f10b9b | 557.8 |
-| 4 | prousoglou | evaluated | 570c63 | 556.7 |
-| 5 | TA | evaluated | a6e863 | 556.6 |
-| 6 | chyyy | evaluated | 34cc06 | 555.7 |
-| 7 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
-| 8 | happyface | evaluated | 7e8b61 | 543.0 |
-| 9 | gm | evaluated | 2898fc | 541.1 |
-| 10 | 13rabbit | evaluated | 24af86 | 540.4 |
-| 11 | ashaikh23 | evaluated | d98c0b | 539.3 |
-| 12 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
-| 13 | abarat007 | evaluated | 260fed | 537.5 |
-| 14 | Shengwei | evaluated | 1f8749 | 537.3 |
-| 15 | lipphi | evaluated | a3a71b | 534.8 |
-| 16 | chickfila | evaluated | f0956d | 534.5 |
-| 17 | JasonWang07 | evaluated | 23f394 | 534.2 |
+| 4 | JasonWang07 | evaluated | 6871b3 | 557.0 |
+| 5 | prousoglou | evaluated | 570c63 | 556.7 |
+| 6 | TA | evaluated | a6e863 | 556.6 |
+| 7 | chyyy | evaluated | 34cc06 | 555.7 |
+| 8 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
+| 9 | happyface | evaluated | 7e8b61 | 543.0 |
+| 10 | gm | evaluated | 2898fc | 541.1 |
+| 11 | 13rabbit | evaluated | 24af86 | 540.4 |
+| 12 | ashaikh23 | evaluated | d98c0b | 539.3 |
+| 13 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
+| 14 | abarat007 | evaluated | cad595 | 539.1 |
+| 15 | Shengwei | evaluated | 1f8749 | 537.3 |
+| 16 | lipphi | evaluated | a3a71b | 534.8 |
+| 17 | chickfila | evaluated | f0956d | 534.5 |
 | 18 | gravlax | evaluated | b1229d | 532.3 |
 | 19 | sjb | evaluated | 421a78 | 526.7 |
 | 20 | alifim | evaluated | d6600e | 526.6 |
@@ -63,8 +63,8 @@ Last updated: `April 05, 2026 at 01:57:07 PM ET`
 | 9 | Shengwei | evaluated | 1f8749 | 326.3 |
 | 10 | lipphi | evaluated | a3a71b | 306.7 |
 | 11 | TA | evaluated | a6e863 | 294.5 |
-| 12 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
-| 13 | abarat007 | evaluated | 260fed | 276.9 |
+| 12 | abarat007 | evaluated | cad595 | 278.2 |
+| 13 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
 | 14 | Rithvik | evaluated | 1b2948 | 275.9 |
 | 15 | gravlax | evaluated | b1229d | 272.5 |
 | 16 | happyface | evaluated | 7e8b61 | 258.2 |
@@ -72,7 +72,7 @@ Last updated: `April 05, 2026 at 01:57:07 PM ET`
 | 18 | bl792 | evaluated | 9af784 | 226.0 |
 | 19 | ishan-pat | evaluated | c482b3 | 217.9 |
 | 20 | 13rabbit | evaluated | 24af86 | 215.5 |
-| 21 | JasonWang07 | evaluated | 23f394 | 206.9 |
+| 21 | JasonWang07 | evaluated | 6871b3 | 209.5 |
 | 22 | tuo | evaluated | 3d6d40 | 204.6 |
 | 23 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 24 | ngoguen | evaluated | a5cdb8 | 169.7 |
@@ -102,7 +102,7 @@ Last updated: `April 05, 2026 at 01:57:07 PM ET`
 | 2 | chyyy | evaluated | 34cc06 | 24.8 |
 | 3 | gm | evaluated | 2898fc | 26.8 |
 | 4 | Rithvik | evaluated | 1b2948 | 27.2 |
-| 5 | abarat007 | evaluated | 260fed | 28.4 |
+| 5 | abarat007 | evaluated | cad595 | 28.3 |
 | 6 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
 | 7 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
 | 8 | prousoglou | evaluated | 570c63 | 34.7 |
@@ -120,7 +120,7 @@ Last updated: `April 05, 2026 at 01:57:07 PM ET`
 | 20 | lipphi | evaluated | a3a71b | 104.4 |
 | 21 | sjb | evaluated | 421a78 | 128.8 |
 | 22 | tuo | evaluated | 3d6d40 | 167.8 |
-| 23 | JasonWang07 | evaluated | 23f394 | 189.1 |
+| 23 | JasonWang07 | evaluated | 6871b3 | 188.0 |
 | 24 | 13rabbit | evaluated | 24af86 | 193.8 |
 | 25 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 26 | alifim | evaluated | d6600e | 309.6 |
@@ -149,7 +149,7 @@ Last updated: `April 05, 2026 at 01:57:07 PM ET`
 | 3 | gm | evaluated | 2898fc | 48.5 |
 | 4 | Rithvik | evaluated | 1b2948 | 49.1 |
 | 5 | chickfila | evaluated | f0956d | 49.6 |
-| 6 | abarat007 | evaluated | 260fed | 51.5 |
+| 6 | abarat007 | evaluated | cad595 | 51.7 |
 | 7 | nickname55555555 | evaluated | 99ddc2 | 53.0 |
 | 8 | gravlax | evaluated | b1229d | 59.7 |
 | 9 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
@@ -167,7 +167,7 @@ Last updated: `April 05, 2026 at 01:57:07 PM ET`
 | 21 | lipphi | evaluated | a3a71b | 150.9 |
 | 22 | 13rabbit | evaluated | 24af86 | 156.8 |
 | 23 | tuo | evaluated | 3d6d40 | 162.8 |
-| 24 | JasonWang07 | evaluated | 23f394 | 181.5 |
+| 24 | JasonWang07 | evaluated | 6871b3 | 180.9 |
 | 25 | your_nickname_here | evaluated | f10b9b | 246.4 |
 | 26 | ngoguen | evaluated | a5cdb8 | 249.7 |
 | 27 | alifim | evaluated | d6600e | 250.4 |

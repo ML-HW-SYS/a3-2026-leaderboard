@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 05, 2026 at 01:57:07 PM ET`
+Last updated: `April 05, 2026 at 02:05:54 PM ET`
 
 ## R1 (tok/s)
 
@@ -57,8 +57,8 @@ Last updated: `April 05, 2026 at 01:57:07 PM ET`
 | 11 | lipphi | submission.py | a3a71b | 306.7 |
 | 12 | TA | submission.py | 324cb8 | 295.5 |
 | 13 | Rithvik | submission.py | 1523b4 | 281.0 |
-| 14 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
-| 15 | abarat007 | develop.py | 260fed | 277.1 |
+| 14 | abarat007 | submission.py | cad595 | 278.2 |
+| 15 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
 | 16 | gravlax | develop.py | b1229d | 273.0 |
 | 17 | happyface | develop.py | 0aca52 | 259.4 |
 | 18 | pyjuan91 | submission.py | 7ff296 | 256.3 |
@@ -87,7 +87,7 @@ Last updated: `April 05, 2026 at 01:57:07 PM ET`
 | 3 | chyyy | submission.py | 34cc06 | 24.8 |
 | 4 | gm | submission.py | 2898fc | 26.8 |
 | 5 | Rithvik | submission.py | 8e6767 | 26.9 |
-| 6 | abarat007 | submission.py | 260fed | 28.4 |
+| 6 | abarat007 | submission.py | cad595 | 28.3 |
 | 7 | nickname55555555 | submission.py | 05c6ab | 31.9 |
 | 8 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
 | 9 | prousoglou | submission.py | 570c63 | 34.7 |

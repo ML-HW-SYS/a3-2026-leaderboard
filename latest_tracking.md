@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 01:57:07 PM ET`
+Last updated: `April 05, 2026 at 02:05:54 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 02:04 PM ET | abarat007 | evaluated |  | submission.py | cad595 | 44.8/3.1/48.0 | 539.1 | 278.2 | 28.3 | 51.7 |
+| Apr 05 01:58 PM ET | JasonWang07 | evaluated |  | submission.py | 6871b3 | 23.5/4.8/28.4 | 557.0 | 209.5 | 188.0 | 180.9 |
 | Apr 05 01:54 PM ET | chickfila | evaluated |  | submission.py | f0956d | 65.8/2.6/68.4 | 534.5 | 398.8 | 34.7 | 49.6 |
 | Apr 05 01:52 PM ET | Rithvik | evaluated |  | submission.py | 1b2948 | 66.5/3.2/69.7 | 478.7 | 275.9 | 27.2 | 49.1 |
 | Apr 05 01:48 PM ET | JasonWang07 | evaluated |  | develop.py | 23f394 | 23.7/4.9/28.6 | 538.8 | 207.0 | 188.5 | 181.7 |
