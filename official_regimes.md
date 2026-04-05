@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 04:13:10 PM ET`
+Last updated: `April 05, 2026 at 04:21:33 PM ET`
 
 ## R1 (tok/s)
 
@@ -32,10 +32,10 @@ Last updated: `April 05, 2026 at 04:13:10 PM ET`
 | 24 | ethanchen | evaluated | ea518d | 523.7 |
 | 25 | hw_bloss | evaluated | 2d26da | 523.5 |
 | 26 | ngoguen | evaluated | a5cdb8 | 515.9 |
-| 27 | tuo | evaluated | 3d6d40 | 494.8 |
-| 28 | Rithvik | evaluated | 1b2948 | 478.7 |
-| 29 | PurplePickle67 | evaluated | 6aebcc | 103.8 |
-|  | beratcelik | failed | c76297 |  |
+| 27 | beratcelik | evaluated | 88e697 | 514.0 |
+| 28 | tuo | evaluated | 3d6d40 | 494.8 |
+| 29 | Rithvik | evaluated | 1b2948 | 478.7 |
+| 30 | PurplePickle67 | evaluated | 6aebcc | 103.8 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | JasonWang07 | failed | e6529e |  |
@@ -82,8 +82,8 @@ Last updated: `April 05, 2026 at 04:13:10 PM ET`
 | 26 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 169.1 |
 | 27 | sjb | evaluated | 421a78 | 164.0 |
 | 28 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 29 | PurplePickle67 | evaluated | 6aebcc | 78.1 |
-|  | beratcelik | failed | c76297 |  |
+| 29 | beratcelik | evaluated | 88e697 | 132.4 |
+| 30 | PurplePickle67 | evaluated | 6aebcc | 78.1 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | JasonWang07 | failed | e6529e |  |
@@ -114,24 +114,24 @@ Last updated: `April 05, 2026 at 04:13:10 PM ET`
 | 10 | gravlax | evaluated | b1229d | 35.0 |
 | 11 | ashaikh23 | evaluated | d98c0b | 58.8 |
 | 12 | happyface | evaluated | 7e8b61 | 63.7 |
-| 13 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
-| 14 | Shengwei | evaluated | 1f8749 | 71.4 |
-| 15 | ethanchen | evaluated | ea518d | 74.4 |
-| 16 | ishan-pat | evaluated | a91b85 | 82.0 |
-| 17 | TA | evaluated | a6e863 | 85.6 |
-| 18 | bl792 | evaluated | 9af784 | 97.1 |
-| 19 | lipphi | evaluated | a3a71b | 104.4 |
-| 20 | sjb | evaluated | 421a78 | 128.8 |
-| 21 | tuo | evaluated | 3d6d40 | 167.8 |
-| 22 | 13rabbit | evaluated | 24af86 | 193.8 |
-| 23 | hw_bloss | evaluated | 2d26da | 307.0 |
-| 24 | your_nickname_here | evaluated | f10b9b | 308.1 |
-| 25 | alifim | evaluated | d6600e | 309.6 |
-| 26 | ngoguen | evaluated | a5cdb8 | 310.3 |
-| 27 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 311.1 |
-| 28 | nicknam534534 | evaluated | 1bad48 | 405.4 |
-| 29 | PurplePickle67 | evaluated | 6aebcc | 412.9 |
-|  | beratcelik | failed | c76297 |  |
+| 13 | beratcelik | evaluated | 88e697 | 68.6 |
+| 14 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
+| 15 | Shengwei | evaluated | 1f8749 | 71.4 |
+| 16 | ethanchen | evaluated | ea518d | 74.4 |
+| 17 | ishan-pat | evaluated | a91b85 | 82.0 |
+| 18 | TA | evaluated | a6e863 | 85.6 |
+| 19 | bl792 | evaluated | 9af784 | 97.1 |
+| 20 | lipphi | evaluated | a3a71b | 104.4 |
+| 21 | sjb | evaluated | 421a78 | 128.8 |
+| 22 | tuo | evaluated | 3d6d40 | 167.8 |
+| 23 | 13rabbit | evaluated | 24af86 | 193.8 |
+| 24 | hw_bloss | evaluated | 2d26da | 307.0 |
+| 25 | your_nickname_here | evaluated | f10b9b | 308.1 |
+| 26 | alifim | evaluated | d6600e | 309.6 |
+| 27 | ngoguen | evaluated | a5cdb8 | 310.3 |
+| 28 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 311.1 |
+| 29 | nicknam534534 | evaluated | 1bad48 | 405.4 |
+| 30 | PurplePickle67 | evaluated | 6aebcc | 412.9 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | JasonWang07 | failed | e6529e |  |
@@ -164,22 +164,22 @@ Last updated: `April 05, 2026 at 04:13:10 PM ET`
 | 12 | Shengwei | evaluated | 1f8749 | 88.1 |
 | 13 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
 | 14 | ashaikh23 | evaluated | d98c0b | 109.9 |
-| 15 | ishan-pat | evaluated | a91b85 | 115.0 |
-| 16 | ethanchen | evaluated | ea518d | 123.6 |
-| 17 | bl792 | evaluated | 9af784 | 131.5 |
-| 18 | TA | evaluated | a6e863 | 135.6 |
-| 19 | sjb | evaluated | 421a78 | 147.1 |
-| 20 | lipphi | evaluated | a3a71b | 150.9 |
-| 21 | 13rabbit | evaluated | 24af86 | 156.8 |
-| 22 | tuo | evaluated | 3d6d40 | 162.8 |
-| 23 | hw_bloss | evaluated | 2d26da | 239.3 |
-| 24 | your_nickname_here | evaluated | f10b9b | 246.4 |
-| 25 | ngoguen | evaluated | a5cdb8 | 249.7 |
-| 26 | alifim | evaluated | d6600e | 250.4 |
-| 27 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 250.9 |
-| 28 | nicknam534534 | evaluated | 1bad48 | 269.2 |
-| 29 | PurplePickle67 | evaluated | 6aebcc | 269.7 |
-|  | beratcelik | failed | c76297 |  |
+| 15 | beratcelik | evaluated | 88e697 | 114.1 |
+| 16 | ishan-pat | evaluated | a91b85 | 115.0 |
+| 17 | ethanchen | evaluated | ea518d | 123.6 |
+| 18 | bl792 | evaluated | 9af784 | 131.5 |
+| 19 | TA | evaluated | a6e863 | 135.6 |
+| 20 | sjb | evaluated | 421a78 | 147.1 |
+| 21 | lipphi | evaluated | a3a71b | 150.9 |
+| 22 | 13rabbit | evaluated | 24af86 | 156.8 |
+| 23 | tuo | evaluated | 3d6d40 | 162.8 |
+| 24 | hw_bloss | evaluated | 2d26da | 239.3 |
+| 25 | your_nickname_here | evaluated | f10b9b | 246.4 |
+| 26 | ngoguen | evaluated | a5cdb8 | 249.7 |
+| 27 | alifim | evaluated | d6600e | 250.4 |
+| 28 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 250.9 |
+| 29 | nicknam534534 | evaluated | 1bad48 | 269.2 |
+| 30 | PurplePickle67 | evaluated | 6aebcc | 269.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | JasonWang07 | failed | e6529e |  |

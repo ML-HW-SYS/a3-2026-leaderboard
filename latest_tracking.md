@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 04:13:10 PM ET`
+Last updated: `April 05, 2026 at 04:21:33 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 04:21 PM ET | beratcelik | evaluated |  | submission.py | 88e697 | 26.1/5.6/31.7 | 514.0 | 132.4 | 68.6 | 114.1 |
+| Apr 05 04:14 PM ET | JasonWang07 | failed_correctness | R1: SETUP: ERR: UserError: Consider annotating your code using torch._check*(). Could not extract specialized integer... | develop.py | e6529e | 19.9/1.9/21.8 | 0.0 | 0.0 | 254.8 | 217.3 |
 | Apr 05 04:06 PM ET | Sulaiman Alam | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | 326c2a |  |  |  |  |  |
 | Apr 05 04:06 PM ET | JasonWang07 | failed_correctness | R1: SETUP: ERR: UserError: Consider annotating your code using torch._check*(). Could not extract specialized integer... | submission.py | e6529e | 24.4/1.8/26.2 | 0.0 | 0.0 | 256.6 | 195.9 |
 | Apr 05 03:59 PM ET | Sulaiman Alam | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 326c2a | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
