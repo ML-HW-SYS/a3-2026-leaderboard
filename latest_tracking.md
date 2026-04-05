@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 03:50:01 PM ET`
+Last updated: `April 05, 2026 at 03:57:56 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 03:51 PM ET | JasonWang07 | evaluated |  | develop.py | 1b4aca | 25.4/4.3/29.7 | 557.1 | 221.7 | 157.1 | 121.1 |
 | Apr 05 03:48 PM ET | ishan-pat | failed_correctness | R3: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | develop.py | a91b85 | 31.3/5.4/36.6 | 523.2 | 116.5 | 0.0 | 0.0 |
 | Apr 05 03:42 PM ET | JasonWang07 | evaluated |  | submission.py | 1b4aca | 60.3/4.3/64.6 | 561.1 | 221.8 | 157.3 | 121.2 |
 | Apr 05 03:40 PM ET | beratcelik | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | c76297 | 44.0/6.0/50.0 | 536.6 | 118.0 | 68.3 | 112.9 |
