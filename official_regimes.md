@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 12:45:57 PM ET`
+Last updated: `April 05, 2026 at 12:54:33 PM ET`
 
 ## R1 (tok/s)
 
@@ -14,27 +14,27 @@ Last updated: `April 05, 2026 at 12:45:57 PM ET`
 | 6 | chyyy | evaluated | 34cc06 | 555.7 |
 | 7 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
 | 8 | happyface | evaluated | 7e8b61 | 543.0 |
-| 9 | JasonWang07 | evaluated | 611c9d | 542.0 |
-| 10 | gm | evaluated | 2898fc | 541.1 |
-| 11 | 13rabbit | evaluated | 24af86 | 540.4 |
-| 12 | ashaikh23 | evaluated | d98c0b | 539.3 |
-| 13 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
-| 14 | abarat007 | evaluated | 260fed | 537.5 |
-| 15 | Shengwei | evaluated | 1f8749 | 537.3 |
-| 16 | lipphi | evaluated | a3a71b | 534.8 |
-| 17 | chickfila | evaluated | 29860a | 534.6 |
-| 18 | gravlax | evaluated | b1229d | 532.3 |
-| 19 | sjb | evaluated | 421a78 | 526.7 |
-| 20 | alifim | evaluated | d6600e | 526.6 |
-| 21 | bl792 | evaluated | 9af784 | 525.3 |
-| 22 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 524.5 |
-| 23 | nicknam534534 | evaluated | 1bad48 | 524.1 |
-| 24 | ethanchen | evaluated | ea518d | 523.7 |
-| 25 | beratcelik | evaluated | db8d71 | 517.4 |
-| 26 | ngoguen | evaluated | a5cdb8 | 515.9 |
-| 27 | tuo | evaluated | 3d6d40 | 494.8 |
-| 28 | Rithvik | evaluated | 1523b4 | 492.5 |
-| 29 | PurplePickle67 | evaluated | 6aebcc | 103.8 |
+| 9 | gm | evaluated | 2898fc | 541.1 |
+| 10 | 13rabbit | evaluated | 24af86 | 540.4 |
+| 11 | ashaikh23 | evaluated | d98c0b | 539.3 |
+| 12 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
+| 13 | abarat007 | evaluated | 260fed | 537.5 |
+| 14 | Shengwei | evaluated | 1f8749 | 537.3 |
+| 15 | lipphi | evaluated | a3a71b | 534.8 |
+| 16 | chickfila | evaluated | 29860a | 534.6 |
+| 17 | gravlax | evaluated | b1229d | 532.3 |
+| 18 | sjb | evaluated | 421a78 | 526.7 |
+| 19 | alifim | evaluated | d6600e | 526.6 |
+| 20 | bl792 | evaluated | 9af784 | 525.3 |
+| 21 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 524.5 |
+| 22 | nicknam534534 | evaluated | 1bad48 | 524.1 |
+| 23 | ethanchen | evaluated | ea518d | 523.7 |
+| 24 | beratcelik | evaluated | db8d71 | 517.4 |
+| 25 | ngoguen | evaluated | a5cdb8 | 515.9 |
+| 26 | tuo | evaluated | 3d6d40 | 494.8 |
+| 27 | Rithvik | evaluated | 1523b4 | 492.5 |
+| 28 | PurplePickle67 | evaluated | 6aebcc | 103.8 |
+| 29 | JasonWang07 | evaluated | ac13f5 | 43.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | e8adf9 |  |
@@ -70,16 +70,16 @@ Last updated: `April 05, 2026 at 12:45:57 PM ET`
 | 17 | ethanchen | evaluated | ea518d | 251.2 |
 | 18 | bl792 | evaluated | 9af784 | 226.0 |
 | 19 | 13rabbit | evaluated | 24af86 | 215.5 |
-| 20 | JasonWang07 | evaluated | 611c9d | 207.5 |
-| 21 | tuo | evaluated | 3d6d40 | 204.6 |
-| 22 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 23 | ngoguen | evaluated | a5cdb8 | 169.7 |
-| 24 | alifim | evaluated | d6600e | 169.6 |
-| 25 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 169.1 |
-| 26 | sjb | evaluated | 421a78 | 164.0 |
-| 27 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 28 | beratcelik | evaluated | db8d71 | 132.6 |
-| 29 | PurplePickle67 | evaluated | 6aebcc | 78.1 |
+| 20 | tuo | evaluated | 3d6d40 | 204.6 |
+| 21 | your_nickname_here | evaluated | f10b9b | 173.1 |
+| 22 | ngoguen | evaluated | a5cdb8 | 169.7 |
+| 23 | alifim | evaluated | d6600e | 169.6 |
+| 24 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 169.1 |
+| 25 | sjb | evaluated | 421a78 | 164.0 |
+| 26 | nicknam534534 | evaluated | 1bad48 | 148.4 |
+| 27 | beratcelik | evaluated | db8d71 | 132.6 |
+| 28 | PurplePickle67 | evaluated | 6aebcc | 78.1 |
+| 29 | JasonWang07 | evaluated | ac13f5 | 37.0 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | e8adf9 |  |
@@ -117,7 +117,7 @@ Last updated: `April 05, 2026 at 12:45:57 PM ET`
 | 19 | lipphi | evaluated | a3a71b | 104.4 |
 | 20 | sjb | evaluated | 421a78 | 128.8 |
 | 21 | tuo | evaluated | 3d6d40 | 167.8 |
-| 22 | JasonWang07 | evaluated | 611c9d | 188.0 |
+| 22 | JasonWang07 | evaluated | ac13f5 | 188.7 |
 | 23 | 13rabbit | evaluated | 24af86 | 193.8 |
 | 24 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 25 | alifim | evaluated | d6600e | 309.6 |
@@ -163,7 +163,7 @@ Last updated: `April 05, 2026 at 12:45:57 PM ET`
 | 20 | lipphi | evaluated | a3a71b | 150.9 |
 | 21 | 13rabbit | evaluated | 24af86 | 156.8 |
 | 22 | tuo | evaluated | 3d6d40 | 162.8 |
-| 23 | JasonWang07 | evaluated | 611c9d | 180.4 |
+| 23 | JasonWang07 | evaluated | ac13f5 | 182.3 |
 | 24 | your_nickname_here | evaluated | f10b9b | 246.4 |
 | 25 | ngoguen | evaluated | a5cdb8 | 249.7 |
 | 26 | alifim | evaluated | d6600e | 250.4 |
