@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 03:09:15 PM ET`
+Last updated: `April 05, 2026 at 03:17:45 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 03:16 PM ET | ishan-pat | failed_correctness | R3: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | submission.py | f4a16d | 30.7/5.4/36.1 | 519.3 | 116.6 | 0.0 | 0.0 |
+| Apr 05 03:11 PM ET | sjb | failed_correctness | R1: SETUP: ERR: UserError: Could not extract specialized integer from data-dependent expression u0 (unhinted: u0). (S... | develop.py | 521899 | 22.3/1.1/23.4 | 0.0 | 0.0 | 129.1 | 147.3 |
 | Apr 05 03:07 PM ET | ishan-pat | failed_correctness | R3: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | submission.py | f4a16d | 30.6/5.4/35.9 | 520.5 | 116.7 | 0.0 | 0.0 |
 | Apr 05 03:02 PM ET | JasonWang07 | evaluated |  | submission.py | f50d83 | 25.5/4.8/30.3 | 552.7 | 210.0 | 187.8 | 181.0 |
 | Apr 05 02:59 PM ET | ishan-pat | failed_correctness | R3: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | submission.py | f2fa10 | 46.9/5.4/52.2 | 524.3 | 116.7 | 0.0 | 0.0 |
