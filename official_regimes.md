@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 05:03:51 PM ET`
+Last updated: `April 05, 2026 at 05:12:19 PM ET`
 
 ## R1 (tok/s)
 
@@ -33,8 +33,8 @@ Last updated: `April 05, 2026 at 05:03:51 PM ET`
 | 25 | hw_bloss | evaluated | 2d26da | 523.5 |
 | 26 | ngoguen | evaluated | a5cdb8 | 515.9 |
 | 27 | lofiWeightsToRelaxTo_ | evaluated | a359a7 | 513.5 |
-| 28 | tuo | evaluated | 3d6d40 | 494.8 |
-| 29 | beratcelik | evaluated | 5720e8 | 484.8 |
+| 28 | beratcelik | evaluated | f92625 | 512.8 |
+| 29 | tuo | evaluated | 3d6d40 | 494.8 |
 | 30 | Rithvik | evaluated | 1b2948 | 478.7 |
 | 31 | PurplePickle67 | evaluated | 6aebcc | 103.8 |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -83,7 +83,7 @@ Last updated: `April 05, 2026 at 05:03:51 PM ET`
 | 27 | hw_bloss | evaluated | 2d26da | 169.3 |
 | 28 | sjb | evaluated | 421a78 | 164.0 |
 | 29 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 30 | beratcelik | evaluated | 5720e8 | 116.4 |
+| 30 | beratcelik | evaluated | f92625 | 132.4 |
 | 31 | PurplePickle67 | evaluated | 6aebcc | 78.1 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
@@ -114,7 +114,7 @@ Last updated: `April 05, 2026 at 05:03:51 PM ET`
 | 10 | gravlax | evaluated | b1229d | 35.0 |
 | 11 | ashaikh23 | evaluated | d98c0b | 58.8 |
 | 12 | happyface | evaluated | 7e8b61 | 63.7 |
-| 13 | beratcelik | evaluated | 5720e8 | 67.8 |
+| 13 | beratcelik | evaluated | f92625 | 69.0 |
 | 14 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
 | 15 | Shengwei | evaluated | 1f8749 | 71.4 |
 | 16 | JasonWang07 | evaluated | cc1e54 | 71.7 |
@@ -165,7 +165,7 @@ Last updated: `April 05, 2026 at 05:03:51 PM ET`
 | 13 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
 | 14 | JasonWang07 | evaluated | cc1e54 | 89.9 |
 | 15 | ashaikh23 | evaluated | d98c0b | 109.9 |
-| 16 | beratcelik | evaluated | 5720e8 | 114.0 |
+| 16 | beratcelik | evaluated | f92625 | 114.9 |
 | 17 | ishan-pat | evaluated | a91b85 | 115.0 |
 | 18 | ethanchen | evaluated | ea518d | 123.6 |
 | 19 | lofiWeightsToRelaxTo_ | evaluated | a359a7 | 124.0 |
