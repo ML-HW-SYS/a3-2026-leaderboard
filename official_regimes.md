@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 03:17:45 PM ET`
+Last updated: `April 05, 2026 at 03:26:52 PM ET`
 
 ## R1 (tok/s)
 
@@ -9,11 +9,11 @@ Last updated: `April 05, 2026 at 03:17:45 PM ET`
 | 1 | - - | evaluated | adc0f3 | 591.4 |
 | 2 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 560.4 |
 | 3 | abarat007 | evaluated | d7f626 | 559.5 |
-| 4 | your_nickname_here | evaluated | f10b9b | 557.8 |
-| 5 | prousoglou | evaluated | 570c63 | 556.7 |
-| 6 | TA | evaluated | a6e863 | 556.6 |
-| 7 | chyyy | evaluated | 34cc06 | 555.7 |
-| 8 | JasonWang07 | evaluated | f50d83 | 552.7 |
+| 4 | JasonWang07 | evaluated | b8fbcb | 557.9 |
+| 5 | your_nickname_here | evaluated | f10b9b | 557.8 |
+| 6 | prousoglou | evaluated | 570c63 | 556.7 |
+| 7 | TA | evaluated | a6e863 | 556.6 |
+| 8 | chyyy | evaluated | 34cc06 | 555.7 |
 | 9 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
 | 10 | happyface | evaluated | 7e8b61 | 543.0 |
 | 11 | gm | evaluated | 2898fc | 541.1 |
@@ -38,7 +38,7 @@ Last updated: `April 05, 2026 at 03:17:45 PM ET`
 | 30 | PurplePickle67 | evaluated | 6aebcc | 103.8 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
-|  | ishan-pat | failed | f4a16d |  |
+|  | ishan-pat | failed | b731ae |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
@@ -72,7 +72,7 @@ Last updated: `April 05, 2026 at 03:17:45 PM ET`
 | 17 | ethanchen | evaluated | ea518d | 251.2 |
 | 18 | bl792 | evaluated | 9af784 | 226.0 |
 | 19 | 13rabbit | evaluated | 24af86 | 215.5 |
-| 20 | JasonWang07 | evaluated | f50d83 | 210.0 |
+| 20 | JasonWang07 | evaluated | b8fbcb | 210.4 |
 | 21 | tuo | evaluated | 3d6d40 | 204.6 |
 | 22 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 23 | ngoguen | evaluated | a5cdb8 | 169.7 |
@@ -85,7 +85,7 @@ Last updated: `April 05, 2026 at 03:17:45 PM ET`
 | 30 | PurplePickle67 | evaluated | 6aebcc | 78.1 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
-|  | ishan-pat | failed | f4a16d |  |
+|  | ishan-pat | failed | b731ae |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
@@ -121,7 +121,7 @@ Last updated: `April 05, 2026 at 03:17:45 PM ET`
 | 19 | lipphi | evaluated | a3a71b | 104.4 |
 | 20 | sjb | evaluated | 421a78 | 128.8 |
 | 21 | tuo | evaluated | 3d6d40 | 167.8 |
-| 22 | JasonWang07 | evaluated | f50d83 | 187.8 |
+| 22 | JasonWang07 | evaluated | b8fbcb | 187.8 |
 | 23 | 13rabbit | evaluated | 24af86 | 193.8 |
 | 24 | hw_bloss | evaluated | 2d26da | 307.0 |
 | 25 | your_nickname_here | evaluated | f10b9b | 308.1 |
@@ -132,7 +132,7 @@ Last updated: `April 05, 2026 at 03:17:45 PM ET`
 | 30 | PurplePickle67 | evaluated | 6aebcc | 412.9 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
-|  | ishan-pat | failed | f4a16d |  |
+|  | ishan-pat | failed | b731ae |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
@@ -169,7 +169,7 @@ Last updated: `April 05, 2026 at 03:17:45 PM ET`
 | 20 | lipphi | evaluated | a3a71b | 150.9 |
 | 21 | 13rabbit | evaluated | 24af86 | 156.8 |
 | 22 | tuo | evaluated | 3d6d40 | 162.8 |
-| 23 | JasonWang07 | evaluated | f50d83 | 181.0 |
+| 23 | JasonWang07 | evaluated | b8fbcb | 181.6 |
 | 24 | hw_bloss | evaluated | 2d26da | 239.3 |
 | 25 | your_nickname_here | evaluated | f10b9b | 246.4 |
 | 26 | ngoguen | evaluated | a5cdb8 | 249.7 |
@@ -179,7 +179,7 @@ Last updated: `April 05, 2026 at 03:17:45 PM ET`
 | 30 | PurplePickle67 | evaluated | 6aebcc | 269.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
-|  | ishan-pat | failed | f4a16d |  |
+|  | ishan-pat | failed | b731ae |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |

@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 03:17:45 PM ET`
+Last updated: `April 05, 2026 at 03:26:52 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 03:25 PM ET | ishan-pat | failed_correctness | R3: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | submission.py | b731ae | 31.2/5.4/36.6 | 514.2 | 116.5 | 0.0 | 0.0 |
+| Apr 05 03:20 PM ET | sjb | failed_correctness | R1: SETUP: ERR: TorchRuntimeError: Dynamo failed to run FX node with fake tensors: call_function <built-in function g... | develop.py | 13d648 | 22.4/1.1/23.5 | 0.0 | 0.0 | 129.4 | 148.4 |
+| Apr 05 03:19 PM ET | JasonWang07 | evaluated |  | submission.py | b8fbcb | 25.5/4.8/30.4 | 557.9 | 210.4 | 187.8 | 181.6 |
 | Apr 05 03:16 PM ET | ishan-pat | failed_correctness | R3: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | submission.py | f4a16d | 30.7/5.4/36.1 | 519.3 | 116.6 | 0.0 | 0.0 |
 | Apr 05 03:11 PM ET | sjb | failed_correctness | R1: SETUP: ERR: UserError: Could not extract specialized integer from data-dependent expression u0 (unhinted: u0). (S... | develop.py | 521899 | 22.3/1.1/23.4 | 0.0 | 0.0 | 129.1 | 147.3 |
 | Apr 05 03:07 PM ET | ishan-pat | failed_correctness | R3: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | submission.py | f4a16d | 30.6/5.4/35.9 | 520.5 | 116.7 | 0.0 | 0.0 |
