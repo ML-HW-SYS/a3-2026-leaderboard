@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 05, 2026 at 03:40:46 PM ET`
+Last updated: `April 05, 2026 at 03:50:01 PM ET`
 
 ## R1 (tok/s)
 
@@ -10,9 +10,9 @@ Last updated: `April 05, 2026 at 03:40:46 PM ET`
 | 2 | fishyfins | develop.py | 866448 | 580.7 |
 | 3 | TheProphet | submission.py | 0a9c73 | 567.2 |
 | 4 | abarat007 | develop.py | d7f626 | 562.9 |
-| 5 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 560.4 |
-| 6 | your_nickname_here | submission.py | 59e245 | 559.6 |
-| 7 | JasonWang07 | submission.py | 660aec | 558.8 |
+| 5 | JasonWang07 | submission.py | 1b4aca | 561.1 |
+| 6 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 560.4 |
+| 7 | your_nickname_here | submission.py | 59e245 | 559.6 |
 | 8 | chyyy | submission.py | 56b321 | 557.7 |
 | 9 | prousoglou | submission.py | 570c63 | 556.7 |
 | 10 | TA | submission.py | a6e863 | 556.6 |
@@ -66,9 +66,9 @@ Last updated: `April 05, 2026 at 03:40:46 PM ET`
 | 19 | ethanchen | submission.py | ea518d | 251.2 |
 | 20 | fishyfins | develop.py | 87e789 | 243.3 |
 | 21 | bl792 | develop.py | 6ec673 | 228.2 |
-| 22 | ishan-pat | submission.py | c482b3 | 217.9 |
-| 23 | 13rabbit | submission.py | 24af86 | 215.5 |
-| 24 | JasonWang07 | submission.py | b8fbcb | 210.4 |
+| 22 | JasonWang07 | submission.py | 1b4aca | 221.8 |
+| 23 | ishan-pat | submission.py | c482b3 | 217.9 |
+| 24 | 13rabbit | submission.py | 24af86 | 215.5 |
 | 25 | tuo | submission.py | 3d6d40 | 204.6 |
 | 26 | your_nickname_here | submission.py | 59e245 | 173.4 |
 | 27 | beratcelik | develop.py | 6ce29b | 169.8 |
@@ -106,8 +106,8 @@ Last updated: `April 05, 2026 at 03:40:46 PM ET`
 | 20 | bl792 | submission.py | 9af784 | 97.1 |
 | 21 | lipphi | develop.py | d58cae | 104.4 |
 | 22 | sjb | submission.py | 421a78 | 128.8 |
-| 23 | tuo | submission.py | 92c00e | 166.9 |
-| 24 | JasonWang07 | submission.py | f50d83 | 187.8 |
+| 23 | JasonWang07 | submission.py | 1b4aca | 157.3 |
+| 24 | tuo | submission.py | 92c00e | 166.9 |
 | 25 | 13rabbit | submission.py | 24af86 | 193.8 |
 | 26 | pyjuan91 | develop.py | 268544 | 303.2 |
 | 27 | hw_bloss | submission.py | 2d26da | 307.0 |
@@ -140,14 +140,14 @@ Last updated: `April 05, 2026 at 03:40:46 PM ET`
 | 15 | ashaikh23 | submission.py | d98c0b | 109.9 |
 | 16 | beratcelik | submission.py | 20645a | 112.8 |
 | 17 | ishan-pat | develop.py | c482b3 | 114.3 |
-| 18 | ethanchen | submission.py | bf6f9e | 123.0 |
-| 19 | bl792 | develop.py | 9af784 | 130.8 |
-| 20 | TA | submission.py | 324cb8 | 131.7 |
-| 21 | sjb | submission.py | 421a78 | 147.1 |
-| 22 | lipphi | submission.py | a3a71b | 150.9 |
-| 23 | 13rabbit | submission.py | 24af86 | 156.8 |
-| 24 | tuo | submission.py | 4274da | 160.5 |
-| 25 | JasonWang07 | submission.py | 611c9d | 180.4 |
+| 18 | JasonWang07 | submission.py | 1b4aca | 121.2 |
+| 19 | ethanchen | submission.py | bf6f9e | 123.0 |
+| 20 | bl792 | develop.py | 9af784 | 130.8 |
+| 21 | TA | submission.py | 324cb8 | 131.7 |
+| 22 | sjb | submission.py | 421a78 | 147.1 |
+| 23 | lipphi | submission.py | a3a71b | 150.9 |
+| 24 | 13rabbit | submission.py | 24af86 | 156.8 |
+| 25 | tuo | submission.py | 4274da | 160.5 |
 | 26 | pyjuan91 | develop.py | 268544 | 234.1 |
 | 27 | hw_bloss | submission.py | 2d26da | 239.3 |
 | 28 | fishyfins | develop.py | d3139f | 244.4 |

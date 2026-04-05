@@ -1,15 +1,15 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 03:40:46 PM ET`
+Last updated: `April 05, 2026 at 03:50:01 PM ET`
 
 ## R1 (tok/s)
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 591.4 |
-| 2 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 560.4 |
-| 3 | abarat007 | evaluated | d7f626 | 559.5 |
-| 4 | JasonWang07 | evaluated | b8fbcb | 557.9 |
+| 2 | JasonWang07 | evaluated | 1b4aca | 561.1 |
+| 3 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 560.4 |
+| 4 | abarat007 | evaluated | d7f626 | 559.5 |
 | 5 | your_nickname_here | evaluated | f10b9b | 557.8 |
 | 6 | prousoglou | evaluated | 570c63 | 556.7 |
 | 7 | TA | evaluated | a6e863 | 556.6 |
@@ -71,9 +71,9 @@ Last updated: `April 05, 2026 at 03:40:46 PM ET`
 | 16 | happyface | evaluated | 7e8b61 | 258.2 |
 | 17 | ethanchen | evaluated | ea518d | 251.2 |
 | 18 | bl792 | evaluated | 9af784 | 226.0 |
-| 19 | ishan-pat | evaluated | a91b85 | 217.2 |
-| 20 | 13rabbit | evaluated | 24af86 | 215.5 |
-| 21 | JasonWang07 | evaluated | b8fbcb | 210.4 |
+| 19 | JasonWang07 | evaluated | 1b4aca | 221.8 |
+| 20 | ishan-pat | evaluated | a91b85 | 217.2 |
+| 21 | 13rabbit | evaluated | 24af86 | 215.5 |
 | 22 | tuo | evaluated | 3d6d40 | 204.6 |
 | 23 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 24 | ngoguen | evaluated | a5cdb8 | 169.7 |
@@ -120,8 +120,8 @@ Last updated: `April 05, 2026 at 03:40:46 PM ET`
 | 18 | bl792 | evaluated | 9af784 | 97.1 |
 | 19 | lipphi | evaluated | a3a71b | 104.4 |
 | 20 | sjb | evaluated | 421a78 | 128.8 |
-| 21 | tuo | evaluated | 3d6d40 | 167.8 |
-| 22 | JasonWang07 | evaluated | b8fbcb | 187.8 |
+| 21 | JasonWang07 | evaluated | 1b4aca | 157.3 |
+| 22 | tuo | evaluated | 3d6d40 | 167.8 |
 | 23 | 13rabbit | evaluated | 24af86 | 193.8 |
 | 24 | hw_bloss | evaluated | 2d26da | 307.0 |
 | 25 | your_nickname_here | evaluated | f10b9b | 308.1 |
@@ -162,14 +162,14 @@ Last updated: `April 05, 2026 at 03:40:46 PM ET`
 | 13 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
 | 14 | ashaikh23 | evaluated | d98c0b | 109.9 |
 | 15 | ishan-pat | evaluated | a91b85 | 115.0 |
-| 16 | ethanchen | evaluated | ea518d | 123.6 |
-| 17 | bl792 | evaluated | 9af784 | 131.5 |
-| 18 | TA | evaluated | a6e863 | 135.6 |
-| 19 | sjb | evaluated | 421a78 | 147.1 |
-| 20 | lipphi | evaluated | a3a71b | 150.9 |
-| 21 | 13rabbit | evaluated | 24af86 | 156.8 |
-| 22 | tuo | evaluated | 3d6d40 | 162.8 |
-| 23 | JasonWang07 | evaluated | b8fbcb | 181.6 |
+| 16 | JasonWang07 | evaluated | 1b4aca | 121.2 |
+| 17 | ethanchen | evaluated | ea518d | 123.6 |
+| 18 | bl792 | evaluated | 9af784 | 131.5 |
+| 19 | TA | evaluated | a6e863 | 135.6 |
+| 20 | sjb | evaluated | 421a78 | 147.1 |
+| 21 | lipphi | evaluated | a3a71b | 150.9 |
+| 22 | 13rabbit | evaluated | 24af86 | 156.8 |
+| 23 | tuo | evaluated | 3d6d40 | 162.8 |
 | 24 | hw_bloss | evaluated | 2d26da | 239.3 |
 | 25 | your_nickname_here | evaluated | f10b9b | 246.4 |
 | 26 | ngoguen | evaluated | a5cdb8 | 249.7 |
