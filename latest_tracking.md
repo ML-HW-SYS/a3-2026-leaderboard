@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 06:56:44 PM ET`
+Last updated: `April 05, 2026 at 07:05:13 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 07:02 PM ET | mdavalos10 | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | develop.py | 9550f0 | 58.1/3.9/62.1 | 534.5 | 171.2 | 0.0 | 0.0 |
 | Apr 05 06:49 PM ET | jl | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | cc349d | 25.1/6.1/31.2 | 521.2 | 170.3 | 304.6 | 233.3 |
 | Apr 05 06:46 PM ET | abhik | evaluated |  | develop.py | 49c34d | 40.3/6.2/46.6 | 525.2 | 169.3 | 310.6 | 250.0 |
 | Apr 05 06:40 PM ET | jl | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | cc349d | 62.2/6.2/68.3 | 523.8 | 169.5 | 305.5 | 234.0 |
