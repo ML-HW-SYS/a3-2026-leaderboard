@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 12:45:54 AM ET`
+Last updated: `April 05, 2026 at 12:54:06 AM ET`
 
 ## R1 (tok/s)
 
@@ -27,9 +27,10 @@ Last updated: `April 05, 2026 at 12:45:54 AM ET`
 | 19 | alifim | evaluated | d6600e | 526.6 |
 | 20 | bl792 | evaluated | 9af784 | 525.3 |
 | 21 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 524.5 |
-| 22 | beratcelik | evaluated | db8d71 | 517.4 |
-| 23 | tuo | evaluated | 3d6d40 | 494.8 |
-| 24 | PurplePickle67 | evaluated | 6aebcc | 103.8 |
+| 22 | nicknam534534 | evaluated | 1bad48 | 524.1 |
+| 23 | beratcelik | evaluated | db8d71 | 517.4 |
+| 24 | tuo | evaluated | 3d6d40 | 494.8 |
+| 25 | PurplePickle67 | evaluated | 6aebcc | 103.8 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -72,8 +73,9 @@ Last updated: `April 05, 2026 at 12:45:54 AM ET`
 | 20 | alifim | evaluated | d6600e | 169.6 |
 | 21 | ethanchen | evaluated | a0d359 | 169.3 |
 | 22 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 169.1 |
-| 23 | beratcelik | evaluated | db8d71 | 132.6 |
-| 24 | PurplePickle67 | evaluated | 6aebcc | 78.1 |
+| 23 | nicknam534534 | evaluated | 1bad48 | 148.4 |
+| 24 | beratcelik | evaluated | db8d71 | 132.6 |
+| 25 | PurplePickle67 | evaluated | 6aebcc | 78.1 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -117,7 +119,8 @@ Last updated: `April 05, 2026 at 12:45:54 AM ET`
 | 21 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 22 | alifim | evaluated | d6600e | 309.6 |
 | 23 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 311.1 |
-| 24 | PurplePickle67 | evaluated | 6aebcc | 412.9 |
+| 24 | nicknam534534 | evaluated | 1bad48 | 405.4 |
+| 25 | PurplePickle67 | evaluated | 6aebcc | 412.9 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -161,7 +164,8 @@ Last updated: `April 05, 2026 at 12:45:54 AM ET`
 | 21 | your_nickname_here | evaluated | f10b9b | 246.4 |
 | 22 | alifim | evaluated | d6600e | 250.4 |
 | 23 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 250.9 |
-| 24 | PurplePickle67 | evaluated | 6aebcc | 269.7 |
+| 24 | nicknam534534 | evaluated | 1bad48 | 269.2 |
+| 25 | PurplePickle67 | evaluated | 6aebcc | 269.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
