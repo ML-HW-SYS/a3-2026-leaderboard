@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 12:38:02 PM ET`
+Last updated: `April 05, 2026 at 12:45:57 PM ET`
 
 ## R1 (tok/s)
 
@@ -14,8 +14,8 @@ Last updated: `April 05, 2026 at 12:38:02 PM ET`
 | 6 | chyyy | evaluated | 34cc06 | 555.7 |
 | 7 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
 | 8 | happyface | evaluated | 7e8b61 | 543.0 |
-| 9 | gm | evaluated | 2898fc | 541.1 |
-| 10 | JasonWang07 | evaluated | ea0ffc | 541.0 |
+| 9 | JasonWang07 | evaluated | 611c9d | 542.0 |
+| 10 | gm | evaluated | 2898fc | 541.1 |
 | 11 | 13rabbit | evaluated | 24af86 | 540.4 |
 | 12 | ashaikh23 | evaluated | d98c0b | 539.3 |
 | 13 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
@@ -70,8 +70,8 @@ Last updated: `April 05, 2026 at 12:38:02 PM ET`
 | 17 | ethanchen | evaluated | ea518d | 251.2 |
 | 18 | bl792 | evaluated | 9af784 | 226.0 |
 | 19 | 13rabbit | evaluated | 24af86 | 215.5 |
-| 20 | tuo | evaluated | 3d6d40 | 204.6 |
-| 21 | JasonWang07 | evaluated | ea0ffc | 193.0 |
+| 20 | JasonWang07 | evaluated | 611c9d | 207.5 |
+| 21 | tuo | evaluated | 3d6d40 | 204.6 |
 | 22 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 23 | ngoguen | evaluated | a5cdb8 | 169.7 |
 | 24 | alifim | evaluated | d6600e | 169.6 |
@@ -117,7 +117,7 @@ Last updated: `April 05, 2026 at 12:38:02 PM ET`
 | 19 | lipphi | evaluated | a3a71b | 104.4 |
 | 20 | sjb | evaluated | 421a78 | 128.8 |
 | 21 | tuo | evaluated | 3d6d40 | 167.8 |
-| 22 | JasonWang07 | evaluated | ea0ffc | 187.8 |
+| 22 | JasonWang07 | evaluated | 611c9d | 188.0 |
 | 23 | 13rabbit | evaluated | 24af86 | 193.8 |
 | 24 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 25 | alifim | evaluated | d6600e | 309.6 |
@@ -163,7 +163,7 @@ Last updated: `April 05, 2026 at 12:38:02 PM ET`
 | 20 | lipphi | evaluated | a3a71b | 150.9 |
 | 21 | 13rabbit | evaluated | 24af86 | 156.8 |
 | 22 | tuo | evaluated | 3d6d40 | 162.8 |
-| 23 | JasonWang07 | evaluated | ea0ffc | 181.8 |
+| 23 | JasonWang07 | evaluated | 611c9d | 180.4 |
 | 24 | your_nickname_here | evaluated | f10b9b | 246.4 |
 | 25 | ngoguen | evaluated | a5cdb8 | 249.7 |
 | 26 | alifim | evaluated | d6600e | 250.4 |

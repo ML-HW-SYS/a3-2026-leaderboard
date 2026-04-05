@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 05, 2026 at 12:38:02 PM ET`
+Last updated: `April 05, 2026 at 12:45:57 PM ET`
 
 ## Pages
 
@@ -34,7 +34,7 @@ Last updated: `April 05, 2026 at 12:38:02 PM ET`
 | 20 | sjb | evaluated | 421a78 | 43.6/5.2/48.8 | 0.741 | 526.7 | 164.0 | 128.8 | 147.1 |
 | 21 | 13rabbit | evaluated | 24af86 | 37.5/4.7/42.3 | 0.710 | 540.4 | 215.5 | 193.8 | 156.8 |
 | 22 | tuo | evaluated | 3d6d40 | 74.5/4.9/79.3 | 0.704 | 494.8 | 204.6 | 167.8 | 162.8 |
-| 23 | JasonWang07 | evaluated | ea0ffc | 51.8/5.1/56.9 | 0.671 | 541.0 | 193.0 | 187.8 | 181.8 |
+| 23 | JasonWang07 | evaluated | 611c9d | 23.9/4.9/28.8 | 0.685 | 542.0 | 207.5 | 188.0 | 180.4 |
 | 24 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
 | 25 | alifim | evaluated | d6600e | 39.4/6.2/45.6 | 0.526 | 526.6 | 169.6 | 309.6 | 250.4 |
 | 26 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 39.6/6.3/45.9 | 0.524 | 524.5 | 169.1 | 311.1 | 250.9 |
