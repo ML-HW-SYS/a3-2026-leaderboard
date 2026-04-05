@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 04, 2026 at 09:41:50 PM ET`
+Last updated: `April 04, 2026 at 09:51:58 PM ET`
 
 ## R1 (tok/s)
 
@@ -24,21 +24,22 @@ Last updated: `April 04, 2026 at 09:41:50 PM ET`
 | 16 | ethanchen | evaluated | a0d359 | 528.1 |
 | 17 | ashaikh23 | evaluated | 647265 | 526.7 |
 | 18 | bl792 | evaluated | 9af784 | 525.3 |
-| 19 | Rithvik | evaluated | 114138 | 524.6 |
-| 20 | chickfila | evaluated | a9d066 | 523.3 |
-| 21 | beratcelik | evaluated | db8d71 | 517.4 |
-| 22 | tuo | evaluated | 4274da | 507.3 |
+| 19 | chickfila | evaluated | a9d066 | 523.3 |
+| 20 | beratcelik | evaluated | db8d71 | 517.4 |
+| 21 | tuo | evaluated | 4274da | 507.3 |
 |  | alifim | failed | 49f27b |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | a777bb |  |
+|  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
+|  | leoli | failed | 1f54f4 |  |
 |  | lofiWeightsToRelaxTo_ | failed | 4c7505 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | PurplePickle67 | failed | 6a683b |  |
 |  | pyjuan91 | failed | 2c08a9 |  |
+|  | Rithvik | failed | a43cf4 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | sjb | failed | 0a90cc |  |
 |  | TheProphet | failed | 84eefa |  |
@@ -61,26 +62,27 @@ Last updated: `April 04, 2026 at 09:41:50 PM ET`
 | 11 | abarat007 | evaluated | 260fed | 276.9 |
 | 12 | gravlax | evaluated | b1229d | 272.5 |
 | 13 | happyface | evaluated | 7e8b61 | 258.2 |
-| 14 | Rithvik | evaluated | 114138 | 240.3 |
-| 15 | bl792 | evaluated | 9af784 | 226.0 |
-| 16 | chickfila | evaluated | a9d066 | 225.4 |
-| 17 | 13rabbit | evaluated | 24af86 | 215.5 |
-| 18 | tuo | evaluated | 4274da | 204.2 |
-| 19 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 20 | ashaikh23 | evaluated | 647265 | 169.6 |
-| 21 | ethanchen | evaluated | a0d359 | 169.3 |
-| 22 | beratcelik | evaluated | db8d71 | 132.6 |
+| 14 | bl792 | evaluated | 9af784 | 226.0 |
+| 15 | chickfila | evaluated | a9d066 | 225.4 |
+| 16 | 13rabbit | evaluated | 24af86 | 215.5 |
+| 17 | tuo | evaluated | 4274da | 204.2 |
+| 18 | your_nickname_here | evaluated | f10b9b | 173.1 |
+| 19 | ashaikh23 | evaluated | 647265 | 169.6 |
+| 20 | ethanchen | evaluated | a0d359 | 169.3 |
+| 21 | beratcelik | evaluated | db8d71 | 132.6 |
 |  | alifim | failed | 49f27b |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | a777bb |  |
+|  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
+|  | leoli | failed | 1f54f4 |  |
 |  | lofiWeightsToRelaxTo_ | failed | 4c7505 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | PurplePickle67 | failed | 6a683b |  |
 |  | pyjuan91 | failed | 2c08a9 |  |
+|  | Rithvik | failed | a43cf4 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | sjb | failed | 0a90cc |  |
 |  | TheProphet | failed | 84eefa |  |
@@ -104,25 +106,26 @@ Last updated: `April 04, 2026 at 09:41:50 PM ET`
 | 12 | Shengwei | evaluated | 87ccb2 | 71.5 |
 | 13 | TA | evaluated | 324cb8 | 83.2 |
 | 14 | bl792 | evaluated | 9af784 | 97.1 |
-| 15 | Rithvik | evaluated | 114138 | 101.7 |
-| 16 | lipphi | evaluated | a3a71b | 104.4 |
-| 17 | tuo | evaluated | 4274da | 167.5 |
-| 18 | 13rabbit | evaluated | 24af86 | 193.8 |
-| 19 | chickfila | evaluated | a9d066 | 269.1 |
-| 20 | ashaikh23 | evaluated | 647265 | 301.1 |
-| 21 | ethanchen | evaluated | a0d359 | 306.3 |
-| 22 | your_nickname_here | evaluated | f10b9b | 308.1 |
+| 15 | lipphi | evaluated | a3a71b | 104.4 |
+| 16 | tuo | evaluated | 4274da | 167.5 |
+| 17 | 13rabbit | evaluated | 24af86 | 193.8 |
+| 18 | chickfila | evaluated | a9d066 | 269.1 |
+| 19 | ashaikh23 | evaluated | 647265 | 301.1 |
+| 20 | ethanchen | evaluated | a0d359 | 306.3 |
+| 21 | your_nickname_here | evaluated | f10b9b | 308.1 |
 |  | alifim | failed | 49f27b |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | a777bb |  |
+|  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
+|  | leoli | failed | 1f54f4 |  |
 |  | lofiWeightsToRelaxTo_ | failed | 4c7505 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | PurplePickle67 | failed | 6a683b |  |
 |  | pyjuan91 | failed | 2c08a9 |  |
+|  | Rithvik | failed | a43cf4 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | sjb | failed | 0a90cc |  |
 |  | TheProphet | failed | 84eefa |  |
@@ -143,28 +146,29 @@ Last updated: `April 04, 2026 at 09:41:50 PM ET`
 | 9 | happyface | evaluated | 7e8b61 | 66.0 |
 | 10 | Shengwei | evaluated | 87ccb2 | 88.2 |
 | 11 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
-| 12 | Rithvik | evaluated | 114138 | 106.7 |
-| 13 | beratcelik | evaluated | db8d71 | 113.7 |
-| 14 | bl792 | evaluated | 9af784 | 131.5 |
-| 15 | TA | evaluated | 324cb8 | 131.7 |
-| 16 | lipphi | evaluated | a3a71b | 150.9 |
-| 17 | 13rabbit | evaluated | 24af86 | 156.8 |
-| 18 | tuo | evaluated | 4274da | 160.5 |
-| 19 | chickfila | evaluated | a9d066 | 190.7 |
-| 20 | ashaikh23 | evaluated | 647265 | 229.0 |
-| 21 | ethanchen | evaluated | a0d359 | 239.7 |
-| 22 | your_nickname_here | evaluated | f10b9b | 246.4 |
+| 12 | beratcelik | evaluated | db8d71 | 113.7 |
+| 13 | bl792 | evaluated | 9af784 | 131.5 |
+| 14 | TA | evaluated | 324cb8 | 131.7 |
+| 15 | lipphi | evaluated | a3a71b | 150.9 |
+| 16 | 13rabbit | evaluated | 24af86 | 156.8 |
+| 17 | tuo | evaluated | 4274da | 160.5 |
+| 18 | chickfila | evaluated | a9d066 | 190.7 |
+| 19 | ashaikh23 | evaluated | 647265 | 229.0 |
+| 20 | ethanchen | evaluated | a0d359 | 239.7 |
+| 21 | your_nickname_here | evaluated | f10b9b | 246.4 |
 |  | alifim | failed | 49f27b |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | a777bb |  |
+|  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
 |  | landrum | failed | b88426 |  |
+|  | leoli | failed | 1f54f4 |  |
 |  | lofiWeightsToRelaxTo_ | failed | 4c7505 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | PurplePickle67 | failed | 6a683b |  |
 |  | pyjuan91 | failed | 2c08a9 |  |
+|  | Rithvik | failed | a43cf4 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | sjb | failed | 0a90cc |  |
 |  | TheProphet | failed | 84eefa |  |

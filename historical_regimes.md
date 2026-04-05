@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 04, 2026 at 09:41:50 PM ET`
+Last updated: `April 04, 2026 at 09:51:58 PM ET`
 
 ## R1 (tok/s)
 
@@ -84,7 +84,7 @@ Last updated: `April 04, 2026 at 09:41:50 PM ET`
 | 14 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 70.9 |
 | 15 | TA | submission.py | 324cb8 | 83.2 |
 | 16 | bl792 | submission.py | 9af784 | 97.1 |
-| 17 | Rithvik | submission.py | 114138 | 101.7 |
+| 17 | Rithvik | submission.py | a43cf4 | 101.1 |
 | 18 | lipphi | develop.py | d58cae | 104.4 |
 | 19 | sjb | submission.py | 0a90cc | 129.0 |
 | 20 | tuo | submission.py | 92c00e | 166.9 |
@@ -111,7 +111,7 @@ Last updated: `April 04, 2026 at 09:41:50 PM ET`
 | 10 | happyface | develop.py | 0aca52 | 65.7 |
 | 11 | Shengwei | submission.py | 077330 | 84.1 |
 | 12 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 89.2 |
-| 13 | Rithvik | submission.py | 114138 | 106.7 |
+| 13 | Rithvik | submission.py | a43cf4 | 106.0 |
 | 14 | chickfila | develop.py | a9d066 | 109.0 |
 | 15 | beratcelik | submission.py | 20645a | 112.8 |
 | 16 | bl792 | develop.py | 9af784 | 130.8 |

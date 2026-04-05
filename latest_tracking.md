@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 04, 2026 at 09:41:50 PM ET`
+Last updated: `April 04, 2026 at 09:51:58 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 04 09:48 PM ET | Rithvik | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | a43cf4 | 19.5/3.9/23.4 | 524.9 | 241.3 | 101.1 | 106.0 |
+| Apr 04 09:47 PM ET | fishyfins | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 7a0977 | 20.0/5.2/25.2 | 575.5 | 244.1 | 307.4 | 244.5 |
+| Apr 04 09:46 PM ET | leoli | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 1f54f4 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 04 09:26 PM ET | alifim | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | 308818 | 28.9/6.2/35.1 | 522.1 | 169.6 | 308.6 | 246.5 |
 | Apr 04 09:04 PM ET | ishan-pat | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | develop.py | ba5068 | 36.4/3.3/39.7 | 519.2 | 218.0 | 0.0 | 0.0 |
 | Apr 04 08:58 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.77%) \| max_abs_diff=12.19 | develop.py | 84eefa | 31.4/2.6/34.0 | 560.5 | 374.5 | 24.1 | 46.6 |
@@ -55,10 +58,10 @@ Last updated: `April 04, 2026 at 09:41:50 PM ET`
 | Apr 04 09:35 AM ET | TheProphet | evaluated | Correctness: PASS \| tolerances: atol=0.200, rtol=0.100 \| fail_rate_tol: 0.05 \| global: max_abs_diff=0.1230, ref_at_ma... | submission.py | ad10e3 | 45.2/2.6/47.9 | 563.4 | 381.7 | 31.3 | 62.5 |
 | Apr 04 07:37 AM ET | TheProphet | evaluated | Correctness: PASS \| tolerances: atol=0.200, rtol=0.100 \| fail_rate_tol: 0.05 \| global: max_abs_diff=0.1230, ref_at_ma... | develop.py | e29081 | 21.9/2.6/24.6 | 566.0 | 380.6 | 32.9 | 64.4 |
 | Apr 04 07:22 AM ET | TheProphet | evaluated | Correctness: PASS \| tolerances: atol=0.200, rtol=0.100 \| fail_rate_tol: 0.05 \| global: max_abs_diff=0.1230, ref_at_ma... | submission.py | e29081 | 45.4/2.6/48.1 | 567.1 | 380.3 | 32.9 | 64.3 |
-| Apr 04 03:57 AM ET | fishyfins | failed | Correctness: PASS \| tolerances: atol=0.200, rtol=0.100 \| fail_rate_tol: 0.05 \| global: max_abs_diff=0.0000, ref_at_ma... | develop.py | a777bb | 20.1/4.0/24.0 | 592.5 | 587.9 | 309.4 | 245.9 |
-| Apr 04 03:42 AM ET | fishyfins | failed | Correctness: PASS \| tolerances: atol=0.200, rtol=0.100 \| fail_rate_tol: 0.05 \| global: max_abs_diff=0.0000, ref_at_ma... | submission.py | a777bb | 20.0/4.0/23.9 | 591.4 | 586.8 | 309.3 | 246.0 |
-| Apr 04 03:27 AM ET | fishyfins | failed | Correctness: PASS \| tolerances: atol=0.200, rtol=0.100 \| fail_rate_tol: 0.05 \| global: max_abs_diff=0.0000, ref_at_ma... | develop.py | e451db | 22.3/4.0/26.3 | 591.6 | 584.7 | 309.2 | 246.3 |
-| Apr 04 03:11 AM ET | fishyfins | failed | Correctness: PASS \| tolerances: atol=0.200, rtol=0.100 \| fail_rate_tol: 0.05 \| global: max_abs_diff=0.0000, ref_at_ma... | develop.py | f834c6 | 21.6/3.9/25.6 | 594.1 | 592.5 | 309.2 | 246.0 |
+| Apr 04 03:57 AM ET | fishyfins | violation | Correctness: PASS \| tolerances: atol=0.200, rtol=0.100 \| fail_rate_tol: 0.05 \| global: max_abs_diff=0.0000, ref_at_ma... | develop.py | a777bb | 20.1/4.0/24.0 | 592.5 | 587.9 | 309.4 | 245.9 |
+| Apr 04 03:42 AM ET | fishyfins | violation | Correctness: PASS \| tolerances: atol=0.200, rtol=0.100 \| fail_rate_tol: 0.05 \| global: max_abs_diff=0.0000, ref_at_ma... | submission.py | a777bb | 20.0/4.0/23.9 | 591.4 | 586.8 | 309.3 | 246.0 |
+| Apr 04 03:27 AM ET | fishyfins | violation | Correctness: PASS \| tolerances: atol=0.200, rtol=0.100 \| fail_rate_tol: 0.05 \| global: max_abs_diff=0.0000, ref_at_ma... | develop.py | e451db | 22.3/4.0/26.3 | 591.6 | 584.7 | 309.2 | 246.3 |
+| Apr 04 03:11 AM ET | fishyfins | violation | Correctness: PASS \| tolerances: atol=0.200, rtol=0.100 \| fail_rate_tol: 0.05 \| global: max_abs_diff=0.0000, ref_at_ma... | develop.py | f834c6 | 21.6/3.9/25.6 | 594.1 | 592.5 | 309.2 | 246.0 |
 | Apr 04 02:56 AM ET | fishyfins | evaluated | Correctness: PASS \| tolerances: atol=0.200, rtol=0.100 \| fail_rate_tol: 0.05 \| global: max_abs_diff=0.0000, ref_at_ma... | submission.py | 67ec3a | 20.9/5.2/26.1 | 580.5 | 243.0 | 309.4 | 245.9 |
 | Apr 04 02:27 AM ET | fishyfins | evaluated | Correctness: PASS \| tolerances: atol=0.200, rtol=0.100 \| fail_rate_tol: 0.05 \| global: max_abs_diff=0.0000, ref_at_ma... | develop.py | 87e789 | 19.6/5.2/24.8 | 574.6 | 243.3 | 309.4 | 246.3 |
 | Apr 04 02:12 AM ET | fishyfins | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 51:12: neg_inf = tl.full((), float("-inf"), tl.float32) m_i = neg_in... | develop.py | 0bf1a7 | 14.8/0.0/14.8 | 0.0 | 0.0 | 0.0 | 0.0 |
