@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 04, 2026 at 09:51:58 PM ET`
+Last updated: `April 04, 2026 at 10:00:21 PM ET`
 
 ## R1 (tok/s)
 
@@ -27,7 +27,7 @@ Last updated: `April 04, 2026 at 09:51:58 PM ET`
 | 19 | chickfila | evaluated | a9d066 | 523.3 |
 | 20 | beratcelik | evaluated | db8d71 | 517.4 |
 | 21 | tuo | evaluated | 4274da | 507.3 |
-|  | alifim | failed | 49f27b |  |
+|  | alifim | failed | d013b8 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -70,7 +70,7 @@ Last updated: `April 04, 2026 at 09:51:58 PM ET`
 | 19 | ashaikh23 | evaluated | 647265 | 169.6 |
 | 20 | ethanchen | evaluated | a0d359 | 169.3 |
 | 21 | beratcelik | evaluated | db8d71 | 132.6 |
-|  | alifim | failed | 49f27b |  |
+|  | alifim | failed | d013b8 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -113,7 +113,7 @@ Last updated: `April 04, 2026 at 09:51:58 PM ET`
 | 19 | ashaikh23 | evaluated | 647265 | 301.1 |
 | 20 | ethanchen | evaluated | a0d359 | 306.3 |
 | 21 | your_nickname_here | evaluated | f10b9b | 308.1 |
-|  | alifim | failed | 49f27b |  |
+|  | alifim | failed | d013b8 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |
@@ -156,7 +156,7 @@ Last updated: `April 04, 2026 at 09:51:58 PM ET`
 | 19 | ashaikh23 | evaluated | 647265 | 229.0 |
 | 20 | ethanchen | evaluated | a0d359 | 239.7 |
 | 21 | your_nickname_here | evaluated | f10b9b | 246.4 |
-|  | alifim | failed | 49f27b |  |
+|  | alifim | failed | d013b8 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | acf3d7 |  |

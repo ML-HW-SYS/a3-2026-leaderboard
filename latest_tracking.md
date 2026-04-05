@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 04, 2026 at 09:51:58 PM ET`
+Last updated: `April 04, 2026 at 10:00:21 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 04 09:57 PM ET | Rithvik | failed_security | Security policy check failed for develop.py: \| - prohibited import: importlib.util \| - prohibited import: pathlib | develop.py | a43cf4 |  |  |  |  |  |
+| Apr 04 09:56 PM ET | fishyfins | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | 7a0977 | 21.1/3.9/25.0 | 591.8 | 586.4 | 307.1 | 244.5 |
+| Apr 04 09:55 PM ET | leoli | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | 1f54f4 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 04 09:54 PM ET | alifim | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | d013b8 | 20.3/6.2/26.6 | 524.2 | 169.1 | 308.9 | 247.0 |
 | Apr 04 09:48 PM ET | Rithvik | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | a43cf4 | 19.5/3.9/23.4 | 524.9 | 241.3 | 101.1 | 106.0 |
 | Apr 04 09:47 PM ET | fishyfins | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 7a0977 | 20.0/5.2/25.2 | 575.5 | 244.1 | 307.4 | 244.5 |
 | Apr 04 09:46 PM ET | leoli | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 1f54f4 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
