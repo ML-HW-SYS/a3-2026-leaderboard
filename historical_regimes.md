@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 05, 2026 at 04:29:52 PM ET`
+Last updated: `April 05, 2026 at 04:38:09 PM ET`
 
 ## R1 (tok/s)
 
@@ -32,8 +32,8 @@ Last updated: `April 05, 2026 at 04:29:52 PM ET`
 | 24 | Rithvik | submission.py | 1a7556 | 527.1 |
 | 25 | sjb | submission.py | 421a78 | 526.7 |
 | 26 | alifim | submission.py | d6600e | 526.6 |
-| 27 | ishan-pat | submission.py | c482b3 | 525.0 |
-| 28 | beratcelik | submission.py | 6ce29b | 524.7 |
+| 27 | beratcelik | submission.py | e0df45 | 525.6 |
+| 28 | ishan-pat | submission.py | c482b3 | 525.0 |
 | 29 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
 | 30 | nicknam534534 | submission.py | 1bad48 | 524.1 |
 | 31 | hw_bloss | submission.py | 2d26da | 523.5 |
