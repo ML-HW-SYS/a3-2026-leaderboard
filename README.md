@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 05, 2026 at 12:54:33 PM ET`
+Last updated: `April 05, 2026 at 01:03:24 PM ET`
 
 ## Pages
 
@@ -40,7 +40,7 @@ Last updated: `April 05, 2026 at 12:54:33 PM ET`
 | 26 | ngoguen | evaluated | a5cdb8 | 40.8/6.2/47.0 | 0.523 | 515.9 | 169.7 | 310.3 | 249.7 |
 | 27 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
 | 28 | PurplePickle67 | evaluated | 6aebcc | 16.5/14.2/30.8 | 0.264 | 103.8 | 78.1 | 412.9 | 269.7 |
-| 29 | JasonWang07 | evaluated | ac13f5 | 43.1/27.2/70.2 | 0.236 | 43.3 | 37.0 | 188.7 | 182.3 |
+| 29 | JasonWang07 | evaluated | 0ea38a | 57.0/26.1/83.2 | 0.241 | 44.7 | 38.8 | 188.7 | 181.8 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | fishyfins | failed | 7a0977 | 20.0/5.2/25.2 |  |  |  |  |  |
 |  | ishan-pat | failed | e8adf9 | 23.6/4.1/27.7 |  |  |  |  |  |

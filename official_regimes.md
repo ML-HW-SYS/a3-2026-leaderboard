@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 12:54:33 PM ET`
+Last updated: `April 05, 2026 at 01:03:24 PM ET`
 
 ## R1 (tok/s)
 
@@ -34,7 +34,7 @@ Last updated: `April 05, 2026 at 12:54:33 PM ET`
 | 26 | tuo | evaluated | 3d6d40 | 494.8 |
 | 27 | Rithvik | evaluated | 1523b4 | 492.5 |
 | 28 | PurplePickle67 | evaluated | 6aebcc | 103.8 |
-| 29 | JasonWang07 | evaluated | ac13f5 | 43.3 |
+| 29 | JasonWang07 | evaluated | 0ea38a | 44.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | e8adf9 |  |
@@ -79,7 +79,7 @@ Last updated: `April 05, 2026 at 12:54:33 PM ET`
 | 26 | nicknam534534 | evaluated | 1bad48 | 148.4 |
 | 27 | beratcelik | evaluated | db8d71 | 132.6 |
 | 28 | PurplePickle67 | evaluated | 6aebcc | 78.1 |
-| 29 | JasonWang07 | evaluated | ac13f5 | 37.0 |
+| 29 | JasonWang07 | evaluated | 0ea38a | 38.8 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | ishan-pat | failed | e8adf9 |  |
@@ -117,7 +117,7 @@ Last updated: `April 05, 2026 at 12:54:33 PM ET`
 | 19 | lipphi | evaluated | a3a71b | 104.4 |
 | 20 | sjb | evaluated | 421a78 | 128.8 |
 | 21 | tuo | evaluated | 3d6d40 | 167.8 |
-| 22 | JasonWang07 | evaluated | ac13f5 | 188.7 |
+| 22 | JasonWang07 | evaluated | 0ea38a | 188.7 |
 | 23 | 13rabbit | evaluated | 24af86 | 193.8 |
 | 24 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 25 | alifim | evaluated | d6600e | 309.6 |
@@ -163,7 +163,7 @@ Last updated: `April 05, 2026 at 12:54:33 PM ET`
 | 20 | lipphi | evaluated | a3a71b | 150.9 |
 | 21 | 13rabbit | evaluated | 24af86 | 156.8 |
 | 22 | tuo | evaluated | 3d6d40 | 162.8 |
-| 23 | JasonWang07 | evaluated | ac13f5 | 182.3 |
+| 23 | JasonWang07 | evaluated | 0ea38a | 181.8 |
 | 24 | your_nickname_here | evaluated | f10b9b | 246.4 |
 | 25 | ngoguen | evaluated | a5cdb8 | 249.7 |
 | 26 | alifim | evaluated | d6600e | 250.4 |
