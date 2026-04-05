@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 01:38:13 PM ET`
+Last updated: `April 05, 2026 at 01:46:40 PM ET`
 
 ## R1 (tok/s)
 
@@ -16,13 +16,13 @@ Last updated: `April 05, 2026 at 01:38:13 PM ET`
 | 8 | happyface | evaluated | 7e8b61 | 543.0 |
 | 9 | gm | evaluated | 2898fc | 541.1 |
 | 10 | 13rabbit | evaluated | 24af86 | 540.4 |
-| 11 | JasonWang07 | evaluated | 79b096 | 540.1 |
-| 12 | ashaikh23 | evaluated | d98c0b | 539.3 |
-| 13 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
-| 14 | abarat007 | evaluated | 260fed | 537.5 |
-| 15 | Shengwei | evaluated | 1f8749 | 537.3 |
-| 16 | lipphi | evaluated | a3a71b | 534.8 |
-| 17 | chickfila | evaluated | 29860a | 534.6 |
+| 11 | ashaikh23 | evaluated | d98c0b | 539.3 |
+| 12 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
+| 13 | abarat007 | evaluated | 260fed | 537.5 |
+| 14 | Shengwei | evaluated | 1f8749 | 537.3 |
+| 15 | lipphi | evaluated | a3a71b | 534.8 |
+| 16 | chickfila | evaluated | 29860a | 534.6 |
+| 17 | JasonWang07 | evaluated | 23f394 | 534.2 |
 | 18 | gravlax | evaluated | b1229d | 532.3 |
 | 19 | sjb | evaluated | 421a78 | 526.7 |
 | 20 | alifim | evaluated | d6600e | 526.6 |
@@ -72,7 +72,7 @@ Last updated: `April 05, 2026 at 01:38:13 PM ET`
 | 18 | bl792 | evaluated | 9af784 | 226.0 |
 | 19 | ishan-pat | evaluated | c482b3 | 217.9 |
 | 20 | 13rabbit | evaluated | 24af86 | 215.5 |
-| 21 | JasonWang07 | evaluated | 79b096 | 207.0 |
+| 21 | JasonWang07 | evaluated | 23f394 | 206.9 |
 | 22 | tuo | evaluated | 3d6d40 | 204.6 |
 | 23 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 24 | ngoguen | evaluated | a5cdb8 | 169.7 |
@@ -120,7 +120,7 @@ Last updated: `April 05, 2026 at 01:38:13 PM ET`
 | 20 | lipphi | evaluated | a3a71b | 104.4 |
 | 21 | sjb | evaluated | 421a78 | 128.8 |
 | 22 | tuo | evaluated | 3d6d40 | 167.8 |
-| 23 | JasonWang07 | evaluated | 79b096 | 188.2 |
+| 23 | JasonWang07 | evaluated | 23f394 | 189.1 |
 | 24 | 13rabbit | evaluated | 24af86 | 193.8 |
 | 25 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 26 | alifim | evaluated | d6600e | 309.6 |
@@ -167,7 +167,7 @@ Last updated: `April 05, 2026 at 01:38:13 PM ET`
 | 21 | lipphi | evaluated | a3a71b | 150.9 |
 | 22 | 13rabbit | evaluated | 24af86 | 156.8 |
 | 23 | tuo | evaluated | 3d6d40 | 162.8 |
-| 24 | JasonWang07 | evaluated | 79b096 | 182.0 |
+| 24 | JasonWang07 | evaluated | 23f394 | 181.5 |
 | 25 | your_nickname_here | evaluated | f10b9b | 246.4 |
 | 26 | ngoguen | evaluated | a5cdb8 | 249.7 |
 | 27 | alifim | evaluated | d6600e | 250.4 |
