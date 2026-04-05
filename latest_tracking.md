@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 11:05:05 AM ET`
+Last updated: `April 05, 2026 at 11:13:04 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 11:07 AM ET | sjb | evaluated |  | develop.py | 421a78 | 24.0/5.2/29.2 | 522.6 | 163.7 | 129.3 | 148.2 |
+| Apr 05 11:06 AM ET | ngoguen | failed_compliance | Submission compliance check failed for submission.py: \| - missing required function(s): setup, run | submission.py | 5b8c6d |  |  |  |  |  |
 | Apr 05 10:59 AM ET | sjb | evaluated |  | submission.py | 421a78 | 43.6/5.2/48.8 | 526.7 | 164.0 | 128.8 | 147.1 |
 | Apr 05 10:57 AM ET | JasonWang07 | evaluated |  | develop.py | 422601 | 19.9/6.3/26.2 | 523.1 | 169.1 | 311.5 | 251.0 |
 | Apr 05 10:53 AM ET | Rithvik | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | 8e6767 | 53.7/3.2/56.8 | 490.9 | 280.7 | 26.9 | 47.8 |

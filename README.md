@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 05, 2026 at 11:05:05 AM ET`
+Last updated: `April 05, 2026 at 11:13:04 AM ET`
 
 ## Pages
 
@@ -45,7 +45,7 @@ Last updated: `April 05, 2026 at 11:05:05 AM ET`
 |  | landrum | failed | b88426 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | leoli | failed | 1f54f4 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
-|  | ngoguen | failed | 7e2d47 |  |  |  |  |  |  |
+|  | ngoguen | failed | 5b8c6d |  |  |  |  |  |  |
 |  | poppyPotatoe | failed | aa5125 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | pyjuan91 | failed | 55e076 | 21.8/7.0/28.8 |  |  |  |  |  |
 |  | Rithvik | failed | 8e6767 | 53.7/3.2/56.8 |  |  |  |  |  |
