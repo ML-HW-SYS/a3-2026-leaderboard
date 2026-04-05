@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 03:26:52 PM ET`
+Last updated: `April 05, 2026 at 03:40:46 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 03:40 PM ET | beratcelik | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | c76297 | 44.0/6.0/50.0 | 536.6 | 118.0 | 68.3 | 112.9 |
+| Apr 05 03:38 PM ET | abarat007 | evaluated |  | develop.py | d7f626 | 27.0/2.6/29.6 | 562.9 | 378.0 | 28.3 | 51.5 |
+| Apr 05 03:37 PM ET | ishan-pat | evaluated |  | submission.py | a91b85 | 23.4/4.1/27.6 | 523.9 | 217.2 | 82.0 | 115.0 |
+| Apr 05 03:33 PM ET | hw_bloss | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | 2d26da | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 05 03:25 PM ET | ishan-pat | failed_correctness | R3: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | submission.py | b731ae | 31.2/5.4/36.6 | 514.2 | 116.5 | 0.0 | 0.0 |
 | Apr 05 03:20 PM ET | sjb | failed_correctness | R1: SETUP: ERR: TorchRuntimeError: Dynamo failed to run FX node with fake tensors: call_function <built-in function g... | develop.py | 13d648 | 22.4/1.1/23.5 | 0.0 | 0.0 | 129.4 | 148.4 |
 | Apr 05 03:19 PM ET | JasonWang07 | evaluated |  | submission.py | b8fbcb | 25.5/4.8/30.4 | 557.9 | 210.4 | 187.8 | 181.6 |

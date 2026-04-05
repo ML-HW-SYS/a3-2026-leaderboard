@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 05, 2026 at 03:26:52 PM ET`
+Last updated: `April 05, 2026 at 03:40:46 PM ET`
 
 ## R1 (tok/s)
 
@@ -9,9 +9,9 @@ Last updated: `April 05, 2026 at 03:26:52 PM ET`
 | 1 | - - | submission.py | adc0f3 | 591.4 |
 | 2 | fishyfins | develop.py | 866448 | 580.7 |
 | 3 | TheProphet | submission.py | 0a9c73 | 567.2 |
-| 4 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 560.4 |
-| 5 | your_nickname_here | submission.py | 59e245 | 559.6 |
-| 6 | abarat007 | submission.py | d7f626 | 559.5 |
+| 4 | abarat007 | develop.py | d7f626 | 562.9 |
+| 5 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 560.4 |
+| 6 | your_nickname_here | submission.py | 59e245 | 559.6 |
 | 7 | JasonWang07 | submission.py | 660aec | 558.8 |
 | 8 | chyyy | submission.py | 56b321 | 557.7 |
 | 9 | prousoglou | submission.py | 570c63 | 556.7 |

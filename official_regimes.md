@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 03:26:52 PM ET`
+Last updated: `April 05, 2026 at 03:40:46 PM ET`
 
 ## R1 (tok/s)
 
@@ -29,16 +29,16 @@ Last updated: `April 05, 2026 at 03:26:52 PM ET`
 | 21 | bl792 | evaluated | 9af784 | 525.3 |
 | 22 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 524.5 |
 | 23 | nicknam534534 | evaluated | 1bad48 | 524.1 |
-| 24 | ethanchen | evaluated | ea518d | 523.7 |
-| 25 | hw_bloss | evaluated | 2d26da | 523.5 |
-| 26 | beratcelik | evaluated | db8d71 | 517.4 |
+| 24 | ishan-pat | evaluated | a91b85 | 523.9 |
+| 25 | ethanchen | evaluated | ea518d | 523.7 |
+| 26 | hw_bloss | evaluated | 2d26da | 523.5 |
 | 27 | ngoguen | evaluated | a5cdb8 | 515.9 |
 | 28 | tuo | evaluated | 3d6d40 | 494.8 |
 | 29 | Rithvik | evaluated | 1b2948 | 478.7 |
 | 30 | PurplePickle67 | evaluated | 6aebcc | 103.8 |
+|  | beratcelik | failed | c76297 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
-|  | ishan-pat | failed | b731ae |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
@@ -71,21 +71,21 @@ Last updated: `April 05, 2026 at 03:26:52 PM ET`
 | 16 | happyface | evaluated | 7e8b61 | 258.2 |
 | 17 | ethanchen | evaluated | ea518d | 251.2 |
 | 18 | bl792 | evaluated | 9af784 | 226.0 |
-| 19 | 13rabbit | evaluated | 24af86 | 215.5 |
-| 20 | JasonWang07 | evaluated | b8fbcb | 210.4 |
-| 21 | tuo | evaluated | 3d6d40 | 204.6 |
-| 22 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 23 | ngoguen | evaluated | a5cdb8 | 169.7 |
-| 24 | alifim | evaluated | d6600e | 169.6 |
-| 25 | hw_bloss | evaluated | 2d26da | 169.3 |
-| 26 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 169.1 |
-| 27 | sjb | evaluated | 421a78 | 164.0 |
-| 28 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 29 | beratcelik | evaluated | db8d71 | 132.6 |
+| 19 | ishan-pat | evaluated | a91b85 | 217.2 |
+| 20 | 13rabbit | evaluated | 24af86 | 215.5 |
+| 21 | JasonWang07 | evaluated | b8fbcb | 210.4 |
+| 22 | tuo | evaluated | 3d6d40 | 204.6 |
+| 23 | your_nickname_here | evaluated | f10b9b | 173.1 |
+| 24 | ngoguen | evaluated | a5cdb8 | 169.7 |
+| 25 | alifim | evaluated | d6600e | 169.6 |
+| 26 | hw_bloss | evaluated | 2d26da | 169.3 |
+| 27 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 169.1 |
+| 28 | sjb | evaluated | 421a78 | 164.0 |
+| 29 | nicknam534534 | evaluated | 1bad48 | 148.4 |
 | 30 | PurplePickle67 | evaluated | 6aebcc | 78.1 |
+|  | beratcelik | failed | c76297 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
-|  | ishan-pat | failed | b731ae |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
@@ -112,10 +112,10 @@ Last updated: `April 05, 2026 at 03:26:52 PM ET`
 | 10 | gravlax | evaluated | b1229d | 35.0 |
 | 11 | ashaikh23 | evaluated | d98c0b | 58.8 |
 | 12 | happyface | evaluated | 7e8b61 | 63.7 |
-| 13 | beratcelik | evaluated | db8d71 | 68.5 |
-| 14 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
-| 15 | Shengwei | evaluated | 1f8749 | 71.4 |
-| 16 | ethanchen | evaluated | ea518d | 74.4 |
+| 13 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
+| 14 | Shengwei | evaluated | 1f8749 | 71.4 |
+| 15 | ethanchen | evaluated | ea518d | 74.4 |
+| 16 | ishan-pat | evaluated | a91b85 | 82.0 |
 | 17 | TA | evaluated | a6e863 | 85.6 |
 | 18 | bl792 | evaluated | 9af784 | 97.1 |
 | 19 | lipphi | evaluated | a3a71b | 104.4 |
@@ -130,9 +130,9 @@ Last updated: `April 05, 2026 at 03:26:52 PM ET`
 | 28 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 311.1 |
 | 29 | nicknam534534 | evaluated | 1bad48 | 405.4 |
 | 30 | PurplePickle67 | evaluated | 6aebcc | 412.9 |
+|  | beratcelik | failed | c76297 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
-|  | ishan-pat | failed | b731ae |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
@@ -161,7 +161,7 @@ Last updated: `April 05, 2026 at 03:26:52 PM ET`
 | 12 | Shengwei | evaluated | 1f8749 | 88.1 |
 | 13 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
 | 14 | ashaikh23 | evaluated | d98c0b | 109.9 |
-| 15 | beratcelik | evaluated | db8d71 | 113.7 |
+| 15 | ishan-pat | evaluated | a91b85 | 115.0 |
 | 16 | ethanchen | evaluated | ea518d | 123.6 |
 | 17 | bl792 | evaluated | 9af784 | 131.5 |
 | 18 | TA | evaluated | a6e863 | 135.6 |
@@ -177,9 +177,9 @@ Last updated: `April 05, 2026 at 03:26:52 PM ET`
 | 28 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 250.9 |
 | 29 | nicknam534534 | evaluated | 1bad48 | 269.2 |
 | 30 | PurplePickle67 | evaluated | 6aebcc | 269.7 |
+|  | beratcelik | failed | c76297 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
-|  | ishan-pat | failed | b731ae |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
 |  | leoli | failed | 1f54f4 |  |
