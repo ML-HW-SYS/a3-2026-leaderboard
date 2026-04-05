@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 01:28:49 PM ET`
+Last updated: `April 05, 2026 at 01:38:13 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 01:36 PM ET | ishan-pat | evaluated |  | submission.py | c482b3 | 43.0/4.1/47.1 | 525.0 | 217.9 | 81.3 | 114.9 |
+| Apr 05 01:32 PM ET | Junyi Li | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | c31a30 | 25.5/6.1/31.6 | 525.8 | 170.0 | 301.7 | 230.1 |
+| Apr 05 01:30 PM ET | JasonWang07 | evaluated |  | develop.py | 79b096 | 23.7/4.9/28.6 | 537.6 | 207.2 | 188.8 | 181.9 |
 | Apr 05 01:24 PM ET | Junyi Li | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | c31a30 | 71.5/6.1/77.6 | 521.1 | 170.0 | 302.0 | 230.5 |
 | Apr 05 01:20 PM ET | JasonWang07 | evaluated |  | submission.py | 79b096 | 23.7/4.9/28.6 | 540.1 | 207.0 | 188.2 | 182.0 |
 | Apr 05 01:12 PM ET | JasonWang07 | evaluated |  | submission.py | bfcc48 | 23.7/4.9/28.6 | 539.3 | 207.0 | 188.0 | 182.1 |

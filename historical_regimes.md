@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 05, 2026 at 01:28:49 PM ET`
+Last updated: `April 05, 2026 at 01:38:13 PM ET`
 
 ## R1 (tok/s)
 
@@ -32,12 +32,13 @@ Last updated: `April 05, 2026 at 01:28:49 PM ET`
 | 24 | Rithvik | submission.py | 1a7556 | 527.1 |
 | 25 | sjb | submission.py | 421a78 | 526.7 |
 | 26 | alifim | submission.py | d6600e | 526.6 |
-| 27 | beratcelik | submission.py | 6ce29b | 524.7 |
-| 28 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
-| 29 | nicknam534534 | submission.py | 1bad48 | 524.1 |
-| 30 | ngoguen | submission.py | a5cdb8 | 515.9 |
-| 31 | tuo | submission.py | 4274da | 507.3 |
-| 32 | PurplePickle67 | develop.py | 6aebcc | 105.9 |
+| 27 | ishan-pat | submission.py | c482b3 | 525.0 |
+| 28 | beratcelik | submission.py | 6ce29b | 524.7 |
+| 29 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
+| 30 | nicknam534534 | submission.py | 1bad48 | 524.1 |
+| 31 | ngoguen | submission.py | a5cdb8 | 515.9 |
+| 32 | tuo | submission.py | 4274da | 507.3 |
+| 33 | PurplePickle67 | develop.py | 6aebcc | 105.9 |
 
 ## R2 (tok/s)
 
@@ -64,17 +65,18 @@ Last updated: `April 05, 2026 at 01:28:49 PM ET`
 | 19 | ethanchen | submission.py | ea518d | 251.2 |
 | 20 | fishyfins | develop.py | 87e789 | 243.3 |
 | 21 | bl792 | develop.py | 6ec673 | 228.2 |
-| 22 | 13rabbit | submission.py | 24af86 | 215.5 |
-| 23 | JasonWang07 | submission.py | 660aec | 210.0 |
-| 24 | tuo | submission.py | 3d6d40 | 204.6 |
-| 25 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 26 | beratcelik | develop.py | 6ce29b | 169.8 |
-| 27 | ngoguen | submission.py | a5cdb8 | 169.7 |
-| 28 | alifim | submission.py | d6600e | 169.6 |
-| 29 | sjb | develop.py | 2fa80d | 169.2 |
-| 30 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 169.1 |
-| 31 | nicknam534534 | submission.py | 1bad48 | 148.4 |
-| 32 | PurplePickle67 | submission.py | 6aebcc | 78.1 |
+| 22 | ishan-pat | submission.py | c482b3 | 217.9 |
+| 23 | 13rabbit | submission.py | 24af86 | 215.5 |
+| 24 | JasonWang07 | submission.py | 660aec | 210.0 |
+| 25 | tuo | submission.py | 3d6d40 | 204.6 |
+| 26 | your_nickname_here | submission.py | 59e245 | 173.4 |
+| 27 | beratcelik | develop.py | 6ce29b | 169.8 |
+| 28 | ngoguen | submission.py | a5cdb8 | 169.7 |
+| 29 | alifim | submission.py | d6600e | 169.6 |
+| 30 | sjb | develop.py | 2fa80d | 169.2 |
+| 31 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 169.1 |
+| 32 | nicknam534534 | submission.py | 1bad48 | 148.4 |
+| 33 | PurplePickle67 | submission.py | 6aebcc | 78.1 |
 
 ## R3 (ms)
 
