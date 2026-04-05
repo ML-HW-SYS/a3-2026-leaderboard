@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 05, 2026 at 04:56:01 PM ET`
+Last updated: `April 05, 2026 at 05:03:51 PM ET`
 
 ## Pages
 
@@ -22,9 +22,9 @@ Last updated: `April 05, 2026 at 04:56:01 PM ET`
 | 8 | prousoglou | evaluated | 570c63 | 18.4/2.7/21.1 | 1.565 | 556.7 | 368.2 | 34.7 | 65.3 |
 | 9 | andrasferenczy | evaluated | 9c7f53 | 37.3/3.2/40.5 | 1.486 | 539.1 | 277.2 | 31.9 | 63.7 |
 | 10 | gravlax | evaluated | b1229d | 19.9/3.2/23.1 | 1.464 | 532.3 | 272.5 | 35.0 | 59.7 |
-| 11 | JasonWang07 | evaluated | f27837 | 60.6/3.0/63.6 | 1.233 | 557.4 | 336.2 | 68.2 | 78.8 |
-| 12 | happyface | evaluated | 7e8b61 | 18.5/3.4/22.0 | 1.219 | 543.0 | 258.2 | 63.7 | 66.0 |
-| 13 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 37.2/3.1/40.3 | 1.177 | 560.4 | 326.5 | 70.9 | 89.2 |
+| 11 | happyface | evaluated | 7e8b61 | 18.5/3.4/22.0 | 1.219 | 543.0 | 258.2 | 63.7 | 66.0 |
+| 12 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 37.2/3.1/40.3 | 1.177 | 560.4 | 326.5 | 70.9 | 89.2 |
+| 13 | JasonWang07 | evaluated | cc1e54 | 22.6/3.1/25.7 | 1.176 | 555.8 | 335.1 | 71.7 | 89.9 |
 | 14 | Shengwei | evaluated | 1f8749 | 39.6/3.2/42.8 | 1.166 | 537.3 | 326.3 | 71.4 | 88.1 |
 | 15 | ashaikh23 | evaluated | d98c0b | 20.4/3.2/23.5 | 1.162 | 539.3 | 330.0 | 58.8 | 109.9 |
 | 16 | ethanchen | evaluated | ea518d | 37.9/3.8/41.7 | 0.987 | 523.7 | 251.2 | 74.4 | 123.6 |

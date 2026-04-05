@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 04:56:01 PM ET`
+Last updated: `April 05, 2026 at 05:03:51 PM ET`
 
 ## R1 (tok/s)
 
@@ -10,9 +10,9 @@ Last updated: `April 05, 2026 at 04:56:01 PM ET`
 | 2 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 560.4 |
 | 3 | abarat007 | evaluated | d7f626 | 559.5 |
 | 4 | your_nickname_here | evaluated | f10b9b | 557.8 |
-| 5 | JasonWang07 | evaluated | f27837 | 557.4 |
-| 6 | prousoglou | evaluated | 570c63 | 556.7 |
-| 7 | TA | evaluated | a6e863 | 556.6 |
+| 5 | prousoglou | evaluated | 570c63 | 556.7 |
+| 6 | TA | evaluated | a6e863 | 556.6 |
+| 7 | JasonWang07 | evaluated | cc1e54 | 555.8 |
 | 8 | chyyy | evaluated | 34cc06 | 555.7 |
 | 9 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
 | 10 | happyface | evaluated | 7e8b61 | 543.0 |
@@ -60,7 +60,7 @@ Last updated: `April 05, 2026 at 04:56:01 PM ET`
 | 4 | abarat007 | evaluated | d7f626 | 378.6 |
 | 5 | prousoglou | evaluated | 570c63 | 368.2 |
 | 6 | gm | evaluated | 2898fc | 357.0 |
-| 7 | JasonWang07 | evaluated | f27837 | 336.2 |
+| 7 | JasonWang07 | evaluated | cc1e54 | 335.1 |
 | 8 | nickname55555555 | evaluated | 99ddc2 | 334.1 |
 | 9 | ashaikh23 | evaluated | d98c0b | 330.0 |
 | 10 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
@@ -115,9 +115,9 @@ Last updated: `April 05, 2026 at 04:56:01 PM ET`
 | 11 | ashaikh23 | evaluated | d98c0b | 58.8 |
 | 12 | happyface | evaluated | 7e8b61 | 63.7 |
 | 13 | beratcelik | evaluated | 5720e8 | 67.8 |
-| 14 | JasonWang07 | evaluated | f27837 | 68.2 |
-| 15 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
-| 16 | Shengwei | evaluated | 1f8749 | 71.4 |
+| 14 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
+| 15 | Shengwei | evaluated | 1f8749 | 71.4 |
+| 16 | JasonWang07 | evaluated | cc1e54 | 71.7 |
 | 17 | ethanchen | evaluated | ea518d | 74.4 |
 | 18 | lofiWeightsToRelaxTo_ | evaluated | a359a7 | 74.8 |
 | 19 | ishan-pat | evaluated | a91b85 | 82.0 |
@@ -161,9 +161,9 @@ Last updated: `April 05, 2026 at 04:56:01 PM ET`
 | 9 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
 | 10 | prousoglou | evaluated | 570c63 | 65.3 |
 | 11 | happyface | evaluated | 7e8b61 | 66.0 |
-| 12 | JasonWang07 | evaluated | f27837 | 78.8 |
-| 13 | Shengwei | evaluated | 1f8749 | 88.1 |
-| 14 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
+| 12 | Shengwei | evaluated | 1f8749 | 88.1 |
+| 13 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
+| 14 | JasonWang07 | evaluated | cc1e54 | 89.9 |
 | 15 | ashaikh23 | evaluated | d98c0b | 109.9 |
 | 16 | beratcelik | evaluated | 5720e8 | 114.0 |
 | 17 | ishan-pat | evaluated | a91b85 | 115.0 |
