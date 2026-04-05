@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 11:39:51 AM ET`
+Last updated: `April 05, 2026 at 11:49:19 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 11:47 AM ET | mdavalos10 | failed_correctness | R1: SETUP: ERR: RuntimeError: Decode path requires quantized packed weights/scales (no fallback). \| R2: SETUP: ERR: U... | develop.py | a839ab | 37.2/0.0/37.2 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 05 11:45 AM ET | Rithvik | evaluated |  | submission.py | 1523b4 | 44.7/3.2/47.8 | 492.5 | 281.0 | 27.0 | 47.6 |
+| Apr 05 11:41 AM ET | JasonWang07 | evaluated |  | submission.py | 4fdfba | 21.4/5.0/26.4 | 540.6 | 207.0 | 192.2 | 194.9 |
 | Apr 05 11:33 AM ET | ngoguen | failed_security | Security policy check failed for submission.py: \| - prohibited import: develop | submission.py | 833d7f |  |  |  |  |  |
 | Apr 05 11:33 AM ET | JasonWang07 | failed_correctness | R3: SETUP: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent ... | develop.py | 0473eb | 40.3/3.4/43.8 | 541.1 | 206.7 | 0.0 | 0.0 |
 | Apr 05 11:30 AM ET | ishan-pat | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | develop.py | 58c595 | 35.7/4.1/39.8 | 524.2 | 218.2 | 81.5 | 114.3 |
