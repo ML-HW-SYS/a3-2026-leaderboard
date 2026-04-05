@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 11:49:19 AM ET`
+Last updated: `April 05, 2026 at 11:57:10 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 11:50 AM ET | ngoguen | failed_compliance | Submission compliance check failed for submission.py: \| - non-allowed external import: baselines.baseline5_custom_att... | submission.py | d0c8f1 |  |  |  |  |  |
+| Apr 05 11:50 AM ET | JasonWang07 | evaluated |  | develop.py | 4fdfba | 19.8/5.0/24.8 | 539.2 | 207.4 | 191.1 | 193.5 |
 | Apr 05 11:47 AM ET | mdavalos10 | failed_correctness | R1: SETUP: ERR: RuntimeError: Decode path requires quantized packed weights/scales (no fallback). \| R2: SETUP: ERR: U... | develop.py | a839ab | 37.2/0.0/37.2 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 05 11:45 AM ET | Rithvik | evaluated |  | submission.py | 1523b4 | 44.7/3.2/47.8 | 492.5 | 281.0 | 27.0 | 47.6 |
 | Apr 05 11:41 AM ET | JasonWang07 | evaluated |  | submission.py | 4fdfba | 21.4/5.0/26.4 | 540.6 | 207.0 | 192.2 | 194.9 |
