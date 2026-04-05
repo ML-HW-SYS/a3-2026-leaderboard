@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 10:31:35 AM ET`
+Last updated: `April 05, 2026 at 10:39:45 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 10:32 AM ET | ethanchen | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | 7b4b7c | 39.0/6.2/45.2 | 526.5 | 170.1 | 307.4 | 245.7 |
 | Apr 05 10:17 AM ET | ethanchen | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | bf6f9e | 19.2/3.8/23.0 | 526.8 | 252.9 | 74.0 | 123.0 |
 | Apr 05 02:14 AM ET | fishyfins | evaluated |  | develop.py | f68406 | 19.9/6.3/26.1 | 523.5 | 169.1 | 310.9 | 250.8 |
 | Apr 05 02:06 AM ET | fishyfins | failed_correctness | R1: SETUP: ERR: Unsupported: Length mismatch when unpacking object for UNPACK_SEQUENCE Explanation: SizeVariable(leng... | develop.py | efcd8d | 16.6/2.2/18.9 | 0.0 | 0.0 | 310.6 | 250.8 |
