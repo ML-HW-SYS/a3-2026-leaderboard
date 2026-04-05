@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 04, 2026 at 10:41:33 PM ET`
+Last updated: `April 04, 2026 at 10:49:27 PM ET`
 
 ## Pages
 
@@ -44,7 +44,7 @@ Last updated: `April 04, 2026 at 10:41:33 PM ET`
 |  | ngoguen | failed | 7e2d47 |  |  |  |  |  |  |
 |  | poppyPotatoe | failed | aa5125 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | PurplePickle67 | failed | 6a683b |  |  |  |  |  |  |
-|  | pyjuan91 | failed | 2c08a9 | 22.0/7.1/29.2 |  |  |  |  |  |
+|  | pyjuan91 | failed | 55e076 | 21.8/7.0/28.8 |  |  |  |  |  |
 |  | Rithvik | failed | a43cf4 | 19.5/3.9/23.4 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | sjb | failed | 0a90cc | 41.2/5.2/46.4 |  |  |  |  |  |

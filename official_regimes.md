@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 04, 2026 at 10:41:33 PM ET`
+Last updated: `April 04, 2026 at 10:49:27 PM ET`
 
 ## R1 (tok/s)
 
@@ -38,7 +38,7 @@ Last updated: `April 04, 2026 at 10:41:33 PM ET`
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | PurplePickle67 | failed | 6a683b |  |
-|  | pyjuan91 | failed | 2c08a9 |  |
+|  | pyjuan91 | failed | 55e076 |  |
 |  | Rithvik | failed | a43cf4 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | sjb | failed | 0a90cc |  |
@@ -81,7 +81,7 @@ Last updated: `April 04, 2026 at 10:41:33 PM ET`
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | PurplePickle67 | failed | 6a683b |  |
-|  | pyjuan91 | failed | 2c08a9 |  |
+|  | pyjuan91 | failed | 55e076 |  |
 |  | Rithvik | failed | a43cf4 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | sjb | failed | 0a90cc |  |
@@ -124,7 +124,7 @@ Last updated: `April 04, 2026 at 10:41:33 PM ET`
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | PurplePickle67 | failed | 6a683b |  |
-|  | pyjuan91 | failed | 2c08a9 |  |
+|  | pyjuan91 | failed | 55e076 |  |
 |  | Rithvik | failed | a43cf4 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | sjb | failed | 0a90cc |  |
@@ -167,7 +167,7 @@ Last updated: `April 04, 2026 at 10:41:33 PM ET`
 |  | ngoguen | failed | 7e2d47 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | PurplePickle67 | failed | 6a683b |  |
-|  | pyjuan91 | failed | 2c08a9 |  |
+|  | pyjuan91 | failed | 55e076 |  |
 |  | Rithvik | failed | a43cf4 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | sjb | failed | 0a90cc |  |
