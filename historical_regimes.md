@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 05, 2026 at 12:21:35 PM ET`
+Last updated: `April 05, 2026 at 12:29:58 PM ET`
 
 ## R1 (tok/s)
 
@@ -103,7 +103,7 @@ Last updated: `April 05, 2026 at 12:21:35 PM ET`
 | 21 | lipphi | develop.py | d58cae | 104.4 |
 | 22 | sjb | submission.py | 421a78 | 128.8 |
 | 23 | tuo | submission.py | 92c00e | 166.9 |
-| 24 | JasonWang07 | develop.py | 4fdfba | 191.1 |
+| 24 | JasonWang07 | submission.py | ea0ffc | 187.8 |
 | 25 | 13rabbit | submission.py | 24af86 | 193.8 |
 | 26 | pyjuan91 | develop.py | 268544 | 303.2 |
 | 27 | fishyfins | develop.py | d3139f | 307.2 |
@@ -142,7 +142,7 @@ Last updated: `April 05, 2026 at 12:21:35 PM ET`
 | 22 | lipphi | submission.py | a3a71b | 150.9 |
 | 23 | 13rabbit | submission.py | 24af86 | 156.8 |
 | 24 | tuo | submission.py | 4274da | 160.5 |
-| 25 | JasonWang07 | submission.py | c05a99 | 193.3 |
+| 25 | JasonWang07 | submission.py | ea0ffc | 181.8 |
 | 26 | pyjuan91 | develop.py | 268544 | 234.1 |
 | 27 | fishyfins | develop.py | d3139f | 244.4 |
 | 28 | your_nickname_here | submission.py | 59e245 | 245.7 |
