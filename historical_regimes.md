@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 05, 2026 at 10:56:20 AM ET`
+Last updated: `April 05, 2026 at 11:05:05 AM ET`
 
 ## R1 (tok/s)
 
@@ -29,12 +29,12 @@ Last updated: `April 05, 2026 at 10:56:20 AM ET`
 | 21 | bl792 | submission.py | 3b3a8a | 528.5 |
 | 22 | ethanchen | submission.py | a0d359 | 528.1 |
 | 23 | Rithvik | submission.py | 1a7556 | 527.1 |
-| 24 | alifim | submission.py | d6600e | 526.6 |
-| 25 | beratcelik | submission.py | 6ce29b | 524.7 |
-| 26 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
-| 27 | nicknam534534 | submission.py | 1bad48 | 524.1 |
-| 28 | JasonWang07 | submission.py | 422601 | 523.8 |
-| 29 | sjb | develop.py | 2fa80d | 518.7 |
+| 24 | sjb | submission.py | 421a78 | 526.7 |
+| 25 | alifim | submission.py | d6600e | 526.6 |
+| 26 | beratcelik | submission.py | 6ce29b | 524.7 |
+| 27 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
+| 28 | nicknam534534 | submission.py | 1bad48 | 524.1 |
+| 29 | JasonWang07 | submission.py | 422601 | 523.8 |
 | 30 | tuo | submission.py | 4274da | 507.3 |
 | 31 | PurplePickle67 | develop.py | 6aebcc | 105.9 |
 
@@ -98,7 +98,7 @@ Last updated: `April 05, 2026 at 10:56:20 AM ET`
 | 18 | TA | submission.py | 324cb8 | 83.2 |
 | 19 | bl792 | submission.py | 9af784 | 97.1 |
 | 20 | lipphi | develop.py | d58cae | 104.4 |
-| 21 | sjb | submission.py | 0a90cc | 129.0 |
+| 21 | sjb | submission.py | 421a78 | 128.8 |
 | 22 | tuo | submission.py | 92c00e | 166.9 |
 | 23 | 13rabbit | submission.py | 24af86 | 193.8 |
 | 24 | pyjuan91 | develop.py | 268544 | 303.2 |
@@ -133,7 +133,7 @@ Last updated: `April 05, 2026 at 10:56:20 AM ET`
 | 17 | ethanchen | submission.py | bf6f9e | 123.0 |
 | 18 | bl792 | develop.py | 9af784 | 130.8 |
 | 19 | TA | submission.py | 324cb8 | 131.7 |
-| 20 | sjb | submission.py | 0a90cc | 147.4 |
+| 20 | sjb | submission.py | 421a78 | 147.1 |
 | 21 | lipphi | submission.py | a3a71b | 150.9 |
 | 22 | 13rabbit | submission.py | 24af86 | 156.8 |
 | 23 | tuo | submission.py | 4274da | 160.5 |

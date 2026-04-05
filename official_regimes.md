@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 10:56:20 AM ET`
+Last updated: `April 05, 2026 at 11:05:05 AM ET`
 
 ## R1 (tok/s)
 
@@ -23,14 +23,15 @@ Last updated: `April 05, 2026 at 10:56:20 AM ET`
 | 15 | lipphi | evaluated | a3a71b | 534.8 |
 | 16 | chickfila | evaluated | 29860a | 534.6 |
 | 17 | gravlax | evaluated | b1229d | 532.3 |
-| 18 | alifim | evaluated | d6600e | 526.6 |
-| 19 | bl792 | evaluated | 9af784 | 525.3 |
-| 20 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 524.5 |
-| 21 | nicknam534534 | evaluated | 1bad48 | 524.1 |
-| 22 | JasonWang07 | evaluated | 422601 | 523.8 |
-| 23 | beratcelik | evaluated | db8d71 | 517.4 |
-| 24 | tuo | evaluated | 3d6d40 | 494.8 |
-| 25 | PurplePickle67 | evaluated | 6aebcc | 103.8 |
+| 18 | sjb | evaluated | 421a78 | 526.7 |
+| 19 | alifim | evaluated | d6600e | 526.6 |
+| 20 | bl792 | evaluated | 9af784 | 525.3 |
+| 21 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 524.5 |
+| 22 | nicknam534534 | evaluated | 1bad48 | 524.1 |
+| 23 | JasonWang07 | evaluated | 422601 | 523.8 |
+| 24 | beratcelik | evaluated | db8d71 | 517.4 |
+| 25 | tuo | evaluated | 3d6d40 | 494.8 |
+| 26 | PurplePickle67 | evaluated | 6aebcc | 103.8 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ethanchen | failed | bf6f9e |  |
 |  | fishyfins | failed | 7a0977 |  |
@@ -43,7 +44,6 @@ Last updated: `April 05, 2026 at 10:56:20 AM ET`
 |  | pyjuan91 | failed | 55e076 |  |
 |  | Rithvik | failed | 8e6767 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | sjb | failed | 0a90cc |  |
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
 
@@ -73,9 +73,10 @@ Last updated: `April 05, 2026 at 10:56:20 AM ET`
 | 20 | JasonWang07 | evaluated | 422601 | 170.0 |
 | 21 | alifim | evaluated | d6600e | 169.6 |
 | 22 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 169.1 |
-| 23 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 24 | beratcelik | evaluated | db8d71 | 132.6 |
-| 25 | PurplePickle67 | evaluated | 6aebcc | 78.1 |
+| 23 | sjb | evaluated | 421a78 | 164.0 |
+| 24 | nicknam534534 | evaluated | 1bad48 | 148.4 |
+| 25 | beratcelik | evaluated | db8d71 | 132.6 |
+| 26 | PurplePickle67 | evaluated | 6aebcc | 78.1 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ethanchen | failed | bf6f9e |  |
 |  | fishyfins | failed | 7a0977 |  |
@@ -88,7 +89,6 @@ Last updated: `April 05, 2026 at 10:56:20 AM ET`
 |  | pyjuan91 | failed | 55e076 |  |
 |  | Rithvik | failed | 8e6767 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | sjb | failed | 0a90cc |  |
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
 
@@ -113,14 +113,15 @@ Last updated: `April 05, 2026 at 10:56:20 AM ET`
 | 15 | TA | evaluated | a6e863 | 85.6 |
 | 16 | bl792 | evaluated | 9af784 | 97.1 |
 | 17 | lipphi | evaluated | a3a71b | 104.4 |
-| 18 | tuo | evaluated | 3d6d40 | 167.8 |
-| 19 | 13rabbit | evaluated | 24af86 | 193.8 |
-| 20 | your_nickname_here | evaluated | f10b9b | 308.1 |
-| 21 | JasonWang07 | evaluated | 422601 | 308.9 |
-| 22 | alifim | evaluated | d6600e | 309.6 |
-| 23 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 311.1 |
-| 24 | nicknam534534 | evaluated | 1bad48 | 405.4 |
-| 25 | PurplePickle67 | evaluated | 6aebcc | 412.9 |
+| 18 | sjb | evaluated | 421a78 | 128.8 |
+| 19 | tuo | evaluated | 3d6d40 | 167.8 |
+| 20 | 13rabbit | evaluated | 24af86 | 193.8 |
+| 21 | your_nickname_here | evaluated | f10b9b | 308.1 |
+| 22 | JasonWang07 | evaluated | 422601 | 308.9 |
+| 23 | alifim | evaluated | d6600e | 309.6 |
+| 24 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 311.1 |
+| 25 | nicknam534534 | evaluated | 1bad48 | 405.4 |
+| 26 | PurplePickle67 | evaluated | 6aebcc | 412.9 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ethanchen | failed | bf6f9e |  |
 |  | fishyfins | failed | 7a0977 |  |
@@ -133,7 +134,6 @@ Last updated: `April 05, 2026 at 10:56:20 AM ET`
 |  | pyjuan91 | failed | 55e076 |  |
 |  | Rithvik | failed | 8e6767 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | sjb | failed | 0a90cc |  |
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
 
@@ -157,15 +157,16 @@ Last updated: `April 05, 2026 at 10:56:20 AM ET`
 | 14 | beratcelik | evaluated | db8d71 | 113.7 |
 | 15 | bl792 | evaluated | 9af784 | 131.5 |
 | 16 | TA | evaluated | a6e863 | 135.6 |
-| 17 | lipphi | evaluated | a3a71b | 150.9 |
-| 18 | 13rabbit | evaluated | 24af86 | 156.8 |
-| 19 | tuo | evaluated | 3d6d40 | 162.8 |
-| 20 | your_nickname_here | evaluated | f10b9b | 246.4 |
-| 21 | JasonWang07 | evaluated | 422601 | 248.6 |
-| 22 | alifim | evaluated | d6600e | 250.4 |
-| 23 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 250.9 |
-| 24 | nicknam534534 | evaluated | 1bad48 | 269.2 |
-| 25 | PurplePickle67 | evaluated | 6aebcc | 269.7 |
+| 17 | sjb | evaluated | 421a78 | 147.1 |
+| 18 | lipphi | evaluated | a3a71b | 150.9 |
+| 19 | 13rabbit | evaluated | 24af86 | 156.8 |
+| 20 | tuo | evaluated | 3d6d40 | 162.8 |
+| 21 | your_nickname_here | evaluated | f10b9b | 246.4 |
+| 22 | JasonWang07 | evaluated | 422601 | 248.6 |
+| 23 | alifim | evaluated | d6600e | 250.4 |
+| 24 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 250.9 |
+| 25 | nicknam534534 | evaluated | 1bad48 | 269.2 |
+| 26 | PurplePickle67 | evaluated | 6aebcc | 269.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ethanchen | failed | bf6f9e |  |
 |  | fishyfins | failed | 7a0977 |  |
@@ -178,6 +179,5 @@ Last updated: `April 05, 2026 at 10:56:20 AM ET`
 |  | pyjuan91 | failed | 55e076 |  |
 |  | Rithvik | failed | 8e6767 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | sjb | failed | 0a90cc |  |
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |

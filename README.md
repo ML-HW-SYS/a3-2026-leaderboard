@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 05, 2026 at 10:56:20 AM ET`
+Last updated: `April 05, 2026 at 11:05:05 AM ET`
 
 ## Pages
 
@@ -29,14 +29,15 @@ Last updated: `April 05, 2026 at 10:56:20 AM ET`
 | 15 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
 | 16 | bl792 | evaluated | 9af784 | 18.9/4.2/23.0 | 0.886 | 525.3 | 226.0 | 97.1 | 131.5 |
 | 17 | beratcelik | evaluated | db8d71 | 46.5/5.6/52.1 | 0.874 | 517.4 | 132.6 | 68.5 | 113.7 |
-| 18 | 13rabbit | evaluated | 24af86 | 37.5/4.7/42.3 | 0.710 | 540.4 | 215.5 | 193.8 | 156.8 |
-| 19 | tuo | evaluated | 3d6d40 | 74.5/4.9/79.3 | 0.704 | 494.8 | 204.6 | 167.8 | 162.8 |
-| 20 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
-| 21 | JasonWang07 | evaluated | 422601 | 40.1/6.2/46.3 | 0.526 | 523.8 | 170.0 | 308.9 | 248.6 |
-| 22 | alifim | evaluated | d6600e | 39.4/6.2/45.6 | 0.526 | 526.6 | 169.6 | 309.6 | 250.4 |
-| 23 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 39.6/6.3/45.9 | 0.524 | 524.5 | 169.1 | 311.1 | 250.9 |
-| 24 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
-| 25 | PurplePickle67 | evaluated | 6aebcc | 16.5/14.2/30.8 | 0.264 | 103.8 | 78.1 | 412.9 | 269.7 |
+| 18 | sjb | evaluated | 421a78 | 43.6/5.2/48.8 | 0.741 | 526.7 | 164.0 | 128.8 | 147.1 |
+| 19 | 13rabbit | evaluated | 24af86 | 37.5/4.7/42.3 | 0.710 | 540.4 | 215.5 | 193.8 | 156.8 |
+| 20 | tuo | evaluated | 3d6d40 | 74.5/4.9/79.3 | 0.704 | 494.8 | 204.6 | 167.8 | 162.8 |
+| 21 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
+| 22 | JasonWang07 | evaluated | 422601 | 40.1/6.2/46.3 | 0.526 | 523.8 | 170.0 | 308.9 | 248.6 |
+| 23 | alifim | evaluated | d6600e | 39.4/6.2/45.6 | 0.526 | 526.6 | 169.6 | 309.6 | 250.4 |
+| 24 | lofiWeightsToRelaxTo_ | evaluated | 48a97e | 39.6/6.3/45.9 | 0.524 | 524.5 | 169.1 | 311.1 | 250.9 |
+| 25 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
+| 26 | PurplePickle67 | evaluated | 6aebcc | 16.5/14.2/30.8 | 0.264 | 103.8 | 78.1 | 412.9 | 269.7 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | ethanchen | failed | bf6f9e | 19.2/3.8/23.0 |  |  |  |  |  |
 |  | fishyfins | failed | 7a0977 | 20.0/5.2/25.2 |  |  |  |  |  |
@@ -49,7 +50,6 @@ Last updated: `April 05, 2026 at 10:56:20 AM ET`
 |  | pyjuan91 | failed | 55e076 | 21.8/7.0/28.8 |  |  |  |  |  |
 |  | Rithvik | failed | 8e6767 | 53.7/3.2/56.8 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | sjb | failed | 0a90cc | 41.2/5.2/46.4 |  |  |  |  |  |
 |  | TheProphet | failed | 84eefa | 82.6/2.6/85.2 |  |  |  |  |  |
 |  | yb | failed | 8ca88e | 0.0/0.0/0.0 |  |  |  |  |  |
 

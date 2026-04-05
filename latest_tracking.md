@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 10:56:20 AM ET`
+Last updated: `April 05, 2026 at 11:05:05 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 10:59 AM ET | sjb | evaluated |  | submission.py | 421a78 | 43.6/5.2/48.8 | 526.7 | 164.0 | 128.8 | 147.1 |
+| Apr 05 10:57 AM ET | JasonWang07 | evaluated |  | develop.py | 422601 | 19.9/6.3/26.2 | 523.1 | 169.1 | 311.5 | 251.0 |
 | Apr 05 10:53 AM ET | Rithvik | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | 8e6767 | 53.7/3.2/56.8 | 490.9 | 280.7 | 26.9 | 47.8 |
 | Apr 05 10:48 AM ET | JasonWang07 | evaluated |  | submission.py | 422601 | 40.1/6.2/46.3 | 523.8 | 170.0 | 308.9 | 248.6 |
 | Apr 05 10:32 AM ET | ethanchen | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | 7b4b7c | 39.0/6.2/45.2 | 526.5 | 170.1 | 307.4 | 245.7 |
