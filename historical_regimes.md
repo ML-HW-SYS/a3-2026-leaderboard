@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 05:25:55 AM ET`
+Last updated: `April 06, 2026 at 05:34:03 AM ET`
 
 ## R1 (tok/s)
 
@@ -68,21 +68,21 @@ Last updated: `April 06, 2026 at 05:25:55 AM ET`
 | 19 | gravlax | develop.py | b1229d | 273.0 |
 | 20 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
 | 21 | happyface | develop.py | 0aca52 | 259.4 |
-| 22 | pyjuan91 | submission.py | 7ff296 | 256.3 |
-| 23 | ethanchen | submission.py | ea518d | 251.2 |
-| 24 | fishyfins | develop.py | 87e789 | 243.3 |
-| 25 | bl792 | develop.py | 743b6d | 234.8 |
-| 26 | ishan-pat | submission.py | 79d328 | 218.1 |
-| 27 | 13rabbit | submission.py | 24af86 | 215.5 |
-| 28 | tuo | submission.py | 3d6d40 | 204.6 |
-| 29 | sjb | submission.py | 78ddc4 | 192.0 |
-| 30 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 31 | PurplePickle67 | submission.py | 231258 | 172.1 |
-| 32 | abhik | submission.py | 575817 | 170.3 |
-| 33 | ngoguen | submission.py | a5cdb8 | 169.7 |
-| 34 | hw_bloss | submission.py | 2d26da | 169.3 |
-| 35 | nicknam534534 | submission.py | 1bad48 | 148.4 |
-| 36 | zhumengzhiren | submission.py | ace192 | 117.5 |
+| 22 | zhumengzhiren | submission.py | a04955 | 256.9 |
+| 23 | pyjuan91 | submission.py | 7ff296 | 256.3 |
+| 24 | ethanchen | submission.py | ea518d | 251.2 |
+| 25 | fishyfins | develop.py | 87e789 | 243.3 |
+| 26 | bl792 | develop.py | 743b6d | 234.8 |
+| 27 | ishan-pat | submission.py | 79d328 | 218.1 |
+| 28 | 13rabbit | submission.py | 24af86 | 215.5 |
+| 29 | tuo | submission.py | 3d6d40 | 204.6 |
+| 30 | sjb | submission.py | 78ddc4 | 192.0 |
+| 31 | your_nickname_here | submission.py | 59e245 | 173.4 |
+| 32 | PurplePickle67 | submission.py | 231258 | 172.1 |
+| 33 | abhik | submission.py | 575817 | 170.3 |
+| 34 | ngoguen | submission.py | a5cdb8 | 169.7 |
+| 35 | hw_bloss | submission.py | 2d26da | 169.3 |
+| 36 | nicknam534534 | submission.py | 1bad48 | 148.4 |
 
 ## R3 (ms)
 

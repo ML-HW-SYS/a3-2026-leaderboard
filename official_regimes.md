@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 05:25:55 AM ET`
+Last updated: `April 06, 2026 at 05:34:03 AM ET`
 
 ## R1 (tok/s)
 
@@ -37,7 +37,7 @@ Last updated: `April 06, 2026 at 05:25:55 AM ET`
 | 29 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
 | 30 | tuo | evaluated | 3d6d40 | 494.8 |
 | 31 | Rithvik | evaluated | 1b2948 | 478.7 |
-| 32 | zhumengzhiren | evaluated | ace192 | 340.3 |
+| 32 | zhumengzhiren | evaluated | a04955 | 343.2 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
@@ -78,19 +78,19 @@ Last updated: `April 06, 2026 at 05:25:55 AM ET`
 | 17 | gravlax | evaluated | b1229d | 272.5 |
 | 18 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
 | 19 | happyface | evaluated | 7e8b61 | 258.2 |
-| 20 | ethanchen | evaluated | ea518d | 251.2 |
-| 21 | bl792 | evaluated | 743b6d | 234.0 |
-| 22 | ishan-pat | evaluated | 79d328 | 218.1 |
-| 23 | 13rabbit | evaluated | 24af86 | 215.5 |
-| 24 | tuo | evaluated | 3d6d40 | 204.6 |
-| 25 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 26 | abhik | evaluated | 575817 | 170.3 |
-| 27 | ngoguen | evaluated | a5cdb8 | 169.7 |
-| 28 | hw_bloss | evaluated | 2d26da | 169.3 |
-| 29 | fishyfins | evaluated | 2ac776 | 168.7 |
-| 30 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 31 | beratcelik | evaluated | 80b48f | 132.8 |
-| 32 | zhumengzhiren | evaluated | ace192 | 117.5 |
+| 20 | zhumengzhiren | evaluated | a04955 | 256.9 |
+| 21 | ethanchen | evaluated | ea518d | 251.2 |
+| 22 | bl792 | evaluated | 743b6d | 234.0 |
+| 23 | ishan-pat | evaluated | 79d328 | 218.1 |
+| 24 | 13rabbit | evaluated | 24af86 | 215.5 |
+| 25 | tuo | evaluated | 3d6d40 | 204.6 |
+| 26 | your_nickname_here | evaluated | f10b9b | 173.1 |
+| 27 | abhik | evaluated | 575817 | 170.3 |
+| 28 | ngoguen | evaluated | a5cdb8 | 169.7 |
+| 29 | hw_bloss | evaluated | 2d26da | 169.3 |
+| 30 | fishyfins | evaluated | 2ac776 | 168.7 |
+| 31 | nicknam534534 | evaluated | 1bad48 | 148.4 |
+| 32 | beratcelik | evaluated | 80b48f | 132.8 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
@@ -128,7 +128,7 @@ Last updated: `April 06, 2026 at 05:25:55 AM ET`
 | 14 | happyface | evaluated | 7e8b61 | 63.7 |
 | 15 | ishan-pat | evaluated | 79d328 | 64.1 |
 | 16 | alifim | evaluated | 701077 | 64.8 |
-| 17 | zhumengzhiren | evaluated | ace192 | 68.3 |
+| 17 | zhumengzhiren | evaluated | a04955 | 68.6 |
 | 18 | beratcelik | evaluated | 80b48f | 69.0 |
 | 19 | JasonWang07 | evaluated | 414385 | 69.4 |
 | 20 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
@@ -184,7 +184,7 @@ Last updated: `April 06, 2026 at 05:25:55 AM ET`
 | 17 | alifim | evaluated | 701077 | 109.2 |
 | 18 | ashaikh23 | evaluated | d98c0b | 109.9 |
 | 19 | ishan-pat | evaluated | 79d328 | 110.9 |
-| 20 | zhumengzhiren | evaluated | ace192 | 111.7 |
+| 20 | zhumengzhiren | evaluated | a04955 | 113.1 |
 | 21 | beratcelik | evaluated | 80b48f | 114.0 |
 | 22 | ethanchen | evaluated | ea518d | 123.6 |
 | 23 | TA | evaluated | a6e863 | 135.6 |
