@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 09:46:47 PM ET`
+Last updated: `April 05, 2026 at 09:54:48 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 09:49 PM ET | sjb | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | develop.py | b7bb1b | 32.1/3.6/35.7 | 526.4 | 191.8 | 0.0 | 0.0 |
 | Apr 05 09:41 PM ET | sjb | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | submission.py | 78ddc4 | 63.3/3.6/67.0 | 523.8 | 192.0 | 0.0 | 0.0 |
 | Apr 05 09:39 PM ET | alifim | evaluated |  | develop.py | 105a54 | 19.9/6.3/26.1 | 518.3 | 169.0 | 310.5 | 251.1 |
 | Apr 05 09:31 PM ET | alifim | evaluated |  | develop.py | fef459 | 66.1/3.0/69.1 | 538.4 | 378.9 | 65.1 | 110.3 |
