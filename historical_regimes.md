@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 05, 2026 at 08:13:57 PM ET`
+Last updated: `April 05, 2026 at 08:22:41 PM ET`
 
 ## R1 (tok/s)
 
@@ -60,21 +60,21 @@ Last updated: `April 05, 2026 at 08:13:57 PM ET`
 | 12 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 326.5 |
 | 13 | lipphi | submission.py | a3a71b | 306.7 |
 | 14 | TA | submission.py | 324cb8 | 295.5 |
-| 15 | Rithvik | submission.py | 1523b4 | 281.0 |
-| 16 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
-| 17 | gravlax | develop.py | b1229d | 273.0 |
-| 18 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
-| 19 | happyface | develop.py | 0aca52 | 259.4 |
-| 20 | pyjuan91 | submission.py | 7ff296 | 256.3 |
-| 21 | ethanchen | submission.py | ea518d | 251.2 |
-| 22 | fishyfins | develop.py | 87e789 | 243.3 |
-| 23 | bl792 | develop.py | 743b6d | 234.8 |
-| 24 | ishan-pat | submission.py | c482b3 | 217.9 |
-| 25 | 13rabbit | submission.py | 24af86 | 215.5 |
-| 26 | tuo | submission.py | 3d6d40 | 204.6 |
-| 27 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 28 | abhik | submission.py | 575817 | 170.3 |
-| 29 | beratcelik | develop.py | 6ce29b | 169.8 |
+| 15 | beratcelik | submission.py | 7c87c2 | 294.0 |
+| 16 | Rithvik | submission.py | 1523b4 | 281.0 |
+| 17 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
+| 18 | gravlax | develop.py | b1229d | 273.0 |
+| 19 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
+| 20 | happyface | develop.py | 0aca52 | 259.4 |
+| 21 | pyjuan91 | submission.py | 7ff296 | 256.3 |
+| 22 | ethanchen | submission.py | ea518d | 251.2 |
+| 23 | fishyfins | develop.py | 87e789 | 243.3 |
+| 24 | bl792 | develop.py | 743b6d | 234.8 |
+| 25 | ishan-pat | submission.py | c482b3 | 217.9 |
+| 26 | 13rabbit | submission.py | 24af86 | 215.5 |
+| 27 | tuo | submission.py | 3d6d40 | 204.6 |
+| 28 | your_nickname_here | submission.py | 59e245 | 173.4 |
+| 29 | abhik | submission.py | 575817 | 170.3 |
 | 30 | ngoguen | submission.py | a5cdb8 | 169.7 |
 | 31 | alifim | submission.py | d6600e | 169.6 |
 | 32 | hw_bloss | submission.py | 2d26da | 169.3 |
