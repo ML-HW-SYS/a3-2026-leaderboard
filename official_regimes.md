@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 10:28:02 PM ET`
+Last updated: `April 05, 2026 at 10:36:26 PM ET`
 
 ## R1 (tok/s)
 
@@ -31,12 +31,12 @@ Last updated: `April 05, 2026 at 10:28:02 PM ET`
 | 23 | ishan-pat | evaluated | a91b85 | 523.9 |
 | 24 | ethanchen | evaluated | ea518d | 523.7 |
 | 25 | hw_bloss | evaluated | 2d26da | 523.5 |
-| 26 | ngoguen | evaluated | a5cdb8 | 515.9 |
-| 27 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 28 | alifim | evaluated | fef459 | 508.7 |
-| 29 | tuo | evaluated | 3d6d40 | 494.8 |
-| 30 | Rithvik | evaluated | 1b2948 | 478.7 |
-| 31 | beratcelik | evaluated | c8c7e2 | 475.6 |
+| 26 | beratcelik | evaluated | 8f5557 | 522.3 |
+| 27 | ngoguen | evaluated | a5cdb8 | 515.9 |
+| 28 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 29 | alifim | evaluated | fef459 | 508.7 |
+| 30 | tuo | evaluated | 3d6d40 | 494.8 |
+| 31 | Rithvik | evaluated | 1b2948 | 478.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
@@ -51,7 +51,7 @@ Last updated: `April 05, 2026 at 10:28:02 PM ET`
 |  | Sulaiman Alam | failed | 326c2a |  |
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
-|  | Yize | failed | 3c8167 |  |
+|  | Yize | failed | e7b62e |  |
 
 ## R2 (tok/s)
 
@@ -87,7 +87,7 @@ Last updated: `April 05, 2026 at 10:28:02 PM ET`
 | 28 | hw_bloss | evaluated | 2d26da | 169.3 |
 | 29 | fishyfins | evaluated | 2ac776 | 168.7 |
 | 30 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 31 | beratcelik | evaluated | c8c7e2 | 88.9 |
+| 31 | beratcelik | evaluated | 8f5557 | 132.8 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
@@ -102,7 +102,7 @@ Last updated: `April 05, 2026 at 10:28:02 PM ET`
 |  | Sulaiman Alam | failed | 326c2a |  |
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
-|  | Yize | failed | 3c8167 |  |
+|  | Yize | failed | e7b62e |  |
 
 ## R3 (ms)
 
@@ -122,7 +122,7 @@ Last updated: `April 05, 2026 at 10:28:02 PM ET`
 | 12 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
 | 13 | ashaikh23 | evaluated | d98c0b | 58.8 |
 | 14 | happyface | evaluated | 7e8b61 | 63.7 |
-| 15 | beratcelik | evaluated | c8c7e2 | 68.8 |
+| 15 | beratcelik | evaluated | 8f5557 | 69.3 |
 | 16 | JasonWang07 | evaluated | 414385 | 69.4 |
 | 17 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
 | 18 | Shengwei | evaluated | 1f8749 | 71.4 |
@@ -153,7 +153,7 @@ Last updated: `April 05, 2026 at 10:28:02 PM ET`
 |  | Sulaiman Alam | failed | 326c2a |  |
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
-|  | Yize | failed | 3c8167 |  |
+|  | Yize | failed | e7b62e |  |
 
 ## R4 (ms)
 
@@ -176,7 +176,7 @@ Last updated: `April 05, 2026 at 10:28:02 PM ET`
 | 15 | Shengwei | evaluated | 1f8749 | 88.1 |
 | 16 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
 | 17 | ashaikh23 | evaluated | d98c0b | 109.9 |
-| 18 | beratcelik | evaluated | c8c7e2 | 114.0 |
+| 18 | beratcelik | evaluated | 8f5557 | 114.2 |
 | 19 | ishan-pat | evaluated | a91b85 | 115.0 |
 | 20 | ethanchen | evaluated | ea518d | 123.6 |
 | 21 | TA | evaluated | a6e863 | 135.6 |
@@ -204,4 +204,4 @@ Last updated: `April 05, 2026 at 10:28:02 PM ET`
 |  | Sulaiman Alam | failed | 326c2a |  |
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
-|  | Yize | failed | 3c8167 |  |
+|  | Yize | failed | e7b62e |  |

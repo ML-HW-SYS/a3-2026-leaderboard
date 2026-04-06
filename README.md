@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 05, 2026 at 10:28:02 PM ET`
+Last updated: `April 05, 2026 at 10:36:26 PM ET`
 
 ## Pages
 
@@ -33,7 +33,7 @@ Last updated: `April 05, 2026 at 10:28:02 PM ET`
 | 19 | TA | evaluated | a6e863 | 47.2/3.5/50.8 | 0.984 | 556.6 | 294.5 | 85.6 | 135.6 |
 | 20 | ishan-pat | evaluated | a91b85 | 23.4/4.1/27.6 | 0.946 | 523.9 | 217.2 | 82.0 | 115.0 |
 | 21 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
-| 22 | beratcelik | evaluated | c8c7e2 | 25.9/7.6/33.4 | 0.773 | 475.6 | 88.9 | 68.8 | 114.0 |
+| 22 | beratcelik | evaluated | 8f5557 | 26.0/5.6/31.5 | 0.873 | 522.3 | 132.8 | 69.3 | 114.2 |
 | 23 | 13rabbit | evaluated | 24af86 | 37.5/4.7/42.3 | 0.710 | 540.4 | 215.5 | 193.8 | 156.8 |
 | 24 | tuo | evaluated | 3d6d40 | 74.5/4.9/79.3 | 0.704 | 494.8 | 204.6 | 167.8 | 162.8 |
 | 25 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
@@ -57,7 +57,7 @@ Last updated: `April 05, 2026 at 10:28:02 PM ET`
 |  | Sulaiman Alam | failed | 326c2a | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | TheProphet | failed | 84eefa | 82.6/2.6/85.2 |  |  |  |  |  |
 |  | yb | failed | 8ca88e | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | Yize | failed | 3c8167 | 18.9/3.9/22.7 |  |  |  |  |  |
+|  | Yize | failed | e7b62e | 18.9/3.9/22.7 |  |  |  |  |  |
 
 ## Column Guide
 
