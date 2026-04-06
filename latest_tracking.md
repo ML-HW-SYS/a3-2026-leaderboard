@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 04:53:46 PM ET`
+Last updated: `April 06, 2026 at 05:04:27 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 05:03 PM ET | landrum | evaluated |  | develop.py | b8739e | 40.7/5.7/46.4 | 538.1 | 177.0 | 275.4 | 176.3 |
+| Apr 06 05:02 PM ET | ishan-pat | failed_correctness | R2: SETUP: ERR: InternalTorchDynamoError: ModuleNotFoundError: No module named 'student_submission_module' | develop.py | 1cf603 | 23.2/1.6/24.9 | 523.2 | 0.0 | 57.8 | 110.0 |
+| Apr 06 05:00 PM ET | PurplePickle67 | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 98623f | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 06 04:58 PM ET | nicknam534534 | evaluated |  | develop.py | cd4c9b | 16.0/8.6/24.6 | 183.2 | 115.8 | 210.5 | 134.6 |
 | Apr 06 04:52 PM ET | landrum | evaluated |  | develop.py | b61e15 | 38.0/5.7/43.7 | 540.9 | 177.0 | 279.0 | 188.1 |
 | Apr 06 04:51 PM ET | ishan-pat | failed_correctness | R2: SETUP: ERR: InternalTorchDynamoError: ModuleNotFoundError: No module named 'student_submission_module' | submission.py | 1cf603 | 23.3/1.6/24.9 | 524.4 | 0.0 | 57.4 | 109.2 |
 | Apr 06 04:48 PM ET | nicknam534534 | failed_correctness | R1: SETUP: ERR: RuntimeError: invalid dtype for bias - should match query's dtype \| R2: SETUP: ERR: RuntimeError: inv... | develop.py | aa71a6 | 14.9/0.0/14.9 | 0.0 | 0.0 | 0.0 | 0.0 |

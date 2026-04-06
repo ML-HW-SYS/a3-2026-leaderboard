@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 04:53:46 PM ET`
+Last updated: `April 06, 2026 at 05:04:27 PM ET`
 
 ## R1 (tok/s)
 
@@ -134,15 +134,15 @@ Last updated: `April 06, 2026 at 04:53:46 PM ET`
 | 31 | tuo | submission.py | 92c00e | 166.9 |
 | 32 | 13rabbit | submission.py | 24af86 | 193.8 |
 | 33 | Licha | submission.py | 8fdc3a | 202.7 |
-| 34 | landrum | develop.py | b61e15 | 279.0 |
-| 35 | pyjuan91 | develop.py | 268544 | 303.2 |
-| 36 | fishyfins | submission.py | 2ac776 | 305.7 |
-| 37 | abhik | submission.py | 575817 | 306.0 |
-| 38 | hw_bloss | submission.py | b2767b | 306.7 |
-| 39 | your_nickname_here | submission.py | 59e245 | 307.4 |
-| 40 | stefan | develop.py | 9a25e1 | 309.6 |
-| 41 | ngoguen | submission.py | a5cdb8 | 310.3 |
-| 42 | nicknam534534 | submission.py | 1bad48 | 405.4 |
+| 34 | nicknam534534 | develop.py | cd4c9b | 210.5 |
+| 35 | landrum | develop.py | b8739e | 275.4 |
+| 36 | pyjuan91 | develop.py | 268544 | 303.2 |
+| 37 | fishyfins | submission.py | 2ac776 | 305.7 |
+| 38 | abhik | submission.py | 575817 | 306.0 |
+| 39 | hw_bloss | submission.py | b2767b | 306.7 |
+| 40 | your_nickname_here | submission.py | 59e245 | 307.4 |
+| 41 | stefan | develop.py | 9a25e1 | 309.6 |
+| 42 | ngoguen | submission.py | a5cdb8 | 310.3 |
 | 43 | Decode_speed | submission.py | 097a6b | 412.7 |
 
 ## R4 (ms)
@@ -176,19 +176,19 @@ Last updated: `April 06, 2026 at 04:53:46 PM ET`
 | 25 | ethanchen | submission.py | bf6f9e | 123.0 |
 | 26 | Yize | submission.py | d04433 | 128.5 |
 | 27 | TA | submission.py | 324cb8 | 131.7 |
-| 28 | sjb | develop.py | c0765b | 144.5 |
-| 29 | jl | submission.py | e6ce85 | 148.1 |
-| 30 | lipphi | submission.py | a3a71b | 150.9 |
-| 31 | 13rabbit | submission.py | 24af86 | 156.8 |
-| 32 | tuo | submission.py | 4274da | 160.5 |
-| 33 | landrum | develop.py | b61e15 | 188.1 |
-| 34 | Licha | submission.py | 8fdc3a | 215.0 |
-| 35 | fishyfins | submission.py | 2ac776 | 234.0 |
-| 36 | pyjuan91 | develop.py | 268544 | 234.1 |
-| 37 | abhik | develop.py | 41a3ec | 236.3 |
-| 38 | hw_bloss | submission.py | b2767b | 237.0 |
-| 39 | your_nickname_here | submission.py | 59e245 | 245.7 |
-| 40 | stefan | develop.py | 9a25e1 | 248.5 |
-| 41 | ngoguen | submission.py | a5cdb8 | 249.7 |
-| 42 | nicknam534534 | develop.py | 1bad48 | 269.0 |
+| 28 | nicknam534534 | develop.py | cd4c9b | 134.6 |
+| 29 | sjb | develop.py | c0765b | 144.5 |
+| 30 | jl | submission.py | e6ce85 | 148.1 |
+| 31 | lipphi | submission.py | a3a71b | 150.9 |
+| 32 | 13rabbit | submission.py | 24af86 | 156.8 |
+| 33 | tuo | submission.py | 4274da | 160.5 |
+| 34 | landrum | develop.py | b8739e | 176.3 |
+| 35 | Licha | submission.py | 8fdc3a | 215.0 |
+| 36 | fishyfins | submission.py | 2ac776 | 234.0 |
+| 37 | pyjuan91 | develop.py | 268544 | 234.1 |
+| 38 | abhik | develop.py | 41a3ec | 236.3 |
+| 39 | hw_bloss | submission.py | b2767b | 237.0 |
+| 40 | your_nickname_here | submission.py | 59e245 | 245.7 |
+| 41 | stefan | develop.py | 9a25e1 | 248.5 |
+| 42 | ngoguen | submission.py | a5cdb8 | 249.7 |
 | 43 | Decode_speed | submission.py | 097a6b | 270.3 |
