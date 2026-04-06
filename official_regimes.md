@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 12:39:36 AM ET`
+Last updated: `April 06, 2026 at 12:47:41 AM ET`
 
 ## R1 (tok/s)
 
@@ -45,7 +45,7 @@ Last updated: `April 06, 2026 at 12:39:36 AM ET`
 |  | mdavalos10 | failed | b601f0 |  |
 |  | pallavi-srinivas | failed | 95ea8c |  |
 |  | poppyPotatoe | failed | aa5125 |  |
-|  | PurplePickle67 | failed | 0d7528 |  |
+|  | PurplePickle67 | failed | 931a78 |  |
 |  | pyjuan91 | failed | 55e076 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | sjb | failed | 78ddc4 |  |
@@ -97,7 +97,7 @@ Last updated: `April 06, 2026 at 12:39:36 AM ET`
 |  | mdavalos10 | failed | b601f0 |  |
 |  | pallavi-srinivas | failed | 95ea8c |  |
 |  | poppyPotatoe | failed | aa5125 |  |
-|  | PurplePickle67 | failed | 0d7528 |  |
+|  | PurplePickle67 | failed | 931a78 |  |
 |  | pyjuan91 | failed | 55e076 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | sjb | failed | 78ddc4 |  |
@@ -149,7 +149,7 @@ Last updated: `April 06, 2026 at 12:39:36 AM ET`
 |  | mdavalos10 | failed | b601f0 |  |
 |  | pallavi-srinivas | failed | 95ea8c |  |
 |  | poppyPotatoe | failed | aa5125 |  |
-|  | PurplePickle67 | failed | 0d7528 |  |
+|  | PurplePickle67 | failed | 931a78 |  |
 |  | pyjuan91 | failed | 55e076 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | sjb | failed | 78ddc4 |  |
@@ -201,7 +201,7 @@ Last updated: `April 06, 2026 at 12:39:36 AM ET`
 |  | mdavalos10 | failed | b601f0 |  |
 |  | pallavi-srinivas | failed | 95ea8c |  |
 |  | poppyPotatoe | failed | aa5125 |  |
-|  | PurplePickle67 | failed | 0d7528 |  |
+|  | PurplePickle67 | failed | 931a78 |  |
 |  | pyjuan91 | failed | 55e076 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | sjb | failed | 78ddc4 |  |
