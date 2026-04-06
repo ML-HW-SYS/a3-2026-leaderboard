@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 01:39:56 PM ET`
+Last updated: `April 06, 2026 at 01:48:05 PM ET`
 
 ## R1 (tok/s)
 
@@ -15,8 +15,8 @@ Last updated: `April 06, 2026 at 01:39:56 PM ET`
 | 7 | TA | evaluated | a6e863 | 556.6 |
 | 8 | chyyy | evaluated | 34cc06 | 555.7 |
 | 9 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
-| 10 | leoli | evaluated | 7ef4b9 | 544.9 |
-| 11 | JasonWang07 | evaluated | 414385 | 544.1 |
+| 10 | JasonWang07 | evaluated | 414385 | 544.1 |
+| 11 | leoli | evaluated | 3a3589 | 543.6 |
 | 12 | happyface | evaluated | 7e8b61 | 543.0 |
 | 13 | gm | evaluated | 2898fc | 541.1 |
 | 14 | 13rabbit | evaluated | 24af86 | 540.4 |
@@ -73,9 +73,9 @@ Last updated: `April 06, 2026 at 01:39:56 PM ET`
 | 9 | JasonWang07 | evaluated | 414385 | 336.4 |
 | 10 | Rithvik | evaluated | 2924a0 | 335.8 |
 | 11 | nickname55555555 | evaluated | 99ddc2 | 334.1 |
-| 12 | leoli | evaluated | 7ef4b9 | 326.7 |
-| 13 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
-| 14 | Shengwei | evaluated | 1f8749 | 326.3 |
+| 12 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
+| 13 | Shengwei | evaluated | 1f8749 | 326.3 |
+| 14 | leoli | evaluated | 3a3589 | 326.2 |
 | 15 | lipphi | evaluated | a3a71b | 306.7 |
 | 16 | TA | evaluated | a6e863 | 294.5 |
 | 17 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
@@ -137,8 +137,8 @@ Last updated: `April 06, 2026 at 01:39:56 PM ET`
 | 17 | alifim | evaluated | 701077 | 64.8 |
 | 18 | JasonWang07 | evaluated | 414385 | 69.4 |
 | 19 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
-| 20 | leoli | evaluated | 7ef4b9 | 71.0 |
-| 21 | Shengwei | evaluated | 1f8749 | 71.4 |
+| 20 | Shengwei | evaluated | 1f8749 | 71.4 |
+| 21 | leoli | evaluated | 3a3589 | 71.6 |
 | 22 | ethanchen | evaluated | ea518d | 74.4 |
 | 23 | TA | evaluated | a6e863 | 85.6 |
 | 24 | lipphi | evaluated | a3a71b | 104.4 |
@@ -190,8 +190,8 @@ Last updated: `April 06, 2026 at 01:39:56 PM ET`
 | 14 | happyface | evaluated | 7e8b61 | 66.0 |
 | 15 | bl792 | evaluated | 743b6d | 68.4 |
 | 16 | JasonWang07 | evaluated | 414385 | 78.4 |
-| 17 | leoli | evaluated | 7ef4b9 | 87.7 |
-| 18 | Shengwei | evaluated | 1f8749 | 88.1 |
+| 17 | Shengwei | evaluated | 1f8749 | 88.1 |
+| 18 | leoli | evaluated | 3a3589 | 88.5 |
 | 19 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
 | 20 | alifim | evaluated | 701077 | 109.2 |
 | 21 | ishan-pat | evaluated | 79d328 | 110.9 |

@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 06, 2026 at 01:39:56 PM ET`
+Last updated: `April 06, 2026 at 01:48:05 PM ET`
 
 ## Pages
 
@@ -29,7 +29,7 @@ Last updated: `April 06, 2026 at 01:39:56 PM ET`
 | 15 | happyface | evaluated | 7e8b61 | 18.5/3.4/22.0 | 1.219 | 543.0 | 258.2 | 63.7 | 66.0 |
 | 16 | alifim | evaluated | 701077 | 30.0/3.0/33.0 | 1.178 | 539.6 | 381.2 | 64.8 | 109.2 |
 | 17 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 37.2/3.1/40.3 | 1.177 | 560.4 | 326.5 | 70.9 | 89.2 |
-| 18 | leoli | evaluated | 7ef4b9 | 19.6/3.1/22.7 | 1.173 | 544.9 | 326.7 | 71.0 | 87.7 |
+| 18 | leoli | evaluated | 3a3589 | 40.5/3.2/43.7 | 1.167 | 543.6 | 326.2 | 71.6 | 88.5 |
 | 19 | Shengwei | evaluated | 1f8749 | 39.6/3.2/42.8 | 1.166 | 537.3 | 326.3 | 71.4 | 88.1 |
 | 20 | PurplePickle67 | evaluated | e7f234 | 31.1/6.6/37.7 | 1.141 | 494.2 | 98.0 | 36.5 | 52.0 |
 | 21 | ishan-pat | evaluated | 79d328 | 41.6/4.0/45.6 | 1.017 | 527.0 | 218.1 | 64.1 | 110.9 |
