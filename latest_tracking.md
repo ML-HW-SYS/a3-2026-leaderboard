@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 02:17:32 PM ET`
+Last updated: `April 06, 2026 at 02:27:25 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 02:27 PM ET | jl | evaluated |  | develop.py | e6ce85 | 19.3/3.5/22.9 | 573.9 | 312.3 | 101.9 | 148.4 |
+| Apr 06 02:24 PM ET | PurplePickle67 | evaluated |  | submission.py | 54612a | 53.3/6.7/60.0 | 487.1 | 97.6 | 36.5 | 52.4 |
+| Apr 06 02:21 PM ET | leoli | failed_correctness | R1: SETUP: ERR: RuntimeError: The expanded size of the tensor (1) must match the existing size (0) at non-singleton d... | submission.py | b92e34 | 14.6/1.6/16.2 | 0.0 | 0.0 | 217.5 | 180.1 |
+| Apr 06 02:20 PM ET | sjb | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | develop.py | 7c6e84 | 29.8/3.6/33.4 | 529.1 | 192.0 | 0.0 | 0.0 |
 | Apr 06 02:17 PM ET | jl | evaluated |  | submission.py | e6ce85 | 38.8/3.5/42.3 | 574.4 | 313.1 | 101.9 | 148.1 |
 | Apr 06 02:15 PM ET | ashaikh23 | evaluated |  | submission.py | 1ce409 | 20.2/3.2/23.4 | 536.0 | 329.5 | 59.7 | 109.7 |
 | Apr 06 02:15 PM ET | landrum | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | 18646f | 26.8/6.2/33.0 | 530.7 | 170.1 | 308.2 | 245.3 |
