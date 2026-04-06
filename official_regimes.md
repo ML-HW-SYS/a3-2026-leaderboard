@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 01:13:41 PM ET`
+Last updated: `April 06, 2026 at 01:21:44 PM ET`
 
 ## R1 (tok/s)
 
@@ -38,7 +38,7 @@ Last updated: `April 06, 2026 at 01:13:41 PM ET`
 | 30 | ngoguen | evaluated | a5cdb8 | 515.9 |
 | 31 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
 | 32 | tuo | evaluated | 3d6d40 | 494.8 |
-| 33 | PurplePickle67 | evaluated | 4b9f7b | 490.1 |
+| 33 | PurplePickle67 | evaluated | 44736c | 490.1 |
 | 34 | Rithvik | evaluated | 6ce63a | 451.7 |
 |  | beratcelik | failed | b5bc29 |  |
 |  | Decode_speed | failed | 3314ef |  |
@@ -95,7 +95,7 @@ Last updated: `April 06, 2026 at 01:13:41 PM ET`
 | 31 | hw_bloss | evaluated | 4c9666 | 169.1 |
 | 32 | fishyfins | evaluated | 2ac776 | 168.7 |
 | 33 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 34 | PurplePickle67 | evaluated | 4b9f7b | 96.8 |
+| 34 | PurplePickle67 | evaluated | 44736c | 97.2 |
 |  | beratcelik | failed | b5bc29 |  |
 |  | Decode_speed | failed | 3314ef |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -129,7 +129,7 @@ Last updated: `April 06, 2026 at 01:13:41 PM ET`
 | 9 | prousoglou | evaluated | 570c63 | 34.7 |
 | 10 | chickfila | evaluated | f0956d | 34.7 |
 | 11 | gravlax | evaluated | b1229d | 35.0 |
-| 12 | PurplePickle67 | evaluated | 4b9f7b | 36.6 |
+| 12 | PurplePickle67 | evaluated | 44736c | 36.7 |
 | 13 | bl792 | evaluated | 743b6d | 41.1 |
 | 14 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
 | 15 | ashaikh23 | evaluated | d98c0b | 58.8 |
@@ -181,7 +181,7 @@ Last updated: `April 06, 2026 at 01:13:41 PM ET`
 | 5 | chickfila | evaluated | f0956d | 49.6 |
 | 6 | zhumengzhiren | evaluated | c10f8c | 51.1 |
 | 7 | abarat007 | evaluated | d7f626 | 51.5 |
-| 8 | PurplePickle67 | evaluated | 4b9f7b | 52.4 |
+| 8 | PurplePickle67 | evaluated | 44736c | 52.1 |
 | 9 | nickname55555555 | evaluated | 99ddc2 | 53.0 |
 | 10 | gravlax | evaluated | b1229d | 59.7 |
 | 11 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 59.9 |

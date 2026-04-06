@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 01:13:41 PM ET`
+Last updated: `April 06, 2026 at 01:21:44 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 01:18 PM ET | PurplePickle67 | evaluated |  | submission.py | 44736c | 30.2/6.7/36.8 | 490.1 | 97.2 | 36.7 | 52.1 |
 | Apr 06 01:09 PM ET | leoli | evaluated |  | submission.py | 6d4d32 | 19.6/5.6/25.2 | 525.1 | 183.3 | 253.6 | 193.7 |
 | Apr 06 01:07 PM ET | hw_bloss | evaluated |  | submission.py | 4c9666 | 23.8/6.2/30.0 | 522.2 | 169.1 | 308.1 | 239.1 |
 | Apr 06 01:06 PM ET | Licha | evaluated |  | submission.py | 8fdc3a | 38.5/5.3/43.8 | 521.4 | 192.4 | 202.7 | 215.0 |
