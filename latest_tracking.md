@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 09:23:51 AM ET`
+Last updated: `April 06, 2026 at 09:34:18 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 09:31 AM ET | Rithvik | evaluated |  | submission.py | 681e7e | 26.3/3.3/29.6 | 446.4 | 280.9 | 27.1 | 48.1 |
+| Apr 06 09:27 AM ET | Sulaiman Alam | failed_correctness | Correctness FAIL \| R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | 35c109 | 43.6/5.8/49.4 | 518.6 | 197.9 | 307.2 | 240.9 |
+| Apr 06 09:26 AM ET | zhumengzhiren | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | submission.py | 23fbd6 | 79.1/2.1/81.2 | 567.5 | 482.7 | 28.3 | 0.0 |
 | Apr 06 09:19 AM ET | TheProphet | failed_compliance | Submission compliance check failed for develop.py: \| - setup(...) must have arguments exactly `(weights, scales, conf... | develop.py | 5f75e5 |  |  |  |  |  |
 | Apr 06 09:19 AM ET | stefan | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | 7fb393 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 06 09:12 AM ET | TheProphet | failed_compliance | Submission compliance check failed for submission.py: \| - setup(...) must have arguments exactly `(weights, scales, c... | submission.py | 5f75e5 |  |  |  |  |  |
