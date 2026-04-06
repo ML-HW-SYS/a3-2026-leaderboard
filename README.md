@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 06, 2026 at 12:56:39 PM ET`
+Last updated: `April 06, 2026 at 01:04:27 PM ET`
 
 ## Pages
 
@@ -44,7 +44,7 @@ Last updated: `April 06, 2026 at 12:56:39 PM ET`
 | 30 | hw_bloss | evaluated | b2767b | 60.6/6.2/66.8 | 0.533 | 523.1 | 169.8 | 306.7 | 237.0 |
 | 31 | ngoguen | evaluated | a5cdb8 | 40.8/6.2/47.0 | 0.523 | 515.9 | 169.7 | 310.3 | 249.7 |
 | 32 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
-| 33 | leoli | evaluated | 151518 | 18.4/11.6/29.9 | 0.402 | 524.9 | 62.3 | 353.3 | 235.6 |
+| 33 | leoli | evaluated | 1a672b | 14.3/9.7/24.0 | 0.356 | 164.9 | 121.6 | 351.3 | 235.8 |
 |  | beratcelik | failed | b5bc29 | 33.3/2.8/36.2 |  |  |  |  |  |
 |  | Decode_speed | failed | 3314ef | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |

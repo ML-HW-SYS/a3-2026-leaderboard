@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 12:56:39 PM ET`
+Last updated: `April 06, 2026 at 01:04:27 PM ET`
 
 ## R1 (tok/s)
 
@@ -28,17 +28,17 @@ Last updated: `April 06, 2026 at 12:56:39 PM ET`
 | 20 | chickfila | evaluated | f0956d | 534.5 |
 | 21 | gravlax | evaluated | b1229d | 532.3 |
 | 22 | ishan-pat | evaluated | 79d328 | 527.0 |
-| 23 | leoli | evaluated | 151518 | 524.9 |
-| 24 | fishyfins | evaluated | 2ac776 | 524.8 |
-| 25 | bl792 | evaluated | 743b6d | 524.5 |
-| 26 | nicknam534534 | evaluated | 1bad48 | 524.1 |
-| 27 | ethanchen | evaluated | ea518d | 523.7 |
-| 28 | hw_bloss | evaluated | b2767b | 523.1 |
-| 29 | ngoguen | evaluated | a5cdb8 | 515.9 |
-| 30 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 31 | tuo | evaluated | 3d6d40 | 494.8 |
-| 32 | PurplePickle67 | evaluated | 4b9f7b | 490.1 |
-| 33 | Rithvik | evaluated | 6ce63a | 451.7 |
+| 23 | fishyfins | evaluated | 2ac776 | 524.8 |
+| 24 | bl792 | evaluated | 743b6d | 524.5 |
+| 25 | nicknam534534 | evaluated | 1bad48 | 524.1 |
+| 26 | ethanchen | evaluated | ea518d | 523.7 |
+| 27 | hw_bloss | evaluated | b2767b | 523.1 |
+| 28 | ngoguen | evaluated | a5cdb8 | 515.9 |
+| 29 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 30 | tuo | evaluated | 3d6d40 | 494.8 |
+| 31 | PurplePickle67 | evaluated | 4b9f7b | 490.1 |
+| 32 | Rithvik | evaluated | 6ce63a | 451.7 |
+| 33 | leoli | evaluated | 1a672b | 164.9 |
 |  | beratcelik | failed | b5bc29 |  |
 |  | Decode_speed | failed | 3314ef |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -93,8 +93,8 @@ Last updated: `April 06, 2026 at 12:56:39 PM ET`
 | 29 | ngoguen | evaluated | a5cdb8 | 169.7 |
 | 30 | fishyfins | evaluated | 2ac776 | 168.7 |
 | 31 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 32 | PurplePickle67 | evaluated | 4b9f7b | 96.8 |
-| 33 | leoli | evaluated | 151518 | 62.3 |
+| 32 | leoli | evaluated | 1a672b | 121.6 |
+| 33 | PurplePickle67 | evaluated | 4b9f7b | 96.8 |
 |  | beratcelik | failed | b5bc29 |  |
 |  | Decode_speed | failed | 3314ef |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -149,7 +149,7 @@ Last updated: `April 06, 2026 at 12:56:39 PM ET`
 | 29 | hw_bloss | evaluated | b2767b | 306.7 |
 | 30 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 31 | ngoguen | evaluated | a5cdb8 | 310.3 |
-| 32 | leoli | evaluated | 151518 | 353.3 |
+| 32 | leoli | evaluated | 1a672b | 351.3 |
 | 33 | nicknam534534 | evaluated | 1bad48 | 405.4 |
 |  | beratcelik | failed | b5bc29 |  |
 |  | Decode_speed | failed | 3314ef |  |
@@ -201,7 +201,7 @@ Last updated: `April 06, 2026 at 12:56:39 PM ET`
 | 25 | 13rabbit | evaluated | 24af86 | 156.8 |
 | 26 | tuo | evaluated | 3d6d40 | 162.8 |
 | 27 | fishyfins | evaluated | 2ac776 | 234.0 |
-| 28 | leoli | evaluated | 151518 | 235.6 |
+| 28 | leoli | evaluated | 1a672b | 235.8 |
 | 29 | hw_bloss | evaluated | b2767b | 237.0 |
 | 30 | abhik | evaluated | 9cf11c | 237.6 |
 | 31 | your_nickname_here | evaluated | f10b9b | 246.4 |

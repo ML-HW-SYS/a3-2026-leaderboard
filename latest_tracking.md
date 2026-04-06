@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 12:56:39 PM ET`
+Last updated: `April 06, 2026 at 01:04:27 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 01:00 PM ET | leoli | evaluated |  | submission.py | 1a672b | 14.3/9.7/24.0 | 164.9 | 121.6 | 351.3 | 235.8 |
 | Apr 06 12:52 PM ET | leoli | evaluated |  | submission.py | 151518 | 18.4/11.6/29.9 | 524.9 | 62.3 | 353.3 | 235.6 |
 | Apr 06 12:50 PM ET | Licha | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | 7c27ce | 20.7/5.3/26.0 | 518.7 | 192.4 | 202.0 | 210.9 |
 | Apr 06 12:43 PM ET | Decode_speed | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | 3314ef | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
