@@ -1,9 +1,15 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 11:43:04 AM ET`
+Last updated: `April 06, 2026 at 11:56:15 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 11:56 AM ET | beratcelik | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 32:12: q_block = q_pos // BLOCK_SIZE h_mod = hq % DILATION neg_inf =... | submission.py | b5bc29 | 33.3/2.8/36.2 | 0.0 | 242.8 | 68.7 | 114.0 |
+| Apr 06 11:53 AM ET | abhik | evaluated |  | submission.py | 41a3ec | 68.7/6.1/74.8 | 539.0 | 171.6 | 306.0 | 238.0 |
+| Apr 06 11:51 AM ET | PurplePickle67 | evaluated |  | submission.py | 2efdba | 52.5/5.7/58.2 | 485.6 | 119.9 | 36.3 | 51.9 |
+| Apr 06 11:49 AM ET | leoli | evaluated |  | develop.py | 350321 | 39.0/5.6/44.5 | 527.4 | 183.1 | 254.0 | 193.6 |
+| Apr 06 11:47 AM ET | hw_bloss | evaluated |  | submission.py | b2767b | 60.6/6.2/66.8 | 523.1 | 169.8 | 306.7 | 237.0 |
+| Apr 06 11:44 AM ET | zhumengzhiren | evaluated |  | submission.py | c10f8c | 31.5/2.3/33.8 | 560.8 | 481.5 | 28.1 | 51.1 |
 | Apr 06 11:36 AM ET | zhumengzhiren | evaluated |  | develop.py | 120f48 | 31.9/2.3/34.2 | 570.2 | 480.8 | 28.0 | 50.9 |
 | Apr 06 11:32 AM ET | PurplePickle67 | evaluated |  | submission.py | 225892 | 64.1/6.1/70.2 | 490.4 | 116.9 | 64.7 | 110.2 |
 | Apr 06 11:29 AM ET | leoli | evaluated |  | develop.py | a8650b | 19.6/6.1/25.6 | 521.3 | 175.3 | 284.7 | 253.5 |
