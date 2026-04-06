@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 09:09:05 AM ET`
+Last updated: `April 06, 2026 at 09:16:28 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 09:12 AM ET | TheProphet | failed_compliance | Submission compliance check failed for submission.py: \| - setup(...) must have arguments exactly `(weights, scales, c... | submission.py | 5f75e5 |  |  |  |  |  |
+| Apr 06 09:11 AM ET | stefan | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 7fb393 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 06 08:18 AM ET | zhumengzhiren | evaluated |  | develop.py | d59e7c | 26.7/2.7/29.4 | 514.8 | 378.9 | 30.0 | 51.4 |
 | Apr 06 08:10 AM ET | zhumengzhiren | evaluated |  | submission.py | d59e7c | 26.8/2.7/29.4 | 513.4 | 380.5 | 29.7 | 51.2 |
 | Apr 06 07:55 AM ET | zhumengzhiren | evaluated |  | develop.py | ee894f | 26.8/2.7/29.5 | 515.1 | 380.6 | 29.9 | 51.2 |

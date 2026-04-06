@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 09:09:05 AM ET`
+Last updated: `April 06, 2026 at 09:16:28 AM ET`
 
 ## R1 (tok/s)
 
@@ -50,8 +50,9 @@ Last updated: `April 06, 2026 at 09:09:05 AM ET`
 |  | pyjuan91 | failed | 55e076 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | sjb | failed | 78ddc4 |  |
+|  | stefan | failed | 7fb393 |  |
 |  | Sulaiman Alam | failed | 326c2a |  |
-|  | TheProphet | failed | 84eefa |  |
+|  | TheProphet | failed | 5f75e5 |  |
 |  | yb | failed | 8ca88e |  |
 |  | Yize | failed | d04433 |  |
 
@@ -103,8 +104,9 @@ Last updated: `April 06, 2026 at 09:09:05 AM ET`
 |  | pyjuan91 | failed | 55e076 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | sjb | failed | 78ddc4 |  |
+|  | stefan | failed | 7fb393 |  |
 |  | Sulaiman Alam | failed | 326c2a |  |
-|  | TheProphet | failed | 84eefa |  |
+|  | TheProphet | failed | 5f75e5 |  |
 |  | yb | failed | 8ca88e |  |
 |  | Yize | failed | d04433 |  |
 
@@ -156,8 +158,9 @@ Last updated: `April 06, 2026 at 09:09:05 AM ET`
 |  | pyjuan91 | failed | 55e076 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | sjb | failed | 78ddc4 |  |
+|  | stefan | failed | 7fb393 |  |
 |  | Sulaiman Alam | failed | 326c2a |  |
-|  | TheProphet | failed | 84eefa |  |
+|  | TheProphet | failed | 5f75e5 |  |
 |  | yb | failed | 8ca88e |  |
 |  | Yize | failed | d04433 |  |
 
@@ -209,7 +212,8 @@ Last updated: `April 06, 2026 at 09:09:05 AM ET`
 |  | pyjuan91 | failed | 55e076 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | sjb | failed | 78ddc4 |  |
+|  | stefan | failed | 7fb393 |  |
 |  | Sulaiman Alam | failed | 326c2a |  |
-|  | TheProphet | failed | 84eefa |  |
+|  | TheProphet | failed | 5f75e5 |  |
 |  | yb | failed | 8ca88e |  |
 |  | Yize | failed | d04433 |  |
