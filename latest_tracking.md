@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 04:44:12 PM ET`
+Last updated: `April 06, 2026 at 04:53:46 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 04:52 PM ET | landrum | evaluated |  | develop.py | b61e15 | 38.0/5.7/43.7 | 540.9 | 177.0 | 279.0 | 188.1 |
+| Apr 06 04:51 PM ET | ishan-pat | failed_correctness | R2: SETUP: ERR: InternalTorchDynamoError: ModuleNotFoundError: No module named 'student_submission_module' | submission.py | 1cf603 | 23.3/1.6/24.9 | 524.4 | 0.0 | 57.4 | 109.2 |
+| Apr 06 04:48 PM ET | nicknam534534 | failed_correctness | R1: SETUP: ERR: RuntimeError: invalid dtype for bias - should match query's dtype \| R2: SETUP: ERR: RuntimeError: inv... | develop.py | aa71a6 | 14.9/0.0/14.9 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 06 04:46 PM ET | sjb | failed_correctness | Correctness FAIL \| R2 (75.92%), R3 (76.95%), R4 (78.59%) \| max_abs_diff=9.801 | develop.py | 0c1056 | 28.1/3.4/31.5 | 536.6 | 316.2 | 84.8 | 114.4 |
 | Apr 06 04:43 PM ET | landrum | evaluated |  | submission.py | b61e15 | 19.7/6.2/25.9 | 535.9 | 169.8 | 309.6 | 248.3 |
 | Apr 06 04:42 PM ET | ishan-pat | evaluated |  | develop.py | 345520 | 25.2/4.0/29.2 | 521.3 | 217.1 | 57.4 | 109.0 |
 | Apr 06 04:38 PM ET | stefan | evaluated |  | submission.py | a01e76 | 19.8/6.2/26.0 | 537.5 | 170.0 | 310.0 | 248.7 |

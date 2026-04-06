@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 04:44:12 PM ET`
+Last updated: `April 06, 2026 at 04:53:46 PM ET`
 
 ## R1 (tok/s)
 
@@ -27,10 +27,10 @@ Last updated: `April 06, 2026 at 04:44:12 PM ET`
 | 19 | 13rabbit | submission.py | fe30c9 | 543.0 |
 | 20 | alifim | develop.py | ad261a | 541.7 |
 | 21 | ashaikh23 | submission.py | 4d60d0 | 541.4 |
-| 22 | andrasferenczy | submission.py | 6204c7 | 540.6 |
-| 23 | abhik | develop.py | 41a3ec | 539.5 |
-| 24 | stefan | develop.py | 9a25e1 | 539.1 |
-| 25 | landrum | develop.py | c2e082 | 537.7 |
+| 22 | landrum | develop.py | b61e15 | 540.9 |
+| 23 | andrasferenczy | submission.py | 6204c7 | 540.6 |
+| 24 | abhik | develop.py | 41a3ec | 539.5 |
+| 25 | stefan | develop.py | 9a25e1 | 539.1 |
 | 26 | sjb | develop.py | 3359ec | 537.0 |
 | 27 | lipphi | submission.py | a3a71b | 534.8 |
 | 28 | gravlax | develop.py | 1f23d9 | 534.6 |
@@ -87,12 +87,12 @@ Last updated: `April 06, 2026 at 04:44:12 PM ET`
 | 31 | tuo | submission.py | 3d6d40 | 204.6 |
 | 32 | Licha | submission.py | 8fdc3a | 192.4 |
 | 33 | sjb | submission.py | c0765b | 192.2 |
-| 34 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 35 | PurplePickle67 | submission.py | 231258 | 172.1 |
-| 36 | abhik | develop.py | 41a3ec | 171.7 |
-| 37 | stefan | develop.py | 9a25e1 | 170.0 |
-| 38 | hw_bloss | submission.py | b2767b | 169.8 |
-| 39 | landrum | submission.py | b61e15 | 169.8 |
+| 34 | landrum | develop.py | b61e15 | 177.0 |
+| 35 | your_nickname_here | submission.py | 59e245 | 173.4 |
+| 36 | PurplePickle67 | submission.py | 231258 | 172.1 |
+| 37 | abhik | develop.py | 41a3ec | 171.7 |
+| 38 | stefan | develop.py | 9a25e1 | 170.0 |
+| 39 | hw_bloss | submission.py | b2767b | 169.8 |
 | 40 | ngoguen | submission.py | a5cdb8 | 169.7 |
 | 41 | nicknam534534 | submission.py | 1bad48 | 148.4 |
 | 42 | Decode_speed | submission.py | 097a6b | 77.3 |
@@ -134,13 +134,13 @@ Last updated: `April 06, 2026 at 04:44:12 PM ET`
 | 31 | tuo | submission.py | 92c00e | 166.9 |
 | 32 | 13rabbit | submission.py | 24af86 | 193.8 |
 | 33 | Licha | submission.py | 8fdc3a | 202.7 |
-| 34 | pyjuan91 | develop.py | 268544 | 303.2 |
-| 35 | fishyfins | submission.py | 2ac776 | 305.7 |
-| 36 | abhik | submission.py | 575817 | 306.0 |
-| 37 | hw_bloss | submission.py | b2767b | 306.7 |
-| 38 | your_nickname_here | submission.py | 59e245 | 307.4 |
-| 39 | stefan | develop.py | 9a25e1 | 309.6 |
-| 40 | landrum | submission.py | b61e15 | 309.6 |
+| 34 | landrum | develop.py | b61e15 | 279.0 |
+| 35 | pyjuan91 | develop.py | 268544 | 303.2 |
+| 36 | fishyfins | submission.py | 2ac776 | 305.7 |
+| 37 | abhik | submission.py | 575817 | 306.0 |
+| 38 | hw_bloss | submission.py | b2767b | 306.7 |
+| 39 | your_nickname_here | submission.py | 59e245 | 307.4 |
+| 40 | stefan | develop.py | 9a25e1 | 309.6 |
 | 41 | ngoguen | submission.py | a5cdb8 | 310.3 |
 | 42 | nicknam534534 | submission.py | 1bad48 | 405.4 |
 | 43 | Decode_speed | submission.py | 097a6b | 412.7 |
@@ -181,13 +181,13 @@ Last updated: `April 06, 2026 at 04:44:12 PM ET`
 | 30 | lipphi | submission.py | a3a71b | 150.9 |
 | 31 | 13rabbit | submission.py | 24af86 | 156.8 |
 | 32 | tuo | submission.py | 4274da | 160.5 |
-| 33 | Licha | submission.py | 8fdc3a | 215.0 |
-| 34 | fishyfins | submission.py | 2ac776 | 234.0 |
-| 35 | pyjuan91 | develop.py | 268544 | 234.1 |
-| 36 | abhik | develop.py | 41a3ec | 236.3 |
-| 37 | hw_bloss | submission.py | b2767b | 237.0 |
-| 38 | your_nickname_here | submission.py | 59e245 | 245.7 |
-| 39 | landrum | submission.py | b61e15 | 248.3 |
+| 33 | landrum | develop.py | b61e15 | 188.1 |
+| 34 | Licha | submission.py | 8fdc3a | 215.0 |
+| 35 | fishyfins | submission.py | 2ac776 | 234.0 |
+| 36 | pyjuan91 | develop.py | 268544 | 234.1 |
+| 37 | abhik | develop.py | 41a3ec | 236.3 |
+| 38 | hw_bloss | submission.py | b2767b | 237.0 |
+| 39 | your_nickname_here | submission.py | 59e245 | 245.7 |
 | 40 | stefan | develop.py | 9a25e1 | 248.5 |
 | 41 | ngoguen | submission.py | a5cdb8 | 249.7 |
 | 42 | nicknam534534 | develop.py | 1bad48 | 269.0 |
