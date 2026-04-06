@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 10:19:57 PM ET`
+Last updated: `April 05, 2026 at 10:28:02 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 10:25 PM ET | PurplePickle67 | failed_correctness | R1: SETUP: ERR: NameError: name 'OnTheFlyInt4Linear' is not defined \| R2: SETUP: ERR: NameError: name 'OnTheFlyInt4Li... | submission.py | f9cdcc | 13.5/0.0/13.5 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 05 10:23 PM ET | Yize | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | 3c8167 | 18.9/3.9/22.7 | 525.9 | 250.9 | 81.2 | 129.9 |
 | Apr 05 10:15 PM ET | Yize | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | develop.py | 59426e | 38.3/3.8/42.1 | 539.8 | 252.1 | 80.6 | 129.0 |
 | Apr 05 10:13 PM ET | alifim | evaluated |  | develop.py | 7a3ad5 | 45.9/6.5/52.4 | 511.1 | 177.6 | 389.4 | 269.8 |
 | Apr 05 10:06 PM ET | fishyfins | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | 18e95c |  |  |  |  |  |

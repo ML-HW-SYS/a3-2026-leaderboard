@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 05, 2026 at 10:19:57 PM ET`
+Last updated: `April 05, 2026 at 10:28:02 PM ET`
 
 ## Pages
 
@@ -42,8 +42,7 @@ Last updated: `April 05, 2026 at 10:19:57 PM ET`
 | 28 | hw_bloss | evaluated | 2d26da | 60.3/6.2/66.5 | 0.532 | 523.5 | 169.3 | 307.0 | 239.3 |
 | 29 | ngoguen | evaluated | a5cdb8 | 40.8/6.2/47.0 | 0.523 | 515.9 | 169.7 | 310.3 | 249.7 |
 | 30 | alifim | evaluated | fef459 | 42.4/6.5/48.9 | 0.488 | 508.7 | 177.7 | 389.3 | 270.2 |
-| 31 | PurplePickle67 | evaluated | 231258 | 42.6/6.7/49.3 | 0.481 | 519.1 | 172.1 | 412.3 | 268.8 |
-| 32 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
+| 31 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | jl | failed | cc349d | 62.2/6.2/68.3 |  |  |  |  |  |
 |  | Junyi Li | failed | c31a30 | 71.5/6.1/77.6 |  |  |  |  |  |
@@ -51,13 +50,14 @@ Last updated: `April 05, 2026 at 10:19:57 PM ET`
 |  | leoli | failed | 1f54f4 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
 |  | poppyPotatoe | failed | aa5125 | 0.0/0.0/0.0 |  |  |  |  |  |
+|  | PurplePickle67 | failed | f9cdcc | 13.5/0.0/13.5 |  |  |  |  |  |
 |  | pyjuan91 | failed | 55e076 | 21.8/7.0/28.8 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | sjb | failed | 78ddc4 | 63.3/3.6/67.0 |  |  |  |  |  |
 |  | Sulaiman Alam | failed | 326c2a | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | TheProphet | failed | 84eefa | 82.6/2.6/85.2 |  |  |  |  |  |
 |  | yb | failed | 8ca88e | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | Yize | failed | 59426e |  |  |  |  |  |  |
+|  | Yize | failed | 3c8167 | 18.9/3.9/22.7 |  |  |  |  |  |
 
 ## Column Guide
 
