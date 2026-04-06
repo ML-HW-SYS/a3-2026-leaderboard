@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 09:20:00 PM ET`
+Last updated: `April 05, 2026 at 09:28:48 PM ET`
 
 ## R1 (tok/s)
 
@@ -34,10 +34,10 @@ Last updated: `April 05, 2026 at 09:20:00 PM ET`
 | 26 | PurplePickle67 | evaluated | 231258 | 519.1 |
 | 27 | ngoguen | evaluated | a5cdb8 | 515.9 |
 | 28 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 29 | tuo | evaluated | 3d6d40 | 494.8 |
-| 30 | Rithvik | evaluated | 1b2948 | 478.7 |
-| 31 | beratcelik | evaluated | c8c7e2 | 475.6 |
-|  | alifim | failed | fa77fc |  |
+| 29 | alifim | evaluated | fef459 | 508.7 |
+| 30 | tuo | evaluated | 3d6d40 | 494.8 |
+| 31 | Rithvik | evaluated | 1b2948 | 478.7 |
+| 32 | beratcelik | evaluated | c8c7e2 | 475.6 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | jl | failed | cc349d |  |
@@ -79,15 +79,15 @@ Last updated: `April 05, 2026 at 09:20:00 PM ET`
 | 21 | ishan-pat | evaluated | a91b85 | 217.2 |
 | 22 | 13rabbit | evaluated | 24af86 | 215.5 |
 | 23 | tuo | evaluated | 3d6d40 | 204.6 |
-| 24 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 25 | PurplePickle67 | evaluated | 231258 | 172.1 |
-| 26 | abhik | evaluated | 575817 | 170.3 |
-| 27 | ngoguen | evaluated | a5cdb8 | 169.7 |
-| 28 | hw_bloss | evaluated | 2d26da | 169.3 |
-| 29 | sjb | evaluated | 421a78 | 164.0 |
-| 30 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 31 | beratcelik | evaluated | c8c7e2 | 88.9 |
-|  | alifim | failed | fa77fc |  |
+| 24 | alifim | evaluated | fef459 | 177.7 |
+| 25 | your_nickname_here | evaluated | f10b9b | 173.1 |
+| 26 | PurplePickle67 | evaluated | 231258 | 172.1 |
+| 27 | abhik | evaluated | 575817 | 170.3 |
+| 28 | ngoguen | evaluated | a5cdb8 | 169.7 |
+| 29 | hw_bloss | evaluated | 2d26da | 169.3 |
+| 30 | sjb | evaluated | 421a78 | 164.0 |
+| 31 | nicknam534534 | evaluated | 1bad48 | 148.4 |
+| 32 | beratcelik | evaluated | c8c7e2 | 88.9 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | jl | failed | cc349d |  |
@@ -135,9 +135,9 @@ Last updated: `April 05, 2026 at 09:20:00 PM ET`
 | 27 | hw_bloss | evaluated | 2d26da | 307.0 |
 | 28 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 29 | ngoguen | evaluated | a5cdb8 | 310.3 |
-| 30 | nicknam534534 | evaluated | 1bad48 | 405.4 |
-| 31 | PurplePickle67 | evaluated | 231258 | 412.3 |
-|  | alifim | failed | fa77fc |  |
+| 30 | alifim | evaluated | fef459 | 389.3 |
+| 31 | nicknam534534 | evaluated | 1bad48 | 405.4 |
+| 32 | PurplePickle67 | evaluated | 231258 | 412.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | jl | failed | cc349d |  |
@@ -187,7 +187,7 @@ Last updated: `April 05, 2026 at 09:20:00 PM ET`
 | 29 | ngoguen | evaluated | a5cdb8 | 249.7 |
 | 30 | PurplePickle67 | evaluated | 231258 | 268.8 |
 | 31 | nicknam534534 | evaluated | 1bad48 | 269.2 |
-|  | alifim | failed | fa77fc |  |
+| 32 | alifim | evaluated | fef459 | 270.2 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 7a0977 |  |
 |  | jl | failed | cc349d |  |

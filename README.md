@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 05, 2026 at 09:20:00 PM ET`
+Last updated: `April 05, 2026 at 09:28:48 PM ET`
 
 ## Pages
 
@@ -41,9 +41,9 @@ Last updated: `April 05, 2026 at 09:20:00 PM ET`
 | 27 | abhik | evaluated | 575817 | 27.4/6.2/33.5 | 0.533 | 525.5 | 170.3 | 306.0 | 240.6 |
 | 28 | hw_bloss | evaluated | 2d26da | 60.3/6.2/66.5 | 0.532 | 523.5 | 169.3 | 307.0 | 239.3 |
 | 29 | ngoguen | evaluated | a5cdb8 | 40.8/6.2/47.0 | 0.523 | 515.9 | 169.7 | 310.3 | 249.7 |
-| 30 | PurplePickle67 | evaluated | 231258 | 42.6/6.7/49.3 | 0.481 | 519.1 | 172.1 | 412.3 | 268.8 |
-| 31 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
-|  | alifim | failed | fa77fc |  |  |  |  |  |  |
+| 30 | alifim | evaluated | fef459 | 42.4/6.5/48.9 | 0.488 | 508.7 | 177.7 | 389.3 | 270.2 |
+| 31 | PurplePickle67 | evaluated | 231258 | 42.6/6.7/49.3 | 0.481 | 519.1 | 172.1 | 412.3 | 268.8 |
+| 32 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | fishyfins | failed | 7a0977 | 20.0/5.2/25.2 |  |  |  |  |  |
 |  | jl | failed | cc349d | 62.2/6.2/68.3 |  |  |  |  |  |
