@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 10:55:08 PM ET`
+Last updated: `April 05, 2026 at 11:04:03 PM ET`
 
 ## R1 (tok/s)
 
@@ -26,10 +26,10 @@ Last updated: `April 05, 2026 at 10:55:08 PM ET`
 | 18 | gravlax | evaluated | b1229d | 532.3 |
 | 19 | abhik | evaluated | 575817 | 525.5 |
 | 20 | fishyfins | evaluated | 2ac776 | 524.8 |
-| 21 | bl792 | evaluated | 743b6d | 524.5 |
-| 22 | beratcelik | evaluated | 80b48f | 524.5 |
-| 23 | nicknam534534 | evaluated | 1bad48 | 524.1 |
-| 24 | ishan-pat | evaluated | a91b85 | 523.9 |
+| 21 | ishan-pat | evaluated | 859df5 | 524.7 |
+| 22 | bl792 | evaluated | 743b6d | 524.5 |
+| 23 | beratcelik | evaluated | 80b48f | 524.5 |
+| 24 | nicknam534534 | evaluated | 1bad48 | 524.1 |
 | 25 | ethanchen | evaluated | ea518d | 523.7 |
 | 26 | hw_bloss | evaluated | 2d26da | 523.5 |
 | 27 | ngoguen | evaluated | a5cdb8 | 515.9 |
@@ -78,7 +78,7 @@ Last updated: `April 05, 2026 at 10:55:08 PM ET`
 | 18 | happyface | evaluated | 7e8b61 | 258.2 |
 | 19 | ethanchen | evaluated | ea518d | 251.2 |
 | 20 | bl792 | evaluated | 743b6d | 234.0 |
-| 21 | ishan-pat | evaluated | a91b85 | 217.2 |
+| 21 | ishan-pat | evaluated | 859df5 | 217.5 |
 | 22 | 13rabbit | evaluated | 24af86 | 215.5 |
 | 23 | tuo | evaluated | 3d6d40 | 204.6 |
 | 24 | alifim | evaluated | fef459 | 177.7 |
@@ -124,12 +124,12 @@ Last updated: `April 05, 2026 at 10:55:08 PM ET`
 | 12 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
 | 13 | ashaikh23 | evaluated | d98c0b | 58.8 |
 | 14 | happyface | evaluated | 7e8b61 | 63.7 |
-| 15 | beratcelik | evaluated | 80b48f | 69.0 |
-| 16 | JasonWang07 | evaluated | 414385 | 69.4 |
-| 17 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
-| 18 | Shengwei | evaluated | 1f8749 | 71.4 |
-| 19 | ethanchen | evaluated | ea518d | 74.4 |
-| 20 | ishan-pat | evaluated | a91b85 | 82.0 |
+| 15 | ishan-pat | evaluated | 859df5 | 64.9 |
+| 16 | beratcelik | evaluated | 80b48f | 69.0 |
+| 17 | JasonWang07 | evaluated | 414385 | 69.4 |
+| 18 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
+| 19 | Shengwei | evaluated | 1f8749 | 71.4 |
+| 20 | ethanchen | evaluated | ea518d | 74.4 |
 | 21 | TA | evaluated | a6e863 | 85.6 |
 | 22 | lipphi | evaluated | a3a71b | 104.4 |
 | 23 | tuo | evaluated | 3d6d40 | 167.8 |
@@ -179,8 +179,8 @@ Last updated: `April 05, 2026 at 10:55:08 PM ET`
 | 15 | Shengwei | evaluated | 1f8749 | 88.1 |
 | 16 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
 | 17 | ashaikh23 | evaluated | d98c0b | 109.9 |
-| 18 | beratcelik | evaluated | 80b48f | 114.0 |
-| 19 | ishan-pat | evaluated | a91b85 | 115.0 |
+| 18 | ishan-pat | evaluated | 859df5 | 111.7 |
+| 19 | beratcelik | evaluated | 80b48f | 114.0 |
 | 20 | ethanchen | evaluated | ea518d | 123.6 |
 | 21 | TA | evaluated | a6e863 | 135.6 |
 | 22 | lipphi | evaluated | a3a71b | 150.9 |
