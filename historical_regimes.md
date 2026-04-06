@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 05:14:23 PM ET`
+Last updated: `April 06, 2026 at 05:26:16 PM ET`
 
 ## R1 (tok/s)
 
@@ -70,7 +70,7 @@ Last updated: `April 06, 2026 at 05:14:23 PM ET`
 | 14 | ashaikh23 | submission.py | 4d60d0 | 330.1 |
 | 15 | leoli | submission.py | 5cdac4 | 327.5 |
 | 16 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 326.5 |
-| 17 | sjb | submission.py | 974bff | 320.9 |
+| 17 | sjb | develop.py | 974bff | 320.9 |
 | 18 | jl | submission.py | e6ce85 | 313.1 |
 | 19 | lipphi | submission.py | a3a71b | 306.7 |
 | 20 | TA | submission.py | 324cb8 | 295.5 |
@@ -155,7 +155,7 @@ Last updated: `April 06, 2026 at 05:14:23 PM ET`
 | 4 | Rithvik | submission.py | 1523b4 | 47.6 |
 | 5 | gm | submission.py | 2898fc | 48.5 |
 | 6 | chickfila | submission.py | f0956d | 49.6 |
-| 7 | zhumengzhiren | develop.py | 23fbd6 | 50.3 |
+| 7 | zhumengzhiren | submission.py | cf2924 | 50.2 |
 | 8 | abarat007 | submission.py | 260fed | 51.5 |
 | 9 | PurplePickle67 | submission.py | 2efdba | 51.9 |
 | 10 | nickname55555555 | submission.py | 05c6ab | 52.5 |
@@ -173,7 +173,7 @@ Last updated: `April 06, 2026 at 05:14:23 PM ET`
 | 22 | alifim | submission.py | 701077 | 109.2 |
 | 23 | ashaikh23 | submission.py | 1ce409 | 109.7 |
 | 24 | beratcelik | submission.py | 11c1b8 | 110.5 |
-| 25 | sjb | submission.py | 974bff | 111.4 |
+| 25 | sjb | develop.py | 974bff | 110.9 |
 | 26 | ethanchen | submission.py | bf6f9e | 123.0 |
 | 27 | Yize | submission.py | d04433 | 128.5 |
 | 28 | TA | submission.py | 324cb8 | 131.7 |
@@ -182,7 +182,7 @@ Last updated: `April 06, 2026 at 05:14:23 PM ET`
 | 31 | lipphi | submission.py | a3a71b | 150.9 |
 | 32 | 13rabbit | submission.py | 24af86 | 156.8 |
 | 33 | tuo | submission.py | 4274da | 160.5 |
-| 34 | landrum | develop.py | b8739e | 176.3 |
+| 34 | landrum | develop.py | 434be2 | 176.1 |
 | 35 | Licha | submission.py | 8fdc3a | 215.0 |
 | 36 | fishyfins | submission.py | 2ac776 | 234.0 |
 | 37 | pyjuan91 | develop.py | 268544 | 234.1 |

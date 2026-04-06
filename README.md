@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 06, 2026 at 05:14:23 PM ET`
+Last updated: `April 06, 2026 at 05:26:16 PM ET`
 
 ## Pages
 
@@ -14,7 +14,7 @@ Last updated: `April 06, 2026 at 05:14:23 PM ET`
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 25.6/2.5/28.1 | 1.989 | 591.4 | 386.9 | 21.8 | 44.5 |
 | 2 | chyyy | evaluated | 34cc06 | 33.5/2.4/35.9 | 1.918 | 555.7 | 433.8 | 24.8 | 47.6 |
-| 3 | zhumengzhiren | evaluated | c10f8c | 31.5/2.3/33.8 | 1.878 | 560.8 | 481.5 | 28.1 | 51.1 |
+| 3 | zhumengzhiren | evaluated | cf2924 | 43.0/2.3/45.2 | 1.896 | 566.6 | 483.3 | 28.0 | 50.2 |
 | 4 | gm | evaluated | 2898fc | 20.9/2.7/23.6 | 1.772 | 541.1 | 357.0 | 26.8 | 48.5 |
 | 5 | abarat007 | evaluated | d7f626 | 47.1/2.6/49.7 | 1.764 | 559.5 | 378.6 | 28.1 | 51.5 |
 | 6 | Rithvik | evaluated | 2924a0 | 46.5/2.9/49.4 | 1.706 | 495.8 | 335.8 | 27.1 | 48.0 |
@@ -63,6 +63,7 @@ Last updated: `April 06, 2026 at 05:14:23 PM ET`
 |  | TheProphet | failed | 2d859a |  |  |  |  |  |  |
 |  | yb | failed | 8ca88e | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | Yize | failed | d04433 | 19.2/4.8/24.1 |  |  |  |  |  |
+|  | yoursun1220 | failed | cc8193 | 33.2/4.0/37.2 |  |  |  |  |  |
 
 ## Column Guide
 

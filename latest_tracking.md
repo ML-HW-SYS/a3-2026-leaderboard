@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 05:14:23 PM ET`
+Last updated: `April 06, 2026 at 05:26:16 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 05:25 PM ET | yoursun1220 | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | submission.py | cc8193 | 33.2/4.0/37.2 | 524.4 | 169.7 | 0.0 | 0.0 |
+| Apr 06 05:23 PM ET | landrum | evaluated |  | develop.py | 434be2 | 75.7/7.2/82.9 | 250.3 | 151.8 | 275.9 | 176.1 |
+| Apr 06 05:17 PM ET | sjb | evaluated |  | develop.py | 974bff | 27.8/3.3/31.1 | 529.8 | 320.9 | 79.8 | 110.9 |
+| Apr 06 05:15 PM ET | zhumengzhiren | evaluated |  | submission.py | cf2924 | 43.0/2.3/45.2 | 566.6 | 483.3 | 28.0 | 50.2 |
 | Apr 06 05:13 PM ET | landrum | evaluated |  | submission.py | 7b5ab5 | 23.3/5.7/28.9 | 534.6 | 177.2 | 275.1 | 176.5 |
 | Apr 06 05:11 PM ET | PurplePickle67 | evaluated |  | submission.py | c7c650 | 30.1/5.7/35.8 | 479.1 | 119.8 | 36.5 | 52.2 |
 | Apr 06 05:08 PM ET | Shengwei | evaluated |  | submission.py | bd7526 | 19.3/2.9/22.1 | 540.5 | 347.3 | 45.6 | 68.0 |

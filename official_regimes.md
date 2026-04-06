@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 05:14:23 PM ET`
+Last updated: `April 06, 2026 at 05:26:16 PM ET`
 
 ## R1 (tok/s)
 
@@ -8,8 +8,8 @@ Last updated: `April 06, 2026 at 05:14:23 PM ET`
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 591.4 |
 | 2 | jl | evaluated | e6ce85 | 574.4 |
-| 3 | beratcelik | evaluated | 863a89 | 564.3 |
-| 4 | zhumengzhiren | evaluated | c10f8c | 560.8 |
+| 3 | zhumengzhiren | evaluated | cf2924 | 566.6 |
+| 4 | beratcelik | evaluated | 863a89 | 564.3 |
 | 5 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 560.4 |
 | 6 | abarat007 | evaluated | d7f626 | 559.5 |
 | 7 | your_nickname_here | evaluated | f10b9b | 557.8 |
@@ -57,12 +57,13 @@ Last updated: `April 06, 2026 at 05:14:23 PM ET`
 |  | TheProphet | failed | 2d859a |  |
 |  | yb | failed | 8ca88e |  |
 |  | Yize | failed | d04433 |  |
+|  | yoursun1220 | failed | cc8193 |  |
 
 ## R2 (tok/s)
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | zhumengzhiren | evaluated | c10f8c | 481.5 |
+| 1 | zhumengzhiren | evaluated | cf2924 | 483.3 |
 | 2 | chyyy | evaluated | 34cc06 | 433.8 |
 | 3 | chickfila | evaluated | f0956d | 398.8 |
 | 4 | - - | evaluated | adc0f3 | 386.9 |
@@ -113,6 +114,7 @@ Last updated: `April 06, 2026 at 05:14:23 PM ET`
 |  | TheProphet | failed | 2d859a |  |
 |  | yb | failed | 8ca88e |  |
 |  | Yize | failed | d04433 |  |
+|  | yoursun1220 | failed | cc8193 |  |
 
 ## R3 (ms)
 
@@ -122,7 +124,7 @@ Last updated: `April 06, 2026 at 05:14:23 PM ET`
 | 2 | chyyy | evaluated | 34cc06 | 24.8 |
 | 3 | gm | evaluated | 2898fc | 26.8 |
 | 4 | Rithvik | evaluated | 2924a0 | 27.1 |
-| 5 | zhumengzhiren | evaluated | c10f8c | 28.1 |
+| 5 | zhumengzhiren | evaluated | cf2924 | 28.0 |
 | 6 | abarat007 | evaluated | d7f626 | 28.1 |
 | 7 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
 | 8 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
@@ -169,6 +171,7 @@ Last updated: `April 06, 2026 at 05:14:23 PM ET`
 |  | TheProphet | failed | 2d859a |  |
 |  | yb | failed | 8ca88e |  |
 |  | Yize | failed | d04433 |  |
+|  | yoursun1220 | failed | cc8193 |  |
 
 ## R4 (ms)
 
@@ -179,7 +182,7 @@ Last updated: `April 06, 2026 at 05:14:23 PM ET`
 | 3 | Rithvik | evaluated | 2924a0 | 48.0 |
 | 4 | gm | evaluated | 2898fc | 48.5 |
 | 5 | chickfila | evaluated | f0956d | 49.6 |
-| 6 | zhumengzhiren | evaluated | c10f8c | 51.1 |
+| 6 | zhumengzhiren | evaluated | cf2924 | 50.2 |
 | 7 | abarat007 | evaluated | d7f626 | 51.5 |
 | 8 | PurplePickle67 | evaluated | c7c650 | 52.2 |
 | 9 | nickname55555555 | evaluated | 99ddc2 | 53.0 |
@@ -225,3 +228,4 @@ Last updated: `April 06, 2026 at 05:14:23 PM ET`
 |  | TheProphet | failed | 2d859a |  |
 |  | yb | failed | 8ca88e |  |
 |  | Yize | failed | d04433 |  |
+|  | yoursun1220 | failed | cc8193 |  |
