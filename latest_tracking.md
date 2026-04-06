@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 11:20:17 PM ET`
+Last updated: `April 05, 2026 at 11:28:16 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 11:22 PM ET | alifim | evaluated |  | submission.py | 701077 | 30.0/3.0/33.0 | 539.6 | 381.2 | 64.8 | 109.2 |
 | Apr 05 11:11 PM ET | ishan-pat | evaluated |  | develop.py | 859df5 | 27.6/4.0/31.6 | 524.6 | 218.0 | 64.3 | 111.4 |
 | Apr 05 11:09 PM ET | PurplePickle67 | failed_correctness | R1: SETUP: ERR: NameError: name 'OnTheFlyInt4Linear' is not defined \| R2: SETUP: ERR: NameError: name 'OnTheFlyInt4Li... | submission.py | 714c55 | 13.5/0.0/13.5 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 05 11:06 PM ET | alifim | evaluated |  | develop.py | ad261a | 30.3/3.0/33.3 | 541.7 | 378.5 | 66.1 | 110.4 |
