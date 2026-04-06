@@ -1,9 +1,14 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 06:28:16 PM ET`
+Last updated: `April 06, 2026 at 06:38:38 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 06:37 PM ET | yoursun1220 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | db9ee9 | 28.4/6.2/34.6 | 526.0 | 169.6 | 308.6 | 246.4 |
+| Apr 06 06:37 PM ET | ashaikh23 | evaluated |  | submission.py | 5a4a7c | 42.9/3.1/46.0 | 541.6 | 336.6 | 59.7 | 109.7 |
+| Apr 06 06:36 PM ET | landrum | failed_correctness | R3: SETUP: ERR: CompilationError: at 41:10: tl.store( s_ptr + batch_idx * stride_sb + row_idx * stride_so + group_idx... | develop.py | b42e7d | 20.1/3.8/24.0 | 537.6 | 177.3 | 0.0 | 0.0 |
+| Apr 06 06:33 PM ET | bl792 | evaluated |  | develop.py | e5885b | 18.2/3.5/21.7 | 527.6 | 236.1 | 38.6 | 62.2 |
+| Apr 06 06:31 PM ET | Yize | evaluated |  | submission.py | e03fd5 | 15.0/9.8/24.8 | 141.8 | 96.7 | 81.2 | 130.6 |
 | Apr 06 06:27 PM ET | landrum | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | develop.py | 6615c9 | 13.0/3.8/16.8 | 535.3 | 177.3 | 0.0 | 0.0 |
 | Apr 06 06:23 PM ET | PurplePickle67 | evaluated |  | submission.py | cf3a9d | 56.8/5.7/62.5 | 489.0 | 119.9 | 36.6 | 52.0 |
 | Apr 06 06:22 PM ET | bl792 | evaluated |  | submission.py | e5885b | 36.9/3.6/40.5 | 525.1 | 235.2 | 38.9 | 62.7 |
