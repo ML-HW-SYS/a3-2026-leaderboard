@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 07:27:25 PM ET`
+Last updated: `April 06, 2026 at 07:35:47 PM ET`
 
 ## R1 (tok/s)
 
@@ -33,14 +33,14 @@ Last updated: `April 06, 2026 at 07:27:25 PM ET`
 | 25 | landrum | evaluated | 7b5ab5 | 534.6 |
 | 26 | chickfila | evaluated | f0956d | 534.5 |
 | 27 | gravlax | evaluated | b1229d | 532.3 |
-| 28 | bl792 | evaluated | e5885b | 525.1 |
-| 29 | fishyfins | evaluated | 2ac776 | 524.8 |
+| 28 | fishyfins | evaluated | 2ac776 | 524.8 |
+| 29 | bl792 | evaluated | 09cd73 | 524.7 |
 | 30 | blabrl | evaluated | 13a1d8 | 524.1 |
 | 31 | nicknam534534 | evaluated | 1bad48 | 524.1 |
 | 32 | ethanchen | evaluated | ea518d | 523.7 |
 | 33 | hw_bloss | evaluated | 4c9666 | 522.2 |
 | 34 | Licha | evaluated | 8fdc3a | 521.4 |
-| 35 | yoursun1220 | evaluated | 0caddd | 518.1 |
+| 35 | yoursun1220 | evaluated | 27e400 | 521.3 |
 | 36 | ngoguen | evaluated | a5cdb8 | 515.9 |
 | 37 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
 | 38 | Rithvik | evaluated | 2924a0 | 495.8 |
@@ -89,7 +89,7 @@ Last updated: `April 06, 2026 at 07:27:25 PM ET`
 | 23 | happyface | evaluated | 7e8b61 | 258.2 |
 | 24 | ethanchen | evaluated | ea518d | 251.2 |
 | 25 | 13rabbit | evaluated | b38df9 | 242.9 |
-| 26 | bl792 | evaluated | e5885b | 235.2 |
+| 26 | bl792 | evaluated | 09cd73 | 238.8 |
 | 27 | beratcelik | evaluated | 863a89 | 231.2 |
 | 28 | tuo | evaluated | 3d6d40 | 204.6 |
 | 29 | Licha | evaluated | 8fdc3a | 192.4 |
@@ -97,8 +97,8 @@ Last updated: `April 06, 2026 at 07:27:25 PM ET`
 | 31 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 32 | abhik | evaluated | 9cf11c | 171.6 |
 | 33 | stefan | evaluated | a01e76 | 170.0 |
-| 34 | ngoguen | evaluated | a5cdb8 | 169.7 |
-| 35 | yoursun1220 | evaluated | 0caddd | 169.5 |
+| 34 | yoursun1220 | evaluated | 27e400 | 169.9 |
+| 35 | ngoguen | evaluated | a5cdb8 | 169.7 |
 | 36 | blabrl | evaluated | 13a1d8 | 169.4 |
 | 37 | hw_bloss | evaluated | 4c9666 | 169.1 |
 | 38 | fishyfins | evaluated | 2ac776 | 168.7 |
@@ -129,12 +129,12 @@ Last updated: `April 06, 2026 at 07:27:25 PM ET`
 | 5 | zhumengzhiren | evaluated | cf2924 | 28.0 |
 | 6 | abarat007 | evaluated | d7f626 | 28.1 |
 | 7 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
-| 8 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
-| 9 | prousoglou | evaluated | 570c63 | 34.7 |
-| 10 | chickfila | evaluated | f0956d | 34.7 |
-| 11 | gravlax | evaluated | b1229d | 35.0 |
-| 12 | PurplePickle67 | evaluated | 4df292 | 36.5 |
-| 13 | bl792 | evaluated | e5885b | 38.9 |
+| 8 | bl792 | evaluated | 09cd73 | 32.4 |
+| 9 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
+| 10 | prousoglou | evaluated | 570c63 | 34.7 |
+| 11 | chickfila | evaluated | f0956d | 34.7 |
+| 12 | gravlax | evaluated | b1229d | 35.0 |
+| 13 | PurplePickle67 | evaluated | 4df292 | 36.5 |
 | 14 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
 | 15 | Shengwei | evaluated | bd7526 | 45.6 |
 | 16 | ashaikh23 | evaluated | 5a4a7c | 59.7 |
@@ -158,7 +158,7 @@ Last updated: `April 06, 2026 at 07:27:25 PM ET`
 | 34 | abhik | evaluated | 9cf11c | 306.6 |
 | 35 | hw_bloss | evaluated | 4c9666 | 308.1 |
 | 36 | your_nickname_here | evaluated | f10b9b | 308.1 |
-| 37 | yoursun1220 | evaluated | 0caddd | 309.6 |
+| 37 | yoursun1220 | evaluated | 27e400 | 308.6 |
 | 38 | stefan | evaluated | a01e76 | 310.0 |
 | 39 | ngoguen | evaluated | a5cdb8 | 310.3 |
 | 40 | blabrl | evaluated | 13a1d8 | 310.5 |
@@ -190,8 +190,8 @@ Last updated: `April 06, 2026 at 07:27:25 PM ET`
 | 8 | PurplePickle67 | evaluated | 4df292 | 52.1 |
 | 9 | nickname55555555 | evaluated | 99ddc2 | 53.0 |
 | 10 | gravlax | evaluated | b1229d | 59.7 |
-| 11 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 59.9 |
-| 12 | bl792 | evaluated | e5885b | 62.7 |
+| 11 | bl792 | evaluated | 09cd73 | 59.9 |
+| 12 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 59.9 |
 | 13 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
 | 14 | prousoglou | evaluated | 570c63 | 65.3 |
 | 15 | happyface | evaluated | 7e8b61 | 66.0 |
@@ -216,8 +216,8 @@ Last updated: `April 06, 2026 at 07:27:25 PM ET`
 | 34 | abhik | evaluated | 9cf11c | 237.6 |
 | 35 | hw_bloss | evaluated | 4c9666 | 239.1 |
 | 36 | your_nickname_here | evaluated | f10b9b | 246.4 |
-| 37 | stefan | evaluated | a01e76 | 248.7 |
-| 38 | yoursun1220 | evaluated | 0caddd | 249.7 |
+| 37 | yoursun1220 | evaluated | 27e400 | 248.7 |
+| 38 | stefan | evaluated | a01e76 | 248.7 |
 | 39 | ngoguen | evaluated | a5cdb8 | 249.7 |
 | 40 | blabrl | evaluated | 13a1d8 | 251.1 |
 | 41 | nicknam534534 | evaluated | 1bad48 | 269.2 |
