@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 06, 2026 at 01:31:02 PM ET`
+Last updated: `April 06, 2026 at 01:39:56 PM ET`
 
 ## Pages
 
@@ -29,9 +29,9 @@ Last updated: `April 06, 2026 at 01:31:02 PM ET`
 | 15 | happyface | evaluated | 7e8b61 | 18.5/3.4/22.0 | 1.219 | 543.0 | 258.2 | 63.7 | 66.0 |
 | 16 | alifim | evaluated | 701077 | 30.0/3.0/33.0 | 1.178 | 539.6 | 381.2 | 64.8 | 109.2 |
 | 17 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 37.2/3.1/40.3 | 1.177 | 560.4 | 326.5 | 70.9 | 89.2 |
-| 18 | Shengwei | evaluated | 1f8749 | 39.6/3.2/42.8 | 1.166 | 537.3 | 326.3 | 71.4 | 88.1 |
-| 19 | ashaikh23 | evaluated | d98c0b | 20.4/3.2/23.5 | 1.162 | 539.3 | 330.0 | 58.8 | 109.9 |
-| 20 | PurplePickle67 | evaluated | 44736c | 30.2/6.7/36.8 | 1.134 | 490.1 | 97.2 | 36.7 | 52.1 |
+| 18 | leoli | evaluated | 7ef4b9 | 19.6/3.1/22.7 | 1.173 | 544.9 | 326.7 | 71.0 | 87.7 |
+| 19 | Shengwei | evaluated | 1f8749 | 39.6/3.2/42.8 | 1.166 | 537.3 | 326.3 | 71.4 | 88.1 |
+| 20 | PurplePickle67 | evaluated | e7f234 | 31.1/6.6/37.7 | 1.141 | 494.2 | 98.0 | 36.5 | 52.0 |
 | 21 | ishan-pat | evaluated | 79d328 | 41.6/4.0/45.6 | 1.017 | 527.0 | 218.1 | 64.1 | 110.9 |
 | 22 | ethanchen | evaluated | ea518d | 37.9/3.8/41.7 | 0.987 | 523.7 | 251.2 | 74.4 | 123.6 |
 | 23 | TA | evaluated | a6e863 | 47.2/3.5/50.8 | 0.984 | 556.6 | 294.5 | 85.6 | 135.6 |
@@ -45,7 +45,7 @@ Last updated: `April 06, 2026 at 01:31:02 PM ET`
 | 31 | hw_bloss | evaluated | 4c9666 | 23.8/6.2/30.0 | 0.531 | 522.2 | 169.1 | 308.1 | 239.1 |
 | 32 | ngoguen | evaluated | a5cdb8 | 40.8/6.2/47.0 | 0.523 | 515.9 | 169.7 | 310.3 | 249.7 |
 | 33 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
-| 34 | leoli | evaluated | e7a6af | 14.6/9.7/24.3 | 0.358 | 160.4 | 121.0 | 335.2 | 233.3 |
+|  | ashaikh23 | failed | aff710 | 15.6/0.9/16.5 |  |  |  |  |  |
 |  | beratcelik | failed | b5bc29 | 33.3/2.8/36.2 |  |  |  |  |  |
 |  | Decode_speed | failed | 3314ef | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |

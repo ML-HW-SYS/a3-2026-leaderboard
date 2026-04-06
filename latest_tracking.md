@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 01:31:02 PM ET`
+Last updated: `April 06, 2026 at 01:39:56 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 01:39 PM ET | ashaikh23 | failed_correctness | R2: SETUP: ERR: AttributeError: 'SpecialSparseAttention' object has no attribute '_mask_mod' \| R3: SETUP: ERR: TypeEr... | submission.py | aff710 | 15.6/0.9/16.5 | 540.3 | 0.0 | 0.0 | 0.0 |
+| Apr 06 01:36 PM ET | PurplePickle67 | evaluated |  | submission.py | e7f234 | 31.1/6.6/37.7 | 494.2 | 98.0 | 36.5 | 52.0 |
+| Apr 06 01:34 PM ET | leoli | evaluated |  | submission.py | 7ef4b9 | 19.6/3.1/22.7 | 544.9 | 326.7 | 71.0 | 87.7 |
 | Apr 06 01:30 PM ET | ashaikh23 | failed_correctness | R2: SETUP: ERR: AttributeError: 'SpecialSparseAttention' object has no attribute '_mask_mod' \| R3: SETUP: ERR: TypeEr... | develop.py | b0fe4a | 25.7/0.9/26.6 | 539.8 | 0.0 | 0.0 | 0.0 |
 | Apr 06 01:27 PM ET | Rithvik | evaluated |  | submission.py | 2924a0 | 46.5/2.9/49.4 | 495.8 | 335.8 | 27.1 | 48.0 |
 | Apr 06 01:25 PM ET | leoli | evaluated |  | submission.py | e7a6af | 14.6/9.7/24.3 | 160.4 | 121.0 | 335.2 | 233.3 |
