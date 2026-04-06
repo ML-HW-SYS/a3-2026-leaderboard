@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 12:40:02 PM ET`
+Last updated: `April 06, 2026 at 12:48:14 PM ET`
 
 ## R1 (tok/s)
 
@@ -45,6 +45,7 @@ Last updated: `April 06, 2026 at 12:40:02 PM ET`
 |  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
+|  | Licha | failed | 7c27ce |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | pallavi-srinivas | failed | 95ea8c |  |
 |  | poppyPotatoe | failed | aa5125 |  |
@@ -100,6 +101,7 @@ Last updated: `April 06, 2026 at 12:40:02 PM ET`
 |  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
+|  | Licha | failed | 7c27ce |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | pallavi-srinivas | failed | 95ea8c |  |
 |  | poppyPotatoe | failed | aa5125 |  |
@@ -155,6 +157,7 @@ Last updated: `April 06, 2026 at 12:40:02 PM ET`
 |  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
+|  | Licha | failed | 7c27ce |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | pallavi-srinivas | failed | 95ea8c |  |
 |  | poppyPotatoe | failed | aa5125 |  |
@@ -210,6 +213,7 @@ Last updated: `April 06, 2026 at 12:40:02 PM ET`
 |  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
+|  | Licha | failed | 7c27ce |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | pallavi-srinivas | failed | 95ea8c |  |
 |  | poppyPotatoe | failed | aa5125 |  |

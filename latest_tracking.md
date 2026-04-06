@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 12:40:02 PM ET`
+Last updated: `April 06, 2026 at 12:48:14 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 12:43 PM ET | Decode_speed | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | 3314ef | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 06 12:42 PM ET | Licha | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 7c27ce | 38.6/5.3/43.8 | 521.5 | 192.8 | 201.0 | 210.1 |
 | Apr 06 12:37 PM ET | abhik | evaluated |  | submission.py | 9cf11c | 25.0/6.1/31.1 | 535.2 | 171.6 | 306.6 | 237.6 |
 | Apr 06 12:36 PM ET | PurplePickle67 | evaluated |  | submission.py | 4b9f7b | 46.0/6.7/52.6 | 490.1 | 96.8 | 36.6 | 52.4 |
 | Apr 06 12:35 PM ET | Rithvik | evaluated |  | submission.py | 6ce63a | 51.3/3.3/54.5 | 451.7 | 280.8 | 27.0 | 48.1 |

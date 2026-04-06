@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 06, 2026 at 12:40:02 PM ET`
+Last updated: `April 06, 2026 at 12:48:14 PM ET`
 
 ## Pages
 
@@ -51,6 +51,7 @@ Last updated: `April 06, 2026 at 12:40:02 PM ET`
 |  | jl | failed | cc349d | 62.2/6.2/68.3 |  |  |  |  |  |
 |  | Junyi Li | failed | c31a30 | 71.5/6.1/77.6 |  |  |  |  |  |
 |  | landrum | failed | b88426 | 0.0/0.0/0.0 |  |  |  |  |  |
+|  | Licha | failed | 7c27ce | 38.6/5.3/43.8 |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
 |  | pallavi-srinivas | failed | 95ea8c | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | poppyPotatoe | failed | aa5125 | 0.0/0.0/0.0 |  |  |  |  |  |
