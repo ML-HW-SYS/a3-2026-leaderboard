@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 10:30:47 AM ET`
+Last updated: `April 06, 2026 at 10:39:15 AM ET`
 
 ## R1 (tok/s)
 
@@ -34,16 +34,16 @@ Last updated: `April 06, 2026 at 10:30:47 AM ET`
 | 26 | nicknam534534 | evaluated | 1bad48 | 524.1 |
 | 27 | ethanchen | evaluated | ea518d | 523.7 |
 | 28 | hw_bloss | evaluated | 2d26da | 523.5 |
-| 29 | ngoguen | evaluated | a5cdb8 | 515.9 |
-| 30 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 31 | tuo | evaluated | 3d6d40 | 494.8 |
-| 32 | PurplePickle67 | evaluated | bcdd0a | 483.0 |
-| 33 | Rithvik | evaluated | 681e7e | 446.4 |
+| 29 | leoli | evaluated | bf7876 | 519.5 |
+| 30 | ngoguen | evaluated | a5cdb8 | 515.9 |
+| 31 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 32 | tuo | evaluated | 3d6d40 | 494.8 |
+| 33 | PurplePickle67 | evaluated | 1c5af0 | 484.2 |
+| 34 | Rithvik | evaluated | 681e7e | 446.4 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
-|  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | pallavi-srinivas | failed | 95ea8c |  |
 |  | poppyPotatoe | failed | aa5125 |  |
@@ -90,14 +90,14 @@ Last updated: `April 06, 2026 at 10:30:47 AM ET`
 | 28 | ngoguen | evaluated | a5cdb8 | 169.7 |
 | 29 | hw_bloss | evaluated | 2d26da | 169.3 |
 | 30 | fishyfins | evaluated | 2ac776 | 168.7 |
-| 31 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 32 | PurplePickle67 | evaluated | bcdd0a | 137.6 |
-| 33 | beratcelik | evaluated | 80b48f | 132.8 |
+| 31 | leoli | evaluated | bf7876 | 168.6 |
+| 32 | nicknam534534 | evaluated | 1bad48 | 148.4 |
+| 33 | PurplePickle67 | evaluated | 1c5af0 | 137.9 |
+| 34 | beratcelik | evaluated | 80b48f | 132.8 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
-|  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | pallavi-srinivas | failed | 95ea8c |  |
 |  | poppyPotatoe | failed | aa5125 |  |
@@ -145,13 +145,13 @@ Last updated: `April 06, 2026 at 10:30:47 AM ET`
 | 29 | hw_bloss | evaluated | 2d26da | 307.0 |
 | 30 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 31 | ngoguen | evaluated | a5cdb8 | 310.3 |
-| 32 | nicknam534534 | evaluated | 1bad48 | 405.4 |
-| 33 | PurplePickle67 | evaluated | bcdd0a | 621.9 |
+| 32 | leoli | evaluated | bf7876 | 311.4 |
+| 33 | nicknam534534 | evaluated | 1bad48 | 405.4 |
+| 34 | PurplePickle67 | evaluated | 1c5af0 | 621.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
-|  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | pallavi-srinivas | failed | 95ea8c |  |
 |  | poppyPotatoe | failed | aa5125 |  |
@@ -199,13 +199,13 @@ Last updated: `April 06, 2026 at 10:30:47 AM ET`
 | 29 | abhik | evaluated | 575817 | 240.6 |
 | 30 | your_nickname_here | evaluated | f10b9b | 246.4 |
 | 31 | ngoguen | evaluated | a5cdb8 | 249.7 |
-| 32 | nicknam534534 | evaluated | 1bad48 | 269.2 |
-| 33 | PurplePickle67 | evaluated | bcdd0a | 383.9 |
+| 32 | leoli | evaluated | bf7876 | 250.9 |
+| 33 | nicknam534534 | evaluated | 1bad48 | 269.2 |
+| 34 | PurplePickle67 | evaluated | 1c5af0 | 382.6 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
-|  | leoli | failed | 1f54f4 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | pallavi-srinivas | failed | 95ea8c |  |
 |  | poppyPotatoe | failed | aa5125 |  |
