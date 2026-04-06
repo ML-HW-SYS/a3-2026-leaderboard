@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 03:23:24 PM ET`
+Last updated: `April 06, 2026 at 03:31:23 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 03:28 PM ET | PurplePickle67 | failed_correctness | R1: SETUP: ERR: CompilationError: at 59:41: mask=(offs_lane < K), other=0.0, ).to(tl.float32) # shape: (8,) w_u32 = t... | submission.py | 8fe0b1 | 33.7/0.3/34.0 | 0.0 | 0.0 | 35.2 | 52.2 |
 | Apr 06 03:21 PM ET | ishan-pat | evaluated |  | develop.py | 7a764e | 24.9/4.0/28.9 | 525.2 | 217.2 | 61.3 | 110.5 |
 | Apr 06 03:13 PM ET | ishan-pat | evaluated |  | submission.py | 7a764e | 38.8/4.0/42.8 | 523.0 | 217.8 | 61.1 | 109.8 |
 | Apr 06 03:11 PM ET | PurplePickle67 | failed_correctness | R1: SETUP: ERR: CompilationError: at 59:41: mask=valid_g & (offs_lane < K), other=0.0, ).to(tl.float32) # shape: (8,)... | submission.py | acb008 | 34.0/0.3/34.4 | 0.0 | 0.0 | 35.1 | 52.0 |
