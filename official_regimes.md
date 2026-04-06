@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 03:54:06 PM ET`
+Last updated: `April 06, 2026 at 04:02:35 PM ET`
 
 ## R1 (tok/s)
 
@@ -45,7 +45,7 @@ Last updated: `April 06, 2026 at 03:54:06 PM ET`
 |  | beratcelik | failed | b5bc29 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | Junyi Li | failed | c31a30 |  |
-|  | landrum | failed | b88426 |  |
+|  | landrum | failed | aeab84 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | pallavi-srinivas | failed | 95ea8c |  |
 |  | poppyPotatoe | failed | aa5125 |  |
@@ -101,7 +101,7 @@ Last updated: `April 06, 2026 at 03:54:06 PM ET`
 |  | beratcelik | failed | b5bc29 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | Junyi Li | failed | c31a30 |  |
-|  | landrum | failed | b88426 |  |
+|  | landrum | failed | aeab84 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | pallavi-srinivas | failed | 95ea8c |  |
 |  | poppyPotatoe | failed | aa5125 |  |
@@ -157,7 +157,7 @@ Last updated: `April 06, 2026 at 03:54:06 PM ET`
 |  | beratcelik | failed | b5bc29 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | Junyi Li | failed | c31a30 |  |
-|  | landrum | failed | b88426 |  |
+|  | landrum | failed | aeab84 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | pallavi-srinivas | failed | 95ea8c |  |
 |  | poppyPotatoe | failed | aa5125 |  |
@@ -213,7 +213,7 @@ Last updated: `April 06, 2026 at 03:54:06 PM ET`
 |  | beratcelik | failed | b5bc29 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | Junyi Li | failed | c31a30 |  |
-|  | landrum | failed | b88426 |  |
+|  | landrum | failed | aeab84 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | pallavi-srinivas | failed | 95ea8c |  |
 |  | poppyPotatoe | failed | aa5125 |  |
