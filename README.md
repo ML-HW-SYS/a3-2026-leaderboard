@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 06, 2026 at 04:02:35 PM ET`
+Last updated: `April 06, 2026 at 04:14:11 PM ET`
 
 ## Pages
 
@@ -31,13 +31,13 @@ Last updated: `April 06, 2026 at 04:02:35 PM ET`
 | 17 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 37.2/3.1/40.3 | 1.177 | 560.4 | 326.5 | 70.9 | 89.2 |
 | 18 | leoli | evaluated | 5cdac4 | 20.6/3.1/23.8 | 1.174 | 544.1 | 327.5 | 71.0 | 87.4 |
 | 19 | Shengwei | evaluated | 358bcd | 19.5/3.2/22.7 | 1.170 | 537.4 | 327.3 | 70.8 | 87.7 |
-| 20 | ashaikh23 | evaluated | 1ce409 | 20.2/3.2/23.4 | 1.156 | 536.0 | 329.5 | 59.7 | 109.7 |
-| 21 | PurplePickle67 | evaluated | acdd1d | 30.2/6.6/36.8 | 1.137 | 493.9 | 97.9 | 36.7 | 52.2 |
-| 22 | ishan-pat | evaluated | 7a764e | 38.8/4.0/42.8 | 1.030 | 523.0 | 217.8 | 61.1 | 109.8 |
-| 23 | ethanchen | evaluated | ea518d | 37.9/3.8/41.7 | 0.987 | 523.7 | 251.2 | 74.4 | 123.6 |
-| 24 | TA | evaluated | a6e863 | 47.2/3.5/50.8 | 0.984 | 556.6 | 294.5 | 85.6 | 135.6 |
-| 25 | jl | evaluated | e6ce85 | 38.8/3.5/42.3 | 0.942 | 574.4 | 313.1 | 101.9 | 148.1 |
-| 26 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
+| 20 | ashaikh23 | evaluated | 4d60d0 | 21.4/3.2/24.5 | 1.163 | 541.4 | 330.1 | 58.9 | 110.1 |
+| 21 | ishan-pat | evaluated | 7a764e | 38.8/4.0/42.8 | 1.030 | 523.0 | 217.8 | 61.1 | 109.8 |
+| 22 | ethanchen | evaluated | ea518d | 37.9/3.8/41.7 | 0.987 | 523.7 | 251.2 | 74.4 | 123.6 |
+| 23 | TA | evaluated | a6e863 | 47.2/3.5/50.8 | 0.984 | 556.6 | 294.5 | 85.6 | 135.6 |
+| 24 | jl | evaluated | e6ce85 | 38.8/3.5/42.3 | 0.942 | 574.4 | 313.1 | 101.9 | 148.1 |
+| 25 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
+| 26 | sjb | evaluated | c0765b | 50.7/4.7/55.4 | 0.778 | 531.3 | 192.2 | 127.5 | 144.8 |
 | 27 | 13rabbit | evaluated | 24af86 | 37.5/4.7/42.3 | 0.710 | 540.4 | 215.5 | 193.8 | 156.8 |
 | 28 | tuo | evaluated | 3d6d40 | 74.5/4.9/79.3 | 0.704 | 494.8 | 204.6 | 167.8 | 162.8 |
 | 29 | Licha | evaluated | 8fdc3a | 38.5/5.3/43.8 | 0.625 | 521.4 | 192.4 | 202.7 | 215.0 |
@@ -48,16 +48,16 @@ Last updated: `April 06, 2026 at 04:02:35 PM ET`
 | 34 | ngoguen | evaluated | a5cdb8 | 40.8/6.2/47.0 | 0.523 | 515.9 | 169.7 | 310.3 | 249.7 |
 | 35 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
 | 36 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
-|  | beratcelik | failed | b5bc29 | 33.3/2.8/36.2 |  |  |  |  |  |
+|  | beratcelik | failed | b156fd | 33.0/2.8/35.9 |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | Junyi Li | failed | c31a30 | 71.5/6.1/77.6 |  |  |  |  |  |
-|  | landrum | failed | aeab84 | 19.7/6.2/25.9 |  |  |  |  |  |
+|  | landrum | failed | d8bde1 | 19.9/6.2/26.1 |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
 |  | pallavi-srinivas | failed | 95ea8c | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | poppyPotatoe | failed | aa5125 | 0.0/0.0/0.0 |  |  |  |  |  |
+|  | PurplePickle67 | failed | e394c7 | 33.5/0.3/33.8 |  |  |  |  |  |
 |  | pyjuan91 | failed | 55e076 | 21.8/7.0/28.8 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | sjb | failed | 7c6e84 | 31.7/3.6/35.3 |  |  |  |  |  |
 |  | stefan | failed | 7fb393 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | Sulaiman Alam | failed | 6478cf | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | TheProphet | failed | 2d859a |  |  |  |  |  |  |

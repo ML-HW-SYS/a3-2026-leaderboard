@@ -1,9 +1,15 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 04:02:35 PM ET`
+Last updated: `April 06, 2026 at 04:14:11 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 04:14 PM ET | beratcelik | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 63:12: h_mod = hq % DILATION neg_inf = tl.full((), float("-inf"), tl... | submission.py | b156fd | 33.0/2.8/35.9 | 0.0 | 242.9 | 68.3 | 113.8 |
+| Apr 06 04:12 PM ET | ashaikh23 | evaluated |  | submission.py | 4d60d0 | 21.4/3.2/24.5 | 541.4 | 330.1 | 58.9 | 110.1 |
+| Apr 06 04:11 PM ET | landrum | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | d8bde1 | 19.9/6.2/26.1 | 520.0 | 170.1 | 307.7 | 246.4 |
+| Apr 06 04:09 PM ET | PurplePickle67 | failed_correctness | R1: SETUP: ERR: CompilationError: at 55:48: mask=mask_n & valid_g & (kpack < K8), other=0, ).to(tl.uint32) x_offs = k... | submission.py | e394c7 | 33.5/0.3/33.8 | 0.0 | 0.0 | 35.2 | 52.0 |
+| Apr 06 04:06 PM ET | stefan | evaluated |  | develop.py | 9a25e1 | 37.9/6.2/44.1 | 539.1 | 170.0 | 309.6 | 248.5 |
+| Apr 06 04:05 PM ET | sjb | evaluated |  | submission.py | c0765b | 50.7/4.7/55.4 | 531.3 | 192.2 | 127.5 | 144.8 |
 | Apr 06 04:01 PM ET | landrum | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | aeab84 | 19.7/6.2/25.9 | 537.4 | 169.8 | 308.7 | 245.5 |
 | Apr 06 03:57 PM ET | stefan | evaluated |  | develop.py | 64be8a | 27.2/6.2/33.4 | 525.3 | 169.6 | 310.3 | 250.0 |
 | Apr 06 03:36 PM ET | PurplePickle67 | evaluated |  | submission.py | acdd1d | 30.2/6.6/36.8 | 493.9 | 97.9 | 36.7 | 52.2 |
