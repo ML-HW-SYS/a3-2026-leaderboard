@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 06:35:02 AM ET`
+Last updated: `April 06, 2026 at 06:43:26 AM ET`
 
 ## R1 (tok/s)
 
@@ -33,7 +33,7 @@ Last updated: `April 06, 2026 at 06:35:02 AM ET`
 | 25 | nicknam534534 | evaluated | 1bad48 | 524.1 |
 | 26 | ethanchen | evaluated | ea518d | 523.7 |
 | 27 | hw_bloss | evaluated | 2d26da | 523.5 |
-| 28 | zhumengzhiren | evaluated | 93240d | 515.9 |
+| 28 | zhumengzhiren | evaluated | 364da9 | 516.3 |
 | 29 | ngoguen | evaluated | a5cdb8 | 515.9 |
 | 30 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
 | 31 | tuo | evaluated | 3d6d40 | 494.8 |
@@ -64,9 +64,9 @@ Last updated: `April 06, 2026 at 06:35:02 AM ET`
 | 3 | - - | evaluated | adc0f3 | 386.9 |
 | 4 | alifim | evaluated | 701077 | 381.2 |
 | 5 | abarat007 | evaluated | d7f626 | 378.6 |
-| 6 | prousoglou | evaluated | 570c63 | 368.2 |
-| 7 | gm | evaluated | 2898fc | 357.0 |
-| 8 | zhumengzhiren | evaluated | 93240d | 340.6 |
+| 6 | zhumengzhiren | evaluated | 364da9 | 370.0 |
+| 7 | prousoglou | evaluated | 570c63 | 368.2 |
+| 8 | gm | evaluated | 2898fc | 357.0 |
 | 9 | JasonWang07 | evaluated | 414385 | 336.4 |
 | 10 | nickname55555555 | evaluated | 99ddc2 | 334.1 |
 | 11 | ashaikh23 | evaluated | d98c0b | 330.0 |
@@ -122,13 +122,13 @@ Last updated: `April 06, 2026 at 06:35:02 AM ET`
 | 8 | prousoglou | evaluated | 570c63 | 34.7 |
 | 9 | chickfila | evaluated | f0956d | 34.7 |
 | 10 | gravlax | evaluated | b1229d | 35.0 |
-| 11 | bl792 | evaluated | 743b6d | 41.1 |
-| 12 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
-| 13 | ashaikh23 | evaluated | d98c0b | 58.8 |
-| 14 | happyface | evaluated | 7e8b61 | 63.7 |
-| 15 | ishan-pat | evaluated | 79d328 | 64.1 |
-| 16 | alifim | evaluated | 701077 | 64.8 |
-| 17 | zhumengzhiren | evaluated | 93240d | 67.4 |
+| 11 | zhumengzhiren | evaluated | 364da9 | 37.7 |
+| 12 | bl792 | evaluated | 743b6d | 41.1 |
+| 13 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
+| 14 | ashaikh23 | evaluated | d98c0b | 58.8 |
+| 15 | happyface | evaluated | 7e8b61 | 63.7 |
+| 16 | ishan-pat | evaluated | 79d328 | 64.1 |
+| 17 | alifim | evaluated | 701077 | 64.8 |
 | 18 | beratcelik | evaluated | 80b48f | 69.0 |
 | 19 | JasonWang07 | evaluated | 414385 | 69.4 |
 | 20 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
@@ -171,20 +171,20 @@ Last updated: `April 06, 2026 at 06:35:02 AM ET`
 | 4 | Rithvik | evaluated | 1b2948 | 49.1 |
 | 5 | chickfila | evaluated | f0956d | 49.6 |
 | 6 | abarat007 | evaluated | d7f626 | 51.5 |
-| 7 | nickname55555555 | evaluated | 99ddc2 | 53.0 |
-| 8 | gravlax | evaluated | b1229d | 59.7 |
-| 9 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 59.9 |
-| 10 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
-| 11 | prousoglou | evaluated | 570c63 | 65.3 |
-| 12 | happyface | evaluated | 7e8b61 | 66.0 |
-| 13 | bl792 | evaluated | 743b6d | 68.4 |
-| 14 | JasonWang07 | evaluated | 414385 | 78.4 |
-| 15 | Shengwei | evaluated | 1f8749 | 88.1 |
-| 16 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
-| 17 | alifim | evaluated | 701077 | 109.2 |
-| 18 | ashaikh23 | evaluated | d98c0b | 109.9 |
-| 19 | ishan-pat | evaluated | 79d328 | 110.9 |
-| 20 | zhumengzhiren | evaluated | 93240d | 112.6 |
+| 7 | zhumengzhiren | evaluated | 364da9 | 52.7 |
+| 8 | nickname55555555 | evaluated | 99ddc2 | 53.0 |
+| 9 | gravlax | evaluated | b1229d | 59.7 |
+| 10 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 59.9 |
+| 11 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
+| 12 | prousoglou | evaluated | 570c63 | 65.3 |
+| 13 | happyface | evaluated | 7e8b61 | 66.0 |
+| 14 | bl792 | evaluated | 743b6d | 68.4 |
+| 15 | JasonWang07 | evaluated | 414385 | 78.4 |
+| 16 | Shengwei | evaluated | 1f8749 | 88.1 |
+| 17 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
+| 18 | alifim | evaluated | 701077 | 109.2 |
+| 19 | ashaikh23 | evaluated | d98c0b | 109.9 |
+| 20 | ishan-pat | evaluated | 79d328 | 110.9 |
 | 21 | beratcelik | evaluated | 80b48f | 114.0 |
 | 22 | ethanchen | evaluated | ea518d | 123.6 |
 | 23 | TA | evaluated | a6e863 | 135.6 |
