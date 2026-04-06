@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 06:38:38 PM ET`
+Last updated: `April 06, 2026 at 06:48:03 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 06:47 PM ET | yoursun1220 | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | 74425f |  |  |  |  |  |
+| Apr 06 06:45 PM ET | PurplePickle67 | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | submission.py | b01c10 | 60.9/5.5/66.5 | 473.4 | 118.7 | 37.5 | 0.0 |
+| Apr 06 06:41 PM ET | Yize | evaluated |  | develop.py | e03fd5 | 15.1/9.9/25.0 | 135.6 | 96.6 | 81.4 | 130.3 |
 | Apr 06 06:37 PM ET | yoursun1220 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | db9ee9 | 28.4/6.2/34.6 | 526.0 | 169.6 | 308.6 | 246.4 |
 | Apr 06 06:37 PM ET | ashaikh23 | evaluated |  | submission.py | 5a4a7c | 42.9/3.1/46.0 | 541.6 | 336.6 | 59.7 | 109.7 |
 | Apr 06 06:36 PM ET | landrum | failed_correctness | R3: SETUP: ERR: CompilationError: at 41:10: tl.store( s_ptr + batch_idx * stride_sb + row_idx * stride_so + group_idx... | develop.py | b42e7d | 20.1/3.8/24.0 | 537.6 | 177.3 | 0.0 | 0.0 |
