@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 05, 2026 at 09:37:33 PM ET`
+Last updated: `April 05, 2026 at 09:46:47 PM ET`
 
 ## R1 (tok/s)
 
@@ -74,7 +74,7 @@ Last updated: `April 05, 2026 at 09:37:33 PM ET`
 | 26 | ishan-pat | submission.py | c482b3 | 217.9 |
 | 27 | 13rabbit | submission.py | 24af86 | 215.5 |
 | 28 | tuo | submission.py | 3d6d40 | 204.6 |
-| 29 | sjb | develop.py | 9f07d5 | 189.8 |
+| 29 | sjb | submission.py | 78ddc4 | 192.0 |
 | 30 | your_nickname_here | submission.py | 59e245 | 173.4 |
 | 31 | PurplePickle67 | submission.py | 231258 | 172.1 |
 | 32 | abhik | submission.py | 575817 | 170.3 |
