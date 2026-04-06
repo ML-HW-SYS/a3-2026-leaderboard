@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 03:03:38 AM ET`
+Last updated: `April 06, 2026 at 03:10:58 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 03:04 AM ET | zhumengzhiren | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | 945944 |  |  |  |  |  |
 | Apr 06 02:09 AM ET | PurplePickle67 | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 02d8c9 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 06 01:30 AM ET | PurplePickle67 | evaluated |  | submission.py | 244d2f | 21.2/6.7/27.9 | 516.3 | 171.7 | 413.1 | 270.9 |
 | Apr 06 01:15 AM ET | PurplePickle67 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | e68dcb | 19.0/21.7/40.7 | 92.5 | 36.8 | 323.6 | 248.9 |

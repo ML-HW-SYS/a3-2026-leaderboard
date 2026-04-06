@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 03:03:38 AM ET`
+Last updated: `April 06, 2026 at 03:10:58 AM ET`
 
 ## R1 (tok/s)
 
@@ -53,6 +53,7 @@ Last updated: `April 06, 2026 at 03:03:38 AM ET`
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
 |  | Yize | failed | d04433 |  |
+|  | zhumengzhiren | failed | 945944 |  |
 
 ## R2 (tok/s)
 
@@ -105,6 +106,7 @@ Last updated: `April 06, 2026 at 03:03:38 AM ET`
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
 |  | Yize | failed | d04433 |  |
+|  | zhumengzhiren | failed | 945944 |  |
 
 ## R3 (ms)
 
@@ -157,6 +159,7 @@ Last updated: `April 06, 2026 at 03:03:38 AM ET`
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
 |  | Yize | failed | d04433 |  |
+|  | zhumengzhiren | failed | 945944 |  |
 
 ## R4 (ms)
 
@@ -209,3 +212,4 @@ Last updated: `April 06, 2026 at 03:03:38 AM ET`
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
 |  | Yize | failed | d04433 |  |
+|  | zhumengzhiren | failed | 945944 |  |
