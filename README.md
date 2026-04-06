@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 06, 2026 at 07:45:48 AM ET`
+Last updated: `April 06, 2026 at 07:53:58 AM ET`
 
 ## Pages
 
@@ -16,7 +16,7 @@ Last updated: `April 06, 2026 at 07:45:48 AM ET`
 | 2 | chyyy | evaluated | 34cc06 | 33.5/2.4/35.9 | 1.918 | 555.7 | 433.8 | 24.8 | 47.6 |
 | 3 | gm | evaluated | 2898fc | 20.9/2.7/23.6 | 1.772 | 541.1 | 357.0 | 26.8 | 48.5 |
 | 4 | abarat007 | evaluated | d7f626 | 47.1/2.6/49.7 | 1.764 | 559.5 | 378.6 | 28.1 | 51.5 |
-| 5 | zhumengzhiren | evaluated | 4e6cf9 | 33.8/2.7/36.5 | 1.717 | 519.6 | 380.9 | 29.6 | 51.0 |
+| 5 | zhumengzhiren | evaluated | ee894f | 40.9/2.7/43.6 | 1.703 | 514.4 | 378.3 | 29.9 | 51.3 |
 | 6 | chickfila | evaluated | f0956d | 65.8/2.6/68.4 | 1.693 | 534.5 | 398.8 | 34.7 | 49.6 |
 | 7 | nickname55555555 | evaluated | 99ddc2 | 27.8/2.8/30.6 | 1.633 | 552.2 | 334.1 | 32.4 | 53.0 |
 | 8 | Rithvik | evaluated | 1b2948 | 66.5/3.2/69.7 | 1.600 | 478.7 | 275.9 | 27.2 | 49.1 |
