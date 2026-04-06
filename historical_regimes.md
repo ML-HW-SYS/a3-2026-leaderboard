@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 11:25:13 AM ET`
+Last updated: `April 06, 2026 at 11:35:04 AM ET`
 
 ## R1 (tok/s)
 
@@ -79,11 +79,11 @@ Last updated: `April 06, 2026 at 11:25:13 AM ET`
 | 28 | 13rabbit | submission.py | 24af86 | 215.5 |
 | 29 | tuo | submission.py | 3d6d40 | 204.6 |
 | 30 | sjb | submission.py | 78ddc4 | 192.0 |
-| 31 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 32 | PurplePickle67 | submission.py | 231258 | 172.1 |
-| 33 | abhik | submission.py | 575817 | 170.3 |
-| 34 | ngoguen | submission.py | a5cdb8 | 169.7 |
-| 35 | leoli | develop.py | 2a1199 | 169.4 |
+| 31 | leoli | develop.py | a8650b | 175.3 |
+| 32 | your_nickname_here | submission.py | 59e245 | 173.4 |
+| 33 | PurplePickle67 | submission.py | 231258 | 172.1 |
+| 34 | abhik | submission.py | 575817 | 170.3 |
+| 35 | ngoguen | submission.py | a5cdb8 | 169.7 |
 | 36 | hw_bloss | submission.py | 2d26da | 169.3 |
 | 37 | nicknam534534 | submission.py | 1bad48 | 148.4 |
 
@@ -108,9 +108,9 @@ Last updated: `April 06, 2026 at 11:25:13 AM ET`
 | 15 | ashaikh23 | submission.py | d98c0b | 58.8 |
 | 16 | happyface | submission.py | 9f7886 | 63.4 |
 | 17 | ishan-pat | submission.py | d1ffac | 64.0 |
-| 18 | alifim | submission.py | 701077 | 64.8 |
-| 19 | beratcelik | submission.py | 11c1b8 | 65.4 |
-| 20 | PurplePickle67 | submission.py | aea601 | 65.4 |
+| 18 | PurplePickle67 | submission.py | 225892 | 64.7 |
+| 19 | alifim | submission.py | 701077 | 64.8 |
+| 20 | beratcelik | submission.py | 11c1b8 | 65.4 |
 | 21 | JasonWang07 | submission.py | f27837 | 68.2 |
 | 22 | Shengwei | submission.py | 077330 | 70.1 |
 | 23 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 70.9 |
@@ -121,12 +121,12 @@ Last updated: `April 06, 2026 at 11:25:13 AM ET`
 | 28 | sjb | submission.py | 421a78 | 128.8 |
 | 29 | tuo | submission.py | 92c00e | 166.9 |
 | 30 | 13rabbit | submission.py | 24af86 | 193.8 |
-| 31 | pyjuan91 | develop.py | 268544 | 303.2 |
-| 32 | fishyfins | submission.py | 2ac776 | 305.7 |
-| 33 | abhik | submission.py | 575817 | 306.0 |
-| 34 | hw_bloss | submission.py | 2d26da | 307.0 |
-| 35 | your_nickname_here | submission.py | 59e245 | 307.4 |
-| 36 | leoli | develop.py | 2a1199 | 310.3 |
+| 31 | leoli | develop.py | a8650b | 284.7 |
+| 32 | pyjuan91 | develop.py | 268544 | 303.2 |
+| 33 | fishyfins | submission.py | 2ac776 | 305.7 |
+| 34 | abhik | submission.py | 575817 | 306.0 |
+| 35 | hw_bloss | submission.py | 2d26da | 307.0 |
+| 36 | your_nickname_here | submission.py | 59e245 | 307.4 |
 | 37 | ngoguen | submission.py | a5cdb8 | 310.3 |
 | 38 | nicknam534534 | submission.py | 1bad48 | 405.4 |
 
@@ -154,7 +154,7 @@ Last updated: `April 06, 2026 at 11:25:13 AM ET`
 | 18 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 89.2 |
 | 19 | alifim | submission.py | 701077 | 109.2 |
 | 20 | ashaikh23 | submission.py | d98c0b | 109.9 |
-| 21 | PurplePickle67 | submission.py | aea601 | 110.3 |
+| 21 | PurplePickle67 | submission.py | 225892 | 110.2 |
 | 22 | beratcelik | submission.py | 11c1b8 | 110.5 |
 | 23 | ishan-pat | submission.py | d1ffac | 110.8 |
 | 24 | ethanchen | submission.py | bf6f9e | 123.0 |

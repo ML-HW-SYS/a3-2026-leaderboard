@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 11:25:13 AM ET`
+Last updated: `April 06, 2026 at 11:35:04 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 11:32 AM ET | PurplePickle67 | evaluated |  | submission.py | 225892 | 64.1/6.1/70.2 | 490.4 | 116.9 | 64.7 | 110.2 |
+| Apr 06 11:29 AM ET | leoli | evaluated |  | develop.py | a8650b | 19.6/6.1/25.6 | 521.3 | 175.3 | 284.7 | 253.5 |
+| Apr 06 11:26 AM ET | zhumengzhiren | evaluated |  | submission.py | 120f48 | 33.7/2.3/36.0 | 568.4 | 482.2 | 28.0 | 51.0 |
 | Apr 06 11:25 AM ET | beratcelik | evaluated |  | submission.py | f4763d | 25.0/4.7/29.6 | 548.0 | 171.4 | 68.9 | 114.2 |
 | Apr 06 11:21 AM ET | PurplePickle67 | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | submission.py | a09fda | 29.8/5.5/35.4 | 484.7 | 114.7 | 0.0 | 0.0 |
 | Apr 06 11:18 AM ET | TheProphet | failed_compliance | Submission compliance check failed for develop.py: \| - setup(...) must have arguments exactly `(weights, scales, conf... | develop.py | 2d859a |  |  |  |  |  |
