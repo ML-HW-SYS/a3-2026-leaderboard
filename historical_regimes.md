@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 07:06:38 AM ET`
+Last updated: `April 06, 2026 at 07:14:33 AM ET`
 
 ## R1 (tok/s)
 
@@ -53,7 +53,7 @@ Last updated: `April 06, 2026 at 07:06:38 AM ET`
 | 4 | TheProphet | submission.py | 84eefa | 382.8 |
 | 5 | alifim | submission.py | 701077 | 381.2 |
 | 6 | abarat007 | submission.py | d7f626 | 378.6 |
-| 7 | zhumengzhiren | develop.py | 58583c | 371.4 |
+| 7 | zhumengzhiren | submission.py | 773b00 | 371.7 |
 | 8 | prousoglou | submission.py | 570c63 | 368.2 |
 | 9 | gm | develop.py | fd15e9 | 357.3 |
 | 10 | JasonWang07 | develop.py | 414385 | 337.0 |
@@ -94,12 +94,12 @@ Last updated: `April 06, 2026 at 07:06:38 AM ET`
 | 4 | gm | submission.py | 2898fc | 26.8 |
 | 5 | Rithvik | submission.py | 8e6767 | 26.9 |
 | 6 | abarat007 | submission.py | d7f626 | 28.1 |
-| 7 | nickname55555555 | submission.py | 05c6ab | 31.9 |
-| 8 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
-| 9 | prousoglou | submission.py | 570c63 | 34.7 |
-| 10 | chickfila | submission.py | f0956d | 34.7 |
-| 11 | gravlax | develop.py | b1229d | 35.0 |
-| 12 | zhumengzhiren | develop.py | 58583c | 37.6 |
+| 7 | zhumengzhiren | submission.py | 773b00 | 29.6 |
+| 8 | nickname55555555 | submission.py | 05c6ab | 31.9 |
+| 9 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
+| 10 | prousoglou | submission.py | 570c63 | 34.7 |
+| 11 | chickfila | submission.py | f0956d | 34.7 |
+| 12 | gravlax | develop.py | b1229d | 35.0 |
 | 13 | bl792 | submission.py | 743b6d | 41.1 |
 | 14 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 43.1 |
 | 15 | ashaikh23 | submission.py | d98c0b | 58.8 |
@@ -136,9 +136,9 @@ Last updated: `April 06, 2026 at 07:06:38 AM ET`
 | 4 | Rithvik | submission.py | 1523b4 | 47.6 |
 | 5 | gm | submission.py | 2898fc | 48.5 |
 | 6 | chickfila | submission.py | f0956d | 49.6 |
-| 7 | abarat007 | submission.py | 260fed | 51.5 |
-| 8 | nickname55555555 | submission.py | 05c6ab | 52.5 |
-| 9 | zhumengzhiren | submission.py | 364da9 | 52.7 |
+| 7 | zhumengzhiren | submission.py | 773b00 | 51.0 |
+| 8 | abarat007 | submission.py | 260fed | 51.5 |
+| 9 | nickname55555555 | submission.py | 05c6ab | 52.5 |
 | 10 | gravlax | submission.py | b1229d | 59.7 |
 | 11 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 59.9 |
 | 12 | andrasferenczy | submission.py | 9c7f53 | 63.7 |

@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 07:06:38 AM ET`
+Last updated: `April 06, 2026 at 07:14:33 AM ET`
 
 ## R1 (tok/s)
 
@@ -35,7 +35,7 @@ Last updated: `April 06, 2026 at 07:06:38 AM ET`
 | 27 | hw_bloss | evaluated | 2d26da | 523.5 |
 | 28 | ngoguen | evaluated | a5cdb8 | 515.9 |
 | 29 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 30 | zhumengzhiren | evaluated | 58583c | 513.6 |
+| 30 | zhumengzhiren | evaluated | 773b00 | 513.2 |
 | 31 | tuo | evaluated | 3d6d40 | 494.8 |
 | 32 | Rithvik | evaluated | 1b2948 | 478.7 |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -64,7 +64,7 @@ Last updated: `April 06, 2026 at 07:06:38 AM ET`
 | 3 | - - | evaluated | adc0f3 | 386.9 |
 | 4 | alifim | evaluated | 701077 | 381.2 |
 | 5 | abarat007 | evaluated | d7f626 | 378.6 |
-| 6 | zhumengzhiren | evaluated | 58583c | 369.9 |
+| 6 | zhumengzhiren | evaluated | 773b00 | 371.7 |
 | 7 | prousoglou | evaluated | 570c63 | 368.2 |
 | 8 | gm | evaluated | 2898fc | 357.0 |
 | 9 | JasonWang07 | evaluated | 414385 | 336.4 |
@@ -117,12 +117,12 @@ Last updated: `April 06, 2026 at 07:06:38 AM ET`
 | 3 | gm | evaluated | 2898fc | 26.8 |
 | 4 | Rithvik | evaluated | 1b2948 | 27.2 |
 | 5 | abarat007 | evaluated | d7f626 | 28.1 |
-| 6 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
-| 7 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
-| 8 | prousoglou | evaluated | 570c63 | 34.7 |
-| 9 | chickfila | evaluated | f0956d | 34.7 |
-| 10 | gravlax | evaluated | b1229d | 35.0 |
-| 11 | zhumengzhiren | evaluated | 58583c | 37.8 |
+| 6 | zhumengzhiren | evaluated | 773b00 | 29.6 |
+| 7 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
+| 8 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
+| 9 | prousoglou | evaluated | 570c63 | 34.7 |
+| 10 | chickfila | evaluated | f0956d | 34.7 |
+| 11 | gravlax | evaluated | b1229d | 35.0 |
 | 12 | bl792 | evaluated | 743b6d | 41.1 |
 | 13 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
 | 14 | ashaikh23 | evaluated | d98c0b | 58.8 |
@@ -170,9 +170,9 @@ Last updated: `April 06, 2026 at 07:06:38 AM ET`
 | 3 | gm | evaluated | 2898fc | 48.5 |
 | 4 | Rithvik | evaluated | 1b2948 | 49.1 |
 | 5 | chickfila | evaluated | f0956d | 49.6 |
-| 6 | abarat007 | evaluated | d7f626 | 51.5 |
-| 7 | nickname55555555 | evaluated | 99ddc2 | 53.0 |
-| 8 | zhumengzhiren | evaluated | 58583c | 53.6 |
+| 6 | zhumengzhiren | evaluated | 773b00 | 51.0 |
+| 7 | abarat007 | evaluated | d7f626 | 51.5 |
+| 8 | nickname55555555 | evaluated | 99ddc2 | 53.0 |
 | 9 | gravlax | evaluated | b1229d | 59.7 |
 | 10 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 59.9 |
 | 11 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
