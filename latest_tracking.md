@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 01:57:32 PM ET`
+Last updated: `April 06, 2026 at 02:06:29 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 02:05 PM ET | ashaikh23 | failed_correctness | R2: SETUP: ERR: AttributeError: 'SpecialSparseAttention' object has no attribute '_mask_mod' \| R3: SETUP: ERR: Attrib... | submission.py | 9b03e8 | 18.6/0.9/19.5 | 541.4 | 0.0 | 0.0 | 0.0 |
+| Apr 06 02:03 PM ET | PurplePickle67 | evaluated |  | submission.py | e67c41 | 31.0/6.6/37.6 | 491.7 | 98.0 | 36.5 | 52.0 |
+| Apr 06 02:01 PM ET | leoli | evaluated |  | submission.py | 1713f2 | 14.5/8.3/22.7 | 158.2 | 137.6 | 158.5 | 172.5 |
 | Apr 06 01:56 PM ET | landrum | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | dd73a3 | 27.4/6.2/33.6 | 524.3 | 169.2 | 309.1 | 246.9 |
 | Apr 06 01:54 PM ET | PurplePickle67 | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 0faf76 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 06 01:44 PM ET | leoli | evaluated |  | submission.py | 3a3589 | 40.5/3.2/43.7 | 543.6 | 326.2 | 71.6 | 88.5 |

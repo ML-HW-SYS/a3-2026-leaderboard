@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 06, 2026 at 01:57:32 PM ET`
+Last updated: `April 06, 2026 at 02:06:29 PM ET`
 
 ## Pages
 
@@ -29,8 +29,8 @@ Last updated: `April 06, 2026 at 01:57:32 PM ET`
 | 15 | happyface | evaluated | 7e8b61 | 18.5/3.4/22.0 | 1.219 | 543.0 | 258.2 | 63.7 | 66.0 |
 | 16 | alifim | evaluated | 701077 | 30.0/3.0/33.0 | 1.178 | 539.6 | 381.2 | 64.8 | 109.2 |
 | 17 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 37.2/3.1/40.3 | 1.177 | 560.4 | 326.5 | 70.9 | 89.2 |
-| 18 | leoli | evaluated | 3a3589 | 40.5/3.2/43.7 | 1.167 | 543.6 | 326.2 | 71.6 | 88.5 |
-| 19 | Shengwei | evaluated | 1f8749 | 39.6/3.2/42.8 | 1.166 | 537.3 | 326.3 | 71.4 | 88.1 |
+| 18 | Shengwei | evaluated | 1f8749 | 39.6/3.2/42.8 | 1.166 | 537.3 | 326.3 | 71.4 | 88.1 |
+| 19 | PurplePickle67 | evaluated | e67c41 | 31.0/6.6/37.6 | 1.139 | 491.7 | 98.0 | 36.5 | 52.0 |
 | 20 | ishan-pat | evaluated | 79d328 | 41.6/4.0/45.6 | 1.017 | 527.0 | 218.1 | 64.1 | 110.9 |
 | 21 | ethanchen | evaluated | ea518d | 37.9/3.8/41.7 | 0.987 | 523.7 | 251.2 | 74.4 | 123.6 |
 | 22 | TA | evaluated | a6e863 | 47.2/3.5/50.8 | 0.984 | 556.6 | 294.5 | 85.6 | 135.6 |
@@ -43,8 +43,9 @@ Last updated: `April 06, 2026 at 01:57:32 PM ET`
 | 29 | fishyfins | evaluated | 2ac776 | 70.4/6.2/76.5 | 0.535 | 524.8 | 168.7 | 305.7 | 234.0 |
 | 30 | hw_bloss | evaluated | 4c9666 | 23.8/6.2/30.0 | 0.531 | 522.2 | 169.1 | 308.1 | 239.1 |
 | 31 | ngoguen | evaluated | a5cdb8 | 40.8/6.2/47.0 | 0.523 | 515.9 | 169.7 | 310.3 | 249.7 |
-| 32 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
-|  | ashaikh23 | failed | aff710 | 15.6/0.9/16.5 |  |  |  |  |  |
+| 32 | leoli | evaluated | 1713f2 | 14.5/8.3/22.7 | 0.479 | 158.2 | 137.6 | 158.5 | 172.5 |
+| 33 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
+|  | ashaikh23 | failed | 9b03e8 | 18.6/0.9/19.5 |  |  |  |  |  |
 |  | beratcelik | failed | b5bc29 | 33.3/2.8/36.2 |  |  |  |  |  |
 |  | Decode_speed | failed | 3314ef | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
@@ -54,7 +55,6 @@ Last updated: `April 06, 2026 at 01:57:32 PM ET`
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
 |  | pallavi-srinivas | failed | 95ea8c | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | poppyPotatoe | failed | aa5125 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | PurplePickle67 | failed | 0faf76 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | pyjuan91 | failed | 55e076 | 21.8/7.0/28.8 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | sjb | failed | 78ddc4 | 63.3/3.6/67.0 |  |  |  |  |  |
