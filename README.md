@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 06, 2026 at 05:26:16 PM ET`
+Last updated: `April 06, 2026 at 05:36:14 PM ET`
 
 ## Pages
 
@@ -39,7 +39,7 @@ Last updated: `April 06, 2026 at 05:26:16 PM ET`
 | 25 | TA | evaluated | a6e863 | 47.2/3.5/50.8 | 0.984 | 556.6 | 294.5 | 85.6 | 135.6 |
 | 26 | jl | evaluated | e6ce85 | 38.8/3.5/42.3 | 0.942 | 574.4 | 313.1 | 101.9 | 148.1 |
 | 27 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
-| 28 | 13rabbit | evaluated | 24af86 | 37.5/4.7/42.3 | 0.710 | 540.4 | 215.5 | 193.8 | 156.8 |
+| 28 | 13rabbit | evaluated | b38df9 | 37.3/4.0/41.3 | 0.884 | 542.8 | 242.9 | 100.3 | 142.7 |
 | 29 | tuo | evaluated | 3d6d40 | 74.5/4.9/79.3 | 0.704 | 494.8 | 204.6 | 167.8 | 162.8 |
 | 30 | Licha | evaluated | 8fdc3a | 38.5/5.3/43.8 | 0.625 | 521.4 | 192.4 | 202.7 | 215.0 |
 | 31 | landrum | evaluated | 7b5ab5 | 23.3/5.7/28.9 | 0.600 | 534.6 | 177.2 | 275.1 | 176.5 |
@@ -51,6 +51,7 @@ Last updated: `April 06, 2026 at 05:26:16 PM ET`
 | 37 | ngoguen | evaluated | a5cdb8 | 40.8/6.2/47.0 | 0.523 | 515.9 | 169.7 | 310.3 | 249.7 |
 | 38 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
 | 39 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
+|  | blabrl | failed | 9873f9 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | ishan-pat | failed | 1cf603 | 23.3/1.6/24.9 |  |  |  |  |  |
 |  | Junyi Li | failed | c31a30 | 71.5/6.1/77.6 |  |  |  |  |  |
@@ -60,10 +61,10 @@ Last updated: `April 06, 2026 at 05:26:16 PM ET`
 |  | pyjuan91 | failed | 55e076 | 21.8/7.0/28.8 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | Sulaiman Alam | failed | 6478cf | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | TheProphet | failed | 2d859a |  |  |  |  |  |  |
+|  | TheProphet | failed | 2ecbdc |  |  |  |  |  |  |
 |  | yb | failed | 8ca88e | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | Yize | failed | d04433 | 19.2/4.8/24.1 |  |  |  |  |  |
-|  | yoursun1220 | failed | cc8193 | 33.2/4.0/37.2 |  |  |  |  |  |
+|  | yoursun1220 | failed | 3ad5d1 | 21.2/6.2/27.4 |  |  |  |  |  |
 
 ## Column Guide
 

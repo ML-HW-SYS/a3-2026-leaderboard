@@ -1,9 +1,15 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 05:26:16 PM ET`
+Last updated: `April 06, 2026 at 05:36:14 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 05:35 PM ET | yoursun1220 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 3ad5d1 | 21.2/6.2/27.4 | 521.0 | 169.5 | 308.7 | 246.5 |
+| Apr 06 05:34 PM ET | landrum | evaluated |  | develop.py | 9cdabc | 23.4/5.7/29.1 | 533.9 | 176.3 | 276.7 | 177.2 |
+| Apr 06 05:33 PM ET | blabrl | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 9873f9 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 06 05:30 PM ET | TheProphet | failed_compliance | Submission compliance check failed for submission.py: \| - setup(...) must have arguments exactly `(weights, scales, c... | submission.py | 2ecbdc |  |  |  |  |  |
+| Apr 06 05:30 PM ET | 13rabbit | evaluated |  | submission.py | b38df9 | 37.3/4.0/41.3 | 542.8 | 242.9 | 100.3 | 142.7 |
+| Apr 06 05:27 PM ET | zhumengzhiren | evaluated |  | develop.py | cf2924 | 33.4/2.3/35.7 | 571.1 | 483.7 | 28.0 | 50.1 |
 | Apr 06 05:25 PM ET | yoursun1220 | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | submission.py | cc8193 | 33.2/4.0/37.2 | 524.4 | 169.7 | 0.0 | 0.0 |
 | Apr 06 05:23 PM ET | landrum | evaluated |  | develop.py | 434be2 | 75.7/7.2/82.9 | 250.3 | 151.8 | 275.9 | 176.1 |
 | Apr 06 05:17 PM ET | sjb | evaluated |  | develop.py | 974bff | 27.8/3.3/31.1 | 529.8 | 320.9 | 79.8 | 110.9 |
