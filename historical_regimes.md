@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 11:04:29 AM ET`
+Last updated: `April 06, 2026 at 11:15:04 AM ET`
 
 ## R1 (tok/s)
 
@@ -96,8 +96,8 @@ Last updated: `April 06, 2026 at 11:04:29 AM ET`
 | 3 | chyyy | submission.py | 34cc06 | 24.8 |
 | 4 | gm | submission.py | 2898fc | 26.8 |
 | 5 | Rithvik | submission.py | 8e6767 | 26.9 |
-| 6 | abarat007 | submission.py | d7f626 | 28.1 |
-| 7 | zhumengzhiren | develop.py | 23fbd6 | 28.2 |
+| 6 | zhumengzhiren | submission.py | 7f8887 | 28.0 |
+| 7 | abarat007 | submission.py | d7f626 | 28.1 |
 | 8 | nickname55555555 | submission.py | 05c6ab | 31.9 |
 | 9 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
 | 10 | prousoglou | submission.py | 570c63 | 34.7 |
@@ -110,7 +110,7 @@ Last updated: `April 06, 2026 at 11:04:29 AM ET`
 | 17 | ishan-pat | submission.py | d1ffac | 64.0 |
 | 18 | alifim | submission.py | 701077 | 64.8 |
 | 19 | beratcelik | submission.py | 11c1b8 | 65.4 |
-| 20 | PurplePickle67 | submission.py | 7fd75c | 66.0 |
+| 20 | PurplePickle67 | submission.py | aea601 | 65.4 |
 | 21 | JasonWang07 | submission.py | f27837 | 68.2 |
 | 22 | Shengwei | submission.py | 077330 | 70.1 |
 | 23 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 70.9 |
@@ -154,9 +154,9 @@ Last updated: `April 06, 2026 at 11:04:29 AM ET`
 | 18 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 89.2 |
 | 19 | alifim | submission.py | 701077 | 109.2 |
 | 20 | ashaikh23 | submission.py | d98c0b | 109.9 |
-| 21 | beratcelik | submission.py | 11c1b8 | 110.5 |
-| 22 | ishan-pat | submission.py | d1ffac | 110.8 |
-| 23 | PurplePickle67 | submission.py | 7fd75c | 111.2 |
+| 21 | PurplePickle67 | submission.py | aea601 | 110.3 |
+| 22 | beratcelik | submission.py | 11c1b8 | 110.5 |
+| 23 | ishan-pat | submission.py | d1ffac | 110.8 |
 | 24 | ethanchen | submission.py | bf6f9e | 123.0 |
 | 25 | Yize | submission.py | d04433 | 128.5 |
 | 26 | TA | submission.py | 324cb8 | 131.7 |

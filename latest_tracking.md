@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 11:04:29 AM ET`
+Last updated: `April 06, 2026 at 11:15:04 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 11:15 AM ET | beratcelik | evaluated |  | submission.py | f93257 | 43.3/4.7/48.1 | 542.6 | 166.9 | 69.2 | 115.0 |
+| Apr 06 11:11 AM ET | PurplePickle67 | evaluated |  | submission.py | aea601 | 66.0/6.2/72.2 | 487.6 | 116.4 | 65.4 | 110.3 |
+| Apr 06 11:08 AM ET | TheProphet | failed_compliance | Submission compliance check failed for submission.py: \| - setup(...) must have arguments exactly `(weights, scales, c... | submission.py | 2d859a |  |  |  |  |  |
+| Apr 06 11:06 AM ET | zhumengzhiren | evaluated |  | submission.py | 7f8887 | 52.3/2.3/54.6 | 559.3 | 482.5 | 28.0 | 50.6 |
 | Apr 06 11:04 AM ET | beratcelik | evaluated |  | submission.py | 3101b4 | 25.4/6.1/31.5 | 546.4 | 115.9 | 69.5 | 114.4 |
 | Apr 06 10:56 AM ET | beratcelik | evaluated |  | submission.py | 449c19 | 43.7/4.7/48.4 | 545.3 | 169.5 | 68.4 | 113.7 |
 | Apr 06 10:52 AM ET | PurplePickle67 | evaluated |  | submission.py | 7fd75c | 58.1/5.5/63.6 | 485.9 | 137.8 | 66.0 | 111.2 |

@@ -1,23 +1,23 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 11:04:29 AM ET`
+Last updated: `April 06, 2026 at 11:15:04 AM ET`
 
 ## R1 (tok/s)
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 591.4 |
-| 2 | zhumengzhiren | evaluated | dc183f | 569.1 |
-| 3 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 560.4 |
-| 4 | abarat007 | evaluated | d7f626 | 559.5 |
+| 2 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 560.4 |
+| 3 | abarat007 | evaluated | d7f626 | 559.5 |
+| 4 | zhumengzhiren | evaluated | 7f8887 | 559.3 |
 | 5 | your_nickname_here | evaluated | f10b9b | 557.8 |
 | 6 | prousoglou | evaluated | 570c63 | 556.7 |
 | 7 | TA | evaluated | a6e863 | 556.6 |
 | 8 | chyyy | evaluated | 34cc06 | 555.7 |
 | 9 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
-| 10 | beratcelik | evaluated | 3101b4 | 546.4 |
-| 11 | JasonWang07 | evaluated | 414385 | 544.1 |
-| 12 | happyface | evaluated | 7e8b61 | 543.0 |
+| 10 | JasonWang07 | evaluated | 414385 | 544.1 |
+| 11 | happyface | evaluated | 7e8b61 | 543.0 |
+| 12 | beratcelik | evaluated | f93257 | 542.6 |
 | 13 | gm | evaluated | 2898fc | 541.1 |
 | 14 | 13rabbit | evaluated | 24af86 | 540.4 |
 | 15 | alifim | evaluated | 701077 | 539.6 |
@@ -38,7 +38,7 @@ Last updated: `April 06, 2026 at 11:04:29 AM ET`
 | 30 | ngoguen | evaluated | a5cdb8 | 515.9 |
 | 31 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
 | 32 | tuo | evaluated | 3d6d40 | 494.8 |
-| 33 | PurplePickle67 | evaluated | 7fd75c | 485.9 |
+| 33 | PurplePickle67 | evaluated | aea601 | 487.6 |
 | 34 | Rithvik | evaluated | 681e7e | 446.4 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | jl | failed | cc349d |  |
@@ -52,7 +52,7 @@ Last updated: `April 06, 2026 at 11:04:29 AM ET`
 |  | sjb | failed | 78ddc4 |  |
 |  | stefan | failed | 7fb393 |  |
 |  | Sulaiman Alam | failed | 6478cf |  |
-|  | TheProphet | failed | 5f75e5 |  |
+|  | TheProphet | failed | 2d859a |  |
 |  | yb | failed | 8ca88e |  |
 |  | Yize | failed | d04433 |  |
 
@@ -60,7 +60,7 @@ Last updated: `April 06, 2026 at 11:04:29 AM ET`
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | zhumengzhiren | evaluated | dc183f | 481.1 |
+| 1 | zhumengzhiren | evaluated | 7f8887 | 482.5 |
 | 2 | chyyy | evaluated | 34cc06 | 433.8 |
 | 3 | chickfila | evaluated | f0956d | 398.8 |
 | 4 | - - | evaluated | adc0f3 | 386.9 |
@@ -91,9 +91,9 @@ Last updated: `April 06, 2026 at 11:04:29 AM ET`
 | 29 | hw_bloss | evaluated | 2d26da | 169.3 |
 | 30 | fishyfins | evaluated | 2ac776 | 168.7 |
 | 31 | leoli | evaluated | bf7876 | 168.6 |
-| 32 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 33 | PurplePickle67 | evaluated | 7fd75c | 137.8 |
-| 34 | beratcelik | evaluated | 3101b4 | 115.9 |
+| 32 | beratcelik | evaluated | f93257 | 166.9 |
+| 33 | nicknam534534 | evaluated | 1bad48 | 148.4 |
+| 34 | PurplePickle67 | evaluated | aea601 | 116.4 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
@@ -106,7 +106,7 @@ Last updated: `April 06, 2026 at 11:04:29 AM ET`
 |  | sjb | failed | 78ddc4 |  |
 |  | stefan | failed | 7fb393 |  |
 |  | Sulaiman Alam | failed | 6478cf |  |
-|  | TheProphet | failed | 5f75e5 |  |
+|  | TheProphet | failed | 2d859a |  |
 |  | yb | failed | 8ca88e |  |
 |  | Yize | failed | d04433 |  |
 
@@ -118,8 +118,8 @@ Last updated: `April 06, 2026 at 11:04:29 AM ET`
 | 2 | chyyy | evaluated | 34cc06 | 24.8 |
 | 3 | gm | evaluated | 2898fc | 26.8 |
 | 4 | Rithvik | evaluated | 681e7e | 27.1 |
-| 5 | abarat007 | evaluated | d7f626 | 28.1 |
-| 6 | zhumengzhiren | evaluated | dc183f | 28.5 |
+| 5 | zhumengzhiren | evaluated | 7f8887 | 28.0 |
+| 6 | abarat007 | evaluated | d7f626 | 28.1 |
 | 7 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
 | 8 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
 | 9 | prousoglou | evaluated | 570c63 | 34.7 |
@@ -131,9 +131,9 @@ Last updated: `April 06, 2026 at 11:04:29 AM ET`
 | 15 | happyface | evaluated | 7e8b61 | 63.7 |
 | 16 | ishan-pat | evaluated | 79d328 | 64.1 |
 | 17 | alifim | evaluated | 701077 | 64.8 |
-| 18 | PurplePickle67 | evaluated | 7fd75c | 66.0 |
-| 19 | JasonWang07 | evaluated | 414385 | 69.4 |
-| 20 | beratcelik | evaluated | 3101b4 | 69.5 |
+| 18 | PurplePickle67 | evaluated | aea601 | 65.4 |
+| 19 | beratcelik | evaluated | f93257 | 69.2 |
+| 20 | JasonWang07 | evaluated | 414385 | 69.4 |
 | 21 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
 | 22 | Shengwei | evaluated | 1f8749 | 71.4 |
 | 23 | ethanchen | evaluated | ea518d | 74.4 |
@@ -160,7 +160,7 @@ Last updated: `April 06, 2026 at 11:04:29 AM ET`
 |  | sjb | failed | 78ddc4 |  |
 |  | stefan | failed | 7fb393 |  |
 |  | Sulaiman Alam | failed | 6478cf |  |
-|  | TheProphet | failed | 5f75e5 |  |
+|  | TheProphet | failed | 2d859a |  |
 |  | yb | failed | 8ca88e |  |
 |  | Yize | failed | d04433 |  |
 
@@ -173,7 +173,7 @@ Last updated: `April 06, 2026 at 11:04:29 AM ET`
 | 3 | Rithvik | evaluated | 681e7e | 48.1 |
 | 4 | gm | evaluated | 2898fc | 48.5 |
 | 5 | chickfila | evaluated | f0956d | 49.6 |
-| 6 | zhumengzhiren | evaluated | dc183f | 51.4 |
+| 6 | zhumengzhiren | evaluated | 7f8887 | 50.6 |
 | 7 | abarat007 | evaluated | d7f626 | 51.5 |
 | 8 | nickname55555555 | evaluated | 99ddc2 | 53.0 |
 | 9 | gravlax | evaluated | b1229d | 59.7 |
@@ -187,9 +187,9 @@ Last updated: `April 06, 2026 at 11:04:29 AM ET`
 | 17 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
 | 18 | alifim | evaluated | 701077 | 109.2 |
 | 19 | ashaikh23 | evaluated | d98c0b | 109.9 |
-| 20 | ishan-pat | evaluated | 79d328 | 110.9 |
-| 21 | PurplePickle67 | evaluated | 7fd75c | 111.2 |
-| 22 | beratcelik | evaluated | 3101b4 | 114.4 |
+| 20 | PurplePickle67 | evaluated | aea601 | 110.3 |
+| 21 | ishan-pat | evaluated | 79d328 | 110.9 |
+| 22 | beratcelik | evaluated | f93257 | 115.0 |
 | 23 | ethanchen | evaluated | ea518d | 123.6 |
 | 24 | TA | evaluated | a6e863 | 135.6 |
 | 25 | lipphi | evaluated | a3a71b | 150.9 |
@@ -214,6 +214,6 @@ Last updated: `April 06, 2026 at 11:04:29 AM ET`
 |  | sjb | failed | 78ddc4 |  |
 |  | stefan | failed | 7fb393 |  |
 |  | Sulaiman Alam | failed | 6478cf |  |
-|  | TheProphet | failed | 5f75e5 |  |
+|  | TheProphet | failed | 2d859a |  |
 |  | yb | failed | 8ca88e |  |
 |  | Yize | failed | d04433 |  |
