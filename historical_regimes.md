@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 06:17:23 PM ET`
+Last updated: `April 06, 2026 at 06:28:16 PM ET`
 
 ## R1 (tok/s)
 
@@ -85,11 +85,11 @@ Last updated: `April 06, 2026 at 06:17:23 PM ET`
 | 28 | ethanchen | submission.py | ea518d | 251.2 |
 | 29 | fishyfins | develop.py | 87e789 | 243.3 |
 | 30 | 13rabbit | develop.py | b38df9 | 243.3 |
-| 31 | bl792 | develop.py | 743b6d | 234.8 |
+| 31 | bl792 | submission.py | e5885b | 235.2 |
 | 32 | ishan-pat | submission.py | 79d328 | 218.1 |
 | 33 | tuo | submission.py | 3d6d40 | 204.6 |
 | 34 | Licha | submission.py | 8fdc3a | 192.4 |
-| 35 | landrum | submission.py | 7b5ab5 | 177.2 |
+| 35 | landrum | develop.py | 6615c9 | 177.3 |
 | 36 | your_nickname_here | submission.py | 59e245 | 173.4 |
 | 37 | PurplePickle67 | submission.py | 231258 | 172.1 |
 | 38 | abhik | develop.py | 41a3ec | 171.7 |
@@ -117,7 +117,7 @@ Last updated: `April 06, 2026 at 06:17:23 PM ET`
 | 12 | chickfila | submission.py | f0956d | 34.7 |
 | 13 | gravlax | develop.py | b1229d | 35.0 |
 | 14 | PurplePickle67 | submission.py | 2efdba | 36.3 |
-| 15 | bl792 | submission.py | 743b6d | 41.1 |
+| 15 | bl792 | submission.py | e5885b | 38.9 |
 | 16 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 43.1 |
 | 17 | Shengwei | submission.py | bd7526 | 45.6 |
 | 18 | ishan-pat | develop.py | 345520 | 57.4 |
@@ -164,12 +164,12 @@ Last updated: `April 06, 2026 at 06:17:23 PM ET`
 | 10 | nickname55555555 | submission.py | 05c6ab | 52.5 |
 | 11 | gravlax | submission.py | b1229d | 59.7 |
 | 12 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 59.9 |
-| 13 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
-| 14 | prousoglou | submission.py | 570c63 | 65.3 |
-| 15 | blabrl | develop.py | 9873f9 | 65.3 |
-| 16 | happyface | develop.py | 0aca52 | 65.7 |
-| 17 | Shengwei | submission.py | bd7526 | 68.0 |
-| 18 | bl792 | submission.py | 743b6d | 68.4 |
+| 13 | bl792 | submission.py | e5885b | 62.7 |
+| 14 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
+| 15 | prousoglou | submission.py | 570c63 | 65.3 |
+| 16 | blabrl | develop.py | 9873f9 | 65.3 |
+| 17 | happyface | develop.py | 0aca52 | 65.7 |
+| 18 | Shengwei | submission.py | bd7526 | 68.0 |
 | 19 | JasonWang07 | develop.py | f27837 | 78.3 |
 | 20 | leoli | submission.py | 5cdac4 | 87.4 |
 | 21 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 89.2 |
