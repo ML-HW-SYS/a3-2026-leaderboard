@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 09:34:18 AM ET`
+Last updated: `April 06, 2026 at 09:42:34 AM ET`
 
 ## R1 (tok/s)
 
@@ -48,7 +48,7 @@ Last updated: `April 06, 2026 at 09:34:18 AM ET`
 
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | zhumengzhiren | submission.py | 23fbd6 | 482.7 |
+| 1 | zhumengzhiren | develop.py | 23fbd6 | 484.8 |
 | 2 | chyyy | submission.py | 34cc06 | 433.8 |
 | 3 | chickfila | submission.py | f0956d | 398.8 |
 | 4 | - - | submission.py | adc0f3 | 386.9 |
@@ -95,7 +95,7 @@ Last updated: `April 06, 2026 at 09:34:18 AM ET`
 | 4 | gm | submission.py | 2898fc | 26.8 |
 | 5 | Rithvik | submission.py | 8e6767 | 26.9 |
 | 6 | abarat007 | submission.py | d7f626 | 28.1 |
-| 7 | zhumengzhiren | submission.py | 23fbd6 | 28.3 |
+| 7 | zhumengzhiren | develop.py | 23fbd6 | 28.2 |
 | 8 | nickname55555555 | submission.py | 05c6ab | 31.9 |
 | 9 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
 | 10 | prousoglou | submission.py | 570c63 | 34.7 |
@@ -137,7 +137,7 @@ Last updated: `April 06, 2026 at 09:34:18 AM ET`
 | 4 | Rithvik | submission.py | 1523b4 | 47.6 |
 | 5 | gm | submission.py | 2898fc | 48.5 |
 | 6 | chickfila | submission.py | f0956d | 49.6 |
-| 7 | zhumengzhiren | submission.py | 4e6cf9 | 51.0 |
+| 7 | zhumengzhiren | develop.py | 23fbd6 | 50.3 |
 | 8 | abarat007 | submission.py | 260fed | 51.5 |
 | 9 | nickname55555555 | submission.py | 05c6ab | 52.5 |
 | 10 | gravlax | submission.py | b1229d | 59.7 |
