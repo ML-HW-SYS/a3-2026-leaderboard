@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 06:51:22 AM ET`
+Last updated: `April 06, 2026 at 06:59:18 AM ET`
 
 ## R1 (tok/s)
 
@@ -53,7 +53,7 @@ Last updated: `April 06, 2026 at 06:51:22 AM ET`
 | 4 | TheProphet | submission.py | 84eefa | 382.8 |
 | 5 | alifim | submission.py | 701077 | 381.2 |
 | 6 | abarat007 | submission.py | d7f626 | 378.6 |
-| 7 | zhumengzhiren | submission.py | 364da9 | 370.0 |
+| 7 | zhumengzhiren | develop.py | 58583c | 371.4 |
 | 8 | prousoglou | submission.py | 570c63 | 368.2 |
 | 9 | gm | develop.py | fd15e9 | 357.3 |
 | 10 | JasonWang07 | develop.py | 414385 | 337.0 |
@@ -99,7 +99,7 @@ Last updated: `April 06, 2026 at 06:51:22 AM ET`
 | 9 | prousoglou | submission.py | 570c63 | 34.7 |
 | 10 | chickfila | submission.py | f0956d | 34.7 |
 | 11 | gravlax | develop.py | b1229d | 35.0 |
-| 12 | zhumengzhiren | submission.py | 364da9 | 37.7 |
+| 12 | zhumengzhiren | develop.py | 58583c | 37.6 |
 | 13 | bl792 | submission.py | 743b6d | 41.1 |
 | 14 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 43.1 |
 | 15 | ashaikh23 | submission.py | d98c0b | 58.8 |
