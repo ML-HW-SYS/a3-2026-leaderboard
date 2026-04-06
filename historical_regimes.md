@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 01:04:27 PM ET`
+Last updated: `April 06, 2026 at 01:13:41 PM ET`
 
 ## R1 (tok/s)
 
@@ -40,10 +40,11 @@ Last updated: `April 06, 2026 at 01:04:27 PM ET`
 | 32 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
 | 33 | nicknam534534 | submission.py | 1bad48 | 524.1 |
 | 34 | hw_bloss | submission.py | 2d26da | 523.5 |
-| 35 | PurplePickle67 | submission.py | 231258 | 519.1 |
-| 36 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
-| 37 | ngoguen | submission.py | a5cdb8 | 515.9 |
-| 38 | tuo | submission.py | 4274da | 507.3 |
+| 35 | Licha | submission.py | 8fdc3a | 521.4 |
+| 36 | PurplePickle67 | submission.py | 231258 | 519.1 |
+| 37 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
+| 38 | ngoguen | submission.py | a5cdb8 | 515.9 |
+| 39 | tuo | submission.py | 4274da | 507.3 |
 
 ## R2 (tok/s)
 
@@ -78,14 +79,15 @@ Last updated: `April 06, 2026 at 01:04:27 PM ET`
 | 27 | ishan-pat | submission.py | 79d328 | 218.1 |
 | 28 | 13rabbit | submission.py | 24af86 | 215.5 |
 | 29 | tuo | submission.py | 3d6d40 | 204.6 |
-| 30 | sjb | submission.py | 78ddc4 | 192.0 |
-| 31 | leoli | develop.py | 350321 | 183.1 |
-| 32 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 33 | PurplePickle67 | submission.py | 231258 | 172.1 |
-| 34 | abhik | develop.py | 41a3ec | 171.7 |
-| 35 | hw_bloss | submission.py | b2767b | 169.8 |
-| 36 | ngoguen | submission.py | a5cdb8 | 169.7 |
-| 37 | nicknam534534 | submission.py | 1bad48 | 148.4 |
+| 30 | Licha | submission.py | 8fdc3a | 192.4 |
+| 31 | sjb | submission.py | 78ddc4 | 192.0 |
+| 32 | leoli | submission.py | 6d4d32 | 183.3 |
+| 33 | your_nickname_here | submission.py | 59e245 | 173.4 |
+| 34 | PurplePickle67 | submission.py | 231258 | 172.1 |
+| 35 | abhik | develop.py | 41a3ec | 171.7 |
+| 36 | hw_bloss | submission.py | b2767b | 169.8 |
+| 37 | ngoguen | submission.py | a5cdb8 | 169.7 |
+| 38 | nicknam534534 | submission.py | 1bad48 | 148.4 |
 
 ## R3 (ms)
 
@@ -121,14 +123,15 @@ Last updated: `April 06, 2026 at 01:04:27 PM ET`
 | 28 | sjb | submission.py | 421a78 | 128.8 |
 | 29 | tuo | submission.py | 92c00e | 166.9 |
 | 30 | 13rabbit | submission.py | 24af86 | 193.8 |
-| 31 | leoli | submission.py | 443c3b | 253.0 |
-| 32 | pyjuan91 | develop.py | 268544 | 303.2 |
-| 33 | fishyfins | submission.py | 2ac776 | 305.7 |
-| 34 | abhik | submission.py | 575817 | 306.0 |
-| 35 | hw_bloss | submission.py | b2767b | 306.7 |
-| 36 | your_nickname_here | submission.py | 59e245 | 307.4 |
-| 37 | ngoguen | submission.py | a5cdb8 | 310.3 |
-| 38 | nicknam534534 | submission.py | 1bad48 | 405.4 |
+| 31 | Licha | submission.py | 8fdc3a | 202.7 |
+| 32 | leoli | submission.py | 443c3b | 253.0 |
+| 33 | pyjuan91 | develop.py | 268544 | 303.2 |
+| 34 | fishyfins | submission.py | 2ac776 | 305.7 |
+| 35 | abhik | submission.py | 575817 | 306.0 |
+| 36 | hw_bloss | submission.py | b2767b | 306.7 |
+| 37 | your_nickname_here | submission.py | 59e245 | 307.4 |
+| 38 | ngoguen | submission.py | a5cdb8 | 310.3 |
+| 39 | nicknam534534 | submission.py | 1bad48 | 405.4 |
 
 ## R4 (ms)
 
@@ -165,10 +168,11 @@ Last updated: `April 06, 2026 at 01:04:27 PM ET`
 | 29 | 13rabbit | submission.py | 24af86 | 156.8 |
 | 30 | tuo | submission.py | 4274da | 160.5 |
 | 31 | leoli | develop.py | 350321 | 193.6 |
-| 32 | fishyfins | submission.py | 2ac776 | 234.0 |
-| 33 | pyjuan91 | develop.py | 268544 | 234.1 |
-| 34 | abhik | develop.py | 41a3ec | 236.3 |
-| 35 | hw_bloss | submission.py | b2767b | 237.0 |
-| 36 | your_nickname_here | submission.py | 59e245 | 245.7 |
-| 37 | ngoguen | submission.py | a5cdb8 | 249.7 |
-| 38 | nicknam534534 | develop.py | 1bad48 | 269.0 |
+| 32 | Licha | submission.py | 8fdc3a | 215.0 |
+| 33 | fishyfins | submission.py | 2ac776 | 234.0 |
+| 34 | pyjuan91 | develop.py | 268544 | 234.1 |
+| 35 | abhik | develop.py | 41a3ec | 236.3 |
+| 36 | hw_bloss | submission.py | b2767b | 237.0 |
+| 37 | your_nickname_here | submission.py | 59e245 | 245.7 |
+| 38 | ngoguen | submission.py | a5cdb8 | 249.7 |
+| 39 | nicknam534534 | develop.py | 1bad48 | 269.0 |

@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 06, 2026 at 01:04:27 PM ET`
+Last updated: `April 06, 2026 at 01:13:41 PM ET`
 
 ## Pages
 
@@ -38,20 +38,20 @@ Last updated: `April 06, 2026 at 01:04:27 PM ET`
 | 24 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
 | 25 | 13rabbit | evaluated | 24af86 | 37.5/4.7/42.3 | 0.710 | 540.4 | 215.5 | 193.8 | 156.8 |
 | 26 | tuo | evaluated | 3d6d40 | 74.5/4.9/79.3 | 0.704 | 494.8 | 204.6 | 167.8 | 162.8 |
-| 27 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
-| 28 | abhik | evaluated | 9cf11c | 25.0/6.1/31.1 | 0.538 | 535.2 | 171.6 | 306.6 | 237.6 |
-| 29 | fishyfins | evaluated | 2ac776 | 70.4/6.2/76.5 | 0.535 | 524.8 | 168.7 | 305.7 | 234.0 |
-| 30 | hw_bloss | evaluated | b2767b | 60.6/6.2/66.8 | 0.533 | 523.1 | 169.8 | 306.7 | 237.0 |
-| 31 | ngoguen | evaluated | a5cdb8 | 40.8/6.2/47.0 | 0.523 | 515.9 | 169.7 | 310.3 | 249.7 |
-| 32 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
-| 33 | leoli | evaluated | 1a672b | 14.3/9.7/24.0 | 0.356 | 164.9 | 121.6 | 351.3 | 235.8 |
+| 27 | Licha | evaluated | 8fdc3a | 38.5/5.3/43.8 | 0.625 | 521.4 | 192.4 | 202.7 | 215.0 |
+| 28 | leoli | evaluated | 6d4d32 | 19.6/5.6/25.2 | 0.600 | 525.1 | 183.3 | 253.6 | 193.7 |
+| 29 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
+| 30 | abhik | evaluated | 9cf11c | 25.0/6.1/31.1 | 0.538 | 535.2 | 171.6 | 306.6 | 237.6 |
+| 31 | fishyfins | evaluated | 2ac776 | 70.4/6.2/76.5 | 0.535 | 524.8 | 168.7 | 305.7 | 234.0 |
+| 32 | hw_bloss | evaluated | 4c9666 | 23.8/6.2/30.0 | 0.531 | 522.2 | 169.1 | 308.1 | 239.1 |
+| 33 | ngoguen | evaluated | a5cdb8 | 40.8/6.2/47.0 | 0.523 | 515.9 | 169.7 | 310.3 | 249.7 |
+| 34 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
 |  | beratcelik | failed | b5bc29 | 33.3/2.8/36.2 |  |  |  |  |  |
 |  | Decode_speed | failed | 3314ef | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | jl | failed | cc349d | 62.2/6.2/68.3 |  |  |  |  |  |
 |  | Junyi Li | failed | c31a30 | 71.5/6.1/77.6 |  |  |  |  |  |
 |  | landrum | failed | b88426 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | Licha | failed | 7c27ce | 38.6/5.3/43.8 |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
 |  | pallavi-srinivas | failed | 95ea8c | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | poppyPotatoe | failed | aa5125 | 0.0/0.0/0.0 |  |  |  |  |  |

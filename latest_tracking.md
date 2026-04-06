@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 01:04:27 PM ET`
+Last updated: `April 06, 2026 at 01:13:41 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 01:09 PM ET | leoli | evaluated |  | submission.py | 6d4d32 | 19.6/5.6/25.2 | 525.1 | 183.3 | 253.6 | 193.7 |
+| Apr 06 01:07 PM ET | hw_bloss | evaluated |  | submission.py | 4c9666 | 23.8/6.2/30.0 | 522.2 | 169.1 | 308.1 | 239.1 |
+| Apr 06 01:06 PM ET | Licha | evaluated |  | submission.py | 8fdc3a | 38.5/5.3/43.8 | 521.4 | 192.4 | 202.7 | 215.0 |
 | Apr 06 01:00 PM ET | leoli | evaluated |  | submission.py | 1a672b | 14.3/9.7/24.0 | 164.9 | 121.6 | 351.3 | 235.8 |
 | Apr 06 12:52 PM ET | leoli | evaluated |  | submission.py | 151518 | 18.4/11.6/29.9 | 524.9 | 62.3 | 353.3 | 235.6 |
 | Apr 06 12:50 PM ET | Licha | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | 7c27ce | 20.7/5.3/26.0 | 518.7 | 192.4 | 202.0 | 210.9 |
