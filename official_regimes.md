@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 08:09:13 AM ET`
+Last updated: `April 06, 2026 at 08:17:09 AM ET`
 
 ## R1 (tok/s)
 
@@ -35,7 +35,7 @@ Last updated: `April 06, 2026 at 08:09:13 AM ET`
 | 27 | hw_bloss | evaluated | 2d26da | 523.5 |
 | 28 | ngoguen | evaluated | a5cdb8 | 515.9 |
 | 29 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 30 | zhumengzhiren | evaluated | ee894f | 514.4 |
+| 30 | zhumengzhiren | evaluated | d59e7c | 513.4 |
 | 31 | tuo | evaluated | 3d6d40 | 494.8 |
 | 32 | Rithvik | evaluated | 1b2948 | 478.7 |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -63,8 +63,8 @@ Last updated: `April 06, 2026 at 08:09:13 AM ET`
 | 2 | chickfila | evaluated | f0956d | 398.8 |
 | 3 | - - | evaluated | adc0f3 | 386.9 |
 | 4 | alifim | evaluated | 701077 | 381.2 |
-| 5 | abarat007 | evaluated | d7f626 | 378.6 |
-| 6 | zhumengzhiren | evaluated | ee894f | 378.3 |
+| 5 | zhumengzhiren | evaluated | d59e7c | 380.5 |
+| 6 | abarat007 | evaluated | d7f626 | 378.6 |
 | 7 | prousoglou | evaluated | 570c63 | 368.2 |
 | 8 | gm | evaluated | 2898fc | 357.0 |
 | 9 | JasonWang07 | evaluated | 414385 | 336.4 |
@@ -117,7 +117,7 @@ Last updated: `April 06, 2026 at 08:09:13 AM ET`
 | 3 | gm | evaluated | 2898fc | 26.8 |
 | 4 | Rithvik | evaluated | 1b2948 | 27.2 |
 | 5 | abarat007 | evaluated | d7f626 | 28.1 |
-| 6 | zhumengzhiren | evaluated | ee894f | 29.9 |
+| 6 | zhumengzhiren | evaluated | d59e7c | 29.7 |
 | 7 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
 | 8 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
 | 9 | prousoglou | evaluated | 570c63 | 34.7 |
@@ -170,7 +170,7 @@ Last updated: `April 06, 2026 at 08:09:13 AM ET`
 | 3 | gm | evaluated | 2898fc | 48.5 |
 | 4 | Rithvik | evaluated | 1b2948 | 49.1 |
 | 5 | chickfila | evaluated | f0956d | 49.6 |
-| 6 | zhumengzhiren | evaluated | ee894f | 51.3 |
+| 6 | zhumengzhiren | evaluated | d59e7c | 51.2 |
 | 7 | abarat007 | evaluated | d7f626 | 51.5 |
 | 8 | nickname55555555 | evaluated | 99ddc2 | 53.0 |
 | 9 | gravlax | evaluated | b1229d | 59.7 |
