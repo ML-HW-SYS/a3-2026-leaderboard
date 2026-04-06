@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 07:45:39 PM ET`
+Last updated: `April 06, 2026 at 07:53:54 PM ET`
 
 ## R1 (tok/s)
 
@@ -101,7 +101,7 @@ Last updated: `April 06, 2026 at 07:45:39 PM ET`
 | 41 | hw_bloss | submission.py | b2767b | 169.8 |
 | 42 | ngoguen | submission.py | a5cdb8 | 169.7 |
 | 43 | pallavi-srinivas | develop.py | b3ca1f | 169.5 |
-| 44 | Yize | submission.py | fdb032 | 169.3 |
+| 44 | Yize | develop.py | fdb032 | 169.5 |
 | 45 | nicknam534534 | submission.py | 1bad48 | 148.4 |
 | 46 | Decode_speed | submission.py | 097a6b | 77.3 |
 

@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 06, 2026 at 07:45:39 PM ET`
+Last updated: `April 06, 2026 at 07:53:54 PM ET`
 
 ## Pages
 
@@ -49,11 +49,10 @@ Last updated: `April 06, 2026 at 07:45:39 PM ET`
 | 35 | fishyfins | evaluated | 2ac776 | 70.4/6.2/76.5 | 0.535 | 524.8 | 168.7 | 305.7 | 234.0 |
 | 36 | hw_bloss | evaluated | 4c9666 | 23.8/6.2/30.0 | 0.531 | 522.2 | 169.1 | 308.1 | 239.1 |
 | 37 | stefan | evaluated | a01e76 | 19.8/6.2/26.0 | 0.529 | 537.5 | 170.0 | 310.0 | 248.7 |
-| 38 | yoursun1220 | evaluated | 27e400 | 19.9/6.2/26.1 | 0.526 | 521.3 | 169.9 | 308.6 | 248.7 |
-| 39 | blabrl | evaluated | 13a1d8 | 39.2/6.2/45.5 | 0.524 | 524.1 | 169.4 | 310.5 | 251.1 |
-| 40 | ngoguen | evaluated | a5cdb8 | 40.8/6.2/47.0 | 0.523 | 515.9 | 169.7 | 310.3 | 249.7 |
-| 41 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
-| 42 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
+| 38 | blabrl | evaluated | 13a1d8 | 39.2/6.2/45.5 | 0.524 | 524.1 | 169.4 | 310.5 | 251.1 |
+| 39 | ngoguen | evaluated | a5cdb8 | 40.8/6.2/47.0 | 0.523 | 515.9 | 169.7 | 310.3 | 249.7 |
+| 40 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
+| 41 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | ishan-pat | failed | 1cf603 | 23.3/1.6/24.9 |  |  |  |  |  |
 |  | Junyi Li | failed | c31a30 | 71.5/6.1/77.6 |  |  |  |  |  |
@@ -65,6 +64,7 @@ Last updated: `April 06, 2026 at 07:45:39 PM ET`
 |  | Sulaiman Alam | failed | 6478cf | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | TheProphet | failed | 63cc6b | 29.9/2.5/32.5 |  |  |  |  |  |
 |  | yb | failed | 8ca88e | 0.0/0.0/0.0 |  |  |  |  |  |
+|  | yoursun1220 | failed | cd2809 | 18.7/3.8/22.5 |  |  |  |  |  |
 
 ## Column Guide
 

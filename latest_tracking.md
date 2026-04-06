@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 07:45:39 PM ET`
+Last updated: `April 06, 2026 at 07:53:54 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 07:53 PM ET | yoursun1220 | failed_correctness | Correctness FAIL \| R2 (88.59%), R3 (78.42%), R4 (83.54%) \| max_abs_diff=17 | submission.py | cd2809 | 18.7/3.8/22.5 | 519.2 | 255.2 | 68.2 | 127.0 |
+| Apr 06 07:48 PM ET | Yize | evaluated |  | develop.py | fdb032 | 19.1/4.8/23.9 | 525.2 | 169.5 | 80.8 | 130.0 |
 | Apr 06 07:43 PM ET | mdavalos10 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | 20a04b | 22.4/6.2/28.6 | 535.5 | 171.1 | 309.0 | 247.1 |
 | Apr 06 07:42 PM ET | bl792 | evaluated |  | develop.py | 09cd73 | 18.1/3.5/21.6 | 524.3 | 239.0 | 32.3 | 59.8 |
 | Apr 06 07:39 PM ET | Yize | evaluated |  | submission.py | fdb032 | 39.2/4.8/44.1 | 525.2 | 169.3 | 81.1 | 130.3 |
