@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 01:21:44 PM ET`
+Last updated: `April 06, 2026 at 01:31:02 PM ET`
 
 ## R1 (tok/s)
 
@@ -60,14 +60,14 @@ Last updated: `April 06, 2026 at 01:21:44 PM ET`
 | 8 | prousoglou | submission.py | 570c63 | 368.2 |
 | 9 | gm | develop.py | fd15e9 | 357.3 |
 | 10 | JasonWang07 | develop.py | 414385 | 337.0 |
-| 11 | nickname55555555 | develop.py | 99ddc2 | 334.4 |
-| 12 | Shengwei | submission.py | 077330 | 330.0 |
-| 13 | ashaikh23 | submission.py | d98c0b | 330.0 |
-| 14 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 326.5 |
-| 15 | lipphi | submission.py | a3a71b | 306.7 |
-| 16 | TA | submission.py | 324cb8 | 295.5 |
-| 17 | beratcelik | submission.py | 7c87c2 | 294.0 |
-| 18 | Rithvik | submission.py | 1523b4 | 281.0 |
+| 11 | Rithvik | submission.py | 2924a0 | 335.8 |
+| 12 | nickname55555555 | develop.py | 99ddc2 | 334.4 |
+| 13 | Shengwei | submission.py | 077330 | 330.0 |
+| 14 | ashaikh23 | submission.py | d98c0b | 330.0 |
+| 15 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 326.5 |
+| 16 | lipphi | submission.py | a3a71b | 306.7 |
+| 17 | TA | submission.py | 324cb8 | 295.5 |
+| 18 | beratcelik | submission.py | 7c87c2 | 294.0 |
 | 19 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
 | 20 | gravlax | develop.py | b1229d | 273.0 |
 | 21 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |

@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 01:21:44 PM ET`
+Last updated: `April 06, 2026 at 01:31:02 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 01:30 PM ET | ashaikh23 | failed_correctness | R2: SETUP: ERR: AttributeError: 'SpecialSparseAttention' object has no attribute '_mask_mod' \| R3: SETUP: ERR: TypeEr... | develop.py | b0fe4a | 25.7/0.9/26.6 | 539.8 | 0.0 | 0.0 | 0.0 |
+| Apr 06 01:27 PM ET | Rithvik | evaluated |  | submission.py | 2924a0 | 46.5/2.9/49.4 | 495.8 | 335.8 | 27.1 | 48.0 |
+| Apr 06 01:25 PM ET | leoli | evaluated |  | submission.py | e7a6af | 14.6/9.7/24.3 | 160.4 | 121.0 | 335.2 | 233.3 |
 | Apr 06 01:18 PM ET | PurplePickle67 | evaluated |  | submission.py | 44736c | 30.2/6.7/36.8 | 490.1 | 97.2 | 36.7 | 52.1 |
 | Apr 06 01:09 PM ET | leoli | evaluated |  | submission.py | 6d4d32 | 19.6/5.6/25.2 | 525.1 | 183.3 | 253.6 | 193.7 |
 | Apr 06 01:07 PM ET | hw_bloss | evaluated |  | submission.py | 4c9666 | 23.8/6.2/30.0 | 522.2 | 169.1 | 308.1 | 239.1 |
