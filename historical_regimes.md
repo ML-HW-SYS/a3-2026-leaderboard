@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 05:09:17 AM ET`
+Last updated: `April 06, 2026 at 05:17:47 AM ET`
 
 ## R1 (tok/s)
 
@@ -41,7 +41,7 @@ Last updated: `April 06, 2026 at 05:09:17 AM ET`
 | 33 | PurplePickle67 | submission.py | 231258 | 519.1 |
 | 34 | ngoguen | submission.py | a5cdb8 | 515.9 |
 | 35 | tuo | submission.py | 4274da | 507.3 |
-| 36 | zhumengzhiren | submission.py | 35daf1 | 103.0 |
+| 36 | zhumengzhiren | submission.py | ace192 | 340.3 |
 
 ## R2 (tok/s)
 
@@ -82,7 +82,7 @@ Last updated: `April 06, 2026 at 05:09:17 AM ET`
 | 33 | ngoguen | submission.py | a5cdb8 | 169.7 |
 | 34 | hw_bloss | submission.py | 2d26da | 169.3 |
 | 35 | nicknam534534 | submission.py | 1bad48 | 148.4 |
-| 36 | zhumengzhiren | submission.py | 35daf1 | 75.7 |
+| 36 | zhumengzhiren | submission.py | ace192 | 117.5 |
 
 ## R3 (ms)
 
@@ -107,24 +107,24 @@ Last updated: `April 06, 2026 at 05:09:17 AM ET`
 | 17 | alifim | submission.py | 701077 | 64.8 |
 | 18 | beratcelik | submission.py | 11c1b8 | 65.4 |
 | 19 | JasonWang07 | submission.py | f27837 | 68.2 |
-| 20 | Shengwei | submission.py | 077330 | 70.1 |
-| 21 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 70.9 |
-| 22 | ethanchen | submission.py | bf6f9e | 74.0 |
-| 23 | Yize | develop.py | 59426e | 80.6 |
-| 24 | TA | submission.py | 324cb8 | 83.2 |
-| 25 | lipphi | develop.py | d58cae | 104.4 |
-| 26 | sjb | submission.py | 421a78 | 128.8 |
-| 27 | tuo | submission.py | 92c00e | 166.9 |
-| 28 | 13rabbit | submission.py | 24af86 | 193.8 |
-| 29 | pyjuan91 | develop.py | 268544 | 303.2 |
-| 30 | fishyfins | submission.py | 2ac776 | 305.7 |
-| 31 | abhik | submission.py | 575817 | 306.0 |
-| 32 | hw_bloss | submission.py | 2d26da | 307.0 |
-| 33 | your_nickname_here | submission.py | 59e245 | 307.4 |
-| 34 | ngoguen | submission.py | a5cdb8 | 310.3 |
-| 35 | nicknam534534 | submission.py | 1bad48 | 405.4 |
-| 36 | PurplePickle67 | submission.py | 231258 | 412.3 |
-| 37 | zhumengzhiren | submission.py | 35daf1 | 413.2 |
+| 20 | zhumengzhiren | submission.py | ace192 | 68.3 |
+| 21 | Shengwei | submission.py | 077330 | 70.1 |
+| 22 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 70.9 |
+| 23 | ethanchen | submission.py | bf6f9e | 74.0 |
+| 24 | Yize | develop.py | 59426e | 80.6 |
+| 25 | TA | submission.py | 324cb8 | 83.2 |
+| 26 | lipphi | develop.py | d58cae | 104.4 |
+| 27 | sjb | submission.py | 421a78 | 128.8 |
+| 28 | tuo | submission.py | 92c00e | 166.9 |
+| 29 | 13rabbit | submission.py | 24af86 | 193.8 |
+| 30 | pyjuan91 | develop.py | 268544 | 303.2 |
+| 31 | fishyfins | submission.py | 2ac776 | 305.7 |
+| 32 | abhik | submission.py | 575817 | 306.0 |
+| 33 | hw_bloss | submission.py | 2d26da | 307.0 |
+| 34 | your_nickname_here | submission.py | 59e245 | 307.4 |
+| 35 | ngoguen | submission.py | a5cdb8 | 310.3 |
+| 36 | nicknam534534 | submission.py | 1bad48 | 405.4 |
+| 37 | PurplePickle67 | submission.py | 231258 | 412.3 |
 
 ## R4 (ms)
 
@@ -151,19 +151,19 @@ Last updated: `April 06, 2026 at 05:09:17 AM ET`
 | 19 | ashaikh23 | submission.py | d98c0b | 109.9 |
 | 20 | beratcelik | submission.py | 11c1b8 | 110.5 |
 | 21 | ishan-pat | submission.py | d1ffac | 110.8 |
-| 22 | ethanchen | submission.py | bf6f9e | 123.0 |
-| 23 | Yize | submission.py | d04433 | 128.5 |
-| 24 | TA | submission.py | 324cb8 | 131.7 |
-| 25 | sjb | submission.py | 421a78 | 147.1 |
-| 26 | lipphi | submission.py | a3a71b | 150.9 |
-| 27 | 13rabbit | submission.py | 24af86 | 156.8 |
-| 28 | tuo | submission.py | 4274da | 160.5 |
-| 29 | fishyfins | submission.py | 2ac776 | 234.0 |
-| 30 | pyjuan91 | develop.py | 268544 | 234.1 |
-| 31 | hw_bloss | submission.py | 2d26da | 239.3 |
-| 32 | abhik | submission.py | 575817 | 240.6 |
-| 33 | your_nickname_here | submission.py | 59e245 | 245.7 |
-| 34 | ngoguen | submission.py | a5cdb8 | 249.7 |
-| 35 | PurplePickle67 | submission.py | 231258 | 268.8 |
-| 36 | nicknam534534 | develop.py | 1bad48 | 269.0 |
-| 37 | zhumengzhiren | submission.py | 35daf1 | 270.8 |
+| 22 | zhumengzhiren | submission.py | ace192 | 111.7 |
+| 23 | ethanchen | submission.py | bf6f9e | 123.0 |
+| 24 | Yize | submission.py | d04433 | 128.5 |
+| 25 | TA | submission.py | 324cb8 | 131.7 |
+| 26 | sjb | submission.py | 421a78 | 147.1 |
+| 27 | lipphi | submission.py | a3a71b | 150.9 |
+| 28 | 13rabbit | submission.py | 24af86 | 156.8 |
+| 29 | tuo | submission.py | 4274da | 160.5 |
+| 30 | fishyfins | submission.py | 2ac776 | 234.0 |
+| 31 | pyjuan91 | develop.py | 268544 | 234.1 |
+| 32 | hw_bloss | submission.py | 2d26da | 239.3 |
+| 33 | abhik | submission.py | 575817 | 240.6 |
+| 34 | your_nickname_here | submission.py | 59e245 | 245.7 |
+| 35 | ngoguen | submission.py | a5cdb8 | 249.7 |
+| 36 | PurplePickle67 | submission.py | 231258 | 268.8 |
+| 37 | nicknam534534 | develop.py | 1bad48 | 269.0 |
