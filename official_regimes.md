@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 04:32:21 AM ET`
+Last updated: `April 06, 2026 at 04:39:57 AM ET`
 
 ## R1 (tok/s)
 
@@ -37,7 +37,6 @@ Last updated: `April 06, 2026 at 04:32:21 AM ET`
 | 29 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
 | 30 | tuo | evaluated | 3d6d40 | 494.8 |
 | 31 | Rithvik | evaluated | 1b2948 | 478.7 |
-| 32 | zhumengzhiren | evaluated | 35daf1 | 103.0 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
@@ -54,6 +53,7 @@ Last updated: `April 06, 2026 at 04:32:21 AM ET`
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
 |  | Yize | failed | d04433 |  |
+|  | zhumengzhiren | failed | 659fea |  |
 
 ## R2 (tok/s)
 
@@ -90,7 +90,6 @@ Last updated: `April 06, 2026 at 04:32:21 AM ET`
 | 29 | fishyfins | evaluated | 2ac776 | 168.7 |
 | 30 | nicknam534534 | evaluated | 1bad48 | 148.4 |
 | 31 | beratcelik | evaluated | 80b48f | 132.8 |
-| 32 | zhumengzhiren | evaluated | 35daf1 | 75.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
@@ -107,6 +106,7 @@ Last updated: `April 06, 2026 at 04:32:21 AM ET`
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
 |  | Yize | failed | d04433 |  |
+|  | zhumengzhiren | failed | 659fea |  |
 
 ## R3 (ms)
 
@@ -143,7 +143,6 @@ Last updated: `April 06, 2026 at 04:32:21 AM ET`
 | 29 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 30 | ngoguen | evaluated | a5cdb8 | 310.3 |
 | 31 | nicknam534534 | evaluated | 1bad48 | 405.4 |
-| 32 | zhumengzhiren | evaluated | 35daf1 | 413.2 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
@@ -160,6 +159,7 @@ Last updated: `April 06, 2026 at 04:32:21 AM ET`
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
 |  | Yize | failed | d04433 |  |
+|  | zhumengzhiren | failed | 659fea |  |
 
 ## R4 (ms)
 
@@ -196,7 +196,6 @@ Last updated: `April 06, 2026 at 04:32:21 AM ET`
 | 29 | your_nickname_here | evaluated | f10b9b | 246.4 |
 | 30 | ngoguen | evaluated | a5cdb8 | 249.7 |
 | 31 | nicknam534534 | evaluated | 1bad48 | 269.2 |
-| 32 | zhumengzhiren | evaluated | 35daf1 | 270.8 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
@@ -213,3 +212,4 @@ Last updated: `April 06, 2026 at 04:32:21 AM ET`
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
 |  | Yize | failed | d04433 |  |
+|  | zhumengzhiren | failed | 659fea |  |

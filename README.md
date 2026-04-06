@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 06, 2026 at 04:32:21 AM ET`
+Last updated: `April 06, 2026 at 04:39:57 AM ET`
 
 ## Pages
 
@@ -43,7 +43,6 @@ Last updated: `April 06, 2026 at 04:32:21 AM ET`
 | 29 | hw_bloss | evaluated | 2d26da | 60.3/6.2/66.5 | 0.532 | 523.5 | 169.3 | 307.0 | 239.3 |
 | 30 | ngoguen | evaluated | a5cdb8 | 40.8/6.2/47.0 | 0.523 | 515.9 | 169.7 | 310.3 | 249.7 |
 | 31 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
-| 32 | zhumengzhiren | evaluated | 35daf1 | 16.4/14.5/30.9 | 0.261 | 103.0 | 75.7 | 413.2 | 270.8 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | jl | failed | cc349d | 62.2/6.2/68.3 |  |  |  |  |  |
 |  | Junyi Li | failed | c31a30 | 71.5/6.1/77.6 |  |  |  |  |  |
@@ -60,6 +59,7 @@ Last updated: `April 06, 2026 at 04:32:21 AM ET`
 |  | TheProphet | failed | 84eefa | 82.6/2.6/85.2 |  |  |  |  |  |
 |  | yb | failed | 8ca88e | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | Yize | failed | d04433 | 19.2/4.8/24.1 |  |  |  |  |  |
+|  | zhumengzhiren | failed | 659fea |  |  |  |  |  |  |
 
 ## Column Guide
 
