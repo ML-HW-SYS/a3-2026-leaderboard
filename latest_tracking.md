@@ -1,9 +1,15 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 05:36:14 PM ET`
+Last updated: `April 06, 2026 at 05:47:55 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 05:47 PM ET | yoursun1220 | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | develop.py | 3ad5d1 | 26.4/14.6/41.0 | 523.0 | 169.6 | 2660.5 | 0.0 |
+| Apr 06 05:45 PM ET | landrum | evaluated |  | develop.py | 2231d5 | 41.7/5.7/47.3 | 534.2 | 176.5 | 276.7 | 177.9 |
+| Apr 06 05:44 PM ET | blabrl | evaluated |  | develop.py | 9873f9 | 38.1/2.6/40.7 | 559.5 | 383.8 | 33.8 | 65.3 |
+| Apr 06 05:41 PM ET | PurplePickle67 | failed_correctness | R1: SETUP: ERR: CompilationError: at 60:20: pack_base = gi * (GS // 8) w_packed = tl.load( w_ptr + (pack_base + offs_... | submission.py | 69f2e4 | 33.3/0.3/33.7 | 0.0 | 0.0 | 35.2 | 52.1 |
+| Apr 06 05:39 PM ET | TheProphet | failed_compliance | Submission compliance check failed for develop.py: \| - setup(...) must have arguments exactly `(weights, scales, conf... | develop.py | 2ecbdc |  |  |  |  |  |
+| Apr 06 05:39 PM ET | 13rabbit | evaluated |  | develop.py | b38df9 | 18.8/4.0/22.9 | 539.9 | 243.3 | 100.0 | 142.0 |
 | Apr 06 05:35 PM ET | yoursun1220 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 3ad5d1 | 21.2/6.2/27.4 | 521.0 | 169.5 | 308.7 | 246.5 |
 | Apr 06 05:34 PM ET | landrum | evaluated |  | develop.py | 9cdabc | 23.4/5.7/29.1 | 533.9 | 176.3 | 276.7 | 177.2 |
 | Apr 06 05:33 PM ET | blabrl | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 9873f9 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
