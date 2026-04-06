@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 06, 2026 at 10:15:10 AM ET`
+Last updated: `April 06, 2026 at 10:23:27 AM ET`
 
 ## Pages
 
@@ -44,6 +44,7 @@ Last updated: `April 06, 2026 at 10:15:10 AM ET`
 | 30 | hw_bloss | evaluated | 2d26da | 60.3/6.2/66.5 | 0.532 | 523.5 | 169.3 | 307.0 | 239.3 |
 | 31 | ngoguen | evaluated | a5cdb8 | 40.8/6.2/47.0 | 0.523 | 515.9 | 169.7 | 310.3 | 249.7 |
 | 32 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
+| 33 | PurplePickle67 | evaluated | bcdd0a | 41.2/8.8/50.0 | 0.368 | 483.0 | 137.6 | 621.9 | 383.9 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | jl | failed | cc349d | 62.2/6.2/68.3 |  |  |  |  |  |
 |  | Junyi Li | failed | c31a30 | 71.5/6.1/77.6 |  |  |  |  |  |
@@ -52,7 +53,6 @@ Last updated: `April 06, 2026 at 10:15:10 AM ET`
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
 |  | pallavi-srinivas | failed | 95ea8c | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | poppyPotatoe | failed | aa5125 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | PurplePickle67 | failed | 02d8c9 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | pyjuan91 | failed | 55e076 | 21.8/7.0/28.8 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | sjb | failed | 78ddc4 | 63.3/3.6/67.0 |  |  |  |  |  |
