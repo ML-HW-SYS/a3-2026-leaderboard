@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 06, 2026 at 05:47:55 PM ET`
+Last updated: `April 06, 2026 at 05:59:03 PM ET`
 
 ## Pages
 
@@ -47,24 +47,24 @@ Last updated: `April 06, 2026 at 05:47:55 PM ET`
 | 33 | fishyfins | evaluated | 2ac776 | 70.4/6.2/76.5 | 0.535 | 524.8 | 168.7 | 305.7 | 234.0 |
 | 34 | hw_bloss | evaluated | 4c9666 | 23.8/6.2/30.0 | 0.531 | 522.2 | 169.1 | 308.1 | 239.1 |
 | 35 | stefan | evaluated | a01e76 | 19.8/6.2/26.0 | 0.529 | 537.5 | 170.0 | 310.0 | 248.7 |
-| 36 | ngoguen | evaluated | a5cdb8 | 40.8/6.2/47.0 | 0.523 | 515.9 | 169.7 | 310.3 | 249.7 |
-| 37 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
-| 38 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
-|  | blabrl | failed | 9873f9 | 0.0/0.0/0.0 |  |  |  |  |  |
+| 36 | blabrl | evaluated | 13a1d8 | 39.2/6.2/45.5 | 0.524 | 524.1 | 169.4 | 310.5 | 251.1 |
+| 37 | ngoguen | evaluated | a5cdb8 | 40.8/6.2/47.0 | 0.523 | 515.9 | 169.7 | 310.3 | 249.7 |
+| 38 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
+| 39 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | ishan-pat | failed | 1cf603 | 23.3/1.6/24.9 |  |  |  |  |  |
 |  | Junyi Li | failed | c31a30 | 71.5/6.1/77.6 |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
 |  | pallavi-srinivas | failed | 95ea8c | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | poppyPotatoe | failed | aa5125 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | PurplePickle67 | failed | 69f2e4 | 33.3/0.3/33.7 |  |  |  |  |  |
+|  | PurplePickle67 | failed | 88e692 | 33.1/0.3/33.5 |  |  |  |  |  |
 |  | pyjuan91 | failed | 55e076 | 21.8/7.0/28.8 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | Sulaiman Alam | failed | 6478cf | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | TheProphet | failed | 2ecbdc |  |  |  |  |  |  |
+|  | TheProphet | failed | 63cc6b | 29.9/2.5/32.5 |  |  |  |  |  |
 |  | yb | failed | 8ca88e | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | Yize | failed | d04433 | 19.2/4.8/24.1 |  |  |  |  |  |
-|  | yoursun1220 | failed | 3ad5d1 | 21.2/6.2/27.4 |  |  |  |  |  |
+|  | yoursun1220 | failed | cbafaf | 41.4/6.2/47.7 |  |  |  |  |  |
 
 ## Column Guide
 

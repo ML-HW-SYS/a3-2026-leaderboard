@@ -1,9 +1,14 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 05:47:55 PM ET`
+Last updated: `April 06, 2026 at 05:59:03 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 05:58 PM ET | yoursun1220 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | cbafaf | 41.4/6.2/47.7 | 525.5 | 169.5 | 309.0 | 246.9 |
+| Apr 06 05:56 PM ET | blabrl | evaluated |  | submission.py | 13a1d8 | 39.2/6.2/45.5 | 524.1 | 169.4 | 310.5 | 251.1 |
+| Apr 06 05:54 PM ET | PurplePickle67 | failed_correctness | R1: SETUP: ERR: CompilationError: at 58:24: # For each packed uint32 column, load [BLOCK_N] coalesced across N, then ... | submission.py | 88e692 | 33.1/0.3/33.5 | 0.0 | 0.0 | 35.1 | 52.1 |
+| Apr 06 05:52 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.75%) \| max_abs_diff=12.18 | submission.py | 63cc6b | 29.9/2.5/32.5 | 560.7 | 381.2 | 24.2 | 46.5 |
+| Apr 06 05:51 PM ET | stefan | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 74:12: keep_block = causal_block if MODE_IS_SPARSE: # TODO(Stage 5):... | develop.py | 13c72c | 41.1/0.6/41.7 | 0.0 | 0.0 | 53.9 | 104.4 |
 | Apr 06 05:47 PM ET | yoursun1220 | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | develop.py | 3ad5d1 | 26.4/14.6/41.0 | 523.0 | 169.6 | 2660.5 | 0.0 |
 | Apr 06 05:45 PM ET | landrum | evaluated |  | develop.py | 2231d5 | 41.7/5.7/47.3 | 534.2 | 176.5 | 276.7 | 177.9 |
 | Apr 06 05:44 PM ET | blabrl | evaluated |  | develop.py | 9873f9 | 38.1/2.6/40.7 | 559.5 | 383.8 | 33.8 | 65.3 |
