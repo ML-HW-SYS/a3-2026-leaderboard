@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 10:03:31 PM ET`
+Last updated: `April 05, 2026 at 10:10:52 PM ET`
 
 ## R1 (tok/s)
 
@@ -51,6 +51,7 @@ Last updated: `April 05, 2026 at 10:03:31 PM ET`
 |  | Sulaiman Alam | failed | 326c2a |  |
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
+|  | Yize | failed | 59426e |  |
 
 ## R2 (tok/s)
 
@@ -101,6 +102,7 @@ Last updated: `April 05, 2026 at 10:03:31 PM ET`
 |  | Sulaiman Alam | failed | 326c2a |  |
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
+|  | Yize | failed | 59426e |  |
 
 ## R3 (ms)
 
@@ -151,6 +153,7 @@ Last updated: `April 05, 2026 at 10:03:31 PM ET`
 |  | Sulaiman Alam | failed | 326c2a |  |
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
+|  | Yize | failed | 59426e |  |
 
 ## R4 (ms)
 
@@ -201,3 +204,4 @@ Last updated: `April 05, 2026 at 10:03:31 PM ET`
 |  | Sulaiman Alam | failed | 326c2a |  |
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
+|  | Yize | failed | 59426e |  |

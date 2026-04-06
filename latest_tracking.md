@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 10:03:31 PM ET`
+Last updated: `April 05, 2026 at 10:10:52 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 10:06 PM ET | fishyfins | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | 18e95c |  |  |  |  |  |
+| Apr 05 10:06 PM ET | Yize | failed_compliance | Submission compliance check failed for submission.py: \| - missing required function(s): setup, run | submission.py | 59426e |  |  |  |  |  |
 | Apr 05 09:59 PM ET | fishyfins | evaluated |  | submission.py | 2ac776 | 70.4/6.2/76.5 | 524.8 | 168.7 | 305.7 | 234.0 |
 | Apr 05 09:49 PM ET | sjb | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | develop.py | b7bb1b | 32.1/3.6/35.7 | 526.4 | 191.8 | 0.0 | 0.0 |
 | Apr 05 09:41 PM ET | sjb | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | submission.py | 78ddc4 | 63.3/3.6/67.0 | 523.8 | 192.0 | 0.0 | 0.0 |

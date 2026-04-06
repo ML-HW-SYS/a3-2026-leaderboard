@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 05, 2026 at 10:03:31 PM ET`
+Last updated: `April 05, 2026 at 10:10:52 PM ET`
 
 ## Pages
 
@@ -57,6 +57,7 @@ Last updated: `April 05, 2026 at 10:03:31 PM ET`
 |  | Sulaiman Alam | failed | 326c2a | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | TheProphet | failed | 84eefa | 82.6/2.6/85.2 |  |  |  |  |  |
 |  | yb | failed | 8ca88e | 0.0/0.0/0.0 |  |  |  |  |  |
+|  | Yize | failed | 59426e |  |  |  |  |  |  |
 
 ## Column Guide
 
