@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 10:46:18 PM ET`
+Last updated: `April 05, 2026 at 10:55:08 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 10:55 PM ET | beratcelik | evaluated |  | submission.py | 80b48f | 26.0/5.6/31.6 | 524.5 | 132.8 | 69.0 | 114.0 |
+| Apr 05 10:51 PM ET | PurplePickle67 | failed_correctness | R1: SETUP: ERR: NameError: name 'OnTheFlyInt4Linear' is not defined \| R2: SETUP: ERR: NameError: name 'OnTheFlyInt4Li... | submission.py | 3cee22 | 13.4/0.0/13.4 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 05 10:49 PM ET | Yize | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | d04433 | 19.2/4.8/24.1 | 526.5 | 170.2 | 80.8 | 128.5 |
+| Apr 05 10:48 PM ET | pallavi-srinivas | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | 95ea8c | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 05 10:46 PM ET | beratcelik | failed_correctness | Correctness FAIL \| R1 (88.92%), R2 (89.63%) \| max_abs_diff=17.85 | submission.py | fce81d | 41.1/5.5/46.7 | 521.1 | 135.2 | 69.1 | 114.7 |
 | Apr 05 10:40 PM ET | Yize | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | develop.py | e7b62e | 18.9/3.9/22.8 | 518.8 | 250.1 | 81.3 | 129.8 |
 | Apr 05 10:39 PM ET | pallavi-srinivas | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 95ea8c | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |

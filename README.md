@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 05, 2026 at 10:46:18 PM ET`
+Last updated: `April 05, 2026 at 10:55:08 PM ET`
 
 ## Pages
 
@@ -33,16 +33,16 @@ Last updated: `April 05, 2026 at 10:46:18 PM ET`
 | 19 | TA | evaluated | a6e863 | 47.2/3.5/50.8 | 0.984 | 556.6 | 294.5 | 85.6 | 135.6 |
 | 20 | ishan-pat | evaluated | a91b85 | 23.4/4.1/27.6 | 0.946 | 523.9 | 217.2 | 82.0 | 115.0 |
 | 21 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
-| 22 | 13rabbit | evaluated | 24af86 | 37.5/4.7/42.3 | 0.710 | 540.4 | 215.5 | 193.8 | 156.8 |
-| 23 | tuo | evaluated | 3d6d40 | 74.5/4.9/79.3 | 0.704 | 494.8 | 204.6 | 167.8 | 162.8 |
-| 24 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
-| 25 | fishyfins | evaluated | 2ac776 | 70.4/6.2/76.5 | 0.535 | 524.8 | 168.7 | 305.7 | 234.0 |
-| 26 | abhik | evaluated | 575817 | 27.4/6.2/33.5 | 0.533 | 525.5 | 170.3 | 306.0 | 240.6 |
-| 27 | hw_bloss | evaluated | 2d26da | 60.3/6.2/66.5 | 0.532 | 523.5 | 169.3 | 307.0 | 239.3 |
-| 28 | ngoguen | evaluated | a5cdb8 | 40.8/6.2/47.0 | 0.523 | 515.9 | 169.7 | 310.3 | 249.7 |
-| 29 | alifim | evaluated | fef459 | 42.4/6.5/48.9 | 0.488 | 508.7 | 177.7 | 389.3 | 270.2 |
-| 30 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
-|  | beratcelik | failed | fce81d | 41.1/5.5/46.7 |  |  |  |  |  |
+| 22 | beratcelik | evaluated | 80b48f | 26.0/5.6/31.6 | 0.875 | 524.5 | 132.8 | 69.0 | 114.0 |
+| 23 | 13rabbit | evaluated | 24af86 | 37.5/4.7/42.3 | 0.710 | 540.4 | 215.5 | 193.8 | 156.8 |
+| 24 | tuo | evaluated | 3d6d40 | 74.5/4.9/79.3 | 0.704 | 494.8 | 204.6 | 167.8 | 162.8 |
+| 25 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
+| 26 | fishyfins | evaluated | 2ac776 | 70.4/6.2/76.5 | 0.535 | 524.8 | 168.7 | 305.7 | 234.0 |
+| 27 | abhik | evaluated | 575817 | 27.4/6.2/33.5 | 0.533 | 525.5 | 170.3 | 306.0 | 240.6 |
+| 28 | hw_bloss | evaluated | 2d26da | 60.3/6.2/66.5 | 0.532 | 523.5 | 169.3 | 307.0 | 239.3 |
+| 29 | ngoguen | evaluated | a5cdb8 | 40.8/6.2/47.0 | 0.523 | 515.9 | 169.7 | 310.3 | 249.7 |
+| 30 | alifim | evaluated | fef459 | 42.4/6.5/48.9 | 0.488 | 508.7 | 177.7 | 389.3 | 270.2 |
+| 31 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | jl | failed | cc349d | 62.2/6.2/68.3 |  |  |  |  |  |
 |  | Junyi Li | failed | c31a30 | 71.5/6.1/77.6 |  |  |  |  |  |
@@ -51,14 +51,14 @@ Last updated: `April 05, 2026 at 10:46:18 PM ET`
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
 |  | pallavi-srinivas | failed | 95ea8c | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | poppyPotatoe | failed | aa5125 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | PurplePickle67 | failed | f9cdcc | 13.5/0.0/13.5 |  |  |  |  |  |
+|  | PurplePickle67 | failed | 3cee22 | 13.4/0.0/13.4 |  |  |  |  |  |
 |  | pyjuan91 | failed | 55e076 | 21.8/7.0/28.8 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | sjb | failed | 78ddc4 | 63.3/3.6/67.0 |  |  |  |  |  |
 |  | Sulaiman Alam | failed | 326c2a | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | TheProphet | failed | 84eefa | 82.6/2.6/85.2 |  |  |  |  |  |
 |  | yb | failed | 8ca88e | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | Yize | failed | e7b62e | 18.9/3.9/22.7 |  |  |  |  |  |
+|  | Yize | failed | d04433 | 19.2/4.8/24.1 |  |  |  |  |  |
 
 ## Column Guide
 
