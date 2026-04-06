@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 04:17:06 AM ET`
+Last updated: `April 06, 2026 at 04:25:01 AM ET`
 
 ## R1 (tok/s)
 
@@ -41,6 +41,7 @@ Last updated: `April 06, 2026 at 04:17:06 AM ET`
 | 33 | PurplePickle67 | submission.py | 231258 | 519.1 |
 | 34 | ngoguen | submission.py | a5cdb8 | 515.9 |
 | 35 | tuo | submission.py | 4274da | 507.3 |
+| 36 | zhumengzhiren | submission.py | 35daf1 | 103.0 |
 
 ## R2 (tok/s)
 
@@ -81,6 +82,7 @@ Last updated: `April 06, 2026 at 04:17:06 AM ET`
 | 33 | ngoguen | submission.py | a5cdb8 | 169.7 |
 | 34 | hw_bloss | submission.py | 2d26da | 169.3 |
 | 35 | nicknam534534 | submission.py | 1bad48 | 148.4 |
+| 36 | zhumengzhiren | submission.py | 35daf1 | 75.7 |
 
 ## R3 (ms)
 
@@ -122,6 +124,7 @@ Last updated: `April 06, 2026 at 04:17:06 AM ET`
 | 34 | ngoguen | submission.py | a5cdb8 | 310.3 |
 | 35 | nicknam534534 | submission.py | 1bad48 | 405.4 |
 | 36 | PurplePickle67 | submission.py | 231258 | 412.3 |
+| 37 | zhumengzhiren | submission.py | 35daf1 | 413.2 |
 
 ## R4 (ms)
 
@@ -163,3 +166,4 @@ Last updated: `April 06, 2026 at 04:17:06 AM ET`
 | 34 | ngoguen | submission.py | a5cdb8 | 249.7 |
 | 35 | PurplePickle67 | submission.py | 231258 | 268.8 |
 | 36 | nicknam534534 | develop.py | 1bad48 | 269.0 |
+| 37 | zhumengzhiren | submission.py | 35daf1 | 270.8 |
