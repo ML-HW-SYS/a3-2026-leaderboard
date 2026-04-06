@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 04:14:11 PM ET`
+Last updated: `April 06, 2026 at 04:24:00 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 04:23 PM ET | beratcelik | evaluated |  | submission.py | ecf890 | 48.7/3.9/52.6 | 564.7 | 228.4 | 68.9 | 114.1 |
+| Apr 06 04:18 PM ET | Shengwei | evaluated |  | submission.py | a9b02c | 39.4/3.0/42.5 | 542.2 | 329.8 | 65.2 | 69.2 |
+| Apr 06 04:16 PM ET | sjb | evaluated |  | develop.py | c0765b | 31.8/4.7/36.5 | 528.9 | 192.0 | 127.6 | 144.5 |
 | Apr 06 04:14 PM ET | beratcelik | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 63:12: h_mod = hq % DILATION neg_inf = tl.full((), float("-inf"), tl... | submission.py | b156fd | 33.0/2.8/35.9 | 0.0 | 242.9 | 68.3 | 113.8 |
 | Apr 06 04:12 PM ET | ashaikh23 | evaluated |  | submission.py | 4d60d0 | 21.4/3.2/24.5 | 541.4 | 330.1 | 58.9 | 110.1 |
 | Apr 06 04:11 PM ET | landrum | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | d8bde1 | 19.9/6.2/26.1 | 520.0 | 170.1 | 307.7 | 246.4 |
