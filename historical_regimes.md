@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 07:22:29 AM ET`
+Last updated: `April 06, 2026 at 07:30:32 AM ET`
 
 ## R1 (tok/s)
 
@@ -38,8 +38,8 @@ Last updated: `April 06, 2026 at 07:22:29 AM ET`
 | 30 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
 | 31 | nicknam534534 | submission.py | 1bad48 | 524.1 |
 | 32 | hw_bloss | submission.py | 2d26da | 523.5 |
-| 33 | PurplePickle67 | submission.py | 231258 | 519.1 |
-| 34 | zhumengzhiren | submission.py | 364da9 | 516.3 |
+| 33 | zhumengzhiren | submission.py | 4e6cf9 | 519.6 |
+| 34 | PurplePickle67 | submission.py | 231258 | 519.1 |
 | 35 | ngoguen | submission.py | a5cdb8 | 515.9 |
 | 36 | tuo | submission.py | 4274da | 507.3 |
 
@@ -52,8 +52,8 @@ Last updated: `April 06, 2026 at 07:22:29 AM ET`
 | 3 | - - | submission.py | adc0f3 | 386.9 |
 | 4 | TheProphet | submission.py | 84eefa | 382.8 |
 | 5 | alifim | submission.py | 701077 | 381.2 |
-| 6 | abarat007 | submission.py | d7f626 | 378.6 |
-| 7 | zhumengzhiren | submission.py | 773b00 | 371.7 |
+| 6 | zhumengzhiren | submission.py | 4e6cf9 | 380.9 |
+| 7 | abarat007 | submission.py | d7f626 | 378.6 |
 | 8 | prousoglou | submission.py | 570c63 | 368.2 |
 | 9 | gm | develop.py | fd15e9 | 357.3 |
 | 10 | JasonWang07 | develop.py | 414385 | 337.0 |
@@ -136,7 +136,7 @@ Last updated: `April 06, 2026 at 07:22:29 AM ET`
 | 4 | Rithvik | submission.py | 1523b4 | 47.6 |
 | 5 | gm | submission.py | 2898fc | 48.5 |
 | 6 | chickfila | submission.py | f0956d | 49.6 |
-| 7 | zhumengzhiren | submission.py | 773b00 | 51.0 |
+| 7 | zhumengzhiren | submission.py | 4e6cf9 | 51.0 |
 | 8 | abarat007 | submission.py | 260fed | 51.5 |
 | 9 | nickname55555555 | submission.py | 05c6ab | 52.5 |
 | 10 | gravlax | submission.py | b1229d | 59.7 |
