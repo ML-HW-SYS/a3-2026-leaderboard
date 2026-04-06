@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 02:27:25 PM ET`
+Last updated: `April 06, 2026 at 02:35:12 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 02:31 PM ET | leoli | evaluated |  | submission.py | f431ba | 19.5/3.2/22.6 | 540.2 | 326.7 | 71.5 | 88.3 |
 | Apr 06 02:27 PM ET | jl | evaluated |  | develop.py | e6ce85 | 19.3/3.5/22.9 | 573.9 | 312.3 | 101.9 | 148.4 |
 | Apr 06 02:24 PM ET | PurplePickle67 | evaluated |  | submission.py | 54612a | 53.3/6.7/60.0 | 487.1 | 97.6 | 36.5 | 52.4 |
 | Apr 06 02:21 PM ET | leoli | failed_correctness | R1: SETUP: ERR: RuntimeError: The expanded size of the tensor (1) must match the existing size (0) at non-singleton d... | submission.py | b92e34 | 14.6/1.6/16.2 | 0.0 | 0.0 | 217.5 | 180.1 |
