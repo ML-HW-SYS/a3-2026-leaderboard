@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 05:34:03 AM ET`
+Last updated: `April 06, 2026 at 05:42:00 AM ET`
 
 ## R1 (tok/s)
 
@@ -41,7 +41,7 @@ Last updated: `April 06, 2026 at 05:34:03 AM ET`
 | 33 | PurplePickle67 | submission.py | 231258 | 519.1 |
 | 34 | ngoguen | submission.py | a5cdb8 | 515.9 |
 | 35 | tuo | submission.py | 4274da | 507.3 |
-| 36 | zhumengzhiren | develop.py | ace192 | 344.3 |
+| 36 | zhumengzhiren | develop.py | a04955 | 344.6 |
 
 ## R2 (tok/s)
 
@@ -106,8 +106,8 @@ Last updated: `April 06, 2026 at 05:34:03 AM ET`
 | 16 | ishan-pat | submission.py | d1ffac | 64.0 |
 | 17 | alifim | submission.py | 701077 | 64.8 |
 | 18 | beratcelik | submission.py | 11c1b8 | 65.4 |
-| 19 | JasonWang07 | submission.py | f27837 | 68.2 |
-| 20 | zhumengzhiren | submission.py | ace192 | 68.3 |
+| 19 | zhumengzhiren | develop.py | a04955 | 68.0 |
+| 20 | JasonWang07 | submission.py | f27837 | 68.2 |
 | 21 | Shengwei | submission.py | 077330 | 70.1 |
 | 22 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 70.9 |
 | 23 | ethanchen | submission.py | bf6f9e | 74.0 |
