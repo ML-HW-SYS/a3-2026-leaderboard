@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 04:24:00 PM ET`
+Last updated: `April 06, 2026 at 04:34:37 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 04:34 PM ET | beratcelik | evaluated |  | submission.py | 863a89 | 51.8/3.9/55.6 | 564.3 | 231.2 | 68.2 | 113.8 |
+| Apr 06 04:32 PM ET | landrum | evaluated |  | develop.py | c2e082 | 23.5/6.2/29.7 | 537.7 | 169.6 | 310.4 | 249.7 |
+| Apr 06 04:31 PM ET | ishan-pat | evaluated |  | submission.py | 345520 | 39.6/4.0/43.6 | 517.0 | 217.4 | 57.4 | 109.3 |
+| Apr 06 04:26 PM ET | sjb | failed_correctness | R2: SETUP: ERR: RuntimeError: The expanded size of the tensor (4352) must match the existing size (4096) at non-singl... | develop.py | 3359ec | 42.4/1.7/44.2 | 537.0 | 0.0 | 84.5 | 113.9 |
 | Apr 06 04:23 PM ET | beratcelik | evaluated |  | submission.py | ecf890 | 48.7/3.9/52.6 | 564.7 | 228.4 | 68.9 | 114.1 |
 | Apr 06 04:18 PM ET | Shengwei | evaluated |  | submission.py | a9b02c | 39.4/3.0/42.5 | 542.2 | 329.8 | 65.2 | 69.2 |
 | Apr 06 04:16 PM ET | sjb | evaluated |  | develop.py | c0765b | 31.8/4.7/36.5 | 528.9 | 192.0 | 127.6 | 144.5 |

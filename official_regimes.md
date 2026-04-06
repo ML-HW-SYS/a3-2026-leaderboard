@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 04:24:00 PM ET`
+Last updated: `April 06, 2026 at 04:34:37 PM ET`
 
 ## R1 (tok/s)
 
@@ -8,7 +8,7 @@ Last updated: `April 06, 2026 at 04:24:00 PM ET`
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 591.4 |
 | 2 | jl | evaluated | e6ce85 | 574.4 |
-| 3 | beratcelik | evaluated | ecf890 | 564.7 |
+| 3 | beratcelik | evaluated | 863a89 | 564.3 |
 | 4 | zhumengzhiren | evaluated | c10f8c | 560.8 |
 | 5 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 560.4 |
 | 6 | abarat007 | evaluated | d7f626 | 559.5 |
@@ -35,9 +35,9 @@ Last updated: `April 06, 2026 at 04:24:00 PM ET`
 | 27 | bl792 | evaluated | 743b6d | 524.5 |
 | 28 | nicknam534534 | evaluated | 1bad48 | 524.1 |
 | 29 | ethanchen | evaluated | ea518d | 523.7 |
-| 30 | ishan-pat | evaluated | 7a764e | 523.0 |
-| 31 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 32 | Licha | evaluated | 8fdc3a | 521.4 |
+| 30 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 31 | Licha | evaluated | 8fdc3a | 521.4 |
+| 32 | ishan-pat | evaluated | 345520 | 517.0 |
 | 33 | ngoguen | evaluated | a5cdb8 | 515.9 |
 | 34 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
 | 35 | Rithvik | evaluated | 2924a0 | 495.8 |
@@ -86,8 +86,8 @@ Last updated: `April 06, 2026 at 04:24:00 PM ET`
 | 22 | happyface | evaluated | 7e8b61 | 258.2 |
 | 23 | ethanchen | evaluated | ea518d | 251.2 |
 | 24 | bl792 | evaluated | 743b6d | 234.0 |
-| 25 | beratcelik | evaluated | ecf890 | 228.4 |
-| 26 | ishan-pat | evaluated | 7a764e | 217.8 |
+| 25 | beratcelik | evaluated | 863a89 | 231.2 |
+| 26 | ishan-pat | evaluated | 345520 | 217.4 |
 | 27 | 13rabbit | evaluated | 24af86 | 215.5 |
 | 28 | tuo | evaluated | 3d6d40 | 204.6 |
 | 29 | Licha | evaluated | 8fdc3a | 192.4 |
@@ -131,12 +131,12 @@ Last updated: `April 06, 2026 at 04:24:00 PM ET`
 | 11 | gravlax | evaluated | b1229d | 35.0 |
 | 12 | bl792 | evaluated | 743b6d | 41.1 |
 | 13 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
-| 14 | ashaikh23 | evaluated | 4d60d0 | 58.9 |
-| 15 | ishan-pat | evaluated | 7a764e | 61.1 |
+| 14 | ishan-pat | evaluated | 345520 | 57.4 |
+| 15 | ashaikh23 | evaluated | 4d60d0 | 58.9 |
 | 16 | happyface | evaluated | 7e8b61 | 63.7 |
 | 17 | alifim | evaluated | 701077 | 64.8 |
 | 18 | Shengwei | evaluated | a9b02c | 65.2 |
-| 19 | beratcelik | evaluated | ecf890 | 68.9 |
+| 19 | beratcelik | evaluated | 863a89 | 68.2 |
 | 20 | JasonWang07 | evaluated | 414385 | 69.4 |
 | 21 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
 | 22 | leoli | evaluated | 5cdac4 | 71.0 |
@@ -193,9 +193,9 @@ Last updated: `April 06, 2026 at 04:24:00 PM ET`
 | 17 | leoli | evaluated | 5cdac4 | 87.4 |
 | 18 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
 | 19 | alifim | evaluated | 701077 | 109.2 |
-| 20 | ishan-pat | evaluated | 7a764e | 109.8 |
+| 20 | ishan-pat | evaluated | 345520 | 109.3 |
 | 21 | ashaikh23 | evaluated | 4d60d0 | 110.1 |
-| 22 | beratcelik | evaluated | ecf890 | 114.1 |
+| 22 | beratcelik | evaluated | 863a89 | 113.8 |
 | 23 | ethanchen | evaluated | ea518d | 123.6 |
 | 24 | TA | evaluated | a6e863 | 135.6 |
 | 25 | sjb | evaluated | c0765b | 144.8 |
