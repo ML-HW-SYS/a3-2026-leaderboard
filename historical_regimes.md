@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 05, 2026 at 09:54:48 PM ET`
+Last updated: `April 05, 2026 at 10:03:31 PM ET`
 
 ## R1 (tok/s)
 
@@ -114,9 +114,9 @@ Last updated: `April 05, 2026 at 09:54:48 PM ET`
 | 26 | tuo | submission.py | 92c00e | 166.9 |
 | 27 | 13rabbit | submission.py | 24af86 | 193.8 |
 | 28 | pyjuan91 | develop.py | 268544 | 303.2 |
-| 29 | abhik | submission.py | 575817 | 306.0 |
-| 30 | hw_bloss | submission.py | 2d26da | 307.0 |
-| 31 | fishyfins | develop.py | d3139f | 307.2 |
+| 29 | fishyfins | submission.py | 2ac776 | 305.7 |
+| 30 | abhik | submission.py | 575817 | 306.0 |
+| 31 | hw_bloss | submission.py | 2d26da | 307.0 |
 | 32 | your_nickname_here | submission.py | 59e245 | 307.4 |
 | 33 | ngoguen | submission.py | a5cdb8 | 310.3 |
 | 34 | nicknam534534 | submission.py | 1bad48 | 405.4 |
@@ -153,10 +153,10 @@ Last updated: `April 05, 2026 at 09:54:48 PM ET`
 | 25 | lipphi | submission.py | a3a71b | 150.9 |
 | 26 | 13rabbit | submission.py | 24af86 | 156.8 |
 | 27 | tuo | submission.py | 4274da | 160.5 |
-| 28 | pyjuan91 | develop.py | 268544 | 234.1 |
-| 29 | hw_bloss | submission.py | 2d26da | 239.3 |
-| 30 | abhik | submission.py | 575817 | 240.6 |
-| 31 | fishyfins | develop.py | d3139f | 244.4 |
+| 28 | fishyfins | submission.py | 2ac776 | 234.0 |
+| 29 | pyjuan91 | develop.py | 268544 | 234.1 |
+| 30 | hw_bloss | submission.py | 2d26da | 239.3 |
+| 31 | abhik | submission.py | 575817 | 240.6 |
 | 32 | your_nickname_here | submission.py | 59e245 | 245.7 |
 | 33 | ngoguen | submission.py | a5cdb8 | 249.7 |
 | 34 | PurplePickle67 | submission.py | 231258 | 268.8 |

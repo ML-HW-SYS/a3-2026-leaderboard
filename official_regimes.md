@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 05, 2026 at 09:54:48 PM ET`
+Last updated: `April 05, 2026 at 10:03:31 PM ET`
 
 ## R1 (tok/s)
 
@@ -25,20 +25,20 @@ Last updated: `April 05, 2026 at 09:54:48 PM ET`
 | 17 | chickfila | evaluated | f0956d | 534.5 |
 | 18 | gravlax | evaluated | b1229d | 532.3 |
 | 19 | abhik | evaluated | 575817 | 525.5 |
-| 20 | bl792 | evaluated | 743b6d | 524.5 |
-| 21 | nicknam534534 | evaluated | 1bad48 | 524.1 |
-| 22 | ishan-pat | evaluated | a91b85 | 523.9 |
-| 23 | ethanchen | evaluated | ea518d | 523.7 |
-| 24 | hw_bloss | evaluated | 2d26da | 523.5 |
-| 25 | PurplePickle67 | evaluated | 231258 | 519.1 |
-| 26 | ngoguen | evaluated | a5cdb8 | 515.9 |
-| 27 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 28 | alifim | evaluated | fef459 | 508.7 |
-| 29 | tuo | evaluated | 3d6d40 | 494.8 |
-| 30 | Rithvik | evaluated | 1b2948 | 478.7 |
-| 31 | beratcelik | evaluated | c8c7e2 | 475.6 |
+| 20 | fishyfins | evaluated | 2ac776 | 524.8 |
+| 21 | bl792 | evaluated | 743b6d | 524.5 |
+| 22 | nicknam534534 | evaluated | 1bad48 | 524.1 |
+| 23 | ishan-pat | evaluated | a91b85 | 523.9 |
+| 24 | ethanchen | evaluated | ea518d | 523.7 |
+| 25 | hw_bloss | evaluated | 2d26da | 523.5 |
+| 26 | PurplePickle67 | evaluated | 231258 | 519.1 |
+| 27 | ngoguen | evaluated | a5cdb8 | 515.9 |
+| 28 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 29 | alifim | evaluated | fef459 | 508.7 |
+| 30 | tuo | evaluated | 3d6d40 | 494.8 |
+| 31 | Rithvik | evaluated | 1b2948 | 478.7 |
+| 32 | beratcelik | evaluated | c8c7e2 | 475.6 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | 7a0977 |  |
 |  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
@@ -85,10 +85,10 @@ Last updated: `April 05, 2026 at 09:54:48 PM ET`
 | 27 | abhik | evaluated | 575817 | 170.3 |
 | 28 | ngoguen | evaluated | a5cdb8 | 169.7 |
 | 29 | hw_bloss | evaluated | 2d26da | 169.3 |
-| 30 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 31 | beratcelik | evaluated | c8c7e2 | 88.9 |
+| 30 | fishyfins | evaluated | 2ac776 | 168.7 |
+| 31 | nicknam534534 | evaluated | 1bad48 | 148.4 |
+| 32 | beratcelik | evaluated | c8c7e2 | 88.9 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | 7a0977 |  |
 |  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
@@ -130,15 +130,15 @@ Last updated: `April 05, 2026 at 09:54:48 PM ET`
 | 22 | lipphi | evaluated | a3a71b | 104.4 |
 | 23 | tuo | evaluated | 3d6d40 | 167.8 |
 | 24 | 13rabbit | evaluated | 24af86 | 193.8 |
-| 25 | abhik | evaluated | 575817 | 306.0 |
-| 26 | hw_bloss | evaluated | 2d26da | 307.0 |
-| 27 | your_nickname_here | evaluated | f10b9b | 308.1 |
-| 28 | ngoguen | evaluated | a5cdb8 | 310.3 |
-| 29 | alifim | evaluated | fef459 | 389.3 |
-| 30 | nicknam534534 | evaluated | 1bad48 | 405.4 |
-| 31 | PurplePickle67 | evaluated | 231258 | 412.3 |
+| 25 | fishyfins | evaluated | 2ac776 | 305.7 |
+| 26 | abhik | evaluated | 575817 | 306.0 |
+| 27 | hw_bloss | evaluated | 2d26da | 307.0 |
+| 28 | your_nickname_here | evaluated | f10b9b | 308.1 |
+| 29 | ngoguen | evaluated | a5cdb8 | 310.3 |
+| 30 | alifim | evaluated | fef459 | 389.3 |
+| 31 | nicknam534534 | evaluated | 1bad48 | 405.4 |
+| 32 | PurplePickle67 | evaluated | 231258 | 412.3 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | 7a0977 |  |
 |  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
@@ -180,15 +180,15 @@ Last updated: `April 05, 2026 at 09:54:48 PM ET`
 | 22 | lipphi | evaluated | a3a71b | 150.9 |
 | 23 | 13rabbit | evaluated | 24af86 | 156.8 |
 | 24 | tuo | evaluated | 3d6d40 | 162.8 |
-| 25 | hw_bloss | evaluated | 2d26da | 239.3 |
-| 26 | abhik | evaluated | 575817 | 240.6 |
-| 27 | your_nickname_here | evaluated | f10b9b | 246.4 |
-| 28 | ngoguen | evaluated | a5cdb8 | 249.7 |
-| 29 | PurplePickle67 | evaluated | 231258 | 268.8 |
-| 30 | nicknam534534 | evaluated | 1bad48 | 269.2 |
-| 31 | alifim | evaluated | fef459 | 270.2 |
+| 25 | fishyfins | evaluated | 2ac776 | 234.0 |
+| 26 | hw_bloss | evaluated | 2d26da | 239.3 |
+| 27 | abhik | evaluated | 575817 | 240.6 |
+| 28 | your_nickname_here | evaluated | f10b9b | 246.4 |
+| 29 | ngoguen | evaluated | a5cdb8 | 249.7 |
+| 30 | PurplePickle67 | evaluated | 231258 | 268.8 |
+| 31 | nicknam534534 | evaluated | 1bad48 | 269.2 |
+| 32 | alifim | evaluated | fef459 | 270.2 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | 7a0977 |  |
 |  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
