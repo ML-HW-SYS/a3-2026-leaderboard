@@ -1,9 +1,14 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 03:05:07 PM ET`
+Last updated: `April 06, 2026 at 03:15:29 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 03:13 PM ET | ishan-pat | evaluated |  | submission.py | 7a764e | 38.8/4.0/42.8 | 523.0 | 217.8 | 61.1 | 109.8 |
+| Apr 06 03:11 PM ET | PurplePickle67 | failed_correctness | R1: SETUP: ERR: CompilationError: at 59:41: mask=valid_g & (offs_lane < K), other=0.0, ).to(tl.float32) # shape: (8,)... | submission.py | acb008 | 34.0/0.3/34.4 | 0.0 | 0.0 | 35.1 | 52.0 |
+| Apr 06 03:09 PM ET | leoli | evaluated |  | submission.py | 5cdac4 | 20.6/3.1/23.8 | 544.1 | 327.5 | 71.0 | 87.4 |
+| Apr 06 03:09 PM ET | Shengwei | evaluated |  | submission.py | 358bcd | 19.5/3.2/22.7 | 537.4 | 327.3 | 70.8 | 87.7 |
+| Apr 06 03:08 PM ET | stefan | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | 50fbd5 | 27.3/6.2/33.5 | 527.0 | 169.5 | 307.9 | 245.9 |
 | Apr 06 02:52 PM ET | Decode_speed | evaluated |  | submission.py | 097a6b | 16.4/14.3/30.7 | 104.5 | 77.3 | 412.7 | 270.3 |
 | Apr 06 02:31 PM ET | leoli | evaluated |  | submission.py | f431ba | 19.5/3.2/22.6 | 540.2 | 326.7 | 71.5 | 88.3 |
 | Apr 06 02:27 PM ET | jl | evaluated |  | develop.py | e6ce85 | 19.3/3.5/22.9 | 573.9 | 312.3 | 101.9 | 148.4 |
