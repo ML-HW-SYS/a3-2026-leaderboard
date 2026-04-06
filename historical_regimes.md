@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 12:06:56 AM ET`
+Last updated: `April 06, 2026 at 12:15:58 AM ET`
 
 ## R1 (tok/s)
 
@@ -31,10 +31,10 @@ Last updated: `April 06, 2026 at 12:06:56 AM ET`
 | 23 | bl792 | submission.py | 3b3a8a | 528.5 |
 | 24 | ethanchen | submission.py | a0d359 | 528.1 |
 | 25 | Rithvik | submission.py | 1a7556 | 527.1 |
-| 26 | sjb | submission.py | 421a78 | 526.7 |
-| 27 | beratcelik | submission.py | 9f6684 | 526.5 |
-| 28 | abhik | submission.py | 575817 | 525.5 |
-| 29 | ishan-pat | submission.py | c482b3 | 525.0 |
+| 26 | ishan-pat | submission.py | 79d328 | 527.0 |
+| 27 | sjb | submission.py | 421a78 | 526.7 |
+| 28 | beratcelik | submission.py | 9f6684 | 526.5 |
+| 29 | abhik | submission.py | 575817 | 525.5 |
 | 30 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
 | 31 | nicknam534534 | submission.py | 1bad48 | 524.1 |
 | 32 | hw_bloss | submission.py | 2d26da | 523.5 |
@@ -71,7 +71,7 @@ Last updated: `April 06, 2026 at 12:06:56 AM ET`
 | 23 | ethanchen | submission.py | ea518d | 251.2 |
 | 24 | fishyfins | develop.py | 87e789 | 243.3 |
 | 25 | bl792 | develop.py | 743b6d | 234.8 |
-| 26 | ishan-pat | develop.py | 859df5 | 218.0 |
+| 26 | ishan-pat | submission.py | 79d328 | 218.1 |
 | 27 | 13rabbit | submission.py | 24af86 | 215.5 |
 | 28 | tuo | submission.py | 3d6d40 | 204.6 |
 | 29 | sjb | submission.py | 78ddc4 | 192.0 |
