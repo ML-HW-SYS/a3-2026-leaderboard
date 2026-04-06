@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 07:08:14 PM ET`
+Last updated: `April 06, 2026 at 07:17:18 PM ET`
 
 ## R1 (tok/s)
 
@@ -45,7 +45,7 @@ Last updated: `April 06, 2026 at 07:08:14 PM ET`
 | 37 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
 | 38 | Rithvik | evaluated | 2924a0 | 495.8 |
 | 39 | tuo | evaluated | 3d6d40 | 494.8 |
-| 40 | PurplePickle67 | evaluated | be6b34 | 488.5 |
+| 40 | PurplePickle67 | evaluated | c17ae5 | 488.7 |
 | 41 | Yize | evaluated | e03fd5 | 141.8 |
 | 42 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -54,7 +54,7 @@ Last updated: `April 06, 2026 at 07:08:14 PM ET`
 |  | mdavalos10 | failed | b601f0 |  |
 |  | pallavi-srinivas | failed | 95ea8c |  |
 |  | poppyPotatoe | failed | aa5125 |  |
-|  | pyjuan91 | failed | d287d4 |  |
+|  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | Sulaiman Alam | failed | 6478cf |  |
 |  | TheProphet | failed | 63cc6b |  |
@@ -103,7 +103,7 @@ Last updated: `April 06, 2026 at 07:08:14 PM ET`
 | 37 | hw_bloss | evaluated | 4c9666 | 169.1 |
 | 38 | fishyfins | evaluated | 2ac776 | 168.7 |
 | 39 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 40 | PurplePickle67 | evaluated | be6b34 | 119.8 |
+| 40 | PurplePickle67 | evaluated | c17ae5 | 120.0 |
 | 41 | Yize | evaluated | e03fd5 | 96.7 |
 | 42 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -112,7 +112,7 @@ Last updated: `April 06, 2026 at 07:08:14 PM ET`
 |  | mdavalos10 | failed | b601f0 |  |
 |  | pallavi-srinivas | failed | 95ea8c |  |
 |  | poppyPotatoe | failed | aa5125 |  |
-|  | pyjuan91 | failed | d287d4 |  |
+|  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | Sulaiman Alam | failed | 6478cf |  |
 |  | TheProphet | failed | 63cc6b |  |
@@ -133,7 +133,7 @@ Last updated: `April 06, 2026 at 07:08:14 PM ET`
 | 9 | prousoglou | evaluated | 570c63 | 34.7 |
 | 10 | chickfila | evaluated | f0956d | 34.7 |
 | 11 | gravlax | evaluated | b1229d | 35.0 |
-| 12 | PurplePickle67 | evaluated | be6b34 | 36.4 |
+| 12 | PurplePickle67 | evaluated | c17ae5 | 36.7 |
 | 13 | bl792 | evaluated | e5885b | 38.9 |
 | 14 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
 | 15 | Shengwei | evaluated | bd7526 | 45.6 |
@@ -170,7 +170,7 @@ Last updated: `April 06, 2026 at 07:08:14 PM ET`
 |  | mdavalos10 | failed | b601f0 |  |
 |  | pallavi-srinivas | failed | 95ea8c |  |
 |  | poppyPotatoe | failed | aa5125 |  |
-|  | pyjuan91 | failed | d287d4 |  |
+|  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | Sulaiman Alam | failed | 6478cf |  |
 |  | TheProphet | failed | 63cc6b |  |
@@ -187,7 +187,7 @@ Last updated: `April 06, 2026 at 07:08:14 PM ET`
 | 5 | chickfila | evaluated | f0956d | 49.6 |
 | 6 | zhumengzhiren | evaluated | cf2924 | 50.2 |
 | 7 | abarat007 | evaluated | d7f626 | 51.5 |
-| 8 | PurplePickle67 | evaluated | be6b34 | 52.9 |
+| 8 | PurplePickle67 | evaluated | c17ae5 | 52.1 |
 | 9 | nickname55555555 | evaluated | 99ddc2 | 53.0 |
 | 10 | gravlax | evaluated | b1229d | 59.7 |
 | 11 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 59.9 |
@@ -228,7 +228,7 @@ Last updated: `April 06, 2026 at 07:08:14 PM ET`
 |  | mdavalos10 | failed | b601f0 |  |
 |  | pallavi-srinivas | failed | 95ea8c |  |
 |  | poppyPotatoe | failed | aa5125 |  |
-|  | pyjuan91 | failed | d287d4 |  |
+|  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | Sulaiman Alam | failed | 6478cf |  |
 |  | TheProphet | failed | 63cc6b |  |

@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 06, 2026 at 07:08:14 PM ET`
+Last updated: `April 06, 2026 at 07:17:18 PM ET`
 
 ## Pages
 
@@ -28,7 +28,7 @@ Last updated: `April 06, 2026 at 07:08:14 PM ET`
 | 14 | bl792 | evaluated | e5885b | 36.9/3.6/40.5 | 1.354 | 525.1 | 235.2 | 38.9 | 62.7 |
 | 15 | JasonWang07 | evaluated | 414385 | 28.1/3.1/31.1 | 1.222 | 544.1 | 336.4 | 69.4 | 78.4 |
 | 16 | happyface | evaluated | 7e8b61 | 18.5/3.4/22.0 | 1.219 | 543.0 | 258.2 | 63.7 | 66.0 |
-| 17 | PurplePickle67 | evaluated | be6b34 | 52.8/5.7/58.5 | 1.191 | 488.5 | 119.8 | 36.4 | 52.9 |
+| 17 | PurplePickle67 | evaluated | c17ae5 | 55.5/5.7/61.2 | 1.194 | 488.7 | 120.0 | 36.7 | 52.1 |
 | 18 | alifim | evaluated | 701077 | 30.0/3.0/33.0 | 1.178 | 539.6 | 381.2 | 64.8 | 109.2 |
 | 19 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 37.2/3.1/40.3 | 1.177 | 560.4 | 326.5 | 70.9 | 89.2 |
 | 20 | leoli | evaluated | 5cdac4 | 20.6/3.1/23.8 | 1.174 | 544.1 | 327.5 | 71.0 | 87.4 |
@@ -60,7 +60,7 @@ Last updated: `April 06, 2026 at 07:08:14 PM ET`
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
 |  | pallavi-srinivas | failed | 95ea8c | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | poppyPotatoe | failed | aa5125 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | pyjuan91 | failed | d287d4 | 21.8/9.2/31.0 |  |  |  |  |  |
+|  | pyjuan91 | failed | f93d3b | 21.8/9.3/31.1 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | Sulaiman Alam | failed | 6478cf | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | TheProphet | failed | 63cc6b | 29.9/2.5/32.5 |  |  |  |  |  |
