@@ -1,9 +1,15 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 02:06:29 PM ET`
+Last updated: `April 06, 2026 at 02:17:32 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 02:17 PM ET | jl | evaluated |  | submission.py | e6ce85 | 38.8/3.5/42.3 | 574.4 | 313.1 | 101.9 | 148.1 |
+| Apr 06 02:15 PM ET | ashaikh23 | evaluated |  | submission.py | 1ce409 | 20.2/3.2/23.4 | 536.0 | 329.5 | 59.7 | 109.7 |
+| Apr 06 02:15 PM ET | landrum | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | 18646f | 26.8/6.2/33.0 | 530.7 | 170.1 | 308.2 | 245.3 |
+| Apr 06 02:12 PM ET | PurplePickle67 | failed_correctness | R1: SETUP: ERR: NameError: name '_triton_int4_gemv' is not defined \| R2: SETUP: ERR: NameError: name '_triton_int4_ge... | submission.py | de4dd8 | 22.6/0.2/22.8 | 0.0 | 0.0 | 0.0 | 52.9 |
+| Apr 06 02:10 PM ET | stefan | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | c3be88 | 26.9/6.2/33.0 | 539.4 | 170.6 | 306.9 | 244.3 |
+| Apr 06 02:09 PM ET | sjb | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | submission.py | 7c6e84 | 31.7/3.6/35.3 | 529.6 | 191.9 | 0.0 | 0.0 |
 | Apr 06 02:05 PM ET | ashaikh23 | failed_correctness | R2: SETUP: ERR: AttributeError: 'SpecialSparseAttention' object has no attribute '_mask_mod' \| R3: SETUP: ERR: Attrib... | submission.py | 9b03e8 | 18.6/0.9/19.5 | 541.4 | 0.0 | 0.0 | 0.0 |
 | Apr 06 02:03 PM ET | PurplePickle67 | evaluated |  | submission.py | e67c41 | 31.0/6.6/37.6 | 491.7 | 98.0 | 36.5 | 52.0 |
 | Apr 06 02:01 PM ET | leoli | evaluated |  | submission.py | 1713f2 | 14.5/8.3/22.7 | 158.2 | 137.6 | 158.5 | 172.5 |
