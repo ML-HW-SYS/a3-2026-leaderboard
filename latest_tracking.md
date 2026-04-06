@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 08:47:39 PM ET`
+Last updated: `April 05, 2026 at 08:55:38 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 08:55 PM ET | beratcelik | evaluated |  | submission.py | c8c7e2 | 25.9/7.6/33.4 | 475.6 | 88.9 | 68.8 | 114.0 |
+| Apr 05 08:49 PM ET | alifim | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | 4200dc |  |  |  |  |  |
 | Apr 05 08:47 PM ET | beratcelik | evaluated |  | submission.py | 11c1b8 | 69.9/6.0/75.8 | 352.2 | 134.0 | 65.4 | 110.5 |
 | Apr 05 08:38 PM ET | beratcelik | evaluated |  | submission.py | 675dab | 43.2/7.6/50.7 | 478.5 | 88.9 | 69.1 | 114.4 |
 | Apr 05 08:30 PM ET | beratcelik | evaluated |  | submission.py | 9f6684 | 26.2/5.5/31.7 | 526.5 | 133.1 | 68.8 | 113.9 |
