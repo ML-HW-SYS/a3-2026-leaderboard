@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 07:35:47 PM ET`
+Last updated: `April 06, 2026 at 07:45:39 PM ET`
 
 ## R1 (tok/s)
 
@@ -33,20 +33,20 @@ Last updated: `April 06, 2026 at 07:35:47 PM ET`
 | 25 | landrum | evaluated | 7b5ab5 | 534.6 |
 | 26 | chickfila | evaluated | f0956d | 534.5 |
 | 27 | gravlax | evaluated | b1229d | 532.3 |
-| 28 | fishyfins | evaluated | 2ac776 | 524.8 |
-| 29 | bl792 | evaluated | 09cd73 | 524.7 |
-| 30 | blabrl | evaluated | 13a1d8 | 524.1 |
-| 31 | nicknam534534 | evaluated | 1bad48 | 524.1 |
-| 32 | ethanchen | evaluated | ea518d | 523.7 |
-| 33 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 34 | Licha | evaluated | 8fdc3a | 521.4 |
-| 35 | yoursun1220 | evaluated | 27e400 | 521.3 |
-| 36 | ngoguen | evaluated | a5cdb8 | 515.9 |
-| 37 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 38 | Rithvik | evaluated | 2924a0 | 495.8 |
-| 39 | tuo | evaluated | 3d6d40 | 494.8 |
-| 40 | PurplePickle67 | evaluated | 4df292 | 483.5 |
-| 41 | Yize | evaluated | e03fd5 | 141.8 |
+| 28 | Yize | evaluated | fdb032 | 525.2 |
+| 29 | fishyfins | evaluated | 2ac776 | 524.8 |
+| 30 | bl792 | evaluated | 09cd73 | 524.7 |
+| 31 | blabrl | evaluated | 13a1d8 | 524.1 |
+| 32 | nicknam534534 | evaluated | 1bad48 | 524.1 |
+| 33 | ethanchen | evaluated | ea518d | 523.7 |
+| 34 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 35 | Licha | evaluated | 8fdc3a | 521.4 |
+| 36 | yoursun1220 | evaluated | 27e400 | 521.3 |
+| 37 | ngoguen | evaluated | a5cdb8 | 515.9 |
+| 38 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 39 | Rithvik | evaluated | 2924a0 | 495.8 |
+| 40 | tuo | evaluated | 3d6d40 | 494.8 |
+| 41 | PurplePickle67 | evaluated | 4df292 | 483.5 |
 | 42 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ishan-pat | failed | 1cf603 |  |
@@ -100,11 +100,11 @@ Last updated: `April 06, 2026 at 07:35:47 PM ET`
 | 34 | yoursun1220 | evaluated | 27e400 | 169.9 |
 | 35 | ngoguen | evaluated | a5cdb8 | 169.7 |
 | 36 | blabrl | evaluated | 13a1d8 | 169.4 |
-| 37 | hw_bloss | evaluated | 4c9666 | 169.1 |
-| 38 | fishyfins | evaluated | 2ac776 | 168.7 |
-| 39 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 40 | PurplePickle67 | evaluated | 4df292 | 120.0 |
-| 41 | Yize | evaluated | e03fd5 | 96.7 |
+| 37 | Yize | evaluated | fdb032 | 169.3 |
+| 38 | hw_bloss | evaluated | 4c9666 | 169.1 |
+| 39 | fishyfins | evaluated | 2ac776 | 168.7 |
+| 40 | nicknam534534 | evaluated | 1bad48 | 148.4 |
+| 41 | PurplePickle67 | evaluated | 4df292 | 120.0 |
 | 42 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ishan-pat | failed | 1cf603 |  |
@@ -146,7 +146,7 @@ Last updated: `April 06, 2026 at 07:35:47 PM ET`
 | 22 | leoli | evaluated | 5cdac4 | 71.0 |
 | 23 | ethanchen | evaluated | ea518d | 74.4 |
 | 24 | sjb | evaluated | 974bff | 79.4 |
-| 25 | Yize | evaluated | e03fd5 | 81.2 |
+| 25 | Yize | evaluated | fdb032 | 81.1 |
 | 26 | TA | evaluated | a6e863 | 85.6 |
 | 27 | 13rabbit | evaluated | b38df9 | 100.3 |
 | 28 | jl | evaluated | e6ce85 | 101.9 |
@@ -204,7 +204,7 @@ Last updated: `April 06, 2026 at 07:35:47 PM ET`
 | 22 | sjb | evaluated | 974bff | 111.4 |
 | 23 | beratcelik | evaluated | 863a89 | 113.8 |
 | 24 | ethanchen | evaluated | ea518d | 123.6 |
-| 25 | Yize | evaluated | e03fd5 | 130.6 |
+| 25 | Yize | evaluated | fdb032 | 130.3 |
 | 26 | TA | evaluated | a6e863 | 135.6 |
 | 27 | 13rabbit | evaluated | b38df9 | 142.7 |
 | 28 | jl | evaluated | e6ce85 | 148.1 |

@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 07:35:47 PM ET`
+Last updated: `April 06, 2026 at 07:45:39 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 07:43 PM ET | mdavalos10 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | 20a04b | 22.4/6.2/28.6 | 535.5 | 171.1 | 309.0 | 247.1 |
+| Apr 06 07:42 PM ET | bl792 | evaluated |  | develop.py | 09cd73 | 18.1/3.5/21.6 | 524.3 | 239.0 | 32.3 | 59.8 |
+| Apr 06 07:39 PM ET | Yize | evaluated |  | submission.py | fdb032 | 39.2/4.8/44.1 | 525.2 | 169.3 | 81.1 | 130.3 |
+| Apr 06 07:38 PM ET | pallavi-srinivas | evaluated |  | develop.py | b3ca1f | 27.3/6.2/33.5 | 527.5 | 169.5 | 310.0 | 250.8 |
 | Apr 06 07:34 PM ET | yoursun1220 | evaluated |  | submission.py | 27e400 | 19.9/6.2/26.1 | 521.3 | 169.9 | 308.6 | 248.7 |
 | Apr 06 07:32 PM ET | bl792 | evaluated |  | submission.py | 09cd73 | 18.3/3.5/21.8 | 524.7 | 238.8 | 32.4 | 59.9 |
 | Apr 06 07:24 PM ET | PurplePickle67 | evaluated |  | submission.py | 4df292 | 30.3/5.7/36.0 | 483.5 | 120.0 | 36.5 | 52.1 |
