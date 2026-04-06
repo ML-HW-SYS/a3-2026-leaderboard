@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 12:48:14 PM ET`
+Last updated: `April 06, 2026 at 12:56:39 PM ET`
 
 ## R1 (tok/s)
 
@@ -28,10 +28,10 @@ Last updated: `April 06, 2026 at 12:48:14 PM ET`
 | 20 | chickfila | evaluated | f0956d | 534.5 |
 | 21 | gravlax | evaluated | b1229d | 532.3 |
 | 22 | ishan-pat | evaluated | 79d328 | 527.0 |
-| 23 | fishyfins | evaluated | 2ac776 | 524.8 |
-| 24 | bl792 | evaluated | 743b6d | 524.5 |
-| 25 | nicknam534534 | evaluated | 1bad48 | 524.1 |
-| 26 | leoli | evaluated | d44d2d | 524.1 |
+| 23 | leoli | evaluated | 151518 | 524.9 |
+| 24 | fishyfins | evaluated | 2ac776 | 524.8 |
+| 25 | bl792 | evaluated | 743b6d | 524.5 |
+| 26 | nicknam534534 | evaluated | 1bad48 | 524.1 |
 | 27 | ethanchen | evaluated | ea518d | 523.7 |
 | 28 | hw_bloss | evaluated | b2767b | 523.1 |
 | 29 | ngoguen | evaluated | a5cdb8 | 515.9 |
@@ -93,8 +93,8 @@ Last updated: `April 06, 2026 at 12:48:14 PM ET`
 | 29 | ngoguen | evaluated | a5cdb8 | 169.7 |
 | 30 | fishyfins | evaluated | 2ac776 | 168.7 |
 | 31 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 32 | leoli | evaluated | d44d2d | 123.9 |
-| 33 | PurplePickle67 | evaluated | 4b9f7b | 96.8 |
+| 32 | PurplePickle67 | evaluated | 4b9f7b | 96.8 |
+| 33 | leoli | evaluated | 151518 | 62.3 |
 |  | beratcelik | failed | b5bc29 |  |
 |  | Decode_speed | failed | 3314ef |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -144,12 +144,12 @@ Last updated: `April 06, 2026 at 12:48:14 PM ET`
 | 24 | lipphi | evaluated | a3a71b | 104.4 |
 | 25 | tuo | evaluated | 3d6d40 | 167.8 |
 | 26 | 13rabbit | evaluated | 24af86 | 193.8 |
-| 27 | leoli | evaluated | d44d2d | 254.9 |
-| 28 | fishyfins | evaluated | 2ac776 | 305.7 |
-| 29 | abhik | evaluated | 9cf11c | 306.6 |
-| 30 | hw_bloss | evaluated | b2767b | 306.7 |
-| 31 | your_nickname_here | evaluated | f10b9b | 308.1 |
-| 32 | ngoguen | evaluated | a5cdb8 | 310.3 |
+| 27 | fishyfins | evaluated | 2ac776 | 305.7 |
+| 28 | abhik | evaluated | 9cf11c | 306.6 |
+| 29 | hw_bloss | evaluated | b2767b | 306.7 |
+| 30 | your_nickname_here | evaluated | f10b9b | 308.1 |
+| 31 | ngoguen | evaluated | a5cdb8 | 310.3 |
+| 32 | leoli | evaluated | 151518 | 353.3 |
 | 33 | nicknam534534 | evaluated | 1bad48 | 405.4 |
 |  | beratcelik | failed | b5bc29 |  |
 |  | Decode_speed | failed | 3314ef |  |
@@ -200,8 +200,8 @@ Last updated: `April 06, 2026 at 12:48:14 PM ET`
 | 24 | lipphi | evaluated | a3a71b | 150.9 |
 | 25 | 13rabbit | evaluated | 24af86 | 156.8 |
 | 26 | tuo | evaluated | 3d6d40 | 162.8 |
-| 27 | leoli | evaluated | d44d2d | 194.1 |
-| 28 | fishyfins | evaluated | 2ac776 | 234.0 |
+| 27 | fishyfins | evaluated | 2ac776 | 234.0 |
+| 28 | leoli | evaluated | 151518 | 235.6 |
 | 29 | hw_bloss | evaluated | b2767b | 237.0 |
 | 30 | abhik | evaluated | 9cf11c | 237.6 |
 | 31 | your_nickname_here | evaluated | f10b9b | 246.4 |
