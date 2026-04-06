@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 11:56:15 AM ET`
+Last updated: `April 06, 2026 at 12:06:35 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 12:04 PM ET | abhik | evaluated |  | develop.py | 41a3ec | 54.2/6.1/60.3 | 539.5 | 171.7 | 306.8 | 236.3 |
+| Apr 06 12:02 PM ET | PurplePickle67 | evaluated |  | submission.py | 1ef422 | 31.1/5.7/36.8 | 473.0 | 119.5 | 36.5 | 52.5 |
+| Apr 06 12:00 PM ET | leoli | evaluated |  | submission.py | 443c3b | 19.7/5.6/25.2 | 524.0 | 182.9 | 253.0 | 193.7 |
+| Apr 06 11:57 AM ET | zhumengzhiren | evaluated |  | develop.py | c10f8c | 31.9/2.3/34.2 | 570.4 | 482.1 | 27.9 | 50.7 |
 | Apr 06 11:56 AM ET | beratcelik | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 32:12: q_block = q_pos // BLOCK_SIZE h_mod = hq % DILATION neg_inf =... | submission.py | b5bc29 | 33.3/2.8/36.2 | 0.0 | 242.8 | 68.7 | 114.0 |
 | Apr 06 11:53 AM ET | abhik | evaluated |  | submission.py | 41a3ec | 68.7/6.1/74.8 | 539.0 | 171.6 | 306.0 | 238.0 |
 | Apr 06 11:51 AM ET | PurplePickle67 | evaluated |  | submission.py | 2efdba | 52.5/5.7/58.2 | 485.6 | 119.9 | 36.3 | 51.9 |

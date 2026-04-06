@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 11:56:15 AM ET`
+Last updated: `April 06, 2026 at 12:06:35 PM ET`
 
 ## R1 (tok/s)
 
@@ -26,7 +26,7 @@ Last updated: `April 06, 2026 at 11:56:15 AM ET`
 | 18 | alifim | develop.py | ad261a | 541.7 |
 | 19 | ashaikh23 | develop.py | ba7196 | 541.3 |
 | 20 | andrasferenczy | submission.py | 6204c7 | 540.6 |
-| 21 | abhik | submission.py | 41a3ec | 539.0 |
+| 21 | abhik | develop.py | 41a3ec | 539.5 |
 | 22 | lipphi | submission.py | a3a71b | 534.8 |
 | 23 | gravlax | develop.py | 1f23d9 | 534.6 |
 | 24 | chickfila | submission.py | 29860a | 534.6 |
@@ -82,7 +82,7 @@ Last updated: `April 06, 2026 at 11:56:15 AM ET`
 | 31 | leoli | develop.py | 350321 | 183.1 |
 | 32 | your_nickname_here | submission.py | 59e245 | 173.4 |
 | 33 | PurplePickle67 | submission.py | 231258 | 172.1 |
-| 34 | abhik | submission.py | 41a3ec | 171.6 |
+| 34 | abhik | develop.py | 41a3ec | 171.7 |
 | 35 | hw_bloss | submission.py | b2767b | 169.8 |
 | 36 | ngoguen | submission.py | a5cdb8 | 169.7 |
 | 37 | nicknam534534 | submission.py | 1bad48 | 148.4 |
@@ -121,7 +121,7 @@ Last updated: `April 06, 2026 at 11:56:15 AM ET`
 | 28 | sjb | submission.py | 421a78 | 128.8 |
 | 29 | tuo | submission.py | 92c00e | 166.9 |
 | 30 | 13rabbit | submission.py | 24af86 | 193.8 |
-| 31 | leoli | develop.py | 350321 | 254.0 |
+| 31 | leoli | submission.py | 443c3b | 253.0 |
 | 32 | pyjuan91 | develop.py | 268544 | 303.2 |
 | 33 | fishyfins | submission.py | 2ac776 | 305.7 |
 | 34 | abhik | submission.py | 575817 | 306.0 |
@@ -167,8 +167,8 @@ Last updated: `April 06, 2026 at 11:56:15 AM ET`
 | 31 | leoli | develop.py | 350321 | 193.6 |
 | 32 | fishyfins | submission.py | 2ac776 | 234.0 |
 | 33 | pyjuan91 | develop.py | 268544 | 234.1 |
-| 34 | hw_bloss | submission.py | b2767b | 237.0 |
-| 35 | abhik | submission.py | 41a3ec | 238.0 |
+| 34 | abhik | develop.py | 41a3ec | 236.3 |
+| 35 | hw_bloss | submission.py | b2767b | 237.0 |
 | 36 | your_nickname_here | submission.py | 59e245 | 245.7 |
 | 37 | ngoguen | submission.py | a5cdb8 | 249.7 |
 | 38 | nicknam534534 | develop.py | 1bad48 | 269.0 |
