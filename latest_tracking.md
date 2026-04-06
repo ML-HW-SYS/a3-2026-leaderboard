@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 06:57:25 PM ET`
+Last updated: `April 06, 2026 at 07:08:14 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 07:07 PM ET | yoursun1220 | evaluated |  | submission.py | 0caddd | 41.2/6.2/47.5 | 518.1 | 169.5 | 309.6 | 249.7 |
+| Apr 06 07:04 PM ET | PurplePickle67 | evaluated |  | submission.py | be6b34 | 52.8/5.7/58.5 | 488.5 | 119.8 | 36.4 | 52.9 |
+| Apr 06 07:00 PM ET | sjb | evaluated |  | develop.py | 4cba09 | 45.6/2.9/48.5 | 532.6 | 347.2 | 50.5 | 53.4 |
+| Apr 06 06:59 PM ET | pyjuan91 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | develop.py | d287d4 | 21.8/9.2/31.0 | 525.3 | 116.7 | 616.8 | 337.6 |
 | Apr 06 06:56 PM ET | yoursun1220 | evaluated |  | submission.py | f4e2be | 39.6/6.2/45.9 | 524.2 | 169.2 | 310.2 | 250.4 |
 | Apr 06 06:55 PM ET | landrum | evaluated |  | develop.py | 449914 | 23.2/5.7/28.9 | 533.5 | 176.7 | 277.0 | 178.1 |
 | Apr 06 06:49 PM ET | pyjuan91 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | d287d4 | 21.8/9.2/31.0 | 525.6 | 116.5 | 617.8 | 336.1 |
