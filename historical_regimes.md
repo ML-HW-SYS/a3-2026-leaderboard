@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 09:58:36 AM ET`
+Last updated: `April 06, 2026 at 10:07:08 AM ET`
 
 ## R1 (tok/s)
 
@@ -37,12 +37,13 @@ Last updated: `April 06, 2026 at 09:58:36 AM ET`
 | 29 | beratcelik | submission.py | 9f6684 | 526.5 |
 | 30 | abhik | submission.py | 575817 | 525.5 |
 | 31 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
-| 32 | nicknam534534 | submission.py | 1bad48 | 524.1 |
-| 33 | hw_bloss | submission.py | 2d26da | 523.5 |
-| 34 | PurplePickle67 | submission.py | 231258 | 519.1 |
-| 35 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
-| 36 | ngoguen | submission.py | a5cdb8 | 515.9 |
-| 37 | tuo | submission.py | 4274da | 507.3 |
+| 32 | leoli | develop.py | 2a1199 | 524.2 |
+| 33 | nicknam534534 | submission.py | 1bad48 | 524.1 |
+| 34 | hw_bloss | submission.py | 2d26da | 523.5 |
+| 35 | PurplePickle67 | submission.py | 231258 | 519.1 |
+| 36 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
+| 37 | ngoguen | submission.py | a5cdb8 | 515.9 |
+| 38 | tuo | submission.py | 4274da | 507.3 |
 
 ## R2 (tok/s)
 
@@ -82,8 +83,9 @@ Last updated: `April 06, 2026 at 09:58:36 AM ET`
 | 32 | PurplePickle67 | submission.py | 231258 | 172.1 |
 | 33 | abhik | submission.py | 575817 | 170.3 |
 | 34 | ngoguen | submission.py | a5cdb8 | 169.7 |
-| 35 | hw_bloss | submission.py | 2d26da | 169.3 |
-| 36 | nicknam534534 | submission.py | 1bad48 | 148.4 |
+| 35 | leoli | develop.py | 2a1199 | 169.4 |
+| 36 | hw_bloss | submission.py | 2d26da | 169.3 |
+| 37 | nicknam534534 | submission.py | 1bad48 | 148.4 |
 
 ## R3 (ms)
 
@@ -123,9 +125,10 @@ Last updated: `April 06, 2026 at 09:58:36 AM ET`
 | 32 | abhik | submission.py | 575817 | 306.0 |
 | 33 | hw_bloss | submission.py | 2d26da | 307.0 |
 | 34 | your_nickname_here | submission.py | 59e245 | 307.4 |
-| 35 | ngoguen | submission.py | a5cdb8 | 310.3 |
-| 36 | nicknam534534 | submission.py | 1bad48 | 405.4 |
-| 37 | PurplePickle67 | submission.py | 231258 | 412.3 |
+| 35 | leoli | develop.py | 2a1199 | 310.3 |
+| 36 | ngoguen | submission.py | a5cdb8 | 310.3 |
+| 37 | nicknam534534 | submission.py | 1bad48 | 405.4 |
+| 38 | PurplePickle67 | submission.py | 231258 | 412.3 |
 
 ## R4 (ms)
 
@@ -166,5 +169,6 @@ Last updated: `April 06, 2026 at 09:58:36 AM ET`
 | 33 | abhik | submission.py | 575817 | 240.6 |
 | 34 | your_nickname_here | submission.py | 59e245 | 245.7 |
 | 35 | ngoguen | submission.py | a5cdb8 | 249.7 |
-| 36 | PurplePickle67 | submission.py | 231258 | 268.8 |
-| 37 | nicknam534534 | develop.py | 1bad48 | 269.0 |
+| 36 | leoli | develop.py | 2a1199 | 250.2 |
+| 37 | PurplePickle67 | submission.py | 231258 | 268.8 |
+| 38 | nicknam534534 | develop.py | 1bad48 | 269.0 |

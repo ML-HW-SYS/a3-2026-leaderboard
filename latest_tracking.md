@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 09:58:36 AM ET`
+Last updated: `April 06, 2026 at 10:07:08 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 10:03 AM ET | leoli | evaluated |  | develop.py | 2a1199 | 21.2/6.2/27.4 | 524.2 | 169.4 | 310.3 | 250.2 |
+| Apr 06 09:59 AM ET | zhumengzhiren | evaluated |  | submission.py | dc183f | 32.1/2.3/34.4 | 569.1 | 481.1 | 28.5 | 51.4 |
 | Apr 06 09:51 AM ET | zhumengzhiren | evaluated |  | develop.py | 32fed6 | 30.7/2.3/33.0 | 567.1 | 482.4 | 29.9 | 51.3 |
 | Apr 06 09:44 AM ET | Sulaiman Alam | failed_correctness | R1: ERR: subprocess failed with exit code 1 \| R2: ERR: subprocess failed with exit code 1 \| R3: ERR: subprocess faile... | submission.py | 6478cf | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 06 09:43 AM ET | zhumengzhiren | evaluated |  | submission.py | 32fed6 | 31.3/2.3/33.5 | 570.5 | 482.1 | 29.9 | 51.3 |

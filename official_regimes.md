@@ -1,13 +1,13 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 09:58:36 AM ET`
+Last updated: `April 06, 2026 at 10:07:08 AM ET`
 
 ## R1 (tok/s)
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 591.4 |
-| 2 | zhumengzhiren | evaluated | 32fed6 | 570.5 |
+| 2 | zhumengzhiren | evaluated | dc183f | 569.1 |
 | 3 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 560.4 |
 | 4 | abarat007 | evaluated | d7f626 | 559.5 |
 | 5 | your_nickname_here | evaluated | f10b9b | 557.8 |
@@ -60,7 +60,7 @@ Last updated: `April 06, 2026 at 09:58:36 AM ET`
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | zhumengzhiren | evaluated | 32fed6 | 482.1 |
+| 1 | zhumengzhiren | evaluated | dc183f | 481.1 |
 | 2 | chyyy | evaluated | 34cc06 | 433.8 |
 | 3 | chickfila | evaluated | f0956d | 398.8 |
 | 4 | - - | evaluated | adc0f3 | 386.9 |
@@ -119,7 +119,7 @@ Last updated: `April 06, 2026 at 09:58:36 AM ET`
 | 3 | gm | evaluated | 2898fc | 26.8 |
 | 4 | Rithvik | evaluated | 681e7e | 27.1 |
 | 5 | abarat007 | evaluated | d7f626 | 28.1 |
-| 6 | zhumengzhiren | evaluated | 32fed6 | 29.9 |
+| 6 | zhumengzhiren | evaluated | dc183f | 28.5 |
 | 7 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
 | 8 | nickname55555555 | evaluated | 99ddc2 | 32.4 |
 | 9 | prousoglou | evaluated | 570c63 | 34.7 |
@@ -173,7 +173,7 @@ Last updated: `April 06, 2026 at 09:58:36 AM ET`
 | 3 | Rithvik | evaluated | 681e7e | 48.1 |
 | 4 | gm | evaluated | 2898fc | 48.5 |
 | 5 | chickfila | evaluated | f0956d | 49.6 |
-| 6 | zhumengzhiren | evaluated | 32fed6 | 51.3 |
+| 6 | zhumengzhiren | evaluated | dc183f | 51.4 |
 | 7 | abarat007 | evaluated | d7f626 | 51.5 |
 | 8 | nickname55555555 | evaluated | 99ddc2 | 53.0 |
 | 9 | gravlax | evaluated | b1229d | 59.7 |
