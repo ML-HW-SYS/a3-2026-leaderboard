@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 06:04:00 AM ET`
+Last updated: `April 06, 2026 at 06:12:26 AM ET`
 
 ## R1 (tok/s)
 
@@ -39,9 +39,9 @@ Last updated: `April 06, 2026 at 06:04:00 AM ET`
 | 31 | nicknam534534 | submission.py | 1bad48 | 524.1 |
 | 32 | hw_bloss | submission.py | 2d26da | 523.5 |
 | 33 | PurplePickle67 | submission.py | 231258 | 519.1 |
-| 34 | ngoguen | submission.py | a5cdb8 | 515.9 |
-| 35 | tuo | submission.py | 4274da | 507.3 |
-| 36 | zhumengzhiren | develop.py | a04955 | 344.6 |
+| 34 | zhumengzhiren | submission.py | 93240d | 515.9 |
+| 35 | ngoguen | submission.py | a5cdb8 | 515.9 |
+| 36 | tuo | submission.py | 4274da | 507.3 |
 
 ## R2 (tok/s)
 
@@ -55,20 +55,20 @@ Last updated: `April 06, 2026 at 06:04:00 AM ET`
 | 6 | abarat007 | submission.py | d7f626 | 378.6 |
 | 7 | prousoglou | submission.py | 570c63 | 368.2 |
 | 8 | gm | develop.py | fd15e9 | 357.3 |
-| 9 | JasonWang07 | develop.py | 414385 | 337.0 |
-| 10 | nickname55555555 | develop.py | 99ddc2 | 334.4 |
-| 11 | Shengwei | submission.py | 077330 | 330.0 |
-| 12 | ashaikh23 | submission.py | d98c0b | 330.0 |
-| 13 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 326.5 |
-| 14 | lipphi | submission.py | a3a71b | 306.7 |
-| 15 | TA | submission.py | 324cb8 | 295.5 |
-| 16 | beratcelik | submission.py | 7c87c2 | 294.0 |
-| 17 | Rithvik | submission.py | 1523b4 | 281.0 |
-| 18 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
-| 19 | gravlax | develop.py | b1229d | 273.0 |
-| 20 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
-| 21 | happyface | develop.py | 0aca52 | 259.4 |
-| 22 | zhumengzhiren | submission.py | a04955 | 256.9 |
+| 9 | zhumengzhiren | submission.py | 93240d | 340.6 |
+| 10 | JasonWang07 | develop.py | 414385 | 337.0 |
+| 11 | nickname55555555 | develop.py | 99ddc2 | 334.4 |
+| 12 | Shengwei | submission.py | 077330 | 330.0 |
+| 13 | ashaikh23 | submission.py | d98c0b | 330.0 |
+| 14 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 326.5 |
+| 15 | lipphi | submission.py | a3a71b | 306.7 |
+| 16 | TA | submission.py | 324cb8 | 295.5 |
+| 17 | beratcelik | submission.py | 7c87c2 | 294.0 |
+| 18 | Rithvik | submission.py | 1523b4 | 281.0 |
+| 19 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
+| 20 | gravlax | develop.py | b1229d | 273.0 |
+| 21 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
+| 22 | happyface | develop.py | 0aca52 | 259.4 |
 | 23 | pyjuan91 | submission.py | 7ff296 | 256.3 |
 | 24 | ethanchen | submission.py | ea518d | 251.2 |
 | 25 | fishyfins | develop.py | 87e789 | 243.3 |
@@ -106,7 +106,7 @@ Last updated: `April 06, 2026 at 06:04:00 AM ET`
 | 16 | ishan-pat | submission.py | d1ffac | 64.0 |
 | 17 | alifim | submission.py | 701077 | 64.8 |
 | 18 | beratcelik | submission.py | 11c1b8 | 65.4 |
-| 19 | zhumengzhiren | develop.py | a04955 | 68.0 |
+| 19 | zhumengzhiren | submission.py | 93240d | 67.4 |
 | 20 | JasonWang07 | submission.py | f27837 | 68.2 |
 | 21 | Shengwei | submission.py | 077330 | 70.1 |
 | 22 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 70.9 |

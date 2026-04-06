@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 06:04:00 AM ET`
+Last updated: `April 06, 2026 at 06:12:26 AM ET`
 
 ## R1 (tok/s)
 
@@ -33,11 +33,11 @@ Last updated: `April 06, 2026 at 06:04:00 AM ET`
 | 25 | nicknam534534 | evaluated | 1bad48 | 524.1 |
 | 26 | ethanchen | evaluated | ea518d | 523.7 |
 | 27 | hw_bloss | evaluated | 2d26da | 523.5 |
-| 28 | ngoguen | evaluated | a5cdb8 | 515.9 |
-| 29 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 30 | tuo | evaluated | 3d6d40 | 494.8 |
-| 31 | Rithvik | evaluated | 1b2948 | 478.7 |
-| 32 | zhumengzhiren | evaluated | a04955 | 343.2 |
+| 28 | zhumengzhiren | evaluated | 93240d | 515.9 |
+| 29 | ngoguen | evaluated | a5cdb8 | 515.9 |
+| 30 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 31 | tuo | evaluated | 3d6d40 | 494.8 |
+| 32 | Rithvik | evaluated | 1b2948 | 478.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
@@ -66,19 +66,19 @@ Last updated: `April 06, 2026 at 06:04:00 AM ET`
 | 5 | abarat007 | evaluated | d7f626 | 378.6 |
 | 6 | prousoglou | evaluated | 570c63 | 368.2 |
 | 7 | gm | evaluated | 2898fc | 357.0 |
-| 8 | JasonWang07 | evaluated | 414385 | 336.4 |
-| 9 | nickname55555555 | evaluated | 99ddc2 | 334.1 |
-| 10 | ashaikh23 | evaluated | d98c0b | 330.0 |
-| 11 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
-| 12 | Shengwei | evaluated | 1f8749 | 326.3 |
-| 13 | lipphi | evaluated | a3a71b | 306.7 |
-| 14 | TA | evaluated | a6e863 | 294.5 |
-| 15 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
-| 16 | Rithvik | evaluated | 1b2948 | 275.9 |
-| 17 | gravlax | evaluated | b1229d | 272.5 |
-| 18 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
-| 19 | happyface | evaluated | 7e8b61 | 258.2 |
-| 20 | zhumengzhiren | evaluated | a04955 | 256.9 |
+| 8 | zhumengzhiren | evaluated | 93240d | 340.6 |
+| 9 | JasonWang07 | evaluated | 414385 | 336.4 |
+| 10 | nickname55555555 | evaluated | 99ddc2 | 334.1 |
+| 11 | ashaikh23 | evaluated | d98c0b | 330.0 |
+| 12 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
+| 13 | Shengwei | evaluated | 1f8749 | 326.3 |
+| 14 | lipphi | evaluated | a3a71b | 306.7 |
+| 15 | TA | evaluated | a6e863 | 294.5 |
+| 16 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
+| 17 | Rithvik | evaluated | 1b2948 | 275.9 |
+| 18 | gravlax | evaluated | b1229d | 272.5 |
+| 19 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
+| 20 | happyface | evaluated | 7e8b61 | 258.2 |
 | 21 | ethanchen | evaluated | ea518d | 251.2 |
 | 22 | bl792 | evaluated | 743b6d | 234.0 |
 | 23 | ishan-pat | evaluated | 79d328 | 218.1 |
@@ -128,7 +128,7 @@ Last updated: `April 06, 2026 at 06:04:00 AM ET`
 | 14 | happyface | evaluated | 7e8b61 | 63.7 |
 | 15 | ishan-pat | evaluated | 79d328 | 64.1 |
 | 16 | alifim | evaluated | 701077 | 64.8 |
-| 17 | zhumengzhiren | evaluated | a04955 | 68.6 |
+| 17 | zhumengzhiren | evaluated | 93240d | 67.4 |
 | 18 | beratcelik | evaluated | 80b48f | 69.0 |
 | 19 | JasonWang07 | evaluated | 414385 | 69.4 |
 | 20 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
@@ -184,7 +184,7 @@ Last updated: `April 06, 2026 at 06:04:00 AM ET`
 | 17 | alifim | evaluated | 701077 | 109.2 |
 | 18 | ashaikh23 | evaluated | d98c0b | 109.9 |
 | 19 | ishan-pat | evaluated | 79d328 | 110.9 |
-| 20 | zhumengzhiren | evaluated | a04955 | 113.1 |
+| 20 | zhumengzhiren | evaluated | 93240d | 112.6 |
 | 21 | beratcelik | evaluated | 80b48f | 114.0 |
 | 22 | ethanchen | evaluated | ea518d | 123.6 |
 | 23 | TA | evaluated | a6e863 | 135.6 |
