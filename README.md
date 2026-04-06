@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 06, 2026 at 06:43:26 AM ET`
+Last updated: `April 06, 2026 at 06:51:22 AM ET`
 
 ## Pages
 
@@ -19,7 +19,7 @@ Last updated: `April 06, 2026 at 06:43:26 AM ET`
 | 5 | chickfila | evaluated | f0956d | 65.8/2.6/68.4 | 1.693 | 534.5 | 398.8 | 34.7 | 49.6 |
 | 6 | nickname55555555 | evaluated | 99ddc2 | 27.8/2.8/30.6 | 1.633 | 552.2 | 334.1 | 32.4 | 53.0 |
 | 7 | Rithvik | evaluated | 1b2948 | 66.5/3.2/69.7 | 1.600 | 478.7 | 275.9 | 27.2 | 49.1 |
-| 8 | zhumengzhiren | evaluated | 364da9 | 54.1/2.7/56.9 | 1.588 | 516.3 | 370.0 | 37.7 | 52.7 |
+| 8 | zhumengzhiren | evaluated | 58583c | 26.9/2.7/29.7 | 1.579 | 513.6 | 369.9 | 37.8 | 53.6 |
 | 9 | prousoglou | evaluated | 570c63 | 18.4/2.7/21.1 | 1.565 | 556.7 | 368.2 | 34.7 | 65.3 |
 | 10 | andrasferenczy | evaluated | 9c7f53 | 37.3/3.2/40.5 | 1.486 | 539.1 | 277.2 | 31.9 | 63.7 |
 | 11 | gravlax | evaluated | b1229d | 19.9/3.2/23.1 | 1.464 | 532.3 | 272.5 | 35.0 | 59.7 |
