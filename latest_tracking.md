@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 11:15:04 AM ET`
+Last updated: `April 06, 2026 at 11:25:13 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 11:25 AM ET | beratcelik | evaluated |  | submission.py | f4763d | 25.0/4.7/29.6 | 548.0 | 171.4 | 68.9 | 114.2 |
+| Apr 06 11:21 AM ET | PurplePickle67 | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | submission.py | a09fda | 29.8/5.5/35.4 | 484.7 | 114.7 | 0.0 | 0.0 |
+| Apr 06 11:18 AM ET | TheProphet | failed_compliance | Submission compliance check failed for develop.py: \| - setup(...) must have arguments exactly `(weights, scales, conf... | develop.py | 2d859a |  |  |  |  |  |
+| Apr 06 11:16 AM ET | zhumengzhiren | evaluated |  | submission.py | 789cd3 | 31.9/2.3/34.2 | 567.5 | 484.1 | 27.9 | 50.8 |
 | Apr 06 11:15 AM ET | beratcelik | evaluated |  | submission.py | f93257 | 43.3/4.7/48.1 | 542.6 | 166.9 | 69.2 | 115.0 |
 | Apr 06 11:11 AM ET | PurplePickle67 | evaluated |  | submission.py | aea601 | 66.0/6.2/72.2 | 487.6 | 116.4 | 65.4 | 110.3 |
 | Apr 06 11:08 AM ET | TheProphet | failed_compliance | Submission compliance check failed for submission.py: \| - setup(...) must have arguments exactly `(weights, scales, c... | submission.py | 2d859a |  |  |  |  |  |
