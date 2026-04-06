@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 06, 2026 at 04:47:17 AM ET`
+Last updated: `April 06, 2026 at 04:54:37 AM ET`
 
 ## Pages
 
@@ -59,7 +59,7 @@ Last updated: `April 06, 2026 at 04:47:17 AM ET`
 |  | TheProphet | failed | 84eefa | 82.6/2.6/85.2 |  |  |  |  |  |
 |  | yb | failed | 8ca88e | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | Yize | failed | d04433 | 19.2/4.8/24.1 |  |  |  |  |  |
-|  | zhumengzhiren | failed | 659fea |  |  |  |  |  |  |
+|  | zhumengzhiren | failed | f213ea |  |  |  |  |  |  |
 
 ## Column Guide
 
