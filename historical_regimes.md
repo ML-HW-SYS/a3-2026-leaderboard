@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 02:49:52 PM ET`
+Last updated: `April 06, 2026 at 02:57:47 PM ET`
 
 ## R1 (tok/s)
 
@@ -46,6 +46,7 @@ Last updated: `April 06, 2026 at 02:49:52 PM ET`
 | 38 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
 | 39 | ngoguen | submission.py | a5cdb8 | 515.9 |
 | 40 | tuo | submission.py | 4274da | 507.3 |
+| 41 | Decode_speed | submission.py | 097a6b | 104.5 |
 
 ## R2 (tok/s)
 
@@ -90,6 +91,7 @@ Last updated: `April 06, 2026 at 02:49:52 PM ET`
 | 37 | hw_bloss | submission.py | b2767b | 169.8 |
 | 38 | ngoguen | submission.py | a5cdb8 | 169.7 |
 | 39 | nicknam534534 | submission.py | 1bad48 | 148.4 |
+| 40 | Decode_speed | submission.py | 097a6b | 77.3 |
 
 ## R3 (ms)
 
@@ -135,6 +137,7 @@ Last updated: `April 06, 2026 at 02:49:52 PM ET`
 | 38 | your_nickname_here | submission.py | 59e245 | 307.4 |
 | 39 | ngoguen | submission.py | a5cdb8 | 310.3 |
 | 40 | nicknam534534 | submission.py | 1bad48 | 405.4 |
+| 41 | Decode_speed | submission.py | 097a6b | 412.7 |
 
 ## R4 (ms)
 
@@ -180,3 +183,4 @@ Last updated: `April 06, 2026 at 02:49:52 PM ET`
 | 38 | your_nickname_here | submission.py | 59e245 | 245.7 |
 | 39 | ngoguen | submission.py | a5cdb8 | 249.7 |
 | 40 | nicknam534534 | develop.py | 1bad48 | 269.0 |
+| 41 | Decode_speed | submission.py | 097a6b | 270.3 |

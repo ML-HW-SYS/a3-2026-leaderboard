@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 02:49:52 PM ET`
+Last updated: `April 06, 2026 at 02:57:47 PM ET`
 
 ## R1 (tok/s)
 
@@ -41,8 +41,8 @@ Last updated: `April 06, 2026 at 02:49:52 PM ET`
 | 33 | Rithvik | evaluated | 2924a0 | 495.8 |
 | 34 | tuo | evaluated | 3d6d40 | 494.8 |
 | 35 | PurplePickle67 | evaluated | 54612a | 487.1 |
+| 36 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | beratcelik | failed | b5bc29 |  |
-|  | Decode_speed | failed | 3314ef |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
@@ -97,8 +97,8 @@ Last updated: `April 06, 2026 at 02:49:52 PM ET`
 | 33 | fishyfins | evaluated | 2ac776 | 168.7 |
 | 34 | nicknam534534 | evaluated | 1bad48 | 148.4 |
 | 35 | PurplePickle67 | evaluated | 54612a | 97.6 |
+| 36 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | beratcelik | failed | b5bc29 |  |
-|  | Decode_speed | failed | 3314ef |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
@@ -153,8 +153,8 @@ Last updated: `April 06, 2026 at 02:49:52 PM ET`
 | 33 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 34 | ngoguen | evaluated | a5cdb8 | 310.3 |
 | 35 | nicknam534534 | evaluated | 1bad48 | 405.4 |
+| 36 | Decode_speed | evaluated | 097a6b | 412.7 |
 |  | beratcelik | failed | b5bc29 |  |
-|  | Decode_speed | failed | 3314ef |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
@@ -209,8 +209,8 @@ Last updated: `April 06, 2026 at 02:49:52 PM ET`
 | 33 | your_nickname_here | evaluated | f10b9b | 246.4 |
 | 34 | ngoguen | evaluated | a5cdb8 | 249.7 |
 | 35 | nicknam534534 | evaluated | 1bad48 | 269.2 |
+| 36 | Decode_speed | evaluated | 097a6b | 270.3 |
 |  | beratcelik | failed | b5bc29 |  |
-|  | Decode_speed | failed | 3314ef |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | Junyi Li | failed | c31a30 |  |
 |  | landrum | failed | b88426 |  |
