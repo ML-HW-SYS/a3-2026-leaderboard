@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 07:58:08 PM ET`
+Last updated: `April 05, 2026 at 08:06:06 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 08:03 PM ET | abhik | evaluated |  | submission.py | 575817 | 27.4/6.2/33.5 | 525.5 | 170.3 | 306.0 | 240.6 |
+| Apr 05 07:59 PM ET | alifim | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | 3e8e7b |  |  |  |  |  |
 | Apr 05 07:37 PM ET | alifim | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | 9de445 |  |  |  |  |  |
 | Apr 05 07:30 PM ET | alifim | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | bd838b |  |  |  |  |  |
 | Apr 05 07:26 PM ET | mdavalos10 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | f8cdcc | 22.6/6.2/28.7 | 533.4 | 171.1 | 309.1 | 247.0 |
