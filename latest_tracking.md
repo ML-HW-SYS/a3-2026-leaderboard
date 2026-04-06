@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 05:59:03 PM ET`
+Last updated: `April 06, 2026 at 06:10:03 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 06:09 PM ET | landrum | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | develop.py | 9ac29a | 13.0/3.9/16.9 | 537.7 | 176.5 | 0.0 | 0.0 |
+| Apr 06 06:05 PM ET | PurplePickle67 | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 7652af | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 06 06:02 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.75%) \| max_abs_diff=12.18 | develop.py | 63cc6b | 29.9/2.5/32.4 | 559.1 | 381.2 | 24.1 | 46.5 |
 | Apr 06 05:58 PM ET | yoursun1220 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | cbafaf | 41.4/6.2/47.7 | 525.5 | 169.5 | 309.0 | 246.9 |
 | Apr 06 05:56 PM ET | blabrl | evaluated |  | submission.py | 13a1d8 | 39.2/6.2/45.5 | 524.1 | 169.4 | 310.5 | 251.1 |
 | Apr 06 05:54 PM ET | PurplePickle67 | failed_correctness | R1: SETUP: ERR: CompilationError: at 58:24: # For each packed uint32 column, load [BLOCK_N] coalesced across N, then ... | submission.py | 88e692 | 33.1/0.3/33.5 | 0.0 | 0.0 | 35.1 | 52.1 |
