@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 06, 2026 at 06:48:03 PM ET`
+Last updated: `April 06, 2026 at 06:57:25 PM ET`
 
 ## Pages
 
@@ -49,9 +49,10 @@ Last updated: `April 06, 2026 at 06:48:03 PM ET`
 | 35 | hw_bloss | evaluated | 4c9666 | 23.8/6.2/30.0 | 0.531 | 522.2 | 169.1 | 308.1 | 239.1 |
 | 36 | stefan | evaluated | a01e76 | 19.8/6.2/26.0 | 0.529 | 537.5 | 170.0 | 310.0 | 248.7 |
 | 37 | blabrl | evaluated | 13a1d8 | 39.2/6.2/45.5 | 0.524 | 524.1 | 169.4 | 310.5 | 251.1 |
-| 38 | ngoguen | evaluated | a5cdb8 | 40.8/6.2/47.0 | 0.523 | 515.9 | 169.7 | 310.3 | 249.7 |
-| 39 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
-| 40 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
+| 38 | yoursun1220 | evaluated | f4e2be | 39.6/6.2/45.9 | 0.524 | 524.2 | 169.2 | 310.2 | 250.4 |
+| 39 | ngoguen | evaluated | a5cdb8 | 40.8/6.2/47.0 | 0.523 | 515.9 | 169.7 | 310.3 | 249.7 |
+| 40 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
+| 41 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | ishan-pat | failed | 1cf603 | 23.3/1.6/24.9 |  |  |  |  |  |
 |  | Junyi Li | failed | c31a30 | 71.5/6.1/77.6 |  |  |  |  |  |
@@ -59,12 +60,11 @@ Last updated: `April 06, 2026 at 06:48:03 PM ET`
 |  | pallavi-srinivas | failed | 95ea8c | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | poppyPotatoe | failed | aa5125 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | PurplePickle67 | failed | b01c10 | 60.9/5.5/66.5 |  |  |  |  |  |
-|  | pyjuan91 | failed | 55e076 | 21.8/7.0/28.8 |  |  |  |  |  |
+|  | pyjuan91 | failed | d287d4 | 21.8/9.2/31.0 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | Sulaiman Alam | failed | 6478cf | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | TheProphet | failed | 63cc6b | 29.9/2.5/32.5 |  |  |  |  |  |
 |  | yb | failed | 8ca88e | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | yoursun1220 | failed | 74425f |  |  |  |  |  |  |
 
 ## Column Guide
 

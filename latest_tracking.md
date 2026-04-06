@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 06:48:03 PM ET`
+Last updated: `April 06, 2026 at 06:57:25 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 06:56 PM ET | yoursun1220 | evaluated |  | submission.py | f4e2be | 39.6/6.2/45.9 | 524.2 | 169.2 | 310.2 | 250.4 |
+| Apr 06 06:55 PM ET | landrum | evaluated |  | develop.py | 449914 | 23.2/5.7/28.9 | 533.5 | 176.7 | 277.0 | 178.1 |
+| Apr 06 06:49 PM ET | pyjuan91 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | d287d4 | 21.8/9.2/31.0 | 525.6 | 116.5 | 617.8 | 336.1 |
 | Apr 06 06:47 PM ET | yoursun1220 | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | 74425f |  |  |  |  |  |
 | Apr 06 06:45 PM ET | PurplePickle67 | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | submission.py | b01c10 | 60.9/5.5/66.5 | 473.4 | 118.7 | 37.5 | 0.0 |
 | Apr 06 06:41 PM ET | Yize | evaluated |  | develop.py | e03fd5 | 15.1/9.9/25.0 | 135.6 | 96.6 | 81.4 | 130.3 |

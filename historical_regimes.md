@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 06:48:03 PM ET`
+Last updated: `April 06, 2026 at 06:57:25 PM ET`
 
 ## R1 (tok/s)
 
@@ -42,15 +42,16 @@ Last updated: `April 06, 2026 at 06:48:03 PM ET`
 | 34 | Rithvik | submission.py | 1a7556 | 527.1 |
 | 35 | ishan-pat | submission.py | 79d328 | 527.0 |
 | 36 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
-| 37 | nicknam534534 | submission.py | 1bad48 | 524.1 |
-| 38 | hw_bloss | submission.py | 2d26da | 523.5 |
-| 39 | Licha | submission.py | 8fdc3a | 521.4 |
-| 40 | PurplePickle67 | submission.py | 231258 | 519.1 |
-| 41 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
-| 42 | ngoguen | submission.py | a5cdb8 | 515.9 |
-| 43 | tuo | submission.py | 4274da | 507.3 |
-| 44 | Yize | submission.py | e03fd5 | 141.8 |
-| 45 | Decode_speed | submission.py | 097a6b | 104.5 |
+| 37 | yoursun1220 | submission.py | f4e2be | 524.2 |
+| 38 | nicknam534534 | submission.py | 1bad48 | 524.1 |
+| 39 | hw_bloss | submission.py | 2d26da | 523.5 |
+| 40 | Licha | submission.py | 8fdc3a | 521.4 |
+| 41 | PurplePickle67 | submission.py | 231258 | 519.1 |
+| 42 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
+| 43 | ngoguen | submission.py | a5cdb8 | 515.9 |
+| 44 | tuo | submission.py | 4274da | 507.3 |
+| 45 | Yize | submission.py | e03fd5 | 141.8 |
+| 46 | Decode_speed | submission.py | 097a6b | 104.5 |
 
 ## R2 (tok/s)
 
@@ -97,9 +98,10 @@ Last updated: `April 06, 2026 at 06:48:03 PM ET`
 | 39 | stefan | develop.py | 9a25e1 | 170.0 |
 | 40 | hw_bloss | submission.py | b2767b | 169.8 |
 | 41 | ngoguen | submission.py | a5cdb8 | 169.7 |
-| 42 | nicknam534534 | submission.py | 1bad48 | 148.4 |
-| 43 | Yize | submission.py | e03fd5 | 96.7 |
-| 44 | Decode_speed | submission.py | 097a6b | 77.3 |
+| 42 | yoursun1220 | submission.py | f4e2be | 169.2 |
+| 43 | nicknam534534 | submission.py | 1bad48 | 148.4 |
+| 44 | Yize | submission.py | e03fd5 | 96.7 |
+| 45 | Decode_speed | submission.py | 097a6b | 77.3 |
 
 ## R3 (ms)
 
@@ -147,8 +149,9 @@ Last updated: `April 06, 2026 at 06:48:03 PM ET`
 | 40 | hw_bloss | submission.py | b2767b | 306.7 |
 | 41 | your_nickname_here | submission.py | 59e245 | 307.4 |
 | 42 | stefan | develop.py | 9a25e1 | 309.6 |
-| 43 | ngoguen | submission.py | a5cdb8 | 310.3 |
-| 44 | Decode_speed | submission.py | 097a6b | 412.7 |
+| 43 | yoursun1220 | submission.py | f4e2be | 310.2 |
+| 44 | ngoguen | submission.py | a5cdb8 | 310.3 |
+| 45 | Decode_speed | submission.py | 097a6b | 412.7 |
 
 ## R4 (ms)
 
@@ -197,4 +200,5 @@ Last updated: `April 06, 2026 at 06:48:03 PM ET`
 | 41 | your_nickname_here | submission.py | 59e245 | 245.7 |
 | 42 | stefan | develop.py | 9a25e1 | 248.5 |
 | 43 | ngoguen | submission.py | a5cdb8 | 249.7 |
-| 44 | Decode_speed | submission.py | 097a6b | 270.3 |
+| 44 | yoursun1220 | submission.py | f4e2be | 250.4 |
+| 45 | Decode_speed | submission.py | 097a6b | 270.3 |

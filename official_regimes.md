@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 06:48:03 PM ET`
+Last updated: `April 06, 2026 at 06:57:25 PM ET`
 
 ## R1 (tok/s)
 
@@ -35,17 +35,18 @@ Last updated: `April 06, 2026 at 06:48:03 PM ET`
 | 27 | gravlax | evaluated | b1229d | 532.3 |
 | 28 | bl792 | evaluated | e5885b | 525.1 |
 | 29 | fishyfins | evaluated | 2ac776 | 524.8 |
-| 30 | blabrl | evaluated | 13a1d8 | 524.1 |
-| 31 | nicknam534534 | evaluated | 1bad48 | 524.1 |
-| 32 | ethanchen | evaluated | ea518d | 523.7 |
-| 33 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 34 | Licha | evaluated | 8fdc3a | 521.4 |
-| 35 | ngoguen | evaluated | a5cdb8 | 515.9 |
-| 36 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 37 | Rithvik | evaluated | 2924a0 | 495.8 |
-| 38 | tuo | evaluated | 3d6d40 | 494.8 |
-| 39 | Yize | evaluated | e03fd5 | 141.8 |
-| 40 | Decode_speed | evaluated | 097a6b | 104.5 |
+| 30 | yoursun1220 | evaluated | f4e2be | 524.2 |
+| 31 | blabrl | evaluated | 13a1d8 | 524.1 |
+| 32 | nicknam534534 | evaluated | 1bad48 | 524.1 |
+| 33 | ethanchen | evaluated | ea518d | 523.7 |
+| 34 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 35 | Licha | evaluated | 8fdc3a | 521.4 |
+| 36 | ngoguen | evaluated | a5cdb8 | 515.9 |
+| 37 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 38 | Rithvik | evaluated | 2924a0 | 495.8 |
+| 39 | tuo | evaluated | 3d6d40 | 494.8 |
+| 40 | Yize | evaluated | e03fd5 | 141.8 |
+| 41 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ishan-pat | failed | 1cf603 |  |
 |  | Junyi Li | failed | c31a30 |  |
@@ -53,12 +54,11 @@ Last updated: `April 06, 2026 at 06:48:03 PM ET`
 |  | pallavi-srinivas | failed | 95ea8c |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | PurplePickle67 | failed | b01c10 |  |
-|  | pyjuan91 | failed | 55e076 |  |
+|  | pyjuan91 | failed | d287d4 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | Sulaiman Alam | failed | 6478cf |  |
 |  | TheProphet | failed | 63cc6b |  |
 |  | yb | failed | 8ca88e |  |
-|  | yoursun1220 | failed | 74425f |  |
 
 ## R2 (tok/s)
 
@@ -99,11 +99,12 @@ Last updated: `April 06, 2026 at 06:48:03 PM ET`
 | 33 | stefan | evaluated | a01e76 | 170.0 |
 | 34 | ngoguen | evaluated | a5cdb8 | 169.7 |
 | 35 | blabrl | evaluated | 13a1d8 | 169.4 |
-| 36 | hw_bloss | evaluated | 4c9666 | 169.1 |
-| 37 | fishyfins | evaluated | 2ac776 | 168.7 |
-| 38 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 39 | Yize | evaluated | e03fd5 | 96.7 |
-| 40 | Decode_speed | evaluated | 097a6b | 77.3 |
+| 36 | yoursun1220 | evaluated | f4e2be | 169.2 |
+| 37 | hw_bloss | evaluated | 4c9666 | 169.1 |
+| 38 | fishyfins | evaluated | 2ac776 | 168.7 |
+| 39 | nicknam534534 | evaluated | 1bad48 | 148.4 |
+| 40 | Yize | evaluated | e03fd5 | 96.7 |
+| 41 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ishan-pat | failed | 1cf603 |  |
 |  | Junyi Li | failed | c31a30 |  |
@@ -111,12 +112,11 @@ Last updated: `April 06, 2026 at 06:48:03 PM ET`
 |  | pallavi-srinivas | failed | 95ea8c |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | PurplePickle67 | failed | b01c10 |  |
-|  | pyjuan91 | failed | 55e076 |  |
+|  | pyjuan91 | failed | d287d4 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | Sulaiman Alam | failed | 6478cf |  |
 |  | TheProphet | failed | 63cc6b |  |
 |  | yb | failed | 8ca88e |  |
-|  | yoursun1220 | failed | 74425f |  |
 
 ## R3 (ms)
 
@@ -158,10 +158,11 @@ Last updated: `April 06, 2026 at 06:48:03 PM ET`
 | 34 | hw_bloss | evaluated | 4c9666 | 308.1 |
 | 35 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 36 | stefan | evaluated | a01e76 | 310.0 |
-| 37 | ngoguen | evaluated | a5cdb8 | 310.3 |
-| 38 | blabrl | evaluated | 13a1d8 | 310.5 |
-| 39 | nicknam534534 | evaluated | 1bad48 | 405.4 |
-| 40 | Decode_speed | evaluated | 097a6b | 412.7 |
+| 37 | yoursun1220 | evaluated | f4e2be | 310.2 |
+| 38 | ngoguen | evaluated | a5cdb8 | 310.3 |
+| 39 | blabrl | evaluated | 13a1d8 | 310.5 |
+| 40 | nicknam534534 | evaluated | 1bad48 | 405.4 |
+| 41 | Decode_speed | evaluated | 097a6b | 412.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ishan-pat | failed | 1cf603 |  |
 |  | Junyi Li | failed | c31a30 |  |
@@ -169,12 +170,11 @@ Last updated: `April 06, 2026 at 06:48:03 PM ET`
 |  | pallavi-srinivas | failed | 95ea8c |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | PurplePickle67 | failed | b01c10 |  |
-|  | pyjuan91 | failed | 55e076 |  |
+|  | pyjuan91 | failed | d287d4 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | Sulaiman Alam | failed | 6478cf |  |
 |  | TheProphet | failed | 63cc6b |  |
 |  | yb | failed | 8ca88e |  |
-|  | yoursun1220 | failed | 74425f |  |
 
 ## R4 (ms)
 
@@ -217,9 +217,10 @@ Last updated: `April 06, 2026 at 06:48:03 PM ET`
 | 35 | your_nickname_here | evaluated | f10b9b | 246.4 |
 | 36 | stefan | evaluated | a01e76 | 248.7 |
 | 37 | ngoguen | evaluated | a5cdb8 | 249.7 |
-| 38 | blabrl | evaluated | 13a1d8 | 251.1 |
-| 39 | nicknam534534 | evaluated | 1bad48 | 269.2 |
-| 40 | Decode_speed | evaluated | 097a6b | 270.3 |
+| 38 | yoursun1220 | evaluated | f4e2be | 250.4 |
+| 39 | blabrl | evaluated | 13a1d8 | 251.1 |
+| 40 | nicknam534534 | evaluated | 1bad48 | 269.2 |
+| 41 | Decode_speed | evaluated | 097a6b | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ishan-pat | failed | 1cf603 |  |
 |  | Junyi Li | failed | c31a30 |  |
@@ -227,9 +228,8 @@ Last updated: `April 06, 2026 at 06:48:03 PM ET`
 |  | pallavi-srinivas | failed | 95ea8c |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | PurplePickle67 | failed | b01c10 |  |
-|  | pyjuan91 | failed | 55e076 |  |
+|  | pyjuan91 | failed | d287d4 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | Sulaiman Alam | failed | 6478cf |  |
 |  | TheProphet | failed | 63cc6b |  |
 |  | yb | failed | 8ca88e |  |
-|  | yoursun1220 | failed | 74425f |  |
