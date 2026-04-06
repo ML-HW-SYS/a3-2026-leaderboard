@@ -1,9 +1,14 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 12:29:33 PM ET`
+Last updated: `April 06, 2026 at 12:40:02 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 12:37 PM ET | abhik | evaluated |  | submission.py | 9cf11c | 25.0/6.1/31.1 | 535.2 | 171.6 | 306.6 | 237.6 |
+| Apr 06 12:36 PM ET | PurplePickle67 | evaluated |  | submission.py | 4b9f7b | 46.0/6.7/52.6 | 490.1 | 96.8 | 36.6 | 52.4 |
+| Apr 06 12:35 PM ET | Rithvik | evaluated |  | submission.py | 6ce63a | 51.3/3.3/54.5 | 451.7 | 280.8 | 27.0 | 48.1 |
+| Apr 06 12:33 PM ET | leoli | evaluated |  | submission.py | d44d2d | 17.2/6.9/24.1 | 524.1 | 123.9 | 254.9 | 194.1 |
+| Apr 06 12:31 PM ET | Decode_speed | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 3314ef | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 06 12:26 PM ET | PurplePickle67 | failed_correctness | R1: SETUP: ERR: OutOfMemoryError: CUDA out of memory. Tried to allocate 14.00 GiB. GPU 0 has a total capacity of 23.5... | submission.py | 44eb62 | 24.8/0.4/25.2 | 0.0 | 0.0 | 36.4 | 52.1 |
 | Apr 06 12:25 PM ET | leoli | evaluated |  | submission.py | f342c8 | 17.1/6.9/24.0 | 522.5 | 124.3 | 255.1 | 194.4 |
 | Apr 06 12:04 PM ET | abhik | evaluated |  | develop.py | 41a3ec | 54.2/6.1/60.3 | 539.5 | 171.7 | 306.8 | 236.3 |
