@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 06, 2026 at 02:03:29 AM ET`
+Last updated: `April 06, 2026 at 02:12:18 AM ET`
 
 ## Pages
 
@@ -42,8 +42,7 @@ Last updated: `April 06, 2026 at 02:03:29 AM ET`
 | 28 | abhik | evaluated | 575817 | 27.4/6.2/33.5 | 0.533 | 525.5 | 170.3 | 306.0 | 240.6 |
 | 29 | hw_bloss | evaluated | 2d26da | 60.3/6.2/66.5 | 0.532 | 523.5 | 169.3 | 307.0 | 239.3 |
 | 30 | ngoguen | evaluated | a5cdb8 | 40.8/6.2/47.0 | 0.523 | 515.9 | 169.7 | 310.3 | 249.7 |
-| 31 | PurplePickle67 | evaluated | 244d2f | 21.2/6.7/27.9 | 0.479 | 516.3 | 171.7 | 413.1 | 270.9 |
-| 32 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
+| 31 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | jl | failed | cc349d | 62.2/6.2/68.3 |  |  |  |  |  |
 |  | Junyi Li | failed | c31a30 | 71.5/6.1/77.6 |  |  |  |  |  |
@@ -52,6 +51,7 @@ Last updated: `April 06, 2026 at 02:03:29 AM ET`
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
 |  | pallavi-srinivas | failed | 95ea8c | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | poppyPotatoe | failed | aa5125 | 0.0/0.0/0.0 |  |  |  |  |  |
+|  | PurplePickle67 | failed | 02d8c9 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | pyjuan91 | failed | 55e076 | 21.8/7.0/28.8 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | sjb | failed | 78ddc4 | 63.3/3.6/67.0 |  |  |  |  |  |
