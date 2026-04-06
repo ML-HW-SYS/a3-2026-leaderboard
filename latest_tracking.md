@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 10:10:52 PM ET`
+Last updated: `April 05, 2026 at 10:19:57 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 10:15 PM ET | Yize | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | develop.py | 59426e | 38.3/3.8/42.1 | 539.8 | 252.1 | 80.6 | 129.0 |
+| Apr 05 10:13 PM ET | alifim | evaluated |  | develop.py | 7a3ad5 | 45.9/6.5/52.4 | 511.1 | 177.6 | 389.4 | 269.8 |
 | Apr 05 10:06 PM ET | fishyfins | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | 18e95c |  |  |  |  |  |
 | Apr 05 10:06 PM ET | Yize | failed_compliance | Submission compliance check failed for submission.py: \| - missing required function(s): setup, run | submission.py | 59426e |  |  |  |  |  |
 | Apr 05 09:59 PM ET | fishyfins | evaluated |  | submission.py | 2ac776 | 70.4/6.2/76.5 | 524.8 | 168.7 | 305.7 | 234.0 |
