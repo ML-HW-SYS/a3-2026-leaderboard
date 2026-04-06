@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 05:01:57 AM ET`
+Last updated: `April 06, 2026 at 05:09:17 AM ET`
 
 ## R1 (tok/s)
 
@@ -53,7 +53,7 @@ Last updated: `April 06, 2026 at 05:01:57 AM ET`
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
 |  | Yize | failed | d04433 |  |
-|  | zhumengzhiren | failed | f213ea |  |
+|  | zhumengzhiren | failed | fd380b |  |
 
 ## R2 (tok/s)
 
@@ -106,7 +106,7 @@ Last updated: `April 06, 2026 at 05:01:57 AM ET`
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
 |  | Yize | failed | d04433 |  |
-|  | zhumengzhiren | failed | f213ea |  |
+|  | zhumengzhiren | failed | fd380b |  |
 
 ## R3 (ms)
 
@@ -159,7 +159,7 @@ Last updated: `April 06, 2026 at 05:01:57 AM ET`
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
 |  | Yize | failed | d04433 |  |
-|  | zhumengzhiren | failed | f213ea |  |
+|  | zhumengzhiren | failed | fd380b |  |
 
 ## R4 (ms)
 
@@ -212,4 +212,4 @@ Last updated: `April 06, 2026 at 05:01:57 AM ET`
 |  | TheProphet | failed | 84eefa |  |
 |  | yb | failed | 8ca88e |  |
 |  | Yize | failed | d04433 |  |
-|  | zhumengzhiren | failed | f213ea |  |
+|  | zhumengzhiren | failed | fd380b |  |
