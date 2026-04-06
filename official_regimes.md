@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 10:56:31 AM ET`
+Last updated: `April 06, 2026 at 11:04:29 AM ET`
 
 ## R1 (tok/s)
 
@@ -15,7 +15,7 @@ Last updated: `April 06, 2026 at 10:56:31 AM ET`
 | 7 | TA | evaluated | a6e863 | 556.6 |
 | 8 | chyyy | evaluated | 34cc06 | 555.7 |
 | 9 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
-| 10 | beratcelik | evaluated | 449c19 | 545.3 |
+| 10 | beratcelik | evaluated | 3101b4 | 546.4 |
 | 11 | JasonWang07 | evaluated | 414385 | 544.1 |
 | 12 | happyface | evaluated | 7e8b61 | 543.0 |
 | 13 | gm | evaluated | 2898fc | 541.1 |
@@ -88,12 +88,12 @@ Last updated: `April 06, 2026 at 10:56:31 AM ET`
 | 26 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 27 | abhik | evaluated | 575817 | 170.3 |
 | 28 | ngoguen | evaluated | a5cdb8 | 169.7 |
-| 29 | beratcelik | evaluated | 449c19 | 169.5 |
-| 30 | hw_bloss | evaluated | 2d26da | 169.3 |
-| 31 | fishyfins | evaluated | 2ac776 | 168.7 |
-| 32 | leoli | evaluated | bf7876 | 168.6 |
-| 33 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 34 | PurplePickle67 | evaluated | 7fd75c | 137.8 |
+| 29 | hw_bloss | evaluated | 2d26da | 169.3 |
+| 30 | fishyfins | evaluated | 2ac776 | 168.7 |
+| 31 | leoli | evaluated | bf7876 | 168.6 |
+| 32 | nicknam534534 | evaluated | 1bad48 | 148.4 |
+| 33 | PurplePickle67 | evaluated | 7fd75c | 137.8 |
+| 34 | beratcelik | evaluated | 3101b4 | 115.9 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | jl | failed | cc349d |  |
 |  | Junyi Li | failed | c31a30 |  |
@@ -132,8 +132,8 @@ Last updated: `April 06, 2026 at 10:56:31 AM ET`
 | 16 | ishan-pat | evaluated | 79d328 | 64.1 |
 | 17 | alifim | evaluated | 701077 | 64.8 |
 | 18 | PurplePickle67 | evaluated | 7fd75c | 66.0 |
-| 19 | beratcelik | evaluated | 449c19 | 68.4 |
-| 20 | JasonWang07 | evaluated | 414385 | 69.4 |
+| 19 | JasonWang07 | evaluated | 414385 | 69.4 |
+| 20 | beratcelik | evaluated | 3101b4 | 69.5 |
 | 21 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
 | 22 | Shengwei | evaluated | 1f8749 | 71.4 |
 | 23 | ethanchen | evaluated | ea518d | 74.4 |
@@ -189,7 +189,7 @@ Last updated: `April 06, 2026 at 10:56:31 AM ET`
 | 19 | ashaikh23 | evaluated | d98c0b | 109.9 |
 | 20 | ishan-pat | evaluated | 79d328 | 110.9 |
 | 21 | PurplePickle67 | evaluated | 7fd75c | 111.2 |
-| 22 | beratcelik | evaluated | 449c19 | 113.7 |
+| 22 | beratcelik | evaluated | 3101b4 | 114.4 |
 | 23 | ethanchen | evaluated | ea518d | 123.6 |
 | 24 | TA | evaluated | a6e863 | 135.6 |
 | 25 | lipphi | evaluated | a3a71b | 150.9 |
