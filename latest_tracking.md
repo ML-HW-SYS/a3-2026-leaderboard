@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 04:34:37 PM ET`
+Last updated: `April 06, 2026 at 04:44:12 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 04:43 PM ET | landrum | evaluated |  | submission.py | b61e15 | 19.7/6.2/25.9 | 535.9 | 169.8 | 309.6 | 248.3 |
+| Apr 06 04:42 PM ET | ishan-pat | evaluated |  | develop.py | 345520 | 25.2/4.0/29.2 | 521.3 | 217.1 | 57.4 | 109.0 |
+| Apr 06 04:38 PM ET | stefan | evaluated |  | submission.py | a01e76 | 19.8/6.2/26.0 | 537.5 | 170.0 | 310.0 | 248.7 |
+| Apr 06 04:37 PM ET | sjb | failed_correctness | Correctness FAIL \| R2 (75.70%), R3 (72.72%), R4 (79.07%) \| max_abs_diff=13.49 | submission.py | 0c1056 | 29.7/3.4/33.1 | 536.3 | 316.1 | 84.7 | 114.1 |
 | Apr 06 04:34 PM ET | beratcelik | evaluated |  | submission.py | 863a89 | 51.8/3.9/55.6 | 564.3 | 231.2 | 68.2 | 113.8 |
 | Apr 06 04:32 PM ET | landrum | evaluated |  | develop.py | c2e082 | 23.5/6.2/29.7 | 537.7 | 169.6 | 310.4 | 249.7 |
 | Apr 06 04:31 PM ET | ishan-pat | evaluated |  | submission.py | 345520 | 39.6/4.0/43.6 | 517.0 | 217.4 | 57.4 | 109.3 |

@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 04:34:37 PM ET`
+Last updated: `April 06, 2026 at 04:44:12 PM ET`
 
 ## R1 (tok/s)
 
@@ -92,8 +92,8 @@ Last updated: `April 06, 2026 at 04:34:37 PM ET`
 | 36 | abhik | develop.py | 41a3ec | 171.7 |
 | 37 | stefan | develop.py | 9a25e1 | 170.0 |
 | 38 | hw_bloss | submission.py | b2767b | 169.8 |
-| 39 | ngoguen | submission.py | a5cdb8 | 169.7 |
-| 40 | landrum | develop.py | c2e082 | 169.6 |
+| 39 | landrum | submission.py | b61e15 | 169.8 |
+| 40 | ngoguen | submission.py | a5cdb8 | 169.7 |
 | 41 | nicknam534534 | submission.py | 1bad48 | 148.4 |
 | 42 | Decode_speed | submission.py | 097a6b | 77.3 |
 
@@ -116,7 +116,7 @@ Last updated: `April 06, 2026 at 04:34:37 PM ET`
 | 13 | PurplePickle67 | submission.py | 2efdba | 36.3 |
 | 14 | bl792 | submission.py | 743b6d | 41.1 |
 | 15 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 43.1 |
-| 16 | ishan-pat | submission.py | 345520 | 57.4 |
+| 16 | ishan-pat | develop.py | 345520 | 57.4 |
 | 17 | ashaikh23 | submission.py | d98c0b | 58.8 |
 | 18 | happyface | submission.py | 9f7886 | 63.4 |
 | 19 | alifim | submission.py | 701077 | 64.8 |
@@ -140,8 +140,8 @@ Last updated: `April 06, 2026 at 04:34:37 PM ET`
 | 37 | hw_bloss | submission.py | b2767b | 306.7 |
 | 38 | your_nickname_here | submission.py | 59e245 | 307.4 |
 | 39 | stefan | develop.py | 9a25e1 | 309.6 |
-| 40 | ngoguen | submission.py | a5cdb8 | 310.3 |
-| 41 | landrum | develop.py | c2e082 | 310.4 |
+| 40 | landrum | submission.py | b61e15 | 309.6 |
+| 41 | ngoguen | submission.py | a5cdb8 | 310.3 |
 | 42 | nicknam534534 | submission.py | 1bad48 | 405.4 |
 | 43 | Decode_speed | submission.py | 097a6b | 412.7 |
 
@@ -169,8 +169,8 @@ Last updated: `April 06, 2026 at 04:34:37 PM ET`
 | 18 | JasonWang07 | develop.py | f27837 | 78.3 |
 | 19 | leoli | submission.py | 5cdac4 | 87.4 |
 | 20 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 89.2 |
-| 21 | alifim | submission.py | 701077 | 109.2 |
-| 22 | ishan-pat | submission.py | 345520 | 109.3 |
+| 21 | ishan-pat | develop.py | 345520 | 109.0 |
+| 22 | alifim | submission.py | 701077 | 109.2 |
 | 23 | ashaikh23 | submission.py | 1ce409 | 109.7 |
 | 24 | beratcelik | submission.py | 11c1b8 | 110.5 |
 | 25 | ethanchen | submission.py | bf6f9e | 123.0 |
@@ -187,8 +187,8 @@ Last updated: `April 06, 2026 at 04:34:37 PM ET`
 | 36 | abhik | develop.py | 41a3ec | 236.3 |
 | 37 | hw_bloss | submission.py | b2767b | 237.0 |
 | 38 | your_nickname_here | submission.py | 59e245 | 245.7 |
-| 39 | stefan | develop.py | 9a25e1 | 248.5 |
-| 40 | ngoguen | submission.py | a5cdb8 | 249.7 |
-| 41 | landrum | develop.py | c2e082 | 249.7 |
+| 39 | landrum | submission.py | b61e15 | 248.3 |
+| 40 | stefan | develop.py | 9a25e1 | 248.5 |
+| 41 | ngoguen | submission.py | a5cdb8 | 249.7 |
 | 42 | nicknam534534 | develop.py | 1bad48 | 269.0 |
 | 43 | Decode_speed | submission.py | 097a6b | 270.3 |
