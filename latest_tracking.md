@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 11:04:03 PM ET`
+Last updated: `April 05, 2026 at 11:12:57 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 11:11 PM ET | ishan-pat | evaluated |  | develop.py | 859df5 | 27.6/4.0/31.6 | 524.6 | 218.0 | 64.3 | 111.4 |
+| Apr 05 11:09 PM ET | PurplePickle67 | failed_correctness | R1: SETUP: ERR: NameError: name 'OnTheFlyInt4Linear' is not defined \| R2: SETUP: ERR: NameError: name 'OnTheFlyInt4Li... | submission.py | 714c55 | 13.5/0.0/13.5 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 05 11:06 PM ET | alifim | evaluated |  | develop.py | ad261a | 30.3/3.0/33.3 | 541.7 | 378.5 | 66.1 | 110.4 |
 | Apr 05 11:02 PM ET | ishan-pat | evaluated |  | submission.py | 859df5 | 42.0/4.0/46.1 | 524.7 | 217.5 | 64.9 | 111.7 |
 | Apr 05 10:58 PM ET | Yize | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | develop.py | d04433 | 19.1/4.8/23.9 | 523.3 | 170.1 | 80.9 | 128.8 |
 | Apr 05 10:55 PM ET | beratcelik | evaluated |  | submission.py | 80b48f | 26.0/5.6/31.6 | 524.5 | 132.8 | 69.0 | 114.0 |

@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 05, 2026 at 11:04:03 PM ET`
+Last updated: `April 05, 2026 at 11:12:57 PM ET`
 
 ## Pages
 
@@ -51,7 +51,7 @@ Last updated: `April 05, 2026 at 11:04:03 PM ET`
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
 |  | pallavi-srinivas | failed | 95ea8c | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | poppyPotatoe | failed | aa5125 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | PurplePickle67 | failed | 3cee22 | 13.4/0.0/13.4 |  |  |  |  |  |
+|  | PurplePickle67 | failed | 714c55 | 13.5/0.0/13.5 |  |  |  |  |  |
 |  | pyjuan91 | failed | 55e076 | 21.8/7.0/28.8 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | sjb | failed | 78ddc4 | 63.3/3.6/67.0 |  |  |  |  |  |

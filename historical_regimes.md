@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 05, 2026 at 11:04:03 PM ET`
+Last updated: `April 05, 2026 at 11:12:57 PM ET`
 
 ## R1 (tok/s)
 
@@ -21,9 +21,9 @@ Last updated: `April 05, 2026 at 11:04:03 PM ET`
 | 13 | happyface | develop.py | 7255fc | 544.6 |
 | 14 | Shengwei | submission.py | 33733e | 543.9 |
 | 15 | 13rabbit | submission.py | fe30c9 | 543.0 |
-| 16 | ashaikh23 | develop.py | ba7196 | 541.3 |
-| 17 | andrasferenczy | submission.py | 6204c7 | 540.6 |
-| 18 | alifim | develop.py | fef459 | 538.4 |
+| 16 | alifim | develop.py | ad261a | 541.7 |
+| 17 | ashaikh23 | develop.py | ba7196 | 541.3 |
+| 18 | andrasferenczy | submission.py | 6204c7 | 540.6 |
 | 19 | lipphi | submission.py | a3a71b | 534.8 |
 | 20 | gravlax | develop.py | 1f23d9 | 534.6 |
 | 21 | chickfila | submission.py | 29860a | 534.6 |
@@ -71,7 +71,7 @@ Last updated: `April 05, 2026 at 11:04:03 PM ET`
 | 23 | ethanchen | submission.py | ea518d | 251.2 |
 | 24 | fishyfins | develop.py | 87e789 | 243.3 |
 | 25 | bl792 | develop.py | 743b6d | 234.8 |
-| 26 | ishan-pat | submission.py | c482b3 | 217.9 |
+| 26 | ishan-pat | develop.py | 859df5 | 218.0 |
 | 27 | 13rabbit | submission.py | 24af86 | 215.5 |
 | 28 | tuo | submission.py | 3d6d40 | 204.6 |
 | 29 | sjb | submission.py | 78ddc4 | 192.0 |
@@ -101,7 +101,7 @@ Last updated: `April 05, 2026 at 11:04:03 PM ET`
 | 13 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 43.1 |
 | 14 | ashaikh23 | submission.py | d98c0b | 58.8 |
 | 15 | happyface | submission.py | 9f7886 | 63.4 |
-| 16 | ishan-pat | submission.py | 859df5 | 64.9 |
+| 16 | ishan-pat | develop.py | 859df5 | 64.3 |
 | 17 | alifim | develop.py | fef459 | 65.1 |
 | 18 | beratcelik | submission.py | 11c1b8 | 65.4 |
 | 19 | JasonWang07 | submission.py | f27837 | 68.2 |
@@ -147,7 +147,7 @@ Last updated: `April 05, 2026 at 11:04:03 PM ET`
 | 18 | alifim | develop.py | c858d9 | 109.7 |
 | 19 | ashaikh23 | submission.py | d98c0b | 109.9 |
 | 20 | beratcelik | submission.py | 11c1b8 | 110.5 |
-| 21 | ishan-pat | submission.py | 859df5 | 111.7 |
+| 21 | ishan-pat | develop.py | 859df5 | 111.4 |
 | 22 | ethanchen | submission.py | bf6f9e | 123.0 |
 | 23 | Yize | submission.py | d04433 | 128.5 |
 | 24 | TA | submission.py | 324cb8 | 131.7 |
