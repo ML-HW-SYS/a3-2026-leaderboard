@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 05, 2026 at 09:10:49 PM ET`
+Last updated: `April 05, 2026 at 09:20:00 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 05 09:17 PM ET | PurplePickle67 | evaluated |  | submission.py | 231258 | 42.6/6.7/49.3 | 519.1 | 172.1 | 412.3 | 268.8 |
+| Apr 05 09:13 PM ET | sjb | evaluated |  | develop.py | 9f07d5 | 45.6/4.8/50.4 | 517.0 | 189.8 | 129.5 | 148.8 |
+| Apr 05 09:12 PM ET | alifim | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | fa77fc |  |  |  |  |  |
 | Apr 05 09:01 PM ET | abhik | evaluated |  | develop.py | 44f3e1 | 19.9/6.2/26.2 | 523.8 | 169.1 | 310.9 | 249.9 |
 | Apr 05 08:55 PM ET | beratcelik | evaluated |  | submission.py | c8c7e2 | 25.9/7.6/33.4 | 475.6 | 88.9 | 68.8 | 114.0 |
 | Apr 05 08:49 PM ET | alifim | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | 4200dc |  |  |  |  |  |
