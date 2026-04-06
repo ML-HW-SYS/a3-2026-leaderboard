@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 05:04:27 PM ET`
+Last updated: `April 06, 2026 at 05:14:23 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 05:13 PM ET | landrum | evaluated |  | submission.py | 7b5ab5 | 23.3/5.7/28.9 | 534.6 | 177.2 | 275.1 | 176.5 |
+| Apr 06 05:11 PM ET | PurplePickle67 | evaluated |  | submission.py | c7c650 | 30.1/5.7/35.8 | 479.1 | 119.8 | 36.5 | 52.2 |
+| Apr 06 05:08 PM ET | Shengwei | evaluated |  | submission.py | bd7526 | 19.3/2.9/22.1 | 540.5 | 347.3 | 45.6 | 68.0 |
+| Apr 06 05:07 PM ET | sjb | evaluated |  | submission.py | 974bff | 42.5/3.3/45.8 | 536.4 | 320.9 | 79.4 | 111.4 |
 | Apr 06 05:03 PM ET | landrum | evaluated |  | develop.py | b8739e | 40.7/5.7/46.4 | 538.1 | 177.0 | 275.4 | 176.3 |
 | Apr 06 05:02 PM ET | ishan-pat | failed_correctness | R2: SETUP: ERR: InternalTorchDynamoError: ModuleNotFoundError: No module named 'student_submission_module' | develop.py | 1cf603 | 23.2/1.6/24.9 | 523.2 | 0.0 | 57.8 | 110.0 |
 | Apr 06 05:00 PM ET | PurplePickle67 | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 98623f | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
