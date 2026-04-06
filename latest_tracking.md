@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 12:21:15 PM ET`
+Last updated: `April 06, 2026 at 12:29:33 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 12:26 PM ET | PurplePickle67 | failed_correctness | R1: SETUP: ERR: OutOfMemoryError: CUDA out of memory. Tried to allocate 14.00 GiB. GPU 0 has a total capacity of 23.5... | submission.py | 44eb62 | 24.8/0.4/25.2 | 0.0 | 0.0 | 36.4 | 52.1 |
+| Apr 06 12:25 PM ET | leoli | evaluated |  | submission.py | f342c8 | 17.1/6.9/24.0 | 522.5 | 124.3 | 255.1 | 194.4 |
 | Apr 06 12:04 PM ET | abhik | evaluated |  | develop.py | 41a3ec | 54.2/6.1/60.3 | 539.5 | 171.7 | 306.8 | 236.3 |
 | Apr 06 12:02 PM ET | PurplePickle67 | evaluated |  | submission.py | 1ef422 | 31.1/5.7/36.8 | 473.0 | 119.5 | 36.5 | 52.5 |
 | Apr 06 12:00 PM ET | leoli | evaluated |  | submission.py | 443c3b | 19.7/5.6/25.2 | 524.0 | 182.9 | 253.0 | 193.7 |
