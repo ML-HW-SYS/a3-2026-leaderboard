@@ -1,9 +1,14 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 11:51:27 PM ET`
+Last updated: `April 07, 2026 at 12:01:15 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 12:01 AM ET | vallabkaranam | failed_security | Security policy check failed for submission.py: \| - prohibited import: importlib.util \| - prohibited import: pathlib | submission.py | 1338db |  |  |  |  |  |
+| Apr 07 12:00 AM ET | ashaikh23 | failed_correctness | R2: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | submission.py | 8d7015 | 39.1/0.9/40.0 | 557.2 | 0.0 | 0.0 | 0.0 |
+| Apr 06 11:58 PM ET | abhik | evaluated |  | develop.py | 572159 | 19.9/4.5/24.4 | 535.3 | 223.2 | 141.2 | 173.3 |
+| Apr 06 11:54 PM ET | sjb | evaluated |  | develop.py | 917343 | 27.4/2.9/30.3 | 534.6 | 345.9 | 50.9 | 53.6 |
+| Apr 06 11:52 PM ET | JasonWang07 | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | develop.py | 9f01bd | 23.3/2.5/25.8 | 547.4 | 335.8 | 0.0 | 0.0 |
 | Apr 06 11:49 PM ET | abhik | evaluated |  | submission.py | 572159 | 38.2/4.5/42.7 | 537.4 | 224.0 | 140.9 | 172.1 |
 | Apr 06 11:47 PM ET | PurplePickle67 | evaluated |  | submission.py | af7bbc | 39.2/16.1/55.4 | 44.6 | 118.6 | 36.5 | 52.1 |
 | Apr 06 11:44 PM ET | Junyi Li | evaluated |  | develop.py | 2e381b | 25.6/6.1/31.8 | 527.0 | 169.5 | 303.4 | 232.3 |

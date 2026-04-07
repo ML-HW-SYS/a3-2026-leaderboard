@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 11:51:27 PM ET`
+Last updated: `April 07, 2026 at 12:01:15 AM ET`
 
 ## R1 (tok/s)
 
@@ -18,15 +18,15 @@ Last updated: `April 06, 2026 at 11:51:27 PM ET`
 | 10 | your_nickname_here | submission.py | 59e245 | 559.6 |
 | 11 | blabrl | develop.py | 9873f9 | 559.5 |
 | 12 | chyyy | submission.py | 56b321 | 557.7 |
-| 13 | prousoglou | submission.py | 570c63 | 556.7 |
-| 14 | TA | submission.py | a6e863 | 556.6 |
-| 15 | nickname55555555 | develop.py | 7034af | 554.6 |
-| 16 | gm | develop.py | a57e9f | 548.9 |
-| 17 | leoli | submission.py | 7ef4b9 | 544.9 |
-| 18 | happyface | develop.py | 7255fc | 544.6 |
-| 19 | Shengwei | submission.py | 33733e | 543.9 |
-| 20 | 13rabbit | submission.py | fe30c9 | 543.0 |
-| 21 | ashaikh23 | submission.py | 716cc4 | 542.3 |
+| 13 | ashaikh23 | submission.py | 8d7015 | 557.2 |
+| 14 | prousoglou | submission.py | 570c63 | 556.7 |
+| 15 | TA | submission.py | a6e863 | 556.6 |
+| 16 | nickname55555555 | develop.py | 7034af | 554.6 |
+| 17 | gm | develop.py | a57e9f | 548.9 |
+| 18 | leoli | submission.py | 7ef4b9 | 544.9 |
+| 19 | happyface | develop.py | 7255fc | 544.6 |
+| 20 | Shengwei | submission.py | 33733e | 543.9 |
+| 21 | 13rabbit | submission.py | fe30c9 | 543.0 |
 | 22 | alifim | develop.py | ad261a | 541.7 |
 | 23 | landrum | develop.py | b61e15 | 540.9 |
 | 24 | andrasferenczy | submission.py | 6204c7 | 540.6 |
