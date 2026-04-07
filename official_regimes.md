@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 08:58:04 AM ET`
+Last updated: `April 07, 2026 at 09:05:57 AM ET`
 
 ## R1 (tok/s)
 
@@ -47,11 +47,12 @@ Last updated: `April 07, 2026 at 08:58:04 AM ET`
 | 39 | jbc | evaluated | 12bb20 | 520.4 |
 | 40 | ngoguen | evaluated | a5cdb8 | 515.9 |
 | 41 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 42 | Rithvik | evaluated | 2924a0 | 495.8 |
-| 43 | tuo | evaluated | 3d6d40 | 494.8 |
-| 44 | PurplePickle67 | evaluated | 6d549a | 488.4 |
-| 45 | abhik | evaluated | bf55dc | 157.9 |
-| 46 | Decode_speed | evaluated | 097a6b | 104.5 |
+| 42 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
+| 43 | Rithvik | evaluated | 2924a0 | 495.8 |
+| 44 | tuo | evaluated | 3d6d40 | 494.8 |
+| 45 | PurplePickle67 | evaluated | 6d549a | 488.4 |
+| 46 | abhik | evaluated | bf55dc | 157.9 |
+| 47 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | d204b8 |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -59,7 +60,6 @@ Last updated: `April 07, 2026 at 08:58:04 AM ET`
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | Sulaiman Alam | failed | bb69e8 |  |
 |  | TheProphet | failed | 407c9a |  |
 |  | vallabkaranam | failed | 2bdea4 |  |
 |  | yb | failed | 2771a2 |  |
@@ -101,19 +101,20 @@ Last updated: `April 07, 2026 at 08:58:04 AM ET`
 | 31 | beratcelik | evaluated | 863a89 | 231.2 |
 | 32 | tuo | evaluated | 3d6d40 | 204.6 |
 | 33 | pallavi-srinivas | evaluated | c7a655 | 197.8 |
-| 34 | Licha | evaluated | 8fdc3a | 192.4 |
-| 35 | landrum | evaluated | 7b5ab5 | 177.2 |
-| 36 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 37 | stefan | evaluated | a01e76 | 170.0 |
-| 38 | ngoguen | evaluated | a5cdb8 | 169.7 |
-| 39 | Junyi Li | evaluated | c7a1b3 | 169.7 |
-| 40 | yoursun1220 | evaluated | d8b590 | 169.2 |
-| 41 | hw_bloss | evaluated | 4c9666 | 169.1 |
-| 42 | jbc | evaluated | 12bb20 | 169.0 |
-| 43 | act | evaluated | 899777 | 169.0 |
-| 44 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 45 | abhik | evaluated | bf55dc | 127.8 |
-| 46 | Decode_speed | evaluated | 097a6b | 77.3 |
+| 34 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
+| 35 | Licha | evaluated | 8fdc3a | 192.4 |
+| 36 | landrum | evaluated | 7b5ab5 | 177.2 |
+| 37 | your_nickname_here | evaluated | f10b9b | 173.1 |
+| 38 | stefan | evaluated | a01e76 | 170.0 |
+| 39 | ngoguen | evaluated | a5cdb8 | 169.7 |
+| 40 | Junyi Li | evaluated | c7a1b3 | 169.7 |
+| 41 | yoursun1220 | evaluated | d8b590 | 169.2 |
+| 42 | hw_bloss | evaluated | 4c9666 | 169.1 |
+| 43 | jbc | evaluated | 12bb20 | 169.0 |
+| 44 | act | evaluated | 899777 | 169.0 |
+| 45 | nicknam534534 | evaluated | 1bad48 | 148.4 |
+| 46 | abhik | evaluated | bf55dc | 127.8 |
+| 47 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | d204b8 |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -121,7 +122,6 @@ Last updated: `April 07, 2026 at 08:58:04 AM ET`
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | Sulaiman Alam | failed | bb69e8 |  |
 |  | TheProphet | failed | 407c9a |  |
 |  | vallabkaranam | failed | 2bdea4 |  |
 |  | yb | failed | 2771a2 |  |
@@ -169,13 +169,14 @@ Last updated: `April 07, 2026 at 08:58:04 AM ET`
 | 37 | landrum | evaluated | 7b5ab5 | 275.1 |
 | 38 | hw_bloss | evaluated | 4c9666 | 308.1 |
 | 39 | your_nickname_here | evaluated | f10b9b | 308.1 |
-| 40 | stefan | evaluated | a01e76 | 310.0 |
-| 41 | ngoguen | evaluated | a5cdb8 | 310.3 |
-| 42 | yoursun1220 | evaluated | d8b590 | 310.7 |
-| 43 | act | evaluated | 899777 | 310.9 |
-| 44 | jbc | evaluated | 12bb20 | 311.3 |
-| 45 | nicknam534534 | evaluated | 1bad48 | 405.4 |
-| 46 | Decode_speed | evaluated | 097a6b | 412.7 |
+| 40 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
+| 41 | stefan | evaluated | a01e76 | 310.0 |
+| 42 | ngoguen | evaluated | a5cdb8 | 310.3 |
+| 43 | yoursun1220 | evaluated | d8b590 | 310.7 |
+| 44 | act | evaluated | 899777 | 310.9 |
+| 45 | jbc | evaluated | 12bb20 | 311.3 |
+| 46 | nicknam534534 | evaluated | 1bad48 | 405.4 |
+| 47 | Decode_speed | evaluated | 097a6b | 412.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | d204b8 |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -183,7 +184,6 @@ Last updated: `April 07, 2026 at 08:58:04 AM ET`
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | Sulaiman Alam | failed | bb69e8 |  |
 |  | TheProphet | failed | 407c9a |  |
 |  | vallabkaranam | failed | 2bdea4 |  |
 |  | yb | failed | 2771a2 |  |
@@ -230,14 +230,15 @@ Last updated: `April 07, 2026 at 08:58:04 AM ET`
 | 36 | pallavi-srinivas | evaluated | c7a655 | 192.5 |
 | 37 | Licha | evaluated | 8fdc3a | 215.0 |
 | 38 | hw_bloss | evaluated | 4c9666 | 239.1 |
-| 39 | your_nickname_here | evaluated | f10b9b | 246.4 |
-| 40 | stefan | evaluated | a01e76 | 248.7 |
-| 41 | ngoguen | evaluated | a5cdb8 | 249.7 |
-| 42 | yoursun1220 | evaluated | d8b590 | 250.1 |
-| 43 | act | evaluated | 899777 | 250.7 |
-| 44 | jbc | evaluated | 12bb20 | 251.3 |
-| 45 | nicknam534534 | evaluated | 1bad48 | 269.2 |
-| 46 | Decode_speed | evaluated | 097a6b | 270.3 |
+| 39 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
+| 40 | your_nickname_here | evaluated | f10b9b | 246.4 |
+| 41 | stefan | evaluated | a01e76 | 248.7 |
+| 42 | ngoguen | evaluated | a5cdb8 | 249.7 |
+| 43 | yoursun1220 | evaluated | d8b590 | 250.1 |
+| 44 | act | evaluated | 899777 | 250.7 |
+| 45 | jbc | evaluated | 12bb20 | 251.3 |
+| 46 | nicknam534534 | evaluated | 1bad48 | 269.2 |
+| 47 | Decode_speed | evaluated | 097a6b | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | d204b8 |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -245,7 +246,6 @@ Last updated: `April 07, 2026 at 08:58:04 AM ET`
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | Sulaiman Alam | failed | bb69e8 |  |
 |  | TheProphet | failed | 407c9a |  |
 |  | vallabkaranam | failed | 2bdea4 |  |
 |  | yb | failed | 2771a2 |  |

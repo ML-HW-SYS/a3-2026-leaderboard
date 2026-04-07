@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 08:58:04 AM ET`
+Last updated: `April 07, 2026 at 09:05:57 AM ET`
 
 ## R1 (tok/s)
 
@@ -100,18 +100,19 @@ Last updated: `April 07, 2026 at 08:58:04 AM ET`
 | 36 | abhik | submission.py | 572159 | 224.0 |
 | 37 | pallavi-srinivas | submission.py | dd405c | 206.8 |
 | 38 | tuo | submission.py | 3d6d40 | 204.6 |
-| 39 | Licha | submission.py | 8fdc3a | 192.4 |
-| 40 | landrum | develop.py | 6615c9 | 177.3 |
-| 41 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 42 | stefan | develop.py | 9a25e1 | 170.0 |
-| 43 | yoursun1220 | submission.py | 27e400 | 169.9 |
-| 44 | hw_bloss | submission.py | b2767b | 169.8 |
-| 45 | ngoguen | submission.py | a5cdb8 | 169.7 |
-| 46 | Junyi Li | submission.py | c7a1b3 | 169.7 |
-| 47 | jbc | develop.py | 4e7308 | 169.4 |
-| 48 | act | submission.py | 899777 | 169.0 |
-| 49 | nicknam534534 | submission.py | 1bad48 | 148.4 |
-| 50 | Decode_speed | submission.py | 097a6b | 77.3 |
+| 39 | Sulaiman Alam | submission.py | c7ede2 | 197.4 |
+| 40 | Licha | submission.py | 8fdc3a | 192.4 |
+| 41 | landrum | develop.py | 6615c9 | 177.3 |
+| 42 | your_nickname_here | submission.py | 59e245 | 173.4 |
+| 43 | stefan | develop.py | 9a25e1 | 170.0 |
+| 44 | yoursun1220 | submission.py | 27e400 | 169.9 |
+| 45 | hw_bloss | submission.py | b2767b | 169.8 |
+| 46 | ngoguen | submission.py | a5cdb8 | 169.7 |
+| 47 | Junyi Li | submission.py | c7a1b3 | 169.7 |
+| 48 | jbc | develop.py | 4e7308 | 169.4 |
+| 49 | act | submission.py | 899777 | 169.0 |
+| 50 | nicknam534534 | submission.py | 1bad48 | 148.4 |
+| 51 | Decode_speed | submission.py | 097a6b | 77.3 |
 
 ## R3 (ms)
 
@@ -162,11 +163,12 @@ Last updated: `April 07, 2026 at 08:58:04 AM ET`
 | 43 | hw_bloss | submission.py | b2767b | 306.7 |
 | 44 | your_nickname_here | submission.py | 59e245 | 307.4 |
 | 45 | yoursun1220 | submission.py | 27e400 | 308.6 |
-| 46 | jbc | develop.py | 4e7308 | 309.3 |
-| 47 | stefan | develop.py | 9a25e1 | 309.6 |
-| 48 | ngoguen | submission.py | a5cdb8 | 310.3 |
-| 49 | act | develop.py | 1b5e17 | 310.9 |
-| 50 | Decode_speed | submission.py | 097a6b | 412.7 |
+| 46 | Sulaiman Alam | submission.py | c7ede2 | 308.7 |
+| 47 | jbc | develop.py | 4e7308 | 309.3 |
+| 48 | stefan | develop.py | 9a25e1 | 309.6 |
+| 49 | ngoguen | submission.py | a5cdb8 | 310.3 |
+| 50 | act | develop.py | 1b5e17 | 310.9 |
+| 51 | Decode_speed | submission.py | 097a6b | 412.7 |
 
 ## R4 (ms)
 
@@ -215,10 +217,11 @@ Last updated: `April 07, 2026 at 08:58:04 AM ET`
 | 41 | fishyfins | submission.py | 2ac776 | 234.0 |
 | 42 | pyjuan91 | develop.py | 268544 | 234.1 |
 | 43 | hw_bloss | submission.py | b2767b | 237.0 |
-| 44 | your_nickname_here | submission.py | 59e245 | 245.7 |
-| 45 | stefan | develop.py | 9a25e1 | 248.5 |
-| 46 | yoursun1220 | submission.py | 27e400 | 248.7 |
-| 47 | jbc | develop.py | 4e7308 | 248.9 |
-| 48 | ngoguen | submission.py | a5cdb8 | 249.7 |
-| 49 | act | develop.py | 1b5e17 | 250.6 |
-| 50 | Decode_speed | submission.py | 097a6b | 270.3 |
+| 44 | Sulaiman Alam | submission.py | c7ede2 | 245.0 |
+| 45 | your_nickname_here | submission.py | 59e245 | 245.7 |
+| 46 | stefan | develop.py | 9a25e1 | 248.5 |
+| 47 | yoursun1220 | submission.py | 27e400 | 248.7 |
+| 48 | jbc | develop.py | 4e7308 | 248.9 |
+| 49 | ngoguen | submission.py | a5cdb8 | 249.7 |
+| 50 | act | develop.py | 1b5e17 | 250.6 |
+| 51 | Decode_speed | submission.py | 097a6b | 270.3 |
