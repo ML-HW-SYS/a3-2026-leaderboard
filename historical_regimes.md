@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 02:36:04 PM ET`
+Last updated: `April 07, 2026 at 02:44:24 PM ET`
 
 ## R1 (tok/s)
 
@@ -214,7 +214,7 @@ Last updated: `April 07, 2026 at 02:36:04 PM ET`
 | 35 | lipphi | submission.py | a3a71b | 150.9 |
 | 36 | tuo | submission.py | 4274da | 160.5 |
 | 37 | abhik | submission.py | 572159 | 172.1 |
-| 38 | landrum | develop.py | 434be2 | 176.1 |
+| 38 | landrum | develop.py | 0bf9d7 | 176.1 |
 | 39 | pallavi-srinivas | submission.py | c7a655 | 192.5 |
 | 40 | Licha | submission.py | 8fdc3a | 215.0 |
 | 41 | fishyfins | submission.py | 2ac776 | 234.0 |
