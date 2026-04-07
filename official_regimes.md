@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 11:48:05 AM ET`
+Last updated: `April 07, 2026 at 11:56:25 AM ET`
 
 ## R1 (tok/s)
 
@@ -36,7 +36,7 @@ Last updated: `April 07, 2026 at 11:48:05 AM ET`
 | 28 | chickfila | evaluated | f0956d | 534.5 |
 | 29 | gravlax | evaluated | b1229d | 532.3 |
 | 30 | Junyi Li | evaluated | c7a1b3 | 527.3 |
-| 31 | yb | evaluated | 2aa1a9 | 525.6 |
+| 31 | yb | evaluated | ea23ab | 525.9 |
 | 32 | Yize | evaluated | e17a72 | 525.6 |
 | 33 | bl792 | evaluated | 09cd73 | 524.7 |
 | 34 | nicknam534534 | evaluated | 1bad48 | 524.1 |
@@ -107,13 +107,13 @@ Last updated: `April 07, 2026 at 11:48:05 AM ET`
 | 37 | landrum | evaluated | 7b5ab5 | 177.2 |
 | 38 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 39 | stefan | evaluated | a01e76 | 170.0 |
-| 40 | yb | evaluated | 2aa1a9 | 169.8 |
-| 41 | ngoguen | evaluated | a5cdb8 | 169.7 |
-| 42 | Junyi Li | evaluated | c7a1b3 | 169.7 |
-| 43 | yoursun1220 | evaluated | d8b590 | 169.2 |
-| 44 | hw_bloss | evaluated | 4c9666 | 169.1 |
-| 45 | jbc | evaluated | 12bb20 | 169.0 |
-| 46 | act | evaluated | 899777 | 169.0 |
+| 40 | ngoguen | evaluated | a5cdb8 | 169.7 |
+| 41 | Junyi Li | evaluated | c7a1b3 | 169.7 |
+| 42 | yoursun1220 | evaluated | d8b590 | 169.2 |
+| 43 | hw_bloss | evaluated | 4c9666 | 169.1 |
+| 44 | jbc | evaluated | 12bb20 | 169.0 |
+| 45 | act | evaluated | 899777 | 169.0 |
+| 46 | yb | evaluated | ea23ab | 168.8 |
 | 47 | nicknam534534 | evaluated | 1bad48 | 148.4 |
 | 48 | abhik | evaluated | bf55dc | 127.8 |
 | 49 | Decode_speed | evaluated | 097a6b | 77.3 |
@@ -171,12 +171,12 @@ Last updated: `April 07, 2026 at 11:48:05 AM ET`
 | 39 | hw_bloss | evaluated | 4c9666 | 308.1 |
 | 40 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 41 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
-| 42 | yb | evaluated | 2aa1a9 | 309.3 |
-| 43 | stefan | evaluated | a01e76 | 310.0 |
-| 44 | ngoguen | evaluated | a5cdb8 | 310.3 |
-| 45 | yoursun1220 | evaluated | d8b590 | 310.7 |
-| 46 | act | evaluated | 899777 | 310.9 |
-| 47 | jbc | evaluated | 12bb20 | 311.3 |
+| 42 | stefan | evaluated | a01e76 | 310.0 |
+| 43 | ngoguen | evaluated | a5cdb8 | 310.3 |
+| 44 | yoursun1220 | evaluated | d8b590 | 310.7 |
+| 45 | act | evaluated | 899777 | 310.9 |
+| 46 | jbc | evaluated | 12bb20 | 311.3 |
+| 47 | yb | evaluated | ea23ab | 312.3 |
 | 48 | nicknam534534 | evaluated | 1bad48 | 405.4 |
 | 49 | Decode_speed | evaluated | 097a6b | 412.7 |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -236,7 +236,7 @@ Last updated: `April 07, 2026 at 11:48:05 AM ET`
 | 42 | stefan | evaluated | a01e76 | 248.7 |
 | 43 | ngoguen | evaluated | a5cdb8 | 249.7 |
 | 44 | yoursun1220 | evaluated | d8b590 | 250.1 |
-| 45 | yb | evaluated | 2aa1a9 | 250.5 |
+| 45 | yb | evaluated | ea23ab | 250.6 |
 | 46 | act | evaluated | 899777 | 250.7 |
 | 47 | jbc | evaluated | 12bb20 | 251.3 |
 | 48 | nicknam534534 | evaluated | 1bad48 | 269.2 |

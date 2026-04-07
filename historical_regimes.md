@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 11:48:05 AM ET`
+Last updated: `April 07, 2026 at 11:56:25 AM ET`
 
 ## R1 (tok/s)
 
@@ -44,7 +44,7 @@ Last updated: `April 07, 2026 at 11:48:05 AM ET`
 | 36 | bl792 | submission.py | 3b3a8a | 528.5 |
 | 37 | ethanchen | submission.py | a0d359 | 528.1 |
 | 38 | Rithvik | submission.py | 1a7556 | 527.1 |
-| 39 | yb | submission.py | 2aa1a9 | 525.6 |
+| 39 | yb | submission.py | ea23ab | 525.9 |
 | 40 | Yize | submission.py | e17a72 | 525.6 |
 | 41 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
 | 42 | yoursun1220 | submission.py | f4e2be | 524.2 |
@@ -99,7 +99,7 @@ Last updated: `April 07, 2026 at 11:48:05 AM ET`
 | 34 | 13rabbit | develop.py | b38df9 | 243.3 |
 | 35 | bl792 | develop.py | 09cd73 | 239.0 |
 | 36 | abhik | submission.py | 572159 | 224.0 |
-| 37 | pallavi-srinivas | submission.py | dd405c | 206.8 |
+| 37 | pallavi-srinivas | develop.py | 644fa9 | 207.1 |
 | 38 | tuo | submission.py | 3d6d40 | 204.6 |
 | 39 | Sulaiman Alam | submission.py | c7ede2 | 197.4 |
 | 40 | Licha | submission.py | 8fdc3a | 192.4 |
