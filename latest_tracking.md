@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 04:02:29 PM ET`
+Last updated: `April 07, 2026 at 04:10:40 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 04:04 PM ET | pyjuan91 | evaluated |  | develop.py | f1d741 | 39.1/6.2/45.3 | 520.5 | 169.5 | 309.8 | 249.9 |
 | Apr 07 03:43 PM ET | fishyfins | evaluated |  | submission.py | 6c0e20 | 29.2/6.2/35.4 | 522.0 | 169.5 | 304.6 | 232.9 |
 | Apr 07 03:28 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.75%) \| max_abs_diff=12.18 | develop.py | 2facb7 | 31.2/2.5/33.8 | 566.9 | 382.8 | 24.1 | 46.5 |
 | Apr 07 03:27 PM ET | Yize | evaluated |  | develop.py | e17a72 | 18.9/3.9/22.7 | 524.4 | 249.4 | 81.4 | 130.3 |
