@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 09:45:23 PM ET`
+Last updated: `April 06, 2026 at 09:52:46 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 09:46 PM ET | Sulaiman Alam | failed_correctness | R1: ERR: subprocess failed with exit code 1 \| R2: ERR: subprocess failed with exit code 1 \| R3: ERR: subprocess faile... | submission.py | bb69e8 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 06 09:33 PM ET | TheProphet | evaluated |  | develop.py | aa6c51 | 27.6/4.5/32.1 | 177.7 | 382.1 | 24.2 | 46.6 |
 | Apr 06 09:28 PM ET | ishan-pat | evaluated |  | develop.py | 75d32d | 29.5/3.6/33.1 | 537.5 | 259.7 | 57.0 | 108.0 |
 | Apr 06 09:26 PM ET | PurplePickle67 | evaluated |  | submission.py | aa6890 | 31.0/5.7/36.6 | 487.2 | 120.0 | 36.7 | 52.4 |
