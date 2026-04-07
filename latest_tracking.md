@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 12:01:15 AM ET`
+Last updated: `April 07, 2026 at 12:10:04 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 12:10 AM ET | vallabkaranam | failed_security | Security policy check failed for submission.py: \| - prohibited import: importlib.util \| - prohibited import: pathlib | submission.py | 54ebab |  |  |  |  |  |
+| Apr 07 12:05 AM ET | Junyi Li | evaluated |  | submission.py | c7a1b3 | 38.5/4.7/43.2 | 527.3 | 169.7 | 60.9 | 113.1 |
+| Apr 07 12:04 AM ET | jbc | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 4e7308 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 07 12:02 AM ET | omermoav | evaluated |  | submission.py | c75309 | 23.1/3.7/26.8 | 536.9 | 259.0 | 64.7 | 124.8 |
 | Apr 07 12:01 AM ET | vallabkaranam | failed_security | Security policy check failed for submission.py: \| - prohibited import: importlib.util \| - prohibited import: pathlib | submission.py | 1338db |  |  |  |  |  |
 | Apr 07 12:00 AM ET | ashaikh23 | failed_correctness | R2: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | submission.py | 8d7015 | 39.1/0.9/40.0 | 557.2 | 0.0 | 0.0 | 0.0 |
 | Apr 06 11:58 PM ET | abhik | evaluated |  | develop.py | 572159 | 19.9/4.5/24.4 | 535.3 | 223.2 | 141.2 | 173.3 |
