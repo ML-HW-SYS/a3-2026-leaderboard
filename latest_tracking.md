@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 09:52:46 PM ET`
+Last updated: `April 06, 2026 at 10:02:12 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 09:59 PM ET | PurplePickle67 | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 9636ff | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 06 09:56 PM ET | TheProphet | evaluated |  | submission.py | 2c0f6c | 28.4/3.0/31.4 | 378.0 | 382.2 | 24.2 | 46.5 |
 | Apr 06 09:46 PM ET | Sulaiman Alam | failed_correctness | R1: ERR: subprocess failed with exit code 1 \| R2: ERR: subprocess failed with exit code 1 \| R3: ERR: subprocess faile... | submission.py | bb69e8 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 06 09:33 PM ET | TheProphet | evaluated |  | develop.py | aa6c51 | 27.6/4.5/32.1 | 177.7 | 382.1 | 24.2 | 46.6 |
 | Apr 06 09:28 PM ET | ishan-pat | evaluated |  | develop.py | 75d32d | 29.5/3.6/33.1 | 537.5 | 259.7 | 57.0 | 108.0 |
