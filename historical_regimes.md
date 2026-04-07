@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 01:02:33 PM ET`
+Last updated: `April 07, 2026 at 01:10:27 PM ET`
 
 ## R1 (tok/s)
 
@@ -185,7 +185,7 @@ Last updated: `April 07, 2026 at 01:02:33 PM ET`
 | 6 | chickfila | submission.py | f0956d | 49.6 |
 | 7 | zhumengzhiren | develop.py | cf2924 | 50.1 |
 | 8 | ashaikh23 | submission.py | 84a425 | 50.2 |
-| 9 | nickname55555555 | submission.py | f60ff5 | 51.0 |
+| 9 | nickname55555555 | develop.py | f60ff5 | 50.6 |
 | 10 | abarat007 | submission.py | 260fed | 51.5 |
 | 11 | PurplePickle67 | submission.py | 2efdba | 51.9 |
 | 12 | sjb | develop.py | 387987 | 53.1 |
