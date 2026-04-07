@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 09:54:57 AM ET`
+Last updated: `April 07, 2026 at 10:03:08 AM ET`
 
 ## R1 (tok/s)
 
@@ -40,10 +40,10 @@ Last updated: `April 07, 2026 at 09:54:57 AM ET`
 | 32 | nicknam534534 | evaluated | 1bad48 | 524.1 |
 | 33 | act | evaluated | 899777 | 523.9 |
 | 34 | ethanchen | evaluated | ea518d | 523.7 |
-| 35 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 36 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 37 | Licha | evaluated | 8fdc3a | 521.4 |
-| 38 | ishan-pat | evaluated | 564670 | 520.6 |
+| 35 | ishan-pat | evaluated | 73b7ce | 523.6 |
+| 36 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 37 | yoursun1220 | evaluated | d8b590 | 521.8 |
+| 38 | Licha | evaluated | 8fdc3a | 521.4 |
 | 39 | jbc | evaluated | 12bb20 | 520.4 |
 | 40 | ngoguen | evaluated | a5cdb8 | 515.9 |
 | 41 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
@@ -92,7 +92,7 @@ Last updated: `April 07, 2026 at 09:54:57 AM ET`
 | 22 | gravlax | evaluated | b1229d | 272.5 |
 | 23 | PurplePickle67 | evaluated | 6060f9 | 268.2 |
 | 24 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
-| 25 | ishan-pat | evaluated | 564670 | 259.2 |
+| 25 | ishan-pat | evaluated | 73b7ce | 258.2 |
 | 26 | happyface | evaluated | 7e8b61 | 258.2 |
 | 27 | ethanchen | evaluated | ea518d | 251.2 |
 | 28 | Yize | evaluated | e17a72 | 249.1 |
@@ -148,7 +148,7 @@ Last updated: `April 07, 2026 at 09:54:57 AM ET`
 | 16 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
 | 17 | Shengwei | evaluated | bd7526 | 45.6 |
 | 18 | sjb | evaluated | 373553 | 50.8 |
-| 19 | ishan-pat | evaluated | 564670 | 55.1 |
+| 19 | ishan-pat | evaluated | 73b7ce | 56.7 |
 | 20 | Junyi Li | evaluated | c7a1b3 | 60.9 |
 | 21 | happyface | evaluated | 7e8b61 | 63.7 |
 | 22 | alifim | evaluated | 701077 | 64.8 |
@@ -214,7 +214,7 @@ Last updated: `April 07, 2026 at 09:54:57 AM ET`
 | 20 | JasonWang07 | evaluated | 7c1824 | 79.3 |
 | 21 | leoli | evaluated | 5cdac4 | 87.4 |
 | 22 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
-| 23 | ishan-pat | evaluated | 564670 | 107.0 |
+| 23 | ishan-pat | evaluated | 73b7ce | 109.1 |
 | 24 | alifim | evaluated | 701077 | 109.2 |
 | 25 | Junyi Li | evaluated | c7a1b3 | 113.1 |
 | 26 | beratcelik | evaluated | 863a89 | 113.8 |
