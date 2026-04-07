@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 07, 2026 at 09:22:38 AM ET`
+Last updated: `April 07, 2026 at 09:32:15 AM ET`
 
 ## Pages
 
@@ -25,8 +25,8 @@ Last updated: `April 07, 2026 at 09:22:38 AM ET`
 | 11 | prousoglou | evaluated | 570c63 | 18.4/2.7/21.1 | 1.565 | 556.7 | 368.2 | 34.7 | 65.3 |
 | 12 | andrasferenczy | evaluated | 9c7f53 | 37.3/3.2/40.5 | 1.486 | 539.1 | 277.2 | 31.9 | 63.7 |
 | 13 | gravlax | evaluated | b1229d | 19.9/3.2/23.1 | 1.464 | 532.3 | 272.5 | 35.0 | 59.7 |
-| 14 | PurplePickle67 | evaluated | 6d549a | 47.3/3.3/50.6 | 1.459 | 488.4 | 267.7 | 36.7 | 52.1 |
-| 15 | sjb | evaluated | 373553 | 28.3/2.9/31.1 | 1.457 | 535.3 | 346.4 | 50.8 | 53.6 |
+| 14 | sjb | evaluated | 373553 | 28.3/2.9/31.1 | 1.457 | 535.3 | 346.4 | 50.8 | 53.6 |
+| 15 | PurplePickle67 | evaluated | 27e572 | 38.0/3.3/41.4 | 1.451 | 475.6 | 269.3 | 36.6 | 52.3 |
 | 16 | bl792 | evaluated | 09cd73 | 18.3/3.5/21.8 | 1.438 | 524.7 | 238.8 | 32.4 | 59.9 |
 | 17 | Shengwei | evaluated | bd7526 | 19.3/2.9/22.1 | 1.415 | 540.5 | 347.3 | 45.6 | 68.0 |
 | 18 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 41.6/3.3/44.9 | 1.370 | 515.1 | 266.6 | 43.1 | 59.9 |

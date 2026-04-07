@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 09:22:38 AM ET`
+Last updated: `April 07, 2026 at 09:32:15 AM ET`
 
 ## R1 (tok/s)
 
@@ -87,7 +87,7 @@ Last updated: `April 07, 2026 at 09:22:38 AM ET`
 | 23 | beratcelik | submission.py | 7c87c2 | 294.0 |
 | 24 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
 | 25 | gravlax | develop.py | b1229d | 273.0 |
-| 26 | PurplePickle67 | submission.py | 6d549a | 267.7 |
+| 26 | PurplePickle67 | submission.py | 27e572 | 269.3 |
 | 27 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
 | 28 | ishan-pat | develop.py | 75d32d | 259.7 |
 | 29 | happyface | develop.py | 0aca52 | 259.4 |
