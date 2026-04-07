@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 06:23:14 PM ET`
+Last updated: `April 07, 2026 at 06:31:33 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 06:30 PM ET | happyface | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | e106b2 | 20.8/6.4/27.2 | 538.1 | 274.4 | 589.7 | 317.4 |
+| Apr 07 06:26 PM ET | Shengwei | evaluated |  | submission.py | 07512d | 19.3/2.9/22.1 | 540.0 | 348.5 | 45.5 | 67.8 |
 | Apr 07 06:22 PM ET | happyface | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | develop.py | afa65b | 40.1/6.4/46.6 | 542.5 | 275.1 | 589.8 | 317.5 |
 | Apr 07 06:21 PM ET | landrum | evaluated |  | develop.py | 86898e | 22.5/3.2/25.7 | 527.1 | 275.0 | 30.3 | 54.7 |
 | Apr 07 06:17 PM ET | Shengwei | evaluated |  | submission.py | b9a978 | 19.2/3.2/22.3 | 537.0 | 326.4 | 71.2 | 88.0 |

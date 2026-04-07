@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 06:23:14 PM ET`
+Last updated: `April 07, 2026 at 06:31:33 PM ET`
 
 ## R1 (tok/s)
 
@@ -75,8 +75,8 @@ Last updated: `April 07, 2026 at 06:23:14 PM ET`
 | 10 | ashaikh23 | submission.py | 84a425 | 372.1 |
 | 11 | prousoglou | submission.py | 570c63 | 368.2 |
 | 12 | gm | develop.py | fd15e9 | 357.3 |
-| 13 | sjb | develop.py | 7fb492 | 347.4 |
-| 14 | Shengwei | submission.py | bd7526 | 347.3 |
+| 13 | Shengwei | submission.py | 07512d | 348.5 |
+| 14 | sjb | develop.py | 7fb492 | 347.4 |
 | 15 | JasonWang07 | develop.py | 2ecd91 | 343.1 |
 | 16 | Rithvik | submission.py | 2924a0 | 335.8 |
 | 17 | nickname55555555 | submission.py | 138f26 | 334.8 |
@@ -139,7 +139,7 @@ Last updated: `April 07, 2026 at 06:23:14 PM ET`
 | 17 | gravlax | develop.py | b1229d | 35.0 |
 | 18 | PurplePickle67 | submission.py | 2efdba | 36.3 |
 | 19 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 43.1 |
-| 20 | Shengwei | submission.py | bd7526 | 45.6 |
+| 20 | Shengwei | submission.py | 07512d | 45.5 |
 | 21 | sjb | develop.py | 7fb492 | 50.4 |
 | 22 | ishan-pat | submission.py | 564670 | 55.1 |
 | 23 | Junyi Li | submission.py | c7a1b3 | 60.9 |
@@ -198,7 +198,7 @@ Last updated: `April 07, 2026 at 06:23:14 PM ET`
 | 19 | blabrl | submission.py | ca60eb | 65.2 |
 | 20 | prousoglou | submission.py | 570c63 | 65.3 |
 | 21 | happyface | develop.py | 0aca52 | 65.7 |
-| 22 | Shengwei | submission.py | bd7526 | 68.0 |
+| 22 | Shengwei | submission.py | 07512d | 67.8 |
 | 23 | JasonWang07 | develop.py | f27837 | 78.3 |
 | 24 | leoli | submission.py | 5cdac4 | 87.4 |
 | 25 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 89.2 |
