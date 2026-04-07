@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 02:06:11 AM ET`
+Last updated: `April 07, 2026 at 02:15:54 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 02:15 AM ET | ashaikh23 | failed_correctness | R1: SETUP: ERR: RuntimeError: Expected in.dtype() == at::kByte to be true, but got false. (Could this error message b... | submission.py | 58a838 | 13.4/0.0/13.4 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 07 02:11 AM ET | fishyfins | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | submission.py | 77bb1f | 11.9/4.2/16.1 | 518.3 | 159.7 | 0.0 | 0.0 |
+| Apr 07 02:09 AM ET | act | evaluated |  | submission.py | 899777 | 19.8/6.3/26.1 | 523.9 | 169.0 | 310.9 | 250.7 |
 | Apr 07 02:05 AM ET | ashaikh23 | failed_correctness | R1: SETUP: ERR: RuntimeError: Expected in.dtype() == at::kByte to be true, but got false. (Could this error message b... | submission.py | 2e3aeb | 13.6/0.0/13.6 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 07 02:01 AM ET | act | evaluated |  | develop.py | 1b5e17 | 19.8/6.3/26.1 | 520.5 | 168.9 | 310.9 | 250.6 |
 | Apr 07 01:57 AM ET | ashaikh23 | failed_correctness | R1: SETUP: ERR: RuntimeError: Expected in.dtype() == at::kByte to be true, but got false. (Could this error message b... | submission.py | 3f2c6e | 13.6/0.0/13.6 | 0.0 | 0.0 | 0.0 | 0.0 |

@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 02:06:11 AM ET`
+Last updated: `April 07, 2026 at 02:15:54 AM ET`
 
 ## R1 (tok/s)
 
@@ -48,9 +48,9 @@ Last updated: `April 07, 2026 at 02:06:11 AM ET`
 | 40 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
 | 41 | yoursun1220 | submission.py | f4e2be | 524.2 |
 | 42 | nicknam534534 | submission.py | 1bad48 | 524.1 |
-| 43 | hw_bloss | submission.py | 2d26da | 523.5 |
-| 44 | Licha | submission.py | 8fdc3a | 521.4 |
-| 45 | act | develop.py | 1b5e17 | 520.5 |
+| 43 | act | submission.py | 899777 | 523.9 |
+| 44 | hw_bloss | submission.py | 2d26da | 523.5 |
+| 45 | Licha | submission.py | 8fdc3a | 521.4 |
 | 46 | jbc | submission.py | 12bb20 | 520.4 |
 | 47 | PurplePickle67 | submission.py | 231258 | 519.1 |
 | 48 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
@@ -109,7 +109,7 @@ Last updated: `April 07, 2026 at 02:06:11 AM ET`
 | 45 | ngoguen | submission.py | a5cdb8 | 169.7 |
 | 46 | Junyi Li | submission.py | c7a1b3 | 169.7 |
 | 47 | jbc | develop.py | 4e7308 | 169.4 |
-| 48 | act | develop.py | 1b5e17 | 168.9 |
+| 48 | act | submission.py | 899777 | 169.0 |
 | 49 | nicknam534534 | submission.py | 1bad48 | 148.4 |
 | 50 | Decode_speed | submission.py | 097a6b | 77.3 |
 
