@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 01:16:26 AM ET`
+Last updated: `April 07, 2026 at 01:25:09 AM ET`
 
 ## R1 (tok/s)
 
@@ -14,7 +14,7 @@ Last updated: `April 07, 2026 at 01:16:26 AM ET`
 | 6 | abarat007 | evaluated | d7f626 | 559.5 |
 | 7 | your_nickname_here | evaluated | f10b9b | 557.8 |
 | 8 | blabrl | evaluated | ca60eb | 557.4 |
-| 9 | JasonWang07 | evaluated | 3272aa | 556.8 |
+| 9 | JasonWang07 | evaluated | 7c1824 | 556.9 |
 | 10 | prousoglou | evaluated | 570c63 | 556.7 |
 | 11 | TA | evaluated | a6e863 | 556.6 |
 | 12 | chyyy | evaluated | 34cc06 | 555.7 |
@@ -80,7 +80,7 @@ Last updated: `April 07, 2026 at 01:16:26 AM ET`
 | 10 | Shengwei | evaluated | bd7526 | 347.3 |
 | 11 | sjb | evaluated | 373553 | 346.4 |
 | 12 | Rithvik | evaluated | 2924a0 | 335.8 |
-| 13 | JasonWang07 | evaluated | 3272aa | 335.3 |
+| 13 | JasonWang07 | evaluated | 7c1824 | 335.6 |
 | 14 | ashaikh23 | evaluated | 7b5e3c | 334.7 |
 | 15 | leoli | evaluated | 5cdac4 | 327.5 |
 | 16 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
@@ -153,9 +153,9 @@ Last updated: `April 07, 2026 at 01:16:26 AM ET`
 | 21 | omermoav | evaluated | c75309 | 64.7 |
 | 22 | alifim | evaluated | 701077 | 64.8 |
 | 23 | beratcelik | evaluated | 863a89 | 68.2 |
-| 24 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
-| 25 | leoli | evaluated | 5cdac4 | 71.0 |
-| 26 | JasonWang07 | evaluated | 3272aa | 71.3 |
+| 24 | JasonWang07 | evaluated | 7c1824 | 68.5 |
+| 25 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
+| 26 | leoli | evaluated | 5cdac4 | 71.0 |
 | 27 | ethanchen | evaluated | ea518d | 74.4 |
 | 28 | Yize | evaluated | e17a72 | 81.3 |
 | 29 | TA | evaluated | a6e863 | 85.6 |
@@ -209,7 +209,7 @@ Last updated: `April 07, 2026 at 01:16:26 AM ET`
 | 15 | prousoglou | evaluated | 570c63 | 65.3 |
 | 16 | happyface | evaluated | 7e8b61 | 66.0 |
 | 17 | Shengwei | evaluated | bd7526 | 68.0 |
-| 18 | JasonWang07 | evaluated | 3272aa | 79.6 |
+| 18 | JasonWang07 | evaluated | 7c1824 | 79.3 |
 | 19 | leoli | evaluated | 5cdac4 | 87.4 |
 | 20 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
 | 21 | ishan-pat | evaluated | 564670 | 107.0 |

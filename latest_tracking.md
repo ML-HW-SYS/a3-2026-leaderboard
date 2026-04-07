@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 01:16:26 AM ET`
+Last updated: `April 07, 2026 at 01:25:09 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 01:21 AM ET | nickname55555555 | evaluated |  | develop.py | 138f26 | 23.1/2.8/26.0 | 547.2 | 332.9 | 32.4 | 53.2 |
+| Apr 07 01:18 AM ET | JasonWang07 | evaluated |  | submission.py | 7c1824 | 41.5/3.0/44.5 | 556.9 | 335.6 | 68.5 | 79.3 |
 | Apr 07 01:15 AM ET | ashaikh23 | evaluated |  | submission.py | 7b5e3c | 44.0/3.2/47.2 | 538.1 | 334.7 | 59.1 | 110.1 |
 | Apr 07 01:12 AM ET | nickname55555555 | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | submission.py | 138f26 | 70.3/2.6/72.8 | 555.5 | 334.8 | 31.8 | 0.0 |
 | Apr 07 01:09 AM ET | act | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | 427125 | 15.8/9.7/25.5 | 165.9 | 115.6 | 309.6 | 247.3 |
