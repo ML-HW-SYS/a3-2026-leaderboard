@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 10:46:41 AM ET`
+Last updated: `April 07, 2026 at 10:56:02 AM ET`
 
 ## R1 (tok/s)
 
@@ -61,8 +61,8 @@ Last updated: `April 07, 2026 at 10:46:41 AM ET`
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | f2403c |  |
-|  | vallabkaranam | failed | 2bdea4 |  |
+|  | TheProphet | failed | 6a40c3 |  |
+|  | vallabkaranam | failed | ff628b |  |
 
 ## R2 (tok/s)
 
@@ -123,8 +123,8 @@ Last updated: `April 07, 2026 at 10:46:41 AM ET`
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | f2403c |  |
-|  | vallabkaranam | failed | 2bdea4 |  |
+|  | TheProphet | failed | 6a40c3 |  |
+|  | vallabkaranam | failed | ff628b |  |
 
 ## R3 (ms)
 
@@ -185,8 +185,8 @@ Last updated: `April 07, 2026 at 10:46:41 AM ET`
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | f2403c |  |
-|  | vallabkaranam | failed | 2bdea4 |  |
+|  | TheProphet | failed | 6a40c3 |  |
+|  | vallabkaranam | failed | ff628b |  |
 
 ## R4 (ms)
 
@@ -247,5 +247,5 @@ Last updated: `April 07, 2026 at 10:46:41 AM ET`
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | f2403c |  |
-|  | vallabkaranam | failed | 2bdea4 |  |
+|  | TheProphet | failed | 6a40c3 |  |
+|  | vallabkaranam | failed | ff628b |  |

@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 10:46:41 AM ET`
+Last updated: `April 07, 2026 at 10:56:02 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 10:56 AM ET | vallabkaranam | failed_security | Security policy check failed for submission.py: \| - prohibited call: compile \| - prohibited call: exec | submission.py | ff628b |  |  |  |  |  |
+| Apr 07 10:53 AM ET | yb | evaluated |  | develop.py | 2aa1a9 | 20.0/6.3/26.2 | 519.0 | 168.8 | 311.9 | 251.2 |
+| Apr 07 10:51 AM ET | TheProphet | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 6a40c3 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 07 10:44 AM ET | yb | evaluated |  | submission.py | 2aa1a9 | 39.6/6.2/45.8 | 525.6 | 169.8 | 309.3 | 250.5 |
 | Apr 07 10:40 AM ET | pallavi-srinivas | evaluated |  | submission.py | e19201 | 19.4/5.0/24.4 | 536.4 | 206.6 | 191.3 | 194.1 |
 | Apr 07 10:36 AM ET | ishan-pat | evaluated |  | develop.py | fddca1 | 23.3/3.6/26.9 | 524.6 | 259.2 | 55.7 | 111.8 |
