@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 11:29:55 PM ET`
+Last updated: `April 06, 2026 at 11:38:48 PM ET`
 
 ## R1 (tok/s)
 
@@ -32,24 +32,24 @@ Last updated: `April 06, 2026 at 11:29:55 PM ET`
 | 24 | landrum | evaluated | 7b5ab5 | 534.6 |
 | 25 | chickfila | evaluated | f0956d | 534.5 |
 | 26 | gravlax | evaluated | b1229d | 532.3 |
-| 27 | Yize | evaluated | e17a72 | 525.6 |
-| 28 | fishyfins | evaluated | 2ac776 | 524.8 |
-| 29 | bl792 | evaluated | 09cd73 | 524.7 |
-| 30 | nicknam534534 | evaluated | 1bad48 | 524.1 |
-| 31 | ethanchen | evaluated | ea518d | 523.7 |
-| 32 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 33 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 34 | Licha | evaluated | 8fdc3a | 521.4 |
-| 35 | ishan-pat | evaluated | 564670 | 520.6 |
-| 36 | ngoguen | evaluated | a5cdb8 | 515.9 |
-| 37 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 38 | Rithvik | evaluated | 2924a0 | 495.8 |
-| 39 | tuo | evaluated | 3d6d40 | 494.8 |
-| 40 | Decode_speed | evaluated | 097a6b | 104.5 |
+| 27 | Junyi Li | evaluated | 2e381b | 529.4 |
+| 28 | Yize | evaluated | e17a72 | 525.6 |
+| 29 | fishyfins | evaluated | 2ac776 | 524.8 |
+| 30 | bl792 | evaluated | 09cd73 | 524.7 |
+| 31 | nicknam534534 | evaluated | 1bad48 | 524.1 |
+| 32 | ethanchen | evaluated | ea518d | 523.7 |
+| 33 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 34 | yoursun1220 | evaluated | d8b590 | 521.8 |
+| 35 | Licha | evaluated | 8fdc3a | 521.4 |
+| 36 | ishan-pat | evaluated | 564670 | 520.6 |
+| 37 | ngoguen | evaluated | a5cdb8 | 515.9 |
+| 38 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 39 | Rithvik | evaluated | 2924a0 | 495.8 |
+| 40 | tuo | evaluated | 3d6d40 | 494.8 |
+| 41 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | abhik | failed | 93ffca |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | JasonWang07 | failed | 3615bf |  |
-|  | Junyi Li | failed | c31a30 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | omermoav | failed | 84f67a |  |
 |  | pallavi-srinivas | failed | 95ea8c |  |
@@ -101,15 +101,15 @@ Last updated: `April 06, 2026 at 11:29:55 PM ET`
 | 33 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 34 | stefan | evaluated | a01e76 | 170.0 |
 | 35 | ngoguen | evaluated | a5cdb8 | 169.7 |
-| 36 | yoursun1220 | evaluated | d8b590 | 169.2 |
-| 37 | hw_bloss | evaluated | 4c9666 | 169.1 |
-| 38 | fishyfins | evaluated | 2ac776 | 168.7 |
-| 39 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 40 | Decode_speed | evaluated | 097a6b | 77.3 |
+| 36 | Junyi Li | evaluated | 2e381b | 169.2 |
+| 37 | yoursun1220 | evaluated | d8b590 | 169.2 |
+| 38 | hw_bloss | evaluated | 4c9666 | 169.1 |
+| 39 | fishyfins | evaluated | 2ac776 | 168.7 |
+| 40 | nicknam534534 | evaluated | 1bad48 | 148.4 |
+| 41 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | abhik | failed | 93ffca |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | JasonWang07 | failed | 3615bf |  |
-|  | Junyi Li | failed | c31a30 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | omermoav | failed | 84f67a |  |
 |  | pallavi-srinivas | failed | 95ea8c |  |
@@ -158,18 +158,18 @@ Last updated: `April 06, 2026 at 11:29:55 PM ET`
 | 30 | tuo | evaluated | 3d6d40 | 167.8 |
 | 31 | Licha | evaluated | 8fdc3a | 202.7 |
 | 32 | landrum | evaluated | 7b5ab5 | 275.1 |
-| 33 | fishyfins | evaluated | 2ac776 | 305.7 |
-| 34 | hw_bloss | evaluated | 4c9666 | 308.1 |
-| 35 | your_nickname_here | evaluated | f10b9b | 308.1 |
-| 36 | stefan | evaluated | a01e76 | 310.0 |
-| 37 | ngoguen | evaluated | a5cdb8 | 310.3 |
-| 38 | yoursun1220 | evaluated | d8b590 | 310.7 |
-| 39 | nicknam534534 | evaluated | 1bad48 | 405.4 |
-| 40 | Decode_speed | evaluated | 097a6b | 412.7 |
+| 33 | Junyi Li | evaluated | 2e381b | 303.8 |
+| 34 | fishyfins | evaluated | 2ac776 | 305.7 |
+| 35 | hw_bloss | evaluated | 4c9666 | 308.1 |
+| 36 | your_nickname_here | evaluated | f10b9b | 308.1 |
+| 37 | stefan | evaluated | a01e76 | 310.0 |
+| 38 | ngoguen | evaluated | a5cdb8 | 310.3 |
+| 39 | yoursun1220 | evaluated | d8b590 | 310.7 |
+| 40 | nicknam534534 | evaluated | 1bad48 | 405.4 |
+| 41 | Decode_speed | evaluated | 097a6b | 412.7 |
 |  | abhik | failed | 93ffca |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | JasonWang07 | failed | 3615bf |  |
-|  | Junyi Li | failed | c31a30 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | omermoav | failed | 84f67a |  |
 |  | pallavi-srinivas | failed | 95ea8c |  |
@@ -218,18 +218,18 @@ Last updated: `April 06, 2026 at 11:29:55 PM ET`
 | 30 | tuo | evaluated | 3d6d40 | 162.8 |
 | 31 | landrum | evaluated | 7b5ab5 | 176.5 |
 | 32 | Licha | evaluated | 8fdc3a | 215.0 |
-| 33 | fishyfins | evaluated | 2ac776 | 234.0 |
-| 34 | hw_bloss | evaluated | 4c9666 | 239.1 |
-| 35 | your_nickname_here | evaluated | f10b9b | 246.4 |
-| 36 | stefan | evaluated | a01e76 | 248.7 |
-| 37 | ngoguen | evaluated | a5cdb8 | 249.7 |
-| 38 | yoursun1220 | evaluated | d8b590 | 250.1 |
-| 39 | nicknam534534 | evaluated | 1bad48 | 269.2 |
-| 40 | Decode_speed | evaluated | 097a6b | 270.3 |
+| 33 | Junyi Li | evaluated | 2e381b | 232.4 |
+| 34 | fishyfins | evaluated | 2ac776 | 234.0 |
+| 35 | hw_bloss | evaluated | 4c9666 | 239.1 |
+| 36 | your_nickname_here | evaluated | f10b9b | 246.4 |
+| 37 | stefan | evaluated | a01e76 | 248.7 |
+| 38 | ngoguen | evaluated | a5cdb8 | 249.7 |
+| 39 | yoursun1220 | evaluated | d8b590 | 250.1 |
+| 40 | nicknam534534 | evaluated | 1bad48 | 269.2 |
+| 41 | Decode_speed | evaluated | 097a6b | 270.3 |
 |  | abhik | failed | 93ffca |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | JasonWang07 | failed | 3615bf |  |
-|  | Junyi Li | failed | c31a30 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | omermoav | failed | 84f67a |  |
 |  | pallavi-srinivas | failed | 95ea8c |  |

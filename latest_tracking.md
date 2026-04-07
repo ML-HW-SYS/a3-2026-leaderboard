@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 11:29:55 PM ET`
+Last updated: `April 06, 2026 at 11:38:48 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 11:34 PM ET | Junyi Li | evaluated |  | submission.py | 2e381b | 63.8/6.1/69.9 | 529.4 | 169.2 | 303.8 | 232.4 |
+| Apr 06 11:32 PM ET | sjb | failed_correctness | R1: SETUP: ERR: AttributeError: 'Linear' object has no attribute 'fp_weight' \| R2: SETUP: ERR: AttributeError: 'Linea... | develop.py | c3347c | 13.4/0.0/13.4 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 06 11:30 PM ET | omermoav | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | 84f67a | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 06 11:29 PM ET | vallabkaranam | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 190e6a | 19.9/6.2/26.1 | 526.3 | 170.3 | 307.0 | 245.2 |
 | Apr 06 11:28 PM ET | jl | evaluated |  | develop.py | 8b6423 | 19.1/3.5/22.7 | 571.3 | 312.0 | 102.1 | 148.3 |
 | Apr 06 11:26 PM ET | abhik | failed_correctness | R1: SETUP: ERR: UserError: Consider annotating your code using torch._check*(). Could not extract specialized integer... | develop.py | 93ffca | 17.4/1.3/18.7 | 0.0 | 0.0 | 141.8 | 174.7 |

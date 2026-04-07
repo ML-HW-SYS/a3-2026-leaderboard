@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 06, 2026 at 11:29:55 PM ET`
+Last updated: `April 06, 2026 at 11:38:48 PM ET`
 
 ## Pages
 
@@ -45,17 +45,17 @@ Last updated: `April 06, 2026 at 11:29:55 PM ET`
 | 31 | Licha | evaluated | 8fdc3a | 38.5/5.3/43.8 | 0.625 | 521.4 | 192.4 | 202.7 | 215.0 |
 | 32 | landrum | evaluated | 7b5ab5 | 23.3/5.7/28.9 | 0.600 | 534.6 | 177.2 | 275.1 | 176.5 |
 | 33 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
-| 34 | fishyfins | evaluated | 2ac776 | 70.4/6.2/76.5 | 0.535 | 524.8 | 168.7 | 305.7 | 234.0 |
-| 35 | hw_bloss | evaluated | 4c9666 | 23.8/6.2/30.0 | 0.531 | 522.2 | 169.1 | 308.1 | 239.1 |
-| 36 | stefan | evaluated | a01e76 | 19.8/6.2/26.0 | 0.529 | 537.5 | 170.0 | 310.0 | 248.7 |
-| 37 | yoursun1220 | evaluated | d8b590 | 19.8/6.2/26.1 | 0.524 | 521.8 | 169.2 | 310.7 | 250.1 |
-| 38 | ngoguen | evaluated | a5cdb8 | 40.8/6.2/47.0 | 0.523 | 515.9 | 169.7 | 310.3 | 249.7 |
-| 39 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
-| 40 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
+| 34 | Junyi Li | evaluated | 2e381b | 63.8/6.1/69.9 | 0.538 | 529.4 | 169.2 | 303.8 | 232.4 |
+| 35 | fishyfins | evaluated | 2ac776 | 70.4/6.2/76.5 | 0.535 | 524.8 | 168.7 | 305.7 | 234.0 |
+| 36 | hw_bloss | evaluated | 4c9666 | 23.8/6.2/30.0 | 0.531 | 522.2 | 169.1 | 308.1 | 239.1 |
+| 37 | stefan | evaluated | a01e76 | 19.8/6.2/26.0 | 0.529 | 537.5 | 170.0 | 310.0 | 248.7 |
+| 38 | yoursun1220 | evaluated | d8b590 | 19.8/6.2/26.1 | 0.524 | 521.8 | 169.2 | 310.7 | 250.1 |
+| 39 | ngoguen | evaluated | a5cdb8 | 40.8/6.2/47.0 | 0.523 | 515.9 | 169.7 | 310.3 | 249.7 |
+| 40 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
+| 41 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
 |  | abhik | failed | 93ffca | 21.1/1.3/22.3 |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | JasonWang07 | failed | 3615bf | 23.4/2.4/25.9 |  |  |  |  |  |
-|  | Junyi Li | failed | c31a30 | 71.5/6.1/77.6 |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
 |  | omermoav | failed | 84f67a | 22.0/1.0/23.0 |  |  |  |  |  |
 |  | pallavi-srinivas | failed | 95ea8c | 0.0/0.0/0.0 |  |  |  |  |  |
