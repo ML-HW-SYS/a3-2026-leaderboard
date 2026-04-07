@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 02:04:21 PM ET`
+Last updated: `April 07, 2026 at 02:12:20 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 02:12 PM ET | vallabkaranam | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | ec4b9a |  |  |  |  |  |
+| Apr 07 02:08 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.75%) \| max_abs_diff=12.18 | develop.py | f7860c | 30.8/2.5/33.3 | 565.6 | 383.0 | 24.2 | 46.6 |
 | Apr 07 02:00 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.75%) \| max_abs_diff=12.18 | submission.py | f7860c | 69.3/2.5/71.8 | 563.9 | 382.8 | 24.0 | 46.3 |
 | Apr 07 01:45 PM ET | nickname55555555 | evaluated |  | develop.py | 20d1ac | 28.4/2.8/31.1 | 551.3 | 334.4 | 31.1 | 50.7 |
 | Apr 07 01:37 PM ET | nickname55555555 | evaluated |  | submission.py | 20d1ac | 28.2/2.8/31.0 | 551.4 | 334.2 | 30.9 | 50.6 |

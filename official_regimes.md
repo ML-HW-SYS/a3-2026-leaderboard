@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 02:04:21 PM ET`
+Last updated: `April 07, 2026 at 02:12:20 PM ET`
 
 ## R1 (tok/s)
 
@@ -61,7 +61,7 @@ Last updated: `April 07, 2026 at 02:04:21 PM ET`
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | f7860c |  |
-|  | vallabkaranam | failed | ff628b |  |
+|  | vallabkaranam | failed | ec4b9a |  |
 |  | Yize | failed | 531e28 |  |
 
 ## R2 (tok/s)
@@ -123,7 +123,7 @@ Last updated: `April 07, 2026 at 02:04:21 PM ET`
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | f7860c |  |
-|  | vallabkaranam | failed | ff628b |  |
+|  | vallabkaranam | failed | ec4b9a |  |
 |  | Yize | failed | 531e28 |  |
 
 ## R3 (ms)
@@ -185,7 +185,7 @@ Last updated: `April 07, 2026 at 02:04:21 PM ET`
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | f7860c |  |
-|  | vallabkaranam | failed | ff628b |  |
+|  | vallabkaranam | failed | ec4b9a |  |
 |  | Yize | failed | 531e28 |  |
 
 ## R4 (ms)
@@ -247,5 +247,5 @@ Last updated: `April 07, 2026 at 02:04:21 PM ET`
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | f7860c |  |
-|  | vallabkaranam | failed | ff628b |  |
+|  | vallabkaranam | failed | ec4b9a |  |
 |  | Yize | failed | 531e28 |  |
