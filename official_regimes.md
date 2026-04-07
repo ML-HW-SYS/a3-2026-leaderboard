@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 12:13:22 PM ET`
+Last updated: `April 07, 2026 at 12:22:13 PM ET`
 
 ## R1 (tok/s)
 
@@ -61,7 +61,7 @@ Last updated: `April 07, 2026 at 12:13:22 PM ET`
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 6a40c3 |  |
+|  | TheProphet | failed | c0ce1d |  |
 |  | vallabkaranam | failed | ff628b |  |
 
 ## R2 (tok/s)
@@ -123,7 +123,7 @@ Last updated: `April 07, 2026 at 12:13:22 PM ET`
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 6a40c3 |  |
+|  | TheProphet | failed | c0ce1d |  |
 |  | vallabkaranam | failed | ff628b |  |
 
 ## R3 (ms)
@@ -185,7 +185,7 @@ Last updated: `April 07, 2026 at 12:13:22 PM ET`
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 6a40c3 |  |
+|  | TheProphet | failed | c0ce1d |  |
 |  | vallabkaranam | failed | ff628b |  |
 
 ## R4 (ms)
@@ -247,5 +247,5 @@ Last updated: `April 07, 2026 at 12:13:22 PM ET`
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 6a40c3 |  |
+|  | TheProphet | failed | c0ce1d |  |
 |  | vallabkaranam | failed | ff628b |  |
