@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 11:56:25 AM ET`
+Last updated: `April 07, 2026 at 12:04:52 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 12:02 PM ET | PurplePickle67 | evaluated |  | submission.py | 2a5f1a | 25.2/5.3/30.5 | 505.6 | 179.3 | 36.7 | 318.5 |
+| Apr 07 11:57 AM ET | JasonWang07 | evaluated |  | submission.py | a4b405 | 22.9/3.1/26.0 | 547.1 | 342.2 | 70.8 | 88.9 |
 | Apr 07 11:54 AM ET | yb | evaluated |  | submission.py | ea23ab | 19.9/6.3/26.1 | 525.9 | 168.8 | 312.3 | 250.6 |
 | Apr 07 11:50 AM ET | pallavi-srinivas | evaluated |  | develop.py | 644fa9 | 19.4/5.0/24.4 | 540.6 | 207.1 | 192.0 | 194.3 |
 | Apr 07 11:45 AM ET | PurplePickle67 | evaluated |  | submission.py | f3c52f | 32.2/4.2/36.4 | 516.1 | 179.3 | 36.5 | 52.1 |
