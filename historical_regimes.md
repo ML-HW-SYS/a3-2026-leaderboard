@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 05:13:48 PM ET`
+Last updated: `April 07, 2026 at 05:24:22 PM ET`
 
 ## R1 (tok/s)
 
@@ -95,7 +95,7 @@ Last updated: `April 07, 2026 at 05:13:48 PM ET`
 | 30 | happyface | develop.py | 0aca52 | 259.4 |
 | 31 | pyjuan91 | submission.py | 7ff296 | 256.3 |
 | 32 | ethanchen | submission.py | ea518d | 251.2 |
-| 33 | Yize | submission.py | e17a72 | 249.7 |
+| 33 | Yize | develop.py | 3f5ad4 | 250.3 |
 | 34 | fishyfins | develop.py | 87e789 | 243.3 |
 | 35 | 13rabbit | develop.py | b38df9 | 243.3 |
 | 36 | bl792 | develop.py | 09cd73 | 239.0 |
@@ -205,8 +205,8 @@ Last updated: `April 07, 2026 at 05:13:48 PM ET`
 | 26 | ishan-pat | submission.py | 564670 | 107.0 |
 | 27 | alifim | submission.py | 701077 | 109.2 |
 | 28 | beratcelik | submission.py | 11c1b8 | 110.5 |
-| 29 | Junyi Li | submission.py | c7a1b3 | 113.1 |
-| 30 | Yize | submission.py | 3f5ad4 | 114.6 |
+| 29 | Yize | develop.py | 3f5ad4 | 112.9 |
+| 30 | Junyi Li | submission.py | c7a1b3 | 113.1 |
 | 31 | ethanchen | submission.py | bf6f9e | 123.0 |
 | 32 | TA | submission.py | 324cb8 | 131.7 |
 | 33 | nicknam534534 | develop.py | cd4c9b | 134.6 |

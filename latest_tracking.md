@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 05:13:48 PM ET`
+Last updated: `April 07, 2026 at 05:24:22 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 05:23 PM ET | landrum | evaluated |  | develop.py | 86898e | 59.5/3.2/62.7 | 530.5 | 275.7 | 29.8 | 54.1 |
+| Apr 07 05:18 PM ET | Yize | evaluated |  | develop.py | 3f5ad4 | 23.7/3.8/27.5 | 524.9 | 250.3 | 80.8 | 112.9 |
+| Apr 07 05:17 PM ET | stefan | failed_correctness | Correctness FAIL \| R1 (87.52%), R2 (83.28%), R3 (78.41%), R4 (83.54%) \| max_abs_diff=15.27 | develop.py | 73be16 | 28.1/6.7/34.8 | 535.7 | 143.5 | 317.0 | 238.2 |
+| Apr 07 05:15 PM ET | pyjuan91 | evaluated |  | develop.py | 6dee29 | 38.2/6.2/44.4 | 525.3 | 169.1 | 307.3 | 242.2 |
 | Apr 07 05:09 PM ET | Yize | evaluated |  | submission.py | 3f5ad4 | 43.7/3.8/47.6 | 519.4 | 248.9 | 81.5 | 114.6 |
 | Apr 07 05:04 PM ET | landrum | evaluated |  | submission.py | 61ab81 | 22.7/3.1/25.8 | 535.7 | 276.9 | 29.9 | 53.7 |
 | Apr 07 04:56 PM ET | landrum | evaluated |  | develop.py | 4d2d51 | 40.7/3.1/43.9 | 537.4 | 276.3 | 29.6 | 53.5 |
