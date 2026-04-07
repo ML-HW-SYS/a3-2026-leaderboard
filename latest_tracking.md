@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 06:14:02 PM ET`
+Last updated: `April 07, 2026 at 06:23:14 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 06:22 PM ET | happyface | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | develop.py | afa65b | 40.1/6.4/46.6 | 542.5 | 275.1 | 589.8 | 317.5 |
+| Apr 07 06:21 PM ET | landrum | evaluated |  | develop.py | 86898e | 22.5/3.2/25.7 | 527.1 | 275.0 | 30.3 | 54.7 |
+| Apr 07 06:17 PM ET | Shengwei | evaluated |  | submission.py | b9a978 | 19.2/3.2/22.3 | 537.0 | 326.4 | 71.2 | 88.0 |
 | Apr 07 06:05 PM ET | landrum | evaluated |  | develop.py | 23a24f | 73.3/3.5/76.8 | 444.3 | 251.4 | 29.9 | 54.5 |
 | Apr 07 06:01 PM ET | Shengwei | failed_correctness | Correctness FAIL \| R2 (50.07%), R3 (41.89%), R4 (40.78%) \| max_abs_diff=10.2 | submission.py | 4c3f5c | 39.7/3.7/43.4 | 539.3 | 304.5 | 98.9 | 180.6 |
 | Apr 07 05:58 PM ET | pyjuan91 | evaluated |  | develop.py | 0e27a7 | 50.9/6.2/57.0 | 521.7 | 169.5 | 304.8 | 233.5 |
