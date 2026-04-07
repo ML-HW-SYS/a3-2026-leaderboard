@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 12:53:44 PM ET`
+Last updated: `April 07, 2026 at 01:02:33 PM ET`
 
 ## R1 (tok/s)
 
@@ -129,7 +129,7 @@ Last updated: `April 07, 2026 at 12:53:44 PM ET`
 | 7 | zhumengzhiren | submission.py | 789cd3 | 27.9 |
 | 8 | abarat007 | submission.py | d7f626 | 28.1 |
 | 9 | ashaikh23 | submission.py | 84a425 | 29.1 |
-| 10 | nickname55555555 | submission.py | 138f26 | 31.8 |
+| 10 | nickname55555555 | submission.py | f60ff5 | 30.9 |
 | 11 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
 | 12 | bl792 | develop.py | 09cd73 | 32.3 |
 | 13 | blabrl | submission.py | ca60eb | 33.7 |
@@ -185,9 +185,9 @@ Last updated: `April 07, 2026 at 12:53:44 PM ET`
 | 6 | chickfila | submission.py | f0956d | 49.6 |
 | 7 | zhumengzhiren | develop.py | cf2924 | 50.1 |
 | 8 | ashaikh23 | submission.py | 84a425 | 50.2 |
-| 9 | abarat007 | submission.py | 260fed | 51.5 |
-| 10 | PurplePickle67 | submission.py | 2efdba | 51.9 |
-| 11 | nickname55555555 | submission.py | 05c6ab | 52.5 |
+| 9 | nickname55555555 | submission.py | f60ff5 | 51.0 |
+| 10 | abarat007 | submission.py | 260fed | 51.5 |
+| 11 | PurplePickle67 | submission.py | 2efdba | 51.9 |
 | 12 | sjb | develop.py | 387987 | 53.1 |
 | 13 | gravlax | submission.py | b1229d | 59.7 |
 | 14 | bl792 | develop.py | 09cd73 | 59.8 |

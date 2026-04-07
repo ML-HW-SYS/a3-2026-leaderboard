@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 12:53:44 PM ET`
+Last updated: `April 07, 2026 at 01:02:33 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 12:59 PM ET | nickname55555555 | evaluated |  | submission.py | f60ff5 | 58.5/4.0/62.5 | 350.4 | 231.9 | 30.9 | 51.0 |
+| Apr 07 12:56 PM ET | Yize | failed_correctness | R1: SETUP: ERR: RuntimeError: Decode path requires quantized packed weights/scales (no fallback). \| R2: SETUP: ERR: U... | develop.py | 531e28 | 15.5/0.8/16.3 | 0.0 | 0.0 | 76.8 | 129.1 |
 | Apr 07 12:49 PM ET | Yize | failed_correctness | R1: SETUP: ERR: RuntimeError: Decode path requires quantized packed weights/scales (no fallback). \| R2: SETUP: ERR: U... | submission.py | 531e28 | 15.5/0.8/16.3 | 0.0 | 0.0 | 76.6 | 129.0 |
 | Apr 07 12:48 PM ET | pallavi-srinivas | evaluated |  | develop.py | bd1b29 | 19.5/5.0/24.5 | 543.3 | 206.6 | 190.8 | 192.9 |
 | Apr 07 12:28 PM ET | PurplePickle67 | evaluated |  | submission.py | 68d34e | 32.7/3.0/35.7 | 520.5 | 303.7 | 37.3 | 52.1 |
