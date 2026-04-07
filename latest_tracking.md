@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 01:33:56 AM ET`
+Last updated: `April 07, 2026 at 01:41:16 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 01:37 AM ET | act | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | 974d5d |  |  |  |  |  |
 | Apr 07 01:33 AM ET | vallabkaranam | failed_security | Security policy check failed for submission.py: \| - prohibited call: compile \| - prohibited call: exec | submission.py | 2bdea4 |  |  |  |  |  |
 | Apr 07 01:33 AM ET | ashaikh23 | evaluated |  | submission.py | c872d8 | 41.0/3.1/44.1 | 554.9 | 342.0 | 59.5 | 110.2 |
 | Apr 07 01:26 AM ET | JasonWang07 | evaluated |  | develop.py | 7c1824 | 25.2/3.0/28.3 | 547.5 | 336.7 | 68.8 | 78.7 |

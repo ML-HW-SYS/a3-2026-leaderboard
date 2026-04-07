@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 01:33:56 AM ET`
+Last updated: `April 07, 2026 at 01:41:16 AM ET`
 
 ## R1 (tok/s)
 
@@ -52,7 +52,7 @@ Last updated: `April 07, 2026 at 01:33:56 AM ET`
 | 44 | PurplePickle67 | evaluated | 6d549a | 488.4 |
 | 45 | abhik | evaluated | bf55dc | 157.9 |
 | 46 | Decode_speed | evaluated | 097a6b | 104.5 |
-|  | act | failed | 427125 |  |
+|  | act | failed | 974d5d |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | nickname55555555 | failed | 138f26 |  |
@@ -114,7 +114,7 @@ Last updated: `April 07, 2026 at 01:33:56 AM ET`
 | 44 | nicknam534534 | evaluated | 1bad48 | 148.4 |
 | 45 | abhik | evaluated | bf55dc | 127.8 |
 | 46 | Decode_speed | evaluated | 097a6b | 77.3 |
-|  | act | failed | 427125 |  |
+|  | act | failed | 974d5d |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | nickname55555555 | failed | 138f26 |  |
@@ -176,7 +176,7 @@ Last updated: `April 07, 2026 at 01:33:56 AM ET`
 | 44 | jbc | evaluated | 12bb20 | 311.3 |
 | 45 | nicknam534534 | evaluated | 1bad48 | 405.4 |
 | 46 | Decode_speed | evaluated | 097a6b | 412.7 |
-|  | act | failed | 427125 |  |
+|  | act | failed | 974d5d |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | nickname55555555 | failed | 138f26 |  |
@@ -238,7 +238,7 @@ Last updated: `April 07, 2026 at 01:33:56 AM ET`
 | 44 | jbc | evaluated | 12bb20 | 251.3 |
 | 45 | nicknam534534 | evaluated | 1bad48 | 269.2 |
 | 46 | Decode_speed | evaluated | 097a6b | 270.3 |
-|  | act | failed | 427125 |  |
+|  | act | failed | 974d5d |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | nickname55555555 | failed | 138f26 |  |
