@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 10:02:12 PM ET`
+Last updated: `April 06, 2026 at 10:12:36 PM ET`
 
 ## R1 (tok/s)
 
@@ -127,7 +127,7 @@ Last updated: `April 06, 2026 at 10:02:12 PM ET`
 | 16 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 43.1 |
 | 17 | Shengwei | submission.py | bd7526 | 45.6 |
 | 18 | sjb | develop.py | 4cba09 | 50.5 |
-| 19 | ishan-pat | develop.py | 75d32d | 57.0 |
+| 19 | ishan-pat | submission.py | 564670 | 55.1 |
 | 20 | ashaikh23 | submission.py | d98c0b | 58.8 |
 | 21 | happyface | submission.py | 9f7886 | 63.4 |
 | 22 | alifim | submission.py | 701077 | 64.8 |
@@ -182,7 +182,7 @@ Last updated: `April 06, 2026 at 10:02:12 PM ET`
 | 20 | JasonWang07 | develop.py | f27837 | 78.3 |
 | 21 | leoli | submission.py | 5cdac4 | 87.4 |
 | 22 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 89.2 |
-| 23 | ishan-pat | develop.py | 75d32d | 108.0 |
+| 23 | ishan-pat | submission.py | 564670 | 107.0 |
 | 24 | alifim | submission.py | 701077 | 109.2 |
 | 25 | ashaikh23 | submission.py | 1ce409 | 109.7 |
 | 26 | beratcelik | submission.py | 11c1b8 | 110.5 |

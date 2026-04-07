@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 10:02:12 PM ET`
+Last updated: `April 06, 2026 at 10:12:36 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 10:12 PM ET | jl | evaluated |  | submission.py | 2b391c | 58.2/4.3/62.5 | 464.5 | 267.8 | 118.2 | 199.1 |
+| Apr 06 10:09 PM ET | ishan-pat | evaluated |  | submission.py | 564670 | 39.6/3.6/43.2 | 520.6 | 259.2 | 55.1 | 107.0 |
+| Apr 06 10:06 PM ET | TheProphet | evaluated |  | develop.py | 2c0f6c | 28.3/3.0/31.3 | 381.5 | 382.4 | 24.1 | 46.6 |
+| Apr 06 10:03 PM ET | JasonWang07 | evaluated |  | submission.py | 7e56c0 | 20.9/3.1/24.0 | 553.2 | 335.8 | 74.0 | 89.7 |
 | Apr 06 09:59 PM ET | PurplePickle67 | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 9636ff | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 06 09:56 PM ET | TheProphet | evaluated |  | submission.py | 2c0f6c | 28.4/3.0/31.4 | 378.0 | 382.2 | 24.2 | 46.5 |
 | Apr 06 09:46 PM ET | Sulaiman Alam | failed_correctness | R1: ERR: subprocess failed with exit code 1 \| R2: ERR: subprocess failed with exit code 1 \| R3: ERR: subprocess faile... | submission.py | bb69e8 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
