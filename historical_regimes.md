@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 11:18:38 PM ET`
+Last updated: `April 06, 2026 at 11:29:55 PM ET`
 
 ## R1 (tok/s)
 
@@ -34,25 +34,26 @@ Last updated: `April 06, 2026 at 11:18:38 PM ET`
 | 26 | stefan | develop.py | 9a25e1 | 539.1 |
 | 27 | ishan-pat | develop.py | 75d32d | 537.5 |
 | 28 | sjb | develop.py | 3359ec | 537.0 |
-| 29 | lipphi | submission.py | a3a71b | 534.8 |
-| 30 | gravlax | develop.py | 1f23d9 | 534.6 |
-| 31 | chickfila | submission.py | 29860a | 534.6 |
-| 32 | pyjuan91 | submission.py | 268544 | 531.0 |
-| 33 | bl792 | submission.py | 3b3a8a | 528.5 |
-| 34 | ethanchen | submission.py | a0d359 | 528.1 |
-| 35 | pallavi-srinivas | develop.py | b3ca1f | 527.5 |
-| 36 | Rithvik | submission.py | 1a7556 | 527.1 |
-| 37 | Yize | submission.py | e17a72 | 525.6 |
-| 38 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
-| 39 | yoursun1220 | submission.py | f4e2be | 524.2 |
-| 40 | nicknam534534 | submission.py | 1bad48 | 524.1 |
-| 41 | hw_bloss | submission.py | 2d26da | 523.5 |
-| 42 | Licha | submission.py | 8fdc3a | 521.4 |
-| 43 | PurplePickle67 | submission.py | 231258 | 519.1 |
-| 44 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
-| 45 | ngoguen | submission.py | a5cdb8 | 515.9 |
-| 46 | tuo | submission.py | 4274da | 507.3 |
-| 47 | Decode_speed | submission.py | 097a6b | 104.5 |
+| 29 | omermoav | submission.py | 84f67a | 537.0 |
+| 30 | lipphi | submission.py | a3a71b | 534.8 |
+| 31 | gravlax | develop.py | 1f23d9 | 534.6 |
+| 32 | chickfila | submission.py | 29860a | 534.6 |
+| 33 | pyjuan91 | submission.py | 268544 | 531.0 |
+| 34 | bl792 | submission.py | 3b3a8a | 528.5 |
+| 35 | ethanchen | submission.py | a0d359 | 528.1 |
+| 36 | pallavi-srinivas | develop.py | b3ca1f | 527.5 |
+| 37 | Rithvik | submission.py | 1a7556 | 527.1 |
+| 38 | Yize | submission.py | e17a72 | 525.6 |
+| 39 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
+| 40 | yoursun1220 | submission.py | f4e2be | 524.2 |
+| 41 | nicknam534534 | submission.py | 1bad48 | 524.1 |
+| 42 | hw_bloss | submission.py | 2d26da | 523.5 |
+| 43 | Licha | submission.py | 8fdc3a | 521.4 |
+| 44 | PurplePickle67 | submission.py | 231258 | 519.1 |
+| 45 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
+| 46 | ngoguen | submission.py | a5cdb8 | 515.9 |
+| 47 | tuo | submission.py | 4274da | 507.3 |
+| 48 | Decode_speed | submission.py | 097a6b | 104.5 |
 
 ## R2 (tok/s)
 

@@ -1,9 +1,15 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 11:18:38 PM ET`
+Last updated: `April 06, 2026 at 11:29:55 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 11:29 PM ET | vallabkaranam | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 190e6a | 19.9/6.2/26.1 | 526.3 | 170.3 | 307.0 | 245.2 |
+| Apr 06 11:28 PM ET | jl | evaluated |  | develop.py | 8b6423 | 19.1/3.5/22.7 | 571.3 | 312.0 | 102.1 | 148.3 |
+| Apr 06 11:26 PM ET | abhik | failed_correctness | R1: SETUP: ERR: UserError: Consider annotating your code using torch._check*(). Could not extract specialized integer... | develop.py | 93ffca | 17.4/1.3/18.7 | 0.0 | 0.0 | 141.8 | 174.7 |
+| Apr 06 11:25 PM ET | PurplePickle67 | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 377d8f | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 06 11:20 PM ET | omermoav | failed_correctness | R2: SETUP: ERR: ValueError: Expect query and key/value to have the same number of heads but got Hq=14 and Hkv=2. Try ... | submission.py | 84f67a | 22.0/1.0/23.0 | 537.0 | 0.0 | 0.0 | 0.0 |
+| Apr 06 11:20 PM ET | JasonWang07 | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | develop.py | 3615bf | 23.4/2.4/25.9 | 554.8 | 335.8 | 0.0 | 0.0 |
 | Apr 06 11:18 PM ET | jl | evaluated |  | submission.py | 8b6423 | 19.2/3.5/22.7 | 569.1 | 311.6 | 102.6 | 149.1 |
 | Apr 06 11:17 PM ET | ashaikh23 | evaluated |  | submission.py | 716cc4 | 20.6/3.1/23.7 | 542.3 | 337.0 | 58.8 | 109.9 |
 | Apr 06 11:15 PM ET | abhik | failed_correctness | R1: SETUP: ERR: UserError: Consider annotating your code using torch._check*(). Could not extract specialized integer... | submission.py | 93ffca | 21.1/1.3/22.3 | 0.0 | 0.0 | 140.3 | 172.6 |
