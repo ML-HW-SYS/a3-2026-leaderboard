@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 01:55:41 PM ET`
+Last updated: `April 07, 2026 at 02:04:21 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 02:00 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.75%) \| max_abs_diff=12.18 | submission.py | f7860c | 69.3/2.5/71.8 | 563.9 | 382.8 | 24.0 | 46.3 |
 | Apr 07 01:45 PM ET | nickname55555555 | evaluated |  | develop.py | 20d1ac | 28.4/2.8/31.1 | 551.3 | 334.4 | 31.1 | 50.7 |
 | Apr 07 01:37 PM ET | nickname55555555 | evaluated |  | submission.py | 20d1ac | 28.2/2.8/31.0 | 551.4 | 334.2 | 30.9 | 50.6 |
 | Apr 07 01:07 PM ET | nickname55555555 | evaluated |  | develop.py | f60ff5 | 25.2/4.0/29.2 | 348.9 | 231.3 | 31.3 | 50.6 |

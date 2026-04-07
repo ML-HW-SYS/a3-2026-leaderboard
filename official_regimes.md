@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 01:55:41 PM ET`
+Last updated: `April 07, 2026 at 02:04:21 PM ET`
 
 ## R1 (tok/s)
 
@@ -60,7 +60,7 @@ Last updated: `April 07, 2026 at 01:55:41 PM ET`
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | c0ce1d |  |
+|  | TheProphet | failed | f7860c |  |
 |  | vallabkaranam | failed | ff628b |  |
 |  | Yize | failed | 531e28 |  |
 
@@ -122,7 +122,7 @@ Last updated: `April 07, 2026 at 01:55:41 PM ET`
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | c0ce1d |  |
+|  | TheProphet | failed | f7860c |  |
 |  | vallabkaranam | failed | ff628b |  |
 |  | Yize | failed | 531e28 |  |
 
@@ -184,7 +184,7 @@ Last updated: `April 07, 2026 at 01:55:41 PM ET`
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | c0ce1d |  |
+|  | TheProphet | failed | f7860c |  |
 |  | vallabkaranam | failed | ff628b |  |
 |  | Yize | failed | 531e28 |  |
 
@@ -246,6 +246,6 @@ Last updated: `April 07, 2026 at 01:55:41 PM ET`
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | c0ce1d |  |
+|  | TheProphet | failed | f7860c |  |
 |  | vallabkaranam | failed | ff628b |  |
 |  | Yize | failed | 531e28 |  |
