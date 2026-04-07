@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 06:31:33 PM ET`
+Last updated: `April 07, 2026 at 06:39:20 PM ET`
 
 ## R1 (tok/s)
 
@@ -57,7 +57,7 @@ Last updated: `April 07, 2026 at 06:31:33 PM ET`
 | 49 | abhik | evaluated | bf55dc | 157.9 |
 | 50 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | happyface | failed | e106b2 |  |
+|  | happyface | failed | c29ca5 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -119,7 +119,7 @@ Last updated: `April 07, 2026 at 06:31:33 PM ET`
 | 49 | pyjuan91 | evaluated | dac8eb | 117.3 |
 | 50 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | happyface | failed | e106b2 |  |
+|  | happyface | failed | c29ca5 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -181,7 +181,7 @@ Last updated: `April 07, 2026 at 06:31:33 PM ET`
 | 49 | Decode_speed | evaluated | 097a6b | 412.7 |
 | 50 | pyjuan91 | evaluated | dac8eb | 609.9 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | happyface | failed | e106b2 |  |
+|  | happyface | failed | c29ca5 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -243,7 +243,7 @@ Last updated: `April 07, 2026 at 06:31:33 PM ET`
 | 49 | Decode_speed | evaluated | 097a6b | 270.3 |
 | 50 | pyjuan91 | evaluated | dac8eb | 370.5 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | happyface | failed | e106b2 |  |
+|  | happyface | failed | c29ca5 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | SIUUU | failed | ad9184 |  |

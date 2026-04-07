@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 07, 2026 at 06:31:33 PM ET`
+Last updated: `April 07, 2026 at 06:39:20 PM ET`
 
 ## Pages
 
@@ -63,7 +63,7 @@ Last updated: `April 07, 2026 at 06:31:33 PM ET`
 | 49 | pyjuan91 | evaluated | dac8eb | 21.9/9.3/31.2 | 0.367 | 528.2 | 117.3 | 609.9 | 370.5 |
 | 50 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
-|  | happyface | failed | e106b2 | 20.8/6.4/27.2 |  |  |  |  |  |
+|  | happyface | failed | c29ca5 | 18.8/3.5/22.3 |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
 |  | poppyPotatoe | failed | aa5125 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
