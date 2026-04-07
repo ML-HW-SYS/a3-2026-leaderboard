@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 10:03:08 AM ET`
+Last updated: `April 07, 2026 at 10:12:02 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 10:10 AM ET | ishan-pat | evaluated |  | develop.py | 73b7ce | 23.3/3.6/26.9 | 522.0 | 258.4 | 56.2 | 108.7 |
+| Apr 07 10:08 AM ET | PurplePickle67 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | 3ae5c2 | 49.7/3.2/52.8 | 535.3 | 274.2 | 36.6 | 52.5 |
 | Apr 07 10:01 AM ET | ishan-pat | evaluated |  | submission.py | 73b7ce | 39.9/3.6/43.5 | 523.6 | 258.2 | 56.7 | 109.1 |
 | Apr 07 09:52 AM ET | PurplePickle67 | evaluated |  | submission.py | 6060f9 | 33.2/3.3/36.5 | 490.5 | 268.2 | 36.6 | 52.3 |
 | Apr 07 09:29 AM ET | PurplePickle67 | evaluated |  | submission.py | 27e572 | 38.0/3.3/41.4 | 475.6 | 269.3 | 36.6 | 52.3 |
