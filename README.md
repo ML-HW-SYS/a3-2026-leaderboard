@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 07, 2026 at 01:41:16 AM ET`
+Last updated: `April 07, 2026 at 01:49:27 AM ET`
 
 ## Pages
 
@@ -55,10 +55,10 @@ Last updated: `April 07, 2026 at 01:41:16 AM ET`
 | 41 | yoursun1220 | evaluated | d8b590 | 19.8/6.2/26.1 | 0.524 | 521.8 | 169.2 | 310.7 | 250.1 |
 | 42 | ngoguen | evaluated | a5cdb8 | 40.8/6.2/47.0 | 0.523 | 515.9 | 169.7 | 310.3 | 249.7 |
 | 43 | jbc | evaluated | 12bb20 | 21.1/6.3/27.4 | 0.522 | 520.4 | 169.0 | 311.3 | 251.3 |
-| 44 | abhik | evaluated | bf55dc | 16.0/8.5/24.5 | 0.485 | 157.9 | 127.8 | 140.5 | 172.5 |
-| 45 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
-| 46 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
-|  | act | failed | 974d5d |  |  |  |  |  |  |
+| 44 | act | evaluated | 48522c | 39.6/6.3/45.9 | 0.520 | 513.9 | 168.6 | 311.9 | 251.8 |
+| 45 | abhik | evaluated | bf55dc | 16.0/8.5/24.5 | 0.485 | 157.9 | 127.8 | 140.5 | 172.5 |
+| 46 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
+| 47 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
 |  | nickname55555555 | failed | 138f26 | 70.3/2.6/72.8 |  |  |  |  |  |

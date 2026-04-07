@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 01:41:16 AM ET`
+Last updated: `April 07, 2026 at 01:49:27 AM ET`
 
 ## R1 (tok/s)
 
@@ -47,12 +47,12 @@ Last updated: `April 07, 2026 at 01:41:16 AM ET`
 | 39 | pallavi-srinivas | evaluated | 51aea6 | 517.6 |
 | 40 | ngoguen | evaluated | a5cdb8 | 515.9 |
 | 41 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 42 | Rithvik | evaluated | 2924a0 | 495.8 |
-| 43 | tuo | evaluated | 3d6d40 | 494.8 |
-| 44 | PurplePickle67 | evaluated | 6d549a | 488.4 |
-| 45 | abhik | evaluated | bf55dc | 157.9 |
-| 46 | Decode_speed | evaluated | 097a6b | 104.5 |
-|  | act | failed | 974d5d |  |
+| 42 | act | evaluated | 48522c | 513.9 |
+| 43 | Rithvik | evaluated | 2924a0 | 495.8 |
+| 44 | tuo | evaluated | 3d6d40 | 494.8 |
+| 45 | PurplePickle67 | evaluated | 6d549a | 488.4 |
+| 46 | abhik | evaluated | bf55dc | 157.9 |
+| 47 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | nickname55555555 | failed | 138f26 |  |
@@ -111,10 +111,10 @@ Last updated: `April 07, 2026 at 01:41:16 AM ET`
 | 41 | hw_bloss | evaluated | 4c9666 | 169.1 |
 | 42 | jbc | evaluated | 12bb20 | 169.0 |
 | 43 | fishyfins | evaluated | 2ac776 | 168.7 |
-| 44 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 45 | abhik | evaluated | bf55dc | 127.8 |
-| 46 | Decode_speed | evaluated | 097a6b | 77.3 |
-|  | act | failed | 974d5d |  |
+| 44 | act | evaluated | 48522c | 168.6 |
+| 45 | nicknam534534 | evaluated | 1bad48 | 148.4 |
+| 46 | abhik | evaluated | bf55dc | 127.8 |
+| 47 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | nickname55555555 | failed | 138f26 |  |
@@ -174,9 +174,9 @@ Last updated: `April 07, 2026 at 01:41:16 AM ET`
 | 42 | ngoguen | evaluated | a5cdb8 | 310.3 |
 | 43 | yoursun1220 | evaluated | d8b590 | 310.7 |
 | 44 | jbc | evaluated | 12bb20 | 311.3 |
-| 45 | nicknam534534 | evaluated | 1bad48 | 405.4 |
-| 46 | Decode_speed | evaluated | 097a6b | 412.7 |
-|  | act | failed | 974d5d |  |
+| 45 | act | evaluated | 48522c | 311.9 |
+| 46 | nicknam534534 | evaluated | 1bad48 | 405.4 |
+| 47 | Decode_speed | evaluated | 097a6b | 412.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | nickname55555555 | failed | 138f26 |  |
@@ -236,9 +236,9 @@ Last updated: `April 07, 2026 at 01:41:16 AM ET`
 | 42 | ngoguen | evaluated | a5cdb8 | 249.7 |
 | 43 | yoursun1220 | evaluated | d8b590 | 250.1 |
 | 44 | jbc | evaluated | 12bb20 | 251.3 |
-| 45 | nicknam534534 | evaluated | 1bad48 | 269.2 |
-| 46 | Decode_speed | evaluated | 097a6b | 270.3 |
-|  | act | failed | 974d5d |  |
+| 45 | act | evaluated | 48522c | 251.8 |
+| 46 | nicknam534534 | evaluated | 1bad48 | 269.2 |
+| 47 | Decode_speed | evaluated | 097a6b | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | nickname55555555 | failed | 138f26 |  |
