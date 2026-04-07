@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 02:23:15 AM ET`
+Last updated: `April 07, 2026 at 02:31:37 AM ET`
 
 ## R1 (tok/s)
 
@@ -12,13 +12,13 @@ Last updated: `April 07, 2026 at 02:23:15 AM ET`
 | 4 | zhumengzhiren | develop.py | cf2924 | 571.1 |
 | 5 | TheProphet | submission.py | 0a9c73 | 567.2 |
 | 6 | beratcelik | submission.py | ecf890 | 564.7 |
-| 7 | abarat007 | develop.py | d7f626 | 562.9 |
-| 8 | JasonWang07 | submission.py | 1b4aca | 561.1 |
-| 9 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 560.4 |
-| 10 | your_nickname_here | submission.py | 59e245 | 559.6 |
-| 11 | blabrl | develop.py | 9873f9 | 559.5 |
-| 12 | chyyy | submission.py | 56b321 | 557.7 |
-| 13 | ashaikh23 | submission.py | 8d7015 | 557.2 |
+| 7 | ashaikh23 | submission.py | 062f0e | 563.6 |
+| 8 | abarat007 | develop.py | d7f626 | 562.9 |
+| 9 | JasonWang07 | submission.py | 1b4aca | 561.1 |
+| 10 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 560.4 |
+| 11 | your_nickname_here | submission.py | 59e245 | 559.6 |
+| 12 | blabrl | develop.py | 9873f9 | 559.5 |
+| 13 | chyyy | submission.py | 56b321 | 557.7 |
 | 14 | prousoglou | submission.py | 570c63 | 556.7 |
 | 15 | TA | submission.py | a6e863 | 556.6 |
 | 16 | nickname55555555 | submission.py | 138f26 | 555.5 |
@@ -74,7 +74,7 @@ Last updated: `April 07, 2026 at 02:23:15 AM ET`
 | 10 | gm | develop.py | fd15e9 | 357.3 |
 | 11 | sjb | develop.py | 7fb492 | 347.4 |
 | 12 | Shengwei | submission.py | bd7526 | 347.3 |
-| 13 | ashaikh23 | submission.py | c872d8 | 342.0 |
+| 13 | ashaikh23 | submission.py | 062f0e | 343.5 |
 | 14 | JasonWang07 | develop.py | 3272aa | 337.1 |
 | 15 | Rithvik | submission.py | 2924a0 | 335.8 |
 | 16 | nickname55555555 | submission.py | 138f26 | 334.8 |
