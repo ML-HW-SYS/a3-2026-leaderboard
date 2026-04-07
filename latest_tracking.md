@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 12:45:35 PM ET`
+Last updated: `April 07, 2026 at 12:53:44 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 12:49 PM ET | Yize | failed_correctness | R1: SETUP: ERR: RuntimeError: Decode path requires quantized packed weights/scales (no fallback). \| R2: SETUP: ERR: U... | submission.py | 531e28 | 15.5/0.8/16.3 | 0.0 | 0.0 | 76.6 | 129.0 |
+| Apr 07 12:48 PM ET | pallavi-srinivas | evaluated |  | develop.py | bd1b29 | 19.5/5.0/24.5 | 543.3 | 206.6 | 190.8 | 192.9 |
 | Apr 07 12:28 PM ET | PurplePickle67 | evaluated |  | submission.py | 68d34e | 32.7/3.0/35.7 | 520.5 | 303.7 | 37.3 | 52.1 |
 | Apr 07 12:25 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.75%) \| max_abs_diff=12.18 | develop.py | c0ce1d | 30.9/2.5/33.5 | 560.5 | 383.0 | 24.1 | 46.5 |
 | Apr 07 12:17 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.75%) \| max_abs_diff=12.18 | submission.py | c0ce1d | 80.6/2.5/83.1 | 559.8 | 382.4 | 24.2 | 46.4 |

@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 12:45:35 PM ET`
+Last updated: `April 07, 2026 at 12:53:44 PM ET`
 
 ## R1 (tok/s)
 
@@ -27,8 +27,8 @@ Last updated: `April 07, 2026 at 12:45:35 PM ET`
 | 19 | leoli | submission.py | 7ef4b9 | 544.9 |
 | 20 | happyface | develop.py | 7255fc | 544.6 |
 | 21 | Shengwei | submission.py | 33733e | 543.9 |
-| 22 | 13rabbit | submission.py | fe30c9 | 543.0 |
-| 23 | pallavi-srinivas | submission.py | dd405c | 541.9 |
+| 22 | pallavi-srinivas | develop.py | bd1b29 | 543.3 |
+| 23 | 13rabbit | submission.py | fe30c9 | 543.0 |
 | 24 | alifim | develop.py | ad261a | 541.7 |
 | 25 | landrum | develop.py | b61e15 | 540.9 |
 | 26 | andrasferenczy | submission.py | 6204c7 | 540.6 |
@@ -149,7 +149,7 @@ Last updated: `April 07, 2026 at 12:45:35 PM ET`
 | 27 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 70.9 |
 | 28 | leoli | submission.py | 5cdac4 | 71.0 |
 | 29 | ethanchen | submission.py | bf6f9e | 74.0 |
-| 30 | Yize | develop.py | 59426e | 80.6 |
+| 30 | Yize | submission.py | 531e28 | 76.6 |
 | 31 | TA | submission.py | 324cb8 | 83.2 |
 | 32 | 13rabbit | develop.py | b38df9 | 100.0 |
 | 33 | jl | submission.py | e6ce85 | 101.9 |
