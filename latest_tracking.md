@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 09:20:48 PM ET`
+Last updated: `April 06, 2026 at 09:30:06 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 09:28 PM ET | ishan-pat | evaluated |  | develop.py | 75d32d | 29.5/3.6/33.1 | 537.5 | 259.7 | 57.0 | 108.0 |
+| Apr 06 09:26 PM ET | PurplePickle67 | evaluated |  | submission.py | aa6890 | 31.0/5.7/36.6 | 487.2 | 120.0 | 36.7 | 52.4 |
+| Apr 06 09:24 PM ET | TheProphet | evaluated |  | submission.py | aa6c51 | 27.4/4.5/31.9 | 175.8 | 381.5 | 24.0 | 46.5 |
 | Apr 06 09:19 PM ET | ishan-pat | evaluated |  | submission.py | 75d32d | 50.8/3.6/54.4 | 535.3 | 258.3 | 57.3 | 109.9 |
 | Apr 06 09:08 PM ET | TheProphet | evaluated |  | develop.py | 0d7b83 | 27.5/4.5/32.0 | 179.1 | 381.0 | 24.1 | 46.6 |
 | Apr 06 09:00 PM ET | TheProphet | evaluated |  | submission.py | 0d7b83 | 28.0/4.7/32.7 | 168.8 | 381.4 | 24.1 | 46.5 |

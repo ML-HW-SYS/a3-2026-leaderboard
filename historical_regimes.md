@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 09:20:48 PM ET`
+Last updated: `April 06, 2026 at 09:30:06 PM ET`
 
 ## R1 (tok/s)
 
@@ -32,8 +32,8 @@ Last updated: `April 06, 2026 at 09:20:48 PM ET`
 | 24 | andrasferenczy | submission.py | 6204c7 | 540.6 |
 | 25 | abhik | develop.py | 41a3ec | 539.5 |
 | 26 | stefan | develop.py | 9a25e1 | 539.1 |
-| 27 | sjb | develop.py | 3359ec | 537.0 |
-| 28 | ishan-pat | submission.py | 75d32d | 535.3 |
+| 27 | ishan-pat | develop.py | 75d32d | 537.5 |
+| 28 | sjb | develop.py | 3359ec | 537.0 |
 | 29 | lipphi | submission.py | a3a71b | 534.8 |
 | 30 | gravlax | develop.py | 1f23d9 | 534.6 |
 | 31 | chickfila | submission.py | 29860a | 534.6 |
@@ -83,8 +83,8 @@ Last updated: `April 06, 2026 at 09:20:48 PM ET`
 | 23 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
 | 24 | gravlax | develop.py | b1229d | 273.0 |
 | 25 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
-| 26 | happyface | develop.py | 0aca52 | 259.4 |
-| 27 | ishan-pat | submission.py | 75d32d | 258.3 |
+| 26 | ishan-pat | develop.py | 75d32d | 259.7 |
+| 27 | happyface | develop.py | 0aca52 | 259.4 |
 | 28 | pyjuan91 | submission.py | 7ff296 | 256.3 |
 | 29 | ethanchen | submission.py | ea518d | 251.2 |
 | 30 | Yize | submission.py | e17a72 | 249.1 |
@@ -110,7 +110,7 @@ Last updated: `April 06, 2026 at 09:20:48 PM ET`
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | submission.py | adc0f3 | 21.8 |
-| 2 | TheProphet | develop.py | 1759bd | 24.0 |
+| 2 | TheProphet | submission.py | aa6c51 | 24.0 |
 | 3 | chyyy | submission.py | 34cc06 | 24.8 |
 | 4 | gm | submission.py | 2898fc | 26.8 |
 | 5 | Rithvik | submission.py | 8e6767 | 26.9 |
@@ -127,7 +127,7 @@ Last updated: `April 06, 2026 at 09:20:48 PM ET`
 | 16 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 43.1 |
 | 17 | Shengwei | submission.py | bd7526 | 45.6 |
 | 18 | sjb | develop.py | 4cba09 | 50.5 |
-| 19 | ishan-pat | submission.py | 75d32d | 57.3 |
+| 19 | ishan-pat | develop.py | 75d32d | 57.0 |
 | 20 | ashaikh23 | submission.py | d98c0b | 58.8 |
 | 21 | happyface | submission.py | 9f7886 | 63.4 |
 | 22 | alifim | submission.py | 701077 | 64.8 |
@@ -182,7 +182,7 @@ Last updated: `April 06, 2026 at 09:20:48 PM ET`
 | 20 | JasonWang07 | develop.py | f27837 | 78.3 |
 | 21 | leoli | submission.py | 5cdac4 | 87.4 |
 | 22 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 89.2 |
-| 23 | ishan-pat | develop.py | 345520 | 109.0 |
+| 23 | ishan-pat | develop.py | 75d32d | 108.0 |
 | 24 | alifim | submission.py | 701077 | 109.2 |
 | 25 | ashaikh23 | submission.py | 1ce409 | 109.7 |
 | 26 | beratcelik | submission.py | 11c1b8 | 110.5 |
