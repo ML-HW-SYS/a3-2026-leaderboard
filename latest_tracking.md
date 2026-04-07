@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 05:05:34 PM ET`
+Last updated: `April 07, 2026 at 05:13:48 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 05:09 PM ET | Yize | evaluated |  | submission.py | 3f5ad4 | 43.7/3.8/47.6 | 519.4 | 248.9 | 81.5 | 114.6 |
 | Apr 07 05:04 PM ET | landrum | evaluated |  | submission.py | 61ab81 | 22.7/3.1/25.8 | 535.7 | 276.9 | 29.9 | 53.7 |
 | Apr 07 04:56 PM ET | landrum | evaluated |  | develop.py | 4d2d51 | 40.7/3.1/43.9 | 537.4 | 276.3 | 29.6 | 53.5 |
 | Apr 07 04:30 PM ET | stefan | failed_correctness | Correctness FAIL \| R1 (87.52%), R2 (83.28%), R3 (78.40%), R4 (83.54%) \| max_abs_diff=15.27 | develop.py | 58b69b | 67.2/6.7/73.9 | 540.2 | 143.5 | 317.1 | 238.6 |

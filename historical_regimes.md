@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 05:05:34 PM ET`
+Last updated: `April 07, 2026 at 05:13:48 PM ET`
 
 ## R1 (tok/s)
 
@@ -206,8 +206,8 @@ Last updated: `April 07, 2026 at 05:05:34 PM ET`
 | 27 | alifim | submission.py | 701077 | 109.2 |
 | 28 | beratcelik | submission.py | 11c1b8 | 110.5 |
 | 29 | Junyi Li | submission.py | c7a1b3 | 113.1 |
-| 30 | ethanchen | submission.py | bf6f9e | 123.0 |
-| 31 | Yize | submission.py | d04433 | 128.5 |
+| 30 | Yize | submission.py | 3f5ad4 | 114.6 |
+| 31 | ethanchen | submission.py | bf6f9e | 123.0 |
 | 32 | TA | submission.py | 324cb8 | 131.7 |
 | 33 | nicknam534534 | develop.py | cd4c9b | 134.6 |
 | 34 | 13rabbit | develop.py | b38df9 | 142.0 |

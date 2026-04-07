@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 05:05:34 PM ET`
+Last updated: `April 07, 2026 at 05:13:48 PM ET`
 
 ## R1 (tok/s)
 
@@ -37,18 +37,18 @@ Last updated: `April 07, 2026 at 05:05:34 PM ET`
 | 29 | gravlax | evaluated | b1229d | 532.3 |
 | 30 | pyjuan91 | evaluated | dac8eb | 528.2 |
 | 31 | Junyi Li | evaluated | c7a1b3 | 527.3 |
-| 32 | Yize | evaluated | e17a72 | 526.0 |
-| 33 | yb | evaluated | ea23ab | 525.9 |
-| 34 | bl792 | evaluated | 09cd73 | 524.7 |
-| 35 | nicknam534534 | evaluated | 1bad48 | 524.1 |
-| 36 | act | evaluated | 899777 | 523.9 |
-| 37 | ethanchen | evaluated | ea518d | 523.7 |
-| 38 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 39 | fishyfins | evaluated | 6c0e20 | 522.0 |
-| 40 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 41 | Licha | evaluated | 8fdc3a | 521.4 |
-| 42 | PurplePickle67 | evaluated | 68d34e | 520.5 |
-| 43 | jbc | evaluated | 12bb20 | 520.4 |
+| 32 | yb | evaluated | ea23ab | 525.9 |
+| 33 | bl792 | evaluated | 09cd73 | 524.7 |
+| 34 | nicknam534534 | evaluated | 1bad48 | 524.1 |
+| 35 | act | evaluated | 899777 | 523.9 |
+| 36 | ethanchen | evaluated | ea518d | 523.7 |
+| 37 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 38 | fishyfins | evaluated | 6c0e20 | 522.0 |
+| 39 | yoursun1220 | evaluated | d8b590 | 521.8 |
+| 40 | Licha | evaluated | 8fdc3a | 521.4 |
+| 41 | PurplePickle67 | evaluated | 68d34e | 520.5 |
+| 42 | jbc | evaluated | 12bb20 | 520.4 |
+| 43 | Yize | evaluated | 3f5ad4 | 519.4 |
 | 44 | ishan-pat | evaluated | fddca1 | 518.1 |
 | 45 | ngoguen | evaluated | a5cdb8 | 515.9 |
 | 46 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
@@ -97,7 +97,7 @@ Last updated: `April 07, 2026 at 05:05:34 PM ET`
 | 27 | ishan-pat | evaluated | fddca1 | 259.2 |
 | 28 | happyface | evaluated | 7e8b61 | 258.2 |
 | 29 | ethanchen | evaluated | ea518d | 251.2 |
-| 30 | Yize | evaluated | e17a72 | 249.7 |
+| 30 | Yize | evaluated | 3f5ad4 | 248.9 |
 | 31 | 13rabbit | evaluated | b38df9 | 242.9 |
 | 32 | bl792 | evaluated | 09cd73 | 238.8 |
 | 33 | beratcelik | evaluated | 863a89 | 231.2 |
@@ -159,7 +159,7 @@ Last updated: `April 07, 2026 at 05:05:34 PM ET`
 | 27 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
 | 28 | leoli | evaluated | 5cdac4 | 71.0 |
 | 29 | ethanchen | evaluated | ea518d | 74.4 |
-| 30 | Yize | evaluated | e17a72 | 80.8 |
+| 30 | Yize | evaluated | 3f5ad4 | 81.5 |
 | 31 | TA | evaluated | a6e863 | 85.6 |
 | 32 | 13rabbit | evaluated | b38df9 | 100.3 |
 | 33 | jl | evaluated | 8b6423 | 102.6 |
@@ -220,8 +220,8 @@ Last updated: `April 07, 2026 at 05:05:34 PM ET`
 | 26 | ishan-pat | evaluated | fddca1 | 111.8 |
 | 27 | Junyi Li | evaluated | c7a1b3 | 113.1 |
 | 28 | beratcelik | evaluated | 863a89 | 113.8 |
-| 29 | ethanchen | evaluated | ea518d | 123.6 |
-| 30 | Yize | evaluated | e17a72 | 129.9 |
+| 29 | Yize | evaluated | 3f5ad4 | 114.6 |
+| 30 | ethanchen | evaluated | ea518d | 123.6 |
 | 31 | TA | evaluated | a6e863 | 135.6 |
 | 32 | 13rabbit | evaluated | b38df9 | 142.7 |
 | 33 | jl | evaluated | 8b6423 | 149.1 |
