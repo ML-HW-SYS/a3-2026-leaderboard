@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 07, 2026 at 11:30:18 AM ET`
+Last updated: `April 07, 2026 at 11:38:57 AM ET`
 
 ## Pages
 
@@ -30,7 +30,7 @@ Last updated: `April 07, 2026 at 11:30:18 AM ET`
 | 16 | bl792 | evaluated | 09cd73 | 18.3/3.5/21.8 | 1.438 | 524.7 | 238.8 | 32.4 | 59.9 |
 | 17 | Shengwei | evaluated | bd7526 | 19.3/2.9/22.1 | 1.415 | 540.5 | 347.3 | 45.6 | 68.0 |
 | 18 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 41.6/3.3/44.9 | 1.370 | 515.1 | 266.6 | 43.1 | 59.9 |
-| 19 | JasonWang07 | evaluated | a99db4 | 63.9/3.0/66.9 | 1.230 | 556.8 | 334.7 | 68.6 | 78.7 |
+| 19 | JasonWang07 | evaluated | 2ecd91 | 38.3/3.0/41.3 | 1.230 | 556.4 | 341.5 | 69.1 | 79.5 |
 | 20 | happyface | evaluated | 7e8b61 | 18.5/3.4/22.0 | 1.219 | 543.0 | 258.2 | 63.7 | 66.0 |
 | 21 | alifim | evaluated | 701077 | 30.0/3.0/33.0 | 1.178 | 539.6 | 381.2 | 64.8 | 109.2 |
 | 22 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 37.2/3.1/40.3 | 1.177 | 560.4 | 326.5 | 70.9 | 89.2 |
