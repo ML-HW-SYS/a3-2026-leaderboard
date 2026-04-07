@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 07, 2026 at 12:22:44 AM ET`
+Last updated: `April 07, 2026 at 12:32:13 AM ET`
 
 ## Pages
 
@@ -54,19 +54,20 @@ Last updated: `April 07, 2026 at 12:22:44 AM ET`
 | 40 | pallavi-srinivas | evaluated | 51aea6 | 19.8/6.2/26.0 | 0.524 | 517.6 | 170.0 | 308.9 | 249.3 |
 | 41 | yoursun1220 | evaluated | d8b590 | 19.8/6.2/26.1 | 0.524 | 521.8 | 169.2 | 310.7 | 250.1 |
 | 42 | ngoguen | evaluated | a5cdb8 | 40.8/6.2/47.0 | 0.523 | 515.9 | 169.7 | 310.3 | 249.7 |
-| 43 | abhik | evaluated | 254451 | 16.4/7.8/24.2 | 0.510 | 171.8 | 143.9 | 140.5 | 172.7 |
+| 43 | jbc | evaluated | 12bb20 | 21.1/6.3/27.4 | 0.522 | 520.4 | 169.0 | 311.3 | 251.3 |
 | 44 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
 | 45 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
+|  | abhik | failed | a98dcd | 15.7/5.0/20.7 |  |  |  |  |  |
+|  | act | failed | 4e8b73 | 27.1/6.2/33.3 |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | JasonWang07 | failed | 9f01bd | 44.1/2.4/46.6 |  |  |  |  |  |
-|  | jbc | failed | 4e7308 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
 |  | poppyPotatoe | failed | aa5125 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | pyjuan91 | failed | f93d3b | 21.8/9.3/31.1 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | Sulaiman Alam | failed | bb69e8 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | TheProphet | failed | 407c9a | 30.7/1.6/32.3 |  |  |  |  |  |
-|  | vallabkaranam | failed | 62c177 |  |  |  |  |  |  |
+|  | vallabkaranam | failed | eb67f2 |  |  |  |  |  |  |
 |  | yb | failed | 8ca88e | 0.0/0.0/0.0 |  |  |  |  |  |
 
 ## Column Guide

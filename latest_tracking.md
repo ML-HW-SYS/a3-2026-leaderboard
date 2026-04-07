@@ -1,9 +1,14 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 12:22:44 AM ET`
+Last updated: `April 07, 2026 at 12:32:13 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 12:32 AM ET | vallabkaranam | failed_security | Security policy check failed for submission.py: \| - prohibited import: importlib.util \| - prohibited import: pathlib | submission.py | eb67f2 |  |  |  |  |  |
+| Apr 07 12:30 AM ET | abhik | failed_correctness | R1: SETUP: ERR: RuntimeError: shape '[1, 1, 896]' is invalid for input of size 236544 | submission.py | a98dcd | 15.7/5.0/20.7 | 0.0 | 135.4 | 140.4 | 173.0 |
+| Apr 07 12:28 AM ET | nickname55555555 | evaluated |  | develop.py | cde7cb | 23.3/5.6/28.9 | 536.5 | 177.4 | 275.1 | 176.2 |
+| Apr 07 12:27 AM ET | act | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 4e8b73 | 27.1/6.2/33.3 | 519.3 | 170.2 | 307.3 | 245.8 |
+| Apr 07 12:25 AM ET | jbc | evaluated |  | submission.py | 12bb20 | 21.1/6.3/27.4 | 520.4 | 169.0 | 311.3 | 251.3 |
 | Apr 07 12:22 AM ET | vallabkaranam | failed_security | Security policy check failed for submission.py: \| - prohibited import: importlib.util \| - prohibited import: pathlib | submission.py | 62c177 |  |  |  |  |  |
 | Apr 07 12:21 AM ET | ashaikh23 | evaluated |  | submission.py | 1d496e | 44.2/3.2/47.3 | 533.9 | 333.9 | 59.1 | 109.6 |
 | Apr 07 12:19 AM ET | abhik | evaluated |  | submission.py | 254451 | 16.4/7.8/24.2 | 171.8 | 143.9 | 140.5 | 172.7 |
