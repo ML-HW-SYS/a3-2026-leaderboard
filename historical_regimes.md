@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 04:25:20 PM ET`
+Last updated: `April 07, 2026 at 04:34:51 PM ET`
 
 ## R1 (tok/s)
 
@@ -36,10 +36,10 @@ Last updated: `April 07, 2026 at 04:25:20 PM ET`
 | 28 | stefan | develop.py | 9a25e1 | 539.1 |
 | 29 | ishan-pat | develop.py | 75d32d | 537.5 |
 | 30 | sjb | develop.py | 3359ec | 537.0 |
-| 31 | lipphi | submission.py | a3a71b | 534.8 |
-| 32 | gravlax | develop.py | 1f23d9 | 534.6 |
-| 33 | chickfila | submission.py | 29860a | 534.6 |
-| 34 | pyjuan91 | submission.py | 268544 | 531.0 |
+| 31 | pyjuan91 | develop.py | 776564 | 535.4 |
+| 32 | lipphi | submission.py | a3a71b | 534.8 |
+| 33 | gravlax | develop.py | 1f23d9 | 534.6 |
+| 34 | chickfila | submission.py | 29860a | 534.6 |
 | 35 | Junyi Li | submission.py | 2e381b | 529.4 |
 | 36 | bl792 | submission.py | 3b3a8a | 528.5 |
 | 37 | ethanchen | submission.py | a0d359 | 528.1 |
