@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 12:57:41 AM ET`
+Last updated: `April 07, 2026 at 01:06:04 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 01:06 AM ET | vallabkaranam | failed_security | Security policy check failed for develop.py: \| - prohibited import: importlib.util \| - prohibited import: pathlib | develop.py | 6ec27b |  |  |  |  |  |
+| Apr 07 01:01 AM ET | act | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 427125 | 15.9/9.7/25.6 | 168.8 | 114.6 | 308.3 | 246.6 |
+| Apr 07 12:59 AM ET | JasonWang07 | evaluated |  | develop.py | 3272aa | 25.4/3.0/28.4 | 555.8 | 337.1 | 70.7 | 79.0 |
 | Apr 07 12:57 AM ET | vallabkaranam | failed_security | Security policy check failed for develop.py: \| - prohibited import: importlib.util \| - prohibited import: pathlib | develop.py | 0c0232 |  |  |  |  |  |
 | Apr 07 12:56 AM ET | ashaikh23 | failed_correctness | R1: SETUP: ERR: CompilationError: at 70:21: kpack = gi * BLOCK_K8 + offs_k8 w_ptrs = w_ptr + kpack[:, None] * stride_... | submission.py | f899ce | 27.5/2.0/29.5 | 0.0 | 395.4 | 59.4 | 111.0 |
 | Apr 07 12:50 AM ET | JasonWang07 | evaluated |  | submission.py | 3272aa | 42.0/3.0/45.0 | 556.8 | 335.3 | 71.3 | 79.6 |

@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 12:57:41 AM ET`
+Last updated: `April 07, 2026 at 01:06:04 AM ET`
 
 ## R1 (tok/s)
 
@@ -73,7 +73,7 @@ Last updated: `April 07, 2026 at 12:57:41 AM ET`
 | 10 | gm | develop.py | fd15e9 | 357.3 |
 | 11 | sjb | develop.py | 7fb492 | 347.4 |
 | 12 | Shengwei | submission.py | bd7526 | 347.3 |
-| 13 | JasonWang07 | develop.py | 414385 | 337.0 |
+| 13 | JasonWang07 | develop.py | 3272aa | 337.1 |
 | 14 | ashaikh23 | submission.py | 716cc4 | 337.0 |
 | 15 | Rithvik | submission.py | 2924a0 | 335.8 |
 | 16 | nickname55555555 | develop.py | 99ddc2 | 334.4 |
