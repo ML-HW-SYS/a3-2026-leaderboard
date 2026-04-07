@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 10:39:57 PM ET`
+Last updated: `April 06, 2026 at 10:48:11 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 10:43 PM ET | TheProphet | failed_correctness | R1: SETUP: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent ... | submission.py | cc54b3 | 46.0/1.6/47.6 | 0.0 | 384.0 | 24.1 | 46.6 |
 | Apr 06 10:39 PM ET | vallabkaranam | failed_security | Security policy check failed for develop.py: \| - prohibited import: importlib.util \| - prohibited import: pathlib | develop.py | 1f58e7 |  |  |  |  |  |
 | Apr 06 10:35 PM ET | TheProphet | evaluated |  | develop.py | 3a9c2e | 28.2/2.9/31.1 | 395.2 | 385.3 | 24.0 | 46.3 |
 | Apr 06 10:32 PM ET | JasonWang07 | evaluated |  | develop.py | 45d504 | 19.4/3.1/22.5 | 551.8 | 335.3 | 71.7 | 89.6 |
