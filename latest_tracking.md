@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 11:38:57 AM ET`
+Last updated: `April 07, 2026 at 11:48:05 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 11:45 AM ET | PurplePickle67 | evaluated |  | submission.py | f3c52f | 32.2/4.2/36.4 | 516.1 | 179.3 | 36.5 | 52.1 |
+| Apr 07 11:42 AM ET | pallavi-srinivas | evaluated |  | submission.py | 644fa9 | 19.5/5.0/24.5 | 540.9 | 206.7 | 191.0 | 193.3 |
+| Apr 07 11:40 AM ET | JasonWang07 | evaluated |  | develop.py | 2ecd91 | 27.4/3.0/30.4 | 557.2 | 343.1 | 68.6 | 78.7 |
 | Apr 07 11:36 AM ET | yb | evaluated |  | develop.py | 5c375f | 19.8/6.3/26.0 | 521.5 | 169.3 | 311.4 | 251.3 |
 | Apr 07 11:31 AM ET | JasonWang07 | evaluated |  | submission.py | 2ecd91 | 38.3/3.0/41.3 | 556.4 | 341.5 | 69.1 | 79.5 |
 | Apr 07 11:27 AM ET | PurplePickle67 | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | submission.py | 597d1d | 77.8/3.1/80.9 | 506.4 | 302.9 | 111.0 | 0.0 |
