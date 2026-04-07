@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 07, 2026 at 02:44:24 PM ET`
+Last updated: `April 07, 2026 at 02:52:14 PM ET`
 
 ## Pages
 
@@ -45,7 +45,7 @@ Last updated: `April 07, 2026 at 02:44:24 PM ET`
 | 31 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
 | 32 | 13rabbit | evaluated | b38df9 | 37.3/4.0/41.3 | 0.884 | 542.8 | 242.9 | 100.3 | 142.7 |
 | 33 | tuo | evaluated | 3d6d40 | 74.5/4.9/79.3 | 0.704 | 494.8 | 204.6 | 167.8 | 162.8 |
-| 34 | pallavi-srinivas | evaluated | 7df5d0 | 19.8/5.0/24.8 | 0.668 | 536.3 | 206.9 | 191.0 | 193.4 |
+| 34 | pallavi-srinivas | evaluated | 52387e | 19.5/5.0/24.5 | 0.670 | 539.7 | 207.4 | 190.9 | 192.7 |
 | 35 | Licha | evaluated | 8fdc3a | 38.5/5.3/43.8 | 0.625 | 521.4 | 192.4 | 202.7 | 215.0 |
 | 36 | landrum | evaluated | 7b5ab5 | 23.3/5.7/28.9 | 0.600 | 534.6 | 177.2 | 275.1 | 176.5 |
 | 37 | Sulaiman Alam | evaluated | c7ede2 | 21.7/5.8/27.5 | 0.545 | 511.2 | 197.4 | 308.7 | 245.0 |

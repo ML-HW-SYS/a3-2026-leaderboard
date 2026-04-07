@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 02:44:24 PM ET`
+Last updated: `April 07, 2026 at 02:52:14 PM ET`
 
 ## R1 (tok/s)
 
@@ -26,10 +26,10 @@ Last updated: `April 07, 2026 at 02:44:24 PM ET`
 | 18 | 13rabbit | evaluated | b38df9 | 542.8 |
 | 19 | gm | evaluated | 2898fc | 541.1 |
 | 20 | Shengwei | evaluated | bd7526 | 540.5 |
-| 21 | alifim | evaluated | 701077 | 539.6 |
-| 22 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
-| 23 | stefan | evaluated | a01e76 | 537.5 |
-| 24 | pallavi-srinivas | evaluated | 7df5d0 | 536.3 |
+| 21 | pallavi-srinivas | evaluated | 52387e | 539.7 |
+| 22 | alifim | evaluated | 701077 | 539.6 |
+| 23 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
+| 24 | stefan | evaluated | a01e76 | 537.5 |
 | 25 | sjb | evaluated | 373553 | 535.3 |
 | 26 | lipphi | evaluated | a3a71b | 534.8 |
 | 27 | landrum | evaluated | 7b5ab5 | 534.6 |
@@ -99,7 +99,7 @@ Last updated: `April 07, 2026 at 02:44:24 PM ET`
 | 29 | 13rabbit | evaluated | b38df9 | 242.9 |
 | 30 | bl792 | evaluated | 09cd73 | 238.8 |
 | 31 | beratcelik | evaluated | 863a89 | 231.2 |
-| 32 | pallavi-srinivas | evaluated | 7df5d0 | 206.9 |
+| 32 | pallavi-srinivas | evaluated | 52387e | 207.4 |
 | 33 | tuo | evaluated | 3d6d40 | 204.6 |
 | 34 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
 | 35 | Licha | evaluated | 8fdc3a | 192.4 |
@@ -164,7 +164,7 @@ Last updated: `April 07, 2026 at 02:44:24 PM ET`
 | 32 | lipphi | evaluated | a3a71b | 104.4 |
 | 33 | abhik | evaluated | bf55dc | 140.5 |
 | 34 | tuo | evaluated | 3d6d40 | 167.8 |
-| 35 | pallavi-srinivas | evaluated | 7df5d0 | 191.0 |
+| 35 | pallavi-srinivas | evaluated | 52387e | 190.9 |
 | 36 | Licha | evaluated | 8fdc3a | 202.7 |
 | 37 | landrum | evaluated | 7b5ab5 | 275.1 |
 | 38 | hw_bloss | evaluated | 4c9666 | 308.1 |
@@ -227,7 +227,7 @@ Last updated: `April 07, 2026 at 02:44:24 PM ET`
 | 33 | tuo | evaluated | 3d6d40 | 162.8 |
 | 34 | abhik | evaluated | bf55dc | 172.5 |
 | 35 | landrum | evaluated | 7b5ab5 | 176.5 |
-| 36 | pallavi-srinivas | evaluated | 7df5d0 | 193.4 |
+| 36 | pallavi-srinivas | evaluated | 52387e | 192.7 |
 | 37 | Licha | evaluated | 8fdc3a | 215.0 |
 | 38 | hw_bloss | evaluated | 4c9666 | 239.1 |
 | 39 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
