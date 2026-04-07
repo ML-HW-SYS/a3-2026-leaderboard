@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 07, 2026 at 09:13:49 AM ET`
+Last updated: `April 07, 2026 at 09:22:38 AM ET`
 
 ## Pages
 
@@ -66,7 +66,7 @@ Last updated: `April 07, 2026 at 09:13:49 AM ET`
 |  | poppyPotatoe | failed | aa5125 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | pyjuan91 | failed | f93d3b | 21.8/9.3/31.1 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | TheProphet | failed | 407c9a | 30.7/1.6/32.3 |  |  |  |  |  |
+|  | TheProphet | failed | f2403c | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | vallabkaranam | failed | 2bdea4 |  |  |  |  |  |  |
 |  | yb | failed | 2771a2 | 39.2/6.2/45.4 |  |  |  |  |  |
 

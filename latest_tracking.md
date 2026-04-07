@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 09:13:49 AM ET`
+Last updated: `April 07, 2026 at 09:22:38 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 09:18 AM ET | TheProphet | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | f2403c | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 07 09:07 AM ET | Sulaiman Alam | evaluated |  | develop.py | c7ede2 | 21.7/5.8/27.5 | 516.9 | 197.3 | 309.2 | 244.4 |
 | Apr 07 08:59 AM ET | Sulaiman Alam | evaluated |  | submission.py | c7ede2 | 21.7/5.8/27.5 | 511.2 | 197.4 | 308.7 | 245.0 |
 | Apr 07 08:20 AM ET | ashaikh23 | evaluated |  | submission.py | 84a425 | 26.9/2.6/29.5 | 555.4 | 372.1 | 29.1 | 50.2 |
