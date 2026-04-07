@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 04:57:41 PM ET`
+Last updated: `April 07, 2026 at 05:05:34 PM ET`
 
 ## R1 (tok/s)
 
@@ -30,9 +30,9 @@ Last updated: `April 07, 2026 at 04:57:41 PM ET`
 | 22 | alifim | evaluated | 701077 | 539.6 |
 | 23 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
 | 24 | stefan | evaluated | a01e76 | 537.5 |
-| 25 | sjb | evaluated | 373553 | 535.3 |
-| 26 | lipphi | evaluated | a3a71b | 534.8 |
-| 27 | landrum | evaluated | 7b5ab5 | 534.6 |
+| 25 | landrum | evaluated | 61ab81 | 535.7 |
+| 26 | sjb | evaluated | 373553 | 535.3 |
+| 27 | lipphi | evaluated | a3a71b | 534.8 |
 | 28 | chickfila | evaluated | f0956d | 534.5 |
 | 29 | gravlax | evaluated | b1229d | 532.3 |
 | 30 | pyjuan91 | evaluated | dac8eb | 528.2 |
@@ -91,20 +91,20 @@ Last updated: `April 07, 2026 at 04:57:41 PM ET`
 | 21 | PurplePickle67 | evaluated | 68d34e | 303.7 |
 | 22 | TA | evaluated | a6e863 | 294.5 |
 | 23 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
-| 24 | gravlax | evaluated | b1229d | 272.5 |
-| 25 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
-| 26 | ishan-pat | evaluated | fddca1 | 259.2 |
-| 27 | happyface | evaluated | 7e8b61 | 258.2 |
-| 28 | ethanchen | evaluated | ea518d | 251.2 |
-| 29 | Yize | evaluated | e17a72 | 249.7 |
-| 30 | 13rabbit | evaluated | b38df9 | 242.9 |
-| 31 | bl792 | evaluated | 09cd73 | 238.8 |
-| 32 | beratcelik | evaluated | 863a89 | 231.2 |
-| 33 | pallavi-srinivas | evaluated | 52387e | 207.4 |
-| 34 | tuo | evaluated | 3d6d40 | 204.6 |
-| 35 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
-| 36 | Licha | evaluated | 8fdc3a | 192.4 |
-| 37 | landrum | evaluated | 7b5ab5 | 177.2 |
+| 24 | landrum | evaluated | 61ab81 | 276.9 |
+| 25 | gravlax | evaluated | b1229d | 272.5 |
+| 26 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
+| 27 | ishan-pat | evaluated | fddca1 | 259.2 |
+| 28 | happyface | evaluated | 7e8b61 | 258.2 |
+| 29 | ethanchen | evaluated | ea518d | 251.2 |
+| 30 | Yize | evaluated | e17a72 | 249.7 |
+| 31 | 13rabbit | evaluated | b38df9 | 242.9 |
+| 32 | bl792 | evaluated | 09cd73 | 238.8 |
+| 33 | beratcelik | evaluated | 863a89 | 231.2 |
+| 34 | pallavi-srinivas | evaluated | 52387e | 207.4 |
+| 35 | tuo | evaluated | 3d6d40 | 204.6 |
+| 36 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
+| 37 | Licha | evaluated | 8fdc3a | 192.4 |
 | 38 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 39 | stefan | evaluated | a01e76 | 170.0 |
 | 40 | ngoguen | evaluated | a5cdb8 | 169.7 |
@@ -137,37 +137,37 @@ Last updated: `April 07, 2026 at 04:57:41 PM ET`
 | 5 | zhumengzhiren | evaluated | cf2924 | 28.0 |
 | 6 | abarat007 | evaluated | d7f626 | 28.1 |
 | 7 | ashaikh23 | evaluated | 84a425 | 29.1 |
-| 8 | nickname55555555 | evaluated | 20d1ac | 30.9 |
-| 9 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
-| 10 | bl792 | evaluated | 09cd73 | 32.4 |
-| 11 | blabrl | evaluated | ca60eb | 33.7 |
-| 12 | prousoglou | evaluated | 570c63 | 34.7 |
-| 13 | chickfila | evaluated | f0956d | 34.7 |
-| 14 | gravlax | evaluated | b1229d | 35.0 |
-| 15 | omermoav | evaluated | b01c0e | 35.2 |
-| 16 | PurplePickle67 | evaluated | 68d34e | 37.3 |
-| 17 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
-| 18 | Shengwei | evaluated | bd7526 | 45.6 |
-| 19 | sjb | evaluated | 373553 | 50.8 |
-| 20 | ishan-pat | evaluated | fddca1 | 56.0 |
-| 21 | Junyi Li | evaluated | c7a1b3 | 60.9 |
-| 22 | happyface | evaluated | 7e8b61 | 63.7 |
-| 23 | alifim | evaluated | 701077 | 64.8 |
-| 24 | beratcelik | evaluated | 863a89 | 68.2 |
-| 25 | JasonWang07 | evaluated | a4b405 | 70.8 |
-| 26 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
-| 27 | leoli | evaluated | 5cdac4 | 71.0 |
-| 28 | ethanchen | evaluated | ea518d | 74.4 |
-| 29 | Yize | evaluated | e17a72 | 80.8 |
-| 30 | TA | evaluated | a6e863 | 85.6 |
-| 31 | 13rabbit | evaluated | b38df9 | 100.3 |
-| 32 | jl | evaluated | 8b6423 | 102.6 |
-| 33 | lipphi | evaluated | a3a71b | 104.4 |
-| 34 | abhik | evaluated | bf55dc | 140.5 |
-| 35 | tuo | evaluated | 3d6d40 | 167.8 |
-| 36 | pallavi-srinivas | evaluated | 52387e | 190.9 |
-| 37 | Licha | evaluated | 8fdc3a | 202.7 |
-| 38 | landrum | evaluated | 7b5ab5 | 275.1 |
+| 8 | landrum | evaluated | 61ab81 | 29.9 |
+| 9 | nickname55555555 | evaluated | 20d1ac | 30.9 |
+| 10 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
+| 11 | bl792 | evaluated | 09cd73 | 32.4 |
+| 12 | blabrl | evaluated | ca60eb | 33.7 |
+| 13 | prousoglou | evaluated | 570c63 | 34.7 |
+| 14 | chickfila | evaluated | f0956d | 34.7 |
+| 15 | gravlax | evaluated | b1229d | 35.0 |
+| 16 | omermoav | evaluated | b01c0e | 35.2 |
+| 17 | PurplePickle67 | evaluated | 68d34e | 37.3 |
+| 18 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
+| 19 | Shengwei | evaluated | bd7526 | 45.6 |
+| 20 | sjb | evaluated | 373553 | 50.8 |
+| 21 | ishan-pat | evaluated | fddca1 | 56.0 |
+| 22 | Junyi Li | evaluated | c7a1b3 | 60.9 |
+| 23 | happyface | evaluated | 7e8b61 | 63.7 |
+| 24 | alifim | evaluated | 701077 | 64.8 |
+| 25 | beratcelik | evaluated | 863a89 | 68.2 |
+| 26 | JasonWang07 | evaluated | a4b405 | 70.8 |
+| 27 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
+| 28 | leoli | evaluated | 5cdac4 | 71.0 |
+| 29 | ethanchen | evaluated | ea518d | 74.4 |
+| 30 | Yize | evaluated | e17a72 | 80.8 |
+| 31 | TA | evaluated | a6e863 | 85.6 |
+| 32 | 13rabbit | evaluated | b38df9 | 100.3 |
+| 33 | jl | evaluated | 8b6423 | 102.6 |
+| 34 | lipphi | evaluated | a3a71b | 104.4 |
+| 35 | abhik | evaluated | bf55dc | 140.5 |
+| 36 | tuo | evaluated | 3d6d40 | 167.8 |
+| 37 | pallavi-srinivas | evaluated | 52387e | 190.9 |
+| 38 | Licha | evaluated | 8fdc3a | 202.7 |
 | 39 | fishyfins | evaluated | 6c0e20 | 304.6 |
 | 40 | hw_bloss | evaluated | 4c9666 | 308.1 |
 | 41 | your_nickname_here | evaluated | f10b9b | 308.1 |
@@ -203,31 +203,31 @@ Last updated: `April 07, 2026 at 04:57:41 PM ET`
 | 9 | abarat007 | evaluated | d7f626 | 51.5 |
 | 10 | PurplePickle67 | evaluated | 68d34e | 52.1 |
 | 11 | sjb | evaluated | 373553 | 53.6 |
-| 12 | gravlax | evaluated | b1229d | 59.7 |
-| 13 | bl792 | evaluated | 09cd73 | 59.9 |
-| 14 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 59.9 |
-| 15 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
-| 16 | omermoav | evaluated | b01c0e | 64.6 |
-| 17 | blabrl | evaluated | ca60eb | 65.2 |
-| 18 | prousoglou | evaluated | 570c63 | 65.3 |
-| 19 | happyface | evaluated | 7e8b61 | 66.0 |
-| 20 | Shengwei | evaluated | bd7526 | 68.0 |
-| 21 | leoli | evaluated | 5cdac4 | 87.4 |
-| 22 | JasonWang07 | evaluated | a4b405 | 88.9 |
-| 23 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
-| 24 | alifim | evaluated | 701077 | 109.2 |
-| 25 | ishan-pat | evaluated | fddca1 | 111.8 |
-| 26 | Junyi Li | evaluated | c7a1b3 | 113.1 |
-| 27 | beratcelik | evaluated | 863a89 | 113.8 |
-| 28 | ethanchen | evaluated | ea518d | 123.6 |
-| 29 | Yize | evaluated | e17a72 | 129.9 |
-| 30 | TA | evaluated | a6e863 | 135.6 |
-| 31 | 13rabbit | evaluated | b38df9 | 142.7 |
-| 32 | jl | evaluated | 8b6423 | 149.1 |
-| 33 | lipphi | evaluated | a3a71b | 150.9 |
-| 34 | tuo | evaluated | 3d6d40 | 162.8 |
-| 35 | abhik | evaluated | bf55dc | 172.5 |
-| 36 | landrum | evaluated | 7b5ab5 | 176.5 |
+| 12 | landrum | evaluated | 61ab81 | 53.7 |
+| 13 | gravlax | evaluated | b1229d | 59.7 |
+| 14 | bl792 | evaluated | 09cd73 | 59.9 |
+| 15 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 59.9 |
+| 16 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
+| 17 | omermoav | evaluated | b01c0e | 64.6 |
+| 18 | blabrl | evaluated | ca60eb | 65.2 |
+| 19 | prousoglou | evaluated | 570c63 | 65.3 |
+| 20 | happyface | evaluated | 7e8b61 | 66.0 |
+| 21 | Shengwei | evaluated | bd7526 | 68.0 |
+| 22 | leoli | evaluated | 5cdac4 | 87.4 |
+| 23 | JasonWang07 | evaluated | a4b405 | 88.9 |
+| 24 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
+| 25 | alifim | evaluated | 701077 | 109.2 |
+| 26 | ishan-pat | evaluated | fddca1 | 111.8 |
+| 27 | Junyi Li | evaluated | c7a1b3 | 113.1 |
+| 28 | beratcelik | evaluated | 863a89 | 113.8 |
+| 29 | ethanchen | evaluated | ea518d | 123.6 |
+| 30 | Yize | evaluated | e17a72 | 129.9 |
+| 31 | TA | evaluated | a6e863 | 135.6 |
+| 32 | 13rabbit | evaluated | b38df9 | 142.7 |
+| 33 | jl | evaluated | 8b6423 | 149.1 |
+| 34 | lipphi | evaluated | a3a71b | 150.9 |
+| 35 | tuo | evaluated | 3d6d40 | 162.8 |
+| 36 | abhik | evaluated | bf55dc | 172.5 |
 | 37 | pallavi-srinivas | evaluated | 52387e | 192.7 |
 | 38 | Licha | evaluated | 8fdc3a | 215.0 |
 | 39 | fishyfins | evaluated | 6c0e20 | 232.9 |
