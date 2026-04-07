@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 10:31:36 PM ET`
+Last updated: `April 06, 2026 at 10:39:57 PM ET`
 
 ## R1 (tok/s)
 
@@ -62,7 +62,7 @@ Last updated: `April 06, 2026 at 10:31:36 PM ET`
 | 2 | chyyy | submission.py | 34cc06 | 433.8 |
 | 3 | chickfila | submission.py | f0956d | 398.8 |
 | 4 | - - | submission.py | adc0f3 | 386.9 |
-| 5 | TheProphet | submission.py | 3a9c2e | 385.0 |
+| 5 | TheProphet | develop.py | 3a9c2e | 385.3 |
 | 6 | blabrl | develop.py | 9873f9 | 383.8 |
 | 7 | alifim | submission.py | 701077 | 381.2 |
 | 8 | abarat007 | submission.py | d7f626 | 378.6 |
@@ -110,7 +110,7 @@ Last updated: `April 06, 2026 at 10:31:36 PM ET`
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | submission.py | adc0f3 | 21.8 |
-| 2 | TheProphet | submission.py | aa6c51 | 24.0 |
+| 2 | TheProphet | develop.py | 3a9c2e | 24.0 |
 | 3 | chyyy | submission.py | 34cc06 | 24.8 |
 | 4 | gm | submission.py | 2898fc | 26.8 |
 | 5 | Rithvik | submission.py | 8e6767 | 26.9 |

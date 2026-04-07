@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 10:31:36 PM ET`
+Last updated: `April 06, 2026 at 10:39:57 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 10:39 PM ET | vallabkaranam | failed_security | Security policy check failed for develop.py: \| - prohibited import: importlib.util \| - prohibited import: pathlib | develop.py | 1f58e7 |  |  |  |  |  |
+| Apr 06 10:35 PM ET | TheProphet | evaluated |  | develop.py | 3a9c2e | 28.2/2.9/31.1 | 395.2 | 385.3 | 24.0 | 46.3 |
+| Apr 06 10:32 PM ET | JasonWang07 | evaluated |  | develop.py | 45d504 | 19.4/3.1/22.5 | 551.8 | 335.3 | 71.7 | 89.6 |
 | Apr 06 10:31 PM ET | vallabkaranam | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 1f58e7 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 06 10:27 PM ET | TheProphet | evaluated |  | submission.py | 3a9c2e | 28.1/2.9/31.0 | 394.5 | 385.0 | 24.1 | 46.4 |
 | Apr 06 10:25 PM ET | sjb | failed_correctness | R2: ERR: hard timeout exceeded (worker killed) \| R3: ERR: total timeout exceeded before regime start \| R4: ERR: total... | develop.py | f083e7 | 55.7/0.7/56.5 | 696.1 | 0.0 | 0.0 | 0.0 |
