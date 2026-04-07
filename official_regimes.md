@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 12:04:52 PM ET`
+Last updated: `April 07, 2026 at 12:13:22 PM ET`
 
 ## R1 (tok/s)
 
@@ -46,11 +46,11 @@ Last updated: `April 07, 2026 at 12:04:52 PM ET`
 | 38 | yoursun1220 | evaluated | d8b590 | 521.8 |
 | 39 | Licha | evaluated | 8fdc3a | 521.4 |
 | 40 | jbc | evaluated | 12bb20 | 520.4 |
-| 41 | ishan-pat | evaluated | fddca1 | 518.1 |
-| 42 | ngoguen | evaluated | a5cdb8 | 515.9 |
-| 43 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 44 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
-| 45 | PurplePickle67 | evaluated | 2a5f1a | 505.6 |
+| 41 | PurplePickle67 | evaluated | fbac65 | 519.2 |
+| 42 | ishan-pat | evaluated | fddca1 | 518.1 |
+| 43 | ngoguen | evaluated | a5cdb8 | 515.9 |
+| 44 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 45 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
 | 46 | Rithvik | evaluated | 2924a0 | 495.8 |
 | 47 | tuo | evaluated | 3d6d40 | 494.8 |
 | 48 | abhik | evaluated | bf55dc | 157.9 |
@@ -88,22 +88,22 @@ Last updated: `April 07, 2026 at 12:04:52 PM ET`
 | 18 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
 | 19 | jl | evaluated | 8b6423 | 311.6 |
 | 20 | lipphi | evaluated | a3a71b | 306.7 |
-| 21 | TA | evaluated | a6e863 | 294.5 |
-| 22 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
-| 23 | gravlax | evaluated | b1229d | 272.5 |
-| 24 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
-| 25 | ishan-pat | evaluated | fddca1 | 259.2 |
-| 26 | happyface | evaluated | 7e8b61 | 258.2 |
-| 27 | ethanchen | evaluated | ea518d | 251.2 |
-| 28 | Yize | evaluated | e17a72 | 249.1 |
-| 29 | 13rabbit | evaluated | b38df9 | 242.9 |
-| 30 | bl792 | evaluated | 09cd73 | 238.8 |
-| 31 | beratcelik | evaluated | 863a89 | 231.2 |
-| 32 | pallavi-srinivas | evaluated | 644fa9 | 206.7 |
-| 33 | tuo | evaluated | 3d6d40 | 204.6 |
-| 34 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
-| 35 | Licha | evaluated | 8fdc3a | 192.4 |
-| 36 | PurplePickle67 | evaluated | 2a5f1a | 179.3 |
+| 21 | PurplePickle67 | evaluated | fbac65 | 302.9 |
+| 22 | TA | evaluated | a6e863 | 294.5 |
+| 23 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
+| 24 | gravlax | evaluated | b1229d | 272.5 |
+| 25 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
+| 26 | ishan-pat | evaluated | fddca1 | 259.2 |
+| 27 | happyface | evaluated | 7e8b61 | 258.2 |
+| 28 | ethanchen | evaluated | ea518d | 251.2 |
+| 29 | Yize | evaluated | e17a72 | 249.1 |
+| 30 | 13rabbit | evaluated | b38df9 | 242.9 |
+| 31 | bl792 | evaluated | 09cd73 | 238.8 |
+| 32 | beratcelik | evaluated | 863a89 | 231.2 |
+| 33 | pallavi-srinivas | evaluated | 644fa9 | 206.7 |
+| 34 | tuo | evaluated | 3d6d40 | 204.6 |
+| 35 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
+| 36 | Licha | evaluated | 8fdc3a | 192.4 |
 | 37 | landrum | evaluated | 7b5ab5 | 177.2 |
 | 38 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 39 | stefan | evaluated | a01e76 | 170.0 |
@@ -145,7 +145,7 @@ Last updated: `April 07, 2026 at 12:04:52 PM ET`
 | 13 | chickfila | evaluated | f0956d | 34.7 |
 | 14 | gravlax | evaluated | b1229d | 35.0 |
 | 15 | omermoav | evaluated | b01c0e | 35.2 |
-| 16 | PurplePickle67 | evaluated | 2a5f1a | 36.7 |
+| 16 | PurplePickle67 | evaluated | fbac65 | 36.7 |
 | 17 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
 | 18 | Shengwei | evaluated | bd7526 | 45.6 |
 | 19 | sjb | evaluated | 373553 | 50.8 |
@@ -240,7 +240,7 @@ Last updated: `April 07, 2026 at 12:04:52 PM ET`
 | 46 | jbc | evaluated | 12bb20 | 251.3 |
 | 47 | nicknam534534 | evaluated | 1bad48 | 269.2 |
 | 48 | Decode_speed | evaluated | 097a6b | 270.3 |
-| 49 | PurplePickle67 | evaluated | 2a5f1a | 318.5 |
+| 49 | PurplePickle67 | evaluated | fbac65 | 317.8 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | d204b8 |  |
 |  | mdavalos10 | failed | b601f0 |  |

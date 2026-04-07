@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 12:04:52 PM ET`
+Last updated: `April 07, 2026 at 12:13:22 PM ET`
 
 ## R1 (tok/s)
 
@@ -53,7 +53,7 @@ Last updated: `April 07, 2026 at 12:04:52 PM ET`
 | 45 | hw_bloss | submission.py | 2d26da | 523.5 |
 | 46 | Licha | submission.py | 8fdc3a | 521.4 |
 | 47 | jbc | submission.py | 12bb20 | 520.4 |
-| 48 | PurplePickle67 | submission.py | 231258 | 519.1 |
+| 48 | PurplePickle67 | submission.py | fbac65 | 519.2 |
 | 49 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
 | 50 | ngoguen | submission.py | a5cdb8 | 515.9 |
 | 51 | tuo | submission.py | 4274da | 507.3 |
