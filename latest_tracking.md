@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 10:12:36 PM ET`
+Last updated: `April 06, 2026 at 10:21:35 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 10:21 PM ET | jl | evaluated |  | develop.py | 2b391c | 27.2/4.3/31.5 | 459.7 | 267.2 | 118.2 | 200.0 |
+| Apr 06 10:19 PM ET | ishan-pat | evaluated |  | develop.py | 564670 | 23.3/3.6/26.9 | 525.0 | 259.0 | 55.1 | 107.9 |
+| Apr 06 10:13 PM ET | JasonWang07 | evaluated |  | develop.py | 7e56c0 | 21.1/3.1/24.2 | 549.1 | 336.0 | 73.3 | 88.8 |
 | Apr 06 10:12 PM ET | jl | evaluated |  | submission.py | 2b391c | 58.2/4.3/62.5 | 464.5 | 267.8 | 118.2 | 199.1 |
 | Apr 06 10:09 PM ET | ishan-pat | evaluated |  | submission.py | 564670 | 39.6/3.6/43.2 | 520.6 | 259.2 | 55.1 | 107.0 |
 | Apr 06 10:06 PM ET | TheProphet | evaluated |  | develop.py | 2c0f6c | 28.3/3.0/31.3 | 381.5 | 382.4 | 24.1 | 46.6 |
