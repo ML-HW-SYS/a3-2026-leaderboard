@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 02:38:57 AM ET`
+Last updated: `April 07, 2026 at 02:46:52 AM ET`
 
 ## R1 (tok/s)
 
@@ -10,14 +10,14 @@ Last updated: `April 07, 2026 at 02:38:57 AM ET`
 | 2 | jl | evaluated | 8b6423 | 569.1 |
 | 3 | zhumengzhiren | evaluated | cf2924 | 566.6 |
 | 4 | beratcelik | evaluated | 863a89 | 564.3 |
-| 5 | ashaikh23 | evaluated | 062f0e | 563.6 |
-| 6 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 560.4 |
-| 7 | abarat007 | evaluated | d7f626 | 559.5 |
-| 8 | your_nickname_here | evaluated | f10b9b | 557.8 |
-| 9 | blabrl | evaluated | ca60eb | 557.4 |
-| 10 | JasonWang07 | evaluated | 7c1824 | 556.9 |
-| 11 | prousoglou | evaluated | 570c63 | 556.7 |
-| 12 | TA | evaluated | a6e863 | 556.6 |
+| 5 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 560.4 |
+| 6 | abarat007 | evaluated | d7f626 | 559.5 |
+| 7 | your_nickname_here | evaluated | f10b9b | 557.8 |
+| 8 | blabrl | evaluated | ca60eb | 557.4 |
+| 9 | JasonWang07 | evaluated | 7c1824 | 556.9 |
+| 10 | prousoglou | evaluated | 570c63 | 556.7 |
+| 11 | TA | evaluated | a6e863 | 556.6 |
+| 12 | ashaikh23 | evaluated | 5ffca9 | 556.1 |
 | 13 | chyyy | evaluated | 34cc06 | 555.7 |
 | 14 | leoli | evaluated | 5cdac4 | 544.1 |
 | 15 | happyface | evaluated | 7e8b61 | 543.0 |
@@ -79,7 +79,7 @@ Last updated: `April 07, 2026 at 02:38:57 AM ET`
 | 9 | gm | evaluated | 2898fc | 357.0 |
 | 10 | Shengwei | evaluated | bd7526 | 347.3 |
 | 11 | sjb | evaluated | 373553 | 346.4 |
-| 12 | ashaikh23 | evaluated | 062f0e | 343.5 |
+| 12 | ashaikh23 | evaluated | 5ffca9 | 344.0 |
 | 13 | Rithvik | evaluated | 2924a0 | 335.8 |
 | 14 | JasonWang07 | evaluated | 7c1824 | 335.6 |
 | 15 | leoli | evaluated | 5cdac4 | 327.5 |
@@ -147,7 +147,7 @@ Last updated: `April 07, 2026 at 02:38:57 AM ET`
 | 15 | Shengwei | evaluated | bd7526 | 45.6 |
 | 16 | sjb | evaluated | 373553 | 50.8 |
 | 17 | ishan-pat | evaluated | 564670 | 55.1 |
-| 18 | ashaikh23 | evaluated | 062f0e | 59.7 |
+| 18 | ashaikh23 | evaluated | 5ffca9 | 58.9 |
 | 19 | Junyi Li | evaluated | c7a1b3 | 60.9 |
 | 20 | happyface | evaluated | 7e8b61 | 63.7 |
 | 21 | omermoav | evaluated | c75309 | 64.7 |
@@ -214,7 +214,7 @@ Last updated: `April 07, 2026 at 02:38:57 AM ET`
 | 20 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
 | 21 | ishan-pat | evaluated | 564670 | 107.0 |
 | 22 | alifim | evaluated | 701077 | 109.2 |
-| 23 | ashaikh23 | evaluated | 062f0e | 109.7 |
+| 23 | ashaikh23 | evaluated | 5ffca9 | 109.8 |
 | 24 | Junyi Li | evaluated | c7a1b3 | 113.1 |
 | 25 | beratcelik | evaluated | 863a89 | 113.8 |
 | 26 | ethanchen | evaluated | ea518d | 123.6 |
