@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 10:59:30 PM ET`
+Last updated: `April 06, 2026 at 11:08:40 PM ET`
 
 ## R1 (tok/s)
 
@@ -57,7 +57,7 @@ Last updated: `April 06, 2026 at 10:59:30 PM ET`
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | Sulaiman Alam | failed | bb69e8 |  |
-|  | TheProphet | failed | cc54b3 |  |
+|  | TheProphet | failed | 407c9a |  |
 |  | vallabkaranam | failed | 1f58e7 |  |
 |  | yb | failed | 8ca88e |  |
 
@@ -116,7 +116,7 @@ Last updated: `April 06, 2026 at 10:59:30 PM ET`
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | Sulaiman Alam | failed | bb69e8 |  |
-|  | TheProphet | failed | cc54b3 |  |
+|  | TheProphet | failed | 407c9a |  |
 |  | vallabkaranam | failed | 1f58e7 |  |
 |  | yb | failed | 8ca88e |  |
 
@@ -175,7 +175,7 @@ Last updated: `April 06, 2026 at 10:59:30 PM ET`
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | Sulaiman Alam | failed | bb69e8 |  |
-|  | TheProphet | failed | cc54b3 |  |
+|  | TheProphet | failed | 407c9a |  |
 |  | vallabkaranam | failed | 1f58e7 |  |
 |  | yb | failed | 8ca88e |  |
 
@@ -234,6 +234,6 @@ Last updated: `April 06, 2026 at 10:59:30 PM ET`
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | Sulaiman Alam | failed | bb69e8 |  |
-|  | TheProphet | failed | cc54b3 |  |
+|  | TheProphet | failed | 407c9a |  |
 |  | vallabkaranam | failed | 1f58e7 |  |
 |  | yb | failed | 8ca88e |  |

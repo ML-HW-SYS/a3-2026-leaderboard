@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 10:59:30 PM ET`
+Last updated: `April 06, 2026 at 11:08:40 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 11:04 PM ET | TheProphet | failed_correctness | R1: SETUP: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent ... | submission.py | 407c9a | 30.7/1.6/32.3 | 0.0 | 385.2 | 24.0 | 46.4 |
+| Apr 06 11:02 PM ET | sjb | evaluated |  | develop.py | 7fb492 | 28.2/2.9/31.0 | 533.1 | 347.4 | 50.4 | 53.4 |
+| Apr 06 11:00 PM ET | JasonWang07 | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | develop.py | 458323 | 23.4/2.4/25.9 | 558.5 | 335.7 | 0.0 | 0.0 |
 | Apr 06 10:56 PM ET | PurplePickle67 | evaluated |  | submission.py | 81f3a6 | 29.7/5.7/35.4 | 484.3 | 120.0 | 36.5 | 52.2 |
 | Apr 06 10:54 PM ET | TheProphet | failed_correctness | R1: SETUP: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent ... | develop.py | cc54b3 | 30.6/1.6/32.2 | 0.0 | 384.5 | 24.0 | 46.3 |
 | Apr 06 10:52 PM ET | sjb | failed_correctness | Correctness FAIL \| R1 (87.59%), R2 (66.66%) \| max_abs_diff=12.54 | develop.py | 68bfc0 | 78.3/2.4/80.7 | 694.3 | 410.6 | 50.6 | 53.8 |

@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 10:59:30 PM ET`
+Last updated: `April 06, 2026 at 11:08:40 PM ET`
 
 ## R1 (tok/s)
 
@@ -68,8 +68,8 @@ Last updated: `April 06, 2026 at 10:59:30 PM ET`
 | 8 | abarat007 | submission.py | d7f626 | 378.6 |
 | 9 | prousoglou | submission.py | 570c63 | 368.2 |
 | 10 | gm | develop.py | fd15e9 | 357.3 |
-| 11 | Shengwei | submission.py | bd7526 | 347.3 |
-| 12 | sjb | develop.py | 4cba09 | 347.2 |
+| 11 | sjb | develop.py | 7fb492 | 347.4 |
+| 12 | Shengwei | submission.py | bd7526 | 347.3 |
 | 13 | JasonWang07 | develop.py | 414385 | 337.0 |
 | 14 | ashaikh23 | submission.py | 5a4a7c | 336.6 |
 | 15 | Rithvik | submission.py | 2924a0 | 335.8 |
@@ -126,7 +126,7 @@ Last updated: `April 06, 2026 at 10:59:30 PM ET`
 | 15 | PurplePickle67 | submission.py | 2efdba | 36.3 |
 | 16 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 43.1 |
 | 17 | Shengwei | submission.py | bd7526 | 45.6 |
-| 18 | sjb | develop.py | 4cba09 | 50.5 |
+| 18 | sjb | develop.py | 7fb492 | 50.4 |
 | 19 | ishan-pat | submission.py | 564670 | 55.1 |
 | 20 | ashaikh23 | submission.py | d98c0b | 58.8 |
 | 21 | happyface | submission.py | 9f7886 | 63.4 |

@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 06, 2026 at 10:59:30 PM ET`
+Last updated: `April 06, 2026 at 11:08:40 PM ET`
 
 ## Pages
 
@@ -63,7 +63,7 @@ Last updated: `April 06, 2026 at 10:59:30 PM ET`
 |  | pyjuan91 | failed | f93d3b | 21.8/9.3/31.1 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | Sulaiman Alam | failed | bb69e8 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | TheProphet | failed | cc54b3 | 46.0/1.6/47.6 |  |  |  |  |  |
+|  | TheProphet | failed | 407c9a | 30.7/1.6/32.3 |  |  |  |  |  |
 |  | vallabkaranam | failed | 1f58e7 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | yb | failed | 8ca88e | 0.0/0.0/0.0 |  |  |  |  |  |
 
