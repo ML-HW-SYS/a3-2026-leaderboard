@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 03:14:50 PM ET`
+Last updated: `April 07, 2026 at 03:24:01 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 03:20 PM ET | fishyfins | evaluated |  | submission.py | 5c1585 | 20.0/8.3/28.3 | 523.9 | 129.8 | 512.6 | 341.1 |
+| Apr 07 03:19 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.75%) \| max_abs_diff=12.18 | submission.py | 2facb7 | 41.1/2.5/43.6 | 561.4 | 383.1 | 24.2 | 46.5 |
+| Apr 07 03:18 PM ET | Yize | evaluated |  | submission.py | e17a72 | 18.9/3.9/22.7 | 526.0 | 249.7 | 80.8 | 129.9 |
 | Apr 07 03:01 PM ET | pyjuan91 | evaluated |  | submission.py | dac8eb | 21.9/9.3/31.2 | 528.2 | 117.3 | 609.9 | 370.5 |
 | Apr 07 02:57 PM ET | abhik | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | 7d448c |  |  |  |  |  |
 | Apr 07 02:50 PM ET | abhik | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | ff8975 |  |  |  |  |  |

@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 03:14:50 PM ET`
+Last updated: `April 07, 2026 at 03:24:01 PM ET`
 
 ## R1 (tok/s)
 
@@ -44,8 +44,8 @@ Last updated: `April 07, 2026 at 03:14:50 PM ET`
 | 36 | bl792 | submission.py | 3b3a8a | 528.5 |
 | 37 | ethanchen | submission.py | a0d359 | 528.1 |
 | 38 | Rithvik | submission.py | 1a7556 | 527.1 |
-| 39 | yb | submission.py | ea23ab | 525.9 |
-| 40 | Yize | submission.py | e17a72 | 525.6 |
+| 39 | Yize | submission.py | e17a72 | 526.0 |
+| 40 | yb | submission.py | ea23ab | 525.9 |
 | 41 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
 | 42 | yoursun1220 | submission.py | f4e2be | 524.2 |
 | 43 | nicknam534534 | submission.py | 1bad48 | 524.1 |
@@ -94,7 +94,7 @@ Last updated: `April 07, 2026 at 03:14:50 PM ET`
 | 29 | happyface | develop.py | 0aca52 | 259.4 |
 | 30 | pyjuan91 | submission.py | 7ff296 | 256.3 |
 | 31 | ethanchen | submission.py | ea518d | 251.2 |
-| 32 | Yize | submission.py | e17a72 | 249.1 |
+| 32 | Yize | submission.py | e17a72 | 249.7 |
 | 33 | fishyfins | develop.py | 87e789 | 243.3 |
 | 34 | 13rabbit | develop.py | b38df9 | 243.3 |
 | 35 | bl792 | develop.py | 09cd73 | 239.0 |
