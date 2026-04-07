@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 10:56:02 AM ET`
+Last updated: `April 07, 2026 at 11:04:51 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 11:00 AM ET | TheProphet | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | develop.py | 6a40c3 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 07 10:56 AM ET | vallabkaranam | failed_security | Security policy check failed for submission.py: \| - prohibited call: compile \| - prohibited call: exec | submission.py | ff628b |  |  |  |  |  |
 | Apr 07 10:53 AM ET | yb | evaluated |  | develop.py | 2aa1a9 | 20.0/6.3/26.2 | 519.0 | 168.8 | 311.9 | 251.2 |
 | Apr 07 10:51 AM ET | TheProphet | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 6a40c3 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
