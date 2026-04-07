@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 08:29:30 PM ET`
+Last updated: `April 06, 2026 at 08:39:55 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 08:38 PM ET | blabrl | evaluated |  | submission.py | ca60eb | 19.3/2.6/21.9 | 557.4 | 383.3 | 33.7 | 65.2 |
+| Apr 06 08:36 PM ET | PurplePickle67 | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | submission.py | f948a5 | 79.4/5.3/84.8 | 479.2 | 119.6 | 0.0 | 0.0 |
+| Apr 06 08:33 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.75%) \| max_abs_diff=12.18 | develop.py | 37ec9e | 29.3/2.6/31.9 | 550.0 | 381.6 | 24.1 | 46.4 |
+| Apr 06 08:32 PM ET | Yize | evaluated |  | submission.py | e17a72 | 18.8/3.9/22.7 | 525.6 | 249.1 | 81.3 | 129.7 |
 | Apr 06 08:26 PM ET | PurplePickle67 | evaluated |  | submission.py | 476ec0 | 30.3/5.7/36.0 | 489.5 | 120.1 | 36.4 | 52.6 |
 | Apr 06 08:24 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.75%) \| max_abs_diff=12.18 | submission.py | 37ec9e | 40.0/2.5/42.6 | 553.3 | 381.7 | 24.2 | 46.5 |
 | Apr 06 08:17 PM ET | PurplePickle67 | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 94cd72 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
