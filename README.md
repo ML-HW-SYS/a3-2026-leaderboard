@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 07, 2026 at 07:36:16 PM ET`
+Last updated: `April 07, 2026 at 07:45:55 PM ET`
 
 ## Pages
 
@@ -46,7 +46,7 @@ Last updated: `April 07, 2026 at 07:36:16 PM ET`
 | 32 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
 | 33 | 13rabbit | evaluated | b38df9 | 37.3/4.0/41.3 | 0.884 | 542.8 | 242.9 | 100.3 | 142.7 |
 | 34 | tuo | evaluated | 3d6d40 | 74.5/4.9/79.3 | 0.704 | 494.8 | 204.6 | 167.8 | 162.8 |
-| 35 | pallavi-srinivas | evaluated | 52387e | 19.5/5.0/24.5 | 0.670 | 539.7 | 207.4 | 190.9 | 192.7 |
+| 35 | pallavi-srinivas | evaluated | b82073 | 39.1/5.0/44.0 | 0.670 | 539.0 | 207.1 | 190.5 | 192.2 |
 | 36 | Licha | evaluated | 8fdc3a | 38.5/5.3/43.8 | 0.625 | 521.4 | 192.4 | 202.7 | 215.0 |
 | 37 | pyjuan91 | evaluated | 9a264f | 26.1/5.7/31.8 | 0.592 | 517.1 | 176.3 | 276.5 | 177.6 |
 | 38 | Sulaiman Alam | evaluated | c7ede2 | 21.7/5.8/27.5 | 0.545 | 511.2 | 197.4 | 308.7 | 245.0 |
@@ -63,7 +63,7 @@ Last updated: `April 07, 2026 at 07:36:16 PM ET`
 | 49 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
 | 50 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
-|  | happyface | failed | 2db6fc | 0.0/0.0/0.0 |  |  |  |  |  |
+|  | happyface | failed | f60419 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
 |  | poppyPotatoe | failed | aa5125 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
