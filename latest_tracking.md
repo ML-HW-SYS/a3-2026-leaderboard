@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 05:48:15 PM ET`
+Last updated: `April 07, 2026 at 05:56:06 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 05:50 PM ET | pyjuan91 | evaluated |  | develop.py | 8e773c | 19.6/6.2/25.8 | 520.3 | 169.3 | 306.7 | 238.9 |
 | Apr 07 05:36 PM ET | stefan | failed_correctness | R1: SETUP: ERR: CompilationError: at 88:17: k_ptrs = ( k_ptr + b * stride_kb + hk * stride_kh + offs_t[:, None] * str... | develop.py | a93dd3 | 15.6/0.0/15.6 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 07 05:34 PM ET | pyjuan91 | evaluated |  | develop.py | 2b3655 | 19.7/6.2/25.8 | 525.1 | 169.9 | 306.8 | 238.4 |
 | Apr 07 05:27 PM ET | stefan | failed_correctness | Correctness FAIL \| R1 (87.52%), R2 (83.28%), R3 (78.43%), R4 (83.54%) \| max_abs_diff=15.27 | develop.py | 5906a6 | 19.7/6.8/26.5 | 536.5 | 143.6 | 322.3 | 254.4 |
