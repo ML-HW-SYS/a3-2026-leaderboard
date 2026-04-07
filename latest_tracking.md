@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 06:13:54 AM ET`
+Last updated: `April 07, 2026 at 06:22:36 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 06:20 AM ET | yb | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 2771a2 | 39.2/6.2/45.4 | 525.8 | 169.5 | 309.1 | 247.1 |
+| Apr 07 06:15 AM ET | pyjuan91 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | 1996a1 | 19.7/6.1/25.8 | 526.1 | 170.7 | 303.4 | 234.0 |
 | Apr 07 05:23 AM ET | pyjuan91 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | develop.py | 11bebc | 17.4/10.2/27.7 | 210.2 | 132.3 | 610.5 | 371.6 |
 | Apr 07 05:16 AM ET | pyjuan91 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (88.67%), R4 (95.79%) \| max_abs_diff=inf | develop.py | 464ffa | 17.6/10.2/27.8 | 204.2 | 134.4 | 610.4 | 369.5 |
 | Apr 07 04:38 AM ET | pyjuan91 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | develop.py | 4b47b7 | 18.7/11.5/30.2 | 204.5 | 101.0 | 610.9 | 371.4 |
