@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 12:48:52 AM ET`
+Last updated: `April 07, 2026 at 12:57:41 AM ET`
 
 ## R1 (tok/s)
 
@@ -14,24 +14,24 @@ Last updated: `April 07, 2026 at 12:48:52 AM ET`
 | 6 | abarat007 | evaluated | d7f626 | 559.5 |
 | 7 | your_nickname_here | evaluated | f10b9b | 557.8 |
 | 8 | blabrl | evaluated | ca60eb | 557.4 |
-| 9 | prousoglou | evaluated | 570c63 | 556.7 |
-| 10 | TA | evaluated | a6e863 | 556.6 |
-| 11 | chyyy | evaluated | 34cc06 | 555.7 |
-| 12 | leoli | evaluated | 5cdac4 | 544.1 |
-| 13 | happyface | evaluated | 7e8b61 | 543.0 |
-| 14 | 13rabbit | evaluated | b38df9 | 542.8 |
-| 15 | gm | evaluated | 2898fc | 541.1 |
-| 16 | Shengwei | evaluated | bd7526 | 540.5 |
-| 17 | alifim | evaluated | 701077 | 539.6 |
-| 18 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
-| 19 | stefan | evaluated | a01e76 | 537.5 |
-| 20 | nickname55555555 | evaluated | cde7cb | 537.4 |
-| 21 | omermoav | evaluated | c75309 | 536.9 |
-| 22 | sjb | evaluated | 373553 | 535.3 |
-| 23 | lipphi | evaluated | a3a71b | 534.8 |
-| 24 | landrum | evaluated | 7b5ab5 | 534.6 |
-| 25 | chickfila | evaluated | f0956d | 534.5 |
-| 26 | ashaikh23 | evaluated | 1d496e | 533.9 |
+| 9 | JasonWang07 | evaluated | 3272aa | 556.8 |
+| 10 | prousoglou | evaluated | 570c63 | 556.7 |
+| 11 | TA | evaluated | a6e863 | 556.6 |
+| 12 | chyyy | evaluated | 34cc06 | 555.7 |
+| 13 | leoli | evaluated | 5cdac4 | 544.1 |
+| 14 | happyface | evaluated | 7e8b61 | 543.0 |
+| 15 | 13rabbit | evaluated | b38df9 | 542.8 |
+| 16 | gm | evaluated | 2898fc | 541.1 |
+| 17 | Shengwei | evaluated | bd7526 | 540.5 |
+| 18 | alifim | evaluated | 701077 | 539.6 |
+| 19 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
+| 20 | stefan | evaluated | a01e76 | 537.5 |
+| 21 | nickname55555555 | evaluated | cde7cb | 537.4 |
+| 22 | omermoav | evaluated | c75309 | 536.9 |
+| 23 | sjb | evaluated | 373553 | 535.3 |
+| 24 | lipphi | evaluated | a3a71b | 534.8 |
+| 25 | landrum | evaluated | 7b5ab5 | 534.6 |
+| 26 | chickfila | evaluated | f0956d | 534.5 |
 | 27 | gravlax | evaluated | b1229d | 532.3 |
 | 28 | Junyi Li | evaluated | c7a1b3 | 527.3 |
 | 29 | Yize | evaluated | e17a72 | 525.6 |
@@ -53,8 +53,8 @@ Last updated: `April 07, 2026 at 12:48:52 AM ET`
 | 45 | abhik | evaluated | bf55dc | 157.9 |
 | 46 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | act | failed | 4e8b73 |  |
+|  | ashaikh23 | failed | f899ce |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | JasonWang07 | failed | 9f01bd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | f93d3b |  |
@@ -80,7 +80,7 @@ Last updated: `April 07, 2026 at 12:48:52 AM ET`
 | 10 | Shengwei | evaluated | bd7526 | 347.3 |
 | 11 | sjb | evaluated | 373553 | 346.4 |
 | 12 | Rithvik | evaluated | 2924a0 | 335.8 |
-| 13 | ashaikh23 | evaluated | 1d496e | 333.9 |
+| 13 | JasonWang07 | evaluated | 3272aa | 335.3 |
 | 14 | leoli | evaluated | 5cdac4 | 327.5 |
 | 15 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
 | 16 | jl | evaluated | 8b6423 | 311.6 |
@@ -115,8 +115,8 @@ Last updated: `April 07, 2026 at 12:48:52 AM ET`
 | 45 | abhik | evaluated | bf55dc | 127.8 |
 | 46 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | act | failed | 4e8b73 |  |
+|  | ashaikh23 | failed | f899ce |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | JasonWang07 | failed | 9f01bd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | f93d3b |  |
@@ -147,14 +147,14 @@ Last updated: `April 07, 2026 at 12:48:52 AM ET`
 | 15 | Shengwei | evaluated | bd7526 | 45.6 |
 | 16 | sjb | evaluated | 373553 | 50.8 |
 | 17 | ishan-pat | evaluated | 564670 | 55.1 |
-| 18 | ashaikh23 | evaluated | 1d496e | 59.1 |
-| 19 | Junyi Li | evaluated | c7a1b3 | 60.9 |
-| 20 | happyface | evaluated | 7e8b61 | 63.7 |
-| 21 | omermoav | evaluated | c75309 | 64.7 |
-| 22 | alifim | evaluated | 701077 | 64.8 |
-| 23 | beratcelik | evaluated | 863a89 | 68.2 |
-| 24 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
-| 25 | leoli | evaluated | 5cdac4 | 71.0 |
+| 18 | Junyi Li | evaluated | c7a1b3 | 60.9 |
+| 19 | happyface | evaluated | 7e8b61 | 63.7 |
+| 20 | omermoav | evaluated | c75309 | 64.7 |
+| 21 | alifim | evaluated | 701077 | 64.8 |
+| 22 | beratcelik | evaluated | 863a89 | 68.2 |
+| 23 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
+| 24 | leoli | evaluated | 5cdac4 | 71.0 |
+| 25 | JasonWang07 | evaluated | 3272aa | 71.3 |
 | 26 | ethanchen | evaluated | ea518d | 74.4 |
 | 27 | Yize | evaluated | e17a72 | 81.3 |
 | 28 | TA | evaluated | a6e863 | 85.6 |
@@ -177,8 +177,8 @@ Last updated: `April 07, 2026 at 12:48:52 AM ET`
 | 45 | nicknam534534 | evaluated | 1bad48 | 405.4 |
 | 46 | Decode_speed | evaluated | 097a6b | 412.7 |
 |  | act | failed | 4e8b73 |  |
+|  | ashaikh23 | failed | f899ce |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | JasonWang07 | failed | 9f01bd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | f93d3b |  |
@@ -209,11 +209,11 @@ Last updated: `April 07, 2026 at 12:48:52 AM ET`
 | 15 | prousoglou | evaluated | 570c63 | 65.3 |
 | 16 | happyface | evaluated | 7e8b61 | 66.0 |
 | 17 | Shengwei | evaluated | bd7526 | 68.0 |
-| 18 | leoli | evaluated | 5cdac4 | 87.4 |
-| 19 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
-| 20 | ishan-pat | evaluated | 564670 | 107.0 |
-| 21 | alifim | evaluated | 701077 | 109.2 |
-| 22 | ashaikh23 | evaluated | 1d496e | 109.6 |
+| 18 | JasonWang07 | evaluated | 3272aa | 79.6 |
+| 19 | leoli | evaluated | 5cdac4 | 87.4 |
+| 20 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
+| 21 | ishan-pat | evaluated | 564670 | 107.0 |
+| 22 | alifim | evaluated | 701077 | 109.2 |
 | 23 | Junyi Li | evaluated | c7a1b3 | 113.1 |
 | 24 | beratcelik | evaluated | 863a89 | 113.8 |
 | 25 | ethanchen | evaluated | ea518d | 123.6 |
@@ -239,8 +239,8 @@ Last updated: `April 07, 2026 at 12:48:52 AM ET`
 | 45 | nicknam534534 | evaluated | 1bad48 | 269.2 |
 | 46 | Decode_speed | evaluated | 097a6b | 270.3 |
 |  | act | failed | 4e8b73 |  |
+|  | ashaikh23 | failed | f899ce |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | JasonWang07 | failed | 9f01bd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | f93d3b |  |

@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 07, 2026 at 12:48:52 AM ET`
+Last updated: `April 07, 2026 at 12:57:41 AM ET`
 
 ## Pages
 
@@ -29,10 +29,10 @@ Last updated: `April 07, 2026 at 12:48:52 AM ET`
 | 15 | Shengwei | evaluated | bd7526 | 19.3/2.9/22.1 | 1.415 | 540.5 | 347.3 | 45.6 | 68.0 |
 | 16 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 41.6/3.3/44.9 | 1.370 | 515.1 | 266.6 | 43.1 | 59.9 |
 | 17 | happyface | evaluated | 7e8b61 | 18.5/3.4/22.0 | 1.219 | 543.0 | 258.2 | 63.7 | 66.0 |
-| 18 | alifim | evaluated | 701077 | 30.0/3.0/33.0 | 1.178 | 539.6 | 381.2 | 64.8 | 109.2 |
-| 19 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 37.2/3.1/40.3 | 1.177 | 560.4 | 326.5 | 70.9 | 89.2 |
-| 20 | leoli | evaluated | 5cdac4 | 20.6/3.1/23.8 | 1.174 | 544.1 | 327.5 | 71.0 | 87.4 |
-| 21 | ashaikh23 | evaluated | 1d496e | 44.2/3.2/47.3 | 1.162 | 533.9 | 333.9 | 59.1 | 109.6 |
+| 18 | JasonWang07 | evaluated | 3272aa | 42.0/3.0/45.0 | 1.215 | 556.8 | 335.3 | 71.3 | 79.6 |
+| 19 | alifim | evaluated | 701077 | 30.0/3.0/33.0 | 1.178 | 539.6 | 381.2 | 64.8 | 109.2 |
+| 20 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 37.2/3.1/40.3 | 1.177 | 560.4 | 326.5 | 70.9 | 89.2 |
+| 21 | leoli | evaluated | 5cdac4 | 20.6/3.1/23.8 | 1.174 | 544.1 | 327.5 | 71.0 | 87.4 |
 | 22 | ishan-pat | evaluated | 564670 | 39.6/3.6/43.2 | 1.110 | 520.6 | 259.2 | 55.1 | 107.0 |
 | 23 | omermoav | evaluated | c75309 | 23.1/3.7/26.8 | 1.033 | 536.9 | 259.0 | 64.7 | 124.8 |
 | 24 | beratcelik | evaluated | 863a89 | 51.8/3.9/55.6 | 1.027 | 564.3 | 231.2 | 68.2 | 113.8 |
@@ -59,8 +59,8 @@ Last updated: `April 07, 2026 at 12:48:52 AM ET`
 | 45 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
 | 46 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
 |  | act | failed | 4e8b73 | 27.1/6.2/33.3 |  |  |  |  |  |
+|  | ashaikh23 | failed | f899ce | 27.5/2.0/29.5 |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
-|  | JasonWang07 | failed | 9f01bd | 44.1/2.4/46.6 |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
 |  | poppyPotatoe | failed | aa5125 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | pyjuan91 | failed | f93d3b | 21.8/9.3/31.1 |  |  |  |  |  |
