@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 02:27:00 PM ET`
+Last updated: `April 07, 2026 at 02:36:04 PM ET`
 
 ## R1 (tok/s)
 
@@ -25,11 +25,11 @@ Last updated: `April 07, 2026 at 02:27:00 PM ET`
 | 17 | happyface | evaluated | 7e8b61 | 543.0 |
 | 18 | 13rabbit | evaluated | b38df9 | 542.8 |
 | 19 | gm | evaluated | 2898fc | 541.1 |
-| 20 | pallavi-srinivas | evaluated | 644fa9 | 540.9 |
-| 21 | Shengwei | evaluated | bd7526 | 540.5 |
-| 22 | alifim | evaluated | 701077 | 539.6 |
-| 23 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
-| 24 | stefan | evaluated | a01e76 | 537.5 |
+| 20 | Shengwei | evaluated | bd7526 | 540.5 |
+| 21 | alifim | evaluated | 701077 | 539.6 |
+| 22 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
+| 23 | stefan | evaluated | a01e76 | 537.5 |
+| 24 | pallavi-srinivas | evaluated | 7df5d0 | 536.3 |
 | 25 | sjb | evaluated | 373553 | 535.3 |
 | 26 | lipphi | evaluated | a3a71b | 534.8 |
 | 27 | landrum | evaluated | 7b5ab5 | 534.6 |
@@ -55,7 +55,7 @@ Last updated: `April 07, 2026 at 02:27:00 PM ET`
 | 47 | abhik | evaluated | bf55dc | 157.9 |
 | 48 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | d204b8 |  |
+|  | fishyfins | failed | e0aade |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | f93d3b |  |
@@ -99,7 +99,7 @@ Last updated: `April 07, 2026 at 02:27:00 PM ET`
 | 29 | 13rabbit | evaluated | b38df9 | 242.9 |
 | 30 | bl792 | evaluated | 09cd73 | 238.8 |
 | 31 | beratcelik | evaluated | 863a89 | 231.2 |
-| 32 | pallavi-srinivas | evaluated | 644fa9 | 206.7 |
+| 32 | pallavi-srinivas | evaluated | 7df5d0 | 206.9 |
 | 33 | tuo | evaluated | 3d6d40 | 204.6 |
 | 34 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
 | 35 | Licha | evaluated | 8fdc3a | 192.4 |
@@ -117,7 +117,7 @@ Last updated: `April 07, 2026 at 02:27:00 PM ET`
 | 47 | abhik | evaluated | bf55dc | 127.8 |
 | 48 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | d204b8 |  |
+|  | fishyfins | failed | e0aade |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | f93d3b |  |
@@ -164,7 +164,7 @@ Last updated: `April 07, 2026 at 02:27:00 PM ET`
 | 32 | lipphi | evaluated | a3a71b | 104.4 |
 | 33 | abhik | evaluated | bf55dc | 140.5 |
 | 34 | tuo | evaluated | 3d6d40 | 167.8 |
-| 35 | pallavi-srinivas | evaluated | 644fa9 | 191.0 |
+| 35 | pallavi-srinivas | evaluated | 7df5d0 | 191.0 |
 | 36 | Licha | evaluated | 8fdc3a | 202.7 |
 | 37 | landrum | evaluated | 7b5ab5 | 275.1 |
 | 38 | hw_bloss | evaluated | 4c9666 | 308.1 |
@@ -179,7 +179,7 @@ Last updated: `April 07, 2026 at 02:27:00 PM ET`
 | 47 | nicknam534534 | evaluated | 1bad48 | 405.4 |
 | 48 | Decode_speed | evaluated | 097a6b | 412.7 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | d204b8 |  |
+|  | fishyfins | failed | e0aade |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | f93d3b |  |
@@ -227,7 +227,7 @@ Last updated: `April 07, 2026 at 02:27:00 PM ET`
 | 33 | tuo | evaluated | 3d6d40 | 162.8 |
 | 34 | abhik | evaluated | bf55dc | 172.5 |
 | 35 | landrum | evaluated | 7b5ab5 | 176.5 |
-| 36 | pallavi-srinivas | evaluated | 644fa9 | 193.3 |
+| 36 | pallavi-srinivas | evaluated | 7df5d0 | 193.4 |
 | 37 | Licha | evaluated | 8fdc3a | 215.0 |
 | 38 | hw_bloss | evaluated | 4c9666 | 239.1 |
 | 39 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
@@ -241,7 +241,7 @@ Last updated: `April 07, 2026 at 02:27:00 PM ET`
 | 47 | nicknam534534 | evaluated | 1bad48 | 269.2 |
 | 48 | Decode_speed | evaluated | 097a6b | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | d204b8 |  |
+|  | fishyfins | failed | e0aade |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | pyjuan91 | failed | f93d3b |  |

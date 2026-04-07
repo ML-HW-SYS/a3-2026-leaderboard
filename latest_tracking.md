@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 02:27:00 PM ET`
+Last updated: `April 07, 2026 at 02:36:04 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 02:32 PM ET | fishyfins | failed_correctness | Correctness FAIL \| R1 (87.52%), R2 (81.84%), R3 (77.86%), R4 (83.22%) \| max_abs_diff=14.96 | submission.py | e0aade | 59.7/6.2/66.0 | 523.1 | 168.1 | 311.1 | 239.1 |
+| Apr 07 02:29 PM ET | pallavi-srinivas | evaluated |  | submission.py | 7df5d0 | 19.8/5.0/24.8 | 536.3 | 206.9 | 191.0 | 193.4 |
 | Apr 07 02:12 PM ET | vallabkaranam | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | ec4b9a |  |  |  |  |  |
 | Apr 07 02:08 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.75%) \| max_abs_diff=12.18 | develop.py | f7860c | 30.8/2.5/33.3 | 565.6 | 383.0 | 24.2 | 46.6 |
 | Apr 07 02:00 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.75%) \| max_abs_diff=12.18 | submission.py | f7860c | 69.3/2.5/71.8 | 563.9 | 382.8 | 24.0 | 46.3 |
