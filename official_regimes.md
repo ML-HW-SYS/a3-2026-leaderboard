@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 10:38:00 AM ET`
+Last updated: `April 07, 2026 at 10:46:41 AM ET`
 
 ## R1 (tok/s)
 
@@ -28,32 +28,33 @@ Last updated: `April 07, 2026 at 10:38:00 AM ET`
 | 20 | Shengwei | evaluated | bd7526 | 540.5 |
 | 21 | alifim | evaluated | 701077 | 539.6 |
 | 22 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
-| 23 | pallavi-srinivas | evaluated | c7a655 | 538.8 |
-| 24 | stefan | evaluated | a01e76 | 537.5 |
+| 23 | stefan | evaluated | a01e76 | 537.5 |
+| 24 | pallavi-srinivas | evaluated | e19201 | 536.4 |
 | 25 | sjb | evaluated | 373553 | 535.3 |
 | 26 | lipphi | evaluated | a3a71b | 534.8 |
 | 27 | landrum | evaluated | 7b5ab5 | 534.6 |
 | 28 | chickfila | evaluated | f0956d | 534.5 |
 | 29 | gravlax | evaluated | b1229d | 532.3 |
 | 30 | Junyi Li | evaluated | c7a1b3 | 527.3 |
-| 31 | Yize | evaluated | e17a72 | 525.6 |
-| 32 | bl792 | evaluated | 09cd73 | 524.7 |
-| 33 | nicknam534534 | evaluated | 1bad48 | 524.1 |
-| 34 | act | evaluated | 899777 | 523.9 |
-| 35 | ethanchen | evaluated | ea518d | 523.7 |
-| 36 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 37 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 38 | Licha | evaluated | 8fdc3a | 521.4 |
-| 39 | jbc | evaluated | 12bb20 | 520.4 |
-| 40 | ishan-pat | evaluated | fddca1 | 518.1 |
-| 41 | ngoguen | evaluated | a5cdb8 | 515.9 |
-| 42 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 43 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
-| 44 | Rithvik | evaluated | 2924a0 | 495.8 |
-| 45 | tuo | evaluated | 3d6d40 | 494.8 |
-| 46 | PurplePickle67 | evaluated | f18c0d | 488.2 |
-| 47 | abhik | evaluated | bf55dc | 157.9 |
-| 48 | Decode_speed | evaluated | 097a6b | 104.5 |
+| 31 | yb | evaluated | 2aa1a9 | 525.6 |
+| 32 | Yize | evaluated | e17a72 | 525.6 |
+| 33 | bl792 | evaluated | 09cd73 | 524.7 |
+| 34 | nicknam534534 | evaluated | 1bad48 | 524.1 |
+| 35 | act | evaluated | 899777 | 523.9 |
+| 36 | ethanchen | evaluated | ea518d | 523.7 |
+| 37 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 38 | yoursun1220 | evaluated | d8b590 | 521.8 |
+| 39 | Licha | evaluated | 8fdc3a | 521.4 |
+| 40 | jbc | evaluated | 12bb20 | 520.4 |
+| 41 | ishan-pat | evaluated | fddca1 | 518.1 |
+| 42 | ngoguen | evaluated | a5cdb8 | 515.9 |
+| 43 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 44 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
+| 45 | Rithvik | evaluated | 2924a0 | 495.8 |
+| 46 | tuo | evaluated | 3d6d40 | 494.8 |
+| 47 | PurplePickle67 | evaluated | f18c0d | 488.2 |
+| 48 | abhik | evaluated | bf55dc | 157.9 |
+| 49 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | d204b8 |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -62,7 +63,6 @@ Last updated: `April 07, 2026 at 10:38:00 AM ET`
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | f2403c |  |
 |  | vallabkaranam | failed | 2bdea4 |  |
-|  | yb | failed | 2771a2 |  |
 
 ## R2 (tok/s)
 
@@ -100,22 +100,23 @@ Last updated: `April 07, 2026 at 10:38:00 AM ET`
 | 30 | 13rabbit | evaluated | b38df9 | 242.9 |
 | 31 | bl792 | evaluated | 09cd73 | 238.8 |
 | 32 | beratcelik | evaluated | 863a89 | 231.2 |
-| 33 | tuo | evaluated | 3d6d40 | 204.6 |
-| 34 | pallavi-srinivas | evaluated | c7a655 | 197.8 |
+| 33 | pallavi-srinivas | evaluated | e19201 | 206.6 |
+| 34 | tuo | evaluated | 3d6d40 | 204.6 |
 | 35 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
 | 36 | Licha | evaluated | 8fdc3a | 192.4 |
 | 37 | landrum | evaluated | 7b5ab5 | 177.2 |
 | 38 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 39 | stefan | evaluated | a01e76 | 170.0 |
-| 40 | ngoguen | evaluated | a5cdb8 | 169.7 |
-| 41 | Junyi Li | evaluated | c7a1b3 | 169.7 |
-| 42 | yoursun1220 | evaluated | d8b590 | 169.2 |
-| 43 | hw_bloss | evaluated | 4c9666 | 169.1 |
-| 44 | jbc | evaluated | 12bb20 | 169.0 |
-| 45 | act | evaluated | 899777 | 169.0 |
-| 46 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 47 | abhik | evaluated | bf55dc | 127.8 |
-| 48 | Decode_speed | evaluated | 097a6b | 77.3 |
+| 40 | yb | evaluated | 2aa1a9 | 169.8 |
+| 41 | ngoguen | evaluated | a5cdb8 | 169.7 |
+| 42 | Junyi Li | evaluated | c7a1b3 | 169.7 |
+| 43 | yoursun1220 | evaluated | d8b590 | 169.2 |
+| 44 | hw_bloss | evaluated | 4c9666 | 169.1 |
+| 45 | jbc | evaluated | 12bb20 | 169.0 |
+| 46 | act | evaluated | 899777 | 169.0 |
+| 47 | nicknam534534 | evaluated | 1bad48 | 148.4 |
+| 48 | abhik | evaluated | bf55dc | 127.8 |
+| 49 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | d204b8 |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -124,7 +125,6 @@ Last updated: `April 07, 2026 at 10:38:00 AM ET`
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | f2403c |  |
 |  | vallabkaranam | failed | 2bdea4 |  |
-|  | yb | failed | 2771a2 |  |
 
 ## R3 (ms)
 
@@ -165,19 +165,20 @@ Last updated: `April 07, 2026 at 10:38:00 AM ET`
 | 33 | lipphi | evaluated | a3a71b | 104.4 |
 | 34 | abhik | evaluated | bf55dc | 140.5 |
 | 35 | tuo | evaluated | 3d6d40 | 167.8 |
-| 36 | pallavi-srinivas | evaluated | c7a655 | 190.0 |
+| 36 | pallavi-srinivas | evaluated | e19201 | 191.3 |
 | 37 | Licha | evaluated | 8fdc3a | 202.7 |
 | 38 | landrum | evaluated | 7b5ab5 | 275.1 |
 | 39 | hw_bloss | evaluated | 4c9666 | 308.1 |
 | 40 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 41 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
-| 42 | stefan | evaluated | a01e76 | 310.0 |
-| 43 | ngoguen | evaluated | a5cdb8 | 310.3 |
-| 44 | yoursun1220 | evaluated | d8b590 | 310.7 |
-| 45 | act | evaluated | 899777 | 310.9 |
-| 46 | jbc | evaluated | 12bb20 | 311.3 |
-| 47 | nicknam534534 | evaluated | 1bad48 | 405.4 |
-| 48 | Decode_speed | evaluated | 097a6b | 412.7 |
+| 42 | yb | evaluated | 2aa1a9 | 309.3 |
+| 43 | stefan | evaluated | a01e76 | 310.0 |
+| 44 | ngoguen | evaluated | a5cdb8 | 310.3 |
+| 45 | yoursun1220 | evaluated | d8b590 | 310.7 |
+| 46 | act | evaluated | 899777 | 310.9 |
+| 47 | jbc | evaluated | 12bb20 | 311.3 |
+| 48 | nicknam534534 | evaluated | 1bad48 | 405.4 |
+| 49 | Decode_speed | evaluated | 097a6b | 412.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | d204b8 |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -186,7 +187,6 @@ Last updated: `April 07, 2026 at 10:38:00 AM ET`
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | f2403c |  |
 |  | vallabkaranam | failed | 2bdea4 |  |
-|  | yb | failed | 2771a2 |  |
 
 ## R4 (ms)
 
@@ -228,7 +228,7 @@ Last updated: `April 07, 2026 at 10:38:00 AM ET`
 | 34 | tuo | evaluated | 3d6d40 | 162.8 |
 | 35 | abhik | evaluated | bf55dc | 172.5 |
 | 36 | landrum | evaluated | 7b5ab5 | 176.5 |
-| 37 | pallavi-srinivas | evaluated | c7a655 | 192.5 |
+| 37 | pallavi-srinivas | evaluated | e19201 | 194.1 |
 | 38 | Licha | evaluated | 8fdc3a | 215.0 |
 | 39 | hw_bloss | evaluated | 4c9666 | 239.1 |
 | 40 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
@@ -236,10 +236,11 @@ Last updated: `April 07, 2026 at 10:38:00 AM ET`
 | 42 | stefan | evaluated | a01e76 | 248.7 |
 | 43 | ngoguen | evaluated | a5cdb8 | 249.7 |
 | 44 | yoursun1220 | evaluated | d8b590 | 250.1 |
-| 45 | act | evaluated | 899777 | 250.7 |
-| 46 | jbc | evaluated | 12bb20 | 251.3 |
-| 47 | nicknam534534 | evaluated | 1bad48 | 269.2 |
-| 48 | Decode_speed | evaluated | 097a6b | 270.3 |
+| 45 | yb | evaluated | 2aa1a9 | 250.5 |
+| 46 | act | evaluated | 899777 | 250.7 |
+| 47 | jbc | evaluated | 12bb20 | 251.3 |
+| 48 | nicknam534534 | evaluated | 1bad48 | 269.2 |
+| 49 | Decode_speed | evaluated | 097a6b | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | d204b8 |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -248,4 +249,3 @@ Last updated: `April 07, 2026 at 10:38:00 AM ET`
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | f2403c |  |
 |  | vallabkaranam | failed | 2bdea4 |  |
-|  | yb | failed | 2771a2 |  |

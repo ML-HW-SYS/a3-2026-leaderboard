@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 10:38:00 AM ET`
+Last updated: `April 07, 2026 at 10:46:41 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 10:44 AM ET | yb | evaluated |  | submission.py | 2aa1a9 | 39.6/6.2/45.8 | 525.6 | 169.8 | 309.3 | 250.5 |
+| Apr 07 10:40 AM ET | pallavi-srinivas | evaluated |  | submission.py | e19201 | 19.4/5.0/24.4 | 536.4 | 206.6 | 191.3 | 194.1 |
 | Apr 07 10:36 AM ET | ishan-pat | evaluated |  | develop.py | fddca1 | 23.3/3.6/26.9 | 524.6 | 259.2 | 55.7 | 111.8 |
 | Apr 07 10:34 AM ET | PurplePickle67 | evaluated |  | submission.py | f18c0d | 33.0/3.3/36.3 | 488.2 | 269.1 | 36.7 | 52.6 |
 | Apr 07 10:27 AM ET | ishan-pat | evaluated |  | submission.py | fddca1 | 31.2/3.6/34.9 | 518.1 | 259.2 | 56.0 | 111.8 |
