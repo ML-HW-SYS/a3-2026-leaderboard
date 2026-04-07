@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 03:42:42 AM ET`
+Last updated: `April 07, 2026 at 03:51:31 AM ET`
 
 ## R1 (tok/s)
 
@@ -51,7 +51,7 @@ Last updated: `April 07, 2026 at 03:42:42 AM ET`
 | 43 | PurplePickle67 | evaluated | 6d549a | 488.4 |
 | 44 | abhik | evaluated | bf55dc | 157.9 |
 | 45 | Decode_speed | evaluated | 097a6b | 104.5 |
-|  | ashaikh23 | failed | fc4c79 |  |
+|  | ashaikh23 | failed | eba053 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 77bb1f |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -113,7 +113,7 @@ Last updated: `April 07, 2026 at 03:42:42 AM ET`
 | 43 | nicknam534534 | evaluated | 1bad48 | 148.4 |
 | 44 | abhik | evaluated | bf55dc | 127.8 |
 | 45 | Decode_speed | evaluated | 097a6b | 77.3 |
-|  | ashaikh23 | failed | fc4c79 |  |
+|  | ashaikh23 | failed | eba053 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 77bb1f |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -175,7 +175,7 @@ Last updated: `April 07, 2026 at 03:42:42 AM ET`
 | 43 | jbc | evaluated | 12bb20 | 311.3 |
 | 44 | nicknam534534 | evaluated | 1bad48 | 405.4 |
 | 45 | Decode_speed | evaluated | 097a6b | 412.7 |
-|  | ashaikh23 | failed | fc4c79 |  |
+|  | ashaikh23 | failed | eba053 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 77bb1f |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -237,7 +237,7 @@ Last updated: `April 07, 2026 at 03:42:42 AM ET`
 | 43 | jbc | evaluated | 12bb20 | 251.3 |
 | 44 | nicknam534534 | evaluated | 1bad48 | 269.2 |
 | 45 | Decode_speed | evaluated | 097a6b | 270.3 |
-|  | ashaikh23 | failed | fc4c79 |  |
+|  | ashaikh23 | failed | eba053 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 77bb1f |  |
 |  | mdavalos10 | failed | b601f0 |  |
