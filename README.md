@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 06, 2026 at 10:21:35 PM ET`
+Last updated: `April 06, 2026 at 10:31:36 PM ET`
 
 ## Pages
 
@@ -17,7 +17,7 @@ Last updated: `April 06, 2026 at 10:21:35 PM ET`
 | 3 | zhumengzhiren | evaluated | cf2924 | 43.0/2.3/45.2 | 1.896 | 566.6 | 483.3 | 28.0 | 50.2 |
 | 4 | gm | evaluated | 2898fc | 20.9/2.7/23.6 | 1.772 | 541.1 | 357.0 | 26.8 | 48.5 |
 | 5 | abarat007 | evaluated | d7f626 | 47.1/2.6/49.7 | 1.764 | 559.5 | 378.6 | 28.1 | 51.5 |
-| 6 | TheProphet | evaluated | 2c0f6c | 28.4/3.0/31.4 | 1.708 | 378.0 | 382.2 | 24.2 | 46.5 |
+| 6 | TheProphet | evaluated | 3a9c2e | 28.1/2.9/31.0 | 1.732 | 394.5 | 385.0 | 24.1 | 46.4 |
 | 7 | Rithvik | evaluated | 2924a0 | 46.5/2.9/49.4 | 1.706 | 495.8 | 335.8 | 27.1 | 48.0 |
 | 8 | chickfila | evaluated | f0956d | 65.8/2.6/68.4 | 1.693 | 534.5 | 398.8 | 34.7 | 49.6 |
 | 9 | nickname55555555 | evaluated | 99ddc2 | 27.8/2.8/30.6 | 1.633 | 552.2 | 334.1 | 32.4 | 53.0 |
@@ -29,10 +29,10 @@ Last updated: `April 06, 2026 at 10:21:35 PM ET`
 | 15 | Shengwei | evaluated | bd7526 | 19.3/2.9/22.1 | 1.415 | 540.5 | 347.3 | 45.6 | 68.0 |
 | 16 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 41.6/3.3/44.9 | 1.370 | 515.1 | 266.6 | 43.1 | 59.9 |
 | 17 | happyface | evaluated | 7e8b61 | 18.5/3.4/22.0 | 1.219 | 543.0 | 258.2 | 63.7 | 66.0 |
-| 18 | alifim | evaluated | 701077 | 30.0/3.0/33.0 | 1.178 | 539.6 | 381.2 | 64.8 | 109.2 |
-| 19 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 37.2/3.1/40.3 | 1.177 | 560.4 | 326.5 | 70.9 | 89.2 |
-| 20 | leoli | evaluated | 5cdac4 | 20.6/3.1/23.8 | 1.174 | 544.1 | 327.5 | 71.0 | 87.4 |
-| 21 | JasonWang07 | evaluated | 7e56c0 | 20.9/3.1/24.0 | 1.167 | 553.2 | 335.8 | 74.0 | 89.7 |
+| 18 | JasonWang07 | evaluated | 45d504 | 19.5/3.1/22.5 | 1.184 | 556.6 | 336.4 | 70.9 | 89.2 |
+| 19 | alifim | evaluated | 701077 | 30.0/3.0/33.0 | 1.178 | 539.6 | 381.2 | 64.8 | 109.2 |
+| 20 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 37.2/3.1/40.3 | 1.177 | 560.4 | 326.5 | 70.9 | 89.2 |
+| 21 | leoli | evaluated | 5cdac4 | 20.6/3.1/23.8 | 1.174 | 544.1 | 327.5 | 71.0 | 87.4 |
 | 22 | ashaikh23 | evaluated | 5a4a7c | 42.9/3.1/46.0 | 1.165 | 541.6 | 336.6 | 59.7 | 109.7 |
 | 23 | ishan-pat | evaluated | 564670 | 39.6/3.6/43.2 | 1.110 | 520.6 | 259.2 | 55.1 | 107.0 |
 | 24 | sjb | evaluated | 974bff | 42.5/3.3/45.8 | 1.066 | 536.4 | 320.9 | 79.4 | 111.4 |
@@ -64,6 +64,7 @@ Last updated: `April 06, 2026 at 10:21:35 PM ET`
 |  | pyjuan91 | failed | f93d3b | 21.8/9.3/31.1 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | Sulaiman Alam | failed | bb69e8 | 0.0/0.0/0.0 |  |  |  |  |  |
+|  | vallabkaranam | failed | 1f58e7 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | yb | failed | 8ca88e | 0.0/0.0/0.0 |  |  |  |  |  |
 
 ## Column Guide

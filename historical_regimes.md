@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 10:21:35 PM ET`
+Last updated: `April 06, 2026 at 10:31:36 PM ET`
 
 ## R1 (tok/s)
 
@@ -62,8 +62,8 @@ Last updated: `April 06, 2026 at 10:21:35 PM ET`
 | 2 | chyyy | submission.py | 34cc06 | 433.8 |
 | 3 | chickfila | submission.py | f0956d | 398.8 |
 | 4 | - - | submission.py | adc0f3 | 386.9 |
-| 5 | blabrl | develop.py | 9873f9 | 383.8 |
-| 6 | TheProphet | submission.py | 84eefa | 382.8 |
+| 5 | TheProphet | submission.py | 3a9c2e | 385.0 |
+| 6 | blabrl | develop.py | 9873f9 | 383.8 |
 | 7 | alifim | submission.py | 701077 | 381.2 |
 | 8 | abarat007 | submission.py | d7f626 | 378.6 |
 | 9 | prousoglou | submission.py | 570c63 | 368.2 |

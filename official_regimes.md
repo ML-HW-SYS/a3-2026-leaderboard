@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 10:21:35 PM ET`
+Last updated: `April 06, 2026 at 10:31:36 PM ET`
 
 ## R1 (tok/s)
 
@@ -14,9 +14,9 @@ Last updated: `April 06, 2026 at 10:21:35 PM ET`
 | 6 | your_nickname_here | evaluated | f10b9b | 557.8 |
 | 7 | blabrl | evaluated | ca60eb | 557.4 |
 | 8 | prousoglou | evaluated | 570c63 | 556.7 |
-| 9 | TA | evaluated | a6e863 | 556.6 |
-| 10 | chyyy | evaluated | 34cc06 | 555.7 |
-| 11 | JasonWang07 | evaluated | 7e56c0 | 553.2 |
+| 9 | JasonWang07 | evaluated | 45d504 | 556.6 |
+| 10 | TA | evaluated | a6e863 | 556.6 |
+| 11 | chyyy | evaluated | 34cc06 | 555.7 |
 | 12 | nickname55555555 | evaluated | 99ddc2 | 552.2 |
 | 13 | leoli | evaluated | 5cdac4 | 544.1 |
 | 14 | happyface | evaluated | 7e8b61 | 543.0 |
@@ -47,7 +47,7 @@ Last updated: `April 06, 2026 at 10:21:35 PM ET`
 | 39 | Rithvik | evaluated | 2924a0 | 495.8 |
 | 40 | tuo | evaluated | 3d6d40 | 494.8 |
 | 41 | jl | evaluated | 2b391c | 464.5 |
-| 42 | TheProphet | evaluated | 2c0f6c | 378.0 |
+| 42 | TheProphet | evaluated | 3a9c2e | 394.5 |
 | 43 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | Junyi Li | failed | c31a30 |  |
@@ -58,6 +58,7 @@ Last updated: `April 06, 2026 at 10:21:35 PM ET`
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | Sulaiman Alam | failed | bb69e8 |  |
+|  | vallabkaranam | failed | 1f58e7 |  |
 |  | yb | failed | 8ca88e |  |
 
 ## R2 (tok/s)
@@ -68,16 +69,16 @@ Last updated: `April 06, 2026 at 10:21:35 PM ET`
 | 2 | chyyy | evaluated | 34cc06 | 433.8 |
 | 3 | chickfila | evaluated | f0956d | 398.8 |
 | 4 | - - | evaluated | adc0f3 | 386.9 |
-| 5 | blabrl | evaluated | ca60eb | 383.3 |
-| 6 | TheProphet | evaluated | 2c0f6c | 382.2 |
+| 5 | TheProphet | evaluated | 3a9c2e | 385.0 |
+| 6 | blabrl | evaluated | ca60eb | 383.3 |
 | 7 | alifim | evaluated | 701077 | 381.2 |
 | 8 | abarat007 | evaluated | d7f626 | 378.6 |
 | 9 | prousoglou | evaluated | 570c63 | 368.2 |
 | 10 | gm | evaluated | 2898fc | 357.0 |
 | 11 | Shengwei | evaluated | bd7526 | 347.3 |
 | 12 | ashaikh23 | evaluated | 5a4a7c | 336.6 |
-| 13 | Rithvik | evaluated | 2924a0 | 335.8 |
-| 14 | JasonWang07 | evaluated | 7e56c0 | 335.8 |
+| 13 | JasonWang07 | evaluated | 45d504 | 336.4 |
+| 14 | Rithvik | evaluated | 2924a0 | 335.8 |
 | 15 | nickname55555555 | evaluated | 99ddc2 | 334.1 |
 | 16 | leoli | evaluated | 5cdac4 | 327.5 |
 | 17 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
@@ -116,6 +117,7 @@ Last updated: `April 06, 2026 at 10:21:35 PM ET`
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | Sulaiman Alam | failed | bb69e8 |  |
+|  | vallabkaranam | failed | 1f58e7 |  |
 |  | yb | failed | 8ca88e |  |
 
 ## R3 (ms)
@@ -123,7 +125,7 @@ Last updated: `April 06, 2026 at 10:21:35 PM ET`
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 21.8 |
-| 2 | TheProphet | evaluated | 2c0f6c | 24.2 |
+| 2 | TheProphet | evaluated | 3a9c2e | 24.1 |
 | 3 | chyyy | evaluated | 34cc06 | 24.8 |
 | 4 | gm | evaluated | 2898fc | 26.8 |
 | 5 | Rithvik | evaluated | 2924a0 | 27.1 |
@@ -143,9 +145,9 @@ Last updated: `April 06, 2026 at 10:21:35 PM ET`
 | 19 | happyface | evaluated | 7e8b61 | 63.7 |
 | 20 | alifim | evaluated | 701077 | 64.8 |
 | 21 | beratcelik | evaluated | 863a89 | 68.2 |
-| 22 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
-| 23 | leoli | evaluated | 5cdac4 | 71.0 |
-| 24 | JasonWang07 | evaluated | 7e56c0 | 74.0 |
+| 22 | JasonWang07 | evaluated | 45d504 | 70.9 |
+| 23 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
+| 24 | leoli | evaluated | 5cdac4 | 71.0 |
 | 25 | ethanchen | evaluated | ea518d | 74.4 |
 | 26 | sjb | evaluated | 974bff | 79.4 |
 | 27 | Yize | evaluated | e17a72 | 81.3 |
@@ -174,6 +176,7 @@ Last updated: `April 06, 2026 at 10:21:35 PM ET`
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | Sulaiman Alam | failed | bb69e8 |  |
+|  | vallabkaranam | failed | 1f58e7 |  |
 |  | yb | failed | 8ca88e |  |
 
 ## R4 (ms)
@@ -181,7 +184,7 @@ Last updated: `April 06, 2026 at 10:21:35 PM ET`
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 44.5 |
-| 2 | TheProphet | evaluated | 2c0f6c | 46.5 |
+| 2 | TheProphet | evaluated | 3a9c2e | 46.4 |
 | 3 | chyyy | evaluated | 34cc06 | 47.6 |
 | 4 | Rithvik | evaluated | 2924a0 | 48.0 |
 | 5 | gm | evaluated | 2898fc | 48.5 |
@@ -198,8 +201,8 @@ Last updated: `April 06, 2026 at 10:21:35 PM ET`
 | 16 | happyface | evaluated | 7e8b61 | 66.0 |
 | 17 | Shengwei | evaluated | bd7526 | 68.0 |
 | 18 | leoli | evaluated | 5cdac4 | 87.4 |
-| 19 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
-| 20 | JasonWang07 | evaluated | 7e56c0 | 89.7 |
+| 19 | JasonWang07 | evaluated | 45d504 | 89.2 |
+| 20 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
 | 21 | ishan-pat | evaluated | 564670 | 107.0 |
 | 22 | alifim | evaluated | 701077 | 109.2 |
 | 23 | ashaikh23 | evaluated | 5a4a7c | 109.7 |
@@ -232,4 +235,5 @@ Last updated: `April 06, 2026 at 10:21:35 PM ET`
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | Sulaiman Alam | failed | bb69e8 |  |
+|  | vallabkaranam | failed | 1f58e7 |  |
 |  | yb | failed | 8ca88e |  |

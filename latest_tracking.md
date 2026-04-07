@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 10:21:35 PM ET`
+Last updated: `April 06, 2026 at 10:31:36 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 10:31 PM ET | vallabkaranam | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 1f58e7 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 06 10:27 PM ET | TheProphet | evaluated |  | submission.py | 3a9c2e | 28.1/2.9/31.0 | 394.5 | 385.0 | 24.1 | 46.4 |
+| Apr 06 10:25 PM ET | sjb | failed_correctness | R2: ERR: hard timeout exceeded (worker killed) \| R3: ERR: total timeout exceeded before regime start \| R4: ERR: total... | develop.py | f083e7 | 55.7/0.7/56.5 | 696.1 | 0.0 | 0.0 | 0.0 |
+| Apr 06 10:22 PM ET | JasonWang07 | evaluated |  | submission.py | 45d504 | 19.5/3.1/22.5 | 556.6 | 336.4 | 70.9 | 89.2 |
 | Apr 06 10:21 PM ET | jl | evaluated |  | develop.py | 2b391c | 27.2/4.3/31.5 | 459.7 | 267.2 | 118.2 | 200.0 |
 | Apr 06 10:19 PM ET | ishan-pat | evaluated |  | develop.py | 564670 | 23.3/3.6/26.9 | 525.0 | 259.0 | 55.1 | 107.9 |
 | Apr 06 10:13 PM ET | JasonWang07 | evaluated |  | develop.py | 7e56c0 | 21.1/3.1/24.2 | 549.1 | 336.0 | 73.3 | 88.8 |
