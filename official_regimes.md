@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 01:25:09 AM ET`
+Last updated: `April 07, 2026 at 01:33:56 AM ET`
 
 ## R1 (tok/s)
 
@@ -18,14 +18,14 @@ Last updated: `April 07, 2026 at 01:25:09 AM ET`
 | 10 | prousoglou | evaluated | 570c63 | 556.7 |
 | 11 | TA | evaluated | a6e863 | 556.6 |
 | 12 | chyyy | evaluated | 34cc06 | 555.7 |
-| 13 | leoli | evaluated | 5cdac4 | 544.1 |
-| 14 | happyface | evaluated | 7e8b61 | 543.0 |
-| 15 | 13rabbit | evaluated | b38df9 | 542.8 |
-| 16 | gm | evaluated | 2898fc | 541.1 |
-| 17 | Shengwei | evaluated | bd7526 | 540.5 |
-| 18 | alifim | evaluated | 701077 | 539.6 |
-| 19 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
-| 20 | ashaikh23 | evaluated | 7b5e3c | 538.1 |
+| 13 | ashaikh23 | evaluated | c872d8 | 554.9 |
+| 14 | leoli | evaluated | 5cdac4 | 544.1 |
+| 15 | happyface | evaluated | 7e8b61 | 543.0 |
+| 16 | 13rabbit | evaluated | b38df9 | 542.8 |
+| 17 | gm | evaluated | 2898fc | 541.1 |
+| 18 | Shengwei | evaluated | bd7526 | 540.5 |
+| 19 | alifim | evaluated | 701077 | 539.6 |
+| 20 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
 | 21 | stefan | evaluated | a01e76 | 537.5 |
 | 22 | omermoav | evaluated | c75309 | 536.9 |
 | 23 | sjb | evaluated | 373553 | 535.3 |
@@ -61,7 +61,7 @@ Last updated: `April 07, 2026 at 01:25:09 AM ET`
 |  | SIUUU | failed | ad9184 |  |
 |  | Sulaiman Alam | failed | bb69e8 |  |
 |  | TheProphet | failed | 407c9a |  |
-|  | vallabkaranam | failed | 04c144 |  |
+|  | vallabkaranam | failed | 2bdea4 |  |
 |  | yb | failed | 8ca88e |  |
 
 ## R2 (tok/s)
@@ -79,9 +79,9 @@ Last updated: `April 07, 2026 at 01:25:09 AM ET`
 | 9 | gm | evaluated | 2898fc | 357.0 |
 | 10 | Shengwei | evaluated | bd7526 | 347.3 |
 | 11 | sjb | evaluated | 373553 | 346.4 |
-| 12 | Rithvik | evaluated | 2924a0 | 335.8 |
-| 13 | JasonWang07 | evaluated | 7c1824 | 335.6 |
-| 14 | ashaikh23 | evaluated | 7b5e3c | 334.7 |
+| 12 | ashaikh23 | evaluated | c872d8 | 342.0 |
+| 13 | Rithvik | evaluated | 2924a0 | 335.8 |
+| 14 | JasonWang07 | evaluated | 7c1824 | 335.6 |
 | 15 | leoli | evaluated | 5cdac4 | 327.5 |
 | 16 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
 | 17 | jl | evaluated | 8b6423 | 311.6 |
@@ -123,7 +123,7 @@ Last updated: `April 07, 2026 at 01:25:09 AM ET`
 |  | SIUUU | failed | ad9184 |  |
 |  | Sulaiman Alam | failed | bb69e8 |  |
 |  | TheProphet | failed | 407c9a |  |
-|  | vallabkaranam | failed | 04c144 |  |
+|  | vallabkaranam | failed | 2bdea4 |  |
 |  | yb | failed | 8ca88e |  |
 
 ## R3 (ms)
@@ -147,7 +147,7 @@ Last updated: `April 07, 2026 at 01:25:09 AM ET`
 | 15 | Shengwei | evaluated | bd7526 | 45.6 |
 | 16 | sjb | evaluated | 373553 | 50.8 |
 | 17 | ishan-pat | evaluated | 564670 | 55.1 |
-| 18 | ashaikh23 | evaluated | 7b5e3c | 59.1 |
+| 18 | ashaikh23 | evaluated | c872d8 | 59.5 |
 | 19 | Junyi Li | evaluated | c7a1b3 | 60.9 |
 | 20 | happyface | evaluated | 7e8b61 | 63.7 |
 | 21 | omermoav | evaluated | c75309 | 64.7 |
@@ -185,7 +185,7 @@ Last updated: `April 07, 2026 at 01:25:09 AM ET`
 |  | SIUUU | failed | ad9184 |  |
 |  | Sulaiman Alam | failed | bb69e8 |  |
 |  | TheProphet | failed | 407c9a |  |
-|  | vallabkaranam | failed | 04c144 |  |
+|  | vallabkaranam | failed | 2bdea4 |  |
 |  | yb | failed | 8ca88e |  |
 
 ## R4 (ms)
@@ -214,7 +214,7 @@ Last updated: `April 07, 2026 at 01:25:09 AM ET`
 | 20 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
 | 21 | ishan-pat | evaluated | 564670 | 107.0 |
 | 22 | alifim | evaluated | 701077 | 109.2 |
-| 23 | ashaikh23 | evaluated | 7b5e3c | 110.1 |
+| 23 | ashaikh23 | evaluated | c872d8 | 110.2 |
 | 24 | Junyi Li | evaluated | c7a1b3 | 113.1 |
 | 25 | beratcelik | evaluated | 863a89 | 113.8 |
 | 26 | ethanchen | evaluated | ea518d | 123.6 |
@@ -247,5 +247,5 @@ Last updated: `April 07, 2026 at 01:25:09 AM ET`
 |  | SIUUU | failed | ad9184 |  |
 |  | Sulaiman Alam | failed | bb69e8 |  |
 |  | TheProphet | failed | 407c9a |  |
-|  | vallabkaranam | failed | 04c144 |  |
+|  | vallabkaranam | failed | 2bdea4 |  |
 |  | yb | failed | 8ca88e |  |

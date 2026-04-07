@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 01:25:09 AM ET`
+Last updated: `April 07, 2026 at 01:33:56 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 01:33 AM ET | vallabkaranam | failed_security | Security policy check failed for submission.py: \| - prohibited call: compile \| - prohibited call: exec | submission.py | 2bdea4 |  |  |  |  |  |
+| Apr 07 01:33 AM ET | ashaikh23 | evaluated |  | submission.py | c872d8 | 41.0/3.1/44.1 | 554.9 | 342.0 | 59.5 | 110.2 |
+| Apr 07 01:26 AM ET | JasonWang07 | evaluated |  | develop.py | 7c1824 | 25.2/3.0/28.3 | 547.5 | 336.7 | 68.8 | 78.7 |
 | Apr 07 01:21 AM ET | nickname55555555 | evaluated |  | develop.py | 138f26 | 23.1/2.8/26.0 | 547.2 | 332.9 | 32.4 | 53.2 |
 | Apr 07 01:18 AM ET | JasonWang07 | evaluated |  | submission.py | 7c1824 | 41.5/3.0/44.5 | 556.9 | 335.6 | 68.5 | 79.3 |
 | Apr 07 01:15 AM ET | ashaikh23 | evaluated |  | submission.py | 7b5e3c | 44.0/3.2/47.2 | 538.1 | 334.7 | 59.1 | 110.1 |

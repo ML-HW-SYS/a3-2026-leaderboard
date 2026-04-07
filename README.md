@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 07, 2026 at 01:25:09 AM ET`
+Last updated: `April 07, 2026 at 01:33:56 AM ET`
 
 ## Pages
 
@@ -32,8 +32,8 @@ Last updated: `April 07, 2026 at 01:25:09 AM ET`
 | 18 | happyface | evaluated | 7e8b61 | 18.5/3.4/22.0 | 1.219 | 543.0 | 258.2 | 63.7 | 66.0 |
 | 19 | alifim | evaluated | 701077 | 30.0/3.0/33.0 | 1.178 | 539.6 | 381.2 | 64.8 | 109.2 |
 | 20 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 37.2/3.1/40.3 | 1.177 | 560.4 | 326.5 | 70.9 | 89.2 |
-| 21 | leoli | evaluated | 5cdac4 | 20.6/3.1/23.8 | 1.174 | 544.1 | 327.5 | 71.0 | 87.4 |
-| 22 | ashaikh23 | evaluated | 7b5e3c | 44.0/3.2/47.2 | 1.164 | 538.1 | 334.7 | 59.1 | 110.1 |
+| 21 | ashaikh23 | evaluated | c872d8 | 41.0/3.1/44.1 | 1.177 | 554.9 | 342.0 | 59.5 | 110.2 |
+| 22 | leoli | evaluated | 5cdac4 | 20.6/3.1/23.8 | 1.174 | 544.1 | 327.5 | 71.0 | 87.4 |
 | 23 | ishan-pat | evaluated | 564670 | 39.6/3.6/43.2 | 1.110 | 520.6 | 259.2 | 55.1 | 107.0 |
 | 24 | omermoav | evaluated | c75309 | 23.1/3.7/26.8 | 1.033 | 536.9 | 259.0 | 64.7 | 124.8 |
 | 25 | beratcelik | evaluated | 863a89 | 51.8/3.9/55.6 | 1.027 | 564.3 | 231.2 | 68.2 | 113.8 |
@@ -67,7 +67,7 @@ Last updated: `April 07, 2026 at 01:25:09 AM ET`
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | Sulaiman Alam | failed | bb69e8 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | TheProphet | failed | 407c9a | 30.7/1.6/32.3 |  |  |  |  |  |
-|  | vallabkaranam | failed | 04c144 |  |  |  |  |  |  |
+|  | vallabkaranam | failed | 2bdea4 |  |  |  |  |  |  |
 |  | yb | failed | 8ca88e | 0.0/0.0/0.0 |  |  |  |  |  |
 
 ## Column Guide
