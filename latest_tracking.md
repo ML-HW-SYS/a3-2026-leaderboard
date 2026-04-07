@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 11:21:20 AM ET`
+Last updated: `April 07, 2026 at 11:30:18 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 11:27 AM ET | PurplePickle67 | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | submission.py | 597d1d | 77.8/3.1/80.9 | 506.4 | 302.9 | 111.0 | 0.0 |
 | Apr 07 11:14 AM ET | JasonWang07 | evaluated |  | develop.py | a99db4 | 25.3/3.1/28.4 | 550.5 | 334.6 | 69.3 | 79.4 |
 | Apr 07 11:06 AM ET | JasonWang07 | evaluated |  | submission.py | a99db4 | 63.9/3.0/66.9 | 556.8 | 334.7 | 68.6 | 78.7 |
 | Apr 07 11:00 AM ET | TheProphet | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | develop.py | 6a40c3 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |

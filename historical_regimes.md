@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 11:21:20 AM ET`
+Last updated: `April 07, 2026 at 11:30:18 AM ET`
 
 ## R1 (tok/s)
 
@@ -84,11 +84,11 @@ Last updated: `April 07, 2026 at 11:21:20 AM ET`
 | 19 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 326.5 |
 | 20 | jl | submission.py | e6ce85 | 313.1 |
 | 21 | lipphi | submission.py | a3a71b | 306.7 |
-| 22 | TA | submission.py | 324cb8 | 295.5 |
-| 23 | beratcelik | submission.py | 7c87c2 | 294.0 |
-| 24 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
-| 25 | gravlax | develop.py | b1229d | 273.0 |
-| 26 | PurplePickle67 | submission.py | 27e572 | 269.3 |
+| 22 | PurplePickle67 | submission.py | 597d1d | 302.9 |
+| 23 | TA | submission.py | 324cb8 | 295.5 |
+| 24 | beratcelik | submission.py | 7c87c2 | 294.0 |
+| 25 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
+| 26 | gravlax | develop.py | b1229d | 273.0 |
 | 27 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
 | 28 | ishan-pat | develop.py | 75d32d | 259.7 |
 | 29 | happyface | develop.py | 0aca52 | 259.4 |
