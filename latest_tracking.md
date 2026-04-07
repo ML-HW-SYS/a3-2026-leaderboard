@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 01:32:27 PM ET`
+Last updated: `April 07, 2026 at 01:40:24 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 01:37 PM ET | nickname55555555 | evaluated |  | submission.py | 20d1ac | 28.2/2.8/31.0 | 551.4 | 334.2 | 30.9 | 50.6 |
 | Apr 07 01:07 PM ET | nickname55555555 | evaluated |  | develop.py | f60ff5 | 25.2/4.0/29.2 | 348.9 | 231.3 | 31.3 | 50.6 |
 | Apr 07 12:59 PM ET | nickname55555555 | evaluated |  | submission.py | f60ff5 | 58.5/4.0/62.5 | 350.4 | 231.9 | 30.9 | 51.0 |
 | Apr 07 12:56 PM ET | Yize | failed_correctness | R1: SETUP: ERR: RuntimeError: Decode path requires quantized packed weights/scales (no fallback). \| R2: SETUP: ERR: U... | develop.py | 531e28 | 15.5/0.8/16.3 | 0.0 | 0.0 | 76.8 | 129.1 |

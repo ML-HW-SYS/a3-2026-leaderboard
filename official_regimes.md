@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 01:32:27 PM ET`
+Last updated: `April 07, 2026 at 01:40:24 PM ET`
 
 ## R1 (tok/s)
 
@@ -19,39 +19,39 @@ Last updated: `April 07, 2026 at 01:32:27 PM ET`
 | 11 | TA | evaluated | a6e863 | 556.6 |
 | 12 | chyyy | evaluated | 34cc06 | 555.7 |
 | 13 | ashaikh23 | evaluated | 84a425 | 555.4 |
-| 14 | JasonWang07 | evaluated | a4b405 | 547.1 |
-| 15 | leoli | evaluated | 5cdac4 | 544.1 |
-| 16 | happyface | evaluated | 7e8b61 | 543.0 |
-| 17 | 13rabbit | evaluated | b38df9 | 542.8 |
-| 18 | gm | evaluated | 2898fc | 541.1 |
-| 19 | pallavi-srinivas | evaluated | 644fa9 | 540.9 |
-| 20 | Shengwei | evaluated | bd7526 | 540.5 |
-| 21 | alifim | evaluated | 701077 | 539.6 |
-| 22 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
-| 23 | stefan | evaluated | a01e76 | 537.5 |
-| 24 | sjb | evaluated | 373553 | 535.3 |
-| 25 | lipphi | evaluated | a3a71b | 534.8 |
-| 26 | landrum | evaluated | 7b5ab5 | 534.6 |
-| 27 | chickfila | evaluated | f0956d | 534.5 |
-| 28 | gravlax | evaluated | b1229d | 532.3 |
-| 29 | Junyi Li | evaluated | c7a1b3 | 527.3 |
-| 30 | yb | evaluated | ea23ab | 525.9 |
-| 31 | bl792 | evaluated | 09cd73 | 524.7 |
-| 32 | nicknam534534 | evaluated | 1bad48 | 524.1 |
-| 33 | act | evaluated | 899777 | 523.9 |
-| 34 | ethanchen | evaluated | ea518d | 523.7 |
-| 35 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 36 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 37 | Licha | evaluated | 8fdc3a | 521.4 |
-| 38 | PurplePickle67 | evaluated | 68d34e | 520.5 |
-| 39 | jbc | evaluated | 12bb20 | 520.4 |
-| 40 | ishan-pat | evaluated | fddca1 | 518.1 |
-| 41 | ngoguen | evaluated | a5cdb8 | 515.9 |
-| 42 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 43 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
-| 44 | Rithvik | evaluated | 2924a0 | 495.8 |
-| 45 | tuo | evaluated | 3d6d40 | 494.8 |
-| 46 | nickname55555555 | evaluated | f60ff5 | 350.4 |
+| 14 | nickname55555555 | evaluated | 20d1ac | 551.4 |
+| 15 | JasonWang07 | evaluated | a4b405 | 547.1 |
+| 16 | leoli | evaluated | 5cdac4 | 544.1 |
+| 17 | happyface | evaluated | 7e8b61 | 543.0 |
+| 18 | 13rabbit | evaluated | b38df9 | 542.8 |
+| 19 | gm | evaluated | 2898fc | 541.1 |
+| 20 | pallavi-srinivas | evaluated | 644fa9 | 540.9 |
+| 21 | Shengwei | evaluated | bd7526 | 540.5 |
+| 22 | alifim | evaluated | 701077 | 539.6 |
+| 23 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
+| 24 | stefan | evaluated | a01e76 | 537.5 |
+| 25 | sjb | evaluated | 373553 | 535.3 |
+| 26 | lipphi | evaluated | a3a71b | 534.8 |
+| 27 | landrum | evaluated | 7b5ab5 | 534.6 |
+| 28 | chickfila | evaluated | f0956d | 534.5 |
+| 29 | gravlax | evaluated | b1229d | 532.3 |
+| 30 | Junyi Li | evaluated | c7a1b3 | 527.3 |
+| 31 | yb | evaluated | ea23ab | 525.9 |
+| 32 | bl792 | evaluated | 09cd73 | 524.7 |
+| 33 | nicknam534534 | evaluated | 1bad48 | 524.1 |
+| 34 | act | evaluated | 899777 | 523.9 |
+| 35 | ethanchen | evaluated | ea518d | 523.7 |
+| 36 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 37 | yoursun1220 | evaluated | d8b590 | 521.8 |
+| 38 | Licha | evaluated | 8fdc3a | 521.4 |
+| 39 | PurplePickle67 | evaluated | 68d34e | 520.5 |
+| 40 | jbc | evaluated | 12bb20 | 520.4 |
+| 41 | ishan-pat | evaluated | fddca1 | 518.1 |
+| 42 | ngoguen | evaluated | a5cdb8 | 515.9 |
+| 43 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 44 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
+| 45 | Rithvik | evaluated | 2924a0 | 495.8 |
+| 46 | tuo | evaluated | 3d6d40 | 494.8 |
 | 47 | abhik | evaluated | bf55dc | 157.9 |
 | 48 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -83,21 +83,21 @@ Last updated: `April 07, 2026 at 01:32:27 PM ET`
 | 13 | sjb | evaluated | 373553 | 346.4 |
 | 14 | JasonWang07 | evaluated | a4b405 | 342.2 |
 | 15 | Rithvik | evaluated | 2924a0 | 335.8 |
-| 16 | leoli | evaluated | 5cdac4 | 327.5 |
-| 17 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
-| 18 | jl | evaluated | 8b6423 | 311.6 |
-| 19 | lipphi | evaluated | a3a71b | 306.7 |
-| 20 | PurplePickle67 | evaluated | 68d34e | 303.7 |
-| 21 | TA | evaluated | a6e863 | 294.5 |
-| 22 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
-| 23 | gravlax | evaluated | b1229d | 272.5 |
-| 24 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
-| 25 | ishan-pat | evaluated | fddca1 | 259.2 |
-| 26 | happyface | evaluated | 7e8b61 | 258.2 |
-| 27 | ethanchen | evaluated | ea518d | 251.2 |
-| 28 | 13rabbit | evaluated | b38df9 | 242.9 |
-| 29 | bl792 | evaluated | 09cd73 | 238.8 |
-| 30 | nickname55555555 | evaluated | f60ff5 | 231.9 |
+| 16 | nickname55555555 | evaluated | 20d1ac | 334.2 |
+| 17 | leoli | evaluated | 5cdac4 | 327.5 |
+| 18 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
+| 19 | jl | evaluated | 8b6423 | 311.6 |
+| 20 | lipphi | evaluated | a3a71b | 306.7 |
+| 21 | PurplePickle67 | evaluated | 68d34e | 303.7 |
+| 22 | TA | evaluated | a6e863 | 294.5 |
+| 23 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
+| 24 | gravlax | evaluated | b1229d | 272.5 |
+| 25 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
+| 26 | ishan-pat | evaluated | fddca1 | 259.2 |
+| 27 | happyface | evaluated | 7e8b61 | 258.2 |
+| 28 | ethanchen | evaluated | ea518d | 251.2 |
+| 29 | 13rabbit | evaluated | b38df9 | 242.9 |
+| 30 | bl792 | evaluated | 09cd73 | 238.8 |
 | 31 | beratcelik | evaluated | 863a89 | 231.2 |
 | 32 | pallavi-srinivas | evaluated | 644fa9 | 206.7 |
 | 33 | tuo | evaluated | 3d6d40 | 204.6 |
@@ -137,7 +137,7 @@ Last updated: `April 07, 2026 at 01:32:27 PM ET`
 | 5 | zhumengzhiren | evaluated | cf2924 | 28.0 |
 | 6 | abarat007 | evaluated | d7f626 | 28.1 |
 | 7 | ashaikh23 | evaluated | 84a425 | 29.1 |
-| 8 | nickname55555555 | evaluated | f60ff5 | 30.9 |
+| 8 | nickname55555555 | evaluated | 20d1ac | 30.9 |
 | 9 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
 | 10 | bl792 | evaluated | 09cd73 | 32.4 |
 | 11 | blabrl | evaluated | ca60eb | 33.7 |
@@ -199,7 +199,7 @@ Last updated: `April 07, 2026 at 01:32:27 PM ET`
 | 5 | chickfila | evaluated | f0956d | 49.6 |
 | 6 | ashaikh23 | evaluated | 84a425 | 50.2 |
 | 7 | zhumengzhiren | evaluated | cf2924 | 50.2 |
-| 8 | nickname55555555 | evaluated | f60ff5 | 51.0 |
+| 8 | nickname55555555 | evaluated | 20d1ac | 50.6 |
 | 9 | abarat007 | evaluated | d7f626 | 51.5 |
 | 10 | PurplePickle67 | evaluated | 68d34e | 52.1 |
 | 11 | sjb | evaluated | 373553 | 53.6 |
