@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 12:22:13 PM ET`
+Last updated: `April 07, 2026 at 12:30:55 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 12:28 PM ET | PurplePickle67 | evaluated |  | submission.py | 68d34e | 32.7/3.0/35.7 | 520.5 | 303.7 | 37.3 | 52.1 |
+| Apr 07 12:25 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.75%) \| max_abs_diff=12.18 | develop.py | c0ce1d | 30.9/2.5/33.5 | 560.5 | 383.0 | 24.1 | 46.5 |
 | Apr 07 12:17 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.75%) \| max_abs_diff=12.18 | submission.py | c0ce1d | 80.6/2.5/83.1 | 559.8 | 382.4 | 24.2 | 46.4 |
 | Apr 07 12:10 PM ET | PurplePickle67 | evaluated |  | submission.py | fbac65 | 28.8/4.1/32.9 | 519.2 | 302.9 | 36.7 | 317.8 |
 | Apr 07 12:06 PM ET | JasonWang07 | evaluated |  | develop.py | a4b405 | 22.8/3.1/25.9 | 554.5 | 342.4 | 71.1 | 89.4 |

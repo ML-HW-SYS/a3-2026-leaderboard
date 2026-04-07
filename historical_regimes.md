@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 12:22:13 PM ET`
+Last updated: `April 07, 2026 at 12:30:55 PM ET`
 
 ## R1 (tok/s)
 
@@ -52,8 +52,8 @@ Last updated: `April 07, 2026 at 12:22:13 PM ET`
 | 44 | act | submission.py | 899777 | 523.9 |
 | 45 | hw_bloss | submission.py | 2d26da | 523.5 |
 | 46 | Licha | submission.py | 8fdc3a | 521.4 |
-| 47 | jbc | submission.py | 12bb20 | 520.4 |
-| 48 | PurplePickle67 | submission.py | fbac65 | 519.2 |
+| 47 | PurplePickle67 | submission.py | 68d34e | 520.5 |
+| 48 | jbc | submission.py | 12bb20 | 520.4 |
 | 49 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
 | 50 | ngoguen | submission.py | a5cdb8 | 515.9 |
 | 51 | tuo | submission.py | 4274da | 507.3 |
@@ -84,7 +84,7 @@ Last updated: `April 07, 2026 at 12:22:13 PM ET`
 | 19 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 326.5 |
 | 20 | jl | submission.py | e6ce85 | 313.1 |
 | 21 | lipphi | submission.py | a3a71b | 306.7 |
-| 22 | PurplePickle67 | submission.py | 597d1d | 302.9 |
+| 22 | PurplePickle67 | submission.py | 68d34e | 303.7 |
 | 23 | TA | submission.py | 324cb8 | 295.5 |
 | 24 | beratcelik | submission.py | 7c87c2 | 294.0 |
 | 25 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
