@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 07, 2026 at 12:32:13 AM ET`
+Last updated: `April 07, 2026 at 12:41:01 AM ET`
 
 ## Pages
 
@@ -23,12 +23,12 @@ Last updated: `April 07, 2026 at 12:32:13 AM ET`
 | 9 | prousoglou | evaluated | 570c63 | 18.4/2.7/21.1 | 1.565 | 556.7 | 368.2 | 34.7 | 65.3 |
 | 10 | andrasferenczy | evaluated | 9c7f53 | 37.3/3.2/40.5 | 1.486 | 539.1 | 277.2 | 31.9 | 63.7 |
 | 11 | gravlax | evaluated | b1229d | 19.9/3.2/23.1 | 1.464 | 532.3 | 272.5 | 35.0 | 59.7 |
-| 12 | sjb | evaluated | 373553 | 28.3/2.9/31.1 | 1.457 | 535.3 | 346.4 | 50.8 | 53.6 |
-| 13 | bl792 | evaluated | 09cd73 | 18.3/3.5/21.8 | 1.438 | 524.7 | 238.8 | 32.4 | 59.9 |
-| 14 | Shengwei | evaluated | bd7526 | 19.3/2.9/22.1 | 1.415 | 540.5 | 347.3 | 45.6 | 68.0 |
-| 15 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 41.6/3.3/44.9 | 1.370 | 515.1 | 266.6 | 43.1 | 59.9 |
-| 16 | happyface | evaluated | 7e8b61 | 18.5/3.4/22.0 | 1.219 | 543.0 | 258.2 | 63.7 | 66.0 |
-| 17 | PurplePickle67 | evaluated | 676fd5 | 30.4/5.7/36.0 | 1.195 | 488.3 | 119.9 | 36.5 | 52.2 |
+| 12 | PurplePickle67 | evaluated | 6d549a | 47.3/3.3/50.6 | 1.459 | 488.4 | 267.7 | 36.7 | 52.1 |
+| 13 | sjb | evaluated | 373553 | 28.3/2.9/31.1 | 1.457 | 535.3 | 346.4 | 50.8 | 53.6 |
+| 14 | bl792 | evaluated | 09cd73 | 18.3/3.5/21.8 | 1.438 | 524.7 | 238.8 | 32.4 | 59.9 |
+| 15 | Shengwei | evaluated | bd7526 | 19.3/2.9/22.1 | 1.415 | 540.5 | 347.3 | 45.6 | 68.0 |
+| 16 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 41.6/3.3/44.9 | 1.370 | 515.1 | 266.6 | 43.1 | 59.9 |
+| 17 | happyface | evaluated | 7e8b61 | 18.5/3.4/22.0 | 1.219 | 543.0 | 258.2 | 63.7 | 66.0 |
 | 18 | alifim | evaluated | 701077 | 30.0/3.0/33.0 | 1.178 | 539.6 | 381.2 | 64.8 | 109.2 |
 | 19 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 37.2/3.1/40.3 | 1.177 | 560.4 | 326.5 | 70.9 | 89.2 |
 | 20 | leoli | evaluated | 5cdac4 | 20.6/3.1/23.8 | 1.174 | 544.1 | 327.5 | 71.0 | 87.4 |
@@ -55,9 +55,9 @@ Last updated: `April 07, 2026 at 12:32:13 AM ET`
 | 41 | yoursun1220 | evaluated | d8b590 | 19.8/6.2/26.1 | 0.524 | 521.8 | 169.2 | 310.7 | 250.1 |
 | 42 | ngoguen | evaluated | a5cdb8 | 40.8/6.2/47.0 | 0.523 | 515.9 | 169.7 | 310.3 | 249.7 |
 | 43 | jbc | evaluated | 12bb20 | 21.1/6.3/27.4 | 0.522 | 520.4 | 169.0 | 311.3 | 251.3 |
-| 44 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
-| 45 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
-|  | abhik | failed | a98dcd | 15.7/5.0/20.7 |  |  |  |  |  |
+| 44 | abhik | evaluated | bf55dc | 16.0/8.5/24.5 | 0.485 | 157.9 | 127.8 | 140.5 | 172.5 |
+| 45 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
+| 46 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
 |  | act | failed | 4e8b73 | 27.1/6.2/33.3 |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | JasonWang07 | failed | 9f01bd | 44.1/2.4/46.6 |  |  |  |  |  |
@@ -67,7 +67,7 @@ Last updated: `April 07, 2026 at 12:32:13 AM ET`
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | Sulaiman Alam | failed | bb69e8 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | TheProphet | failed | 407c9a | 30.7/1.6/32.3 |  |  |  |  |  |
-|  | vallabkaranam | failed | eb67f2 |  |  |  |  |  |  |
+|  | vallabkaranam | failed | 04c144 |  |  |  |  |  |  |
 |  | yb | failed | 8ca88e | 0.0/0.0/0.0 |  |  |  |  |  |
 
 ## Column Guide

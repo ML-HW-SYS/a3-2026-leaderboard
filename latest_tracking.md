@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 12:32:13 AM ET`
+Last updated: `April 07, 2026 at 12:41:01 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 12:41 AM ET | vallabkaranam | failed_security | Security policy check failed for submission.py: \| - prohibited import: importlib.util \| - prohibited import: pathlib | submission.py | 04c144 |  |  |  |  |  |
+| Apr 07 12:38 AM ET | abhik | evaluated |  | submission.py | bf55dc | 16.0/8.5/24.5 | 157.9 | 127.8 | 140.5 | 172.5 |
+| Apr 07 12:37 AM ET | PurplePickle67 | evaluated |  | submission.py | 6d549a | 47.3/3.3/50.6 | 488.4 | 267.7 | 36.7 | 52.1 |
+| Apr 07 12:35 AM ET | act | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | 15bd09 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 07 12:32 AM ET | vallabkaranam | failed_security | Security policy check failed for submission.py: \| - prohibited import: importlib.util \| - prohibited import: pathlib | submission.py | eb67f2 |  |  |  |  |  |
 | Apr 07 12:30 AM ET | abhik | failed_correctness | R1: SETUP: ERR: RuntimeError: shape '[1, 1, 896]' is invalid for input of size 236544 | submission.py | a98dcd | 15.7/5.0/20.7 | 0.0 | 135.4 | 140.4 | 173.0 |
 | Apr 07 12:28 AM ET | nickname55555555 | evaluated |  | develop.py | cde7cb | 23.3/5.6/28.9 | 536.5 | 177.4 | 275.1 | 176.2 |

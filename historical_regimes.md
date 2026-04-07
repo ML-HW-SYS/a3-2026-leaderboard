@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 12:32:13 AM ET`
+Last updated: `April 07, 2026 at 12:41:01 AM ET`
 
 ## R1 (tok/s)
 
@@ -85,22 +85,22 @@ Last updated: `April 07, 2026 at 12:32:13 AM ET`
 | 22 | beratcelik | submission.py | 7c87c2 | 294.0 |
 | 23 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
 | 24 | gravlax | develop.py | b1229d | 273.0 |
-| 25 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
-| 26 | ishan-pat | develop.py | 75d32d | 259.7 |
-| 27 | happyface | develop.py | 0aca52 | 259.4 |
-| 28 | omermoav | submission.py | c75309 | 259.0 |
-| 29 | pyjuan91 | submission.py | 7ff296 | 256.3 |
-| 30 | ethanchen | submission.py | ea518d | 251.2 |
-| 31 | Yize | submission.py | e17a72 | 249.1 |
-| 32 | fishyfins | develop.py | 87e789 | 243.3 |
-| 33 | 13rabbit | develop.py | b38df9 | 243.3 |
-| 34 | bl792 | develop.py | 09cd73 | 239.0 |
-| 35 | abhik | submission.py | 572159 | 224.0 |
-| 36 | tuo | submission.py | 3d6d40 | 204.6 |
-| 37 | Licha | submission.py | 8fdc3a | 192.4 |
-| 38 | landrum | develop.py | 6615c9 | 177.3 |
-| 39 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 40 | PurplePickle67 | submission.py | 231258 | 172.1 |
+| 25 | PurplePickle67 | submission.py | 6d549a | 267.7 |
+| 26 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
+| 27 | ishan-pat | develop.py | 75d32d | 259.7 |
+| 28 | happyface | develop.py | 0aca52 | 259.4 |
+| 29 | omermoav | submission.py | c75309 | 259.0 |
+| 30 | pyjuan91 | submission.py | 7ff296 | 256.3 |
+| 31 | ethanchen | submission.py | ea518d | 251.2 |
+| 32 | Yize | submission.py | e17a72 | 249.1 |
+| 33 | fishyfins | develop.py | 87e789 | 243.3 |
+| 34 | 13rabbit | develop.py | b38df9 | 243.3 |
+| 35 | bl792 | develop.py | 09cd73 | 239.0 |
+| 36 | abhik | submission.py | 572159 | 224.0 |
+| 37 | tuo | submission.py | 3d6d40 | 204.6 |
+| 38 | Licha | submission.py | 8fdc3a | 192.4 |
+| 39 | landrum | develop.py | 6615c9 | 177.3 |
+| 40 | your_nickname_here | submission.py | 59e245 | 173.4 |
 | 41 | pallavi-srinivas | submission.py | 51aea6 | 170.0 |
 | 42 | stefan | develop.py | 9a25e1 | 170.0 |
 | 43 | yoursun1220 | submission.py | 27e400 | 169.9 |
