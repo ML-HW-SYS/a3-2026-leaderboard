@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 07, 2026 at 04:02:32 AM ET`
+Last updated: `April 07, 2026 at 04:11:25 AM ET`
 
 ## Pages
 
@@ -58,7 +58,7 @@ Last updated: `April 07, 2026 at 04:02:32 AM ET`
 | 44 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
 |  | ashaikh23 | failed | 28f2f4 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
-|  | fishyfins | failed | 77bb1f | 11.9/4.2/16.1 |  |  |  |  |  |
+|  | fishyfins | failed | d204b8 | 31.2/4.2/35.4 |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
 |  | nickname55555555 | failed | 138f26 | 70.3/2.6/72.8 |  |  |  |  |  |
 |  | omermoav | failed | dc63b9 | 64.9/2.4/67.2 |  |  |  |  |  |

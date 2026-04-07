@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 04:02:32 AM ET`
+Last updated: `April 07, 2026 at 04:11:25 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 04:07 AM ET | fishyfins | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | submission.py | d204b8 | 31.2/4.2/35.4 | 512.8 | 159.6 | 0.0 | 0.0 |
 | Apr 07 04:01 AM ET | ashaikh23 | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 28f2f4 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 07 03:55 AM ET | pallavi-srinivas | evaluated |  | submission.py | c7a655 | 19.6/5.1/24.6 | 538.8 | 197.8 | 190.0 | 192.5 |
 | Apr 07 03:54 AM ET | omermoav | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | submission.py | dc63b9 | 64.9/2.4/67.2 | 559.4 | 374.3 | 26.9 | 0.0 |

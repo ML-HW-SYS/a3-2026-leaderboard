@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 04:02:32 AM ET`
+Last updated: `April 07, 2026 at 04:11:25 AM ET`
 
 ## R1 (tok/s)
 
@@ -52,7 +52,7 @@ Last updated: `April 07, 2026 at 04:02:32 AM ET`
 | 44 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | ashaikh23 | failed | 28f2f4 |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | 77bb1f |  |
+|  | fishyfins | failed | d204b8 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | nickname55555555 | failed | 138f26 |  |
 |  | omermoav | failed | dc63b9 |  |
@@ -114,7 +114,7 @@ Last updated: `April 07, 2026 at 04:02:32 AM ET`
 | 44 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | ashaikh23 | failed | 28f2f4 |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | 77bb1f |  |
+|  | fishyfins | failed | d204b8 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | nickname55555555 | failed | 138f26 |  |
 |  | omermoav | failed | dc63b9 |  |
@@ -176,7 +176,7 @@ Last updated: `April 07, 2026 at 04:02:32 AM ET`
 | 44 | Decode_speed | evaluated | 097a6b | 412.7 |
 |  | ashaikh23 | failed | 28f2f4 |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | 77bb1f |  |
+|  | fishyfins | failed | d204b8 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | nickname55555555 | failed | 138f26 |  |
 |  | omermoav | failed | dc63b9 |  |
@@ -238,7 +238,7 @@ Last updated: `April 07, 2026 at 04:02:32 AM ET`
 | 44 | Decode_speed | evaluated | 097a6b | 270.3 |
 |  | ashaikh23 | failed | 28f2f4 |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | 77bb1f |  |
+|  | fishyfins | failed | d204b8 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | nickname55555555 | failed | 138f26 |  |
 |  | omermoav | failed | dc63b9 |  |
