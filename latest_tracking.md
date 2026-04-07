@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 04:36:56 AM ET`
+Last updated: `April 07, 2026 at 04:44:51 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 04:38 AM ET | pyjuan91 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | develop.py | 4b47b7 | 18.7/11.5/30.2 | 204.5 | 101.0 | 610.9 | 371.4 |
 | Apr 07 04:36 AM ET | ashaikh23 | evaluated |  | develop.py | d27dba | 21.6/3.1/24.6 | 550.7 | 344.0 | 59.0 | 109.9 |
 | Apr 07 04:28 AM ET | ashaikh23 | evaluated |  | submission.py | 5ba32f | 41.3/3.1/44.4 | 556.9 | 343.2 | 59.4 | 110.5 |
 | Apr 07 04:16 AM ET | fishyfins | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | develop.py | d204b8 | 34.1/4.5/38.6 | 509.2 | 144.7 | 0.0 | 0.0 |
