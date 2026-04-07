@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 10:21:24 AM ET`
+Last updated: `April 07, 2026 at 10:29:25 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 10:27 AM ET | ishan-pat | evaluated |  | submission.py | fddca1 | 31.2/3.6/34.9 | 518.1 | 259.2 | 56.0 | 111.8 |
 | Apr 07 10:18 AM ET | PurplePickle67 | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | f274f3 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 07 10:16 AM ET | nickname55555555 | evaluated |  | submission.py | 2599d1 | 23.1/2.8/25.9 | 550.6 | 334.4 | 32.2 | 53.0 |
 | Apr 07 10:10 AM ET | ishan-pat | evaluated |  | develop.py | 73b7ce | 23.3/3.6/26.9 | 522.0 | 258.4 | 56.2 | 108.7 |
