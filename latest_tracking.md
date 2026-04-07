@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 07:53:54 PM ET`
+Last updated: `April 06, 2026 at 08:02:23 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 08:01 PM ET | yoursun1220 | evaluated |  | submission.py | d8b590 | 19.8/6.2/26.1 | 521.8 | 169.2 | 310.7 | 250.1 |
+| Apr 06 07:57 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.75%) \| max_abs_diff=12.18 | submission.py | 1759bd | 30.0/2.6/32.5 | 550.6 | 380.6 | 24.1 | 46.4 |
 | Apr 06 07:53 PM ET | yoursun1220 | failed_correctness | Correctness FAIL \| R2 (88.59%), R3 (78.42%), R4 (83.54%) \| max_abs_diff=17 | submission.py | cd2809 | 18.7/3.8/22.5 | 519.2 | 255.2 | 68.2 | 127.0 |
 | Apr 06 07:48 PM ET | Yize | evaluated |  | develop.py | fdb032 | 19.1/4.8/23.9 | 525.2 | 169.5 | 80.8 | 130.0 |
 | Apr 06 07:43 PM ET | mdavalos10 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | 20a04b | 22.4/6.2/28.6 | 535.5 | 171.1 | 309.0 | 247.1 |
