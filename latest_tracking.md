@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 01:06:04 AM ET`
+Last updated: `April 07, 2026 at 01:16:26 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 01:15 AM ET | ashaikh23 | evaluated |  | submission.py | 7b5e3c | 44.0/3.2/47.2 | 538.1 | 334.7 | 59.1 | 110.1 |
+| Apr 07 01:12 AM ET | nickname55555555 | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | submission.py | 138f26 | 70.3/2.6/72.8 | 555.5 | 334.8 | 31.8 | 0.0 |
+| Apr 07 01:09 AM ET | act | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | 427125 | 15.8/9.7/25.5 | 165.9 | 115.6 | 309.6 | 247.3 |
 | Apr 07 01:06 AM ET | vallabkaranam | failed_security | Security policy check failed for develop.py: \| - prohibited import: importlib.util \| - prohibited import: pathlib | develop.py | 6ec27b |  |  |  |  |  |
 | Apr 07 01:01 AM ET | act | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 427125 | 15.9/9.7/25.6 | 168.8 | 114.6 | 308.3 | 246.6 |
 | Apr 07 12:59 AM ET | JasonWang07 | evaluated |  | develop.py | 3272aa | 25.4/3.0/28.4 | 555.8 | 337.1 | 70.7 | 79.0 |
