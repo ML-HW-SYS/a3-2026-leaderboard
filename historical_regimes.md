@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 12:10:04 AM ET`
+Last updated: `April 07, 2026 at 12:22:44 AM ET`
 
 ## R1 (tok/s)
 
@@ -53,8 +53,9 @@ Last updated: `April 07, 2026 at 12:10:04 AM ET`
 | 45 | PurplePickle67 | submission.py | 231258 | 519.1 |
 | 46 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
 | 47 | ngoguen | submission.py | a5cdb8 | 515.9 |
-| 48 | tuo | submission.py | 4274da | 507.3 |
-| 49 | Decode_speed | submission.py | 097a6b | 104.5 |
+| 48 | jbc | develop.py | 4e7308 | 513.6 |
+| 49 | tuo | submission.py | 4274da | 507.3 |
+| 50 | Decode_speed | submission.py | 097a6b | 104.5 |
 
 ## R2 (tok/s)
 
@@ -106,8 +107,9 @@ Last updated: `April 07, 2026 at 12:10:04 AM ET`
 | 44 | hw_bloss | submission.py | b2767b | 169.8 |
 | 45 | ngoguen | submission.py | a5cdb8 | 169.7 |
 | 46 | Junyi Li | submission.py | c7a1b3 | 169.7 |
-| 47 | nicknam534534 | submission.py | 1bad48 | 148.4 |
-| 48 | Decode_speed | submission.py | 097a6b | 77.3 |
+| 47 | jbc | develop.py | 4e7308 | 169.4 |
+| 48 | nicknam534534 | submission.py | 1bad48 | 148.4 |
+| 49 | Decode_speed | submission.py | 097a6b | 77.3 |
 
 ## R3 (ms)
 
@@ -158,9 +160,10 @@ Last updated: `April 07, 2026 at 12:10:04 AM ET`
 | 43 | your_nickname_here | submission.py | 59e245 | 307.4 |
 | 44 | yoursun1220 | submission.py | 27e400 | 308.6 |
 | 45 | pallavi-srinivas | submission.py | 51aea6 | 308.9 |
-| 46 | stefan | develop.py | 9a25e1 | 309.6 |
-| 47 | ngoguen | submission.py | a5cdb8 | 310.3 |
-| 48 | Decode_speed | submission.py | 097a6b | 412.7 |
+| 46 | jbc | develop.py | 4e7308 | 309.3 |
+| 47 | stefan | develop.py | 9a25e1 | 309.6 |
+| 48 | ngoguen | submission.py | a5cdb8 | 310.3 |
+| 49 | Decode_speed | submission.py | 097a6b | 412.7 |
 
 ## R4 (ms)
 
@@ -190,7 +193,7 @@ Last updated: `April 07, 2026 at 12:10:04 AM ET`
 | 22 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 89.2 |
 | 23 | ishan-pat | submission.py | 564670 | 107.0 |
 | 24 | alifim | submission.py | 701077 | 109.2 |
-| 25 | ashaikh23 | submission.py | 1ce409 | 109.7 |
+| 25 | ashaikh23 | submission.py | 1d496e | 109.6 |
 | 26 | beratcelik | submission.py | 11c1b8 | 110.5 |
 | 27 | Junyi Li | submission.py | c7a1b3 | 113.1 |
 | 28 | ethanchen | submission.py | bf6f9e | 123.0 |
@@ -211,6 +214,7 @@ Last updated: `April 07, 2026 at 12:10:04 AM ET`
 | 43 | your_nickname_here | submission.py | 59e245 | 245.7 |
 | 44 | stefan | develop.py | 9a25e1 | 248.5 |
 | 45 | yoursun1220 | submission.py | 27e400 | 248.7 |
-| 46 | pallavi-srinivas | submission.py | 51aea6 | 249.3 |
-| 47 | ngoguen | submission.py | a5cdb8 | 249.7 |
-| 48 | Decode_speed | submission.py | 097a6b | 270.3 |
+| 46 | jbc | develop.py | 4e7308 | 248.9 |
+| 47 | pallavi-srinivas | submission.py | 51aea6 | 249.3 |
+| 48 | ngoguen | submission.py | a5cdb8 | 249.7 |
+| 49 | Decode_speed | submission.py | 097a6b | 270.3 |

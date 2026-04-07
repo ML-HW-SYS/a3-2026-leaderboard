@@ -1,9 +1,17 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 12:10:04 AM ET`
+Last updated: `April 07, 2026 at 12:22:44 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 12:22 AM ET | vallabkaranam | failed_security | Security policy check failed for submission.py: \| - prohibited import: importlib.util \| - prohibited import: pathlib | submission.py | 62c177 |  |  |  |  |  |
+| Apr 07 12:21 AM ET | ashaikh23 | evaluated |  | submission.py | 1d496e | 44.2/3.2/47.3 | 533.9 | 333.9 | 59.1 | 109.6 |
+| Apr 07 12:19 AM ET | abhik | evaluated |  | submission.py | 254451 | 16.4/7.8/24.2 | 171.8 | 143.9 | 140.5 | 172.7 |
+| Apr 07 12:18 AM ET | PurplePickle67 | evaluated |  | submission.py | 676fd5 | 30.4/5.7/36.0 | 488.3 | 119.9 | 36.5 | 52.2 |
+| Apr 07 12:17 AM ET | nickname55555555 | evaluated |  | submission.py | cde7cb | 58.7/5.7/64.3 | 537.4 | 177.0 | 275.5 | 176.5 |
+| Apr 07 12:14 AM ET | Junyi Li | evaluated |  | develop.py | c7a1b3 | 24.6/4.7/29.2 | 528.2 | 169.5 | 61.9 | 113.2 |
+| Apr 07 12:13 AM ET | jbc | evaluated |  | develop.py | 4e7308 | 39.6/6.3/45.9 | 513.6 | 169.4 | 309.3 | 248.9 |
+| Apr 07 12:12 AM ET | sjb | evaluated |  | submission.py | 373553 | 28.3/2.9/31.1 | 535.3 | 346.4 | 50.8 | 53.6 |
 | Apr 07 12:10 AM ET | vallabkaranam | failed_security | Security policy check failed for submission.py: \| - prohibited import: importlib.util \| - prohibited import: pathlib | submission.py | 54ebab |  |  |  |  |  |
 | Apr 07 12:05 AM ET | Junyi Li | evaluated |  | submission.py | c7a1b3 | 38.5/4.7/43.2 | 527.3 | 169.7 | 60.9 | 113.1 |
 | Apr 07 12:04 AM ET | jbc | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 4e7308 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
