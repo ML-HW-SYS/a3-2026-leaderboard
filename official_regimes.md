@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 06, 2026 at 08:39:55 PM ET`
+Last updated: `April 06, 2026 at 08:48:32 PM ET`
 
 ## R1 (tok/s)
 
@@ -57,7 +57,7 @@ Last updated: `April 06, 2026 at 08:39:55 PM ET`
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | Sulaiman Alam | failed | 6478cf |  |
-|  | TheProphet | failed | 37ec9e |  |
+|  | TheProphet | failed | 7ffc0c |  |
 |  | yb | failed | 8ca88e |  |
 
 ## R2 (tok/s)
@@ -115,7 +115,7 @@ Last updated: `April 06, 2026 at 08:39:55 PM ET`
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | Sulaiman Alam | failed | 6478cf |  |
-|  | TheProphet | failed | 37ec9e |  |
+|  | TheProphet | failed | 7ffc0c |  |
 |  | yb | failed | 8ca88e |  |
 
 ## R3 (ms)
@@ -173,7 +173,7 @@ Last updated: `April 06, 2026 at 08:39:55 PM ET`
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | Sulaiman Alam | failed | 6478cf |  |
-|  | TheProphet | failed | 37ec9e |  |
+|  | TheProphet | failed | 7ffc0c |  |
 |  | yb | failed | 8ca88e |  |
 
 ## R4 (ms)
@@ -231,5 +231,5 @@ Last updated: `April 06, 2026 at 08:39:55 PM ET`
 |  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | Sulaiman Alam | failed | 6478cf |  |
-|  | TheProphet | failed | 37ec9e |  |
+|  | TheProphet | failed | 7ffc0c |  |
 |  | yb | failed | 8ca88e |  |
