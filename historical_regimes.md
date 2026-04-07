@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 06, 2026 at 11:38:48 PM ET`
+Last updated: `April 06, 2026 at 11:51:27 PM ET`
 
 ## R1 (tok/s)
 
@@ -93,18 +93,18 @@ Last updated: `April 06, 2026 at 11:38:48 PM ET`
 | 31 | fishyfins | develop.py | 87e789 | 243.3 |
 | 32 | 13rabbit | develop.py | b38df9 | 243.3 |
 | 33 | bl792 | develop.py | 09cd73 | 239.0 |
-| 34 | tuo | submission.py | 3d6d40 | 204.6 |
-| 35 | Licha | submission.py | 8fdc3a | 192.4 |
-| 36 | landrum | develop.py | 6615c9 | 177.3 |
-| 37 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 38 | PurplePickle67 | submission.py | 231258 | 172.1 |
-| 39 | abhik | develop.py | 41a3ec | 171.7 |
-| 40 | stefan | develop.py | 9a25e1 | 170.0 |
-| 41 | yoursun1220 | submission.py | 27e400 | 169.9 |
-| 42 | hw_bloss | submission.py | b2767b | 169.8 |
-| 43 | ngoguen | submission.py | a5cdb8 | 169.7 |
-| 44 | pallavi-srinivas | develop.py | b3ca1f | 169.5 |
-| 45 | Junyi Li | submission.py | 2e381b | 169.2 |
+| 34 | abhik | submission.py | 572159 | 224.0 |
+| 35 | tuo | submission.py | 3d6d40 | 204.6 |
+| 36 | Licha | submission.py | 8fdc3a | 192.4 |
+| 37 | landrum | develop.py | 6615c9 | 177.3 |
+| 38 | your_nickname_here | submission.py | 59e245 | 173.4 |
+| 39 | PurplePickle67 | submission.py | 231258 | 172.1 |
+| 40 | pallavi-srinivas | submission.py | 51aea6 | 170.0 |
+| 41 | stefan | develop.py | 9a25e1 | 170.0 |
+| 42 | yoursun1220 | submission.py | 27e400 | 169.9 |
+| 43 | hw_bloss | submission.py | b2767b | 169.8 |
+| 44 | ngoguen | submission.py | a5cdb8 | 169.7 |
+| 45 | Junyi Li | develop.py | 2e381b | 169.5 |
 | 46 | nicknam534534 | submission.py | 1bad48 | 148.4 |
 | 47 | Decode_speed | submission.py | 097a6b | 77.3 |
 
@@ -150,15 +150,16 @@ Last updated: `April 06, 2026 at 11:38:48 PM ET`
 | 36 | nicknam534534 | develop.py | cd4c9b | 210.5 |
 | 37 | landrum | submission.py | 7b5ab5 | 275.1 |
 | 38 | pyjuan91 | develop.py | 268544 | 303.2 |
-| 39 | Junyi Li | submission.py | 2e381b | 303.8 |
+| 39 | Junyi Li | develop.py | 2e381b | 303.4 |
 | 40 | fishyfins | submission.py | 2ac776 | 305.7 |
 | 41 | hw_bloss | submission.py | b2767b | 306.7 |
 | 42 | your_nickname_here | submission.py | 59e245 | 307.4 |
 | 43 | yoursun1220 | submission.py | 27e400 | 308.6 |
-| 44 | stefan | develop.py | 9a25e1 | 309.6 |
-| 45 | pallavi-srinivas | develop.py | b3ca1f | 310.0 |
+| 44 | pallavi-srinivas | submission.py | 51aea6 | 308.9 |
+| 45 | stefan | develop.py | 9a25e1 | 309.6 |
 | 46 | ngoguen | submission.py | a5cdb8 | 310.3 |
 | 47 | Decode_speed | submission.py | 097a6b | 412.7 |
+| 48 | omermoav | submission.py | dad2cc | 621.0 |
 
 ## R4 (ms)
 
@@ -174,7 +175,7 @@ Last updated: `April 06, 2026 at 11:38:48 PM ET`
 | 8 | abarat007 | submission.py | 260fed | 51.5 |
 | 9 | PurplePickle67 | submission.py | 2efdba | 51.9 |
 | 10 | nickname55555555 | submission.py | 05c6ab | 52.5 |
-| 11 | sjb | develop.py | 4cba09 | 53.4 |
+| 11 | sjb | develop.py | 387987 | 53.1 |
 | 12 | gravlax | submission.py | b1229d | 59.7 |
 | 13 | bl792 | develop.py | 09cd73 | 59.8 |
 | 14 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 59.9 |
@@ -198,16 +199,17 @@ Last updated: `April 06, 2026 at 11:38:48 PM ET`
 | 32 | jl | submission.py | e6ce85 | 148.1 |
 | 33 | lipphi | submission.py | a3a71b | 150.9 |
 | 34 | tuo | submission.py | 4274da | 160.5 |
-| 35 | abhik | submission.py | 93ffca | 172.6 |
+| 35 | abhik | submission.py | 572159 | 172.1 |
 | 36 | landrum | develop.py | 434be2 | 176.1 |
 | 37 | Licha | submission.py | 8fdc3a | 215.0 |
-| 38 | Junyi Li | submission.py | 2e381b | 232.4 |
+| 38 | Junyi Li | develop.py | 2e381b | 232.3 |
 | 39 | fishyfins | submission.py | 2ac776 | 234.0 |
 | 40 | pyjuan91 | develop.py | 268544 | 234.1 |
 | 41 | hw_bloss | submission.py | b2767b | 237.0 |
 | 42 | your_nickname_here | submission.py | 59e245 | 245.7 |
 | 43 | stefan | develop.py | 9a25e1 | 248.5 |
 | 44 | yoursun1220 | submission.py | 27e400 | 248.7 |
-| 45 | ngoguen | submission.py | a5cdb8 | 249.7 |
-| 46 | pallavi-srinivas | develop.py | b3ca1f | 250.8 |
+| 45 | pallavi-srinivas | submission.py | 51aea6 | 249.3 |
+| 46 | ngoguen | submission.py | a5cdb8 | 249.7 |
 | 47 | Decode_speed | submission.py | 097a6b | 270.3 |
+| 48 | omermoav | submission.py | dad2cc | 383.5 |

@@ -1,9 +1,16 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 11:38:48 PM ET`
+Last updated: `April 06, 2026 at 11:51:27 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 11:49 PM ET | abhik | evaluated |  | submission.py | 572159 | 38.2/4.5/42.7 | 537.4 | 224.0 | 140.9 | 172.1 |
+| Apr 06 11:47 PM ET | PurplePickle67 | evaluated |  | submission.py | af7bbc | 39.2/16.1/55.4 | 44.6 | 118.6 | 36.5 | 52.1 |
+| Apr 06 11:44 PM ET | Junyi Li | evaluated |  | develop.py | 2e381b | 25.6/6.1/31.8 | 527.0 | 169.5 | 303.4 | 232.3 |
+| Apr 06 11:43 PM ET | pallavi-srinivas | evaluated |  | submission.py | 51aea6 | 19.8/6.2/26.0 | 517.6 | 170.0 | 308.9 | 249.3 |
+| Apr 06 11:43 PM ET | sjb | evaluated |  | develop.py | 387987 | 28.0/2.9/30.9 | 530.6 | 346.1 | 50.8 | 53.1 |
+| Apr 06 11:41 PM ET | omermoav | failed_correctness | R2: SETUP: ERR: ValueError: block_mask was created for block_mask.shape=(1, 14, 4096, 4096) but got q_len=4096 and kv... | submission.py | dad2cc | 18.8/5.0/23.8 | 527.0 | 0.0 | 621.0 | 383.5 |
+| Apr 06 11:40 PM ET | JasonWang07 | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | submission.py | 9f01bd | 44.1/2.4/46.6 | 557.4 | 335.3 | 0.0 | 0.0 |
 | Apr 06 11:34 PM ET | Junyi Li | evaluated |  | submission.py | 2e381b | 63.8/6.1/69.9 | 529.4 | 169.2 | 303.8 | 232.4 |
 | Apr 06 11:32 PM ET | sjb | failed_correctness | R1: SETUP: ERR: AttributeError: 'Linear' object has no attribute 'fp_weight' \| R2: SETUP: ERR: AttributeError: 'Linea... | develop.py | c3347c | 13.4/0.0/13.4 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 06 11:30 PM ET | omermoav | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | 84f67a | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
