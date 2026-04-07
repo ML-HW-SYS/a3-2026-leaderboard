@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 07, 2026 at 01:58:00 AM ET`
+Last updated: `April 07, 2026 at 02:06:11 AM ET`
 
 ## Pages
 
@@ -58,7 +58,7 @@ Last updated: `April 07, 2026 at 01:58:00 AM ET`
 | 44 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
 | 45 | act | evaluated | 1b5e17 | 38.8/7.7/46.5 | 0.417 | 346.3 | 147.5 | 412.7 | 270.4 |
 | 46 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
-|  | ashaikh23 | failed | 3f2c6e | 13.6/0.0/13.6 |  |  |  |  |  |
+|  | ashaikh23 | failed | 2e3aeb | 13.6/0.0/13.6 |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
 |  | nickname55555555 | failed | 138f26 | 70.3/2.6/72.8 |  |  |  |  |  |

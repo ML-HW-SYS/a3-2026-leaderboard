@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 01:58:00 AM ET`
+Last updated: `April 07, 2026 at 02:06:11 AM ET`
 
 ## R1 (tok/s)
 
@@ -50,11 +50,11 @@ Last updated: `April 07, 2026 at 01:58:00 AM ET`
 | 42 | nicknam534534 | submission.py | 1bad48 | 524.1 |
 | 43 | hw_bloss | submission.py | 2d26da | 523.5 |
 | 44 | Licha | submission.py | 8fdc3a | 521.4 |
-| 45 | jbc | submission.py | 12bb20 | 520.4 |
-| 46 | PurplePickle67 | submission.py | 231258 | 519.1 |
-| 47 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
-| 48 | ngoguen | submission.py | a5cdb8 | 515.9 |
-| 49 | act | submission.py | 48522c | 513.9 |
+| 45 | act | develop.py | 1b5e17 | 520.5 |
+| 46 | jbc | submission.py | 12bb20 | 520.4 |
+| 47 | PurplePickle67 | submission.py | 231258 | 519.1 |
+| 48 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
+| 49 | ngoguen | submission.py | a5cdb8 | 515.9 |
 | 50 | tuo | submission.py | 4274da | 507.3 |
 | 51 | Decode_speed | submission.py | 097a6b | 104.5 |
 
@@ -109,7 +109,7 @@ Last updated: `April 07, 2026 at 01:58:00 AM ET`
 | 45 | ngoguen | submission.py | a5cdb8 | 169.7 |
 | 46 | Junyi Li | submission.py | c7a1b3 | 169.7 |
 | 47 | jbc | develop.py | 4e7308 | 169.4 |
-| 48 | act | submission.py | 48522c | 168.6 |
+| 48 | act | develop.py | 1b5e17 | 168.9 |
 | 49 | nicknam534534 | submission.py | 1bad48 | 148.4 |
 | 50 | Decode_speed | submission.py | 097a6b | 77.3 |
 
@@ -165,7 +165,7 @@ Last updated: `April 07, 2026 at 01:58:00 AM ET`
 | 46 | jbc | develop.py | 4e7308 | 309.3 |
 | 47 | stefan | develop.py | 9a25e1 | 309.6 |
 | 48 | ngoguen | submission.py | a5cdb8 | 310.3 |
-| 49 | act | submission.py | 48522c | 311.9 |
+| 49 | act | develop.py | 1b5e17 | 310.9 |
 | 50 | Decode_speed | submission.py | 097a6b | 412.7 |
 
 ## R4 (ms)
@@ -220,5 +220,5 @@ Last updated: `April 07, 2026 at 01:58:00 AM ET`
 | 46 | jbc | develop.py | 4e7308 | 248.9 |
 | 47 | pallavi-srinivas | submission.py | 51aea6 | 249.3 |
 | 48 | ngoguen | submission.py | a5cdb8 | 249.7 |
-| 49 | act | submission.py | 48522c | 251.8 |
+| 49 | act | develop.py | 1b5e17 | 250.6 |
 | 50 | Decode_speed | submission.py | 097a6b | 270.3 |

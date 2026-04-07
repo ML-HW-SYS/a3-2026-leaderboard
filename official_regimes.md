@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 01:58:00 AM ET`
+Last updated: `April 07, 2026 at 02:06:11 AM ET`
 
 ## R1 (tok/s)
 
@@ -52,7 +52,7 @@ Last updated: `April 07, 2026 at 01:58:00 AM ET`
 | 44 | act | evaluated | 1b5e17 | 346.3 |
 | 45 | abhik | evaluated | bf55dc | 157.9 |
 | 46 | Decode_speed | evaluated | 097a6b | 104.5 |
-|  | ashaikh23 | failed | 3f2c6e |  |
+|  | ashaikh23 | failed | 2e3aeb |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | nickname55555555 | failed | 138f26 |  |
@@ -114,7 +114,7 @@ Last updated: `April 07, 2026 at 01:58:00 AM ET`
 | 44 | act | evaluated | 1b5e17 | 147.5 |
 | 45 | abhik | evaluated | bf55dc | 127.8 |
 | 46 | Decode_speed | evaluated | 097a6b | 77.3 |
-|  | ashaikh23 | failed | 3f2c6e |  |
+|  | ashaikh23 | failed | 2e3aeb |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | nickname55555555 | failed | 138f26 |  |
@@ -176,7 +176,7 @@ Last updated: `April 07, 2026 at 01:58:00 AM ET`
 | 44 | nicknam534534 | evaluated | 1bad48 | 405.4 |
 | 45 | Decode_speed | evaluated | 097a6b | 412.7 |
 | 46 | act | evaluated | 1b5e17 | 412.7 |
-|  | ashaikh23 | failed | 3f2c6e |  |
+|  | ashaikh23 | failed | 2e3aeb |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | nickname55555555 | failed | 138f26 |  |
@@ -238,7 +238,7 @@ Last updated: `April 07, 2026 at 01:58:00 AM ET`
 | 44 | nicknam534534 | evaluated | 1bad48 | 269.2 |
 | 45 | Decode_speed | evaluated | 097a6b | 270.3 |
 | 46 | act | evaluated | 1b5e17 | 270.4 |
-|  | ashaikh23 | failed | 3f2c6e |  |
+|  | ashaikh23 | failed | 2e3aeb |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | nickname55555555 | failed | 138f26 |  |

@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 01:58:00 AM ET`
+Last updated: `April 07, 2026 at 02:06:11 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 02:05 AM ET | ashaikh23 | failed_correctness | R1: SETUP: ERR: RuntimeError: Expected in.dtype() == at::kByte to be true, but got false. (Could this error message b... | submission.py | 2e3aeb | 13.6/0.0/13.6 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 07 02:01 AM ET | act | evaluated |  | develop.py | 1b5e17 | 19.8/6.3/26.1 | 520.5 | 168.9 | 310.9 | 250.6 |
 | Apr 07 01:57 AM ET | ashaikh23 | failed_correctness | R1: SETUP: ERR: RuntimeError: Expected in.dtype() == at::kByte to be true, but got false. (Could this error message b... | submission.py | 3f2c6e | 13.6/0.0/13.6 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 07 01:53 AM ET | act | evaluated |  | submission.py | 1b5e17 | 38.8/7.7/46.5 | 346.3 | 147.5 | 412.7 | 270.4 |
 | Apr 07 01:45 AM ET | act | evaluated |  | submission.py | 48522c | 39.6/6.3/45.9 | 513.9 | 168.6 | 311.9 | 251.8 |
