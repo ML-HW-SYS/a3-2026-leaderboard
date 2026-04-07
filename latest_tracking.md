@@ -1,9 +1,14 @@
 # Latest Tracking
 
-Last updated: `April 06, 2026 at 11:08:40 PM ET`
+Last updated: `April 06, 2026 at 11:18:38 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 06 11:18 PM ET | jl | evaluated |  | submission.py | 8b6423 | 19.2/3.5/22.7 | 569.1 | 311.6 | 102.6 | 149.1 |
+| Apr 06 11:17 PM ET | ashaikh23 | evaluated |  | submission.py | 716cc4 | 20.6/3.1/23.7 | 542.3 | 337.0 | 58.8 | 109.9 |
+| Apr 06 11:15 PM ET | abhik | failed_correctness | R1: SETUP: ERR: UserError: Consider annotating your code using torch._check*(). Could not extract specialized integer... | submission.py | 93ffca | 21.1/1.3/22.3 | 0.0 | 0.0 | 140.3 | 172.6 |
+| Apr 06 11:12 PM ET | TheProphet | failed_correctness | R1: SETUP: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent ... | develop.py | 407c9a | 30.8/1.6/32.4 | 0.0 | 383.8 | 24.1 | 46.6 |
+| Apr 06 11:10 PM ET | JasonWang07 | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | submission.py | 3615bf | 23.4/2.4/25.9 | 556.2 | 335.6 | 0.0 | 0.0 |
 | Apr 06 11:04 PM ET | TheProphet | failed_correctness | R1: SETUP: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent ... | submission.py | 407c9a | 30.7/1.6/32.3 | 0.0 | 385.2 | 24.0 | 46.4 |
 | Apr 06 11:02 PM ET | sjb | evaluated |  | develop.py | 7fb492 | 28.2/2.9/31.0 | 533.1 | 347.4 | 50.4 | 53.4 |
 | Apr 06 11:00 PM ET | JasonWang07 | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | develop.py | 458323 | 23.4/2.4/25.9 | 558.5 | 335.7 | 0.0 | 0.0 |
