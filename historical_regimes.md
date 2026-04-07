@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 03:39:48 PM ET`
+Last updated: `April 07, 2026 at 03:47:49 PM ET`
 
 ## R1 (tok/s)
 
@@ -161,7 +161,7 @@ Last updated: `April 07, 2026 at 03:39:48 PM ET`
 | 39 | nicknam534534 | develop.py | cd4c9b | 210.5 |
 | 40 | landrum | submission.py | 7b5ab5 | 275.1 |
 | 41 | pyjuan91 | develop.py | 268544 | 303.2 |
-| 42 | fishyfins | submission.py | 2ac776 | 305.7 |
+| 42 | fishyfins | submission.py | 6c0e20 | 304.6 |
 | 43 | hw_bloss | submission.py | b2767b | 306.7 |
 | 44 | your_nickname_here | submission.py | 59e245 | 307.4 |
 | 45 | yoursun1220 | submission.py | 27e400 | 308.6 |
@@ -217,7 +217,7 @@ Last updated: `April 07, 2026 at 03:39:48 PM ET`
 | 38 | landrum | develop.py | 0bf9d7 | 176.1 |
 | 39 | pallavi-srinivas | submission.py | c7a655 | 192.5 |
 | 40 | Licha | submission.py | 8fdc3a | 215.0 |
-| 41 | fishyfins | submission.py | 2ac776 | 234.0 |
+| 41 | fishyfins | submission.py | 6c0e20 | 232.9 |
 | 42 | pyjuan91 | develop.py | 268544 | 234.1 |
 | 43 | hw_bloss | submission.py | b2767b | 237.0 |
 | 44 | Sulaiman Alam | develop.py | c7ede2 | 244.4 |
