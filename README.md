@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 07, 2026 at 02:59:34 PM ET`
+Last updated: `April 07, 2026 at 03:07:30 PM ET`
 
 ## Pages
 
@@ -59,12 +59,12 @@ Last updated: `April 07, 2026 at 02:59:34 PM ET`
 | 45 | jbc | evaluated | 12bb20 | 21.1/6.3/27.4 | 0.522 | 520.4 | 169.0 | 311.3 | 251.3 |
 | 46 | abhik | evaluated | bf55dc | 16.0/8.5/24.5 | 0.485 | 157.9 | 127.8 | 140.5 | 172.5 |
 | 47 | nicknam534534 | evaluated | 1bad48 | 40.1/7.1/47.3 | 0.466 | 524.1 | 148.4 | 405.4 | 269.2 |
-| 48 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
+| 48 | pyjuan91 | evaluated | dac8eb | 21.9/9.3/31.2 | 0.367 | 528.2 | 117.3 | 609.9 | 370.5 |
+| 49 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | fishyfins | failed | e0aade | 59.7/6.2/66.0 |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
 |  | poppyPotatoe | failed | aa5125 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | pyjuan91 | failed | f93d3b | 21.8/9.3/31.1 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | TheProphet | failed | f7860c | 69.3/2.5/71.8 |  |  |  |  |  |
 |  | vallabkaranam | failed | ec4b9a |  |  |  |  |  |  |

@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 02:59:34 PM ET`
+Last updated: `April 07, 2026 at 03:07:30 PM ET`
 
 ## R1 (tok/s)
 
@@ -35,30 +35,30 @@ Last updated: `April 07, 2026 at 02:59:34 PM ET`
 | 27 | landrum | evaluated | 7b5ab5 | 534.6 |
 | 28 | chickfila | evaluated | f0956d | 534.5 |
 | 29 | gravlax | evaluated | b1229d | 532.3 |
-| 30 | Junyi Li | evaluated | c7a1b3 | 527.3 |
-| 31 | yb | evaluated | ea23ab | 525.9 |
-| 32 | bl792 | evaluated | 09cd73 | 524.7 |
-| 33 | nicknam534534 | evaluated | 1bad48 | 524.1 |
-| 34 | act | evaluated | 899777 | 523.9 |
-| 35 | ethanchen | evaluated | ea518d | 523.7 |
-| 36 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 37 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 38 | Licha | evaluated | 8fdc3a | 521.4 |
-| 39 | PurplePickle67 | evaluated | 68d34e | 520.5 |
-| 40 | jbc | evaluated | 12bb20 | 520.4 |
-| 41 | ishan-pat | evaluated | fddca1 | 518.1 |
-| 42 | ngoguen | evaluated | a5cdb8 | 515.9 |
-| 43 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 44 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
-| 45 | Rithvik | evaluated | 2924a0 | 495.8 |
-| 46 | tuo | evaluated | 3d6d40 | 494.8 |
-| 47 | abhik | evaluated | bf55dc | 157.9 |
-| 48 | Decode_speed | evaluated | 097a6b | 104.5 |
+| 30 | pyjuan91 | evaluated | dac8eb | 528.2 |
+| 31 | Junyi Li | evaluated | c7a1b3 | 527.3 |
+| 32 | yb | evaluated | ea23ab | 525.9 |
+| 33 | bl792 | evaluated | 09cd73 | 524.7 |
+| 34 | nicknam534534 | evaluated | 1bad48 | 524.1 |
+| 35 | act | evaluated | 899777 | 523.9 |
+| 36 | ethanchen | evaluated | ea518d | 523.7 |
+| 37 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 38 | yoursun1220 | evaluated | d8b590 | 521.8 |
+| 39 | Licha | evaluated | 8fdc3a | 521.4 |
+| 40 | PurplePickle67 | evaluated | 68d34e | 520.5 |
+| 41 | jbc | evaluated | 12bb20 | 520.4 |
+| 42 | ishan-pat | evaluated | fddca1 | 518.1 |
+| 43 | ngoguen | evaluated | a5cdb8 | 515.9 |
+| 44 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 45 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
+| 46 | Rithvik | evaluated | 2924a0 | 495.8 |
+| 47 | tuo | evaluated | 3d6d40 | 494.8 |
+| 48 | abhik | evaluated | bf55dc | 157.9 |
+| 49 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | e0aade |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
-|  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | f7860c |  |
 |  | vallabkaranam | failed | ec4b9a |  |
@@ -115,12 +115,12 @@ Last updated: `April 07, 2026 at 02:59:34 PM ET`
 | 45 | yb | evaluated | ea23ab | 168.8 |
 | 46 | nicknam534534 | evaluated | 1bad48 | 148.4 |
 | 47 | abhik | evaluated | bf55dc | 127.8 |
-| 48 | Decode_speed | evaluated | 097a6b | 77.3 |
+| 48 | pyjuan91 | evaluated | dac8eb | 117.3 |
+| 49 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | e0aade |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
-|  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | f7860c |  |
 |  | vallabkaranam | failed | ec4b9a |  |
@@ -178,11 +178,11 @@ Last updated: `April 07, 2026 at 02:59:34 PM ET`
 | 46 | yb | evaluated | ea23ab | 312.3 |
 | 47 | nicknam534534 | evaluated | 1bad48 | 405.4 |
 | 48 | Decode_speed | evaluated | 097a6b | 412.7 |
+| 49 | pyjuan91 | evaluated | dac8eb | 609.9 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | e0aade |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
-|  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | f7860c |  |
 |  | vallabkaranam | failed | ec4b9a |  |
@@ -240,11 +240,11 @@ Last updated: `April 07, 2026 at 02:59:34 PM ET`
 | 46 | jbc | evaluated | 12bb20 | 251.3 |
 | 47 | nicknam534534 | evaluated | 1bad48 | 269.2 |
 | 48 | Decode_speed | evaluated | 097a6b | 270.3 |
+| 49 | pyjuan91 | evaluated | dac8eb | 370.5 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | e0aade |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
-|  | pyjuan91 | failed | f93d3b |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | f7860c |  |
 |  | vallabkaranam | failed | ec4b9a |  |
