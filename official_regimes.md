@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 11:04:51 AM ET`
+Last updated: `April 07, 2026 at 11:13:25 AM ET`
 
 ## R1 (tok/s)
 
@@ -15,7 +15,7 @@ Last updated: `April 07, 2026 at 11:04:51 AM ET`
 | 7 | abarat007 | evaluated | d7f626 | 559.5 |
 | 8 | your_nickname_here | evaluated | f10b9b | 557.8 |
 | 9 | blabrl | evaluated | ca60eb | 557.4 |
-| 10 | JasonWang07 | evaluated | 7c1824 | 556.9 |
+| 10 | JasonWang07 | evaluated | a99db4 | 556.8 |
 | 11 | prousoglou | evaluated | 570c63 | 556.7 |
 | 12 | TA | evaluated | a6e863 | 556.6 |
 | 13 | chyyy | evaluated | 34cc06 | 555.7 |
@@ -82,7 +82,7 @@ Last updated: `April 07, 2026 at 11:04:51 AM ET`
 | 12 | Shengwei | evaluated | bd7526 | 347.3 |
 | 13 | sjb | evaluated | 373553 | 346.4 |
 | 14 | Rithvik | evaluated | 2924a0 | 335.8 |
-| 15 | JasonWang07 | evaluated | 7c1824 | 335.6 |
+| 15 | JasonWang07 | evaluated | a99db4 | 334.7 |
 | 16 | nickname55555555 | evaluated | 2599d1 | 334.4 |
 | 17 | leoli | evaluated | 5cdac4 | 327.5 |
 | 18 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
@@ -154,7 +154,7 @@ Last updated: `April 07, 2026 at 11:04:51 AM ET`
 | 22 | happyface | evaluated | 7e8b61 | 63.7 |
 | 23 | alifim | evaluated | 701077 | 64.8 |
 | 24 | beratcelik | evaluated | 863a89 | 68.2 |
-| 25 | JasonWang07 | evaluated | 7c1824 | 68.5 |
+| 25 | JasonWang07 | evaluated | a99db4 | 68.6 |
 | 26 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
 | 27 | leoli | evaluated | 5cdac4 | 71.0 |
 | 28 | ethanchen | evaluated | ea518d | 74.4 |
@@ -212,7 +212,7 @@ Last updated: `April 07, 2026 at 11:04:51 AM ET`
 | 18 | prousoglou | evaluated | 570c63 | 65.3 |
 | 19 | happyface | evaluated | 7e8b61 | 66.0 |
 | 20 | Shengwei | evaluated | bd7526 | 68.0 |
-| 21 | JasonWang07 | evaluated | 7c1824 | 79.3 |
+| 21 | JasonWang07 | evaluated | a99db4 | 78.7 |
 | 22 | leoli | evaluated | 5cdac4 | 87.4 |
 | 23 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
 | 24 | alifim | evaluated | 701077 | 109.2 |
