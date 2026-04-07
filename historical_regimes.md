@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 06:54:33 PM ET`
+Last updated: `April 07, 2026 at 07:03:21 PM ET`
 
 ## R1 (tok/s)
 
@@ -160,7 +160,7 @@ Last updated: `April 07, 2026 at 06:54:33 PM ET`
 | 38 | pallavi-srinivas | submission.py | c7a655 | 190.0 |
 | 39 | Licha | submission.py | 8fdc3a | 202.7 |
 | 40 | nicknam534534 | develop.py | cd4c9b | 210.5 |
-| 41 | pyjuan91 | develop.py | 268544 | 303.2 |
+| 41 | pyjuan91 | develop.py | f65327 | 274.9 |
 | 42 | fishyfins | submission.py | 6c0e20 | 304.6 |
 | 43 | hw_bloss | submission.py | b2767b | 306.7 |
 | 44 | your_nickname_here | submission.py | 59e245 | 307.4 |
@@ -215,10 +215,10 @@ Last updated: `April 07, 2026 at 06:54:33 PM ET`
 | 36 | lipphi | submission.py | a3a71b | 150.9 |
 | 37 | tuo | submission.py | 4274da | 160.5 |
 | 38 | abhik | submission.py | 572159 | 172.1 |
-| 39 | pallavi-srinivas | submission.py | c7a655 | 192.5 |
-| 40 | Licha | submission.py | 8fdc3a | 215.0 |
-| 41 | fishyfins | submission.py | 6c0e20 | 232.9 |
-| 42 | pyjuan91 | develop.py | 0e27a7 | 233.5 |
+| 39 | pyjuan91 | develop.py | f65327 | 176.7 |
+| 40 | pallavi-srinivas | submission.py | c7a655 | 192.5 |
+| 41 | Licha | submission.py | 8fdc3a | 215.0 |
+| 42 | fishyfins | submission.py | 6c0e20 | 232.9 |
 | 43 | hw_bloss | submission.py | b2767b | 237.0 |
 | 44 | Sulaiman Alam | develop.py | c7ede2 | 244.4 |
 | 45 | your_nickname_here | submission.py | 59e245 | 245.7 |

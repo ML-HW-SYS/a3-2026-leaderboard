@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 06:54:33 PM ET`
+Last updated: `April 07, 2026 at 07:03:21 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 07:02 PM ET | happyface | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | develop.py | 84babe | 18.8/3.5/22.3 | 538.1 | 258.0 | 63.9 | 66.2 |
+| Apr 07 06:56 PM ET | pyjuan91 | evaluated |  | develop.py | f65327 | 49.0/5.7/54.7 | 524.4 | 177.2 | 274.9 | 176.7 |
 | Apr 07 06:53 PM ET | happyface | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | develop.py | 535f13 | 20.8/6.8/27.6 | 538.4 | 230.8 | 589.8 | 317.5 |
 | Apr 07 06:38 PM ET | happyface | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | c29ca5 | 18.8/3.5/22.3 | 538.2 | 258.3 | 63.8 | 66.4 |
 | Apr 07 06:30 PM ET | happyface | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | e106b2 | 20.8/6.4/27.2 | 538.1 | 274.4 | 589.7 | 317.4 |
