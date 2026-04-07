@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 02:54:12 AM ET`
+Last updated: `April 07, 2026 at 03:02:22 AM ET`
 
 ## R1 (tok/s)
 
@@ -22,29 +22,29 @@ Last updated: `April 07, 2026 at 02:54:12 AM ET`
 | 14 | leoli | evaluated | 5cdac4 | 544.1 |
 | 15 | happyface | evaluated | 7e8b61 | 543.0 |
 | 16 | 13rabbit | evaluated | b38df9 | 542.8 |
-| 17 | gm | evaluated | 2898fc | 541.1 |
-| 18 | Shengwei | evaluated | bd7526 | 540.5 |
-| 19 | alifim | evaluated | 701077 | 539.6 |
-| 20 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
-| 21 | stefan | evaluated | a01e76 | 537.5 |
-| 22 | omermoav | evaluated | c75309 | 536.9 |
-| 23 | sjb | evaluated | 373553 | 535.3 |
-| 24 | lipphi | evaluated | a3a71b | 534.8 |
-| 25 | landrum | evaluated | 7b5ab5 | 534.6 |
-| 26 | chickfila | evaluated | f0956d | 534.5 |
-| 27 | gravlax | evaluated | b1229d | 532.3 |
-| 28 | Junyi Li | evaluated | c7a1b3 | 527.3 |
-| 29 | Yize | evaluated | e17a72 | 525.6 |
-| 30 | bl792 | evaluated | 09cd73 | 524.7 |
-| 31 | nicknam534534 | evaluated | 1bad48 | 524.1 |
-| 32 | act | evaluated | 899777 | 523.9 |
-| 33 | ethanchen | evaluated | ea518d | 523.7 |
-| 34 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 35 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 36 | Licha | evaluated | 8fdc3a | 521.4 |
-| 37 | ishan-pat | evaluated | 564670 | 520.6 |
-| 38 | jbc | evaluated | 12bb20 | 520.4 |
-| 39 | pallavi-srinivas | evaluated | 51aea6 | 517.6 |
+| 17 | pallavi-srinivas | evaluated | dd405c | 541.9 |
+| 18 | gm | evaluated | 2898fc | 541.1 |
+| 19 | Shengwei | evaluated | bd7526 | 540.5 |
+| 20 | alifim | evaluated | 701077 | 539.6 |
+| 21 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
+| 22 | stefan | evaluated | a01e76 | 537.5 |
+| 23 | omermoav | evaluated | c75309 | 536.9 |
+| 24 | sjb | evaluated | 373553 | 535.3 |
+| 25 | lipphi | evaluated | a3a71b | 534.8 |
+| 26 | landrum | evaluated | 7b5ab5 | 534.6 |
+| 27 | chickfila | evaluated | f0956d | 534.5 |
+| 28 | gravlax | evaluated | b1229d | 532.3 |
+| 29 | Junyi Li | evaluated | c7a1b3 | 527.3 |
+| 30 | Yize | evaluated | e17a72 | 525.6 |
+| 31 | bl792 | evaluated | 09cd73 | 524.7 |
+| 32 | nicknam534534 | evaluated | 1bad48 | 524.1 |
+| 33 | act | evaluated | 899777 | 523.9 |
+| 34 | ethanchen | evaluated | ea518d | 523.7 |
+| 35 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 36 | yoursun1220 | evaluated | d8b590 | 521.8 |
+| 37 | Licha | evaluated | 8fdc3a | 521.4 |
+| 38 | ishan-pat | evaluated | 564670 | 520.6 |
+| 39 | jbc | evaluated | 12bb20 | 520.4 |
 | 40 | ngoguen | evaluated | a5cdb8 | 515.9 |
 | 41 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
 | 42 | Rithvik | evaluated | 2924a0 | 495.8 |
@@ -99,11 +99,11 @@ Last updated: `April 07, 2026 at 02:54:12 AM ET`
 | 29 | 13rabbit | evaluated | b38df9 | 242.9 |
 | 30 | bl792 | evaluated | 09cd73 | 238.8 |
 | 31 | beratcelik | evaluated | 863a89 | 231.2 |
-| 32 | tuo | evaluated | 3d6d40 | 204.6 |
-| 33 | Licha | evaluated | 8fdc3a | 192.4 |
-| 34 | landrum | evaluated | 7b5ab5 | 177.2 |
-| 35 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 36 | pallavi-srinivas | evaluated | 51aea6 | 170.0 |
+| 32 | pallavi-srinivas | evaluated | dd405c | 206.8 |
+| 33 | tuo | evaluated | 3d6d40 | 204.6 |
+| 34 | Licha | evaluated | 8fdc3a | 192.4 |
+| 35 | landrum | evaluated | 7b5ab5 | 177.2 |
+| 36 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 37 | stefan | evaluated | a01e76 | 170.0 |
 | 38 | ngoguen | evaluated | a5cdb8 | 169.7 |
 | 39 | Junyi Li | evaluated | c7a1b3 | 169.7 |
@@ -164,11 +164,11 @@ Last updated: `April 07, 2026 at 02:54:12 AM ET`
 | 32 | lipphi | evaluated | a3a71b | 104.4 |
 | 33 | abhik | evaluated | bf55dc | 140.5 |
 | 34 | tuo | evaluated | 3d6d40 | 167.8 |
-| 35 | Licha | evaluated | 8fdc3a | 202.7 |
-| 36 | landrum | evaluated | 7b5ab5 | 275.1 |
-| 37 | hw_bloss | evaluated | 4c9666 | 308.1 |
-| 38 | your_nickname_here | evaluated | f10b9b | 308.1 |
-| 39 | pallavi-srinivas | evaluated | 51aea6 | 308.9 |
+| 35 | pallavi-srinivas | evaluated | dd405c | 190.7 |
+| 36 | Licha | evaluated | 8fdc3a | 202.7 |
+| 37 | landrum | evaluated | 7b5ab5 | 275.1 |
+| 38 | hw_bloss | evaluated | 4c9666 | 308.1 |
+| 39 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 40 | stefan | evaluated | a01e76 | 310.0 |
 | 41 | ngoguen | evaluated | a5cdb8 | 310.3 |
 | 42 | yoursun1220 | evaluated | d8b590 | 310.7 |
@@ -227,11 +227,11 @@ Last updated: `April 07, 2026 at 02:54:12 AM ET`
 | 33 | tuo | evaluated | 3d6d40 | 162.8 |
 | 34 | abhik | evaluated | bf55dc | 172.5 |
 | 35 | landrum | evaluated | 7b5ab5 | 176.5 |
-| 36 | Licha | evaluated | 8fdc3a | 215.0 |
-| 37 | hw_bloss | evaluated | 4c9666 | 239.1 |
-| 38 | your_nickname_here | evaluated | f10b9b | 246.4 |
-| 39 | stefan | evaluated | a01e76 | 248.7 |
-| 40 | pallavi-srinivas | evaluated | 51aea6 | 249.3 |
+| 36 | pallavi-srinivas | evaluated | dd405c | 193.9 |
+| 37 | Licha | evaluated | 8fdc3a | 215.0 |
+| 38 | hw_bloss | evaluated | 4c9666 | 239.1 |
+| 39 | your_nickname_here | evaluated | f10b9b | 246.4 |
+| 40 | stefan | evaluated | a01e76 | 248.7 |
 | 41 | ngoguen | evaluated | a5cdb8 | 249.7 |
 | 42 | yoursun1220 | evaluated | d8b590 | 250.1 |
 | 43 | act | evaluated | 899777 | 250.7 |
