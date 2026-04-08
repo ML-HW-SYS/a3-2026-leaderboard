@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 12:09:56 PM ET`
+Last updated: `April 08, 2026 at 12:19:09 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 08 12:10 PM ET | ngoguen | evaluated |  | submission.py | e943db | 30.6/17.6/48.1 | 95.1 | 62.6 | 619.1 | 384.8 |
+| Apr 08 12:08 PM ET | Shengwei | evaluated |  | submission.py | d3ac71 | 49.1/2.7/51.8 | 536.7 | 360.8 | 30.1 | 55.5 |
 | Apr 08 11:51 AM ET | ngoguen | evaluated |  | submission.py | 0d832d | 39.6/9.2/48.7 | 539.3 | 121.8 | 619.5 | 385.5 |
 | Apr 08 11:47 AM ET | Yize | evaluated |  | submission.py | c8c9f7 | 24.6/3.2/27.9 | 534.4 | 269.9 | 39.4 | 53.1 |
 | Apr 08 11:47 AM ET | Yize | evaluated |  | develop.py | c8c9f7 | 24.7/3.2/27.9 | 531.5 | 268.7 | 39.6 | 53.8 |

@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 12:09:56 PM ET`
+Last updated: `April 08, 2026 at 12:19:09 PM ET`
 
 ## R1 (tok/s)
 
@@ -77,7 +77,7 @@ Last updated: `April 08, 2026 at 12:09:56 PM ET`
 | 10 | ashaikh23 | submission.py | 84a425 | 372.1 |
 | 11 | prousoglou | submission.py | 570c63 | 368.2 |
 | 12 | pyjuan91 | develop.py | 92d1da | 364.9 |
-| 13 | Shengwei | submission.py | 435b21 | 359.6 |
+| 13 | Shengwei | submission.py | d3ac71 | 360.8 |
 | 14 | gm | develop.py | fd15e9 | 357.3 |
 | 15 | sjb | develop.py | 7fb492 | 347.4 |
 | 16 | JasonWang07 | develop.py | 2ecd91 | 343.1 |
@@ -135,10 +135,10 @@ Last updated: `April 08, 2026 at 12:09:56 PM ET`
 | 9 | pyjuan91 | submission.py | 430a83 | 28.8 |
 | 10 | ashaikh23 | submission.py | 84a425 | 29.1 |
 | 11 | landrum | develop.py | 4d2d51 | 29.6 |
-| 12 | nickname55555555 | submission.py | f60ff5 | 30.9 |
-| 13 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
-| 14 | bl792 | develop.py | 09cd73 | 32.3 |
-| 15 | Shengwei | submission.py | 435b21 | 33.2 |
+| 12 | Shengwei | submission.py | d3ac71 | 30.1 |
+| 13 | nickname55555555 | submission.py | f60ff5 | 30.9 |
+| 14 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
+| 15 | bl792 | develop.py | 09cd73 | 32.3 |
 | 16 | blabrl | submission.py | ca60eb | 33.7 |
 | 17 | prousoglou | submission.py | 570c63 | 34.7 |
 | 18 | chickfila | submission.py | f0956d | 34.7 |
@@ -198,10 +198,10 @@ Last updated: `April 08, 2026 at 12:09:56 PM ET`
 | 13 | pyjuan91 | develop.py | 92d1da | 53.1 |
 | 14 | Yize | submission.py | c8c9f7 | 53.1 |
 | 15 | landrum | develop.py | 4d2d51 | 53.5 |
-| 16 | gravlax | submission.py | b1229d | 59.7 |
-| 17 | bl792 | develop.py | 09cd73 | 59.8 |
-| 18 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 59.9 |
-| 19 | Shengwei | submission.py | 435b21 | 62.1 |
+| 16 | Shengwei | submission.py | d3ac71 | 55.5 |
+| 17 | gravlax | submission.py | b1229d | 59.7 |
+| 18 | bl792 | develop.py | 09cd73 | 59.8 |
+| 19 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 59.9 |
 | 20 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
 | 21 | omermoav | submission.py | b01c0e | 64.6 |
 | 22 | blabrl | submission.py | ca60eb | 65.2 |

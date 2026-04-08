@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 08, 2026 at 12:09:56 PM ET`
+Last updated: `April 08, 2026 at 12:19:09 PM ET`
 
 ## Pages
 
@@ -22,8 +22,8 @@ Last updated: `April 08, 2026 at 12:09:56 PM ET`
 | 8 | Rithvik | evaluated | 2924a0 | 46.5/2.9/49.4 | 1.706 | 495.8 | 335.8 | 27.1 | 48.0 |
 | 9 | chickfila | evaluated | f0956d | 65.8/2.6/68.4 | 1.693 | 534.5 | 398.8 | 34.7 | 49.6 |
 | 10 | nickname55555555 | evaluated | 20d1ac | 28.2/2.8/31.0 | 1.672 | 551.4 | 334.2 | 30.9 | 50.6 |
-| 11 | blabrl | evaluated | ca60eb | 19.3/2.6/21.9 | 1.593 | 557.4 | 383.3 | 33.7 | 65.2 |
-| 12 | Shengwei | evaluated | 435b21 | 44.0/2.8/46.7 | 1.582 | 541.0 | 359.6 | 33.2 | 62.1 |
+| 11 | Shengwei | evaluated | d3ac71 | 49.1/2.7/51.8 | 1.665 | 536.7 | 360.8 | 30.1 | 55.5 |
+| 12 | blabrl | evaluated | ca60eb | 19.3/2.6/21.9 | 1.593 | 557.4 | 383.3 | 33.7 | 65.2 |
 | 13 | omermoav | evaluated | b01c0e | 18.6/2.7/21.3 | 1.578 | 569.6 | 373.6 | 35.2 | 64.6 |
 | 14 | landrum | evaluated | 61ab81 | 22.7/3.1/25.8 | 1.573 | 535.7 | 276.9 | 29.9 | 53.7 |
 | 15 | prousoglou | evaluated | 570c63 | 18.4/2.7/21.1 | 1.565 | 556.7 | 368.2 | 34.7 | 65.3 |
@@ -63,8 +63,8 @@ Last updated: `April 08, 2026 at 12:09:56 PM ET`
 | 49 | jbc | evaluated | 12bb20 | 21.1/6.3/27.4 | 0.522 | 520.4 | 169.0 | 311.3 | 251.3 |
 | 50 | abhik | evaluated | bf55dc | 16.0/8.5/24.5 | 0.485 | 157.9 | 127.8 | 140.5 | 172.5 |
 | 51 | nicknam534534 | evaluated | 83a901 | 19.7/7.1/26.8 | 0.467 | 524.7 | 148.4 | 405.3 | 268.7 |
-| 52 | ngoguen | evaluated | 0d832d | 39.6/9.2/48.7 | 0.367 | 539.3 | 121.8 | 619.5 | 385.5 |
-| 53 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
+| 52 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
+| 53 | ngoguen | evaluated | e943db | 30.6/17.6/48.1 | 0.202 | 95.1 | 62.6 | 619.1 | 384.8 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
 |  | poppyPotatoe | failed | 2d4dd6 |  |  |  |  |  |  |
