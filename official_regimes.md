@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 08, 2026 at 04:33:46 PM ET`
+Last updated: `April 08, 2026 at 04:41:35 PM ET`
 
 ## R1 (tok/s)
 
@@ -57,7 +57,7 @@ Last updated: `April 08, 2026 at 04:33:46 PM ET`
 | 49 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
 | 50 | Rithvik | evaluated | 2924a0 | 495.8 |
 | 51 | tuo | evaluated | 3d6d40 | 494.8 |
-| 52 | poppyPotatoe | evaluated | ad3387 | 160.7 |
+| 52 | poppyPotatoe | evaluated | 966f3f | 161.0 |
 | 53 | abhik | evaluated | bf55dc | 157.9 |
 | 54 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -122,7 +122,7 @@ Last updated: `April 08, 2026 at 04:33:46 PM ET`
 | 50 | yb | evaluated | ea23ab | 168.8 |
 | 51 | nicknam534534 | evaluated | 83a901 | 148.4 |
 | 52 | abhik | evaluated | bf55dc | 127.8 |
-| 53 | poppyPotatoe | evaluated | ad3387 | 114.5 |
+| 53 | poppyPotatoe | evaluated | 966f3f | 117.4 |
 | 54 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -183,7 +183,7 @@ Last updated: `April 08, 2026 at 04:33:46 PM ET`
 | 47 | act | evaluated | 899777 | 310.9 |
 | 48 | jbc | evaluated | 12bb20 | 311.3 |
 | 49 | castillo | evaluated | 0e93de | 311.4 |
-| 50 | poppyPotatoe | evaluated | ad3387 | 311.8 |
+| 50 | poppyPotatoe | evaluated | 966f3f | 312.2 |
 | 51 | yb | evaluated | ea23ab | 312.3 |
 | 52 | kade_lin_is_here | evaluated | 69daa3 | 387.8 |
 | 53 | nicknam534534 | evaluated | 83a901 | 405.3 |
@@ -247,8 +247,8 @@ Last updated: `April 08, 2026 at 04:33:46 PM ET`
 | 47 | castillo | evaluated | 0e93de | 250.4 |
 | 48 | yb | evaluated | ea23ab | 250.6 |
 | 49 | act | evaluated | 899777 | 250.7 |
-| 50 | poppyPotatoe | evaluated | ad3387 | 251.0 |
-| 51 | jbc | evaluated | 12bb20 | 251.3 |
+| 50 | jbc | evaluated | 12bb20 | 251.3 |
+| 51 | poppyPotatoe | evaluated | 966f3f | 251.5 |
 | 52 | kade_lin_is_here | evaluated | 69daa3 | 260.5 |
 | 53 | nicknam534534 | evaluated | 83a901 | 268.7 |
 | 54 | Decode_speed | evaluated | 097a6b | 270.3 |

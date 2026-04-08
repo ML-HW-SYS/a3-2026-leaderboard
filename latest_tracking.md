@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 04:33:46 PM ET`
+Last updated: `April 08, 2026 at 04:41:35 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 08 04:29 PM ET | poppyPotatoe | evaluated |  | submission.py | 966f3f | 15.2/9.8/25.0 | 161.0 | 117.4 | 312.2 | 251.5 |
 | Apr 08 04:26 PM ET | kade_lin_is_here | evaluated |  | submission.py | 69daa3 | 24.5/6.0/30.5 | 518.9 | 213.1 | 387.8 | 260.5 |
 | Apr 08 04:20 PM ET | poppyPotatoe | evaluated |  | submission.py | ad3387 | 15.1/9.9/25.0 | 160.7 | 114.5 | 311.8 | 251.0 |
 | Apr 08 04:16 PM ET | poppyPotatoe | failed_correctness | Correctness FAIL \| R2 (86.57%) \| max_abs_diff=12.34 | submission.py | 311dc9 | 15.0/9.6/24.6 | 167.5 | 120.0 | 309.5 | 248.9 |

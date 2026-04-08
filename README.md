@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 08, 2026 at 04:33:46 PM ET`
+Last updated: `April 08, 2026 at 04:41:35 PM ET`
 
 ## Pages
 
@@ -64,7 +64,7 @@ Last updated: `April 08, 2026 at 04:33:46 PM ET`
 | 50 | kade_lin_is_here | evaluated | 69daa3 | 24.5/6.0/30.5 | 0.519 | 518.9 | 213.1 | 387.8 | 260.5 |
 | 51 | abhik | evaluated | bf55dc | 16.0/8.5/24.5 | 0.485 | 157.9 | 127.8 | 140.5 | 172.5 |
 | 52 | nicknam534534 | evaluated | 83a901 | 19.7/7.1/26.8 | 0.467 | 524.7 | 148.4 | 405.3 | 268.7 |
-| 53 | poppyPotatoe | evaluated | ad3387 | 15.1/9.9/25.0 | 0.353 | 160.7 | 114.5 | 311.8 | 251.0 |
+| 53 | poppyPotatoe | evaluated | 966f3f | 15.2/9.8/25.0 | 0.355 | 161.0 | 117.4 | 312.2 | 251.5 |
 | 54 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
