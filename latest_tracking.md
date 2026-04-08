@@ -1,11 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 12:02:01 PM ET`
+Last updated: `April 08, 2026 at 12:09:56 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Apr 08 11:51 AM ET | ngoguen | evaluated |  | submission.py | 0d832d | 39.6/9.2/48.7 | 539.3 | 121.8 | 619.5 | 385.5 |
 | Apr 08 11:47 AM ET | Yize | evaluated |  | submission.py | c8c9f7 | 24.6/3.2/27.9 | 534.4 | 269.9 | 39.4 | 53.1 |
+| Apr 08 11:47 AM ET | Yize | evaluated |  | develop.py | c8c9f7 | 24.7/3.2/27.9 | 531.5 | 268.7 | 39.6 | 53.8 |
 | Apr 08 11:41 AM ET | Yize | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | e47efe | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 08 11:37 AM ET | Shengwei | evaluated |  | submission.py | 435b21 | 44.0/2.8/46.7 | 541.0 | 359.6 | 33.2 | 62.1 |
 | Apr 08 11:28 AM ET | Yize | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | f4e7f7 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
