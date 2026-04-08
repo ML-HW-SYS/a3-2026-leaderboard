@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 09:22:06 PM ET`
+Last updated: `April 07, 2026 at 09:35:38 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 09:34 PM ET | happyface | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 619b8a | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 07 08:22 PM ET | happyface | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | bdb847 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 07 08:18 PM ET | nicknam534534 | failed_correctness | R3: ERR: cannot access local variable 'input_ids' where it is not associated with a value \| R4: ERR: cannot access lo... | develop.py | 554be8 | 15.8/7.1/22.9 | 177.3 | 121.3 | 0.0 | 0.0 |
 | Apr 07 08:17 PM ET | Shengwei | evaluated |  | submission.py | 264410 | 19.6/2.8/22.4 | 540.3 | 358.4 | 33.2 | 62.9 |
