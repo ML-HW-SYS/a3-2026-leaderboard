@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 10:54:30 PM ET`
+Last updated: `April 07, 2026 at 11:02:46 PM ET`
 
 ## R1 (tok/s)
 
@@ -46,7 +46,7 @@ Last updated: `April 07, 2026 at 10:54:30 PM ET`
 | 38 | ethanchen | submission.py | a0d359 | 528.1 |
 | 39 | Rithvik | submission.py | 1a7556 | 527.1 |
 | 40 | yb | submission.py | ea23ab | 525.9 |
-| 41 | nicknam534534 | submission.py | 83a901 | 524.7 |
+| 41 | nicknam534534 | develop.py | 83a901 | 525.8 |
 | 42 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
 | 43 | yoursun1220 | submission.py | f4e2be | 524.2 |
 | 44 | act | submission.py | 899777 | 523.9 |
@@ -91,8 +91,8 @@ Last updated: `April 07, 2026 at 10:54:30 PM ET`
 | 26 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
 | 27 | landrum | submission.py | 61ab81 | 276.9 |
 | 28 | gravlax | develop.py | b1229d | 273.0 |
-| 29 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
-| 30 | Yize | develop.py | 083f99 | 265.5 |
+| 29 | Yize | submission.py | 4c7928 | 267.1 |
+| 30 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
 | 31 | ishan-pat | develop.py | 75d32d | 259.7 |
 | 32 | happyface | develop.py | 0aca52 | 259.4 |
 | 33 | ethanchen | submission.py | ea518d | 251.2 |

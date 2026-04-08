@@ -1,10 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 10:54:30 PM ET`
+Last updated: `April 07, 2026 at 11:02:46 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 10:52 PM ET | Yize | evaluated |  | submission.py | 4c7928 | 24.7/3.3/27.9 | 526.2 | 267.1 | 39.6 | 53.5 |
 | Apr 07 10:43 PM ET | nicknam534534 | evaluated |  | submission.py | 83a901 | 19.7/7.1/26.8 | 524.7 | 148.4 | 405.3 | 268.7 |
+| Apr 07 10:43 PM ET | nicknam534534 | failed_correctness | R2: SETUP: ERR: UnsupportedLanguageConstruct: at 65:12: kv_block_idx = kv_start // BLOCK_SIZE offs_n = kv_start + tl.... | develop.py | 83a901 | 17.3/1.0/18.3 | 525.8 | 0.0 | 0.0 | 0.0 |
 | Apr 07 10:38 PM ET | poppyPotatoe | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | 21ee3b |  |  |  |  |  |
 | Apr 07 10:36 PM ET | nicknam534534 | failed_correctness | Correctness FAIL \| R3 (100.00%) \| max_abs_diff=inf | develop.py | 90de41 | 19.8/6.1/25.9 | 509.0 | 147.5 | 135.7 | 268.9 |
 | Apr 07 10:32 PM ET | Yize | evaluated |  | submission.py | 0fc639 | 55.0/9.9/64.9 | 525.1 | 59.6 | 39.6 | 53.8 |
