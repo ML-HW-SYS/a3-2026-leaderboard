@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 08:13:43 PM ET`
+Last updated: `April 07, 2026 at 08:23:26 PM ET`
 
 ## R1 (tok/s)
 
@@ -24,7 +24,7 @@ Last updated: `April 07, 2026 at 08:13:43 PM ET`
 | 16 | leoli | evaluated | 5cdac4 | 544.1 |
 | 17 | 13rabbit | evaluated | b38df9 | 542.8 |
 | 18 | gm | evaluated | 2898fc | 541.1 |
-| 19 | Shengwei | evaluated | 07512d | 540.0 |
+| 19 | Shengwei | evaluated | 264410 | 540.3 |
 | 20 | alifim | evaluated | 701077 | 539.6 |
 | 21 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
 | 22 | pallavi-srinivas | evaluated | b82073 | 539.0 |
@@ -57,7 +57,7 @@ Last updated: `April 07, 2026 at 08:13:43 PM ET`
 | 49 | abhik | evaluated | bf55dc | 157.9 |
 | 50 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | happyface | failed | 62f392 |  |
+|  | happyface | failed | bdb847 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -78,8 +78,8 @@ Last updated: `April 07, 2026 at 08:13:43 PM ET`
 | 8 | omermoav | evaluated | b01c0e | 373.6 |
 | 9 | ashaikh23 | evaluated | 84a425 | 372.1 |
 | 10 | prousoglou | evaluated | 570c63 | 368.2 |
-| 11 | gm | evaluated | 2898fc | 357.0 |
-| 12 | Shengwei | evaluated | 07512d | 348.5 |
+| 11 | Shengwei | evaluated | 264410 | 358.4 |
+| 12 | gm | evaluated | 2898fc | 357.0 |
 | 13 | sjb | evaluated | 373553 | 346.4 |
 | 14 | JasonWang07 | evaluated | a4b405 | 342.2 |
 | 15 | Rithvik | evaluated | 2924a0 | 335.8 |
@@ -119,7 +119,7 @@ Last updated: `April 07, 2026 at 08:13:43 PM ET`
 | 49 | abhik | evaluated | bf55dc | 127.8 |
 | 50 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | happyface | failed | 62f392 |  |
+|  | happyface | failed | bdb847 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -142,14 +142,14 @@ Last updated: `April 07, 2026 at 08:13:43 PM ET`
 | 10 | nickname55555555 | evaluated | 20d1ac | 30.9 |
 | 11 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
 | 12 | bl792 | evaluated | 09cd73 | 32.4 |
-| 13 | blabrl | evaluated | ca60eb | 33.7 |
-| 14 | prousoglou | evaluated | 570c63 | 34.7 |
-| 15 | chickfila | evaluated | f0956d | 34.7 |
-| 16 | gravlax | evaluated | b1229d | 35.0 |
-| 17 | omermoav | evaluated | b01c0e | 35.2 |
-| 18 | PurplePickle67 | evaluated | 68d34e | 37.3 |
-| 19 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
-| 20 | Shengwei | evaluated | 07512d | 45.5 |
+| 13 | Shengwei | evaluated | 264410 | 33.2 |
+| 14 | blabrl | evaluated | ca60eb | 33.7 |
+| 15 | prousoglou | evaluated | 570c63 | 34.7 |
+| 16 | chickfila | evaluated | f0956d | 34.7 |
+| 17 | gravlax | evaluated | b1229d | 35.0 |
+| 18 | omermoav | evaluated | b01c0e | 35.2 |
+| 19 | PurplePickle67 | evaluated | 68d34e | 37.3 |
+| 20 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
 | 21 | sjb | evaluated | 373553 | 50.8 |
 | 22 | ishan-pat | evaluated | fddca1 | 56.0 |
 | 23 | Junyi Li | evaluated | c7a1b3 | 60.9 |
@@ -181,7 +181,7 @@ Last updated: `April 07, 2026 at 08:13:43 PM ET`
 | 49 | nicknam534534 | evaluated | 1bad48 | 405.4 |
 | 50 | Decode_speed | evaluated | 097a6b | 412.7 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | happyface | failed | 62f392 |  |
+|  | happyface | failed | bdb847 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -208,11 +208,11 @@ Last updated: `April 07, 2026 at 08:13:43 PM ET`
 | 14 | gravlax | evaluated | b1229d | 59.7 |
 | 15 | bl792 | evaluated | 09cd73 | 59.9 |
 | 16 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 59.9 |
-| 17 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
-| 18 | omermoav | evaluated | b01c0e | 64.6 |
-| 19 | blabrl | evaluated | ca60eb | 65.2 |
-| 20 | prousoglou | evaluated | 570c63 | 65.3 |
-| 21 | Shengwei | evaluated | 07512d | 67.8 |
+| 17 | Shengwei | evaluated | 264410 | 62.9 |
+| 18 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
+| 19 | omermoav | evaluated | b01c0e | 64.6 |
+| 20 | blabrl | evaluated | ca60eb | 65.2 |
+| 21 | prousoglou | evaluated | 570c63 | 65.3 |
 | 22 | leoli | evaluated | 5cdac4 | 87.4 |
 | 23 | JasonWang07 | evaluated | a4b405 | 88.9 |
 | 24 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
@@ -243,7 +243,7 @@ Last updated: `April 07, 2026 at 08:13:43 PM ET`
 | 49 | nicknam534534 | evaluated | 1bad48 | 269.2 |
 | 50 | Decode_speed | evaluated | 097a6b | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | happyface | failed | 62f392 |  |
+|  | happyface | failed | bdb847 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
 |  | SIUUU | failed | ad9184 |  |
