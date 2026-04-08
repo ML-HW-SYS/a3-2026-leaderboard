@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 05:22:04 PM ET`
+Last updated: `April 08, 2026 at 05:29:53 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 08 05:21 PM ET | poppyPotatoe | evaluated |  | develop.py | 9c52df | 15.1/10.2/25.3 | 155.6 | 110.2 | 311.2 | 250.9 |
 | Apr 08 05:15 PM ET | dylanjhnsondj | evaluated |  | develop.py | 55a3fd | 23.3/6.2/29.5 | 528.5 | 169.6 | 306.1 | 237.1 |
 | Apr 08 05:14 PM ET | poppyPotatoe | evaluated |  | submission.py | cbca27 | 15.0/9.9/25.0 | 165.1 | 111.5 | 311.3 | 250.6 |
 | Apr 08 05:05 PM ET | dylanjhnsondj | evaluated |  | submission.py | c4e1ab | 59.0/6.2/65.1 | 527.3 | 169.6 | 306.0 | 236.8 |
