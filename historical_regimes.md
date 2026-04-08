@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 08:05:50 PM ET`
+Last updated: `April 07, 2026 at 08:13:43 PM ET`
 
 ## R1 (tok/s)
 
@@ -89,7 +89,7 @@ Last updated: `April 07, 2026 at 08:05:50 PM ET`
 | 24 | beratcelik | submission.py | 7c87c2 | 294.0 |
 | 25 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
 | 26 | landrum | submission.py | 61ab81 | 276.9 |
-| 27 | pyjuan91 | develop.py | 74fe8a | 276.0 |
+| 27 | pyjuan91 | submission.py | 430a83 | 276.6 |
 | 28 | gravlax | develop.py | b1229d | 273.0 |
 | 29 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
 | 30 | ishan-pat | develop.py | 75d32d | 259.7 |
@@ -128,7 +128,7 @@ Last updated: `April 07, 2026 at 08:05:50 PM ET`
 | 6 | omermoav | submission.py | dc63b9 | 26.9 |
 | 7 | zhumengzhiren | submission.py | 789cd3 | 27.9 |
 | 8 | abarat007 | submission.py | d7f626 | 28.1 |
-| 9 | pyjuan91 | develop.py | 74fe8a | 28.9 |
+| 9 | pyjuan91 | submission.py | 430a83 | 28.8 |
 | 10 | ashaikh23 | submission.py | 84a425 | 29.1 |
 | 11 | landrum | develop.py | 4d2d51 | 29.6 |
 | 12 | nickname55555555 | submission.py | f60ff5 | 30.9 |

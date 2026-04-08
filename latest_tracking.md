@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 08:05:50 PM ET`
+Last updated: `April 07, 2026 at 08:13:43 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 08:07 PM ET | pyjuan91 | evaluated |  | submission.py | 430a83 | 24.3/3.2/27.5 | 523.3 | 276.6 | 28.8 | 53.4 |
 | Apr 07 08:05 PM ET | happyface | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 62f392 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 07 08:00 PM ET | nicknam534534 | evaluated |  | develop.py | 81632d | 15.9/10.0/25.9 | 184.3 | 104.4 | 321.9 | 255.6 |
 | Apr 07 07:55 PM ET | happyface | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | develop.py | f60419 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
