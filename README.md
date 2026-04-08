@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 08, 2026 at 05:13:39 PM ET`
+Last updated: `April 08, 2026 at 05:22:04 PM ET`
 
 ## Pages
 
@@ -65,10 +65,10 @@ Last updated: `April 08, 2026 at 05:13:39 PM ET`
 | 51 | kade_lin_is_here | evaluated | 69daa3 | 24.5/6.0/30.5 | 0.519 | 518.9 | 213.1 | 387.8 | 260.5 |
 | 52 | abhik | evaluated | bf55dc | 16.0/8.5/24.5 | 0.485 | 157.9 | 127.8 | 140.5 | 172.5 |
 | 53 | nicknam534534 | evaluated | 83a901 | 19.7/7.1/26.8 | 0.467 | 524.7 | 148.4 | 405.3 | 268.7 |
-| 54 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
+| 54 | poppyPotatoe | evaluated | cbca27 | 15.0/9.9/25.0 | 0.354 | 165.1 | 111.5 | 311.3 | 250.6 |
+| 55 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
-|  | poppyPotatoe | failed | 1d2780 | 15.1/9.8/24.9 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | TheProphet | failed | 2facb7 | 41.1/2.5/43.6 |  |  |  |  |  |
 |  | vallabkaranam | failed | ec4b9a |  |  |  |  |  |  |
