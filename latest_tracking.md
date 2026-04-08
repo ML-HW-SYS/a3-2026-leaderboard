@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 07:27:10 PM ET`
+Last updated: `April 08, 2026 at 07:35:03 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 08 07:31 PM ET | kade_lin_is_here | evaluated |  | submission.py | 6ceaa5 | 22.4/4.2/26.6 | 520.6 | 236.7 | 113.2 | 152.6 |
 | Apr 08 07:20 PM ET | tif03 | failed_correctness | R1: SETUP: ERR: NotImplementedError: Paste your Stage 3 fused projection remap helper here before moving on. \| R2: SE... | develop.py | bbaa4e | 13.3/0.0/13.3 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 08 07:18 PM ET | tif03 | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | a7e904 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 08 07:14 PM ET | Shengwei | evaluated |  | submission.py | 67896e | 44.8/2.7/47.4 | 539.9 | 362.7 | 26.7 | 48.1 |

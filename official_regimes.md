@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 08, 2026 at 07:27:10 PM ET`
+Last updated: `April 08, 2026 at 07:35:03 PM ET`
 
 ## R1 (tok/s)
 
@@ -51,7 +51,7 @@ Last updated: `April 08, 2026 at 07:27:10 PM ET`
 | 43 | fishyfins | evaluated | 6c0e20 | 522.0 |
 | 44 | yoursun1220 | evaluated | d8b590 | 521.8 |
 | 45 | Licha | evaluated | 8fdc3a | 521.4 |
-| 46 | kade_lin_is_here | evaluated | 9ea924 | 521.0 |
+| 46 | kade_lin_is_here | evaluated | 6ceaa5 | 520.6 |
 | 47 | PurplePickle67 | evaluated | 68d34e | 520.5 |
 | 48 | jbc | evaluated | 12bb20 | 520.4 |
 | 49 | ishan-pat | evaluated | fddca1 | 518.1 |
@@ -107,7 +107,7 @@ Last updated: `April 08, 2026 at 07:27:10 PM ET`
 | 32 | ethanchen | evaluated | ea518d | 251.2 |
 | 33 | 13rabbit | evaluated | b38df9 | 242.9 |
 | 34 | bl792 | evaluated | 09cd73 | 238.8 |
-| 35 | kade_lin_is_here | evaluated | 9ea924 | 237.6 |
+| 35 | kade_lin_is_here | evaluated | 6ceaa5 | 236.7 |
 | 36 | beratcelik | evaluated | 863a89 | 231.2 |
 | 37 | pallavi-srinivas | evaluated | b82073 | 207.1 |
 | 38 | tuo | evaluated | 3d6d40 | 204.6 |
@@ -176,7 +176,7 @@ Last updated: `April 08, 2026 at 07:27:10 PM ET`
 | 34 | 13rabbit | evaluated | b38df9 | 100.3 |
 | 35 | jl | evaluated | 8b6423 | 102.6 |
 | 36 | lipphi | evaluated | a3a71b | 104.4 |
-| 37 | kade_lin_is_here | evaluated | 9ea924 | 112.3 |
+| 37 | kade_lin_is_here | evaluated | 6ceaa5 | 113.2 |
 | 38 | abhik | evaluated | bf55dc | 140.5 |
 | 39 | tuo | evaluated | 3d6d40 | 167.8 |
 | 40 | pallavi-srinivas | evaluated | b82073 | 190.5 |
@@ -243,7 +243,7 @@ Last updated: `April 08, 2026 at 07:27:10 PM ET`
 | 34 | 13rabbit | evaluated | b38df9 | 142.7 |
 | 35 | jl | evaluated | 8b6423 | 149.1 |
 | 36 | lipphi | evaluated | a3a71b | 150.9 |
-| 37 | kade_lin_is_here | evaluated | 9ea924 | 151.2 |
+| 37 | kade_lin_is_here | evaluated | 6ceaa5 | 152.6 |
 | 38 | tuo | evaluated | 3d6d40 | 162.8 |
 | 39 | abhik | evaluated | bf55dc | 172.5 |
 | 40 | pallavi-srinivas | evaluated | b82073 | 192.2 |

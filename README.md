@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 08, 2026 at 07:27:10 PM ET`
+Last updated: `April 08, 2026 at 07:35:03 PM ET`
 
 ## Pages
 
@@ -48,7 +48,7 @@ Last updated: `April 08, 2026 at 07:27:10 PM ET`
 | 34 | jl | evaluated | 8b6423 | 19.2/3.5/22.7 | 0.936 | 569.1 | 311.6 | 102.6 | 149.1 |
 | 35 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
 | 36 | 13rabbit | evaluated | b38df9 | 37.3/4.0/41.3 | 0.884 | 542.8 | 242.9 | 100.3 | 142.7 |
-| 37 | kade_lin_is_here | evaluated | 9ea924 | 32.1/4.2/36.2 | 0.834 | 521.0 | 237.6 | 112.3 | 151.2 |
+| 37 | kade_lin_is_here | evaluated | 6ceaa5 | 22.4/4.2/26.6 | 0.829 | 520.6 | 236.7 | 113.2 | 152.6 |
 | 38 | tuo | evaluated | 3d6d40 | 74.5/4.9/79.3 | 0.704 | 494.8 | 204.6 | 167.8 | 162.8 |
 | 39 | pallavi-srinivas | evaluated | b82073 | 39.1/5.0/44.0 | 0.670 | 539.0 | 207.1 | 190.5 | 192.2 |
 | 40 | Licha | evaluated | 8fdc3a | 38.5/5.3/43.8 | 0.625 | 521.4 | 192.4 | 202.7 | 215.0 |
