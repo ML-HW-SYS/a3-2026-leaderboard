@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 03:05:18 PM ET`
+Last updated: `April 08, 2026 at 03:13:56 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 08 03:04 PM ET | ngoguen | evaluated |  | submission.py | ecab75 | 40.1/3.1/43.2 | 538.2 | 282.6 | 26.3 | 49.6 |
+| Apr 08 03:01 PM ET | poppyPotatoe | evaluated |  | submission.py | 19ecdb | 13.5/11.3/24.9 | 143.6 | 104.7 | 390.8 | 330.9 |
 | Apr 08 02:40 PM ET | ngoguen | evaluated |  | submission.py | f24015 | 42.2/4.4/46.6 | 538.5 | 162.2 | 26.4 | 50.0 |
 | Apr 08 02:39 PM ET | poppyPotatoe | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 6ddad2 | 14.2/34.4/48.6 | 33.3 | 31.7 | 389.2 | 326.2 |
 | Apr 08 02:19 PM ET | poppyPotatoe | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 04a2b0 | 13.6/11.6/25.2 | 152.0 | 95.6 | 390.6 | 327.7 |
