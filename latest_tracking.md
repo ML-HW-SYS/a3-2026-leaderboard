@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 11:24:59 AM ET`
+Last updated: `April 08, 2026 at 11:33:49 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 08 11:21 AM ET | Yize | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 279fbc | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 08 11:13 AM ET | Yize | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | b425c0 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 08 11:08 AM ET | Yize | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | f59cbc | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 08 10:58 AM ET | Shengwei | evaluated |  | submission.py | f3a299 | 19.2/2.8/21.9 | 541.7 | 359.6 | 33.2 | 62.8 |

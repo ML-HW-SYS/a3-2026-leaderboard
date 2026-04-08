@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 08, 2026 at 11:24:59 AM ET`
+Last updated: `April 08, 2026 at 11:33:49 AM ET`
 
 ## Pages
 
@@ -70,7 +70,7 @@ Last updated: `April 08, 2026 at 11:24:59 AM ET`
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | TheProphet | failed | 2facb7 | 41.1/2.5/43.6 |  |  |  |  |  |
 |  | vallabkaranam | failed | ec4b9a |  |  |  |  |  |  |
-|  | Yize | failed | b425c0 | 0.0/0.0/0.0 |  |  |  |  |  |
+|  | Yize | failed | 279fbc | 0.0/0.0/0.0 |  |  |  |  |  |
 
 ## Column Guide
 
