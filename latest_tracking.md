@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 03:29:34 PM ET`
+Last updated: `April 08, 2026 at 03:37:20 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 08 03:30 PM ET | poppyPotatoe | failed_correctness | Correctness FAIL \| R2 (85.96%), R3 (78.42%), R4 (83.54%) \| max_abs_diff=17 | submission.py | 0ac008 | 14.9/7.3/22.2 | 164.9 | 151.1 | 71.9 | 129.7 |
 | Apr 08 03:20 PM ET | poppyPotatoe | evaluated |  | submission.py | dd4e57 | 15.0/9.6/24.6 | 169.9 | 117.7 | 314.7 | 254.2 |
 | Apr 08 03:10 PM ET | poppyPotatoe | evaluated |  | submission.py | ab40d5 | 13.5/11.0/24.6 | 149.8 | 108.8 | 392.5 | 331.3 |
 | Apr 08 03:04 PM ET | ngoguen | evaluated |  | submission.py | ecab75 | 40.1/3.1/43.2 | 538.2 | 282.6 | 26.3 | 49.6 |
