@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 08, 2026 at 10:40:02 AM ET`
+Last updated: `April 08, 2026 at 10:47:57 AM ET`
 
 ## R1 (tok/s)
 
@@ -36,7 +36,7 @@ Last updated: `April 08, 2026 at 10:40:02 AM ET`
 | 28 | lipphi | evaluated | a3a71b | 534.8 |
 | 29 | chickfila | evaluated | f0956d | 534.5 |
 | 30 | gravlax | evaluated | b1229d | 532.3 |
-| 31 | Yize | evaluated | 8548d6 | 530.6 |
+| 31 | Yize | evaluated | a7a350 | 532.2 |
 | 32 | Junyi Li | evaluated | c7a1b3 | 527.3 |
 | 33 | castillo | evaluated | 0e93de | 526.6 |
 | 34 | yb | evaluated | ea23ab | 525.9 |
@@ -96,7 +96,7 @@ Last updated: `April 08, 2026 at 10:40:02 AM ET`
 | 24 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
 | 25 | landrum | evaluated | 61ab81 | 276.9 |
 | 26 | gravlax | evaluated | b1229d | 272.5 |
-| 27 | Yize | evaluated | 8548d6 | 267.6 |
+| 27 | Yize | evaluated | a7a350 | 268.6 |
 | 28 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
 | 29 | ishan-pat | evaluated | fddca1 | 259.2 |
 | 30 | happyface | evaluated | 7e8b61 | 258.2 |
@@ -153,7 +153,7 @@ Last updated: `April 08, 2026 at 10:40:02 AM ET`
 | 17 | gravlax | evaluated | b1229d | 35.0 |
 | 18 | omermoav | evaluated | b01c0e | 35.2 |
 | 19 | PurplePickle67 | evaluated | 68d34e | 37.3 |
-| 20 | Yize | evaluated | 8548d6 | 39.5 |
+| 20 | Yize | evaluated | a7a350 | 39.6 |
 | 21 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
 | 22 | sjb | evaluated | 373553 | 50.8 |
 | 23 | ishan-pat | evaluated | fddca1 | 56.0 |
@@ -208,10 +208,10 @@ Last updated: `April 08, 2026 at 10:40:02 AM ET`
 | 8 | nickname55555555 | evaluated | 20d1ac | 50.6 |
 | 9 | abarat007 | evaluated | d7f626 | 51.5 |
 | 10 | PurplePickle67 | evaluated | 68d34e | 52.1 |
-| 11 | Yize | evaluated | 8548d6 | 53.3 |
-| 12 | pyjuan91 | evaluated | fe8f27 | 53.3 |
-| 13 | sjb | evaluated | 373553 | 53.6 |
-| 14 | landrum | evaluated | 61ab81 | 53.7 |
+| 11 | pyjuan91 | evaluated | fe8f27 | 53.3 |
+| 12 | sjb | evaluated | 373553 | 53.6 |
+| 13 | landrum | evaluated | 61ab81 | 53.7 |
+| 14 | Yize | evaluated | a7a350 | 53.8 |
 | 15 | gravlax | evaluated | b1229d | 59.7 |
 | 16 | bl792 | evaluated | 09cd73 | 59.9 |
 | 17 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 59.9 |

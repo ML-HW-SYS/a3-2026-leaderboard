@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 10:40:02 AM ET`
+Last updated: `April 08, 2026 at 10:47:57 AM ET`
 
 ## R1 (tok/s)
 
@@ -40,7 +40,7 @@ Last updated: `April 08, 2026 at 10:40:02 AM ET`
 | 32 | lipphi | submission.py | a3a71b | 534.8 |
 | 33 | gravlax | develop.py | 1f23d9 | 534.6 |
 | 34 | chickfila | submission.py | 29860a | 534.6 |
-| 35 | Yize | submission.py | 8548d6 | 530.6 |
+| 35 | Yize | submission.py | a7a350 | 532.2 |
 | 36 | Junyi Li | submission.py | 2e381b | 529.4 |
 | 37 | bl792 | submission.py | 3b3a8a | 528.5 |
 | 38 | ethanchen | submission.py | a0d359 | 528.1 |
@@ -93,7 +93,7 @@ Last updated: `April 08, 2026 at 10:40:02 AM ET`
 | 26 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
 | 27 | landrum | submission.py | 61ab81 | 276.9 |
 | 28 | gravlax | develop.py | b1229d | 273.0 |
-| 29 | Yize | develop.py | 4c7928 | 268.3 |
+| 29 | Yize | submission.py | a7a350 | 268.6 |
 | 30 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
 | 31 | ishan-pat | develop.py | 75d32d | 259.7 |
 | 32 | happyface | develop.py | 0aca52 | 259.4 |

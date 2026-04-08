@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 08, 2026 at 10:40:02 AM ET`
+Last updated: `April 08, 2026 at 10:47:57 AM ET`
 
 ## Pages
 
@@ -31,7 +31,7 @@ Last updated: `April 08, 2026 at 10:40:02 AM ET`
 | 17 | andrasferenczy | evaluated | 9c7f53 | 37.3/3.2/40.5 | 1.486 | 539.1 | 277.2 | 31.9 | 63.7 |
 | 18 | gravlax | evaluated | b1229d | 19.9/3.2/23.1 | 1.464 | 532.3 | 272.5 | 35.0 | 59.7 |
 | 19 | sjb | evaluated | 373553 | 28.3/2.9/31.1 | 1.457 | 535.3 | 346.4 | 50.8 | 53.6 |
-| 20 | Yize | evaluated | 8548d6 | 24.5/3.2/27.8 | 1.454 | 530.6 | 267.6 | 39.5 | 53.3 |
+| 20 | Yize | evaluated | a7a350 | 24.6/3.2/27.8 | 1.452 | 532.2 | 268.6 | 39.6 | 53.8 |
 | 21 | bl792 | evaluated | 09cd73 | 18.3/3.5/21.8 | 1.438 | 524.7 | 238.8 | 32.4 | 59.9 |
 | 22 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 41.6/3.3/44.9 | 1.370 | 515.1 | 266.6 | 43.1 | 59.9 |
 | 23 | happyface | evaluated | 7e8b61 | 18.5/3.4/22.0 | 1.219 | 543.0 | 258.2 | 63.7 | 66.0 |
