@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 01:12:11 AM ET`
+Last updated: `April 08, 2026 at 01:20:22 AM ET`
 
 ## R1 (tok/s)
 
@@ -48,17 +48,18 @@ Last updated: `April 08, 2026 at 01:12:11 AM ET`
 | 40 | castillo | submission.py | 0e93de | 526.6 |
 | 41 | yb | submission.py | ea23ab | 525.9 |
 | 42 | nicknam534534 | develop.py | 83a901 | 525.8 |
-| 43 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
-| 44 | yoursun1220 | submission.py | f4e2be | 524.2 |
-| 45 | act | submission.py | 899777 | 523.9 |
-| 46 | hw_bloss | submission.py | 2d26da | 523.5 |
-| 47 | Licha | submission.py | 8fdc3a | 521.4 |
-| 48 | PurplePickle67 | submission.py | 68d34e | 520.5 |
-| 49 | jbc | submission.py | 12bb20 | 520.4 |
-| 50 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
-| 51 | ngoguen | submission.py | a5cdb8 | 515.9 |
-| 52 | tuo | submission.py | 4274da | 507.3 |
-| 53 | Decode_speed | submission.py | 097a6b | 104.5 |
+| 43 | kade_lin_is_here | submission.py | ef9e51 | 524.7 |
+| 44 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
+| 45 | yoursun1220 | submission.py | f4e2be | 524.2 |
+| 46 | act | submission.py | 899777 | 523.9 |
+| 47 | hw_bloss | submission.py | 2d26da | 523.5 |
+| 48 | Licha | submission.py | 8fdc3a | 521.4 |
+| 49 | PurplePickle67 | submission.py | 68d34e | 520.5 |
+| 50 | jbc | submission.py | 12bb20 | 520.4 |
+| 51 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
+| 52 | ngoguen | submission.py | a5cdb8 | 515.9 |
+| 53 | tuo | submission.py | 4274da | 507.3 |
+| 54 | Decode_speed | submission.py | 097a6b | 104.5 |
 
 ## R2 (tok/s)
 
@@ -115,8 +116,9 @@ Last updated: `April 08, 2026 at 01:12:11 AM ET`
 | 49 | jbc | develop.py | 4e7308 | 169.4 |
 | 50 | castillo | develop.py | 0e93de | 169.2 |
 | 51 | act | submission.py | 899777 | 169.0 |
-| 52 | nicknam534534 | develop.py | 187bfa | 148.4 |
-| 53 | Decode_speed | submission.py | 097a6b | 77.3 |
+| 52 | kade_lin_is_here | submission.py | ef9e51 | 169.0 |
+| 53 | nicknam534534 | develop.py | 187bfa | 148.4 |
+| 54 | Decode_speed | submission.py | 097a6b | 77.3 |
 
 ## R3 (ms)
 
@@ -174,7 +176,8 @@ Last updated: `April 08, 2026 at 01:12:11 AM ET`
 | 50 | ngoguen | submission.py | a5cdb8 | 310.3 |
 | 51 | castillo | develop.py | 0e93de | 310.9 |
 | 52 | act | develop.py | 1b5e17 | 310.9 |
-| 53 | Decode_speed | submission.py | 097a6b | 412.7 |
+| 53 | kade_lin_is_here | submission.py | ef9e51 | 311.1 |
+| 54 | Decode_speed | submission.py | 097a6b | 412.7 |
 
 ## R4 (ms)
 
@@ -232,4 +235,5 @@ Last updated: `April 08, 2026 at 01:12:11 AM ET`
 | 50 | castillo | develop.py | 0e93de | 250.2 |
 | 51 | yb | submission.py | 2aa1a9 | 250.5 |
 | 52 | act | develop.py | 1b5e17 | 250.6 |
-| 53 | Decode_speed | submission.py | 097a6b | 270.3 |
+| 53 | kade_lin_is_here | submission.py | ef9e51 | 251.1 |
+| 54 | Decode_speed | submission.py | 097a6b | 270.3 |

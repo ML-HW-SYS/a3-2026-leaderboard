@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 08, 2026 at 01:12:11 AM ET`
+Last updated: `April 08, 2026 at 01:20:22 AM ET`
 
 ## R1 (tok/s)
 
@@ -42,24 +42,24 @@ Last updated: `April 08, 2026 at 01:12:11 AM ET`
 | 34 | yb | evaluated | ea23ab | 525.9 |
 | 35 | bl792 | evaluated | 09cd73 | 524.7 |
 | 36 | nicknam534534 | evaluated | 83a901 | 524.7 |
-| 37 | act | evaluated | 899777 | 523.9 |
-| 38 | ethanchen | evaluated | ea518d | 523.7 |
-| 39 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 40 | fishyfins | evaluated | 6c0e20 | 522.0 |
-| 41 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 42 | Licha | evaluated | 8fdc3a | 521.4 |
-| 43 | PurplePickle67 | evaluated | 68d34e | 520.5 |
-| 44 | jbc | evaluated | 12bb20 | 520.4 |
-| 45 | ishan-pat | evaluated | fddca1 | 518.1 |
-| 46 | ngoguen | evaluated | a5cdb8 | 515.9 |
-| 47 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 48 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
-| 49 | Rithvik | evaluated | 2924a0 | 495.8 |
-| 50 | tuo | evaluated | 3d6d40 | 494.8 |
-| 51 | abhik | evaluated | bf55dc | 157.9 |
-| 52 | Decode_speed | evaluated | 097a6b | 104.5 |
+| 37 | kade_lin_is_here | evaluated | ef9e51 | 524.7 |
+| 38 | act | evaluated | 899777 | 523.9 |
+| 39 | ethanchen | evaluated | ea518d | 523.7 |
+| 40 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 41 | fishyfins | evaluated | 6c0e20 | 522.0 |
+| 42 | yoursun1220 | evaluated | d8b590 | 521.8 |
+| 43 | Licha | evaluated | 8fdc3a | 521.4 |
+| 44 | PurplePickle67 | evaluated | 68d34e | 520.5 |
+| 45 | jbc | evaluated | 12bb20 | 520.4 |
+| 46 | ishan-pat | evaluated | fddca1 | 518.1 |
+| 47 | ngoguen | evaluated | a5cdb8 | 515.9 |
+| 48 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 49 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
+| 50 | Rithvik | evaluated | 2924a0 | 495.8 |
+| 51 | tuo | evaluated | 3d6d40 | 494.8 |
+| 52 | abhik | evaluated | bf55dc | 157.9 |
+| 53 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | kade_lin_is_here | failed | 3aa52b |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | poppyPotatoe | failed | 2d4dd6 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -118,12 +118,12 @@ Last updated: `April 08, 2026 at 01:12:11 AM ET`
 | 46 | castillo | evaluated | 0e93de | 169.0 |
 | 47 | jbc | evaluated | 12bb20 | 169.0 |
 | 48 | act | evaluated | 899777 | 169.0 |
-| 49 | yb | evaluated | ea23ab | 168.8 |
-| 50 | nicknam534534 | evaluated | 83a901 | 148.4 |
-| 51 | abhik | evaluated | bf55dc | 127.8 |
-| 52 | Decode_speed | evaluated | 097a6b | 77.3 |
+| 49 | kade_lin_is_here | evaluated | ef9e51 | 169.0 |
+| 50 | yb | evaluated | ea23ab | 168.8 |
+| 51 | nicknam534534 | evaluated | 83a901 | 148.4 |
+| 52 | abhik | evaluated | bf55dc | 127.8 |
+| 53 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | kade_lin_is_here | failed | 3aa52b |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | poppyPotatoe | failed | 2d4dd6 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -181,13 +181,13 @@ Last updated: `April 08, 2026 at 01:12:11 AM ET`
 | 45 | ngoguen | evaluated | a5cdb8 | 310.3 |
 | 46 | yoursun1220 | evaluated | d8b590 | 310.7 |
 | 47 | act | evaluated | 899777 | 310.9 |
-| 48 | jbc | evaluated | 12bb20 | 311.3 |
-| 49 | castillo | evaluated | 0e93de | 311.4 |
-| 50 | yb | evaluated | ea23ab | 312.3 |
-| 51 | nicknam534534 | evaluated | 83a901 | 405.3 |
-| 52 | Decode_speed | evaluated | 097a6b | 412.7 |
+| 48 | kade_lin_is_here | evaluated | ef9e51 | 311.1 |
+| 49 | jbc | evaluated | 12bb20 | 311.3 |
+| 50 | castillo | evaluated | 0e93de | 311.4 |
+| 51 | yb | evaluated | ea23ab | 312.3 |
+| 52 | nicknam534534 | evaluated | 83a901 | 405.3 |
+| 53 | Decode_speed | evaluated | 097a6b | 412.7 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | kade_lin_is_here | failed | 3aa52b |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | poppyPotatoe | failed | 2d4dd6 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -247,11 +247,11 @@ Last updated: `April 08, 2026 at 01:12:11 AM ET`
 | 47 | castillo | evaluated | 0e93de | 250.4 |
 | 48 | yb | evaluated | ea23ab | 250.6 |
 | 49 | act | evaluated | 899777 | 250.7 |
-| 50 | jbc | evaluated | 12bb20 | 251.3 |
-| 51 | nicknam534534 | evaluated | 83a901 | 268.7 |
-| 52 | Decode_speed | evaluated | 097a6b | 270.3 |
+| 50 | kade_lin_is_here | evaluated | ef9e51 | 251.1 |
+| 51 | jbc | evaluated | 12bb20 | 251.3 |
+| 52 | nicknam534534 | evaluated | 83a901 | 268.7 |
+| 53 | Decode_speed | evaluated | 097a6b | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | kade_lin_is_here | failed | 3aa52b |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | poppyPotatoe | failed | 2d4dd6 |  |
 |  | SIUUU | failed | ad9184 |  |

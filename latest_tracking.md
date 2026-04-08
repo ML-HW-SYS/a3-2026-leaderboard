@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 01:12:11 AM ET`
+Last updated: `April 08, 2026 at 01:20:22 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 08 01:15 AM ET | kade_lin_is_here | evaluated |  | submission.py | ef9e51 | 39.4/6.3/45.7 | 524.7 | 169.0 | 311.1 | 251.1 |
 | Apr 08 12:31 AM ET | kade_lin_is_here | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 3aa52b | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 08 12:31 AM ET | kade_lin_is_here | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | 3aa52b | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 08 12:09 AM ET | stefan | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 64:12: q_block = q_pos // BLOCK_SIZE h_mod = hq % DILATION neg_inf =... | develop.py | 0083ef | 15.4/0.0/15.4 | 0.0 | 0.0 | 0.0 | 0.0 |
