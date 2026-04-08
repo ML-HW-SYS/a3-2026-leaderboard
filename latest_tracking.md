@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 11:07:18 AM ET`
+Last updated: `April 08, 2026 at 11:16:08 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 08 11:08 AM ET | Yize | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | f59cbc | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 08 10:58 AM ET | Shengwei | evaluated |  | submission.py | f3a299 | 19.2/2.8/21.9 | 541.7 | 359.6 | 33.2 | 62.8 |
 | Apr 08 10:56 AM ET | prousoglou | failed_correctness | R2: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. St... | develop.py | 4c9871 | 59.4/0.9/60.3 | 556.1 | 0.0 | 0.0 | 0.0 |
 | Apr 08 10:53 AM ET | Yize | failed_correctness | R1: SETUP: ERR: UnboundLocalError: cannot access local variable 'regime' where it is not associated with a value \| R2... | submission.py | 5439fb | 13.3/0.0/13.3 | 0.0 | 0.0 | 0.0 | 0.0 |
