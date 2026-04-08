@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 11:11:11 PM ET`
+Last updated: `April 07, 2026 at 11:18:54 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 11:10 PM ET | nicknam534534 | failed_correctness | R2: SETUP: ERR: RuntimeError: Cannot call @triton.jit'd outside of the scope of a kernel \| R3: SETUP: ERR: RuntimeErr... | develop.py | 31798c | 16.9/2.1/18.9 | 521.0 | 0.0 | 0.0 | 268.5 |
 | Apr 07 11:04 PM ET | nicknam534534 | failed_correctness | Correctness FAIL \| R3 (100.00%) \| max_abs_diff=inf | develop.py | 09491f | 19.8/6.1/25.9 | 506.8 | 147.8 | 133.9 | 267.6 |
 | Apr 07 10:52 PM ET | Yize | evaluated |  | submission.py | 4c7928 | 24.7/3.3/27.9 | 526.2 | 267.1 | 39.6 | 53.5 |
 | Apr 07 10:52 PM ET | Yize | evaluated |  | develop.py | 4c7928 | 24.6/3.3/27.9 | 522.1 | 268.3 | 39.3 | 53.3 |
