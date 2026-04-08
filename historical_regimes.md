@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 11:18:54 PM ET`
+Last updated: `April 07, 2026 at 11:27:27 PM ET`
 
 ## R1 (tok/s)
 
@@ -40,24 +40,25 @@ Last updated: `April 07, 2026 at 11:18:54 PM ET`
 | 32 | lipphi | submission.py | a3a71b | 534.8 |
 | 33 | gravlax | develop.py | 1f23d9 | 534.6 |
 | 34 | chickfila | submission.py | 29860a | 534.6 |
-| 35 | Yize | develop.py | 083f99 | 529.4 |
+| 35 | Yize | submission.py | 8548d6 | 530.6 |
 | 36 | Junyi Li | submission.py | 2e381b | 529.4 |
 | 37 | bl792 | submission.py | 3b3a8a | 528.5 |
 | 38 | ethanchen | submission.py | a0d359 | 528.1 |
 | 39 | Rithvik | submission.py | 1a7556 | 527.1 |
-| 40 | yb | submission.py | ea23ab | 525.9 |
-| 41 | nicknam534534 | develop.py | 83a901 | 525.8 |
-| 42 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
-| 43 | yoursun1220 | submission.py | f4e2be | 524.2 |
-| 44 | act | submission.py | 899777 | 523.9 |
-| 45 | hw_bloss | submission.py | 2d26da | 523.5 |
-| 46 | Licha | submission.py | 8fdc3a | 521.4 |
-| 47 | PurplePickle67 | submission.py | 68d34e | 520.5 |
-| 48 | jbc | submission.py | 12bb20 | 520.4 |
-| 49 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
-| 50 | ngoguen | submission.py | a5cdb8 | 515.9 |
-| 51 | tuo | submission.py | 4274da | 507.3 |
-| 52 | Decode_speed | submission.py | 097a6b | 104.5 |
+| 40 | castillo | submission.py | 0e93de | 526.6 |
+| 41 | yb | submission.py | ea23ab | 525.9 |
+| 42 | nicknam534534 | develop.py | 83a901 | 525.8 |
+| 43 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
+| 44 | yoursun1220 | submission.py | f4e2be | 524.2 |
+| 45 | act | submission.py | 899777 | 523.9 |
+| 46 | hw_bloss | submission.py | 2d26da | 523.5 |
+| 47 | Licha | submission.py | 8fdc3a | 521.4 |
+| 48 | PurplePickle67 | submission.py | 68d34e | 520.5 |
+| 49 | jbc | submission.py | 12bb20 | 520.4 |
+| 50 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
+| 51 | ngoguen | submission.py | a5cdb8 | 515.9 |
+| 52 | tuo | submission.py | 4274da | 507.3 |
+| 53 | Decode_speed | submission.py | 097a6b | 104.5 |
 
 ## R2 (tok/s)
 
@@ -112,9 +113,10 @@ Last updated: `April 07, 2026 at 11:18:54 PM ET`
 | 47 | ngoguen | submission.py | a5cdb8 | 169.7 |
 | 48 | Junyi Li | submission.py | c7a1b3 | 169.7 |
 | 49 | jbc | develop.py | 4e7308 | 169.4 |
-| 50 | act | submission.py | 899777 | 169.0 |
-| 51 | nicknam534534 | develop.py | 187bfa | 148.4 |
-| 52 | Decode_speed | submission.py | 097a6b | 77.3 |
+| 50 | castillo | submission.py | 0e93de | 169.0 |
+| 51 | act | submission.py | 899777 | 169.0 |
+| 52 | nicknam534534 | develop.py | 187bfa | 148.4 |
+| 53 | Decode_speed | submission.py | 097a6b | 77.3 |
 
 ## R3 (ms)
 
@@ -171,7 +173,8 @@ Last updated: `April 07, 2026 at 11:18:54 PM ET`
 | 49 | stefan | develop.py | 9a25e1 | 309.6 |
 | 50 | ngoguen | submission.py | a5cdb8 | 310.3 |
 | 51 | act | develop.py | 1b5e17 | 310.9 |
-| 52 | Decode_speed | submission.py | 097a6b | 412.7 |
+| 52 | castillo | submission.py | 0e93de | 311.4 |
+| 53 | Decode_speed | submission.py | 097a6b | 412.7 |
 
 ## R4 (ms)
 
@@ -190,7 +193,7 @@ Last updated: `April 07, 2026 at 11:18:54 PM ET`
 | 11 | PurplePickle67 | submission.py | 2efdba | 51.9 |
 | 12 | sjb | develop.py | 387987 | 53.1 |
 | 13 | pyjuan91 | develop.py | 92d1da | 53.1 |
-| 14 | Yize | develop.py | 4c7928 | 53.3 |
+| 14 | Yize | submission.py | 8548d6 | 53.3 |
 | 15 | landrum | develop.py | 4d2d51 | 53.5 |
 | 16 | gravlax | submission.py | b1229d | 59.7 |
 | 17 | bl792 | develop.py | 09cd73 | 59.8 |
@@ -226,6 +229,7 @@ Last updated: `April 07, 2026 at 11:18:54 PM ET`
 | 47 | yoursun1220 | submission.py | 27e400 | 248.7 |
 | 48 | jbc | develop.py | 4e7308 | 248.9 |
 | 49 | ngoguen | submission.py | a5cdb8 | 249.7 |
-| 50 | yb | submission.py | 2aa1a9 | 250.5 |
-| 51 | act | develop.py | 1b5e17 | 250.6 |
-| 52 | Decode_speed | submission.py | 097a6b | 270.3 |
+| 50 | castillo | submission.py | 0e93de | 250.4 |
+| 51 | yb | submission.py | 2aa1a9 | 250.5 |
+| 52 | act | develop.py | 1b5e17 | 250.6 |
+| 53 | Decode_speed | submission.py | 097a6b | 270.3 |
