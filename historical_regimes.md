@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 04:09:30 PM ET`
+Last updated: `April 08, 2026 at 04:17:33 PM ET`
 
 ## R1 (tok/s)
 
@@ -104,13 +104,13 @@ Last updated: `April 08, 2026 at 04:09:30 PM ET`
 | 36 | 13rabbit | develop.py | b38df9 | 243.3 |
 | 37 | bl792 | develop.py | 09cd73 | 239.0 |
 | 38 | abhik | submission.py | 572159 | 224.0 |
-| 39 | pallavi-srinivas | submission.py | 52387e | 207.4 |
-| 40 | tuo | submission.py | 3d6d40 | 204.6 |
-| 41 | Sulaiman Alam | submission.py | c7ede2 | 197.4 |
-| 42 | Licha | submission.py | 8fdc3a | 192.4 |
-| 43 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 44 | stefan | submission.py | 583665 | 170.2 |
-| 45 | kade_lin_is_here | submission.py | 7cdac7 | 170.1 |
+| 39 | kade_lin_is_here | submission.py | c14bb4 | 213.2 |
+| 40 | pallavi-srinivas | submission.py | 52387e | 207.4 |
+| 41 | tuo | submission.py | 3d6d40 | 204.6 |
+| 42 | Sulaiman Alam | submission.py | c7ede2 | 197.4 |
+| 43 | Licha | submission.py | 8fdc3a | 192.4 |
+| 44 | your_nickname_here | submission.py | 59e245 | 173.4 |
+| 45 | stefan | submission.py | 583665 | 170.2 |
 | 46 | yoursun1220 | submission.py | 27e400 | 169.9 |
 | 47 | yb | submission.py | 2aa1a9 | 169.8 |
 | 48 | hw_bloss | submission.py | b2767b | 169.8 |

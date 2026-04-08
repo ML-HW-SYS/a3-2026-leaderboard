@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 08, 2026 at 04:09:30 PM ET`
+Last updated: `April 08, 2026 at 04:17:33 PM ET`
 
 ## R1 (tok/s)
 
@@ -47,11 +47,11 @@ Last updated: `April 08, 2026 at 04:09:30 PM ET`
 | 39 | ethanchen | evaluated | ea518d | 523.7 |
 | 40 | hw_bloss | evaluated | 4c9666 | 522.2 |
 | 41 | fishyfins | evaluated | 6c0e20 | 522.0 |
-| 42 | kade_lin_is_here | evaluated | 7cdac7 | 522.0 |
-| 43 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 44 | Licha | evaluated | 8fdc3a | 521.4 |
-| 45 | PurplePickle67 | evaluated | 68d34e | 520.5 |
-| 46 | jbc | evaluated | 12bb20 | 520.4 |
+| 42 | yoursun1220 | evaluated | d8b590 | 521.8 |
+| 43 | Licha | evaluated | 8fdc3a | 521.4 |
+| 44 | PurplePickle67 | evaluated | 68d34e | 520.5 |
+| 45 | jbc | evaluated | 12bb20 | 520.4 |
+| 46 | kade_lin_is_here | evaluated | c14bb4 | 518.7 |
 | 47 | ishan-pat | evaluated | fddca1 | 518.1 |
 | 48 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
 | 49 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
@@ -105,13 +105,13 @@ Last updated: `April 08, 2026 at 04:09:30 PM ET`
 | 33 | 13rabbit | evaluated | b38df9 | 242.9 |
 | 34 | bl792 | evaluated | 09cd73 | 238.8 |
 | 35 | beratcelik | evaluated | 863a89 | 231.2 |
-| 36 | pallavi-srinivas | evaluated | b82073 | 207.1 |
-| 37 | tuo | evaluated | 3d6d40 | 204.6 |
-| 38 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
-| 39 | Licha | evaluated | 8fdc3a | 192.4 |
-| 40 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 41 | stefan | evaluated | 583665 | 170.2 |
-| 42 | kade_lin_is_here | evaluated | 7cdac7 | 170.1 |
+| 36 | kade_lin_is_here | evaluated | c14bb4 | 213.2 |
+| 37 | pallavi-srinivas | evaluated | b82073 | 207.1 |
+| 38 | tuo | evaluated | 3d6d40 | 204.6 |
+| 39 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
+| 40 | Licha | evaluated | 8fdc3a | 192.4 |
+| 41 | your_nickname_here | evaluated | f10b9b | 173.1 |
+| 42 | stefan | evaluated | 583665 | 170.2 |
 | 43 | Junyi Li | evaluated | c7a1b3 | 169.7 |
 | 44 | fishyfins | evaluated | 6c0e20 | 169.5 |
 | 45 | yoursun1220 | evaluated | d8b590 | 169.2 |
@@ -179,12 +179,12 @@ Last updated: `April 08, 2026 at 04:09:30 PM ET`
 | 43 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 44 | stefan | evaluated | 583665 | 308.5 |
 | 45 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
-| 46 | kade_lin_is_here | evaluated | 7cdac7 | 310.7 |
-| 47 | yoursun1220 | evaluated | d8b590 | 310.7 |
-| 48 | act | evaluated | 899777 | 310.9 |
-| 49 | jbc | evaluated | 12bb20 | 311.3 |
-| 50 | castillo | evaluated | 0e93de | 311.4 |
-| 51 | yb | evaluated | ea23ab | 312.3 |
+| 46 | yoursun1220 | evaluated | d8b590 | 310.7 |
+| 47 | act | evaluated | 899777 | 310.9 |
+| 48 | jbc | evaluated | 12bb20 | 311.3 |
+| 49 | castillo | evaluated | 0e93de | 311.4 |
+| 50 | yb | evaluated | ea23ab | 312.3 |
+| 51 | kade_lin_is_here | evaluated | c14bb4 | 388.1 |
 | 52 | nicknam534534 | evaluated | 83a901 | 405.3 |
 | 53 | Decode_speed | evaluated | 097a6b | 412.7 |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -247,8 +247,8 @@ Last updated: `April 08, 2026 at 04:09:30 PM ET`
 | 47 | castillo | evaluated | 0e93de | 250.4 |
 | 48 | yb | evaluated | ea23ab | 250.6 |
 | 49 | act | evaluated | 899777 | 250.7 |
-| 50 | kade_lin_is_here | evaluated | 7cdac7 | 251.0 |
-| 51 | jbc | evaluated | 12bb20 | 251.3 |
+| 50 | jbc | evaluated | 12bb20 | 251.3 |
+| 51 | kade_lin_is_here | evaluated | c14bb4 | 261.0 |
 | 52 | nicknam534534 | evaluated | 83a901 | 268.7 |
 | 53 | Decode_speed | evaluated | 097a6b | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |
