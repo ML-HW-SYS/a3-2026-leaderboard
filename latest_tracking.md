@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 02:18:57 PM ET`
+Last updated: `April 08, 2026 at 02:26:48 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 08 02:19 PM ET | poppyPotatoe | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 04a2b0 | 13.6/11.6/25.2 | 152.0 | 95.6 | 390.6 | 327.7 |
 | Apr 08 02:07 PM ET | poppyPotatoe | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | e61466 | 14.3/11.1/25.4 | 164.3 | 100.2 | 390.5 | 328.2 |
 | Apr 08 01:56 PM ET | poppyPotatoe | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 27fbef | 39.9/6.2/46.1 | 520.0 | 169.7 | 308.6 | 246.6 |
 | Apr 08 01:48 PM ET | poppyPotatoe | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | c72deb | 39.4/6.2/45.7 | 525.0 | 169.4 | 309.2 | 247.1 |
