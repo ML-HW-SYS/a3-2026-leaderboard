@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 10:47:57 AM ET`
+Last updated: `April 08, 2026 at 10:56:47 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 08 10:47 AM ET | Yize | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 7a67bc | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 08 10:42 AM ET | Yize | evaluated |  | submission.py | a7a350 | 24.6/3.2/27.8 | 532.2 | 268.6 | 39.6 | 53.8 |
 | Apr 08 10:30 AM ET | ngoguen | evaluated |  | submission.py | 489c56 | 17.1/10.6/27.7 | 144.8 | 111.2 | 350.2 | 267.3 |
 | Apr 08 10:05 AM ET | ngoguen | failed_correctness | R1: SETUP: ERR: UserError: Consider annotating your code using torch._check*(). Could not guard on data-dependent exp... | submission.py | 59ecad | 16.8/2.5/19.3 | 0.0 | 0.0 | 349.8 | 266.1 |
