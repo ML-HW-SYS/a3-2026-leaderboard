@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 08, 2026 at 05:45:33 PM ET`
+Last updated: `April 08, 2026 at 05:54:37 PM ET`
 
 ## Pages
 
@@ -23,8 +23,8 @@ Last updated: `April 08, 2026 at 05:45:33 PM ET`
 | 9 | chickfila | evaluated | f0956d | 65.8/2.6/68.4 | 1.693 | 534.5 | 398.8 | 34.7 | 49.6 |
 | 10 | nickname55555555 | evaluated | 20d1ac | 28.2/2.8/31.0 | 1.672 | 551.4 | 334.2 | 30.9 | 50.6 |
 | 11 | ngoguen | evaluated | ecab75 | 40.1/3.1/43.2 | 1.666 | 538.2 | 282.6 | 26.3 | 49.6 |
-| 12 | Shengwei | evaluated | bcb495 | 30.7/2.7/33.4 | 1.656 | 531.1 | 360.0 | 30.2 | 55.8 |
-| 13 | blabrl | evaluated | ca60eb | 19.3/2.6/21.9 | 1.593 | 557.4 | 383.3 | 33.7 | 65.2 |
+| 12 | blabrl | evaluated | ca60eb | 19.3/2.6/21.9 | 1.593 | 557.4 | 383.3 | 33.7 | 65.2 |
+| 13 | Shengwei | evaluated | 62546b | 21.1/2.7/23.8 | 1.592 | 540.3 | 359.3 | 32.7 | 61.3 |
 | 14 | omermoav | evaluated | b01c0e | 18.6/2.7/21.3 | 1.578 | 569.6 | 373.6 | 35.2 | 64.6 |
 | 15 | landrum | evaluated | 61ab81 | 22.7/3.1/25.8 | 1.573 | 535.7 | 276.9 | 29.9 | 53.7 |
 | 16 | prousoglou | evaluated | 570c63 | 18.4/2.7/21.1 | 1.565 | 556.7 | 368.2 | 34.7 | 65.3 |
@@ -62,12 +62,12 @@ Last updated: `April 08, 2026 at 05:45:33 PM ET`
 | 48 | yoursun1220 | evaluated | d8b590 | 19.8/6.2/26.1 | 0.524 | 521.8 | 169.2 | 310.7 | 250.1 |
 | 49 | yb | evaluated | ea23ab | 19.9/6.3/26.1 | 0.524 | 525.9 | 168.8 | 312.3 | 250.6 |
 | 50 | jbc | evaluated | 12bb20 | 21.1/6.3/27.4 | 0.522 | 520.4 | 169.0 | 311.3 | 251.3 |
-| 51 | kade_lin_is_here | evaluated | 69daa3 | 24.5/6.0/30.5 | 0.519 | 518.9 | 213.1 | 387.8 | 260.5 |
-| 52 | abhik | evaluated | bf55dc | 16.0/8.5/24.5 | 0.485 | 157.9 | 127.8 | 140.5 | 172.5 |
-| 53 | nicknam534534 | evaluated | 83a901 | 19.7/7.1/26.8 | 0.467 | 524.7 | 148.4 | 405.3 | 268.7 |
-| 54 | poppyPotatoe | evaluated | cbca27 | 15.0/9.9/25.0 | 0.354 | 165.1 | 111.5 | 311.3 | 250.6 |
-| 55 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
+| 51 | abhik | evaluated | bf55dc | 16.0/8.5/24.5 | 0.485 | 157.9 | 127.8 | 140.5 | 172.5 |
+| 52 | nicknam534534 | evaluated | 83a901 | 19.7/7.1/26.8 | 0.467 | 524.7 | 148.4 | 405.3 | 268.7 |
+| 53 | poppyPotatoe | evaluated | cbca27 | 15.0/9.9/25.0 | 0.354 | 165.1 | 111.5 | 311.3 | 250.6 |
+| 54 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
+|  | kade_lin_is_here | failed | d1aa9f | 29.0/3.4/32.4 |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | TheProphet | failed | 2facb7 | 41.1/2.5/43.6 |  |  |  |  |  |

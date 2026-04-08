@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 05:45:33 PM ET`
+Last updated: `April 08, 2026 at 05:54:37 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 08 05:51 PM ET | kade_lin_is_here | failed_correctness | R2: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | submission.py | d1aa9f | 29.0/3.4/32.4 | 517.1 | 0.0 | 250.9 | 213.8 |
+| Apr 08 05:42 PM ET | Shengwei | evaluated |  | submission.py | 62546b | 21.1/2.7/23.8 | 540.3 | 359.3 | 32.7 | 61.3 |
+| Apr 08 05:39 PM ET | poppyPotatoe | evaluated |  | develop.py | 9b5b67 | 15.1/10.3/25.4 | 153.9 | 107.3 | 311.6 | 250.1 |
 | Apr 08 05:32 PM ET | poppyPotatoe | evaluated |  | develop.py | 57ce07 | 15.1/10.4/25.4 | 148.2 | 110.2 | 311.2 | 251.3 |
 | Apr 08 05:27 PM ET | poppyPotatoe | evaluated |  | develop.py | 04121e | 15.2/10.4/25.6 | 144.2 | 110.8 | 312.3 | 251.1 |
 | Apr 08 05:21 PM ET | poppyPotatoe | evaluated |  | develop.py | 9c52df | 15.1/10.2/25.3 | 155.6 | 110.2 | 311.2 | 250.9 |
