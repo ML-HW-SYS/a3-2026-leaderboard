@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 12:59:23 PM ET`
+Last updated: `April 08, 2026 at 01:08:19 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 08 12:57 PM ET | ngoguen | evaluated |  | submission.py | 3279a6 | 39.9/8.7/48.6 | 525.5 | 125.6 | 584.9 | 320.4 |
+| Apr 08 12:55 PM ET | Shengwei | evaluated |  | submission.py | bcb495 | 30.7/2.7/33.4 | 531.1 | 360.0 | 30.2 | 55.8 |
 | Apr 08 12:41 PM ET | kade_lin_is_here | evaluated |  | submission.py | 6ae977 | 40.4/6.2/46.6 | 525.1 | 169.4 | 311.7 | 251.1 |
 | Apr 08 12:41 PM ET | kade_lin_is_here | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | develop.py | 6ae977 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 08 12:40 PM ET | ngoguen | evaluated |  | submission.py | be566d | 21.3/9.3/30.6 | 541.1 | 119.4 | 620.0 | 384.8 |
