@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 08, 2026 at 04:57:17 PM ET`
+Last updated: `April 08, 2026 at 05:04:38 PM ET`
 
 ## R1 (tok/s)
 
@@ -57,11 +57,11 @@ Last updated: `April 08, 2026 at 04:57:17 PM ET`
 | 49 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
 | 50 | Rithvik | evaluated | 2924a0 | 495.8 |
 | 51 | tuo | evaluated | 3d6d40 | 494.8 |
-| 52 | poppyPotatoe | evaluated | 66b44c | 167.3 |
-| 53 | abhik | evaluated | bf55dc | 157.9 |
-| 54 | Decode_speed | evaluated | 097a6b | 104.5 |
+| 52 | abhik | evaluated | bf55dc | 157.9 |
+| 53 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | poppyPotatoe | failed | ff72ba |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | vallabkaranam | failed | ec4b9a |  |
@@ -122,10 +122,10 @@ Last updated: `April 08, 2026 at 04:57:17 PM ET`
 | 50 | yb | evaluated | ea23ab | 168.8 |
 | 51 | nicknam534534 | evaluated | 83a901 | 148.4 |
 | 52 | abhik | evaluated | bf55dc | 127.8 |
-| 53 | poppyPotatoe | evaluated | 66b44c | 114.5 |
-| 54 | Decode_speed | evaluated | 097a6b | 77.3 |
+| 53 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | poppyPotatoe | failed | ff72ba |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | vallabkaranam | failed | ec4b9a |  |
@@ -179,17 +179,17 @@ Last updated: `April 08, 2026 at 04:57:17 PM ET`
 | 43 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 44 | stefan | evaluated | 583665 | 308.5 |
 | 45 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
-| 46 | poppyPotatoe | evaluated | 66b44c | 310.4 |
-| 47 | yoursun1220 | evaluated | d8b590 | 310.7 |
-| 48 | act | evaluated | 899777 | 310.9 |
-| 49 | jbc | evaluated | 12bb20 | 311.3 |
-| 50 | castillo | evaluated | 0e93de | 311.4 |
-| 51 | yb | evaluated | ea23ab | 312.3 |
-| 52 | kade_lin_is_here | evaluated | 69daa3 | 387.8 |
-| 53 | nicknam534534 | evaluated | 83a901 | 405.3 |
-| 54 | Decode_speed | evaluated | 097a6b | 412.7 |
+| 46 | yoursun1220 | evaluated | d8b590 | 310.7 |
+| 47 | act | evaluated | 899777 | 310.9 |
+| 48 | jbc | evaluated | 12bb20 | 311.3 |
+| 49 | castillo | evaluated | 0e93de | 311.4 |
+| 50 | yb | evaluated | ea23ab | 312.3 |
+| 51 | kade_lin_is_here | evaluated | 69daa3 | 387.8 |
+| 52 | nicknam534534 | evaluated | 83a901 | 405.3 |
+| 53 | Decode_speed | evaluated | 097a6b | 412.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | poppyPotatoe | failed | ff72ba |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | vallabkaranam | failed | ec4b9a |  |
@@ -245,15 +245,15 @@ Last updated: `April 08, 2026 at 04:57:17 PM ET`
 | 45 | stefan | evaluated | 583665 | 247.3 |
 | 46 | yoursun1220 | evaluated | d8b590 | 250.1 |
 | 47 | castillo | evaluated | 0e93de | 250.4 |
-| 48 | poppyPotatoe | evaluated | 66b44c | 250.5 |
-| 49 | yb | evaluated | ea23ab | 250.6 |
-| 50 | act | evaluated | 899777 | 250.7 |
-| 51 | jbc | evaluated | 12bb20 | 251.3 |
-| 52 | kade_lin_is_here | evaluated | 69daa3 | 260.5 |
-| 53 | nicknam534534 | evaluated | 83a901 | 268.7 |
-| 54 | Decode_speed | evaluated | 097a6b | 270.3 |
+| 48 | yb | evaluated | ea23ab | 250.6 |
+| 49 | act | evaluated | 899777 | 250.7 |
+| 50 | jbc | evaluated | 12bb20 | 251.3 |
+| 51 | kade_lin_is_here | evaluated | 69daa3 | 260.5 |
+| 52 | nicknam534534 | evaluated | 83a901 | 268.7 |
+| 53 | Decode_speed | evaluated | 097a6b | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | poppyPotatoe | failed | ff72ba |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | vallabkaranam | failed | ec4b9a |  |
