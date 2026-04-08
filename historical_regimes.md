@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 02:41:29 PM ET`
+Last updated: `April 08, 2026 at 02:50:37 PM ET`
 
 ## R1 (tok/s)
 
@@ -127,10 +127,10 @@ Last updated: `April 08, 2026 at 02:41:29 PM ET`
 | 1 | - - | submission.py | adc0f3 | 21.8 |
 | 2 | TheProphet | develop.py | cc54b3 | 24.0 |
 | 3 | chyyy | submission.py | 34cc06 | 24.8 |
-| 4 | gm | submission.py | 2898fc | 26.8 |
-| 5 | Rithvik | submission.py | 8e6767 | 26.9 |
-| 6 | omermoav | submission.py | dc63b9 | 26.9 |
-| 7 | ngoguen | submission.py | 42d2d8 | 27.1 |
+| 4 | ngoguen | submission.py | f24015 | 26.4 |
+| 5 | gm | submission.py | 2898fc | 26.8 |
+| 6 | Rithvik | submission.py | 8e6767 | 26.9 |
+| 7 | omermoav | submission.py | dc63b9 | 26.9 |
 | 8 | zhumengzhiren | submission.py | 789cd3 | 27.9 |
 | 9 | abarat007 | submission.py | d7f626 | 28.1 |
 | 10 | pyjuan91 | submission.py | 430a83 | 28.8 |
@@ -189,10 +189,10 @@ Last updated: `April 08, 2026 at 02:41:29 PM ET`
 | 4 | Rithvik | submission.py | 1523b4 | 47.6 |
 | 5 | gm | submission.py | 2898fc | 48.5 |
 | 6 | chickfila | submission.py | f0956d | 49.6 |
-| 7 | zhumengzhiren | develop.py | cf2924 | 50.1 |
-| 8 | ashaikh23 | submission.py | 84a425 | 50.2 |
-| 9 | nickname55555555 | develop.py | f60ff5 | 50.6 |
-| 10 | ngoguen | submission.py | 42d2d8 | 50.8 |
+| 7 | ngoguen | submission.py | f24015 | 50.0 |
+| 8 | zhumengzhiren | develop.py | cf2924 | 50.1 |
+| 9 | ashaikh23 | submission.py | 84a425 | 50.2 |
+| 10 | nickname55555555 | develop.py | f60ff5 | 50.6 |
 | 11 | abarat007 | submission.py | 260fed | 51.5 |
 | 12 | PurplePickle67 | submission.py | 2efdba | 51.9 |
 | 13 | sjb | develop.py | 387987 | 53.1 |

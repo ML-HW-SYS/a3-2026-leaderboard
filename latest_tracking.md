@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 02:41:29 PM ET`
+Last updated: `April 08, 2026 at 02:50:37 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 08 02:40 PM ET | ngoguen | evaluated |  | submission.py | f24015 | 42.2/4.4/46.6 | 538.5 | 162.2 | 26.4 | 50.0 |
+| Apr 08 02:39 PM ET | poppyPotatoe | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 6ddad2 | 14.2/34.4/48.6 | 33.3 | 31.7 | 389.2 | 326.2 |
 | Apr 08 02:19 PM ET | poppyPotatoe | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 04a2b0 | 13.6/11.6/25.2 | 152.0 | 95.6 | 390.6 | 327.7 |
 | Apr 08 02:07 PM ET | poppyPotatoe | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | e61466 | 14.3/11.1/25.4 | 164.3 | 100.2 | 390.5 | 328.2 |
 | Apr 08 01:56 PM ET | poppyPotatoe | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 27fbef | 39.9/6.2/46.1 | 520.0 | 169.7 | 308.6 | 246.6 |

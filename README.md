@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 08, 2026 at 02:41:29 PM ET`
+Last updated: `April 08, 2026 at 02:50:37 PM ET`
 
 ## Pages
 
@@ -32,9 +32,9 @@ Last updated: `April 08, 2026 at 02:41:29 PM ET`
 | 18 | gravlax | evaluated | b1229d | 19.9/3.2/23.1 | 1.464 | 532.3 | 272.5 | 35.0 | 59.7 |
 | 19 | Yize | evaluated | c8c9f7 | 24.6/3.2/27.9 | 1.462 | 534.4 | 269.9 | 39.4 | 53.1 |
 | 20 | sjb | evaluated | 373553 | 28.3/2.9/31.1 | 1.457 | 535.3 | 346.4 | 50.8 | 53.6 |
-| 21 | bl792 | evaluated | 09cd73 | 18.3/3.5/21.8 | 1.438 | 524.7 | 238.8 | 32.4 | 59.9 |
-| 22 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 41.6/3.3/44.9 | 1.370 | 515.1 | 266.6 | 43.1 | 59.9 |
-| 23 | ngoguen | evaluated | 42d2d8 | 75.4/5.4/80.8 | 1.334 | 533.6 | 123.2 | 27.1 | 50.8 |
+| 21 | ngoguen | evaluated | f24015 | 42.2/4.4/46.6 | 1.448 | 538.5 | 162.2 | 26.4 | 50.0 |
+| 22 | bl792 | evaluated | 09cd73 | 18.3/3.5/21.8 | 1.438 | 524.7 | 238.8 | 32.4 | 59.9 |
+| 23 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 41.6/3.3/44.9 | 1.370 | 515.1 | 266.6 | 43.1 | 59.9 |
 | 24 | happyface | evaluated | 7e8b61 | 18.5/3.4/22.0 | 1.219 | 543.0 | 258.2 | 63.7 | 66.0 |
 | 25 | JasonWang07 | evaluated | a4b405 | 22.9/3.1/26.0 | 1.185 | 547.1 | 342.2 | 70.8 | 88.9 |
 | 26 | alifim | evaluated | 701077 | 30.0/3.0/33.0 | 1.178 | 539.6 | 381.2 | 64.8 | 109.2 |
@@ -67,7 +67,7 @@ Last updated: `April 08, 2026 at 02:41:29 PM ET`
 | 53 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
-|  | poppyPotatoe | failed | 04a2b0 | 13.6/11.6/25.2 |  |  |  |  |  |
+|  | poppyPotatoe | failed | 6ddad2 | 14.2/34.4/48.6 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | TheProphet | failed | 2facb7 | 41.1/2.5/43.6 |  |  |  |  |  |
 |  | vallabkaranam | failed | ec4b9a |  |  |  |  |  |  |

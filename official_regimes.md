@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 08, 2026 at 02:41:29 PM ET`
+Last updated: `April 08, 2026 at 02:50:37 PM ET`
 
 ## R1 (tok/s)
 
@@ -29,13 +29,13 @@ Last updated: `April 08, 2026 at 02:41:29 PM ET`
 | 21 | alifim | evaluated | 701077 | 539.6 |
 | 22 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
 | 23 | pallavi-srinivas | evaluated | b82073 | 539.0 |
-| 24 | stefan | evaluated | 583665 | 538.1 |
-| 25 | landrum | evaluated | 61ab81 | 535.7 |
-| 26 | sjb | evaluated | 373553 | 535.3 |
-| 27 | lipphi | evaluated | a3a71b | 534.8 |
-| 28 | chickfila | evaluated | f0956d | 534.5 |
-| 29 | Yize | evaluated | c8c9f7 | 534.4 |
-| 30 | ngoguen | evaluated | 42d2d8 | 533.6 |
+| 24 | ngoguen | evaluated | f24015 | 538.5 |
+| 25 | stefan | evaluated | 583665 | 538.1 |
+| 26 | landrum | evaluated | 61ab81 | 535.7 |
+| 27 | sjb | evaluated | 373553 | 535.3 |
+| 28 | lipphi | evaluated | a3a71b | 534.8 |
+| 29 | chickfila | evaluated | f0956d | 534.5 |
+| 30 | Yize | evaluated | c8c9f7 | 534.4 |
 | 31 | gravlax | evaluated | b1229d | 532.3 |
 | 32 | Shengwei | evaluated | bcb495 | 531.1 |
 | 33 | Junyi Li | evaluated | c7a1b3 | 527.3 |
@@ -61,7 +61,7 @@ Last updated: `April 08, 2026 at 02:41:29 PM ET`
 | 53 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
-|  | poppyPotatoe | failed | 04a2b0 |  |
+|  | poppyPotatoe | failed | 6ddad2 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | vallabkaranam | failed | ec4b9a |  |
@@ -119,13 +119,13 @@ Last updated: `April 08, 2026 at 02:41:29 PM ET`
 | 47 | jbc | evaluated | 12bb20 | 169.0 |
 | 48 | act | evaluated | 899777 | 169.0 |
 | 49 | yb | evaluated | ea23ab | 168.8 |
-| 50 | nicknam534534 | evaluated | 83a901 | 148.4 |
-| 51 | abhik | evaluated | bf55dc | 127.8 |
-| 52 | ngoguen | evaluated | 42d2d8 | 123.2 |
+| 50 | ngoguen | evaluated | f24015 | 162.2 |
+| 51 | nicknam534534 | evaluated | 83a901 | 148.4 |
+| 52 | abhik | evaluated | bf55dc | 127.8 |
 | 53 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
-|  | poppyPotatoe | failed | 04a2b0 |  |
+|  | poppyPotatoe | failed | 6ddad2 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | vallabkaranam | failed | ec4b9a |  |
@@ -136,9 +136,9 @@ Last updated: `April 08, 2026 at 02:41:29 PM ET`
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 21.8 |
 | 2 | chyyy | evaluated | 34cc06 | 24.8 |
-| 3 | gm | evaluated | 2898fc | 26.8 |
-| 4 | Rithvik | evaluated | 2924a0 | 27.1 |
-| 5 | ngoguen | evaluated | 42d2d8 | 27.1 |
+| 3 | ngoguen | evaluated | f24015 | 26.4 |
+| 4 | gm | evaluated | 2898fc | 26.8 |
+| 5 | Rithvik | evaluated | 2924a0 | 27.1 |
 | 6 | zhumengzhiren | evaluated | cf2924 | 28.0 |
 | 7 | abarat007 | evaluated | d7f626 | 28.1 |
 | 8 | pyjuan91 | evaluated | fe8f27 | 28.8 |
@@ -189,7 +189,7 @@ Last updated: `April 08, 2026 at 02:41:29 PM ET`
 | 53 | Decode_speed | evaluated | 097a6b | 412.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
-|  | poppyPotatoe | failed | 04a2b0 |  |
+|  | poppyPotatoe | failed | 6ddad2 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | vallabkaranam | failed | ec4b9a |  |
@@ -203,10 +203,10 @@ Last updated: `April 08, 2026 at 02:41:29 PM ET`
 | 3 | Rithvik | evaluated | 2924a0 | 48.0 |
 | 4 | gm | evaluated | 2898fc | 48.5 |
 | 5 | chickfila | evaluated | f0956d | 49.6 |
-| 6 | ashaikh23 | evaluated | 84a425 | 50.2 |
-| 7 | zhumengzhiren | evaluated | cf2924 | 50.2 |
-| 8 | nickname55555555 | evaluated | 20d1ac | 50.6 |
-| 9 | ngoguen | evaluated | 42d2d8 | 50.8 |
+| 6 | ngoguen | evaluated | f24015 | 50.0 |
+| 7 | ashaikh23 | evaluated | 84a425 | 50.2 |
+| 8 | zhumengzhiren | evaluated | cf2924 | 50.2 |
+| 9 | nickname55555555 | evaluated | 20d1ac | 50.6 |
 | 10 | abarat007 | evaluated | d7f626 | 51.5 |
 | 11 | PurplePickle67 | evaluated | 68d34e | 52.1 |
 | 12 | Yize | evaluated | c8c9f7 | 53.1 |
@@ -253,7 +253,7 @@ Last updated: `April 08, 2026 at 02:41:29 PM ET`
 | 53 | Decode_speed | evaluated | 097a6b | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
-|  | poppyPotatoe | failed | 04a2b0 |  |
+|  | poppyPotatoe | failed | 6ddad2 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | vallabkaranam | failed | ec4b9a |  |
