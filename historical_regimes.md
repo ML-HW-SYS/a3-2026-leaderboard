@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 11:27:27 PM ET`
+Last updated: `April 07, 2026 at 11:35:52 PM ET`
 
 ## R1 (tok/s)
 
@@ -113,7 +113,7 @@ Last updated: `April 07, 2026 at 11:27:27 PM ET`
 | 47 | ngoguen | submission.py | a5cdb8 | 169.7 |
 | 48 | Junyi Li | submission.py | c7a1b3 | 169.7 |
 | 49 | jbc | develop.py | 4e7308 | 169.4 |
-| 50 | castillo | submission.py | 0e93de | 169.0 |
+| 50 | castillo | develop.py | 0e93de | 169.2 |
 | 51 | act | submission.py | 899777 | 169.0 |
 | 52 | nicknam534534 | develop.py | 187bfa | 148.4 |
 | 53 | Decode_speed | submission.py | 097a6b | 77.3 |
@@ -172,8 +172,8 @@ Last updated: `April 07, 2026 at 11:27:27 PM ET`
 | 48 | jbc | develop.py | 4e7308 | 309.3 |
 | 49 | stefan | develop.py | 9a25e1 | 309.6 |
 | 50 | ngoguen | submission.py | a5cdb8 | 310.3 |
-| 51 | act | develop.py | 1b5e17 | 310.9 |
-| 52 | castillo | submission.py | 0e93de | 311.4 |
+| 51 | castillo | develop.py | 0e93de | 310.9 |
+| 52 | act | develop.py | 1b5e17 | 310.9 |
 | 53 | Decode_speed | submission.py | 097a6b | 412.7 |
 
 ## R4 (ms)
@@ -229,7 +229,7 @@ Last updated: `April 07, 2026 at 11:27:27 PM ET`
 | 47 | yoursun1220 | submission.py | 27e400 | 248.7 |
 | 48 | jbc | develop.py | 4e7308 | 248.9 |
 | 49 | ngoguen | submission.py | a5cdb8 | 249.7 |
-| 50 | castillo | submission.py | 0e93de | 250.4 |
+| 50 | castillo | develop.py | 0e93de | 250.2 |
 | 51 | yb | submission.py | 2aa1a9 | 250.5 |
 | 52 | act | develop.py | 1b5e17 | 250.6 |
 | 53 | Decode_speed | submission.py | 097a6b | 270.3 |

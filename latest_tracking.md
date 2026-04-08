@@ -1,11 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 11:27:27 PM ET`
+Last updated: `April 07, 2026 at 11:35:52 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Apr 07 11:24 PM ET | castillo | evaluated |  | submission.py | 0e93de | 27.1/6.2/33.4 | 526.6 | 169.0 | 311.4 | 250.4 |
+| Apr 07 11:24 PM ET | castillo | evaluated |  | develop.py | 0e93de | 19.9/6.2/26.2 | 523.1 | 169.2 | 310.9 | 250.2 |
 | Apr 07 11:18 PM ET | Yize | evaluated |  | submission.py | 8548d6 | 24.5/3.2/27.8 | 530.6 | 267.6 | 39.5 | 53.3 |
+| Apr 07 11:18 PM ET | Yize | evaluated |  | develop.py | 8548d6 | 24.6/3.3/27.9 | 523.2 | 268.1 | 39.5 | 53.4 |
 | Apr 07 11:10 PM ET | nicknam534534 | failed_correctness | R2: SETUP: ERR: RuntimeError: Cannot call @triton.jit'd outside of the scope of a kernel \| R3: SETUP: ERR: RuntimeErr... | develop.py | 31798c | 16.9/2.1/18.9 | 521.0 | 0.0 | 0.0 | 268.5 |
 | Apr 07 11:04 PM ET | nicknam534534 | failed_correctness | Correctness FAIL \| R3 (100.00%) \| max_abs_diff=inf | develop.py | 09491f | 19.8/6.1/25.9 | 506.8 | 147.8 | 133.9 | 267.6 |
 | Apr 07 10:52 PM ET | Yize | evaluated |  | submission.py | 4c7928 | 24.7/3.3/27.9 | 526.2 | 267.1 | 39.6 | 53.5 |
