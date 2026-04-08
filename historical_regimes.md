@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 11:53:12 AM ET`
+Last updated: `April 08, 2026 at 12:02:01 PM ET`
 
 ## R1 (tok/s)
 
@@ -34,14 +34,14 @@ Last updated: `April 08, 2026 at 11:53:12 AM ET`
 | 26 | pyjuan91 | submission.py | fe8f27 | 540.9 |
 | 27 | andrasferenczy | submission.py | 6204c7 | 540.6 |
 | 28 | abhik | develop.py | 41a3ec | 539.5 |
-| 29 | stefan | develop.py | 9a25e1 | 539.1 |
-| 30 | ishan-pat | develop.py | 75d32d | 537.5 |
-| 31 | sjb | develop.py | 3359ec | 537.0 |
-| 32 | ngoguen | submission.py | 4c8c74 | 536.2 |
+| 29 | ngoguen | submission.py | 0d832d | 539.3 |
+| 30 | stefan | develop.py | 9a25e1 | 539.1 |
+| 31 | ishan-pat | develop.py | 75d32d | 537.5 |
+| 32 | sjb | develop.py | 3359ec | 537.0 |
 | 33 | lipphi | submission.py | a3a71b | 534.8 |
 | 34 | gravlax | develop.py | 1f23d9 | 534.6 |
 | 35 | chickfila | submission.py | 29860a | 534.6 |
-| 36 | Yize | submission.py | a7a350 | 532.2 |
+| 36 | Yize | submission.py | c8c9f7 | 534.4 |
 | 37 | Junyi Li | submission.py | 2e381b | 529.4 |
 | 38 | bl792 | submission.py | 3b3a8a | 528.5 |
 | 39 | ethanchen | submission.py | a0d359 | 528.1 |
@@ -93,7 +93,7 @@ Last updated: `April 08, 2026 at 11:53:12 AM ET`
 | 26 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
 | 27 | landrum | submission.py | 61ab81 | 276.9 |
 | 28 | gravlax | develop.py | b1229d | 273.0 |
-| 29 | Yize | submission.py | a7a350 | 268.6 |
+| 29 | Yize | submission.py | c8c9f7 | 269.9 |
 | 30 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
 | 31 | ishan-pat | develop.py | 75d32d | 259.7 |
 | 32 | happyface | develop.py | 0aca52 | 259.4 |
@@ -196,7 +196,7 @@ Last updated: `April 08, 2026 at 11:53:12 AM ET`
 | 11 | PurplePickle67 | submission.py | 2efdba | 51.9 |
 | 12 | sjb | develop.py | 387987 | 53.1 |
 | 13 | pyjuan91 | develop.py | 92d1da | 53.1 |
-| 14 | Yize | submission.py | 8548d6 | 53.3 |
+| 14 | Yize | submission.py | c8c9f7 | 53.1 |
 | 15 | landrum | develop.py | 4d2d51 | 53.5 |
 | 16 | gravlax | submission.py | b1229d | 59.7 |
 | 17 | bl792 | develop.py | 09cd73 | 59.8 |
