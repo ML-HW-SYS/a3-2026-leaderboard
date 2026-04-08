@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 12:05:12 AM ET`
+Last updated: `April 08, 2026 at 12:13:03 AM ET`
 
 ## R1 (tok/s)
 
@@ -106,7 +106,7 @@ Last updated: `April 08, 2026 at 12:05:12 AM ET`
 | 40 | Sulaiman Alam | submission.py | c7ede2 | 197.4 |
 | 41 | Licha | submission.py | 8fdc3a | 192.4 |
 | 42 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 43 | stefan | develop.py | a509bd | 170.1 |
+| 43 | stefan | submission.py | 583665 | 170.2 |
 | 44 | yoursun1220 | submission.py | 27e400 | 169.9 |
 | 45 | yb | submission.py | 2aa1a9 | 169.8 |
 | 46 | hw_bloss | submission.py | b2767b | 169.8 |
@@ -166,11 +166,11 @@ Last updated: `April 08, 2026 at 12:05:12 AM ET`
 | 42 | fishyfins | submission.py | 6c0e20 | 304.6 |
 | 43 | hw_bloss | submission.py | b2767b | 306.7 |
 | 44 | your_nickname_here | submission.py | 59e245 | 307.4 |
-| 45 | yoursun1220 | submission.py | 27e400 | 308.6 |
-| 46 | Sulaiman Alam | submission.py | c7ede2 | 308.7 |
-| 47 | yb | submission.py | 2aa1a9 | 309.3 |
-| 48 | jbc | develop.py | 4e7308 | 309.3 |
-| 49 | stefan | develop.py | 9a25e1 | 309.6 |
+| 45 | stefan | submission.py | 583665 | 308.5 |
+| 46 | yoursun1220 | submission.py | 27e400 | 308.6 |
+| 47 | Sulaiman Alam | submission.py | c7ede2 | 308.7 |
+| 48 | yb | submission.py | 2aa1a9 | 309.3 |
+| 49 | jbc | develop.py | 4e7308 | 309.3 |
 | 50 | ngoguen | submission.py | a5cdb8 | 310.3 |
 | 51 | castillo | develop.py | 0e93de | 310.9 |
 | 52 | act | develop.py | 1b5e17 | 310.9 |
@@ -225,7 +225,7 @@ Last updated: `April 08, 2026 at 12:05:12 AM ET`
 | 43 | hw_bloss | submission.py | b2767b | 237.0 |
 | 44 | Sulaiman Alam | develop.py | c7ede2 | 244.4 |
 | 45 | your_nickname_here | submission.py | 59e245 | 245.7 |
-| 46 | stefan | develop.py | a509bd | 247.8 |
+| 46 | stefan | submission.py | 583665 | 247.3 |
 | 47 | yoursun1220 | submission.py | 27e400 | 248.7 |
 | 48 | jbc | develop.py | 4e7308 | 248.9 |
 | 49 | ngoguen | submission.py | a5cdb8 | 249.7 |

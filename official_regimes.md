@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 08, 2026 at 12:05:12 AM ET`
+Last updated: `April 08, 2026 at 12:13:03 AM ET`
 
 ## R1 (tok/s)
 
@@ -29,7 +29,7 @@ Last updated: `April 08, 2026 at 12:05:12 AM ET`
 | 21 | alifim | evaluated | 701077 | 539.6 |
 | 22 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
 | 23 | pallavi-srinivas | evaluated | b82073 | 539.0 |
-| 24 | stefan | evaluated | a01e76 | 537.5 |
+| 24 | stefan | evaluated | 583665 | 538.1 |
 | 25 | Shengwei | evaluated | a883af | 537.1 |
 | 26 | landrum | evaluated | 61ab81 | 535.7 |
 | 27 | sjb | evaluated | 373553 | 535.3 |
@@ -108,7 +108,7 @@ Last updated: `April 08, 2026 at 12:05:12 AM ET`
 | 37 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
 | 38 | Licha | evaluated | 8fdc3a | 192.4 |
 | 39 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 40 | stefan | evaluated | a01e76 | 170.0 |
+| 40 | stefan | evaluated | 583665 | 170.2 |
 | 41 | ngoguen | evaluated | a5cdb8 | 169.7 |
 | 42 | Junyi Li | evaluated | c7a1b3 | 169.7 |
 | 43 | fishyfins | evaluated | 6c0e20 | 169.5 |
@@ -174,8 +174,8 @@ Last updated: `April 08, 2026 at 12:05:12 AM ET`
 | 40 | fishyfins | evaluated | 6c0e20 | 304.6 |
 | 41 | hw_bloss | evaluated | 4c9666 | 308.1 |
 | 42 | your_nickname_here | evaluated | f10b9b | 308.1 |
-| 43 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
-| 44 | stefan | evaluated | a01e76 | 310.0 |
+| 43 | stefan | evaluated | 583665 | 308.5 |
+| 44 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
 | 45 | ngoguen | evaluated | a5cdb8 | 310.3 |
 | 46 | yoursun1220 | evaluated | d8b590 | 310.7 |
 | 47 | act | evaluated | 899777 | 310.9 |
@@ -238,7 +238,7 @@ Last updated: `April 08, 2026 at 12:05:12 AM ET`
 | 41 | hw_bloss | evaluated | 4c9666 | 239.1 |
 | 42 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
 | 43 | your_nickname_here | evaluated | f10b9b | 246.4 |
-| 44 | stefan | evaluated | a01e76 | 248.7 |
+| 44 | stefan | evaluated | 583665 | 247.3 |
 | 45 | ngoguen | evaluated | a5cdb8 | 249.7 |
 | 46 | yoursun1220 | evaluated | d8b590 | 250.1 |
 | 47 | castillo | evaluated | 0e93de | 250.4 |
