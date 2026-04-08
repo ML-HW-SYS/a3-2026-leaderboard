@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 10:19:32 PM ET`
+Last updated: `April 07, 2026 at 10:28:33 PM ET`
 
 ## R1 (tok/s)
 
@@ -28,17 +28,17 @@ Last updated: `April 07, 2026 at 10:19:32 PM ET`
 | 20 | alifim | evaluated | 701077 | 539.6 |
 | 21 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
 | 22 | pallavi-srinivas | evaluated | b82073 | 539.0 |
-| 23 | Shengwei | evaluated | b6fcf8 | 538.1 |
-| 24 | stefan | evaluated | a01e76 | 537.5 |
+| 23 | stefan | evaluated | a01e76 | 537.5 |
+| 24 | Shengwei | evaluated | a883af | 537.1 |
 | 25 | landrum | evaluated | 61ab81 | 535.7 |
 | 26 | sjb | evaluated | 373553 | 535.3 |
 | 27 | lipphi | evaluated | a3a71b | 534.8 |
 | 28 | chickfila | evaluated | f0956d | 534.5 |
 | 29 | gravlax | evaluated | b1229d | 532.3 |
-| 30 | Yize | evaluated | c5a8ae | 527.3 |
-| 31 | Junyi Li | evaluated | c7a1b3 | 527.3 |
-| 32 | yb | evaluated | ea23ab | 525.9 |
-| 33 | bl792 | evaluated | 09cd73 | 524.7 |
+| 30 | Junyi Li | evaluated | c7a1b3 | 527.3 |
+| 31 | yb | evaluated | ea23ab | 525.9 |
+| 32 | bl792 | evaluated | 09cd73 | 524.7 |
+| 33 | Yize | evaluated | 083f99 | 524.4 |
 | 34 | nicknam534534 | evaluated | 1bad48 | 524.1 |
 | 35 | act | evaluated | 899777 | 523.9 |
 | 36 | ethanchen | evaluated | ea518d | 523.7 |
@@ -78,8 +78,8 @@ Last updated: `April 07, 2026 at 10:19:32 PM ET`
 | 8 | omermoav | evaluated | b01c0e | 373.6 |
 | 9 | ashaikh23 | evaluated | 84a425 | 372.1 |
 | 10 | prousoglou | evaluated | 570c63 | 368.2 |
-| 11 | gm | evaluated | 2898fc | 357.0 |
-| 12 | Shengwei | evaluated | b6fcf8 | 356.3 |
+| 11 | Shengwei | evaluated | a883af | 357.6 |
+| 12 | gm | evaluated | 2898fc | 357.0 |
 | 13 | sjb | evaluated | 373553 | 346.4 |
 | 14 | JasonWang07 | evaluated | a4b405 | 342.2 |
 | 15 | Rithvik | evaluated | 2924a0 | 335.8 |
@@ -95,10 +95,10 @@ Last updated: `April 07, 2026 at 10:19:32 PM ET`
 | 25 | pyjuan91 | evaluated | 430a83 | 276.6 |
 | 26 | gravlax | evaluated | b1229d | 272.5 |
 | 27 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
-| 28 | ishan-pat | evaluated | fddca1 | 259.2 |
-| 29 | happyface | evaluated | 7e8b61 | 258.2 |
-| 30 | ethanchen | evaluated | ea518d | 251.2 |
-| 31 | Yize | evaluated | c5a8ae | 249.3 |
+| 28 | Yize | evaluated | 083f99 | 265.1 |
+| 29 | ishan-pat | evaluated | fddca1 | 259.2 |
+| 30 | happyface | evaluated | 7e8b61 | 258.2 |
+| 31 | ethanchen | evaluated | ea518d | 251.2 |
 | 32 | 13rabbit | evaluated | b38df9 | 242.9 |
 | 33 | bl792 | evaluated | 09cd73 | 238.8 |
 | 34 | beratcelik | evaluated | 863a89 | 231.2 |
@@ -142,7 +142,7 @@ Last updated: `April 07, 2026 at 10:19:32 PM ET`
 | 10 | nickname55555555 | evaluated | 20d1ac | 30.9 |
 | 11 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
 | 12 | bl792 | evaluated | 09cd73 | 32.4 |
-| 13 | Shengwei | evaluated | b6fcf8 | 33.4 |
+| 13 | Shengwei | evaluated | a883af | 33.2 |
 | 14 | blabrl | evaluated | ca60eb | 33.7 |
 | 15 | prousoglou | evaluated | 570c63 | 34.7 |
 | 16 | chickfila | evaluated | f0956d | 34.7 |
@@ -150,17 +150,17 @@ Last updated: `April 07, 2026 at 10:19:32 PM ET`
 | 18 | omermoav | evaluated | b01c0e | 35.2 |
 | 19 | PurplePickle67 | evaluated | 68d34e | 37.3 |
 | 20 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
-| 21 | sjb | evaluated | 373553 | 50.8 |
-| 22 | ishan-pat | evaluated | fddca1 | 56.0 |
-| 23 | Junyi Li | evaluated | c7a1b3 | 60.9 |
-| 24 | happyface | evaluated | 7e8b61 | 63.7 |
-| 25 | alifim | evaluated | 701077 | 64.8 |
-| 26 | beratcelik | evaluated | 863a89 | 68.2 |
-| 27 | JasonWang07 | evaluated | a4b405 | 70.8 |
-| 28 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
-| 29 | leoli | evaluated | 5cdac4 | 71.0 |
-| 30 | ethanchen | evaluated | ea518d | 74.4 |
-| 31 | Yize | evaluated | c5a8ae | 81.3 |
+| 21 | Yize | evaluated | 083f99 | 50.8 |
+| 22 | sjb | evaluated | 373553 | 50.8 |
+| 23 | ishan-pat | evaluated | fddca1 | 56.0 |
+| 24 | Junyi Li | evaluated | c7a1b3 | 60.9 |
+| 25 | happyface | evaluated | 7e8b61 | 63.7 |
+| 26 | alifim | evaluated | 701077 | 64.8 |
+| 27 | beratcelik | evaluated | 863a89 | 68.2 |
+| 28 | JasonWang07 | evaluated | a4b405 | 70.8 |
+| 29 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
+| 30 | leoli | evaluated | 5cdac4 | 71.0 |
+| 31 | ethanchen | evaluated | ea518d | 74.4 |
 | 32 | TA | evaluated | a6e863 | 85.6 |
 | 33 | 13rabbit | evaluated | b38df9 | 100.3 |
 | 34 | jl | evaluated | 8b6423 | 102.6 |
@@ -205,23 +205,23 @@ Last updated: `April 07, 2026 at 10:19:32 PM ET`
 | 11 | pyjuan91 | evaluated | 430a83 | 53.4 |
 | 12 | sjb | evaluated | 373553 | 53.6 |
 | 13 | landrum | evaluated | 61ab81 | 53.7 |
-| 14 | gravlax | evaluated | b1229d | 59.7 |
-| 15 | bl792 | evaluated | 09cd73 | 59.9 |
-| 16 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 59.9 |
-| 17 | Shengwei | evaluated | b6fcf8 | 63.0 |
-| 18 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
-| 19 | omermoav | evaluated | b01c0e | 64.6 |
-| 20 | blabrl | evaluated | ca60eb | 65.2 |
-| 21 | prousoglou | evaluated | 570c63 | 65.3 |
-| 22 | happyface | evaluated | 7e8b61 | 66.0 |
-| 23 | leoli | evaluated | 5cdac4 | 87.4 |
-| 24 | JasonWang07 | evaluated | a4b405 | 88.9 |
-| 25 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
-| 26 | alifim | evaluated | 701077 | 109.2 |
-| 27 | ishan-pat | evaluated | fddca1 | 111.8 |
-| 28 | Junyi Li | evaluated | c7a1b3 | 113.1 |
-| 29 | beratcelik | evaluated | 863a89 | 113.8 |
-| 30 | Yize | evaluated | c5a8ae | 113.9 |
+| 14 | Yize | evaluated | 083f99 | 54.0 |
+| 15 | gravlax | evaluated | b1229d | 59.7 |
+| 16 | bl792 | evaluated | 09cd73 | 59.9 |
+| 17 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 59.9 |
+| 18 | Shengwei | evaluated | a883af | 62.8 |
+| 19 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
+| 20 | omermoav | evaluated | b01c0e | 64.6 |
+| 21 | blabrl | evaluated | ca60eb | 65.2 |
+| 22 | prousoglou | evaluated | 570c63 | 65.3 |
+| 23 | happyface | evaluated | 7e8b61 | 66.0 |
+| 24 | leoli | evaluated | 5cdac4 | 87.4 |
+| 25 | JasonWang07 | evaluated | a4b405 | 88.9 |
+| 26 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
+| 27 | alifim | evaluated | 701077 | 109.2 |
+| 28 | ishan-pat | evaluated | fddca1 | 111.8 |
+| 29 | Junyi Li | evaluated | c7a1b3 | 113.1 |
+| 30 | beratcelik | evaluated | 863a89 | 113.8 |
 | 31 | ethanchen | evaluated | ea518d | 123.6 |
 | 32 | TA | evaluated | a6e863 | 135.6 |
 | 33 | 13rabbit | evaluated | b38df9 | 142.7 |
