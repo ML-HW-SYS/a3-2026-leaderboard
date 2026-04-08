@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 05:54:37 PM ET`
+Last updated: `April 08, 2026 at 06:03:29 PM ET`
 
 ## R1 (tok/s)
 
@@ -55,13 +55,14 @@ Last updated: `April 08, 2026 at 05:54:37 PM ET`
 | 47 | yoursun1220 | submission.py | f4e2be | 524.2 |
 | 48 | act | submission.py | 899777 | 523.9 |
 | 49 | hw_bloss | submission.py | 2d26da | 523.5 |
-| 50 | Licha | submission.py | 8fdc3a | 521.4 |
-| 51 | PurplePickle67 | submission.py | 68d34e | 520.5 |
-| 52 | jbc | submission.py | 12bb20 | 520.4 |
-| 53 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
-| 54 | tuo | submission.py | 4274da | 507.3 |
-| 55 | poppyPotatoe | submission.py | dd4e57 | 169.9 |
-| 56 | Decode_speed | submission.py | 097a6b | 104.5 |
+| 50 | zionrangers | submission.py | 4d6fe5 | 523.4 |
+| 51 | Licha | submission.py | 8fdc3a | 521.4 |
+| 52 | PurplePickle67 | submission.py | 68d34e | 520.5 |
+| 53 | jbc | submission.py | 12bb20 | 520.4 |
+| 54 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
+| 55 | tuo | submission.py | 4274da | 507.3 |
+| 56 | poppyPotatoe | submission.py | dd4e57 | 169.9 |
+| 57 | Decode_speed | submission.py | 097a6b | 104.5 |
 
 ## R2 (tok/s)
 
@@ -119,10 +120,11 @@ Last updated: `April 08, 2026 at 05:54:37 PM ET`
 | 50 | dylanjhnsondj | submission.py | c4e1ab | 169.6 |
 | 51 | jbc | develop.py | 4e7308 | 169.4 |
 | 52 | castillo | develop.py | 0e93de | 169.2 |
-| 53 | act | submission.py | 899777 | 169.0 |
-| 54 | nicknam534534 | develop.py | 187bfa | 148.4 |
-| 55 | poppyPotatoe | submission.py | dd4e57 | 117.7 |
-| 56 | Decode_speed | submission.py | 097a6b | 77.3 |
+| 53 | zionrangers | submission.py | 4d6fe5 | 169.1 |
+| 54 | act | submission.py | 899777 | 169.0 |
+| 55 | nicknam534534 | develop.py | 187bfa | 148.4 |
+| 56 | poppyPotatoe | submission.py | dd4e57 | 117.7 |
+| 57 | Decode_speed | submission.py | 097a6b | 77.3 |
 
 ## R3 (ms)
 
@@ -140,7 +142,7 @@ Last updated: `April 08, 2026 at 05:54:37 PM ET`
 | 10 | pyjuan91 | submission.py | 430a83 | 28.8 |
 | 11 | ashaikh23 | submission.py | 84a425 | 29.1 |
 | 12 | landrum | develop.py | 4d2d51 | 29.6 |
-| 13 | Shengwei | submission.py | d3ac71 | 30.1 |
+| 13 | Shengwei | submission.py | 67af79 | 30.0 |
 | 14 | prousoglou | develop.py | 27721d | 30.4 |
 | 15 | nickname55555555 | submission.py | f60ff5 | 30.9 |
 | 16 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
@@ -183,7 +185,8 @@ Last updated: `April 08, 2026 at 05:54:37 PM ET`
 | 53 | poppyPotatoe | submission.py | 311dc9 | 309.5 |
 | 54 | castillo | develop.py | 0e93de | 310.9 |
 | 55 | act | develop.py | 1b5e17 | 310.9 |
-| 56 | Decode_speed | submission.py | 097a6b | 412.7 |
+| 56 | zionrangers | submission.py | 4d6fe5 | 311.2 |
+| 57 | Decode_speed | submission.py | 097a6b | 412.7 |
 
 ## R4 (ms)
 
@@ -242,6 +245,7 @@ Last updated: `April 08, 2026 at 05:54:37 PM ET`
 | 51 | poppyPotatoe | submission.py | 311dc9 | 248.9 |
 | 52 | jbc | develop.py | 4e7308 | 248.9 |
 | 53 | castillo | develop.py | 0e93de | 250.2 |
-| 54 | yb | submission.py | 2aa1a9 | 250.5 |
-| 55 | act | develop.py | 1b5e17 | 250.6 |
-| 56 | Decode_speed | submission.py | 097a6b | 270.3 |
+| 54 | zionrangers | submission.py | 4d6fe5 | 250.4 |
+| 55 | yb | submission.py | 2aa1a9 | 250.5 |
+| 56 | act | develop.py | 1b5e17 | 250.6 |
+| 57 | Decode_speed | submission.py | 097a6b | 270.3 |
