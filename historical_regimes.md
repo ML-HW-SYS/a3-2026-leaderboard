@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 05:04:38 PM ET`
+Last updated: `April 08, 2026 at 05:13:39 PM ET`
 
 ## R1 (tok/s)
 
@@ -45,22 +45,23 @@ Last updated: `April 08, 2026 at 05:04:38 PM ET`
 | 37 | Junyi Li | submission.py | 2e381b | 529.4 |
 | 38 | bl792 | submission.py | 3b3a8a | 528.5 |
 | 39 | ethanchen | submission.py | a0d359 | 528.1 |
-| 40 | Rithvik | submission.py | 1a7556 | 527.1 |
-| 41 | castillo | submission.py | 0e93de | 526.6 |
-| 42 | yb | submission.py | ea23ab | 525.9 |
-| 43 | nicknam534534 | develop.py | 83a901 | 525.8 |
-| 44 | kade_lin_is_here | submission.py | 6ae977 | 525.1 |
-| 45 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
-| 46 | yoursun1220 | submission.py | f4e2be | 524.2 |
-| 47 | act | submission.py | 899777 | 523.9 |
-| 48 | hw_bloss | submission.py | 2d26da | 523.5 |
-| 49 | Licha | submission.py | 8fdc3a | 521.4 |
-| 50 | PurplePickle67 | submission.py | 68d34e | 520.5 |
-| 51 | jbc | submission.py | 12bb20 | 520.4 |
-| 52 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
-| 53 | tuo | submission.py | 4274da | 507.3 |
-| 54 | poppyPotatoe | submission.py | dd4e57 | 169.9 |
-| 55 | Decode_speed | submission.py | 097a6b | 104.5 |
+| 40 | dylanjhnsondj | submission.py | c4e1ab | 527.3 |
+| 41 | Rithvik | submission.py | 1a7556 | 527.1 |
+| 42 | castillo | submission.py | 0e93de | 526.6 |
+| 43 | yb | submission.py | ea23ab | 525.9 |
+| 44 | nicknam534534 | develop.py | 83a901 | 525.8 |
+| 45 | kade_lin_is_here | submission.py | 6ae977 | 525.1 |
+| 46 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
+| 47 | yoursun1220 | submission.py | f4e2be | 524.2 |
+| 48 | act | submission.py | 899777 | 523.9 |
+| 49 | hw_bloss | submission.py | 2d26da | 523.5 |
+| 50 | Licha | submission.py | 8fdc3a | 521.4 |
+| 51 | PurplePickle67 | submission.py | 68d34e | 520.5 |
+| 52 | jbc | submission.py | 12bb20 | 520.4 |
+| 53 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
+| 54 | tuo | submission.py | 4274da | 507.3 |
+| 55 | poppyPotatoe | submission.py | dd4e57 | 169.9 |
+| 56 | Decode_speed | submission.py | 097a6b | 104.5 |
 
 ## R2 (tok/s)
 
@@ -115,12 +116,13 @@ Last updated: `April 08, 2026 at 05:04:38 PM ET`
 | 47 | yb | submission.py | 2aa1a9 | 169.8 |
 | 48 | hw_bloss | submission.py | b2767b | 169.8 |
 | 49 | Junyi Li | submission.py | c7a1b3 | 169.7 |
-| 50 | jbc | develop.py | 4e7308 | 169.4 |
-| 51 | castillo | develop.py | 0e93de | 169.2 |
-| 52 | act | submission.py | 899777 | 169.0 |
-| 53 | nicknam534534 | develop.py | 187bfa | 148.4 |
-| 54 | poppyPotatoe | submission.py | dd4e57 | 117.7 |
-| 55 | Decode_speed | submission.py | 097a6b | 77.3 |
+| 50 | dylanjhnsondj | submission.py | c4e1ab | 169.6 |
+| 51 | jbc | develop.py | 4e7308 | 169.4 |
+| 52 | castillo | develop.py | 0e93de | 169.2 |
+| 53 | act | submission.py | 899777 | 169.0 |
+| 54 | nicknam534534 | develop.py | 187bfa | 148.4 |
+| 55 | poppyPotatoe | submission.py | dd4e57 | 117.7 |
+| 56 | Decode_speed | submission.py | 097a6b | 77.3 |
 
 ## R3 (ms)
 
@@ -169,18 +171,19 @@ Last updated: `April 08, 2026 at 05:04:38 PM ET`
 | 41 | Licha | submission.py | 8fdc3a | 202.7 |
 | 42 | nicknam534534 | develop.py | cd4c9b | 210.5 |
 | 43 | fishyfins | submission.py | 6c0e20 | 304.6 |
-| 44 | hw_bloss | submission.py | b2767b | 306.7 |
-| 45 | your_nickname_here | submission.py | 59e245 | 307.4 |
-| 46 | stefan | submission.py | 583665 | 308.5 |
-| 47 | yoursun1220 | submission.py | 27e400 | 308.6 |
-| 48 | Sulaiman Alam | submission.py | c7ede2 | 308.7 |
-| 49 | yb | submission.py | 2aa1a9 | 309.3 |
-| 50 | jbc | develop.py | 4e7308 | 309.3 |
-| 51 | poppyPotatoe | submission.py | 311dc9 | 309.5 |
-| 52 | kade_lin_is_here | submission.py | 7cdac7 | 310.7 |
-| 53 | castillo | develop.py | 0e93de | 310.9 |
-| 54 | act | develop.py | 1b5e17 | 310.9 |
-| 55 | Decode_speed | submission.py | 097a6b | 412.7 |
+| 44 | dylanjhnsondj | submission.py | c4e1ab | 306.0 |
+| 45 | hw_bloss | submission.py | b2767b | 306.7 |
+| 46 | your_nickname_here | submission.py | 59e245 | 307.4 |
+| 47 | stefan | submission.py | 583665 | 308.5 |
+| 48 | yoursun1220 | submission.py | 27e400 | 308.6 |
+| 49 | Sulaiman Alam | submission.py | c7ede2 | 308.7 |
+| 50 | yb | submission.py | 2aa1a9 | 309.3 |
+| 51 | jbc | develop.py | 4e7308 | 309.3 |
+| 52 | poppyPotatoe | submission.py | 311dc9 | 309.5 |
+| 53 | kade_lin_is_here | submission.py | 7cdac7 | 310.7 |
+| 54 | castillo | develop.py | 0e93de | 310.9 |
+| 55 | act | develop.py | 1b5e17 | 310.9 |
+| 56 | Decode_speed | submission.py | 097a6b | 412.7 |
 
 ## R4 (ms)
 
@@ -229,15 +232,16 @@ Last updated: `April 08, 2026 at 05:04:38 PM ET`
 | 41 | pallavi-srinivas | submission.py | b82073 | 192.2 |
 | 42 | Licha | submission.py | 8fdc3a | 215.0 |
 | 43 | fishyfins | submission.py | 6c0e20 | 232.9 |
-| 44 | hw_bloss | submission.py | b2767b | 237.0 |
-| 45 | Sulaiman Alam | develop.py | c7ede2 | 244.4 |
-| 46 | your_nickname_here | submission.py | 59e245 | 245.7 |
-| 47 | stefan | submission.py | 583665 | 247.3 |
-| 48 | yoursun1220 | submission.py | 27e400 | 248.7 |
-| 49 | poppyPotatoe | submission.py | 311dc9 | 248.9 |
-| 50 | jbc | develop.py | 4e7308 | 248.9 |
-| 51 | castillo | develop.py | 0e93de | 250.2 |
-| 52 | yb | submission.py | 2aa1a9 | 250.5 |
-| 53 | act | develop.py | 1b5e17 | 250.6 |
-| 54 | kade_lin_is_here | submission.py | 7cdac7 | 251.0 |
-| 55 | Decode_speed | submission.py | 097a6b | 270.3 |
+| 44 | dylanjhnsondj | submission.py | c4e1ab | 236.8 |
+| 45 | hw_bloss | submission.py | b2767b | 237.0 |
+| 46 | Sulaiman Alam | develop.py | c7ede2 | 244.4 |
+| 47 | your_nickname_here | submission.py | 59e245 | 245.7 |
+| 48 | stefan | submission.py | 583665 | 247.3 |
+| 49 | yoursun1220 | submission.py | 27e400 | 248.7 |
+| 50 | poppyPotatoe | submission.py | 311dc9 | 248.9 |
+| 51 | jbc | develop.py | 4e7308 | 248.9 |
+| 52 | castillo | develop.py | 0e93de | 250.2 |
+| 53 | yb | submission.py | 2aa1a9 | 250.5 |
+| 54 | act | develop.py | 1b5e17 | 250.6 |
+| 55 | kade_lin_is_here | submission.py | 7cdac7 | 251.0 |
+| 56 | Decode_speed | submission.py | 097a6b | 270.3 |

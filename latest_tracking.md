@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 05:04:38 PM ET`
+Last updated: `April 08, 2026 at 05:13:39 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 08 05:05 PM ET | dylanjhnsondj | evaluated |  | submission.py | c4e1ab | 59.0/6.2/65.1 | 527.3 | 169.6 | 306.0 | 236.8 |
+| Apr 08 05:01 PM ET | poppyPotatoe | failed_correctness | Correctness FAIL \| R2 (86.57%) \| max_abs_diff=12.34 | submission.py | 1d2780 | 15.1/9.8/24.9 | 166.6 | 114.2 | 311.5 | 250.5 |
 | Apr 08 04:56 PM ET | poppyPotatoe | failed_compliance | SyntaxError during policy check: expected an indented block after function definition on line 1011 (submission.py, li... | submission.py | ff72ba |  |  |  |  |  |
 | Apr 08 04:47 PM ET | poppyPotatoe | evaluated |  | submission.py | 66b44c | 15.1/9.8/24.9 | 167.3 | 114.5 | 310.4 | 250.5 |
 | Apr 08 04:40 PM ET | prousoglou | evaluated |  | develop.py | 0263e4 | 20.9/2.6/23.6 | 554.9 | 371.5 | 30.4 | 55.4 |
