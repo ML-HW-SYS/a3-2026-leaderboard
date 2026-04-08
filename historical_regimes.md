@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 10:56:47 AM ET`
+Last updated: `April 08, 2026 at 11:07:18 AM ET`
 
 ## R1 (tok/s)
 
@@ -51,13 +51,13 @@ Last updated: `April 08, 2026 at 10:56:47 AM ET`
 | 43 | kade_lin_is_here | develop.py | ef9e51 | 524.7 |
 | 44 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
 | 45 | yoursun1220 | submission.py | f4e2be | 524.2 |
-| 46 | act | submission.py | 899777 | 523.9 |
-| 47 | hw_bloss | submission.py | 2d26da | 523.5 |
-| 48 | Licha | submission.py | 8fdc3a | 521.4 |
-| 49 | PurplePickle67 | submission.py | 68d34e | 520.5 |
-| 50 | jbc | submission.py | 12bb20 | 520.4 |
-| 51 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
-| 52 | ngoguen | submission.py | a5cdb8 | 515.9 |
+| 46 | ngoguen | submission.py | 8800f5 | 524.1 |
+| 47 | act | submission.py | 899777 | 523.9 |
+| 48 | hw_bloss | submission.py | 2d26da | 523.5 |
+| 49 | Licha | submission.py | 8fdc3a | 521.4 |
+| 50 | PurplePickle67 | submission.py | 68d34e | 520.5 |
+| 51 | jbc | submission.py | 12bb20 | 520.4 |
+| 52 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
 | 53 | tuo | submission.py | 4274da | 507.3 |
 | 54 | Decode_speed | submission.py | 097a6b | 104.5 |
 
@@ -77,7 +77,7 @@ Last updated: `April 08, 2026 at 10:56:47 AM ET`
 | 10 | ashaikh23 | submission.py | 84a425 | 372.1 |
 | 11 | prousoglou | submission.py | 570c63 | 368.2 |
 | 12 | pyjuan91 | develop.py | 92d1da | 364.9 |
-| 13 | Shengwei | submission.py | 264410 | 358.4 |
+| 13 | Shengwei | submission.py | f3a299 | 359.6 |
 | 14 | gm | develop.py | fd15e9 | 357.3 |
 | 15 | sjb | develop.py | 7fb492 | 347.4 |
 | 16 | JasonWang07 | develop.py | 2ecd91 | 343.1 |
@@ -138,7 +138,7 @@ Last updated: `April 08, 2026 at 10:56:47 AM ET`
 | 12 | nickname55555555 | submission.py | f60ff5 | 30.9 |
 | 13 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
 | 14 | bl792 | develop.py | 09cd73 | 32.3 |
-| 15 | Shengwei | submission.py | a883af | 33.2 |
+| 15 | Shengwei | submission.py | f3a299 | 33.2 |
 | 16 | blabrl | submission.py | ca60eb | 33.7 |
 | 17 | prousoglou | submission.py | 570c63 | 34.7 |
 | 18 | chickfila | submission.py | f0956d | 34.7 |
@@ -201,7 +201,7 @@ Last updated: `April 08, 2026 at 10:56:47 AM ET`
 | 16 | gravlax | submission.py | b1229d | 59.7 |
 | 17 | bl792 | develop.py | 09cd73 | 59.8 |
 | 18 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 59.9 |
-| 19 | Shengwei | submission.py | a883af | 62.8 |
+| 19 | Shengwei | submission.py | f3a299 | 62.8 |
 | 20 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
 | 21 | omermoav | submission.py | b01c0e | 64.6 |
 | 22 | blabrl | submission.py | ca60eb | 65.2 |
