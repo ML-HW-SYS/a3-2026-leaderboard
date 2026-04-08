@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 03:21:45 PM ET`
+Last updated: `April 08, 2026 at 03:29:34 PM ET`
 
 ## R1 (tok/s)
 
@@ -59,7 +59,7 @@ Last updated: `April 08, 2026 at 03:21:45 PM ET`
 | 51 | jbc | submission.py | 12bb20 | 520.4 |
 | 52 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
 | 53 | tuo | submission.py | 4274da | 507.3 |
-| 54 | poppyPotatoe | submission.py | ab40d5 | 149.8 |
+| 54 | poppyPotatoe | submission.py | dd4e57 | 169.9 |
 | 55 | Decode_speed | submission.py | 097a6b | 104.5 |
 
 ## R2 (tok/s)
@@ -119,7 +119,7 @@ Last updated: `April 08, 2026 at 03:21:45 PM ET`
 | 51 | castillo | develop.py | 0e93de | 169.2 |
 | 52 | act | submission.py | 899777 | 169.0 |
 | 53 | nicknam534534 | develop.py | 187bfa | 148.4 |
-| 54 | poppyPotatoe | submission.py | ab40d5 | 108.8 |
+| 54 | poppyPotatoe | submission.py | dd4e57 | 117.7 |
 | 55 | Decode_speed | submission.py | 097a6b | 77.3 |
 
 ## R3 (ms)
@@ -179,7 +179,7 @@ Last updated: `April 08, 2026 at 03:21:45 PM ET`
 | 51 | castillo | develop.py | 0e93de | 310.9 |
 | 52 | act | develop.py | 1b5e17 | 310.9 |
 | 53 | kade_lin_is_here | submission.py | ef9e51 | 311.1 |
-| 54 | poppyPotatoe | submission.py | 19ecdb | 390.8 |
+| 54 | poppyPotatoe | submission.py | dd4e57 | 314.7 |
 | 55 | Decode_speed | submission.py | 097a6b | 412.7 |
 
 ## R4 (ms)
@@ -239,5 +239,5 @@ Last updated: `April 08, 2026 at 03:21:45 PM ET`
 | 51 | yb | submission.py | 2aa1a9 | 250.5 |
 | 52 | act | develop.py | 1b5e17 | 250.6 |
 | 53 | kade_lin_is_here | submission.py | ef9e51 | 251.1 |
-| 54 | Decode_speed | submission.py | 097a6b | 270.3 |
-| 55 | poppyPotatoe | submission.py | 19ecdb | 330.9 |
+| 54 | poppyPotatoe | submission.py | dd4e57 | 254.2 |
+| 55 | Decode_speed | submission.py | 097a6b | 270.3 |
