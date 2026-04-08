@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 04:17:33 PM ET`
+Last updated: `April 08, 2026 at 04:25:21 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 08 04:16 PM ET | poppyPotatoe | failed_correctness | Correctness FAIL \| R2 (86.57%) \| max_abs_diff=12.34 | submission.py | 311dc9 | 15.0/9.6/24.6 | 167.5 | 120.0 | 309.5 | 248.9 |
 | Apr 08 04:13 PM ET | kade_lin_is_here | evaluated |  | submission.py | c14bb4 | 30.3/6.0/36.3 | 518.7 | 213.2 | 388.1 | 261.0 |
 | Apr 08 03:57 PM ET | poppyPotatoe | failed_correctness | R1: SETUP: ERR: RuntimeError: shape mismatch: value tensor of shape [14, 1, 64] cannot be broadcast to indexing resul... | submission.py | 7302b6 | 14.1/0.0/14.1 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 08 03:57 PM ET | kade_lin_is_here | evaluated |  | submission.py | 7cdac7 | 49.9/6.2/56.1 | 522.0 | 170.1 | 310.7 | 251.0 |
