@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 12:41:45 PM ET`
+Last updated: `April 08, 2026 at 12:50:34 PM ET`
 
 ## R1 (tok/s)
 
@@ -30,11 +30,11 @@ Last updated: `April 08, 2026 at 12:41:45 PM ET`
 | 22 | pallavi-srinivas | develop.py | bd1b29 | 543.3 |
 | 23 | 13rabbit | submission.py | fe30c9 | 543.0 |
 | 24 | alifim | develop.py | ad261a | 541.7 |
-| 25 | landrum | develop.py | b61e15 | 540.9 |
-| 26 | pyjuan91 | submission.py | fe8f27 | 540.9 |
-| 27 | andrasferenczy | submission.py | 6204c7 | 540.6 |
-| 28 | abhik | develop.py | 41a3ec | 539.5 |
-| 29 | ngoguen | submission.py | 0d832d | 539.3 |
+| 25 | ngoguen | submission.py | be566d | 541.1 |
+| 26 | landrum | develop.py | b61e15 | 540.9 |
+| 27 | pyjuan91 | submission.py | fe8f27 | 540.9 |
+| 28 | andrasferenczy | submission.py | 6204c7 | 540.6 |
+| 29 | abhik | develop.py | 41a3ec | 539.5 |
 | 30 | stefan | develop.py | 9a25e1 | 539.1 |
 | 31 | ishan-pat | develop.py | 75d32d | 537.5 |
 | 32 | sjb | develop.py | 3359ec | 537.0 |
@@ -49,7 +49,7 @@ Last updated: `April 08, 2026 at 12:41:45 PM ET`
 | 41 | castillo | submission.py | 0e93de | 526.6 |
 | 42 | yb | submission.py | ea23ab | 525.9 |
 | 43 | nicknam534534 | develop.py | 83a901 | 525.8 |
-| 44 | kade_lin_is_here | develop.py | ef9e51 | 524.7 |
+| 44 | kade_lin_is_here | submission.py | 6ae977 | 525.1 |
 | 45 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
 | 46 | yoursun1220 | submission.py | f4e2be | 524.2 |
 | 47 | act | submission.py | 899777 | 523.9 |
@@ -114,8 +114,8 @@ Last updated: `April 08, 2026 at 12:41:45 PM ET`
 | 47 | ngoguen | submission.py | a5cdb8 | 169.7 |
 | 48 | Junyi Li | submission.py | c7a1b3 | 169.7 |
 | 49 | jbc | develop.py | 4e7308 | 169.4 |
-| 50 | castillo | develop.py | 0e93de | 169.2 |
-| 51 | kade_lin_is_here | develop.py | ef9e51 | 169.1 |
+| 50 | kade_lin_is_here | submission.py | 6ae977 | 169.4 |
+| 51 | castillo | develop.py | 0e93de | 169.2 |
 | 52 | act | submission.py | 899777 | 169.0 |
 | 53 | nicknam534534 | develop.py | 187bfa | 148.4 |
 | 54 | Decode_speed | submission.py | 097a6b | 77.3 |
