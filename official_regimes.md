@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 08, 2026 at 11:33:49 AM ET`
+Last updated: `April 08, 2026 at 11:44:21 AM ET`
 
 ## R1 (tok/s)
 
@@ -24,25 +24,25 @@ Last updated: `April 08, 2026 at 11:33:49 AM ET`
 | 16 | leoli | evaluated | 5cdac4 | 544.1 |
 | 17 | happyface | evaluated | 7e8b61 | 543.0 |
 | 18 | 13rabbit | evaluated | b38df9 | 542.8 |
-| 19 | Shengwei | evaluated | f3a299 | 541.7 |
-| 20 | gm | evaluated | 2898fc | 541.1 |
+| 19 | gm | evaluated | 2898fc | 541.1 |
+| 20 | Shengwei | evaluated | 435b21 | 541.0 |
 | 21 | pyjuan91 | evaluated | fe8f27 | 540.9 |
 | 22 | alifim | evaluated | 701077 | 539.6 |
 | 23 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
 | 24 | pallavi-srinivas | evaluated | b82073 | 539.0 |
 | 25 | stefan | evaluated | 583665 | 538.1 |
-| 26 | landrum | evaluated | 61ab81 | 535.7 |
-| 27 | sjb | evaluated | 373553 | 535.3 |
-| 28 | lipphi | evaluated | a3a71b | 534.8 |
-| 29 | chickfila | evaluated | f0956d | 534.5 |
-| 30 | gravlax | evaluated | b1229d | 532.3 |
-| 31 | Junyi Li | evaluated | c7a1b3 | 527.3 |
-| 32 | castillo | evaluated | 0e93de | 526.6 |
-| 33 | yb | evaluated | ea23ab | 525.9 |
-| 34 | bl792 | evaluated | 09cd73 | 524.7 |
-| 35 | nicknam534534 | evaluated | 83a901 | 524.7 |
-| 36 | kade_lin_is_here | evaluated | ef9e51 | 524.7 |
-| 37 | ngoguen | evaluated | 8800f5 | 524.1 |
+| 26 | ngoguen | evaluated | 4c8c74 | 536.2 |
+| 27 | landrum | evaluated | 61ab81 | 535.7 |
+| 28 | sjb | evaluated | 373553 | 535.3 |
+| 29 | lipphi | evaluated | a3a71b | 534.8 |
+| 30 | chickfila | evaluated | f0956d | 534.5 |
+| 31 | gravlax | evaluated | b1229d | 532.3 |
+| 32 | Junyi Li | evaluated | c7a1b3 | 527.3 |
+| 33 | castillo | evaluated | 0e93de | 526.6 |
+| 34 | yb | evaluated | ea23ab | 525.9 |
+| 35 | bl792 | evaluated | 09cd73 | 524.7 |
+| 36 | nicknam534534 | evaluated | 83a901 | 524.7 |
+| 37 | kade_lin_is_here | evaluated | ef9e51 | 524.7 |
 | 38 | act | evaluated | 899777 | 523.9 |
 | 39 | ethanchen | evaluated | ea518d | 523.7 |
 | 40 | hw_bloss | evaluated | 4c9666 | 522.2 |
@@ -64,7 +64,7 @@ Last updated: `April 08, 2026 at 11:33:49 AM ET`
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | vallabkaranam | failed | ec4b9a |  |
-|  | Yize | failed | 279fbc |  |
+|  | Yize | failed | f4e7f7 |  |
 
 ## R2 (tok/s)
 
@@ -81,7 +81,7 @@ Last updated: `April 08, 2026 at 11:33:49 AM ET`
 | 9 | ashaikh23 | evaluated | 84a425 | 372.1 |
 | 10 | prousoglou | evaluated | 570c63 | 368.2 |
 | 11 | pyjuan91 | evaluated | fe8f27 | 363.6 |
-| 12 | Shengwei | evaluated | f3a299 | 359.6 |
+| 12 | Shengwei | evaluated | 435b21 | 359.6 |
 | 13 | gm | evaluated | 2898fc | 357.0 |
 | 14 | sjb | evaluated | 373553 | 346.4 |
 | 15 | JasonWang07 | evaluated | a4b405 | 342.2 |
@@ -118,7 +118,7 @@ Last updated: `April 08, 2026 at 11:33:49 AM ET`
 | 46 | act | evaluated | 899777 | 169.0 |
 | 47 | kade_lin_is_here | evaluated | ef9e51 | 169.0 |
 | 48 | yb | evaluated | ea23ab | 168.8 |
-| 49 | ngoguen | evaluated | 8800f5 | 163.5 |
+| 49 | ngoguen | evaluated | 4c8c74 | 159.2 |
 | 50 | nicknam534534 | evaluated | 83a901 | 148.4 |
 | 51 | abhik | evaluated | bf55dc | 127.8 |
 | 52 | Decode_speed | evaluated | 097a6b | 77.3 |
@@ -128,7 +128,7 @@ Last updated: `April 08, 2026 at 11:33:49 AM ET`
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | vallabkaranam | failed | ec4b9a |  |
-|  | Yize | failed | 279fbc |  |
+|  | Yize | failed | f4e7f7 |  |
 
 ## R3 (ms)
 
@@ -146,7 +146,7 @@ Last updated: `April 08, 2026 at 11:33:49 AM ET`
 | 10 | nickname55555555 | evaluated | 20d1ac | 30.9 |
 | 11 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
 | 12 | bl792 | evaluated | 09cd73 | 32.4 |
-| 13 | Shengwei | evaluated | f3a299 | 33.2 |
+| 13 | Shengwei | evaluated | 435b21 | 33.2 |
 | 14 | blabrl | evaluated | ca60eb | 33.7 |
 | 15 | prousoglou | evaluated | 570c63 | 34.7 |
 | 16 | chickfila | evaluated | f0956d | 34.7 |
@@ -183,7 +183,7 @@ Last updated: `April 08, 2026 at 11:33:49 AM ET`
 | 47 | jbc | evaluated | 12bb20 | 311.3 |
 | 48 | castillo | evaluated | 0e93de | 311.4 |
 | 49 | yb | evaluated | ea23ab | 312.3 |
-| 50 | ngoguen | evaluated | 8800f5 | 350.3 |
+| 50 | ngoguen | evaluated | 4c8c74 | 375.9 |
 | 51 | nicknam534534 | evaluated | 83a901 | 405.3 |
 | 52 | Decode_speed | evaluated | 097a6b | 412.7 |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -192,7 +192,7 @@ Last updated: `April 08, 2026 at 11:33:49 AM ET`
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | vallabkaranam | failed | ec4b9a |  |
-|  | Yize | failed | 279fbc |  |
+|  | Yize | failed | f4e7f7 |  |
 
 ## R4 (ms)
 
@@ -214,7 +214,7 @@ Last updated: `April 08, 2026 at 11:33:49 AM ET`
 | 14 | gravlax | evaluated | b1229d | 59.7 |
 | 15 | bl792 | evaluated | 09cd73 | 59.9 |
 | 16 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 59.9 |
-| 17 | Shengwei | evaluated | f3a299 | 62.8 |
+| 17 | Shengwei | evaluated | 435b21 | 62.1 |
 | 18 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
 | 19 | omermoav | evaluated | b01c0e | 64.6 |
 | 20 | blabrl | evaluated | ca60eb | 65.2 |
@@ -247,13 +247,13 @@ Last updated: `April 08, 2026 at 11:33:49 AM ET`
 | 47 | act | evaluated | 899777 | 250.7 |
 | 48 | kade_lin_is_here | evaluated | ef9e51 | 251.1 |
 | 49 | jbc | evaluated | 12bb20 | 251.3 |
-| 50 | ngoguen | evaluated | 8800f5 | 267.8 |
-| 51 | nicknam534534 | evaluated | 83a901 | 268.7 |
-| 52 | Decode_speed | evaluated | 097a6b | 270.3 |
+| 50 | nicknam534534 | evaluated | 83a901 | 268.7 |
+| 51 | Decode_speed | evaluated | 097a6b | 270.3 |
+| 52 | ngoguen | evaluated | 4c8c74 | 276.6 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | poppyPotatoe | failed | 2d4dd6 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | vallabkaranam | failed | ec4b9a |  |
-|  | Yize | failed | 279fbc |  |
+|  | Yize | failed | f4e7f7 |  |

@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 08, 2026 at 11:33:49 AM ET`
+Last updated: `April 08, 2026 at 11:44:21 AM ET`
 
 ## Pages
 
@@ -23,8 +23,8 @@ Last updated: `April 08, 2026 at 11:33:49 AM ET`
 | 9 | chickfila | evaluated | f0956d | 65.8/2.6/68.4 | 1.693 | 534.5 | 398.8 | 34.7 | 49.6 |
 | 10 | nickname55555555 | evaluated | 20d1ac | 28.2/2.8/31.0 | 1.672 | 551.4 | 334.2 | 30.9 | 50.6 |
 | 11 | blabrl | evaluated | ca60eb | 19.3/2.6/21.9 | 1.593 | 557.4 | 383.3 | 33.7 | 65.2 |
-| 12 | omermoav | evaluated | b01c0e | 18.6/2.7/21.3 | 1.578 | 569.6 | 373.6 | 35.2 | 64.6 |
-| 13 | Shengwei | evaluated | f3a299 | 19.2/2.8/21.9 | 1.578 | 541.7 | 359.6 | 33.2 | 62.8 |
+| 12 | Shengwei | evaluated | 435b21 | 44.0/2.8/46.7 | 1.582 | 541.0 | 359.6 | 33.2 | 62.1 |
+| 13 | omermoav | evaluated | b01c0e | 18.6/2.7/21.3 | 1.578 | 569.6 | 373.6 | 35.2 | 64.6 |
 | 14 | landrum | evaluated | 61ab81 | 22.7/3.1/25.8 | 1.573 | 535.7 | 276.9 | 29.9 | 53.7 |
 | 15 | prousoglou | evaluated | 570c63 | 18.4/2.7/21.1 | 1.565 | 556.7 | 368.2 | 34.7 | 65.3 |
 | 16 | PurplePickle67 | evaluated | 68d34e | 32.7/3.0/35.7 | 1.524 | 520.5 | 303.7 | 37.3 | 52.1 |
@@ -60,8 +60,8 @@ Last updated: `April 08, 2026 at 11:33:49 AM ET`
 | 46 | yb | evaluated | ea23ab | 19.9/6.3/26.1 | 0.524 | 525.9 | 168.8 | 312.3 | 250.6 |
 | 47 | kade_lin_is_here | evaluated | ef9e51 | 39.4/6.3/45.7 | 0.524 | 524.7 | 169.0 | 311.1 | 251.1 |
 | 48 | jbc | evaluated | 12bb20 | 21.1/6.3/27.4 | 0.522 | 520.4 | 169.0 | 311.3 | 251.3 |
-| 49 | ngoguen | evaluated | 8800f5 | 19.6/6.6/26.2 | 0.496 | 524.1 | 163.5 | 350.3 | 267.8 |
-| 50 | abhik | evaluated | bf55dc | 16.0/8.5/24.5 | 0.485 | 157.9 | 127.8 | 140.5 | 172.5 |
+| 49 | abhik | evaluated | bf55dc | 16.0/8.5/24.5 | 0.485 | 157.9 | 127.8 | 140.5 | 172.5 |
+| 50 | ngoguen | evaluated | 4c8c74 | 37.7/6.8/44.5 | 0.483 | 536.2 | 159.2 | 375.9 | 276.6 |
 | 51 | nicknam534534 | evaluated | 83a901 | 19.7/7.1/26.8 | 0.467 | 524.7 | 148.4 | 405.3 | 268.7 |
 | 52 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
@@ -70,7 +70,7 @@ Last updated: `April 08, 2026 at 11:33:49 AM ET`
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | TheProphet | failed | 2facb7 | 41.1/2.5/43.6 |  |  |  |  |  |
 |  | vallabkaranam | failed | ec4b9a |  |  |  |  |  |  |
-|  | Yize | failed | 279fbc | 0.0/0.0/0.0 |  |  |  |  |  |
+|  | Yize | failed | f4e7f7 | 0.0/0.0/0.0 |  |  |  |  |  |
 
 ## Column Guide
 
