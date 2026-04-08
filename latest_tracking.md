@@ -1,11 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 10:28:33 PM ET`
+Last updated: `April 07, 2026 at 10:36:59 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 10:25 PM ET | pyjuan91 | evaluated |  | submission.py | fe8f27 | 24.8/2.7/27.5 | 540.9 | 363.6 | 28.8 | 53.3 |
 | Apr 07 10:20 PM ET | nicknam534534 | failed_correctness | Correctness FAIL \| R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | 1f7207 | 19.5/3.8/23.3 | 523.8 | 250.3 | 77.0 | 127.6 |
 | Apr 07 10:10 PM ET | Yize | evaluated |  | submission.py | 083f99 | 35.4/3.3/38.7 | 524.4 | 265.1 | 50.8 | 54.0 |
+| Apr 07 10:10 PM ET | Yize | evaluated |  | develop.py | 083f99 | 23.7/3.3/27.0 | 529.4 | 265.5 | 50.9 | 54.0 |
 | Apr 07 10:05 PM ET | Shengwei | evaluated |  | submission.py | a883af | 19.7/2.8/22.5 | 537.1 | 357.6 | 33.2 | 62.8 |
 | Apr 07 09:38 PM ET | Shengwei | evaluated |  | submission.py | b6fcf8 | 42.8/2.8/45.6 | 538.1 | 356.3 | 33.4 | 63.0 |
 | Apr 07 09:29 PM ET | stefan | evaluated |  | develop.py | a509bd | 38.4/6.2/44.6 | 537.7 | 170.1 | 309.9 | 247.8 |

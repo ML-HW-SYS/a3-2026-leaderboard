@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 10:28:33 PM ET`
+Last updated: `April 07, 2026 at 10:36:59 PM ET`
 
 ## R1 (tok/s)
 
@@ -25,24 +25,24 @@ Last updated: `April 07, 2026 at 10:28:33 PM ET`
 | 17 | happyface | evaluated | 7e8b61 | 543.0 |
 | 18 | 13rabbit | evaluated | b38df9 | 542.8 |
 | 19 | gm | evaluated | 2898fc | 541.1 |
-| 20 | alifim | evaluated | 701077 | 539.6 |
-| 21 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
-| 22 | pallavi-srinivas | evaluated | b82073 | 539.0 |
-| 23 | stefan | evaluated | a01e76 | 537.5 |
-| 24 | Shengwei | evaluated | a883af | 537.1 |
-| 25 | landrum | evaluated | 61ab81 | 535.7 |
-| 26 | sjb | evaluated | 373553 | 535.3 |
-| 27 | lipphi | evaluated | a3a71b | 534.8 |
-| 28 | chickfila | evaluated | f0956d | 534.5 |
-| 29 | gravlax | evaluated | b1229d | 532.3 |
-| 30 | Junyi Li | evaluated | c7a1b3 | 527.3 |
-| 31 | yb | evaluated | ea23ab | 525.9 |
-| 32 | bl792 | evaluated | 09cd73 | 524.7 |
-| 33 | Yize | evaluated | 083f99 | 524.4 |
-| 34 | nicknam534534 | evaluated | 1bad48 | 524.1 |
-| 35 | act | evaluated | 899777 | 523.9 |
-| 36 | ethanchen | evaluated | ea518d | 523.7 |
-| 37 | pyjuan91 | evaluated | 430a83 | 523.3 |
+| 20 | pyjuan91 | evaluated | fe8f27 | 540.9 |
+| 21 | alifim | evaluated | 701077 | 539.6 |
+| 22 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
+| 23 | pallavi-srinivas | evaluated | b82073 | 539.0 |
+| 24 | stefan | evaluated | a01e76 | 537.5 |
+| 25 | Shengwei | evaluated | a883af | 537.1 |
+| 26 | landrum | evaluated | 61ab81 | 535.7 |
+| 27 | sjb | evaluated | 373553 | 535.3 |
+| 28 | lipphi | evaluated | a3a71b | 534.8 |
+| 29 | chickfila | evaluated | f0956d | 534.5 |
+| 30 | gravlax | evaluated | b1229d | 532.3 |
+| 31 | Junyi Li | evaluated | c7a1b3 | 527.3 |
+| 32 | yb | evaluated | ea23ab | 525.9 |
+| 33 | bl792 | evaluated | 09cd73 | 524.7 |
+| 34 | Yize | evaluated | 083f99 | 524.4 |
+| 35 | nicknam534534 | evaluated | 1bad48 | 524.1 |
+| 36 | act | evaluated | 899777 | 523.9 |
+| 37 | ethanchen | evaluated | ea518d | 523.7 |
 | 38 | hw_bloss | evaluated | 4c9666 | 522.2 |
 | 39 | fishyfins | evaluated | 6c0e20 | 522.0 |
 | 40 | yoursun1220 | evaluated | d8b590 | 521.8 |
@@ -78,21 +78,21 @@ Last updated: `April 07, 2026 at 10:28:33 PM ET`
 | 8 | omermoav | evaluated | b01c0e | 373.6 |
 | 9 | ashaikh23 | evaluated | 84a425 | 372.1 |
 | 10 | prousoglou | evaluated | 570c63 | 368.2 |
-| 11 | Shengwei | evaluated | a883af | 357.6 |
-| 12 | gm | evaluated | 2898fc | 357.0 |
-| 13 | sjb | evaluated | 373553 | 346.4 |
-| 14 | JasonWang07 | evaluated | a4b405 | 342.2 |
-| 15 | Rithvik | evaluated | 2924a0 | 335.8 |
-| 16 | nickname55555555 | evaluated | 20d1ac | 334.2 |
-| 17 | leoli | evaluated | 5cdac4 | 327.5 |
-| 18 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
-| 19 | jl | evaluated | 8b6423 | 311.6 |
-| 20 | lipphi | evaluated | a3a71b | 306.7 |
-| 21 | PurplePickle67 | evaluated | 68d34e | 303.7 |
-| 22 | TA | evaluated | a6e863 | 294.5 |
-| 23 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
-| 24 | landrum | evaluated | 61ab81 | 276.9 |
-| 25 | pyjuan91 | evaluated | 430a83 | 276.6 |
+| 11 | pyjuan91 | evaluated | fe8f27 | 363.6 |
+| 12 | Shengwei | evaluated | a883af | 357.6 |
+| 13 | gm | evaluated | 2898fc | 357.0 |
+| 14 | sjb | evaluated | 373553 | 346.4 |
+| 15 | JasonWang07 | evaluated | a4b405 | 342.2 |
+| 16 | Rithvik | evaluated | 2924a0 | 335.8 |
+| 17 | nickname55555555 | evaluated | 20d1ac | 334.2 |
+| 18 | leoli | evaluated | 5cdac4 | 327.5 |
+| 19 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
+| 20 | jl | evaluated | 8b6423 | 311.6 |
+| 21 | lipphi | evaluated | a3a71b | 306.7 |
+| 22 | PurplePickle67 | evaluated | 68d34e | 303.7 |
+| 23 | TA | evaluated | a6e863 | 294.5 |
+| 24 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
+| 25 | landrum | evaluated | 61ab81 | 276.9 |
 | 26 | gravlax | evaluated | b1229d | 272.5 |
 | 27 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
 | 28 | Yize | evaluated | 083f99 | 265.1 |
@@ -136,7 +136,7 @@ Last updated: `April 07, 2026 at 10:28:33 PM ET`
 | 4 | Rithvik | evaluated | 2924a0 | 27.1 |
 | 5 | zhumengzhiren | evaluated | cf2924 | 28.0 |
 | 6 | abarat007 | evaluated | d7f626 | 28.1 |
-| 7 | pyjuan91 | evaluated | 430a83 | 28.8 |
+| 7 | pyjuan91 | evaluated | fe8f27 | 28.8 |
 | 8 | ashaikh23 | evaluated | 84a425 | 29.1 |
 | 9 | landrum | evaluated | 61ab81 | 29.9 |
 | 10 | nickname55555555 | evaluated | 20d1ac | 30.9 |
@@ -202,7 +202,7 @@ Last updated: `April 07, 2026 at 10:28:33 PM ET`
 | 8 | nickname55555555 | evaluated | 20d1ac | 50.6 |
 | 9 | abarat007 | evaluated | d7f626 | 51.5 |
 | 10 | PurplePickle67 | evaluated | 68d34e | 52.1 |
-| 11 | pyjuan91 | evaluated | 430a83 | 53.4 |
+| 11 | pyjuan91 | evaluated | fe8f27 | 53.3 |
 | 12 | sjb | evaluated | 373553 | 53.6 |
 | 13 | landrum | evaluated | 61ab81 | 53.7 |
 | 14 | Yize | evaluated | 083f99 | 54.0 |

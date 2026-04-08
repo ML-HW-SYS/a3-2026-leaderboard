@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 10:28:33 PM ET`
+Last updated: `April 07, 2026 at 10:36:59 PM ET`
 
 ## R1 (tok/s)
 
@@ -31,19 +31,19 @@ Last updated: `April 07, 2026 at 10:28:33 PM ET`
 | 23 | 13rabbit | submission.py | fe30c9 | 543.0 |
 | 24 | alifim | develop.py | ad261a | 541.7 |
 | 25 | landrum | develop.py | b61e15 | 540.9 |
-| 26 | andrasferenczy | submission.py | 6204c7 | 540.6 |
-| 27 | abhik | develop.py | 41a3ec | 539.5 |
-| 28 | pyjuan91 | develop.py | 92d1da | 539.5 |
+| 26 | pyjuan91 | submission.py | fe8f27 | 540.9 |
+| 27 | andrasferenczy | submission.py | 6204c7 | 540.6 |
+| 28 | abhik | develop.py | 41a3ec | 539.5 |
 | 29 | stefan | develop.py | 9a25e1 | 539.1 |
 | 30 | ishan-pat | develop.py | 75d32d | 537.5 |
 | 31 | sjb | develop.py | 3359ec | 537.0 |
 | 32 | lipphi | submission.py | a3a71b | 534.8 |
 | 33 | gravlax | develop.py | 1f23d9 | 534.6 |
 | 34 | chickfila | submission.py | 29860a | 534.6 |
-| 35 | Junyi Li | submission.py | 2e381b | 529.4 |
-| 36 | bl792 | submission.py | 3b3a8a | 528.5 |
-| 37 | ethanchen | submission.py | a0d359 | 528.1 |
-| 38 | Yize | submission.py | c5a8ae | 527.3 |
+| 35 | Yize | develop.py | 083f99 | 529.4 |
+| 36 | Junyi Li | submission.py | 2e381b | 529.4 |
+| 37 | bl792 | submission.py | 3b3a8a | 528.5 |
+| 38 | ethanchen | submission.py | a0d359 | 528.1 |
 | 39 | Rithvik | submission.py | 1a7556 | 527.1 |
 | 40 | yb | submission.py | ea23ab | 525.9 |
 | 41 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
@@ -92,7 +92,7 @@ Last updated: `April 07, 2026 at 10:28:33 PM ET`
 | 27 | landrum | submission.py | 61ab81 | 276.9 |
 | 28 | gravlax | develop.py | b1229d | 273.0 |
 | 29 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
-| 30 | Yize | submission.py | 083f99 | 265.1 |
+| 30 | Yize | develop.py | 083f99 | 265.5 |
 | 31 | ishan-pat | develop.py | 75d32d | 259.7 |
 | 32 | happyface | develop.py | 0aca52 | 259.4 |
 | 33 | ethanchen | submission.py | ea518d | 251.2 |
@@ -191,7 +191,7 @@ Last updated: `April 07, 2026 at 10:28:33 PM ET`
 | 12 | sjb | develop.py | 387987 | 53.1 |
 | 13 | pyjuan91 | develop.py | 92d1da | 53.1 |
 | 14 | landrum | develop.py | 4d2d51 | 53.5 |
-| 15 | Yize | submission.py | 083f99 | 54.0 |
+| 15 | Yize | develop.py | 083f99 | 54.0 |
 | 16 | gravlax | submission.py | b1229d | 59.7 |
 | 17 | bl792 | develop.py | 09cd73 | 59.8 |
 | 18 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 59.9 |
