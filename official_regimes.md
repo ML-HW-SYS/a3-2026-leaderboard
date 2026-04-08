@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 10:36:59 PM ET`
+Last updated: `April 07, 2026 at 10:46:02 PM ET`
 
 ## R1 (tok/s)
 
@@ -38,8 +38,8 @@ Last updated: `April 07, 2026 at 10:36:59 PM ET`
 | 30 | gravlax | evaluated | b1229d | 532.3 |
 | 31 | Junyi Li | evaluated | c7a1b3 | 527.3 |
 | 32 | yb | evaluated | ea23ab | 525.9 |
-| 33 | bl792 | evaluated | 09cd73 | 524.7 |
-| 34 | Yize | evaluated | 083f99 | 524.4 |
+| 33 | Yize | evaluated | 0fc639 | 525.1 |
+| 34 | bl792 | evaluated | 09cd73 | 524.7 |
 | 35 | nicknam534534 | evaluated | 1bad48 | 524.1 |
 | 36 | act | evaluated | 899777 | 523.9 |
 | 37 | ethanchen | evaluated | ea518d | 523.7 |
@@ -95,30 +95,30 @@ Last updated: `April 07, 2026 at 10:36:59 PM ET`
 | 25 | landrum | evaluated | 61ab81 | 276.9 |
 | 26 | gravlax | evaluated | b1229d | 272.5 |
 | 27 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
-| 28 | Yize | evaluated | 083f99 | 265.1 |
-| 29 | ishan-pat | evaluated | fddca1 | 259.2 |
-| 30 | happyface | evaluated | 7e8b61 | 258.2 |
-| 31 | ethanchen | evaluated | ea518d | 251.2 |
-| 32 | 13rabbit | evaluated | b38df9 | 242.9 |
-| 33 | bl792 | evaluated | 09cd73 | 238.8 |
-| 34 | beratcelik | evaluated | 863a89 | 231.2 |
-| 35 | pallavi-srinivas | evaluated | b82073 | 207.1 |
-| 36 | tuo | evaluated | 3d6d40 | 204.6 |
-| 37 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
-| 38 | Licha | evaluated | 8fdc3a | 192.4 |
-| 39 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 40 | stefan | evaluated | a01e76 | 170.0 |
-| 41 | ngoguen | evaluated | a5cdb8 | 169.7 |
-| 42 | Junyi Li | evaluated | c7a1b3 | 169.7 |
-| 43 | fishyfins | evaluated | 6c0e20 | 169.5 |
-| 44 | yoursun1220 | evaluated | d8b590 | 169.2 |
-| 45 | hw_bloss | evaluated | 4c9666 | 169.1 |
-| 46 | jbc | evaluated | 12bb20 | 169.0 |
-| 47 | act | evaluated | 899777 | 169.0 |
-| 48 | yb | evaluated | ea23ab | 168.8 |
-| 49 | nicknam534534 | evaluated | 1bad48 | 148.4 |
-| 50 | abhik | evaluated | bf55dc | 127.8 |
-| 51 | Decode_speed | evaluated | 097a6b | 77.3 |
+| 28 | ishan-pat | evaluated | fddca1 | 259.2 |
+| 29 | happyface | evaluated | 7e8b61 | 258.2 |
+| 30 | ethanchen | evaluated | ea518d | 251.2 |
+| 31 | 13rabbit | evaluated | b38df9 | 242.9 |
+| 32 | bl792 | evaluated | 09cd73 | 238.8 |
+| 33 | beratcelik | evaluated | 863a89 | 231.2 |
+| 34 | pallavi-srinivas | evaluated | b82073 | 207.1 |
+| 35 | tuo | evaluated | 3d6d40 | 204.6 |
+| 36 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
+| 37 | Licha | evaluated | 8fdc3a | 192.4 |
+| 38 | your_nickname_here | evaluated | f10b9b | 173.1 |
+| 39 | stefan | evaluated | a01e76 | 170.0 |
+| 40 | ngoguen | evaluated | a5cdb8 | 169.7 |
+| 41 | Junyi Li | evaluated | c7a1b3 | 169.7 |
+| 42 | fishyfins | evaluated | 6c0e20 | 169.5 |
+| 43 | yoursun1220 | evaluated | d8b590 | 169.2 |
+| 44 | hw_bloss | evaluated | 4c9666 | 169.1 |
+| 45 | jbc | evaluated | 12bb20 | 169.0 |
+| 46 | act | evaluated | 899777 | 169.0 |
+| 47 | yb | evaluated | ea23ab | 168.8 |
+| 48 | nicknam534534 | evaluated | 1bad48 | 148.4 |
+| 49 | abhik | evaluated | bf55dc | 127.8 |
+| 50 | Decode_speed | evaluated | 097a6b | 77.3 |
+| 51 | Yize | evaluated | 0fc639 | 59.6 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | poppyPotatoe | failed | aa5125 |  |
@@ -149,8 +149,8 @@ Last updated: `April 07, 2026 at 10:36:59 PM ET`
 | 17 | gravlax | evaluated | b1229d | 35.0 |
 | 18 | omermoav | evaluated | b01c0e | 35.2 |
 | 19 | PurplePickle67 | evaluated | 68d34e | 37.3 |
-| 20 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
-| 21 | Yize | evaluated | 083f99 | 50.8 |
+| 20 | Yize | evaluated | 0fc639 | 39.6 |
+| 21 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
 | 22 | sjb | evaluated | 373553 | 50.8 |
 | 23 | ishan-pat | evaluated | fddca1 | 56.0 |
 | 24 | Junyi Li | evaluated | c7a1b3 | 60.9 |
@@ -205,7 +205,7 @@ Last updated: `April 07, 2026 at 10:36:59 PM ET`
 | 11 | pyjuan91 | evaluated | fe8f27 | 53.3 |
 | 12 | sjb | evaluated | 373553 | 53.6 |
 | 13 | landrum | evaluated | 61ab81 | 53.7 |
-| 14 | Yize | evaluated | 083f99 | 54.0 |
+| 14 | Yize | evaluated | 0fc639 | 53.8 |
 | 15 | gravlax | evaluated | b1229d | 59.7 |
 | 16 | bl792 | evaluated | 09cd73 | 59.9 |
 | 17 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 59.9 |
