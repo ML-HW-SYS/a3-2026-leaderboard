@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 11:43:12 PM ET`
+Last updated: `April 07, 2026 at 11:50:32 PM ET`
 
 ## R1 (tok/s)
 
@@ -60,7 +60,7 @@ Last updated: `April 07, 2026 at 11:43:12 PM ET`
 | 52 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
-|  | poppyPotatoe | failed | aa5125 |  |
+|  | poppyPotatoe | failed | 2d4dd6 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | vallabkaranam | failed | ec4b9a |  |
@@ -123,7 +123,7 @@ Last updated: `April 07, 2026 at 11:43:12 PM ET`
 | 52 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
-|  | poppyPotatoe | failed | aa5125 |  |
+|  | poppyPotatoe | failed | 2d4dd6 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | vallabkaranam | failed | ec4b9a |  |
@@ -186,7 +186,7 @@ Last updated: `April 07, 2026 at 11:43:12 PM ET`
 | 52 | Decode_speed | evaluated | 097a6b | 412.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
-|  | poppyPotatoe | failed | aa5125 |  |
+|  | poppyPotatoe | failed | 2d4dd6 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | vallabkaranam | failed | ec4b9a |  |
@@ -249,7 +249,7 @@ Last updated: `April 07, 2026 at 11:43:12 PM ET`
 | 52 | Decode_speed | evaluated | 097a6b | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
-|  | poppyPotatoe | failed | aa5125 |  |
+|  | poppyPotatoe | failed | 2d4dd6 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | vallabkaranam | failed | ec4b9a |  |

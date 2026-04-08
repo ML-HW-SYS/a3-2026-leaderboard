@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 07, 2026 at 11:43:12 PM ET`
+Last updated: `April 07, 2026 at 11:50:32 PM ET`
 
 ## Pages
 
@@ -66,7 +66,7 @@ Last updated: `April 07, 2026 at 11:43:12 PM ET`
 | 52 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
-|  | poppyPotatoe | failed | aa5125 | 0.0/0.0/0.0 |  |  |  |  |  |
+|  | poppyPotatoe | failed | 2d4dd6 |  |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | TheProphet | failed | 2facb7 | 41.1/2.5/43.6 |  |  |  |  |  |
 |  | vallabkaranam | failed | ec4b9a |  |  |  |  |  |  |

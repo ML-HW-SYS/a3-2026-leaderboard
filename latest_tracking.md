@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 07, 2026 at 11:43:12 PM ET`
+Last updated: `April 07, 2026 at 11:50:32 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 07 11:43 PM ET | poppyPotatoe | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | 2d4dd6 |  |  |  |  |  |
 | Apr 07 11:24 PM ET | castillo | evaluated |  | submission.py | 0e93de | 27.1/6.2/33.4 | 526.6 | 169.0 | 311.4 | 250.4 |
 | Apr 07 11:24 PM ET | castillo | evaluated |  | develop.py | 0e93de | 19.9/6.2/26.2 | 523.1 | 169.2 | 310.9 | 250.2 |
 | Apr 07 11:18 PM ET | Yize | evaluated |  | submission.py | 8548d6 | 24.5/3.2/27.8 | 530.6 | 267.6 | 39.5 | 53.3 |
