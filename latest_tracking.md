@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 12:26:30 PM ET`
+Last updated: `April 08, 2026 at 12:34:24 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 08 12:24 PM ET | ngoguen | failed_correctness | R3: SETUP: ERR: AcceleratorError: CUDA error: operation failed due to a previous error during capture Search for `cud... | submission.py | 8412c3 | 22.4/5.2/27.6 | 533.5 | 119.7 | 0.0 | 0.0 |
 | Apr 08 12:10 PM ET | ngoguen | evaluated |  | submission.py | e943db | 30.6/17.6/48.1 | 95.1 | 62.6 | 619.1 | 384.8 |
 | Apr 08 12:08 PM ET | Shengwei | evaluated |  | submission.py | d3ac71 | 49.1/2.7/51.8 | 536.7 | 360.8 | 30.1 | 55.5 |
 | Apr 08 11:51 AM ET | ngoguen | evaluated |  | submission.py | 0d832d | 39.6/9.2/48.7 | 539.3 | 121.8 | 619.5 | 385.5 |

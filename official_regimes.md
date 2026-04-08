@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 08, 2026 at 12:26:30 PM ET`
+Last updated: `April 08, 2026 at 12:34:24 PM ET`
 
 ## R1 (tok/s)
 
@@ -58,9 +58,9 @@ Last updated: `April 08, 2026 at 12:26:30 PM ET`
 | 50 | tuo | evaluated | 3d6d40 | 494.8 |
 | 51 | abhik | evaluated | bf55dc | 157.9 |
 | 52 | Decode_speed | evaluated | 097a6b | 104.5 |
-| 53 | ngoguen | evaluated | e943db | 95.1 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | ngoguen | failed | 8412c3 |  |
 |  | poppyPotatoe | failed | 2d4dd6 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
@@ -122,9 +122,9 @@ Last updated: `April 08, 2026 at 12:26:30 PM ET`
 | 50 | nicknam534534 | evaluated | 83a901 | 148.4 |
 | 51 | abhik | evaluated | bf55dc | 127.8 |
 | 52 | Decode_speed | evaluated | 097a6b | 77.3 |
-| 53 | ngoguen | evaluated | e943db | 62.6 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | ngoguen | failed | 8412c3 |  |
 |  | poppyPotatoe | failed | 2d4dd6 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
@@ -186,9 +186,9 @@ Last updated: `April 08, 2026 at 12:26:30 PM ET`
 | 50 | yb | evaluated | ea23ab | 312.3 |
 | 51 | nicknam534534 | evaluated | 83a901 | 405.3 |
 | 52 | Decode_speed | evaluated | 097a6b | 412.7 |
-| 53 | ngoguen | evaluated | e943db | 619.1 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | ngoguen | failed | 8412c3 |  |
 |  | poppyPotatoe | failed | 2d4dd6 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
@@ -250,9 +250,9 @@ Last updated: `April 08, 2026 at 12:26:30 PM ET`
 | 50 | jbc | evaluated | 12bb20 | 251.3 |
 | 51 | nicknam534534 | evaluated | 83a901 | 268.7 |
 | 52 | Decode_speed | evaluated | 097a6b | 270.3 |
-| 53 | ngoguen | evaluated | e943db | 384.8 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | ngoguen | failed | 8412c3 |  |
 |  | poppyPotatoe | failed | 2d4dd6 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
