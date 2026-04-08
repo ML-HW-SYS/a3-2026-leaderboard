@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 03:52:37 PM ET`
+Last updated: `April 08, 2026 at 04:01:52 PM ET`
 
 ## R1 (tok/s)
 
@@ -76,7 +76,7 @@ Last updated: `April 08, 2026 at 03:52:37 PM ET`
 | 8 | abarat007 | submission.py | d7f626 | 378.6 |
 | 9 | omermoav | submission.py | dc63b9 | 374.3 |
 | 10 | ashaikh23 | submission.py | 84a425 | 372.1 |
-| 11 | prousoglou | submission.py | 570c63 | 368.2 |
+| 11 | prousoglou | develop.py | 27721d | 371.2 |
 | 12 | pyjuan91 | develop.py | 92d1da | 364.9 |
 | 13 | Shengwei | submission.py | d3ac71 | 360.8 |
 | 14 | gm | develop.py | fd15e9 | 357.3 |
@@ -110,12 +110,12 @@ Last updated: `April 08, 2026 at 03:52:37 PM ET`
 | 42 | Licha | submission.py | 8fdc3a | 192.4 |
 | 43 | your_nickname_here | submission.py | 59e245 | 173.4 |
 | 44 | stefan | submission.py | 583665 | 170.2 |
-| 45 | yoursun1220 | submission.py | 27e400 | 169.9 |
-| 46 | yb | submission.py | 2aa1a9 | 169.8 |
-| 47 | hw_bloss | submission.py | b2767b | 169.8 |
-| 48 | Junyi Li | submission.py | c7a1b3 | 169.7 |
-| 49 | jbc | develop.py | 4e7308 | 169.4 |
-| 50 | kade_lin_is_here | submission.py | 6ae977 | 169.4 |
+| 45 | kade_lin_is_here | submission.py | 7cdac7 | 170.1 |
+| 46 | yoursun1220 | submission.py | 27e400 | 169.9 |
+| 47 | yb | submission.py | 2aa1a9 | 169.8 |
+| 48 | hw_bloss | submission.py | b2767b | 169.8 |
+| 49 | Junyi Li | submission.py | c7a1b3 | 169.7 |
+| 50 | jbc | develop.py | 4e7308 | 169.4 |
 | 51 | castillo | develop.py | 0e93de | 169.2 |
 | 52 | act | submission.py | 899777 | 169.0 |
 | 53 | nicknam534534 | develop.py | 187bfa | 148.4 |
@@ -139,11 +139,11 @@ Last updated: `April 08, 2026 at 03:52:37 PM ET`
 | 11 | ashaikh23 | submission.py | 84a425 | 29.1 |
 | 12 | landrum | develop.py | 4d2d51 | 29.6 |
 | 13 | Shengwei | submission.py | d3ac71 | 30.1 |
-| 14 | nickname55555555 | submission.py | f60ff5 | 30.9 |
-| 15 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
-| 16 | bl792 | develop.py | 09cd73 | 32.3 |
-| 17 | blabrl | submission.py | ca60eb | 33.7 |
-| 18 | prousoglou | develop.py | 2bc9f1 | 34.7 |
+| 14 | prousoglou | develop.py | 27721d | 30.4 |
+| 15 | nickname55555555 | submission.py | f60ff5 | 30.9 |
+| 16 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
+| 17 | bl792 | develop.py | 09cd73 | 32.3 |
+| 18 | blabrl | submission.py | ca60eb | 33.7 |
 | 19 | chickfila | submission.py | f0956d | 34.7 |
 | 20 | gravlax | develop.py | b1229d | 35.0 |
 | 21 | PurplePickle67 | submission.py | 2efdba | 36.3 |
@@ -176,9 +176,9 @@ Last updated: `April 08, 2026 at 03:52:37 PM ET`
 | 48 | Sulaiman Alam | submission.py | c7ede2 | 308.7 |
 | 49 | yb | submission.py | 2aa1a9 | 309.3 |
 | 50 | jbc | develop.py | 4e7308 | 309.3 |
-| 51 | castillo | develop.py | 0e93de | 310.9 |
-| 52 | act | develop.py | 1b5e17 | 310.9 |
-| 53 | kade_lin_is_here | submission.py | ef9e51 | 311.1 |
+| 51 | kade_lin_is_here | submission.py | 7cdac7 | 310.7 |
+| 52 | castillo | develop.py | 0e93de | 310.9 |
+| 53 | act | develop.py | 1b5e17 | 310.9 |
 | 54 | poppyPotatoe | submission.py | dd4e57 | 314.7 |
 | 55 | Decode_speed | submission.py | 097a6b | 412.7 |
 
@@ -202,14 +202,14 @@ Last updated: `April 08, 2026 at 03:52:37 PM ET`
 | 14 | pyjuan91 | develop.py | 92d1da | 53.1 |
 | 15 | Yize | submission.py | c8c9f7 | 53.1 |
 | 16 | landrum | develop.py | 4d2d51 | 53.5 |
-| 17 | Shengwei | submission.py | d3ac71 | 55.5 |
-| 18 | gravlax | submission.py | b1229d | 59.7 |
-| 19 | bl792 | develop.py | 09cd73 | 59.8 |
-| 20 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 59.9 |
-| 21 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
-| 22 | omermoav | submission.py | b01c0e | 64.6 |
-| 23 | blabrl | submission.py | ca60eb | 65.2 |
-| 24 | prousoglou | submission.py | 570c63 | 65.3 |
+| 17 | prousoglou | develop.py | 27721d | 55.5 |
+| 18 | Shengwei | submission.py | d3ac71 | 55.5 |
+| 19 | gravlax | submission.py | b1229d | 59.7 |
+| 20 | bl792 | develop.py | 09cd73 | 59.8 |
+| 21 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 59.9 |
+| 22 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
+| 23 | omermoav | submission.py | b01c0e | 64.6 |
+| 24 | blabrl | submission.py | ca60eb | 65.2 |
 | 25 | happyface | develop.py | 0aca52 | 65.7 |
 | 26 | JasonWang07 | develop.py | f27837 | 78.3 |
 | 27 | leoli | submission.py | 5cdac4 | 87.4 |
@@ -238,6 +238,6 @@ Last updated: `April 08, 2026 at 03:52:37 PM ET`
 | 50 | castillo | develop.py | 0e93de | 250.2 |
 | 51 | yb | submission.py | 2aa1a9 | 250.5 |
 | 52 | act | develop.py | 1b5e17 | 250.6 |
-| 53 | kade_lin_is_here | submission.py | ef9e51 | 251.1 |
+| 53 | kade_lin_is_here | submission.py | 7cdac7 | 251.0 |
 | 54 | poppyPotatoe | submission.py | dd4e57 | 254.2 |
 | 55 | Decode_speed | submission.py | 097a6b | 270.3 |

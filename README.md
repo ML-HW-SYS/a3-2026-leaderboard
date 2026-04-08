@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 08, 2026 at 03:52:37 PM ET`
+Last updated: `April 08, 2026 at 04:01:52 PM ET`
 
 ## Pages
 
@@ -57,7 +57,7 @@ Last updated: `April 08, 2026 at 03:52:37 PM ET`
 | 43 | hw_bloss | evaluated | 4c9666 | 23.8/6.2/30.0 | 0.531 | 522.2 | 169.1 | 308.1 | 239.1 |
 | 44 | stefan | evaluated | 583665 | 19.6/6.2/25.8 | 0.531 | 538.1 | 170.2 | 308.5 | 247.3 |
 | 45 | castillo | evaluated | 0e93de | 27.1/6.2/33.4 | 0.524 | 526.6 | 169.0 | 311.4 | 250.4 |
-| 46 | kade_lin_is_here | evaluated | 6ae977 | 40.4/6.2/46.6 | 0.524 | 525.1 | 169.4 | 311.7 | 251.1 |
+| 46 | kade_lin_is_here | evaluated | 7cdac7 | 49.9/6.2/56.1 | 0.524 | 522.0 | 170.1 | 310.7 | 251.0 |
 | 47 | act | evaluated | 899777 | 19.8/6.3/26.1 | 0.524 | 523.9 | 169.0 | 310.9 | 250.7 |
 | 48 | yoursun1220 | evaluated | d8b590 | 19.8/6.2/26.1 | 0.524 | 521.8 | 169.2 | 310.7 | 250.1 |
 | 49 | yb | evaluated | ea23ab | 19.9/6.3/26.1 | 0.524 | 525.9 | 168.8 | 312.3 | 250.6 |
@@ -67,7 +67,7 @@ Last updated: `April 08, 2026 at 03:52:37 PM ET`
 | 53 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | mdavalos10 | failed | b601f0 |  |  |  |  |  |  |
-|  | poppyPotatoe | failed | 866cb1 | 13.9/0.0/13.9 |  |  |  |  |  |
+|  | poppyPotatoe | failed | 92ef63 | 14.1/0.0/14.1 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | TheProphet | failed | 2facb7 | 41.1/2.5/43.6 |  |  |  |  |  |
 |  | vallabkaranam | failed | ec4b9a |  |  |  |  |  |  |
