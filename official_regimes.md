@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 08, 2026 at 03:13:56 PM ET`
+Last updated: `April 08, 2026 at 03:21:45 PM ET`
 
 ## R1 (tok/s)
 
@@ -58,7 +58,7 @@ Last updated: `April 08, 2026 at 03:13:56 PM ET`
 | 50 | Rithvik | evaluated | 2924a0 | 495.8 |
 | 51 | tuo | evaluated | 3d6d40 | 494.8 |
 | 52 | abhik | evaluated | bf55dc | 157.9 |
-| 53 | poppyPotatoe | evaluated | 19ecdb | 143.6 |
+| 53 | poppyPotatoe | evaluated | ab40d5 | 149.8 |
 | 54 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -122,7 +122,7 @@ Last updated: `April 08, 2026 at 03:13:56 PM ET`
 | 50 | yb | evaluated | ea23ab | 168.8 |
 | 51 | nicknam534534 | evaluated | 83a901 | 148.4 |
 | 52 | abhik | evaluated | bf55dc | 127.8 |
-| 53 | poppyPotatoe | evaluated | 19ecdb | 104.7 |
+| 53 | poppyPotatoe | evaluated | ab40d5 | 108.8 |
 | 54 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -185,7 +185,7 @@ Last updated: `April 08, 2026 at 03:13:56 PM ET`
 | 49 | castillo | evaluated | 0e93de | 311.4 |
 | 50 | kade_lin_is_here | evaluated | 6ae977 | 311.7 |
 | 51 | yb | evaluated | ea23ab | 312.3 |
-| 52 | poppyPotatoe | evaluated | 19ecdb | 390.8 |
+| 52 | poppyPotatoe | evaluated | ab40d5 | 392.5 |
 | 53 | nicknam534534 | evaluated | 83a901 | 405.3 |
 | 54 | Decode_speed | evaluated | 097a6b | 412.7 |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -251,7 +251,7 @@ Last updated: `April 08, 2026 at 03:13:56 PM ET`
 | 51 | jbc | evaluated | 12bb20 | 251.3 |
 | 52 | nicknam534534 | evaluated | 83a901 | 268.7 |
 | 53 | Decode_speed | evaluated | 097a6b | 270.3 |
-| 54 | poppyPotatoe | evaluated | 19ecdb | 330.9 |
+| 54 | poppyPotatoe | evaluated | ab40d5 | 331.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | SIUUU | failed | ad9184 |  |
