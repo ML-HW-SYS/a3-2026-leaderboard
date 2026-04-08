@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 06:03:29 PM ET`
+Last updated: `April 08, 2026 at 06:11:48 PM ET`
 
 ## R1 (tok/s)
 
@@ -53,9 +53,9 @@ Last updated: `April 08, 2026 at 06:03:29 PM ET`
 | 45 | kade_lin_is_here | submission.py | 6ae977 | 525.1 |
 | 46 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
 | 47 | yoursun1220 | submission.py | f4e2be | 524.2 |
-| 48 | act | submission.py | 899777 | 523.9 |
-| 49 | hw_bloss | submission.py | 2d26da | 523.5 |
-| 50 | zionrangers | submission.py | 4d6fe5 | 523.4 |
+| 48 | zionrangers | develop.py | 4d6fe5 | 524.1 |
+| 49 | act | submission.py | 899777 | 523.9 |
+| 50 | hw_bloss | submission.py | 2d26da | 523.5 |
 | 51 | Licha | submission.py | 8fdc3a | 521.4 |
 | 52 | PurplePickle67 | submission.py | 68d34e | 520.5 |
 | 53 | jbc | submission.py | 12bb20 | 520.4 |
@@ -120,7 +120,7 @@ Last updated: `April 08, 2026 at 06:03:29 PM ET`
 | 50 | dylanjhnsondj | submission.py | c4e1ab | 169.6 |
 | 51 | jbc | develop.py | 4e7308 | 169.4 |
 | 52 | castillo | develop.py | 0e93de | 169.2 |
-| 53 | zionrangers | submission.py | 4d6fe5 | 169.1 |
+| 53 | zionrangers | develop.py | 4d6fe5 | 169.2 |
 | 54 | act | submission.py | 899777 | 169.0 |
 | 55 | nicknam534534 | develop.py | 187bfa | 148.4 |
 | 56 | poppyPotatoe | submission.py | dd4e57 | 117.7 |
@@ -183,9 +183,9 @@ Last updated: `April 08, 2026 at 06:03:29 PM ET`
 | 51 | yb | submission.py | 2aa1a9 | 309.3 |
 | 52 | jbc | develop.py | 4e7308 | 309.3 |
 | 53 | poppyPotatoe | submission.py | 311dc9 | 309.5 |
-| 54 | castillo | develop.py | 0e93de | 310.9 |
-| 55 | act | develop.py | 1b5e17 | 310.9 |
-| 56 | zionrangers | submission.py | 4d6fe5 | 311.2 |
+| 54 | zionrangers | develop.py | 4d6fe5 | 310.8 |
+| 55 | castillo | develop.py | 0e93de | 310.9 |
+| 56 | act | develop.py | 1b5e17 | 310.9 |
 | 57 | Decode_speed | submission.py | 097a6b | 412.7 |
 
 ## R4 (ms)

@@ -1,13 +1,15 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 06:03:29 PM ET`
+Last updated: `April 08, 2026 at 06:11:48 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 08 06:03 PM ET | poppyPotatoe | failed_correctness | Correctness FAIL \| R2 (80.03%), R3 (75.46%), R4 (81.22%) \| max_abs_diff=13.82 | develop.py | 2f2d80 | 15.5/8.7/24.2 | 141.3 | 127.4 | 108.3 | 156.7 |
 | Apr 08 05:55 PM ET | poppyPotatoe | failed_correctness | Correctness FAIL \| R2 (80.03%), R3 (75.46%), R4 (81.22%) \| max_abs_diff=13.82 | develop.py | 73a51d | 15.5/8.7/24.2 | 141.2 | 126.6 | 107.9 | 156.1 |
 | Apr 08 05:55 PM ET | Shengwei | evaluated |  | submission.py | 67af79 | 21.2/2.7/23.9 | 540.6 | 359.2 | 30.0 | 55.6 |
 | Apr 08 05:51 PM ET | kade_lin_is_here | failed_correctness | R2: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | submission.py | d1aa9f | 29.0/3.4/32.4 | 517.1 | 0.0 | 250.9 | 213.8 |
 | Apr 08 05:49 PM ET | zionrangers | evaluated |  | submission.py | 4d6fe5 | 21.1/6.3/27.3 | 523.4 | 169.1 | 311.2 | 250.4 |
+| Apr 08 05:49 PM ET | zionrangers | evaluated |  | develop.py | 4d6fe5 | 19.8/6.3/26.0 | 524.1 | 169.2 | 310.8 | 251.3 |
 | Apr 08 05:42 PM ET | Shengwei | evaluated |  | submission.py | 62546b | 21.1/2.7/23.8 | 540.3 | 359.3 | 32.7 | 61.3 |
 | Apr 08 05:39 PM ET | poppyPotatoe | evaluated |  | develop.py | 9b5b67 | 15.1/10.3/25.4 | 153.9 | 107.3 | 311.6 | 250.1 |
 | Apr 08 05:32 PM ET | poppyPotatoe | evaluated |  | develop.py | 57ce07 | 15.1/10.4/25.4 | 148.2 | 110.2 | 311.2 | 251.3 |
