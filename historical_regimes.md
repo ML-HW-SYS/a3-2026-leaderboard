@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 01:20:22 AM ET`
+Last updated: `April 08, 2026 at 01:28:13 AM ET`
 
 ## R1 (tok/s)
 
@@ -48,7 +48,7 @@ Last updated: `April 08, 2026 at 01:20:22 AM ET`
 | 40 | castillo | submission.py | 0e93de | 526.6 |
 | 41 | yb | submission.py | ea23ab | 525.9 |
 | 42 | nicknam534534 | develop.py | 83a901 | 525.8 |
-| 43 | kade_lin_is_here | submission.py | ef9e51 | 524.7 |
+| 43 | kade_lin_is_here | develop.py | ef9e51 | 524.7 |
 | 44 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
 | 45 | yoursun1220 | submission.py | f4e2be | 524.2 |
 | 46 | act | submission.py | 899777 | 523.9 |
@@ -115,8 +115,8 @@ Last updated: `April 08, 2026 at 01:20:22 AM ET`
 | 48 | Junyi Li | submission.py | c7a1b3 | 169.7 |
 | 49 | jbc | develop.py | 4e7308 | 169.4 |
 | 50 | castillo | develop.py | 0e93de | 169.2 |
-| 51 | act | submission.py | 899777 | 169.0 |
-| 52 | kade_lin_is_here | submission.py | ef9e51 | 169.0 |
+| 51 | kade_lin_is_here | develop.py | ef9e51 | 169.1 |
+| 52 | act | submission.py | 899777 | 169.0 |
 | 53 | nicknam534534 | develop.py | 187bfa | 148.4 |
 | 54 | Decode_speed | submission.py | 097a6b | 77.3 |
 
