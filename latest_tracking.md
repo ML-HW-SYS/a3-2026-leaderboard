@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 12:28:03 AM ET`
+Last updated: `April 08, 2026 at 12:35:27 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 08 12:31 AM ET | kade_lin_is_here | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 3aa52b | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 08 12:09 AM ET | stefan | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 64:12: q_block = q_pos // BLOCK_SIZE h_mod = hq % DILATION neg_inf =... | develop.py | 0083ef | 15.4/0.0/15.4 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 08 12:05 AM ET | stefan | evaluated |  | submission.py | 583665 | 19.6/6.2/25.8 | 538.1 | 170.2 | 308.5 | 247.3 |
 | Apr 07 11:43 PM ET | poppyPotatoe | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | 2d4dd6 |  |  |  |  |  |
