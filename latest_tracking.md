@@ -1,10 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 12:50:34 PM ET`
+Last updated: `April 08, 2026 at 12:59:23 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Apr 08 12:41 PM ET | kade_lin_is_here | evaluated |  | submission.py | 6ae977 | 40.4/6.2/46.6 | 525.1 | 169.4 | 311.7 | 251.1 |
+| Apr 08 12:41 PM ET | kade_lin_is_here | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | develop.py | 6ae977 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 08 12:40 PM ET | ngoguen | evaluated |  | submission.py | be566d | 21.3/9.3/30.6 | 541.1 | 119.4 | 620.0 | 384.8 |
 | Apr 08 12:24 PM ET | ngoguen | failed_correctness | R3: SETUP: ERR: AcceleratorError: CUDA error: operation failed due to a previous error during capture Search for `cud... | submission.py | 8412c3 | 22.4/5.2/27.6 | 533.5 | 119.7 | 0.0 | 0.0 |
 | Apr 08 12:10 PM ET | ngoguen | evaluated |  | submission.py | e943db | 30.6/17.6/48.1 | 95.1 | 62.6 | 619.1 | 384.8 |
