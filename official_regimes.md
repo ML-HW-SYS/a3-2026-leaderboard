@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 07, 2026 at 10:46:02 PM ET`
+Last updated: `April 07, 2026 at 10:54:30 PM ET`
 
 ## R1 (tok/s)
 
@@ -40,7 +40,7 @@ Last updated: `April 07, 2026 at 10:46:02 PM ET`
 | 32 | yb | evaluated | ea23ab | 525.9 |
 | 33 | Yize | evaluated | 0fc639 | 525.1 |
 | 34 | bl792 | evaluated | 09cd73 | 524.7 |
-| 35 | nicknam534534 | evaluated | 1bad48 | 524.1 |
+| 35 | nicknam534534 | evaluated | 83a901 | 524.7 |
 | 36 | act | evaluated | 899777 | 523.9 |
 | 37 | ethanchen | evaluated | ea518d | 523.7 |
 | 38 | hw_bloss | evaluated | 4c9666 | 522.2 |
@@ -115,7 +115,7 @@ Last updated: `April 07, 2026 at 10:46:02 PM ET`
 | 45 | jbc | evaluated | 12bb20 | 169.0 |
 | 46 | act | evaluated | 899777 | 169.0 |
 | 47 | yb | evaluated | ea23ab | 168.8 |
-| 48 | nicknam534534 | evaluated | 1bad48 | 148.4 |
+| 48 | nicknam534534 | evaluated | 83a901 | 148.4 |
 | 49 | abhik | evaluated | bf55dc | 127.8 |
 | 50 | Decode_speed | evaluated | 097a6b | 77.3 |
 | 51 | Yize | evaluated | 0fc639 | 59.6 |
@@ -179,7 +179,7 @@ Last updated: `April 07, 2026 at 10:46:02 PM ET`
 | 47 | act | evaluated | 899777 | 310.9 |
 | 48 | jbc | evaluated | 12bb20 | 311.3 |
 | 49 | yb | evaluated | ea23ab | 312.3 |
-| 50 | nicknam534534 | evaluated | 1bad48 | 405.4 |
+| 50 | nicknam534534 | evaluated | 83a901 | 405.3 |
 | 51 | Decode_speed | evaluated | 097a6b | 412.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
@@ -241,7 +241,7 @@ Last updated: `April 07, 2026 at 10:46:02 PM ET`
 | 47 | yb | evaluated | ea23ab | 250.6 |
 | 48 | act | evaluated | 899777 | 250.7 |
 | 49 | jbc | evaluated | 12bb20 | 251.3 |
-| 50 | nicknam534534 | evaluated | 1bad48 | 269.2 |
+| 50 | nicknam534534 | evaluated | 83a901 | 268.7 |
 | 51 | Decode_speed | evaluated | 097a6b | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |

@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 07, 2026 at 10:46:02 PM ET`
+Last updated: `April 07, 2026 at 10:54:30 PM ET`
 
 ## R1 (tok/s)
 
@@ -46,9 +46,9 @@ Last updated: `April 07, 2026 at 10:46:02 PM ET`
 | 38 | ethanchen | submission.py | a0d359 | 528.1 |
 | 39 | Rithvik | submission.py | 1a7556 | 527.1 |
 | 40 | yb | submission.py | ea23ab | 525.9 |
-| 41 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
-| 42 | yoursun1220 | submission.py | f4e2be | 524.2 |
-| 43 | nicknam534534 | submission.py | 1bad48 | 524.1 |
+| 41 | nicknam534534 | submission.py | 83a901 | 524.7 |
+| 42 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
+| 43 | yoursun1220 | submission.py | f4e2be | 524.2 |
 | 44 | act | submission.py | 899777 | 523.9 |
 | 45 | hw_bloss | submission.py | 2d26da | 523.5 |
 | 46 | Licha | submission.py | 8fdc3a | 521.4 |
@@ -140,7 +140,7 @@ Last updated: `April 07, 2026 at 10:46:02 PM ET`
 | 18 | chickfila | submission.py | f0956d | 34.7 |
 | 19 | gravlax | develop.py | b1229d | 35.0 |
 | 20 | PurplePickle67 | submission.py | 2efdba | 36.3 |
-| 21 | Yize | submission.py | 0fc639 | 39.6 |
+| 21 | Yize | develop.py | 0fc639 | 39.4 |
 | 22 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 43.1 |
 | 23 | sjb | develop.py | 7fb492 | 50.4 |
 | 24 | ishan-pat | submission.py | 564670 | 55.1 |
@@ -190,8 +190,8 @@ Last updated: `April 07, 2026 at 10:46:02 PM ET`
 | 11 | PurplePickle67 | submission.py | 2efdba | 51.9 |
 | 12 | sjb | develop.py | 387987 | 53.1 |
 | 13 | pyjuan91 | develop.py | 92d1da | 53.1 |
-| 14 | landrum | develop.py | 4d2d51 | 53.5 |
-| 15 | Yize | submission.py | 0fc639 | 53.8 |
+| 14 | Yize | develop.py | 0fc639 | 53.4 |
+| 15 | landrum | develop.py | 4d2d51 | 53.5 |
 | 16 | gravlax | submission.py | b1229d | 59.7 |
 | 17 | bl792 | develop.py | 09cd73 | 59.8 |
 | 18 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 59.9 |
