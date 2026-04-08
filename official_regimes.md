@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 08, 2026 at 10:09:38 AM ET`
+Last updated: `April 08, 2026 at 10:17:27 AM ET`
 
 ## R1 (tok/s)
 
@@ -52,15 +52,15 @@ Last updated: `April 08, 2026 at 10:09:38 AM ET`
 | 44 | PurplePickle67 | evaluated | 68d34e | 520.5 |
 | 45 | jbc | evaluated | 12bb20 | 520.4 |
 | 46 | ishan-pat | evaluated | fddca1 | 518.1 |
-| 47 | ngoguen | evaluated | a5cdb8 | 515.9 |
-| 48 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 49 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
-| 50 | Rithvik | evaluated | 2924a0 | 495.8 |
-| 51 | tuo | evaluated | 3d6d40 | 494.8 |
-| 52 | abhik | evaluated | bf55dc | 157.9 |
-| 53 | Decode_speed | evaluated | 097a6b | 104.5 |
+| 47 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 48 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
+| 49 | Rithvik | evaluated | 2924a0 | 495.8 |
+| 50 | tuo | evaluated | 3d6d40 | 494.8 |
+| 51 | abhik | evaluated | bf55dc | 157.9 |
+| 52 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | ngoguen | failed | 59ecad |  |
 |  | poppyPotatoe | failed | 2d4dd6 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
@@ -110,21 +110,21 @@ Last updated: `April 08, 2026 at 10:09:38 AM ET`
 | 38 | Licha | evaluated | 8fdc3a | 192.4 |
 | 39 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 40 | stefan | evaluated | 583665 | 170.2 |
-| 41 | ngoguen | evaluated | a5cdb8 | 169.7 |
-| 42 | Junyi Li | evaluated | c7a1b3 | 169.7 |
-| 43 | fishyfins | evaluated | 6c0e20 | 169.5 |
-| 44 | yoursun1220 | evaluated | d8b590 | 169.2 |
-| 45 | hw_bloss | evaluated | 4c9666 | 169.1 |
-| 46 | castillo | evaluated | 0e93de | 169.0 |
-| 47 | jbc | evaluated | 12bb20 | 169.0 |
-| 48 | act | evaluated | 899777 | 169.0 |
-| 49 | kade_lin_is_here | evaluated | ef9e51 | 169.0 |
-| 50 | yb | evaluated | ea23ab | 168.8 |
-| 51 | nicknam534534 | evaluated | 83a901 | 148.4 |
-| 52 | abhik | evaluated | bf55dc | 127.8 |
-| 53 | Decode_speed | evaluated | 097a6b | 77.3 |
+| 41 | Junyi Li | evaluated | c7a1b3 | 169.7 |
+| 42 | fishyfins | evaluated | 6c0e20 | 169.5 |
+| 43 | yoursun1220 | evaluated | d8b590 | 169.2 |
+| 44 | hw_bloss | evaluated | 4c9666 | 169.1 |
+| 45 | castillo | evaluated | 0e93de | 169.0 |
+| 46 | jbc | evaluated | 12bb20 | 169.0 |
+| 47 | act | evaluated | 899777 | 169.0 |
+| 48 | kade_lin_is_here | evaluated | ef9e51 | 169.0 |
+| 49 | yb | evaluated | ea23ab | 168.8 |
+| 50 | nicknam534534 | evaluated | 83a901 | 148.4 |
+| 51 | abhik | evaluated | bf55dc | 127.8 |
+| 52 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | ngoguen | failed | 59ecad |  |
 |  | poppyPotatoe | failed | 2d4dd6 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
@@ -178,17 +178,17 @@ Last updated: `April 08, 2026 at 10:09:38 AM ET`
 | 42 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 43 | stefan | evaluated | 583665 | 308.5 |
 | 44 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
-| 45 | ngoguen | evaluated | a5cdb8 | 310.3 |
-| 46 | yoursun1220 | evaluated | d8b590 | 310.7 |
-| 47 | act | evaluated | 899777 | 310.9 |
-| 48 | kade_lin_is_here | evaluated | ef9e51 | 311.1 |
-| 49 | jbc | evaluated | 12bb20 | 311.3 |
-| 50 | castillo | evaluated | 0e93de | 311.4 |
-| 51 | yb | evaluated | ea23ab | 312.3 |
-| 52 | nicknam534534 | evaluated | 83a901 | 405.3 |
-| 53 | Decode_speed | evaluated | 097a6b | 412.7 |
+| 45 | yoursun1220 | evaluated | d8b590 | 310.7 |
+| 46 | act | evaluated | 899777 | 310.9 |
+| 47 | kade_lin_is_here | evaluated | ef9e51 | 311.1 |
+| 48 | jbc | evaluated | 12bb20 | 311.3 |
+| 49 | castillo | evaluated | 0e93de | 311.4 |
+| 50 | yb | evaluated | ea23ab | 312.3 |
+| 51 | nicknam534534 | evaluated | 83a901 | 405.3 |
+| 52 | Decode_speed | evaluated | 097a6b | 412.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | ngoguen | failed | 59ecad |  |
 |  | poppyPotatoe | failed | 2d4dd6 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
@@ -242,17 +242,17 @@ Last updated: `April 08, 2026 at 10:09:38 AM ET`
 | 42 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
 | 43 | your_nickname_here | evaluated | f10b9b | 246.4 |
 | 44 | stefan | evaluated | 583665 | 247.3 |
-| 45 | ngoguen | evaluated | a5cdb8 | 249.7 |
-| 46 | yoursun1220 | evaluated | d8b590 | 250.1 |
-| 47 | castillo | evaluated | 0e93de | 250.4 |
-| 48 | yb | evaluated | ea23ab | 250.6 |
-| 49 | act | evaluated | 899777 | 250.7 |
-| 50 | kade_lin_is_here | evaluated | ef9e51 | 251.1 |
-| 51 | jbc | evaluated | 12bb20 | 251.3 |
-| 52 | nicknam534534 | evaluated | 83a901 | 268.7 |
-| 53 | Decode_speed | evaluated | 097a6b | 270.3 |
+| 45 | yoursun1220 | evaluated | d8b590 | 250.1 |
+| 46 | castillo | evaluated | 0e93de | 250.4 |
+| 47 | yb | evaluated | ea23ab | 250.6 |
+| 48 | act | evaluated | 899777 | 250.7 |
+| 49 | kade_lin_is_here | evaluated | ef9e51 | 251.1 |
+| 50 | jbc | evaluated | 12bb20 | 251.3 |
+| 51 | nicknam534534 | evaluated | 83a901 | 268.7 |
+| 52 | Decode_speed | evaluated | 097a6b | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | ngoguen | failed | 59ecad |  |
 |  | poppyPotatoe | failed | 2d4dd6 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
