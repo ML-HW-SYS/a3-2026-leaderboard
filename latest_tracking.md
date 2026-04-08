@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 07:11:16 PM ET`
+Last updated: `April 08, 2026 at 07:19:33 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 08 07:18 PM ET | tif03 | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | a7e904 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 08 07:14 PM ET | Shengwei | evaluated |  | submission.py | 67896e | 44.8/2.7/47.4 | 539.9 | 362.7 | 26.7 | 48.1 |
 | Apr 08 07:06 PM ET | tif03 | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | f612be | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 08 06:51 PM ET | kade_lin_is_here | evaluated |  | submission.py | 9ea924 | 32.1/4.2/36.2 | 521.0 | 237.6 | 112.3 | 151.2 |
 | Apr 08 06:03 PM ET | poppyPotatoe | failed_correctness | Correctness FAIL \| R2 (80.03%), R3 (75.46%), R4 (81.22%) \| max_abs_diff=13.82 | develop.py | 2f2d80 | 15.5/8.7/24.2 | 141.3 | 127.4 | 108.3 | 156.7 |

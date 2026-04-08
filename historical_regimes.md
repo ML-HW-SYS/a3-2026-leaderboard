@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 07:11:16 PM ET`
+Last updated: `April 08, 2026 at 07:19:33 PM ET`
 
 ## R1 (tok/s)
 
@@ -80,7 +80,7 @@ Last updated: `April 08, 2026 at 07:11:16 PM ET`
 | 10 | ashaikh23 | submission.py | 84a425 | 372.1 |
 | 11 | prousoglou | develop.py | 0263e4 | 371.5 |
 | 12 | pyjuan91 | develop.py | 92d1da | 364.9 |
-| 13 | Shengwei | submission.py | d3ac71 | 360.8 |
+| 13 | Shengwei | submission.py | 67896e | 362.7 |
 | 14 | gm | develop.py | fd15e9 | 357.3 |
 | 15 | sjb | develop.py | 7fb492 | 347.4 |
 | 16 | JasonWang07 | develop.py | 2ecd91 | 343.1 |
@@ -134,15 +134,15 @@ Last updated: `April 08, 2026 at 07:11:16 PM ET`
 | 2 | TheProphet | develop.py | cc54b3 | 24.0 |
 | 3 | chyyy | submission.py | 34cc06 | 24.8 |
 | 4 | ngoguen | submission.py | ecab75 | 26.3 |
-| 5 | gm | submission.py | 2898fc | 26.8 |
-| 6 | Rithvik | submission.py | 8e6767 | 26.9 |
-| 7 | omermoav | submission.py | dc63b9 | 26.9 |
-| 8 | zhumengzhiren | submission.py | 789cd3 | 27.9 |
-| 9 | abarat007 | submission.py | d7f626 | 28.1 |
-| 10 | pyjuan91 | submission.py | 430a83 | 28.8 |
-| 11 | ashaikh23 | submission.py | 84a425 | 29.1 |
-| 12 | landrum | develop.py | 4d2d51 | 29.6 |
-| 13 | Shengwei | submission.py | 67af79 | 30.0 |
+| 5 | Shengwei | submission.py | 67896e | 26.7 |
+| 6 | gm | submission.py | 2898fc | 26.8 |
+| 7 | Rithvik | submission.py | 8e6767 | 26.9 |
+| 8 | omermoav | submission.py | dc63b9 | 26.9 |
+| 9 | zhumengzhiren | submission.py | 789cd3 | 27.9 |
+| 10 | abarat007 | submission.py | d7f626 | 28.1 |
+| 11 | pyjuan91 | submission.py | 430a83 | 28.8 |
+| 12 | ashaikh23 | submission.py | 84a425 | 29.1 |
+| 13 | landrum | develop.py | 4d2d51 | 29.6 |
 | 14 | prousoglou | develop.py | 27721d | 30.4 |
 | 15 | nickname55555555 | submission.py | f60ff5 | 30.9 |
 | 16 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
@@ -196,20 +196,20 @@ Last updated: `April 08, 2026 at 07:11:16 PM ET`
 | 2 | TheProphet | develop.py | 5b306e | 46.2 |
 | 3 | chyyy | develop.py | 34cc06 | 47.5 |
 | 4 | Rithvik | submission.py | 1523b4 | 47.6 |
-| 5 | gm | submission.py | 2898fc | 48.5 |
-| 6 | ngoguen | submission.py | ecab75 | 49.6 |
-| 7 | chickfila | submission.py | f0956d | 49.6 |
-| 8 | zhumengzhiren | develop.py | cf2924 | 50.1 |
-| 9 | ashaikh23 | submission.py | 84a425 | 50.2 |
-| 10 | nickname55555555 | develop.py | f60ff5 | 50.6 |
-| 11 | abarat007 | submission.py | 260fed | 51.5 |
-| 12 | PurplePickle67 | submission.py | 2efdba | 51.9 |
-| 13 | sjb | develop.py | 387987 | 53.1 |
-| 14 | pyjuan91 | develop.py | 92d1da | 53.1 |
-| 15 | Yize | submission.py | c8c9f7 | 53.1 |
-| 16 | landrum | develop.py | 4d2d51 | 53.5 |
-| 17 | prousoglou | develop.py | 0263e4 | 55.4 |
-| 18 | Shengwei | submission.py | d3ac71 | 55.5 |
+| 5 | Shengwei | submission.py | 67896e | 48.1 |
+| 6 | gm | submission.py | 2898fc | 48.5 |
+| 7 | ngoguen | submission.py | ecab75 | 49.6 |
+| 8 | chickfila | submission.py | f0956d | 49.6 |
+| 9 | zhumengzhiren | develop.py | cf2924 | 50.1 |
+| 10 | ashaikh23 | submission.py | 84a425 | 50.2 |
+| 11 | nickname55555555 | develop.py | f60ff5 | 50.6 |
+| 12 | abarat007 | submission.py | 260fed | 51.5 |
+| 13 | PurplePickle67 | submission.py | 2efdba | 51.9 |
+| 14 | sjb | develop.py | 387987 | 53.1 |
+| 15 | pyjuan91 | develop.py | 92d1da | 53.1 |
+| 16 | Yize | submission.py | c8c9f7 | 53.1 |
+| 17 | landrum | develop.py | 4d2d51 | 53.5 |
+| 18 | prousoglou | develop.py | 0263e4 | 55.4 |
 | 19 | gravlax | submission.py | b1229d | 59.7 |
 | 20 | bl792 | develop.py | 09cd73 | 59.8 |
 | 21 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 59.9 |

@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 08, 2026 at 07:11:16 PM ET`
+Last updated: `April 08, 2026 at 07:19:33 PM ET`
 
 ## R1 (tok/s)
 
@@ -26,7 +26,7 @@ Last updated: `April 08, 2026 at 07:11:16 PM ET`
 | 18 | 13rabbit | evaluated | b38df9 | 542.8 |
 | 19 | gm | evaluated | 2898fc | 541.1 |
 | 20 | pyjuan91 | evaluated | fe8f27 | 540.9 |
-| 21 | Shengwei | evaluated | 67af79 | 540.6 |
+| 21 | Shengwei | evaluated | 67896e | 539.9 |
 | 22 | alifim | evaluated | 701077 | 539.6 |
 | 23 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
 | 24 | pallavi-srinivas | evaluated | b82073 | 539.0 |
@@ -84,7 +84,7 @@ Last updated: `April 08, 2026 at 07:11:16 PM ET`
 | 9 | ashaikh23 | evaluated | 84a425 | 372.1 |
 | 10 | prousoglou | evaluated | 570c63 | 368.2 |
 | 11 | pyjuan91 | evaluated | fe8f27 | 363.6 |
-| 12 | Shengwei | evaluated | 67af79 | 359.2 |
+| 12 | Shengwei | evaluated | 67896e | 362.7 |
 | 13 | gm | evaluated | 2898fc | 357.0 |
 | 14 | sjb | evaluated | 373553 | 346.4 |
 | 15 | JasonWang07 | evaluated | a4b405 | 342.2 |
@@ -143,14 +143,14 @@ Last updated: `April 08, 2026 at 07:11:16 PM ET`
 | 1 | - - | evaluated | adc0f3 | 21.8 |
 | 2 | chyyy | evaluated | 34cc06 | 24.8 |
 | 3 | ngoguen | evaluated | ecab75 | 26.3 |
-| 4 | gm | evaluated | 2898fc | 26.8 |
-| 5 | Rithvik | evaluated | 2924a0 | 27.1 |
-| 6 | zhumengzhiren | evaluated | cf2924 | 28.0 |
-| 7 | abarat007 | evaluated | d7f626 | 28.1 |
-| 8 | pyjuan91 | evaluated | fe8f27 | 28.8 |
-| 9 | ashaikh23 | evaluated | 84a425 | 29.1 |
-| 10 | landrum | evaluated | 61ab81 | 29.9 |
-| 11 | Shengwei | evaluated | 67af79 | 30.0 |
+| 4 | Shengwei | evaluated | 67896e | 26.7 |
+| 5 | gm | evaluated | 2898fc | 26.8 |
+| 6 | Rithvik | evaluated | 2924a0 | 27.1 |
+| 7 | zhumengzhiren | evaluated | cf2924 | 28.0 |
+| 8 | abarat007 | evaluated | d7f626 | 28.1 |
+| 9 | pyjuan91 | evaluated | fe8f27 | 28.8 |
+| 10 | ashaikh23 | evaluated | 84a425 | 29.1 |
+| 11 | landrum | evaluated | 61ab81 | 29.9 |
 | 12 | nickname55555555 | evaluated | 20d1ac | 30.9 |
 | 13 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
 | 14 | bl792 | evaluated | 09cd73 | 32.4 |
@@ -210,19 +210,19 @@ Last updated: `April 08, 2026 at 07:11:16 PM ET`
 | 1 | - - | evaluated | adc0f3 | 44.5 |
 | 2 | chyyy | evaluated | 34cc06 | 47.6 |
 | 3 | Rithvik | evaluated | 2924a0 | 48.0 |
-| 4 | gm | evaluated | 2898fc | 48.5 |
-| 5 | ngoguen | evaluated | ecab75 | 49.6 |
-| 6 | chickfila | evaluated | f0956d | 49.6 |
-| 7 | ashaikh23 | evaluated | 84a425 | 50.2 |
-| 8 | zhumengzhiren | evaluated | cf2924 | 50.2 |
-| 9 | nickname55555555 | evaluated | 20d1ac | 50.6 |
-| 10 | abarat007 | evaluated | d7f626 | 51.5 |
-| 11 | PurplePickle67 | evaluated | 68d34e | 52.1 |
-| 12 | Yize | evaluated | c8c9f7 | 53.1 |
-| 13 | pyjuan91 | evaluated | fe8f27 | 53.3 |
-| 14 | sjb | evaluated | 373553 | 53.6 |
-| 15 | landrum | evaluated | 61ab81 | 53.7 |
-| 16 | Shengwei | evaluated | 67af79 | 55.6 |
+| 4 | Shengwei | evaluated | 67896e | 48.1 |
+| 5 | gm | evaluated | 2898fc | 48.5 |
+| 6 | ngoguen | evaluated | ecab75 | 49.6 |
+| 7 | chickfila | evaluated | f0956d | 49.6 |
+| 8 | ashaikh23 | evaluated | 84a425 | 50.2 |
+| 9 | zhumengzhiren | evaluated | cf2924 | 50.2 |
+| 10 | nickname55555555 | evaluated | 20d1ac | 50.6 |
+| 11 | abarat007 | evaluated | d7f626 | 51.5 |
+| 12 | PurplePickle67 | evaluated | 68d34e | 52.1 |
+| 13 | Yize | evaluated | c8c9f7 | 53.1 |
+| 14 | pyjuan91 | evaluated | fe8f27 | 53.3 |
+| 15 | sjb | evaluated | 373553 | 53.6 |
+| 16 | landrum | evaluated | 61ab81 | 53.7 |
 | 17 | gravlax | evaluated | b1229d | 59.7 |
 | 18 | bl792 | evaluated | 09cd73 | 59.9 |
 | 19 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 59.9 |
