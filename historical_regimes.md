@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 04:41:35 PM ET`
+Last updated: `April 08, 2026 at 04:49:28 PM ET`
 
 ## R1 (tok/s)
 
@@ -76,7 +76,7 @@ Last updated: `April 08, 2026 at 04:41:35 PM ET`
 | 8 | abarat007 | submission.py | d7f626 | 378.6 |
 | 9 | omermoav | submission.py | dc63b9 | 374.3 |
 | 10 | ashaikh23 | submission.py | 84a425 | 372.1 |
-| 11 | prousoglou | develop.py | 27721d | 371.2 |
+| 11 | prousoglou | develop.py | 0263e4 | 371.5 |
 | 12 | pyjuan91 | develop.py | 92d1da | 364.9 |
 | 13 | Shengwei | submission.py | d3ac71 | 360.8 |
 | 14 | gm | develop.py | fd15e9 | 357.3 |
@@ -202,7 +202,7 @@ Last updated: `April 08, 2026 at 04:41:35 PM ET`
 | 14 | pyjuan91 | develop.py | 92d1da | 53.1 |
 | 15 | Yize | submission.py | c8c9f7 | 53.1 |
 | 16 | landrum | develop.py | 4d2d51 | 53.5 |
-| 17 | prousoglou | develop.py | 27721d | 55.5 |
+| 17 | prousoglou | develop.py | 0263e4 | 55.4 |
 | 18 | Shengwei | submission.py | d3ac71 | 55.5 |
 | 19 | gravlax | submission.py | b1229d | 59.7 |
 | 20 | bl792 | develop.py | 09cd73 | 59.8 |
