@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 09, 2026 at 01:56:57 PM ET`
+Last updated: `April 09, 2026 at 02:05:37 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 09 01:59 PM ET | co-smith | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | dd7baa | 15.3/9.6/24.9 | 166.6 | 119.4 | 307.9 | 246.2 |
+| Apr 09 01:58 PM ET | pallavi-srinivas | evaluated |  | develop.py | 3d834e | 41.2/3.6/44.9 | 539.9 | 307.3 | 104.2 | 150.1 |
 | Apr 09 01:40 PM ET | co-smith | failed_correctness | R1: ERR: subprocess failed with exit code 1 \| R2: ERR: subprocess failed with exit code 1 \| R3: ERR: subprocess faile... | submission.py | 0de516 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 09 01:17 PM ET | zionrangers | evaluated |  | submission.py | 2a9d89 | 18.8/3.5/22.3 | 521.8 | 257.1 | 66.1 | 71.5 |
 | Apr 09 01:17 PM ET | zionrangers | evaluated |  | develop.py | 2a9d89 | 18.8/3.5/22.3 | 515.6 | 256.8 | 66.2 | 71.4 |
