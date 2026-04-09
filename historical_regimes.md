@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 09, 2026 at 02:42:32 AM ET`
+Last updated: `April 09, 2026 at 02:50:54 AM ET`
 
 ## R1 (tok/s)
 
@@ -156,7 +156,7 @@ Last updated: `April 09, 2026 at 02:42:32 AM ET`
 | 24 | sjb | develop.py | 7fb492 | 50.4 |
 | 25 | ishan-pat | submission.py | 564670 | 55.1 |
 | 26 | Junyi Li | submission.py | c7a1b3 | 60.9 |
-| 27 | Licha | develop.py | b20b8e | 62.1 |
+| 27 | Licha | submission.py | 9666cd | 61.8 |
 | 28 | happyface | submission.py | 9f7886 | 63.4 |
 | 29 | alifim | submission.py | 701077 | 64.8 |
 | 30 | beratcelik | submission.py | 11c1b8 | 65.4 |
@@ -224,7 +224,7 @@ Last updated: `April 09, 2026 at 02:42:32 AM ET`
 | 30 | alifim | submission.py | 701077 | 109.2 |
 | 31 | beratcelik | submission.py | 11c1b8 | 110.5 |
 | 32 | Junyi Li | submission.py | c7a1b3 | 113.1 |
-| 33 | Licha | submission.py | 094c4b | 116.0 |
+| 33 | Licha | submission.py | 9666cd | 115.6 |
 | 34 | ethanchen | submission.py | bf6f9e | 123.0 |
 | 35 | TA | submission.py | 324cb8 | 131.7 |
 | 36 | nicknam534534 | develop.py | cd4c9b | 134.6 |
