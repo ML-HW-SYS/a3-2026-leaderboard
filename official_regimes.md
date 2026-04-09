@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 09, 2026 at 03:37:51 PM ET`
+Last updated: `April 09, 2026 at 03:46:49 PM ET`
 
 ## R1 (tok/s)
 
@@ -63,7 +63,7 @@ Last updated: `April 09, 2026 at 03:37:51 PM ET`
 | 55 | poppyPotatoe | evaluated | eea264 | 144.2 |
 | 56 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | kade_lin_is_here | failed | f35c48 |  |
+|  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
@@ -131,7 +131,7 @@ Last updated: `April 09, 2026 at 03:37:51 PM ET`
 | 55 | poppyPotatoe | evaluated | eea264 | 109.8 |
 | 56 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | kade_lin_is_here | failed | f35c48 |  |
+|  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
@@ -199,7 +199,7 @@ Last updated: `April 09, 2026 at 03:37:51 PM ET`
 | 55 | nicknam534534 | evaluated | 83a901 | 405.3 |
 | 56 | Decode_speed | evaluated | 097a6b | 412.7 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | kade_lin_is_here | failed | f35c48 |  |
+|  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
@@ -267,7 +267,7 @@ Last updated: `April 09, 2026 at 03:37:51 PM ET`
 | 55 | nicknam534534 | evaluated | 83a901 | 268.7 |
 | 56 | Decode_speed | evaluated | 097a6b | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | kade_lin_is_here | failed | f35c48 |  |
+|  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |

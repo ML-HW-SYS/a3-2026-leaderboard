@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 09, 2026 at 03:37:51 PM ET`
+Last updated: `April 09, 2026 at 03:46:49 PM ET`
 
 ## R1 (tok/s)
 
@@ -168,11 +168,11 @@ Last updated: `April 09, 2026 at 03:37:51 PM ET`
 | 34 | leoli | submission.py | 5cdac4 | 71.0 |
 | 35 | ethanchen | submission.py | bf6f9e | 74.0 |
 | 36 | TA | submission.py | 324cb8 | 83.2 |
-| 37 | 13rabbit | develop.py | b38df9 | 100.0 |
-| 38 | jl | submission.py | e6ce85 | 101.9 |
-| 39 | pallavi-srinivas | develop.py | 3d834e | 104.2 |
-| 40 | lipphi | develop.py | d58cae | 104.4 |
-| 41 | kade_lin_is_here | submission.py | 5403c9 | 108.4 |
+| 37 | kade_lin_is_here | submission.py | 0d2dc7 | 94.2 |
+| 38 | 13rabbit | develop.py | b38df9 | 100.0 |
+| 39 | jl | submission.py | e6ce85 | 101.9 |
+| 40 | pallavi-srinivas | develop.py | 3d834e | 104.2 |
+| 41 | lipphi | develop.py | d58cae | 104.4 |
 | 42 | abhik | submission.py | 93ffca | 140.3 |
 | 43 | tuo | submission.py | 92c00e | 166.9 |
 | 44 | nicknam534534 | develop.py | cd4c9b | 210.5 |
