@@ -1,10 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 09, 2026 at 11:33:45 AM ET`
+Last updated: `April 09, 2026 at 11:41:37 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Apr 09 11:28 AM ET | co-smith | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | b0b975 | 19.9/6.2/26.1 | 523.6 | 170.1 | 307.4 | 245.4 |
+| Apr 09 11:28 AM ET | co-smith | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | b0b975 | 19.8/6.2/26.0 | 523.7 | 169.4 | 309.0 | 246.9 |
 | Apr 09 02:47 AM ET | zionrangers | evaluated |  | submission.py | 9a2545 | 19.5/5.7/25.2 | 533.6 | 176.7 | 279.8 | 188.8 |
 | Apr 09 02:38 AM ET | Licha | evaluated |  | submission.py | 9666cd | 18.9/3.8/22.7 | 534.4 | 238.1 | 61.8 | 115.6 |
 | Apr 09 02:33 AM ET | zionrangers | evaluated |  | submission.py | e66cd3 | 20.3/9.0/29.3 | 533.9 | 115.8 | 676.9 | 219.4 |
