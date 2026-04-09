@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 08:13:06 PM ET`
+Last updated: `April 08, 2026 at 08:21:45 PM ET`
 
 ## R1 (tok/s)
 
@@ -42,21 +42,21 @@ Last updated: `April 08, 2026 at 08:13:06 PM ET`
 | 34 | gravlax | develop.py | 1f23d9 | 534.6 |
 | 35 | chickfila | submission.py | 29860a | 534.6 |
 | 36 | Yize | submission.py | c8c9f7 | 534.4 |
-| 37 | Junyi Li | submission.py | 2e381b | 529.4 |
-| 38 | bl792 | submission.py | 3b3a8a | 528.5 |
-| 39 | dylanjhnsondj | develop.py | 55a3fd | 528.5 |
-| 40 | ethanchen | submission.py | a0d359 | 528.1 |
-| 41 | Rithvik | submission.py | 1a7556 | 527.1 |
-| 42 | castillo | submission.py | 0e93de | 526.6 |
-| 43 | yb | submission.py | ea23ab | 525.9 |
-| 44 | nicknam534534 | develop.py | 83a901 | 525.8 |
-| 45 | kade_lin_is_here | submission.py | 6ae977 | 525.1 |
-| 46 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
-| 47 | yoursun1220 | submission.py | f4e2be | 524.2 |
-| 48 | zionrangers | develop.py | 4d6fe5 | 524.1 |
-| 49 | act | submission.py | 899777 | 523.9 |
-| 50 | hw_bloss | submission.py | 2d26da | 523.5 |
-| 51 | Licha | submission.py | 8fdc3a | 521.4 |
+| 37 | Licha | submission.py | af9273 | 531.8 |
+| 38 | Junyi Li | submission.py | 2e381b | 529.4 |
+| 39 | bl792 | submission.py | 3b3a8a | 528.5 |
+| 40 | dylanjhnsondj | develop.py | 55a3fd | 528.5 |
+| 41 | ethanchen | submission.py | a0d359 | 528.1 |
+| 42 | Rithvik | submission.py | 1a7556 | 527.1 |
+| 43 | castillo | submission.py | 0e93de | 526.6 |
+| 44 | yb | submission.py | ea23ab | 525.9 |
+| 45 | nicknam534534 | develop.py | 83a901 | 525.8 |
+| 46 | kade_lin_is_here | submission.py | 6ae977 | 525.1 |
+| 47 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
+| 48 | yoursun1220 | submission.py | f4e2be | 524.2 |
+| 49 | zionrangers | develop.py | 4d6fe5 | 524.1 |
+| 50 | act | submission.py | 899777 | 523.9 |
+| 51 | hw_bloss | submission.py | 2d26da | 523.5 |
 | 52 | PurplePickle67 | submission.py | 68d34e | 520.5 |
 | 53 | jbc | submission.py | 12bb20 | 520.4 |
 | 54 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
@@ -234,7 +234,7 @@ Last updated: `April 08, 2026 at 08:13:06 PM ET`
 | 40 | tuo | submission.py | 4274da | 160.5 |
 | 41 | abhik | submission.py | 572159 | 172.1 |
 | 42 | pallavi-srinivas | submission.py | b82073 | 192.2 |
-| 43 | Licha | submission.py | 8fdc3a | 215.0 |
+| 43 | Licha | submission.py | af9273 | 213.0 |
 | 44 | fishyfins | submission.py | 6c0e20 | 232.9 |
 | 45 | dylanjhnsondj | submission.py | c4e1ab | 236.8 |
 | 46 | hw_bloss | submission.py | b2767b | 237.0 |

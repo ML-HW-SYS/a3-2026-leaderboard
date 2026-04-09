@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 08:13:06 PM ET`
+Last updated: `April 08, 2026 at 08:21:45 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 08 08:15 PM ET | Shengwei | evaluated |  | submission.py | 20b468 | 21.2/2.7/23.9 | 537.5 | 359.3 | 30.1 | 55.5 |
+| Apr 08 08:09 PM ET | Licha | evaluated |  | submission.py | af9273 | 37.5/5.3/42.8 | 531.8 | 188.6 | 202.8 | 213.0 |
 | Apr 08 08:02 PM ET | kade_lin_is_here | failed_correctness | R2: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. St... | submission.py | 030bc1 | 35.1/2.1/37.3 | 518.7 | 0.0 | 136.9 | 151.8 |
 | Apr 08 07:59 PM ET | tif03 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | 8c9e63 | 27.0/6.2/33.2 | 527.1 | 169.3 | 309.0 | 247.1 |
 | Apr 08 07:31 PM ET | kade_lin_is_here | evaluated |  | submission.py | 6ceaa5 | 22.4/4.2/26.6 | 520.6 | 236.7 | 113.2 | 152.6 |
