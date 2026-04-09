@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 11:19:09 PM ET`
+Last updated: `April 08, 2026 at 11:26:57 PM ET`
 
 ## R1 (tok/s)
 
@@ -168,7 +168,7 @@ Last updated: `April 08, 2026 at 11:19:09 PM ET`
 | 36 | jl | submission.py | e6ce85 | 101.9 |
 | 37 | lipphi | develop.py | d58cae | 104.4 |
 | 38 | kade_lin_is_here | submission.py | 9ea924 | 112.3 |
-| 39 | Licha | develop.py | 6e4ac3 | 127.9 |
+| 39 | Licha | develop.py | bfed20 | 127.6 |
 | 40 | abhik | submission.py | 93ffca | 140.3 |
 | 41 | tuo | submission.py | 92c00e | 166.9 |
 | 42 | pallavi-srinivas | submission.py | c7a655 | 190.0 |
@@ -231,7 +231,7 @@ Last updated: `April 08, 2026 at 11:19:09 PM ET`
 | 37 | jl | submission.py | e6ce85 | 148.1 |
 | 38 | lipphi | submission.py | a3a71b | 150.9 |
 | 39 | kade_lin_is_here | submission.py | 9ea924 | 151.2 |
-| 40 | Licha | submission.py | 6e4ac3 | 156.2 |
+| 40 | Licha | develop.py | bfed20 | 155.8 |
 | 41 | tuo | submission.py | 4274da | 160.5 |
 | 42 | abhik | submission.py | 572159 | 172.1 |
 | 43 | pallavi-srinivas | submission.py | b82073 | 192.2 |

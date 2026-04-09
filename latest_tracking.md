@@ -1,10 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 11:19:09 PM ET`
+Last updated: `April 08, 2026 at 11:26:57 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Apr 08 11:12 PM ET | Licha | evaluated |  | submission.py | bfed20 | 19.1/4.5/23.6 | 532.8 | 212.4 | 127.9 | 156.3 |
+| Apr 08 11:12 PM ET | Licha | evaluated |  | develop.py | bfed20 | 19.1/4.5/23.6 | 524.6 | 212.3 | 127.6 | 155.8 |
 | Apr 08 11:07 PM ET | zionrangers | evaluated |  | submission.py | dc3616 | 19.6/6.2/25.8 | 539.2 | 170.0 | 309.6 | 248.6 |
 | Apr 08 10:57 PM ET | nickname55555555 | evaluated |  | submission.py | e3c641 | 76.6/2.8/79.4 | 561.0 | 336.8 | 32.6 | 51.9 |
 | Apr 08 10:57 PM ET | nickname55555555 | evaluated |  | develop.py | e3c641 | 26.2/2.8/28.9 | 563.5 | 337.7 | 31.3 | 50.9 |
