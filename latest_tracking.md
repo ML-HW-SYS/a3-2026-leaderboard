@@ -1,10 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 09, 2026 at 12:56:54 PM ET`
+Last updated: `April 09, 2026 at 01:04:33 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Apr 09 12:44 PM ET | zionrangers | failed_correctness | R1: SETUP: ERR: AttributeError: 'AssignmentTransformerModel' object has no attribute '_forward_with_mask' \| R2: SETUP... | submission.py | 2b7434 | 14.4/0.0/14.4 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 09 12:44 PM ET | zionrangers | failed_correctness | R1: SETUP: ERR: AttributeError: 'AssignmentTransformerModel' object has no attribute '_forward_with_mask' \| R2: SETUP... | develop.py | 2b7434 | 14.3/0.0/14.3 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 09 12:14 PM ET | co-smith | failed_correctness | R1: ERR: subprocess failed with exit code 1 \| R2: ERR: subprocess failed with exit code 1 \| R3: ERR: subprocess faile... | submission.py | f6d4b5 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 09 12:14 PM ET | co-smith | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | f6d4b5 | 30.4/17.7/48.1 | 70.2 | 62.7 | 309.1 | 247.4 |
 | Apr 09 12:01 PM ET | co-smith | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 0036d1 | 20.0/6.2/26.2 | 520.9 | 169.2 | 309.2 | 247.2 |
