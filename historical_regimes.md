@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 11:10:49 PM ET`
+Last updated: `April 08, 2026 at 11:19:09 PM ET`
 
 ## R1 (tok/s)
 
@@ -36,10 +36,10 @@ Last updated: `April 08, 2026 at 11:10:49 PM ET`
 | 28 | pyjuan91 | submission.py | fe8f27 | 540.9 |
 | 29 | andrasferenczy | submission.py | 6204c7 | 540.6 |
 | 30 | abhik | develop.py | 41a3ec | 539.5 |
-| 31 | stefan | develop.py | 9a25e1 | 539.1 |
-| 32 | ishan-pat | develop.py | 75d32d | 537.5 |
-| 33 | sjb | develop.py | 3359ec | 537.0 |
-| 34 | zionrangers | develop.py | 7737ad | 535.8 |
+| 31 | zionrangers | submission.py | dc3616 | 539.2 |
+| 32 | stefan | develop.py | 9a25e1 | 539.1 |
+| 33 | ishan-pat | develop.py | 75d32d | 537.5 |
+| 34 | sjb | develop.py | 3359ec | 537.0 |
 | 35 | lipphi | submission.py | a3a71b | 534.8 |
 | 36 | gravlax | develop.py | 1f23d9 | 534.6 |
 | 37 | chickfila | submission.py | 29860a | 534.6 |
@@ -107,14 +107,14 @@ Last updated: `April 08, 2026 at 11:10:49 PM ET`
 | 37 | bl792 | develop.py | 09cd73 | 239.0 |
 | 38 | kade_lin_is_here | submission.py | 41a1de | 237.8 |
 | 39 | abhik | submission.py | 572159 | 224.0 |
-| 40 | Licha | develop.py | 6e4ac3 | 212.0 |
+| 40 | Licha | submission.py | bfed20 | 212.4 |
 | 41 | pallavi-srinivas | submission.py | 52387e | 207.4 |
 | 42 | tuo | submission.py | 3d6d40 | 204.6 |
 | 43 | Sulaiman Alam | submission.py | c7ede2 | 197.4 |
 | 44 | your_nickname_here | submission.py | 59e245 | 173.4 |
 | 45 | stefan | submission.py | 583665 | 170.2 |
-| 46 | yoursun1220 | submission.py | 27e400 | 169.9 |
-| 47 | zionrangers | develop.py | 7737ad | 169.9 |
+| 46 | zionrangers | submission.py | dc3616 | 170.0 |
+| 47 | yoursun1220 | submission.py | 27e400 | 169.9 |
 | 48 | yb | submission.py | 2aa1a9 | 169.8 |
 | 49 | hw_bloss | submission.py | b2767b | 169.8 |
 | 50 | Junyi Li | submission.py | c7a1b3 | 169.7 |
@@ -241,8 +241,8 @@ Last updated: `April 08, 2026 at 11:10:49 PM ET`
 | 47 | Sulaiman Alam | develop.py | c7ede2 | 244.4 |
 | 48 | your_nickname_here | submission.py | 59e245 | 245.7 |
 | 49 | stefan | submission.py | 583665 | 247.3 |
-| 50 | yoursun1220 | submission.py | 27e400 | 248.7 |
-| 51 | zionrangers | develop.py | 7737ad | 248.7 |
+| 50 | zionrangers | submission.py | dc3616 | 248.6 |
+| 51 | yoursun1220 | submission.py | 27e400 | 248.7 |
 | 52 | poppyPotatoe | submission.py | 311dc9 | 248.9 |
 | 53 | jbc | develop.py | 4e7308 | 248.9 |
 | 54 | castillo | develop.py | 0e93de | 250.2 |
