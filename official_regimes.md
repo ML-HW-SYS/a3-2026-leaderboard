@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 08, 2026 at 09:07:54 PM ET`
+Last updated: `April 08, 2026 at 09:15:14 PM ET`
 
 ## R1 (tok/s)
 
