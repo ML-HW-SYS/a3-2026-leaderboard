@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 09, 2026 at 02:27:39 PM ET`
+Last updated: `April 09, 2026 at 02:35:28 PM ET`
 
 ## R1 (tok/s)
 
@@ -62,7 +62,7 @@ Last updated: `April 09, 2026 at 02:27:39 PM ET`
 | 54 | abhik | evaluated | bf55dc | 157.9 |
 | 55 | poppyPotatoe | evaluated | eea264 | 144.2 |
 | 56 | Decode_speed | evaluated | 097a6b | 104.5 |
-|  | co-smith | failed | dd7baa |  |
+|  | co-smith | failed | d8e0da |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -130,7 +130,7 @@ Last updated: `April 09, 2026 at 02:27:39 PM ET`
 | 54 | abhik | evaluated | bf55dc | 127.8 |
 | 55 | poppyPotatoe | evaluated | eea264 | 109.8 |
 | 56 | Decode_speed | evaluated | 097a6b | 77.3 |
-|  | co-smith | failed | dd7baa |  |
+|  | co-smith | failed | d8e0da |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -198,7 +198,7 @@ Last updated: `April 09, 2026 at 02:27:39 PM ET`
 | 54 | yb | evaluated | ea23ab | 312.3 |
 | 55 | nicknam534534 | evaluated | 83a901 | 405.3 |
 | 56 | Decode_speed | evaluated | 097a6b | 412.7 |
-|  | co-smith | failed | dd7baa |  |
+|  | co-smith | failed | d8e0da |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -266,7 +266,7 @@ Last updated: `April 09, 2026 at 02:27:39 PM ET`
 | 54 | poppyPotatoe | evaluated | eea264 | 251.9 |
 | 55 | nicknam534534 | evaluated | 83a901 | 268.7 |
 | 56 | Decode_speed | evaluated | 097a6b | 270.3 |
-|  | co-smith | failed | dd7baa |  |
+|  | co-smith | failed | d8e0da |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | SIUUU | failed | ad9184 |  |
