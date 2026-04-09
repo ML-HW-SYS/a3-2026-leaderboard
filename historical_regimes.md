@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 09, 2026 at 01:06:06 AM ET`
+Last updated: `April 09, 2026 at 01:13:54 AM ET`
 
 ## R1 (tok/s)
 
@@ -156,7 +156,7 @@ Last updated: `April 09, 2026 at 01:06:06 AM ET`
 | 24 | sjb | develop.py | 7fb492 | 50.4 |
 | 25 | ishan-pat | submission.py | 564670 | 55.1 |
 | 26 | Junyi Li | submission.py | c7a1b3 | 60.9 |
-| 27 | Licha | submission.py | 094c4b | 62.5 |
+| 27 | Licha | develop.py | b20b8e | 62.1 |
 | 28 | happyface | submission.py | 9f7886 | 63.4 |
 | 29 | alifim | submission.py | 701077 | 64.8 |
 | 30 | beratcelik | submission.py | 11c1b8 | 65.4 |
