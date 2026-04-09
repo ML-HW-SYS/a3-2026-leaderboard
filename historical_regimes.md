@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 11:41:37 PM ET`
+Last updated: `April 08, 2026 at 11:49:25 PM ET`
 
 ## R1 (tok/s)
 
@@ -105,9 +105,9 @@ Last updated: `April 08, 2026 at 11:41:37 PM ET`
 | 35 | fishyfins | develop.py | 87e789 | 243.3 |
 | 36 | 13rabbit | develop.py | b38df9 | 243.3 |
 | 37 | bl792 | develop.py | 09cd73 | 239.0 |
-| 38 | kade_lin_is_here | submission.py | 41a1de | 237.8 |
-| 39 | abhik | submission.py | 572159 | 224.0 |
-| 40 | Licha | submission.py | bfed20 | 212.4 |
+| 38 | Licha | submission.py | 094c4b | 238.2 |
+| 39 | kade_lin_is_here | submission.py | 41a1de | 237.8 |
+| 40 | abhik | submission.py | 572159 | 224.0 |
 | 41 | pallavi-srinivas | submission.py | 52387e | 207.4 |
 | 42 | tuo | submission.py | 3d6d40 | 204.6 |
 | 43 | Sulaiman Alam | submission.py | c7ede2 | 197.4 |
@@ -156,19 +156,19 @@ Last updated: `April 08, 2026 at 11:41:37 PM ET`
 | 24 | sjb | develop.py | 7fb492 | 50.4 |
 | 25 | ishan-pat | submission.py | 564670 | 55.1 |
 | 26 | Junyi Li | submission.py | c7a1b3 | 60.9 |
-| 27 | happyface | submission.py | 9f7886 | 63.4 |
-| 28 | alifim | submission.py | 701077 | 64.8 |
-| 29 | beratcelik | submission.py | 11c1b8 | 65.4 |
-| 30 | JasonWang07 | submission.py | f27837 | 68.2 |
-| 31 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 70.9 |
-| 32 | leoli | submission.py | 5cdac4 | 71.0 |
-| 33 | ethanchen | submission.py | bf6f9e | 74.0 |
-| 34 | TA | submission.py | 324cb8 | 83.2 |
-| 35 | 13rabbit | develop.py | b38df9 | 100.0 |
-| 36 | jl | submission.py | e6ce85 | 101.9 |
-| 37 | lipphi | develop.py | d58cae | 104.4 |
-| 38 | kade_lin_is_here | submission.py | 9ea924 | 112.3 |
-| 39 | Licha | develop.py | bfed20 | 127.6 |
+| 27 | Licha | submission.py | 094c4b | 62.5 |
+| 28 | happyface | submission.py | 9f7886 | 63.4 |
+| 29 | alifim | submission.py | 701077 | 64.8 |
+| 30 | beratcelik | submission.py | 11c1b8 | 65.4 |
+| 31 | JasonWang07 | submission.py | f27837 | 68.2 |
+| 32 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 70.9 |
+| 33 | leoli | submission.py | 5cdac4 | 71.0 |
+| 34 | ethanchen | submission.py | bf6f9e | 74.0 |
+| 35 | TA | submission.py | 324cb8 | 83.2 |
+| 36 | 13rabbit | develop.py | b38df9 | 100.0 |
+| 37 | jl | submission.py | e6ce85 | 101.9 |
+| 38 | lipphi | develop.py | d58cae | 104.4 |
+| 39 | kade_lin_is_here | submission.py | 9ea924 | 112.3 |
 | 40 | abhik | submission.py | 93ffca | 140.3 |
 | 41 | tuo | submission.py | 92c00e | 166.9 |
 | 42 | pallavi-srinivas | submission.py | c7a655 | 190.0 |
@@ -224,14 +224,14 @@ Last updated: `April 08, 2026 at 11:41:37 PM ET`
 | 30 | alifim | submission.py | 701077 | 109.2 |
 | 31 | beratcelik | submission.py | 11c1b8 | 110.5 |
 | 32 | Junyi Li | submission.py | c7a1b3 | 113.1 |
-| 33 | ethanchen | submission.py | bf6f9e | 123.0 |
-| 34 | TA | submission.py | 324cb8 | 131.7 |
-| 35 | nicknam534534 | develop.py | cd4c9b | 134.6 |
-| 36 | 13rabbit | develop.py | b38df9 | 142.0 |
-| 37 | jl | submission.py | e6ce85 | 148.1 |
-| 38 | lipphi | submission.py | a3a71b | 150.9 |
-| 39 | kade_lin_is_here | submission.py | 9ea924 | 151.2 |
-| 40 | Licha | develop.py | bfed20 | 155.8 |
+| 33 | Licha | submission.py | 094c4b | 116.0 |
+| 34 | ethanchen | submission.py | bf6f9e | 123.0 |
+| 35 | TA | submission.py | 324cb8 | 131.7 |
+| 36 | nicknam534534 | develop.py | cd4c9b | 134.6 |
+| 37 | 13rabbit | develop.py | b38df9 | 142.0 |
+| 38 | jl | submission.py | e6ce85 | 148.1 |
+| 39 | lipphi | submission.py | a3a71b | 150.9 |
+| 40 | kade_lin_is_here | submission.py | 9ea924 | 151.2 |
 | 41 | tuo | submission.py | 4274da | 160.5 |
 | 42 | abhik | submission.py | 572159 | 172.1 |
 | 43 | pallavi-srinivas | submission.py | b82073 | 192.2 |
