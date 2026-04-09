@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 10:54:03 PM ET`
+Last updated: `April 08, 2026 at 11:02:52 PM ET`
 
 ## R1 (tok/s)
 
@@ -16,13 +16,13 @@ Last updated: `April 08, 2026 at 10:54:03 PM ET`
 | 8 | ashaikh23 | submission.py | 062f0e | 563.6 |
 | 9 | abarat007 | develop.py | d7f626 | 562.9 |
 | 10 | JasonWang07 | submission.py | 1b4aca | 561.1 |
-| 11 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 560.4 |
-| 12 | your_nickname_here | submission.py | 59e245 | 559.6 |
-| 13 | blabrl | develop.py | 9873f9 | 559.5 |
-| 14 | chyyy | submission.py | 56b321 | 557.7 |
-| 15 | prousoglou | submission.py | 570c63 | 556.7 |
-| 16 | TA | submission.py | a6e863 | 556.6 |
-| 17 | nickname55555555 | submission.py | 138f26 | 555.5 |
+| 11 | nickname55555555 | submission.py | e3c641 | 561.0 |
+| 12 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 560.4 |
+| 13 | your_nickname_here | submission.py | 59e245 | 559.6 |
+| 14 | blabrl | develop.py | 9873f9 | 559.5 |
+| 15 | chyyy | submission.py | 56b321 | 557.7 |
+| 16 | prousoglou | submission.py | 570c63 | 556.7 |
+| 17 | TA | submission.py | a6e863 | 556.6 |
 | 18 | gm | develop.py | a57e9f | 548.9 |
 | 19 | leoli | submission.py | 7ef4b9 | 544.9 |
 | 20 | happyface | develop.py | 7255fc | 544.6 |
@@ -84,8 +84,8 @@ Last updated: `April 08, 2026 at 10:54:03 PM ET`
 | 14 | gm | develop.py | fd15e9 | 357.3 |
 | 15 | sjb | develop.py | 7fb492 | 347.4 |
 | 16 | JasonWang07 | develop.py | 2ecd91 | 343.1 |
-| 17 | Rithvik | submission.py | 2924a0 | 335.8 |
-| 18 | nickname55555555 | submission.py | 138f26 | 334.8 |
+| 17 | nickname55555555 | submission.py | e3c641 | 336.8 |
+| 18 | Rithvik | submission.py | 2924a0 | 335.8 |
 | 19 | leoli | submission.py | 5cdac4 | 327.5 |
 | 20 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 326.5 |
 | 21 | jl | submission.py | e6ce85 | 313.1 |
