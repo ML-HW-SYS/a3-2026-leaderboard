@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 09, 2026 at 12:11:32 PM ET`
+Last updated: `April 09, 2026 at 12:18:56 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 09 12:14 PM ET | co-smith | failed_correctness | R1: ERR: subprocess failed with exit code 1 \| R2: ERR: subprocess failed with exit code 1 \| R3: ERR: subprocess faile... | submission.py | f6d4b5 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 09 12:01 PM ET | co-smith | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 0036d1 | 20.0/6.2/26.2 | 520.9 | 169.2 | 309.2 | 247.2 |
 | Apr 09 11:28 AM ET | co-smith | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | b0b975 | 19.9/6.2/26.1 | 523.6 | 170.1 | 307.4 | 245.4 |
 | Apr 09 11:28 AM ET | co-smith | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | b0b975 | 19.8/6.2/26.0 | 523.7 | 169.4 | 309.0 | 246.9 |
