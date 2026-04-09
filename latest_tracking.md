@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 07:57:03 PM ET`
+Last updated: `April 08, 2026 at 08:05:45 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 08 08:02 PM ET | kade_lin_is_here | failed_correctness | R2: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. St... | submission.py | 030bc1 | 35.1/2.1/37.3 | 518.7 | 0.0 | 136.9 | 151.8 |
+| Apr 08 07:59 PM ET | tif03 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | 8c9e63 | 27.0/6.2/33.2 | 527.1 | 169.3 | 309.0 | 247.1 |
 | Apr 08 07:31 PM ET | kade_lin_is_here | evaluated |  | submission.py | 6ceaa5 | 22.4/4.2/26.6 | 520.6 | 236.7 | 113.2 | 152.6 |
 | Apr 08 07:20 PM ET | tif03 | failed_correctness | R1: SETUP: ERR: NotImplementedError: Paste your Stage 3 fused projection remap helper here before moving on. \| R2: SE... | develop.py | bbaa4e | 13.3/0.0/13.3 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 08 07:18 PM ET | tif03 | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | a7e904 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
