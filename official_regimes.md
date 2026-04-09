@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 09, 2026 at 02:34:38 AM ET`
+Last updated: `April 09, 2026 at 02:42:32 AM ET`
 
 ## R1 (tok/s)
 
@@ -26,18 +26,18 @@ Last updated: `April 09, 2026 at 02:34:38 AM ET`
 | 18 | 13rabbit | evaluated | b38df9 | 542.8 |
 | 19 | gm | evaluated | 2898fc | 541.1 |
 | 20 | pyjuan91 | evaluated | fe8f27 | 540.9 |
-| 21 | zionrangers | evaluated | 369a23 | 540.7 |
-| 22 | alifim | evaluated | 701077 | 539.6 |
-| 23 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
-| 24 | pallavi-srinivas | evaluated | b82073 | 539.0 |
-| 25 | ngoguen | evaluated | ecab75 | 538.2 |
-| 26 | stefan | evaluated | 583665 | 538.1 |
-| 27 | Shengwei | evaluated | 20b468 | 537.5 |
-| 28 | landrum | evaluated | 61ab81 | 535.7 |
-| 29 | sjb | evaluated | 373553 | 535.3 |
-| 30 | lipphi | evaluated | a3a71b | 534.8 |
-| 31 | chickfila | evaluated | f0956d | 534.5 |
-| 32 | Yize | evaluated | c8c9f7 | 534.4 |
+| 21 | alifim | evaluated | 701077 | 539.6 |
+| 22 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
+| 23 | pallavi-srinivas | evaluated | b82073 | 539.0 |
+| 24 | ngoguen | evaluated | ecab75 | 538.2 |
+| 25 | stefan | evaluated | 583665 | 538.1 |
+| 26 | Shengwei | evaluated | 20b468 | 537.5 |
+| 27 | landrum | evaluated | 61ab81 | 535.7 |
+| 28 | sjb | evaluated | 373553 | 535.3 |
+| 29 | lipphi | evaluated | a3a71b | 534.8 |
+| 30 | chickfila | evaluated | f0956d | 534.5 |
+| 31 | Yize | evaluated | c8c9f7 | 534.4 |
+| 32 | zionrangers | evaluated | e66cd3 | 533.9 |
 | 33 | kade_lin_is_here | evaluated | 5403c9 | 532.5 |
 | 34 | gravlax | evaluated | b1229d | 532.3 |
 | 35 | Licha | evaluated | b20b8e | 529.6 |
@@ -113,20 +113,20 @@ Last updated: `April 09, 2026 at 02:34:38 AM ET`
 | 38 | pallavi-srinivas | evaluated | b82073 | 207.1 |
 | 39 | tuo | evaluated | 3d6d40 | 204.6 |
 | 40 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
-| 41 | zionrangers | evaluated | 369a23 | 177.5 |
-| 42 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 43 | stefan | evaluated | 583665 | 170.2 |
-| 44 | Junyi Li | evaluated | c7a1b3 | 169.7 |
-| 45 | dylanjhnsondj | evaluated | c4e1ab | 169.6 |
-| 46 | fishyfins | evaluated | 6c0e20 | 169.5 |
-| 47 | yoursun1220 | evaluated | d8b590 | 169.2 |
-| 48 | hw_bloss | evaluated | 4c9666 | 169.1 |
-| 49 | castillo | evaluated | 0e93de | 169.0 |
-| 50 | jbc | evaluated | 12bb20 | 169.0 |
-| 51 | act | evaluated | 899777 | 169.0 |
-| 52 | yb | evaluated | ea23ab | 168.8 |
-| 53 | nicknam534534 | evaluated | 83a901 | 148.4 |
-| 54 | abhik | evaluated | bf55dc | 127.8 |
+| 41 | your_nickname_here | evaluated | f10b9b | 173.1 |
+| 42 | stefan | evaluated | 583665 | 170.2 |
+| 43 | Junyi Li | evaluated | c7a1b3 | 169.7 |
+| 44 | dylanjhnsondj | evaluated | c4e1ab | 169.6 |
+| 45 | fishyfins | evaluated | 6c0e20 | 169.5 |
+| 46 | yoursun1220 | evaluated | d8b590 | 169.2 |
+| 47 | hw_bloss | evaluated | 4c9666 | 169.1 |
+| 48 | castillo | evaluated | 0e93de | 169.0 |
+| 49 | jbc | evaluated | 12bb20 | 169.0 |
+| 50 | act | evaluated | 899777 | 169.0 |
+| 51 | yb | evaluated | ea23ab | 168.8 |
+| 52 | nicknam534534 | evaluated | 83a901 | 148.4 |
+| 53 | abhik | evaluated | bf55dc | 127.8 |
+| 54 | zionrangers | evaluated | e66cd3 | 115.8 |
 | 55 | poppyPotatoe | evaluated | eea264 | 109.8 |
 | 56 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -181,21 +181,21 @@ Last updated: `April 09, 2026 at 02:34:38 AM ET`
 | 39 | abhik | evaluated | bf55dc | 140.5 |
 | 40 | tuo | evaluated | 3d6d40 | 167.8 |
 | 41 | pallavi-srinivas | evaluated | b82073 | 190.5 |
-| 42 | zionrangers | evaluated | 369a23 | 278.6 |
-| 43 | fishyfins | evaluated | 6c0e20 | 304.6 |
-| 44 | dylanjhnsondj | evaluated | c4e1ab | 306.0 |
-| 45 | hw_bloss | evaluated | 4c9666 | 308.1 |
-| 46 | your_nickname_here | evaluated | f10b9b | 308.1 |
-| 47 | stefan | evaluated | 583665 | 308.5 |
-| 48 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
-| 49 | yoursun1220 | evaluated | d8b590 | 310.7 |
-| 50 | act | evaluated | 899777 | 310.9 |
-| 51 | jbc | evaluated | 12bb20 | 311.3 |
-| 52 | poppyPotatoe | evaluated | eea264 | 311.3 |
-| 53 | castillo | evaluated | 0e93de | 311.4 |
-| 54 | yb | evaluated | ea23ab | 312.3 |
-| 55 | nicknam534534 | evaluated | 83a901 | 405.3 |
-| 56 | Decode_speed | evaluated | 097a6b | 412.7 |
+| 42 | fishyfins | evaluated | 6c0e20 | 304.6 |
+| 43 | dylanjhnsondj | evaluated | c4e1ab | 306.0 |
+| 44 | hw_bloss | evaluated | 4c9666 | 308.1 |
+| 45 | your_nickname_here | evaluated | f10b9b | 308.1 |
+| 46 | stefan | evaluated | 583665 | 308.5 |
+| 47 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
+| 48 | yoursun1220 | evaluated | d8b590 | 310.7 |
+| 49 | act | evaluated | 899777 | 310.9 |
+| 50 | jbc | evaluated | 12bb20 | 311.3 |
+| 51 | poppyPotatoe | evaluated | eea264 | 311.3 |
+| 52 | castillo | evaluated | 0e93de | 311.4 |
+| 53 | yb | evaluated | ea23ab | 312.3 |
+| 54 | nicknam534534 | evaluated | 83a901 | 405.3 |
+| 55 | Decode_speed | evaluated | 097a6b | 412.7 |
+| 56 | zionrangers | evaluated | e66cd3 | 676.9 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -247,8 +247,8 @@ Last updated: `April 09, 2026 at 02:34:38 AM ET`
 | 38 | Licha | evaluated | b20b8e | 155.9 |
 | 39 | tuo | evaluated | 3d6d40 | 162.8 |
 | 40 | abhik | evaluated | bf55dc | 172.5 |
-| 41 | zionrangers | evaluated | 369a23 | 188.0 |
-| 42 | pallavi-srinivas | evaluated | b82073 | 192.2 |
+| 41 | pallavi-srinivas | evaluated | b82073 | 192.2 |
+| 42 | zionrangers | evaluated | e66cd3 | 219.4 |
 | 43 | fishyfins | evaluated | 6c0e20 | 232.9 |
 | 44 | dylanjhnsondj | evaluated | c4e1ab | 236.8 |
 | 45 | hw_bloss | evaluated | 4c9666 | 239.1 |
