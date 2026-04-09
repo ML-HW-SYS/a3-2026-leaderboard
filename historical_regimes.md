@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 11:02:52 PM ET`
+Last updated: `April 08, 2026 at 11:10:49 PM ET`
 
 ## R1 (tok/s)
 
@@ -14,9 +14,9 @@ Last updated: `April 08, 2026 at 11:02:52 PM ET`
 | 6 | TheProphet | submission.py | 0a9c73 | 567.2 |
 | 7 | beratcelik | submission.py | ecf890 | 564.7 |
 | 8 | ashaikh23 | submission.py | 062f0e | 563.6 |
-| 9 | abarat007 | develop.py | d7f626 | 562.9 |
-| 10 | JasonWang07 | submission.py | 1b4aca | 561.1 |
-| 11 | nickname55555555 | submission.py | e3c641 | 561.0 |
+| 9 | nickname55555555 | develop.py | e3c641 | 563.5 |
+| 10 | abarat007 | develop.py | d7f626 | 562.9 |
+| 11 | JasonWang07 | submission.py | 1b4aca | 561.1 |
 | 12 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 560.4 |
 | 13 | your_nickname_here | submission.py | 59e245 | 559.6 |
 | 14 | blabrl | develop.py | 9873f9 | 559.5 |
@@ -84,7 +84,7 @@ Last updated: `April 08, 2026 at 11:02:52 PM ET`
 | 14 | gm | develop.py | fd15e9 | 357.3 |
 | 15 | sjb | develop.py | 7fb492 | 347.4 |
 | 16 | JasonWang07 | develop.py | 2ecd91 | 343.1 |
-| 17 | nickname55555555 | submission.py | e3c641 | 336.8 |
+| 17 | nickname55555555 | develop.py | e3c641 | 337.7 |
 | 18 | Rithvik | submission.py | 2924a0 | 335.8 |
 | 19 | leoli | submission.py | 5cdac4 | 327.5 |
 | 20 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 326.5 |
