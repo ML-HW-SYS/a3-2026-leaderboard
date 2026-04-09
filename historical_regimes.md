@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 09, 2026 at 04:16:43 PM ET`
+Last updated: `April 09, 2026 at 04:24:35 PM ET`
 
 ## R1 (tok/s)
 
@@ -97,8 +97,8 @@ Last updated: `April 09, 2026 at 04:16:43 PM ET`
 | 26 | beratcelik | submission.py | 7c87c2 | 294.0 |
 | 27 | ngoguen | submission.py | ecab75 | 282.6 |
 | 28 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
-| 29 | landrum | submission.py | 61ab81 | 276.9 |
-| 30 | zionrangers | submission.py | 4be9b4 | 276.4 |
+| 29 | zionrangers | develop.py | 4be9b4 | 277.1 |
+| 30 | landrum | submission.py | 61ab81 | 276.9 |
 | 31 | gravlax | develop.py | b1229d | 273.0 |
 | 32 | Yize | submission.py | c8c9f7 | 269.9 |
 | 33 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
@@ -150,7 +150,7 @@ Last updated: `April 09, 2026 at 04:16:43 PM ET`
 | 16 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
 | 17 | bl792 | develop.py | 09cd73 | 32.3 |
 | 18 | blabrl | submission.py | ca60eb | 33.7 |
-| 19 | zionrangers | submission.py | 4be9b4 | 34.7 |
+| 19 | zionrangers | develop.py | 4be9b4 | 34.6 |
 | 20 | chickfila | submission.py | f0956d | 34.7 |
 | 21 | gravlax | develop.py | b1229d | 35.0 |
 | 22 | PurplePickle67 | submission.py | 2efdba | 36.3 |
@@ -219,7 +219,7 @@ Last updated: `April 09, 2026 at 04:16:43 PM ET`
 | 22 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
 | 23 | omermoav | submission.py | b01c0e | 64.6 |
 | 24 | blabrl | submission.py | ca60eb | 65.2 |
-| 25 | zionrangers | submission.py | 4be9b4 | 65.6 |
+| 25 | zionrangers | develop.py | 4be9b4 | 65.4 |
 | 26 | happyface | develop.py | 0aca52 | 65.7 |
 | 27 | JasonWang07 | develop.py | f27837 | 78.3 |
 | 28 | leoli | submission.py | 5cdac4 | 87.4 |
