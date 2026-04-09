@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 09, 2026 at 02:43:18 PM ET`
+Last updated: `April 09, 2026 at 02:53:46 PM ET`
 
 ## R1 (tok/s)
 
@@ -90,7 +90,7 @@ Last updated: `April 09, 2026 at 02:43:18 PM ET`
 | 19 | leoli | submission.py | 5cdac4 | 327.5 |
 | 20 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 326.5 |
 | 21 | jl | submission.py | e6ce85 | 313.1 |
-| 22 | pallavi-srinivas | develop.py | 3d834e | 307.3 |
+| 22 | pallavi-srinivas | submission.py | 26a6d9 | 307.4 |
 | 23 | lipphi | submission.py | a3a71b | 306.7 |
 | 24 | PurplePickle67 | submission.py | 68d34e | 303.7 |
 | 25 | TA | submission.py | 324cb8 | 295.5 |
@@ -188,7 +188,7 @@ Last updated: `April 09, 2026 at 02:43:18 PM ET`
 | 54 | poppyPotatoe | submission.py | 311dc9 | 309.5 |
 | 55 | castillo | develop.py | 0e93de | 310.9 |
 | 56 | act | develop.py | 1b5e17 | 310.9 |
-| 57 | co-smith | submission.py | dcfadf | 323.6 |
+| 57 | co-smith | develop.py | dcfadf | 322.6 |
 | 58 | Decode_speed | submission.py | 097a6b | 412.7 |
 
 ## R4 (ms)
@@ -251,5 +251,5 @@ Last updated: `April 09, 2026 at 02:43:18 PM ET`
 | 54 | castillo | develop.py | 0e93de | 250.2 |
 | 55 | yb | submission.py | 2aa1a9 | 250.5 |
 | 56 | act | develop.py | 1b5e17 | 250.6 |
-| 57 | co-smith | submission.py | dcfadf | 257.4 |
+| 57 | co-smith | develop.py | dcfadf | 256.9 |
 | 58 | Decode_speed | submission.py | 097a6b | 270.3 |
