@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 08, 2026 at 09:37:15 PM ET`
+Last updated: `April 08, 2026 at 09:45:24 PM ET`
 
 ## Pages
 
@@ -50,7 +50,7 @@ Last updated: `April 08, 2026 at 09:37:15 PM ET`
 | 36 | 13rabbit | evaluated | b38df9 | 37.3/4.0/41.3 | 0.884 | 542.8 | 242.9 | 100.3 | 142.7 |
 | 37 | tuo | evaluated | 3d6d40 | 74.5/4.9/79.3 | 0.704 | 494.8 | 204.6 | 167.8 | 162.8 |
 | 38 | pallavi-srinivas | evaluated | b82073 | 39.1/5.0/44.0 | 0.670 | 539.0 | 207.1 | 190.5 | 192.2 |
-| 39 | Licha | evaluated | af9273 | 37.5/5.3/42.8 | 0.626 | 531.8 | 188.6 | 202.8 | 213.0 |
+| 39 | Licha | evaluated | 7cca48 | 38.6/5.2/43.7 | 0.643 | 544.4 | 198.5 | 200.9 | 208.8 |
 | 40 | Sulaiman Alam | evaluated | c7ede2 | 21.7/5.8/27.5 | 0.545 | 511.2 | 197.4 | 308.7 | 245.0 |
 | 41 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
 | 42 | fishyfins | evaluated | 6c0e20 | 29.2/6.2/35.4 | 0.536 | 522.0 | 169.5 | 304.6 | 232.9 |

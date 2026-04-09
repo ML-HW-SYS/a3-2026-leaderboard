@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 09:37:15 PM ET`
+Last updated: `April 08, 2026 at 09:45:24 PM ET`
 
 ## R1 (tok/s)
 
@@ -26,24 +26,24 @@ Last updated: `April 08, 2026 at 09:37:15 PM ET`
 | 18 | gm | develop.py | a57e9f | 548.9 |
 | 19 | leoli | submission.py | 7ef4b9 | 544.9 |
 | 20 | happyface | develop.py | 7255fc | 544.6 |
-| 21 | Shengwei | submission.py | 33733e | 543.9 |
-| 22 | pallavi-srinivas | develop.py | bd1b29 | 543.3 |
-| 23 | 13rabbit | submission.py | fe30c9 | 543.0 |
-| 24 | alifim | develop.py | ad261a | 541.7 |
-| 25 | ngoguen | submission.py | be566d | 541.1 |
-| 26 | landrum | develop.py | b61e15 | 540.9 |
-| 27 | pyjuan91 | submission.py | fe8f27 | 540.9 |
-| 28 | andrasferenczy | submission.py | 6204c7 | 540.6 |
-| 29 | abhik | develop.py | 41a3ec | 539.5 |
-| 30 | stefan | develop.py | 9a25e1 | 539.1 |
-| 31 | ishan-pat | develop.py | 75d32d | 537.5 |
-| 32 | sjb | develop.py | 3359ec | 537.0 |
-| 33 | zionrangers | develop.py | 7737ad | 535.8 |
-| 34 | lipphi | submission.py | a3a71b | 534.8 |
-| 35 | gravlax | develop.py | 1f23d9 | 534.6 |
-| 36 | chickfila | submission.py | 29860a | 534.6 |
-| 37 | Yize | submission.py | c8c9f7 | 534.4 |
-| 38 | Licha | submission.py | af9273 | 531.8 |
+| 21 | Licha | submission.py | 7cca48 | 544.4 |
+| 22 | Shengwei | submission.py | 33733e | 543.9 |
+| 23 | pallavi-srinivas | develop.py | bd1b29 | 543.3 |
+| 24 | 13rabbit | submission.py | fe30c9 | 543.0 |
+| 25 | alifim | develop.py | ad261a | 541.7 |
+| 26 | ngoguen | submission.py | be566d | 541.1 |
+| 27 | landrum | develop.py | b61e15 | 540.9 |
+| 28 | pyjuan91 | submission.py | fe8f27 | 540.9 |
+| 29 | andrasferenczy | submission.py | 6204c7 | 540.6 |
+| 30 | abhik | develop.py | 41a3ec | 539.5 |
+| 31 | stefan | develop.py | 9a25e1 | 539.1 |
+| 32 | ishan-pat | develop.py | 75d32d | 537.5 |
+| 33 | sjb | develop.py | 3359ec | 537.0 |
+| 34 | zionrangers | develop.py | 7737ad | 535.8 |
+| 35 | lipphi | submission.py | a3a71b | 534.8 |
+| 36 | gravlax | develop.py | 1f23d9 | 534.6 |
+| 37 | chickfila | submission.py | 29860a | 534.6 |
+| 38 | Yize | submission.py | c8c9f7 | 534.4 |
 | 39 | Junyi Li | submission.py | 2e381b | 529.4 |
 | 40 | bl792 | submission.py | 3b3a8a | 528.5 |
 | 41 | dylanjhnsondj | develop.py | 55a3fd | 528.5 |
@@ -109,8 +109,8 @@ Last updated: `April 08, 2026 at 09:37:15 PM ET`
 | 39 | abhik | submission.py | 572159 | 224.0 |
 | 40 | pallavi-srinivas | submission.py | 52387e | 207.4 |
 | 41 | tuo | submission.py | 3d6d40 | 204.6 |
-| 42 | Sulaiman Alam | submission.py | c7ede2 | 197.4 |
-| 43 | Licha | submission.py | 8fdc3a | 192.4 |
+| 42 | Licha | submission.py | 7cca48 | 198.5 |
+| 43 | Sulaiman Alam | submission.py | c7ede2 | 197.4 |
 | 44 | your_nickname_here | submission.py | 59e245 | 173.4 |
 | 45 | stefan | submission.py | 583665 | 170.2 |
 | 46 | yoursun1220 | submission.py | 27e400 | 169.9 |
@@ -171,7 +171,7 @@ Last updated: `April 08, 2026 at 09:37:15 PM ET`
 | 39 | abhik | submission.py | 93ffca | 140.3 |
 | 40 | tuo | submission.py | 92c00e | 166.9 |
 | 41 | pallavi-srinivas | submission.py | c7a655 | 190.0 |
-| 42 | Licha | develop.py | af9273 | 202.0 |
+| 42 | Licha | submission.py | 7cca48 | 200.9 |
 | 43 | nicknam534534 | develop.py | cd4c9b | 210.5 |
 | 44 | fishyfins | submission.py | 6c0e20 | 304.6 |
 | 45 | dylanjhnsondj | submission.py | c4e1ab | 306.0 |
@@ -234,7 +234,7 @@ Last updated: `April 08, 2026 at 09:37:15 PM ET`
 | 40 | tuo | submission.py | 4274da | 160.5 |
 | 41 | abhik | submission.py | 572159 | 172.1 |
 | 42 | pallavi-srinivas | submission.py | b82073 | 192.2 |
-| 43 | Licha | develop.py | af9273 | 212.5 |
+| 43 | Licha | submission.py | 7cca48 | 208.8 |
 | 44 | fishyfins | submission.py | 6c0e20 | 232.9 |
 | 45 | dylanjhnsondj | submission.py | c4e1ab | 236.8 |
 | 46 | hw_bloss | submission.py | b2767b | 237.0 |

@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 08, 2026 at 09:37:15 PM ET`
+Last updated: `April 08, 2026 at 09:45:24 PM ET`
 
 ## R1 (tok/s)
 
@@ -21,24 +21,24 @@ Last updated: `April 08, 2026 at 09:37:15 PM ET`
 | 13 | ashaikh23 | evaluated | 84a425 | 555.4 |
 | 14 | nickname55555555 | evaluated | 20d1ac | 551.4 |
 | 15 | JasonWang07 | evaluated | a4b405 | 547.1 |
-| 16 | leoli | evaluated | 5cdac4 | 544.1 |
-| 17 | happyface | evaluated | 7e8b61 | 543.0 |
-| 18 | 13rabbit | evaluated | b38df9 | 542.8 |
-| 19 | gm | evaluated | 2898fc | 541.1 |
-| 20 | pyjuan91 | evaluated | fe8f27 | 540.9 |
-| 21 | alifim | evaluated | 701077 | 539.6 |
-| 22 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
-| 23 | pallavi-srinivas | evaluated | b82073 | 539.0 |
-| 24 | ngoguen | evaluated | ecab75 | 538.2 |
-| 25 | stefan | evaluated | 583665 | 538.1 |
-| 26 | Shengwei | evaluated | 20b468 | 537.5 |
-| 27 | landrum | evaluated | 61ab81 | 535.7 |
-| 28 | sjb | evaluated | 373553 | 535.3 |
-| 29 | lipphi | evaluated | a3a71b | 534.8 |
-| 30 | chickfila | evaluated | f0956d | 534.5 |
-| 31 | Yize | evaluated | c8c9f7 | 534.4 |
-| 32 | gravlax | evaluated | b1229d | 532.3 |
-| 33 | Licha | evaluated | af9273 | 531.8 |
+| 16 | Licha | evaluated | 7cca48 | 544.4 |
+| 17 | leoli | evaluated | 5cdac4 | 544.1 |
+| 18 | happyface | evaluated | 7e8b61 | 543.0 |
+| 19 | 13rabbit | evaluated | b38df9 | 542.8 |
+| 20 | gm | evaluated | 2898fc | 541.1 |
+| 21 | pyjuan91 | evaluated | fe8f27 | 540.9 |
+| 22 | alifim | evaluated | 701077 | 539.6 |
+| 23 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
+| 24 | pallavi-srinivas | evaluated | b82073 | 539.0 |
+| 25 | ngoguen | evaluated | ecab75 | 538.2 |
+| 26 | stefan | evaluated | 583665 | 538.1 |
+| 27 | Shengwei | evaluated | 20b468 | 537.5 |
+| 28 | landrum | evaluated | 61ab81 | 535.7 |
+| 29 | sjb | evaluated | 373553 | 535.3 |
+| 30 | lipphi | evaluated | a3a71b | 534.8 |
+| 31 | chickfila | evaluated | f0956d | 534.5 |
+| 32 | Yize | evaluated | c8c9f7 | 534.4 |
+| 33 | gravlax | evaluated | b1229d | 532.3 |
 | 34 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
 | 35 | Junyi Li | evaluated | c7a1b3 | 527.3 |
 | 36 | castillo | evaluated | 0e93de | 526.6 |
@@ -110,8 +110,8 @@ Last updated: `April 08, 2026 at 09:37:15 PM ET`
 | 35 | beratcelik | evaluated | 863a89 | 231.2 |
 | 36 | pallavi-srinivas | evaluated | b82073 | 207.1 |
 | 37 | tuo | evaluated | 3d6d40 | 204.6 |
-| 38 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
-| 39 | Licha | evaluated | af9273 | 188.6 |
+| 38 | Licha | evaluated | 7cca48 | 198.5 |
+| 39 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
 | 40 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 41 | stefan | evaluated | 583665 | 170.2 |
 | 42 | Junyi Li | evaluated | c7a1b3 | 169.7 |
@@ -179,7 +179,7 @@ Last updated: `April 08, 2026 at 09:37:15 PM ET`
 | 37 | abhik | evaluated | bf55dc | 140.5 |
 | 38 | tuo | evaluated | 3d6d40 | 167.8 |
 | 39 | pallavi-srinivas | evaluated | b82073 | 190.5 |
-| 40 | Licha | evaluated | af9273 | 202.8 |
+| 40 | Licha | evaluated | 7cca48 | 200.9 |
 | 41 | fishyfins | evaluated | 6c0e20 | 304.6 |
 | 42 | dylanjhnsondj | evaluated | c4e1ab | 306.0 |
 | 43 | hw_bloss | evaluated | 4c9666 | 308.1 |
@@ -246,7 +246,7 @@ Last updated: `April 08, 2026 at 09:37:15 PM ET`
 | 37 | tuo | evaluated | 3d6d40 | 162.8 |
 | 38 | abhik | evaluated | bf55dc | 172.5 |
 | 39 | pallavi-srinivas | evaluated | b82073 | 192.2 |
-| 40 | Licha | evaluated | af9273 | 213.0 |
+| 40 | Licha | evaluated | 7cca48 | 208.8 |
 | 41 | fishyfins | evaluated | 6c0e20 | 232.9 |
 | 42 | dylanjhnsondj | evaluated | c4e1ab | 236.8 |
 | 43 | hw_bloss | evaluated | 4c9666 | 239.1 |
