@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 09, 2026 at 05:38:39 PM ET`
+Last updated: `April 09, 2026 at 05:46:36 PM ET`
 
 ## R1 (tok/s)
 
@@ -190,6 +190,7 @@ Last updated: `April 09, 2026 at 05:38:39 PM ET`
 | 56 | act | develop.py | 1b5e17 | 310.9 |
 | 57 | co-smith | develop.py | dcfadf | 322.6 |
 | 58 | Decode_speed | submission.py | 097a6b | 412.7 |
+| 59 | siddarak | submission.py | d85766 | 614.4 |
 
 ## R4 (ms)
 
@@ -253,3 +254,4 @@ Last updated: `April 09, 2026 at 05:38:39 PM ET`
 | 56 | act | develop.py | 1b5e17 | 250.6 |
 | 57 | co-smith | develop.py | dcfadf | 256.9 |
 | 58 | Decode_speed | submission.py | 097a6b | 270.3 |
+| 59 | siddarak | submission.py | d85766 | 382.1 |

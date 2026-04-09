@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 09, 2026 at 05:38:39 PM ET`
+Last updated: `April 09, 2026 at 05:46:36 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 09 05:31 PM ET | siddarak | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | d85766 | 21.8/9.2/31.0 | 523.6 | 120.5 | 614.4 | 382.1 |
 | Apr 09 04:26 PM ET | nickname55555555 | evaluated |  | submission.py | 506f8f | 27.6/2.8/30.3 | 553.4 | 333.8 | 31.4 | 50.5 |
 | Apr 09 04:07 PM ET | zionrangers | evaluated |  | submission.py | 4be9b4 | 18.8/3.2/22.0 | 534.1 | 276.4 | 34.7 | 65.6 |
 | Apr 09 04:07 PM ET | zionrangers | evaluated |  | develop.py | 4be9b4 | 18.2/3.2/21.4 | 538.7 | 277.1 | 34.6 | 65.4 |

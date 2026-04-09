@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 09, 2026 at 05:38:39 PM ET`
+Last updated: `April 09, 2026 at 05:46:36 PM ET`
 
 ## R1 (tok/s)
 
@@ -65,6 +65,7 @@ Last updated: `April 09, 2026 at 05:38:39 PM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | tif03 | failed | f612be |  |
@@ -133,6 +134,7 @@ Last updated: `April 09, 2026 at 05:38:39 PM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | tif03 | failed | f612be |  |
@@ -201,6 +203,7 @@ Last updated: `April 09, 2026 at 05:38:39 PM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | tif03 | failed | f612be |  |
@@ -269,6 +272,7 @@ Last updated: `April 09, 2026 at 05:38:39 PM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | mdavalos10 | failed | b601f0 |  |
+|  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | tif03 | failed | f612be |  |
