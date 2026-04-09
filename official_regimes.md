@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 08, 2026 at 10:30:46 PM ET`
+Last updated: `April 08, 2026 at 10:38:54 PM ET`
 
 ## R1 (tok/s)
 
@@ -21,24 +21,24 @@ Last updated: `April 08, 2026 at 10:30:46 PM ET`
 | 13 | ashaikh23 | evaluated | 84a425 | 555.4 |
 | 14 | nickname55555555 | evaluated | 20d1ac | 551.4 |
 | 15 | JasonWang07 | evaluated | a4b405 | 547.1 |
-| 16 | Licha | evaluated | 7cca48 | 544.4 |
-| 17 | leoli | evaluated | 5cdac4 | 544.1 |
-| 18 | happyface | evaluated | 7e8b61 | 543.0 |
-| 19 | 13rabbit | evaluated | b38df9 | 542.8 |
-| 20 | gm | evaluated | 2898fc | 541.1 |
-| 21 | pyjuan91 | evaluated | fe8f27 | 540.9 |
-| 22 | alifim | evaluated | 701077 | 539.6 |
-| 23 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
-| 24 | pallavi-srinivas | evaluated | b82073 | 539.0 |
-| 25 | ngoguen | evaluated | ecab75 | 538.2 |
-| 26 | stefan | evaluated | 583665 | 538.1 |
-| 27 | Shengwei | evaluated | 20b468 | 537.5 |
-| 28 | landrum | evaluated | 61ab81 | 535.7 |
-| 29 | sjb | evaluated | 373553 | 535.3 |
-| 30 | lipphi | evaluated | a3a71b | 534.8 |
-| 31 | chickfila | evaluated | f0956d | 534.5 |
-| 32 | Yize | evaluated | c8c9f7 | 534.4 |
-| 33 | kade_lin_is_here | evaluated | 41a1de | 533.8 |
+| 16 | leoli | evaluated | 5cdac4 | 544.1 |
+| 17 | happyface | evaluated | 7e8b61 | 543.0 |
+| 18 | 13rabbit | evaluated | b38df9 | 542.8 |
+| 19 | gm | evaluated | 2898fc | 541.1 |
+| 20 | pyjuan91 | evaluated | fe8f27 | 540.9 |
+| 21 | alifim | evaluated | 701077 | 539.6 |
+| 22 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
+| 23 | pallavi-srinivas | evaluated | b82073 | 539.0 |
+| 24 | ngoguen | evaluated | ecab75 | 538.2 |
+| 25 | stefan | evaluated | 583665 | 538.1 |
+| 26 | Shengwei | evaluated | 20b468 | 537.5 |
+| 27 | landrum | evaluated | 61ab81 | 535.7 |
+| 28 | sjb | evaluated | 373553 | 535.3 |
+| 29 | lipphi | evaluated | a3a71b | 534.8 |
+| 30 | chickfila | evaluated | f0956d | 534.5 |
+| 31 | Yize | evaluated | c8c9f7 | 534.4 |
+| 32 | kade_lin_is_here | evaluated | 41a1de | 533.8 |
+| 33 | Licha | evaluated | 6e4ac3 | 533.7 |
 | 34 | gravlax | evaluated | b1229d | 532.3 |
 | 35 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
 | 36 | Junyi Li | evaluated | c7a1b3 | 527.3 |
@@ -109,9 +109,9 @@ Last updated: `April 08, 2026 at 10:30:46 PM ET`
 | 34 | bl792 | evaluated | 09cd73 | 238.8 |
 | 35 | kade_lin_is_here | evaluated | 41a1de | 237.8 |
 | 36 | beratcelik | evaluated | 863a89 | 231.2 |
-| 37 | pallavi-srinivas | evaluated | b82073 | 207.1 |
-| 38 | tuo | evaluated | 3d6d40 | 204.6 |
-| 39 | Licha | evaluated | 7cca48 | 198.5 |
+| 37 | Licha | evaluated | 6e4ac3 | 211.9 |
+| 38 | pallavi-srinivas | evaluated | b82073 | 207.1 |
+| 39 | tuo | evaluated | 3d6d40 | 204.6 |
 | 40 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
 | 41 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 42 | stefan | evaluated | 583665 | 170.2 |
@@ -177,10 +177,10 @@ Last updated: `April 08, 2026 at 10:30:46 PM ET`
 | 35 | jl | evaluated | 8b6423 | 102.6 |
 | 36 | lipphi | evaluated | a3a71b | 104.4 |
 | 37 | kade_lin_is_here | evaluated | 41a1de | 112.5 |
-| 38 | abhik | evaluated | bf55dc | 140.5 |
-| 39 | tuo | evaluated | 3d6d40 | 167.8 |
-| 40 | pallavi-srinivas | evaluated | b82073 | 190.5 |
-| 41 | Licha | evaluated | 7cca48 | 200.9 |
+| 38 | Licha | evaluated | 6e4ac3 | 128.4 |
+| 39 | abhik | evaluated | bf55dc | 140.5 |
+| 40 | tuo | evaluated | 3d6d40 | 167.8 |
+| 41 | pallavi-srinivas | evaluated | b82073 | 190.5 |
 | 42 | fishyfins | evaluated | 6c0e20 | 304.6 |
 | 43 | dylanjhnsondj | evaluated | c4e1ab | 306.0 |
 | 44 | hw_bloss | evaluated | 4c9666 | 308.1 |
@@ -244,10 +244,10 @@ Last updated: `April 08, 2026 at 10:30:46 PM ET`
 | 35 | jl | evaluated | 8b6423 | 149.1 |
 | 36 | lipphi | evaluated | a3a71b | 150.9 |
 | 37 | kade_lin_is_here | evaluated | 41a1de | 151.5 |
-| 38 | tuo | evaluated | 3d6d40 | 162.8 |
-| 39 | abhik | evaluated | bf55dc | 172.5 |
-| 40 | pallavi-srinivas | evaluated | b82073 | 192.2 |
-| 41 | Licha | evaluated | 7cca48 | 208.8 |
+| 38 | Licha | evaluated | 6e4ac3 | 156.2 |
+| 39 | tuo | evaluated | 3d6d40 | 162.8 |
+| 40 | abhik | evaluated | bf55dc | 172.5 |
+| 41 | pallavi-srinivas | evaluated | b82073 | 192.2 |
 | 42 | fishyfins | evaluated | 6c0e20 | 232.9 |
 | 43 | dylanjhnsondj | evaluated | c4e1ab | 236.8 |
 | 44 | hw_bloss | evaluated | 4c9666 | 239.1 |

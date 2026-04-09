@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 10:30:46 PM ET`
+Last updated: `April 08, 2026 at 10:38:54 PM ET`
 
 ## R1 (tok/s)
 
@@ -107,9 +107,9 @@ Last updated: `April 08, 2026 at 10:30:46 PM ET`
 | 37 | bl792 | develop.py | 09cd73 | 239.0 |
 | 38 | kade_lin_is_here | submission.py | 41a1de | 237.8 |
 | 39 | abhik | submission.py | 572159 | 224.0 |
-| 40 | pallavi-srinivas | submission.py | 52387e | 207.4 |
-| 41 | tuo | submission.py | 3d6d40 | 204.6 |
-| 42 | Licha | submission.py | 7cca48 | 198.5 |
+| 40 | Licha | submission.py | 6e4ac3 | 211.9 |
+| 41 | pallavi-srinivas | submission.py | 52387e | 207.4 |
+| 42 | tuo | submission.py | 3d6d40 | 204.6 |
 | 43 | Sulaiman Alam | submission.py | c7ede2 | 197.4 |
 | 44 | your_nickname_here | submission.py | 59e245 | 173.4 |
 | 45 | stefan | submission.py | 583665 | 170.2 |
@@ -168,10 +168,10 @@ Last updated: `April 08, 2026 at 10:30:46 PM ET`
 | 36 | jl | submission.py | e6ce85 | 101.9 |
 | 37 | lipphi | develop.py | d58cae | 104.4 |
 | 38 | kade_lin_is_here | submission.py | 9ea924 | 112.3 |
-| 39 | abhik | submission.py | 93ffca | 140.3 |
-| 40 | tuo | submission.py | 92c00e | 166.9 |
-| 41 | pallavi-srinivas | submission.py | c7a655 | 190.0 |
-| 42 | Licha | submission.py | 7cca48 | 200.9 |
+| 39 | Licha | submission.py | 6e4ac3 | 128.4 |
+| 40 | abhik | submission.py | 93ffca | 140.3 |
+| 41 | tuo | submission.py | 92c00e | 166.9 |
+| 42 | pallavi-srinivas | submission.py | c7a655 | 190.0 |
 | 43 | nicknam534534 | develop.py | cd4c9b | 210.5 |
 | 44 | fishyfins | submission.py | 6c0e20 | 304.6 |
 | 45 | dylanjhnsondj | submission.py | c4e1ab | 306.0 |
@@ -231,10 +231,10 @@ Last updated: `April 08, 2026 at 10:30:46 PM ET`
 | 37 | jl | submission.py | e6ce85 | 148.1 |
 | 38 | lipphi | submission.py | a3a71b | 150.9 |
 | 39 | kade_lin_is_here | submission.py | 9ea924 | 151.2 |
-| 40 | tuo | submission.py | 4274da | 160.5 |
-| 41 | abhik | submission.py | 572159 | 172.1 |
-| 42 | pallavi-srinivas | submission.py | b82073 | 192.2 |
-| 43 | Licha | submission.py | 7cca48 | 208.8 |
+| 40 | Licha | submission.py | 6e4ac3 | 156.2 |
+| 41 | tuo | submission.py | 4274da | 160.5 |
+| 42 | abhik | submission.py | 572159 | 172.1 |
+| 43 | pallavi-srinivas | submission.py | b82073 | 192.2 |
 | 44 | fishyfins | submission.py | 6c0e20 | 232.9 |
 | 45 | dylanjhnsondj | submission.py | c4e1ab | 236.8 |
 | 46 | hw_bloss | submission.py | b2767b | 237.0 |
