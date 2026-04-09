@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 09, 2026 at 01:42:12 PM ET`
+Last updated: `April 09, 2026 at 01:49:36 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 09 01:40 PM ET | co-smith | failed_correctness | R1: ERR: subprocess failed with exit code 1 \| R2: ERR: subprocess failed with exit code 1 \| R3: ERR: subprocess faile... | submission.py | 0de516 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 09 01:17 PM ET | zionrangers | evaluated |  | submission.py | 2a9d89 | 18.8/3.5/22.3 | 521.8 | 257.1 | 66.1 | 71.5 |
 | Apr 09 01:17 PM ET | zionrangers | evaluated |  | develop.py | 2a9d89 | 18.8/3.5/22.3 | 515.6 | 256.8 | 66.2 | 71.4 |
 | Apr 09 12:44 PM ET | zionrangers | failed_correctness | R1: SETUP: ERR: AttributeError: 'AssignmentTransformerModel' object has no attribute '_forward_with_mask' \| R2: SETUP... | submission.py | 2b7434 | 14.4/0.0/14.4 | 0.0 | 0.0 | 0.0 | 0.0 |
