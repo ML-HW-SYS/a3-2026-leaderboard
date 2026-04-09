@@ -1,10 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 10:38:54 PM ET`
+Last updated: `April 08, 2026 at 10:46:42 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Apr 08 10:31 PM ET | Licha | evaluated |  | submission.py | 6e4ac3 | 38.1/4.5/42.6 | 533.7 | 211.9 | 128.4 | 156.2 |
+| Apr 08 10:31 PM ET | Licha | evaluated |  | develop.py | 6e4ac3 | 19.2/4.5/23.7 | 536.0 | 212.0 | 127.9 | 156.3 |
 | Apr 08 09:45 PM ET | kade_lin_is_here | evaluated |  | submission.py | 41a1de | 40.5/4.2/44.7 | 533.8 | 237.8 | 112.5 | 151.5 |
 | Apr 08 09:34 PM ET | Licha | evaluated |  | submission.py | 7cca48 | 38.6/5.2/43.7 | 544.4 | 198.5 | 200.9 | 208.8 |
 | Apr 08 09:34 PM ET | Licha | evaluated |  | develop.py | 7cca48 | 19.3/5.2/24.5 | 537.5 | 197.8 | 202.6 | 209.6 |
