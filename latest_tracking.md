@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 09, 2026 at 06:09:13 PM ET`
+Last updated: `April 09, 2026 at 06:16:33 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 09 06:11 PM ET | nicknam534534 | failed_compliance | SyntaxError during policy check: expected an indented block after function definition on line 520 (develop.py, line 521) | develop.py | 07f64c |  |  |  |  |  |
 | Apr 09 06:05 PM ET | nicknam534534 | failed_compliance | Submission compliance check failed for develop.py: \| - setup(...) must have arguments exactly `(weights, scales, conf... | develop.py | a794f3 |  |  |  |  |  |
 | Apr 09 05:31 PM ET | siddarak | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | d85766 | 21.8/9.2/31.0 | 523.6 | 120.5 | 614.4 | 382.1 |
 | Apr 09 05:31 PM ET | siddarak | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | develop.py | d85766 | 21.7/9.2/30.9 | 522.8 | 120.3 | 614.8 | 382.4 |
