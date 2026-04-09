@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 09:45:24 PM ET`
+Last updated: `April 08, 2026 at 09:54:05 PM ET`
 
 ## R1 (tok/s)
 
@@ -44,15 +44,15 @@ Last updated: `April 08, 2026 at 09:45:24 PM ET`
 | 36 | gravlax | develop.py | 1f23d9 | 534.6 |
 | 37 | chickfila | submission.py | 29860a | 534.6 |
 | 38 | Yize | submission.py | c8c9f7 | 534.4 |
-| 39 | Junyi Li | submission.py | 2e381b | 529.4 |
-| 40 | bl792 | submission.py | 3b3a8a | 528.5 |
-| 41 | dylanjhnsondj | develop.py | 55a3fd | 528.5 |
-| 42 | ethanchen | submission.py | a0d359 | 528.1 |
-| 43 | Rithvik | submission.py | 1a7556 | 527.1 |
-| 44 | castillo | submission.py | 0e93de | 526.6 |
-| 45 | yb | submission.py | ea23ab | 525.9 |
-| 46 | nicknam534534 | develop.py | 83a901 | 525.8 |
-| 47 | kade_lin_is_here | submission.py | 6ae977 | 525.1 |
+| 39 | kade_lin_is_here | submission.py | 41a1de | 533.8 |
+| 40 | Junyi Li | submission.py | 2e381b | 529.4 |
+| 41 | bl792 | submission.py | 3b3a8a | 528.5 |
+| 42 | dylanjhnsondj | develop.py | 55a3fd | 528.5 |
+| 43 | ethanchen | submission.py | a0d359 | 528.1 |
+| 44 | Rithvik | submission.py | 1a7556 | 527.1 |
+| 45 | castillo | submission.py | 0e93de | 526.6 |
+| 46 | yb | submission.py | ea23ab | 525.9 |
+| 47 | nicknam534534 | develop.py | 83a901 | 525.8 |
 | 48 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
 | 49 | yoursun1220 | submission.py | f4e2be | 524.2 |
 | 50 | act | submission.py | 899777 | 523.9 |
@@ -105,7 +105,7 @@ Last updated: `April 08, 2026 at 09:45:24 PM ET`
 | 35 | fishyfins | develop.py | 87e789 | 243.3 |
 | 36 | 13rabbit | develop.py | b38df9 | 243.3 |
 | 37 | bl792 | develop.py | 09cd73 | 239.0 |
-| 38 | kade_lin_is_here | submission.py | 9ea924 | 237.6 |
+| 38 | kade_lin_is_here | submission.py | 41a1de | 237.8 |
 | 39 | abhik | submission.py | 572159 | 224.0 |
 | 40 | pallavi-srinivas | submission.py | 52387e | 207.4 |
 | 41 | tuo | submission.py | 3d6d40 | 204.6 |

@@ -1,10 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 09:45:24 PM ET`
+Last updated: `April 08, 2026 at 09:54:05 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 08 09:45 PM ET | kade_lin_is_here | evaluated |  | submission.py | 41a1de | 40.5/4.2/44.7 | 533.8 | 237.8 | 112.5 | 151.5 |
 | Apr 08 09:34 PM ET | Licha | evaluated |  | submission.py | 7cca48 | 38.6/5.2/43.7 | 544.4 | 198.5 | 200.9 | 208.8 |
+| Apr 08 09:34 PM ET | Licha | evaluated |  | develop.py | 7cca48 | 19.3/5.2/24.5 | 537.5 | 197.8 | 202.6 | 209.6 |
 | Apr 08 08:50 PM ET | zionrangers | evaluated |  | develop.py | 7737ad | 26.7/6.2/32.9 | 535.8 | 169.9 | 309.4 | 248.7 |
 | Apr 08 08:19 PM ET | poppyPotatoe | evaluated |  | submission.py | eea264 | 17.1/10.5/27.5 | 144.2 | 109.8 | 311.3 | 251.9 |
 | Apr 08 08:19 PM ET | poppyPotatoe | evaluated |  | develop.py | eea264 | 15.6/10.4/26.0 | 148.9 | 109.3 | 311.2 | 250.9 |
