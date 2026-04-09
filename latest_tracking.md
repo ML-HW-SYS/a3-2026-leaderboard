@@ -1,10 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 08, 2026 at 08:30:06 PM ET`
+Last updated: `April 08, 2026 at 08:37:56 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Apr 08 08:19 PM ET | poppyPotatoe | evaluated |  | submission.py | eea264 | 17.1/10.5/27.5 | 144.2 | 109.8 | 311.3 | 251.9 |
+| Apr 08 08:19 PM ET | poppyPotatoe | evaluated |  | develop.py | eea264 | 15.6/10.4/26.0 | 148.9 | 109.3 | 311.2 | 250.9 |
 | Apr 08 08:15 PM ET | Shengwei | evaluated |  | submission.py | 20b468 | 21.2/2.7/23.9 | 537.5 | 359.3 | 30.1 | 55.5 |
 | Apr 08 08:09 PM ET | Licha | evaluated |  | submission.py | af9273 | 37.5/5.3/42.8 | 531.8 | 188.6 | 202.8 | 213.0 |
 | Apr 08 08:09 PM ET | Licha | evaluated |  | develop.py | af9273 | 19.2/5.3/24.6 | 530.5 | 188.8 | 202.0 | 212.5 |
