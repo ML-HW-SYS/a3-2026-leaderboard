@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 09, 2026 at 04:08:51 PM ET`
+Last updated: `April 09, 2026 at 04:16:43 PM ET`
 
 ## R1 (tok/s)
 
@@ -98,12 +98,12 @@ Last updated: `April 09, 2026 at 04:08:51 PM ET`
 | 27 | ngoguen | submission.py | ecab75 | 282.6 |
 | 28 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
 | 29 | landrum | submission.py | 61ab81 | 276.9 |
-| 30 | gravlax | develop.py | b1229d | 273.0 |
-| 31 | Yize | submission.py | c8c9f7 | 269.9 |
-| 32 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
-| 33 | ishan-pat | develop.py | 75d32d | 259.7 |
-| 34 | happyface | develop.py | 0aca52 | 259.4 |
-| 35 | zionrangers | submission.py | 2a9d89 | 257.1 |
+| 30 | zionrangers | submission.py | 4be9b4 | 276.4 |
+| 31 | gravlax | develop.py | b1229d | 273.0 |
+| 32 | Yize | submission.py | c8c9f7 | 269.9 |
+| 33 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
+| 34 | ishan-pat | develop.py | 75d32d | 259.7 |
+| 35 | happyface | develop.py | 0aca52 | 259.4 |
 | 36 | ethanchen | submission.py | ea518d | 251.2 |
 | 37 | fishyfins | develop.py | 87e789 | 243.3 |
 | 38 | 13rabbit | develop.py | b38df9 | 243.3 |
@@ -150,19 +150,19 @@ Last updated: `April 09, 2026 at 04:08:51 PM ET`
 | 16 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
 | 17 | bl792 | develop.py | 09cd73 | 32.3 |
 | 18 | blabrl | submission.py | ca60eb | 33.7 |
-| 19 | chickfila | submission.py | f0956d | 34.7 |
-| 20 | gravlax | develop.py | b1229d | 35.0 |
-| 21 | PurplePickle67 | submission.py | 2efdba | 36.3 |
-| 22 | Yize | develop.py | 4c7928 | 39.3 |
-| 23 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 43.1 |
-| 24 | sjb | develop.py | 7fb492 | 50.4 |
-| 25 | ishan-pat | submission.py | 564670 | 55.1 |
-| 26 | Junyi Li | submission.py | c7a1b3 | 60.9 |
-| 27 | Licha | submission.py | 9666cd | 61.8 |
-| 28 | happyface | submission.py | 9f7886 | 63.4 |
-| 29 | alifim | submission.py | 701077 | 64.8 |
-| 30 | beratcelik | submission.py | 11c1b8 | 65.4 |
-| 31 | zionrangers | submission.py | 2a9d89 | 66.1 |
+| 19 | zionrangers | submission.py | 4be9b4 | 34.7 |
+| 20 | chickfila | submission.py | f0956d | 34.7 |
+| 21 | gravlax | develop.py | b1229d | 35.0 |
+| 22 | PurplePickle67 | submission.py | 2efdba | 36.3 |
+| 23 | Yize | develop.py | 4c7928 | 39.3 |
+| 24 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 43.1 |
+| 25 | sjb | develop.py | 7fb492 | 50.4 |
+| 26 | ishan-pat | submission.py | 564670 | 55.1 |
+| 27 | Junyi Li | submission.py | c7a1b3 | 60.9 |
+| 28 | Licha | submission.py | 9666cd | 61.8 |
+| 29 | happyface | submission.py | 9f7886 | 63.4 |
+| 30 | alifim | submission.py | 701077 | 64.8 |
+| 31 | beratcelik | submission.py | 11c1b8 | 65.4 |
 | 32 | JasonWang07 | submission.py | f27837 | 68.2 |
 | 33 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 70.9 |
 | 34 | leoli | submission.py | 5cdac4 | 71.0 |
@@ -219,8 +219,8 @@ Last updated: `April 09, 2026 at 04:08:51 PM ET`
 | 22 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
 | 23 | omermoav | submission.py | b01c0e | 64.6 |
 | 24 | blabrl | submission.py | ca60eb | 65.2 |
-| 25 | happyface | develop.py | 0aca52 | 65.7 |
-| 26 | zionrangers | develop.py | 2a9d89 | 71.4 |
+| 25 | zionrangers | submission.py | 4be9b4 | 65.6 |
+| 26 | happyface | develop.py | 0aca52 | 65.7 |
 | 27 | JasonWang07 | develop.py | f27837 | 78.3 |
 | 28 | leoli | submission.py | 5cdac4 | 87.4 |
 | 29 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 89.2 |

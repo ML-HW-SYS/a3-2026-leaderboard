@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 09, 2026 at 04:08:51 PM ET`
+Last updated: `April 09, 2026 at 04:16:43 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 09 04:07 PM ET | zionrangers | evaluated |  | submission.py | 4be9b4 | 18.8/3.2/22.0 | 534.1 | 276.4 | 34.7 | 65.6 |
 | Apr 09 03:43 PM ET | kade_lin_is_here | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | submission.py | 0d2dc7 | 72.8/3.5/76.3 | 533.4 | 237.6 | 94.2 | 0.0 |
 | Apr 09 02:43 PM ET | kade_lin_is_here | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | f35c48 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 09 02:39 PM ET | pallavi-srinivas | evaluated |  | submission.py | 26a6d9 | 19.6/3.6/23.2 | 538.0 | 307.4 | 104.5 | 150.4 |
