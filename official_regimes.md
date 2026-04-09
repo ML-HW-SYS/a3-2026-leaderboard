@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 09, 2026 at 12:58:17 AM ET`
+Last updated: `April 09, 2026 at 01:06:06 AM ET`
 
 ## R1 (tok/s)
 
@@ -37,10 +37,10 @@ Last updated: `April 09, 2026 at 12:58:17 AM ET`
 | 29 | sjb | evaluated | 373553 | 535.3 |
 | 30 | lipphi | evaluated | a3a71b | 534.8 |
 | 31 | chickfila | evaluated | f0956d | 534.5 |
-| 32 | Licha | evaluated | 094c4b | 534.4 |
-| 33 | Yize | evaluated | c8c9f7 | 534.4 |
-| 34 | kade_lin_is_here | evaluated | 5403c9 | 532.5 |
-| 35 | gravlax | evaluated | b1229d | 532.3 |
+| 32 | Yize | evaluated | c8c9f7 | 534.4 |
+| 33 | kade_lin_is_here | evaluated | 5403c9 | 532.5 |
+| 34 | gravlax | evaluated | b1229d | 532.3 |
+| 35 | Licha | evaluated | b20b8e | 529.6 |
 | 36 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
 | 37 | Junyi Li | evaluated | c7a1b3 | 527.3 |
 | 38 | castillo | evaluated | 0e93de | 526.6 |
@@ -107,9 +107,9 @@ Last updated: `April 09, 2026 at 12:58:17 AM ET`
 | 32 | ethanchen | evaluated | ea518d | 251.2 |
 | 33 | 13rabbit | evaluated | b38df9 | 242.9 |
 | 34 | bl792 | evaluated | 09cd73 | 238.8 |
-| 35 | Licha | evaluated | 094c4b | 238.2 |
-| 36 | kade_lin_is_here | evaluated | 5403c9 | 236.9 |
-| 37 | beratcelik | evaluated | 863a89 | 231.2 |
+| 35 | kade_lin_is_here | evaluated | 5403c9 | 236.9 |
+| 36 | beratcelik | evaluated | 863a89 | 231.2 |
+| 37 | Licha | evaluated | b20b8e | 212.4 |
 | 38 | pallavi-srinivas | evaluated | b82073 | 207.1 |
 | 39 | tuo | evaluated | 3d6d40 | 204.6 |
 | 40 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
@@ -165,19 +165,19 @@ Last updated: `April 09, 2026 at 12:58:17 AM ET`
 | 23 | sjb | evaluated | 373553 | 50.8 |
 | 24 | ishan-pat | evaluated | fddca1 | 56.0 |
 | 25 | Junyi Li | evaluated | c7a1b3 | 60.9 |
-| 26 | Licha | evaluated | 094c4b | 62.5 |
-| 27 | happyface | evaluated | 7e8b61 | 63.7 |
-| 28 | alifim | evaluated | 701077 | 64.8 |
-| 29 | beratcelik | evaluated | 863a89 | 68.2 |
-| 30 | JasonWang07 | evaluated | a4b405 | 70.8 |
-| 31 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
-| 32 | leoli | evaluated | 5cdac4 | 71.0 |
-| 33 | ethanchen | evaluated | ea518d | 74.4 |
-| 34 | TA | evaluated | a6e863 | 85.6 |
-| 35 | 13rabbit | evaluated | b38df9 | 100.3 |
-| 36 | jl | evaluated | 8b6423 | 102.6 |
-| 37 | lipphi | evaluated | a3a71b | 104.4 |
-| 38 | kade_lin_is_here | evaluated | 5403c9 | 108.4 |
+| 26 | happyface | evaluated | 7e8b61 | 63.7 |
+| 27 | alifim | evaluated | 701077 | 64.8 |
+| 28 | beratcelik | evaluated | 863a89 | 68.2 |
+| 29 | JasonWang07 | evaluated | a4b405 | 70.8 |
+| 30 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
+| 31 | leoli | evaluated | 5cdac4 | 71.0 |
+| 32 | ethanchen | evaluated | ea518d | 74.4 |
+| 33 | TA | evaluated | a6e863 | 85.6 |
+| 34 | 13rabbit | evaluated | b38df9 | 100.3 |
+| 35 | jl | evaluated | 8b6423 | 102.6 |
+| 36 | lipphi | evaluated | a3a71b | 104.4 |
+| 37 | kade_lin_is_here | evaluated | 5403c9 | 108.4 |
+| 38 | Licha | evaluated | b20b8e | 128.0 |
 | 39 | abhik | evaluated | bf55dc | 140.5 |
 | 40 | tuo | evaluated | 3d6d40 | 167.8 |
 | 41 | pallavi-srinivas | evaluated | b82073 | 190.5 |
@@ -238,13 +238,13 @@ Last updated: `April 09, 2026 at 12:58:17 AM ET`
 | 29 | ishan-pat | evaluated | fddca1 | 111.8 |
 | 30 | Junyi Li | evaluated | c7a1b3 | 113.1 |
 | 31 | beratcelik | evaluated | 863a89 | 113.8 |
-| 32 | Licha | evaluated | 094c4b | 116.0 |
-| 33 | ethanchen | evaluated | ea518d | 123.6 |
-| 34 | TA | evaluated | a6e863 | 135.6 |
-| 35 | kade_lin_is_here | evaluated | 5403c9 | 137.7 |
-| 36 | 13rabbit | evaluated | b38df9 | 142.7 |
-| 37 | jl | evaluated | 8b6423 | 149.1 |
-| 38 | lipphi | evaluated | a3a71b | 150.9 |
+| 32 | ethanchen | evaluated | ea518d | 123.6 |
+| 33 | TA | evaluated | a6e863 | 135.6 |
+| 34 | kade_lin_is_here | evaluated | 5403c9 | 137.7 |
+| 35 | 13rabbit | evaluated | b38df9 | 142.7 |
+| 36 | jl | evaluated | 8b6423 | 149.1 |
+| 37 | lipphi | evaluated | a3a71b | 150.9 |
+| 38 | Licha | evaluated | b20b8e | 155.9 |
 | 39 | tuo | evaluated | 3d6d40 | 162.8 |
 | 40 | abhik | evaluated | bf55dc | 172.5 |
 | 41 | zionrangers | evaluated | 369a23 | 188.0 |
