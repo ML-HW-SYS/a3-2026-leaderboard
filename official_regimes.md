@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 09, 2026 at 02:35:28 PM ET`
+Last updated: `April 09, 2026 at 02:43:18 PM ET`
 
 ## R1 (tok/s)
 
@@ -59,10 +59,10 @@ Last updated: `April 09, 2026 at 02:35:28 PM ET`
 | 51 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
 | 52 | Rithvik | evaluated | 2924a0 | 495.8 |
 | 53 | tuo | evaluated | 3d6d40 | 494.8 |
-| 54 | abhik | evaluated | bf55dc | 157.9 |
-| 55 | poppyPotatoe | evaluated | eea264 | 144.2 |
-| 56 | Decode_speed | evaluated | 097a6b | 104.5 |
-|  | co-smith | failed | d8e0da |  |
+| 54 | co-smith | evaluated | dcfadf | 167.2 |
+| 55 | abhik | evaluated | bf55dc | 157.9 |
+| 56 | poppyPotatoe | evaluated | eea264 | 144.2 |
+| 57 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -128,9 +128,9 @@ Last updated: `April 09, 2026 at 02:35:28 PM ET`
 | 52 | yb | evaluated | ea23ab | 168.8 |
 | 53 | nicknam534534 | evaluated | 83a901 | 148.4 |
 | 54 | abhik | evaluated | bf55dc | 127.8 |
-| 55 | poppyPotatoe | evaluated | eea264 | 109.8 |
-| 56 | Decode_speed | evaluated | 097a6b | 77.3 |
-|  | co-smith | failed | d8e0da |  |
+| 55 | co-smith | evaluated | dcfadf | 112.4 |
+| 56 | poppyPotatoe | evaluated | eea264 | 109.8 |
+| 57 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -196,9 +196,9 @@ Last updated: `April 09, 2026 at 02:35:28 PM ET`
 | 52 | poppyPotatoe | evaluated | eea264 | 311.3 |
 | 53 | castillo | evaluated | 0e93de | 311.4 |
 | 54 | yb | evaluated | ea23ab | 312.3 |
-| 55 | nicknam534534 | evaluated | 83a901 | 405.3 |
-| 56 | Decode_speed | evaluated | 097a6b | 412.7 |
-|  | co-smith | failed | d8e0da |  |
+| 55 | co-smith | evaluated | dcfadf | 323.6 |
+| 56 | nicknam534534 | evaluated | 83a901 | 405.3 |
+| 57 | Decode_speed | evaluated | 097a6b | 412.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -264,9 +264,9 @@ Last updated: `April 09, 2026 at 02:35:28 PM ET`
 | 52 | act | evaluated | 899777 | 250.7 |
 | 53 | jbc | evaluated | 12bb20 | 251.3 |
 | 54 | poppyPotatoe | evaluated | eea264 | 251.9 |
-| 55 | nicknam534534 | evaluated | 83a901 | 268.7 |
-| 56 | Decode_speed | evaluated | 097a6b | 270.3 |
-|  | co-smith | failed | d8e0da |  |
+| 55 | co-smith | evaluated | dcfadf | 257.4 |
+| 56 | nicknam534534 | evaluated | 83a901 | 268.7 |
+| 57 | Decode_speed | evaluated | 097a6b | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | mdavalos10 | failed | b601f0 |  |
 |  | SIUUU | failed | ad9184 |  |
