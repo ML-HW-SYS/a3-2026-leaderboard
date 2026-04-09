@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 08, 2026 at 08:21:45 PM ET`
+Last updated: `April 08, 2026 at 08:30:06 PM ET`
 
 ## R1 (tok/s)
 
@@ -58,8 +58,8 @@ Last updated: `April 08, 2026 at 08:21:45 PM ET`
 | 50 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
 | 51 | Rithvik | evaluated | 2924a0 | 495.8 |
 | 52 | tuo | evaluated | 3d6d40 | 494.8 |
-| 53 | poppyPotatoe | evaluated | cbca27 | 165.1 |
-| 54 | abhik | evaluated | bf55dc | 157.9 |
+| 53 | abhik | evaluated | bf55dc | 157.9 |
+| 54 | poppyPotatoe | evaluated | eea264 | 144.2 |
 | 55 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 030bc1 |  |
@@ -126,7 +126,7 @@ Last updated: `April 08, 2026 at 08:21:45 PM ET`
 | 51 | yb | evaluated | ea23ab | 168.8 |
 | 52 | nicknam534534 | evaluated | 83a901 | 148.4 |
 | 53 | abhik | evaluated | bf55dc | 127.8 |
-| 54 | poppyPotatoe | evaluated | cbca27 | 111.5 |
+| 54 | poppyPotatoe | evaluated | eea264 | 109.8 |
 | 55 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 030bc1 |  |
@@ -190,7 +190,7 @@ Last updated: `April 08, 2026 at 08:21:45 PM ET`
 | 48 | act | evaluated | 899777 | 310.9 |
 | 49 | zionrangers | evaluated | 4d6fe5 | 311.2 |
 | 50 | jbc | evaluated | 12bb20 | 311.3 |
-| 51 | poppyPotatoe | evaluated | cbca27 | 311.3 |
+| 51 | poppyPotatoe | evaluated | eea264 | 311.3 |
 | 52 | castillo | evaluated | 0e93de | 311.4 |
 | 53 | yb | evaluated | ea23ab | 312.3 |
 | 54 | nicknam534534 | evaluated | 83a901 | 405.3 |
@@ -256,10 +256,10 @@ Last updated: `April 08, 2026 at 08:21:45 PM ET`
 | 47 | yoursun1220 | evaluated | d8b590 | 250.1 |
 | 48 | castillo | evaluated | 0e93de | 250.4 |
 | 49 | zionrangers | evaluated | 4d6fe5 | 250.4 |
-| 50 | poppyPotatoe | evaluated | cbca27 | 250.6 |
-| 51 | yb | evaluated | ea23ab | 250.6 |
-| 52 | act | evaluated | 899777 | 250.7 |
-| 53 | jbc | evaluated | 12bb20 | 251.3 |
+| 50 | yb | evaluated | ea23ab | 250.6 |
+| 51 | act | evaluated | 899777 | 250.7 |
+| 52 | jbc | evaluated | 12bb20 | 251.3 |
+| 53 | poppyPotatoe | evaluated | eea264 | 251.9 |
 | 54 | nicknam534534 | evaluated | 83a901 | 268.7 |
 | 55 | Decode_speed | evaluated | 097a6b | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |

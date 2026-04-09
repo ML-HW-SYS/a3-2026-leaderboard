@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 08, 2026 at 08:21:45 PM ET`
+Last updated: `April 08, 2026 at 08:30:06 PM ET`
 
 ## R1 (tok/s)
 
@@ -171,7 +171,7 @@ Last updated: `April 08, 2026 at 08:21:45 PM ET`
 | 39 | abhik | submission.py | 93ffca | 140.3 |
 | 40 | tuo | submission.py | 92c00e | 166.9 |
 | 41 | pallavi-srinivas | submission.py | c7a655 | 190.0 |
-| 42 | Licha | submission.py | 8fdc3a | 202.7 |
+| 42 | Licha | develop.py | af9273 | 202.0 |
 | 43 | nicknam534534 | develop.py | cd4c9b | 210.5 |
 | 44 | fishyfins | submission.py | 6c0e20 | 304.6 |
 | 45 | dylanjhnsondj | submission.py | c4e1ab | 306.0 |
@@ -234,7 +234,7 @@ Last updated: `April 08, 2026 at 08:21:45 PM ET`
 | 40 | tuo | submission.py | 4274da | 160.5 |
 | 41 | abhik | submission.py | 572159 | 172.1 |
 | 42 | pallavi-srinivas | submission.py | b82073 | 192.2 |
-| 43 | Licha | submission.py | af9273 | 213.0 |
+| 43 | Licha | develop.py | af9273 | 212.5 |
 | 44 | fishyfins | submission.py | 6c0e20 | 232.9 |
 | 45 | dylanjhnsondj | submission.py | c4e1ab | 236.8 |
 | 46 | hw_bloss | submission.py | b2767b | 237.0 |
