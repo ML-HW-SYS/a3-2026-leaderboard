@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 10, 2026 at 05:31:43 PM ET`
+Last updated: `April 10, 2026 at 05:39:41 PM ET`
 
 ## Pages
 
@@ -21,8 +21,8 @@ Last updated: `April 10, 2026 at 05:31:43 PM ET`
 | 7 | ashaikh23 | evaluated | 84a425 | 26.9/2.6/29.5 | 1.750 | 555.4 | 372.1 | 29.1 | 50.2 |
 | 8 | pyjuan91 | evaluated | fe8f27 | 24.8/2.7/27.5 | 1.707 | 540.9 | 363.6 | 28.8 | 53.3 |
 | 9 | Rithvik | evaluated | 2924a0 | 46.5/2.9/49.4 | 1.706 | 495.8 | 335.8 | 27.1 | 48.0 |
-| 10 | chickfila | evaluated | f0956d | 65.8/2.6/68.4 | 1.693 | 534.5 | 398.8 | 34.7 | 49.6 |
-| 11 | prousoglou | evaluated | bd7151 | 38.0/2.7/40.6 | 1.685 | 548.6 | 371.8 | 30.4 | 55.3 |
+| 10 | prousoglou | evaluated | 294560 | 19.6/2.6/22.2 | 1.704 | 554.4 | 372.5 | 29.8 | 54.5 |
+| 11 | chickfila | evaluated | f0956d | 65.8/2.6/68.4 | 1.693 | 534.5 | 398.8 | 34.7 | 49.6 |
 | 12 | nickname55555555 | evaluated | 4dcb5c | 62.1/2.7/64.8 | 1.677 | 559.5 | 345.4 | 31.8 | 50.8 |
 | 13 | Shengwei | evaluated | 20b468 | 21.2/2.7/23.9 | 1.663 | 537.5 | 359.3 | 30.1 | 55.5 |
 | 14 | ngoguen | evaluated | f69acc | 33.5/3.1/36.6 | 1.659 | 538.9 | 282.0 | 26.3 | 50.4 |
@@ -69,6 +69,7 @@ Last updated: `April 10, 2026 at 05:31:43 PM ET`
 | 55 | co-smith | evaluated | dcfadf | 15.5/9.9/25.4 | 0.350 | 167.2 | 112.4 | 323.6 | 257.4 |
 | 56 | poppyPotatoe | evaluated | eea264 | 17.1/10.5/27.5 | 0.340 | 144.2 | 109.8 | 311.3 | 251.9 |
 | 57 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
+|  | brandon_lorenzo | failed | 3cc86c | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | kade_lin_is_here | failed | 0d2dc7 | 72.8/3.5/76.3 |  |  |  |  |  |
 |  | siddarak | failed | d85766 | 21.8/9.2/31.0 |  |  |  |  |  |

@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 10, 2026 at 05:31:43 PM ET`
+Last updated: `April 10, 2026 at 05:39:41 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 10 05:35 PM ET | prousoglou | evaluated |  | submission.py | 294560 | 19.6/2.6/22.2 | 554.4 | 372.5 | 29.8 | 54.5 |
+| Apr 10 05:28 PM ET | brandon_lorenzo | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 3cc86c | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 10 05:12 PM ET | prousoglou | evaluated |  | develop.py | d07c41 | 22.0/2.6/24.7 | 555.2 | 372.4 | 29.7 | 54.5 |
 | Apr 10 04:56 PM ET | nickname55555555 | evaluated |  | submission.py | 4dcb5c | 62.1/2.7/64.8 | 559.5 | 345.4 | 31.8 | 50.8 |
 | Apr 10 04:56 PM ET | nickname55555555 | evaluated |  | develop.py | 4dcb5c | 27.3/2.7/30.1 | 556.6 | 346.0 | 31.3 | 50.4 |

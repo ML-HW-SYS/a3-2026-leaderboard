@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 10, 2026 at 05:31:43 PM ET`
+Last updated: `April 10, 2026 at 05:39:41 PM ET`
 
 ## R1 (tok/s)
 
@@ -20,7 +20,7 @@ Last updated: `April 10, 2026 at 05:31:43 PM ET`
 | 12 | TA | evaluated | a6e863 | 556.6 |
 | 13 | chyyy | evaluated | 34cc06 | 555.7 |
 | 14 | ashaikh23 | evaluated | 84a425 | 555.4 |
-| 15 | prousoglou | evaluated | bd7151 | 548.6 |
+| 15 | prousoglou | evaluated | 294560 | 554.4 |
 | 16 | JasonWang07 | evaluated | a4b405 | 547.1 |
 | 17 | leoli | evaluated | 5cdac4 | 544.1 |
 | 18 | happyface | evaluated | 7e8b61 | 543.0 |
@@ -63,6 +63,7 @@ Last updated: `April 10, 2026 at 05:31:43 PM ET`
 | 55 | abhik | evaluated | bf55dc | 157.9 |
 | 56 | poppyPotatoe | evaluated | eea264 | 144.2 |
 | 57 | Decode_speed | evaluated | 097a6b | 104.5 |
+|  | brandon_lorenzo | failed | 3cc86c |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | siddarak | failed | d85766 |  |
@@ -83,8 +84,8 @@ Last updated: `April 10, 2026 at 05:31:43 PM ET`
 | 6 | alifim | evaluated | 701077 | 381.2 |
 | 7 | abarat007 | evaluated | d7f626 | 378.6 |
 | 8 | omermoav | evaluated | b01c0e | 373.6 |
-| 9 | ashaikh23 | evaluated | 84a425 | 372.1 |
-| 10 | prousoglou | evaluated | bd7151 | 371.8 |
+| 9 | prousoglou | evaluated | 294560 | 372.5 |
+| 10 | ashaikh23 | evaluated | 84a425 | 372.1 |
 | 11 | zionrangers | evaluated | 7758e0 | 371.7 |
 | 12 | pyjuan91 | evaluated | fe8f27 | 363.6 |
 | 13 | Shengwei | evaluated | 20b468 | 359.3 |
@@ -132,6 +133,7 @@ Last updated: `April 10, 2026 at 05:31:43 PM ET`
 | 55 | co-smith | evaluated | dcfadf | 112.4 |
 | 56 | poppyPotatoe | evaluated | eea264 | 109.8 |
 | 57 | Decode_speed | evaluated | 097a6b | 77.3 |
+|  | brandon_lorenzo | failed | 3cc86c |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | siddarak | failed | d85766 |  |
@@ -154,9 +156,9 @@ Last updated: `April 10, 2026 at 05:31:43 PM ET`
 | 8 | abarat007 | evaluated | d7f626 | 28.1 |
 | 9 | pyjuan91 | evaluated | fe8f27 | 28.8 |
 | 10 | ashaikh23 | evaluated | 84a425 | 29.1 |
-| 11 | landrum | evaluated | 61ab81 | 29.9 |
-| 12 | Shengwei | evaluated | 20b468 | 30.1 |
-| 13 | prousoglou | evaluated | bd7151 | 30.4 |
+| 11 | prousoglou | evaluated | 294560 | 29.8 |
+| 12 | landrum | evaluated | 61ab81 | 29.9 |
+| 13 | Shengwei | evaluated | 20b468 | 30.1 |
 | 14 | nickname55555555 | evaluated | 4dcb5c | 31.8 |
 | 15 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
 | 16 | bl792 | evaluated | 09cd73 | 32.4 |
@@ -201,6 +203,7 @@ Last updated: `April 10, 2026 at 05:31:43 PM ET`
 | 55 | co-smith | evaluated | dcfadf | 323.6 |
 | 56 | nicknam534534 | evaluated | 83a901 | 405.3 |
 | 57 | Decode_speed | evaluated | 097a6b | 412.7 |
+|  | brandon_lorenzo | failed | 3cc86c |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | siddarak | failed | d85766 |  |
@@ -229,7 +232,7 @@ Last updated: `April 10, 2026 at 05:31:43 PM ET`
 | 14 | pyjuan91 | evaluated | fe8f27 | 53.3 |
 | 15 | sjb | evaluated | 373553 | 53.6 |
 | 16 | landrum | evaluated | 61ab81 | 53.7 |
-| 17 | prousoglou | evaluated | bd7151 | 55.3 |
+| 17 | prousoglou | evaluated | 294560 | 54.5 |
 | 18 | Shengwei | evaluated | 20b468 | 55.5 |
 | 19 | gravlax | evaluated | b1229d | 59.7 |
 | 20 | bl792 | evaluated | 09cd73 | 59.9 |
@@ -270,6 +273,7 @@ Last updated: `April 10, 2026 at 05:31:43 PM ET`
 | 55 | co-smith | evaluated | dcfadf | 257.4 |
 | 56 | nicknam534534 | evaluated | 83a901 | 268.7 |
 | 57 | Decode_speed | evaluated | 097a6b | 270.3 |
+|  | brandon_lorenzo | failed | 3cc86c |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | siddarak | failed | d85766 |  |
