@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 10, 2026 at 04:28:31 PM ET`
+Last updated: `April 10, 2026 at 04:36:24 PM ET`
 
 ## R1 (tok/s)
 
@@ -144,11 +144,11 @@ Last updated: `April 10, 2026 at 04:28:31 PM ET`
 | 8 | omermoav | submission.py | dc63b9 | 26.9 |
 | 9 | zionrangers | develop.py | 7758e0 | 27.3 |
 | 10 | zhumengzhiren | submission.py | 789cd3 | 27.9 |
-| 11 | abarat007 | submission.py | d7f626 | 28.1 |
-| 12 | pyjuan91 | submission.py | 430a83 | 28.8 |
-| 13 | ashaikh23 | submission.py | 84a425 | 29.1 |
-| 14 | landrum | develop.py | 4d2d51 | 29.6 |
-| 15 | prousoglou | submission.py | bd7151 | 30.4 |
+| 11 | prousoglou | develop.py | cc747b | 28.1 |
+| 12 | abarat007 | submission.py | d7f626 | 28.1 |
+| 13 | pyjuan91 | submission.py | 430a83 | 28.8 |
+| 14 | ashaikh23 | submission.py | 84a425 | 29.1 |
+| 15 | landrum | develop.py | 4d2d51 | 29.6 |
 | 16 | nickname55555555 | submission.py | f60ff5 | 30.9 |
 | 17 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
 | 18 | bl792 | develop.py | 09cd73 | 32.3 |
@@ -211,13 +211,13 @@ Last updated: `April 10, 2026 at 04:28:31 PM ET`
 | 10 | zhumengzhiren | develop.py | cf2924 | 50.1 |
 | 11 | ashaikh23 | submission.py | 84a425 | 50.2 |
 | 12 | nickname55555555 | submission.py | 506f8f | 50.5 |
-| 13 | abarat007 | submission.py | 260fed | 51.5 |
-| 14 | PurplePickle67 | submission.py | 2efdba | 51.9 |
-| 15 | sjb | develop.py | 387987 | 53.1 |
-| 16 | pyjuan91 | develop.py | 92d1da | 53.1 |
-| 17 | Yize | submission.py | c8c9f7 | 53.1 |
-| 18 | landrum | develop.py | 4d2d51 | 53.5 |
-| 19 | prousoglou | submission.py | bd7151 | 55.3 |
+| 13 | prousoglou | develop.py | cc747b | 51.4 |
+| 14 | abarat007 | submission.py | 260fed | 51.5 |
+| 15 | PurplePickle67 | submission.py | 2efdba | 51.9 |
+| 16 | sjb | develop.py | 387987 | 53.1 |
+| 17 | pyjuan91 | develop.py | 92d1da | 53.1 |
+| 18 | Yize | submission.py | c8c9f7 | 53.1 |
+| 19 | landrum | develop.py | 4d2d51 | 53.5 |
 | 20 | gravlax | submission.py | b1229d | 59.7 |
 | 21 | bl792 | develop.py | 09cd73 | 59.8 |
 | 22 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 59.9 |
