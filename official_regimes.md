@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 09, 2026 at 08:58:02 PM ET`
+Last updated: `April 09, 2026 at 09:05:56 PM ET`
 
 ## R1 (tok/s)
 
@@ -64,7 +64,7 @@ Last updated: `April 09, 2026 at 08:58:02 PM ET`
 | 56 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
-|  | mdavalos10 | failed | b601f0 |  |
+|  | mdavalos10 | failed | 865517 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
@@ -133,7 +133,7 @@ Last updated: `April 09, 2026 at 08:58:02 PM ET`
 | 56 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
-|  | mdavalos10 | failed | b601f0 |  |
+|  | mdavalos10 | failed | 865517 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
@@ -202,7 +202,7 @@ Last updated: `April 09, 2026 at 08:58:02 PM ET`
 | 56 | Decode_speed | evaluated | 097a6b | 412.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
-|  | mdavalos10 | failed | b601f0 |  |
+|  | mdavalos10 | failed | 865517 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
@@ -271,7 +271,7 @@ Last updated: `April 09, 2026 at 08:58:02 PM ET`
 | 56 | Decode_speed | evaluated | 097a6b | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
-|  | mdavalos10 | failed | b601f0 |  |
+|  | mdavalos10 | failed | 865517 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |

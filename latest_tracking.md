@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 09, 2026 at 08:58:02 PM ET`
+Last updated: `April 09, 2026 at 09:05:56 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 09 08:56 PM ET | mdavalos10 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 865517 | 22.4/6.2/28.5 | 534.9 | 171.3 | 308.6 | 246.5 |
 | Apr 09 06:26 PM ET | nicknam534534 | failed_compliance | Submission compliance check failed for develop.py: \| - setup(...) must have arguments exactly `(weights, scales, conf... | develop.py | 482329 |  |  |  |  |  |
 | Apr 09 06:11 PM ET | nicknam534534 | failed_compliance | SyntaxError during policy check: expected an indented block after function definition on line 520 (develop.py, line 521) | develop.py | 07f64c |  |  |  |  |  |
 | Apr 09 06:05 PM ET | nicknam534534 | failed_compliance | Submission compliance check failed for develop.py: \| - setup(...) must have arguments exactly `(weights, scales, conf... | develop.py | a794f3 |  |  |  |  |  |
