@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 10, 2026 at 05:08:32 PM ET`
+Last updated: `April 10, 2026 at 05:16:29 PM ET`
 
 ## R1 (tok/s)
 
@@ -86,7 +86,7 @@ Last updated: `April 10, 2026 at 05:08:32 PM ET`
 | 14 | Shengwei | submission.py | 67896e | 362.7 |
 | 15 | gm | develop.py | fd15e9 | 357.3 |
 | 16 | sjb | develop.py | 7fb492 | 347.4 |
-| 17 | nickname55555555 | submission.py | dfd550 | 345.9 |
+| 17 | nickname55555555 | develop.py | 4dcb5c | 346.0 |
 | 18 | JasonWang07 | develop.py | 2ecd91 | 343.1 |
 | 19 | Rithvik | submission.py | 2924a0 | 335.8 |
 | 20 | leoli | submission.py | 5cdac4 | 327.5 |
@@ -210,7 +210,7 @@ Last updated: `April 10, 2026 at 05:08:32 PM ET`
 | 9 | chickfila | submission.py | f0956d | 49.6 |
 | 10 | zhumengzhiren | develop.py | cf2924 | 50.1 |
 | 11 | ashaikh23 | submission.py | 84a425 | 50.2 |
-| 12 | nickname55555555 | submission.py | 506f8f | 50.5 |
+| 12 | nickname55555555 | develop.py | 4dcb5c | 50.4 |
 | 13 | prousoglou | develop.py | cc747b | 51.4 |
 | 14 | abarat007 | submission.py | 260fed | 51.5 |
 | 15 | PurplePickle67 | submission.py | 2efdba | 51.9 |
