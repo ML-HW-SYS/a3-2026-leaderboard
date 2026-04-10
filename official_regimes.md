@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 10, 2026 at 12:46:31 PM ET`
+Last updated: `April 10, 2026 at 12:54:34 PM ET`
 
 ## R1 (tok/s)
 
@@ -29,7 +29,7 @@ Last updated: `April 10, 2026 at 12:46:31 PM ET`
 | 21 | pyjuan91 | evaluated | fe8f27 | 540.9 |
 | 22 | alifim | evaluated | 701077 | 539.6 |
 | 23 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
-| 24 | ngoguen | evaluated | ecab75 | 538.2 |
+| 24 | ngoguen | evaluated | f69acc | 538.9 |
 | 25 | stefan | evaluated | 583665 | 538.1 |
 | 26 | pallavi-srinivas | evaluated | 26a6d9 | 538.0 |
 | 27 | Shengwei | evaluated | 20b468 | 537.5 |
@@ -100,7 +100,7 @@ Last updated: `April 10, 2026 at 12:46:31 PM ET`
 | 23 | lipphi | evaluated | a3a71b | 306.7 |
 | 24 | PurplePickle67 | evaluated | 68d34e | 303.7 |
 | 25 | TA | evaluated | a6e863 | 294.5 |
-| 26 | ngoguen | evaluated | ecab75 | 282.6 |
+| 26 | ngoguen | evaluated | f69acc | 282.0 |
 | 27 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
 | 28 | landrum | evaluated | 61ab81 | 276.9 |
 | 29 | gravlax | evaluated | b1229d | 272.5 |
@@ -146,7 +146,7 @@ Last updated: `April 10, 2026 at 12:46:31 PM ET`
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 21.8 |
 | 2 | chyyy | evaluated | 34cc06 | 24.8 |
-| 3 | ngoguen | evaluated | ecab75 | 26.3 |
+| 3 | ngoguen | evaluated | f69acc | 26.3 |
 | 4 | gm | evaluated | 2898fc | 26.8 |
 | 5 | Rithvik | evaluated | 2924a0 | 27.1 |
 | 6 | zionrangers | evaluated | 7758e0 | 27.3 |
@@ -218,10 +218,10 @@ Last updated: `April 10, 2026 at 12:46:31 PM ET`
 | 3 | Rithvik | evaluated | 2924a0 | 48.0 |
 | 4 | gm | evaluated | 2898fc | 48.5 |
 | 5 | zionrangers | evaluated | 7758e0 | 48.7 |
-| 6 | ngoguen | evaluated | ecab75 | 49.6 |
-| 7 | chickfila | evaluated | f0956d | 49.6 |
-| 8 | ashaikh23 | evaluated | 84a425 | 50.2 |
-| 9 | zhumengzhiren | evaluated | cf2924 | 50.2 |
+| 6 | chickfila | evaluated | f0956d | 49.6 |
+| 7 | ashaikh23 | evaluated | 84a425 | 50.2 |
+| 8 | zhumengzhiren | evaluated | cf2924 | 50.2 |
+| 9 | ngoguen | evaluated | f69acc | 50.4 |
 | 10 | nickname55555555 | evaluated | 00ea49 | 51.2 |
 | 11 | abarat007 | evaluated | d7f626 | 51.5 |
 | 12 | PurplePickle67 | evaluated | 68d34e | 52.1 |

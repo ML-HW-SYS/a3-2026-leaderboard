@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 10, 2026 at 12:46:31 PM ET`
+Last updated: `April 10, 2026 at 12:54:34 PM ET`
 
 ## Pages
 
@@ -24,8 +24,8 @@ Last updated: `April 10, 2026 at 12:46:31 PM ET`
 | 10 | chickfila | evaluated | f0956d | 65.8/2.6/68.4 | 1.693 | 534.5 | 398.8 | 34.7 | 49.6 |
 | 11 | prousoglou | evaluated | bd7151 | 38.0/2.7/40.6 | 1.685 | 548.6 | 371.8 | 30.4 | 55.3 |
 | 12 | nickname55555555 | evaluated | 00ea49 | 76.3/2.8/79.1 | 1.676 | 561.3 | 337.3 | 31.1 | 51.2 |
-| 13 | ngoguen | evaluated | ecab75 | 40.1/3.1/43.2 | 1.666 | 538.2 | 282.6 | 26.3 | 49.6 |
-| 14 | Shengwei | evaluated | 20b468 | 21.2/2.7/23.9 | 1.663 | 537.5 | 359.3 | 30.1 | 55.5 |
+| 13 | Shengwei | evaluated | 20b468 | 21.2/2.7/23.9 | 1.663 | 537.5 | 359.3 | 30.1 | 55.5 |
+| 14 | ngoguen | evaluated | f69acc | 33.5/3.1/36.6 | 1.659 | 538.9 | 282.0 | 26.3 | 50.4 |
 | 15 | blabrl | evaluated | ca60eb | 19.3/2.6/21.9 | 1.593 | 557.4 | 383.3 | 33.7 | 65.2 |
 | 16 | omermoav | evaluated | b01c0e | 18.6/2.7/21.3 | 1.578 | 569.6 | 373.6 | 35.2 | 64.6 |
 | 17 | landrum | evaluated | 61ab81 | 22.7/3.1/25.8 | 1.573 | 535.7 | 276.9 | 29.9 | 53.7 |
