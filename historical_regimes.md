@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 10, 2026 at 10:01:56 AM ET`
+Last updated: `April 10, 2026 at 10:10:08 AM ET`
 
 ## R1 (tok/s)
 
@@ -81,7 +81,7 @@ Last updated: `April 10, 2026 at 10:01:56 AM ET`
 | 9 | omermoav | submission.py | dc63b9 | 374.3 |
 | 10 | zionrangers | develop.py | 7758e0 | 372.9 |
 | 11 | ashaikh23 | submission.py | 84a425 | 372.1 |
-| 12 | prousoglou | develop.py | 0263e4 | 371.5 |
+| 12 | prousoglou | submission.py | bd7151 | 371.8 |
 | 13 | pyjuan91 | develop.py | 92d1da | 364.9 |
 | 14 | Shengwei | submission.py | 67896e | 362.7 |
 | 15 | gm | develop.py | fd15e9 | 357.3 |
@@ -148,7 +148,7 @@ Last updated: `April 10, 2026 at 10:01:56 AM ET`
 | 12 | pyjuan91 | submission.py | 430a83 | 28.8 |
 | 13 | ashaikh23 | submission.py | 84a425 | 29.1 |
 | 14 | landrum | develop.py | 4d2d51 | 29.6 |
-| 15 | prousoglou | develop.py | 27721d | 30.4 |
+| 15 | prousoglou | submission.py | bd7151 | 30.4 |
 | 16 | nickname55555555 | submission.py | f60ff5 | 30.9 |
 | 17 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
 | 18 | bl792 | develop.py | 09cd73 | 32.3 |
@@ -217,7 +217,7 @@ Last updated: `April 10, 2026 at 10:01:56 AM ET`
 | 16 | pyjuan91 | develop.py | 92d1da | 53.1 |
 | 17 | Yize | submission.py | c8c9f7 | 53.1 |
 | 18 | landrum | develop.py | 4d2d51 | 53.5 |
-| 19 | prousoglou | develop.py | 0263e4 | 55.4 |
+| 19 | prousoglou | submission.py | bd7151 | 55.3 |
 | 20 | gravlax | submission.py | b1229d | 59.7 |
 | 21 | bl792 | develop.py | 09cd73 | 59.8 |
 | 22 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 59.9 |

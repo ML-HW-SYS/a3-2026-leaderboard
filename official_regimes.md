@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 10, 2026 at 10:01:56 AM ET`
+Last updated: `April 10, 2026 at 10:10:08 AM ET`
 
 ## R1 (tok/s)
 
@@ -17,10 +17,10 @@ Last updated: `April 10, 2026 at 10:01:56 AM ET`
 | 9 | abarat007 | evaluated | d7f626 | 559.5 |
 | 10 | your_nickname_here | evaluated | f10b9b | 557.8 |
 | 11 | blabrl | evaluated | ca60eb | 557.4 |
-| 12 | prousoglou | evaluated | 570c63 | 556.7 |
-| 13 | TA | evaluated | a6e863 | 556.6 |
-| 14 | chyyy | evaluated | 34cc06 | 555.7 |
-| 15 | ashaikh23 | evaluated | 84a425 | 555.4 |
+| 12 | TA | evaluated | a6e863 | 556.6 |
+| 13 | chyyy | evaluated | 34cc06 | 555.7 |
+| 14 | ashaikh23 | evaluated | 84a425 | 555.4 |
+| 15 | prousoglou | evaluated | bd7151 | 548.6 |
 | 16 | JasonWang07 | evaluated | a4b405 | 547.1 |
 | 17 | leoli | evaluated | 5cdac4 | 544.1 |
 | 18 | happyface | evaluated | 7e8b61 | 543.0 |
@@ -84,8 +84,8 @@ Last updated: `April 10, 2026 at 10:01:56 AM ET`
 | 7 | abarat007 | evaluated | d7f626 | 378.6 |
 | 8 | omermoav | evaluated | b01c0e | 373.6 |
 | 9 | ashaikh23 | evaluated | 84a425 | 372.1 |
-| 10 | zionrangers | evaluated | 7758e0 | 371.7 |
-| 11 | prousoglou | evaluated | 570c63 | 368.2 |
+| 10 | prousoglou | evaluated | bd7151 | 371.8 |
+| 11 | zionrangers | evaluated | 7758e0 | 371.7 |
 | 12 | pyjuan91 | evaluated | fe8f27 | 363.6 |
 | 13 | Shengwei | evaluated | 20b468 | 359.3 |
 | 14 | gm | evaluated | 2898fc | 357.0 |
@@ -156,11 +156,11 @@ Last updated: `April 10, 2026 at 10:01:56 AM ET`
 | 10 | ashaikh23 | evaluated | 84a425 | 29.1 |
 | 11 | landrum | evaluated | 61ab81 | 29.9 |
 | 12 | Shengwei | evaluated | 20b468 | 30.1 |
-| 13 | nickname55555555 | evaluated | 00ea49 | 31.1 |
-| 14 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
-| 15 | bl792 | evaluated | 09cd73 | 32.4 |
-| 16 | blabrl | evaluated | ca60eb | 33.7 |
-| 17 | prousoglou | evaluated | 570c63 | 34.7 |
+| 13 | prousoglou | evaluated | bd7151 | 30.4 |
+| 14 | nickname55555555 | evaluated | 00ea49 | 31.1 |
+| 15 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
+| 16 | bl792 | evaluated | 09cd73 | 32.4 |
+| 17 | blabrl | evaluated | ca60eb | 33.7 |
 | 18 | chickfila | evaluated | f0956d | 34.7 |
 | 19 | gravlax | evaluated | b1229d | 35.0 |
 | 20 | omermoav | evaluated | b01c0e | 35.2 |
@@ -229,14 +229,14 @@ Last updated: `April 10, 2026 at 10:01:56 AM ET`
 | 14 | pyjuan91 | evaluated | fe8f27 | 53.3 |
 | 15 | sjb | evaluated | 373553 | 53.6 |
 | 16 | landrum | evaluated | 61ab81 | 53.7 |
-| 17 | Shengwei | evaluated | 20b468 | 55.5 |
-| 18 | gravlax | evaluated | b1229d | 59.7 |
-| 19 | bl792 | evaluated | 09cd73 | 59.9 |
-| 20 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 59.9 |
-| 21 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
-| 22 | omermoav | evaluated | b01c0e | 64.6 |
-| 23 | blabrl | evaluated | ca60eb | 65.2 |
-| 24 | prousoglou | evaluated | 570c63 | 65.3 |
+| 17 | prousoglou | evaluated | bd7151 | 55.3 |
+| 18 | Shengwei | evaluated | 20b468 | 55.5 |
+| 19 | gravlax | evaluated | b1229d | 59.7 |
+| 20 | bl792 | evaluated | 09cd73 | 59.9 |
+| 21 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 59.9 |
+| 22 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
+| 23 | omermoav | evaluated | b01c0e | 64.6 |
+| 24 | blabrl | evaluated | ca60eb | 65.2 |
 | 25 | happyface | evaluated | 7e8b61 | 66.0 |
 | 26 | leoli | evaluated | 5cdac4 | 87.4 |
 | 27 | JasonWang07 | evaluated | a4b405 | 88.9 |
