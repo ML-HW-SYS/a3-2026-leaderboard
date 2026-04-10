@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 10, 2026 at 02:59:54 PM ET`
+Last updated: `April 10, 2026 at 03:07:44 PM ET`
 
 ## R1 (tok/s)
 
@@ -31,16 +31,16 @@ Last updated: `April 10, 2026 at 02:59:54 PM ET`
 | 23 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
 | 24 | ngoguen | evaluated | f69acc | 538.9 |
 | 25 | stefan | evaluated | 583665 | 538.1 |
-| 26 | Shengwei | evaluated | 20b468 | 537.5 |
-| 27 | landrum | evaluated | 61ab81 | 535.7 |
-| 28 | sjb | evaluated | 373553 | 535.3 |
-| 29 | lipphi | evaluated | a3a71b | 534.8 |
-| 30 | chickfila | evaluated | f0956d | 534.5 |
-| 31 | Licha | evaluated | 9666cd | 534.4 |
-| 32 | Yize | evaluated | c8c9f7 | 534.4 |
-| 33 | mdavalos10 | evaluated | 6e0754 | 533.3 |
-| 34 | gravlax | evaluated | b1229d | 532.3 |
-| 35 | pallavi-srinivas | evaluated | 72c655 | 530.9 |
+| 26 | pallavi-srinivas | evaluated | 9da900 | 537.7 |
+| 27 | Shengwei | evaluated | 20b468 | 537.5 |
+| 28 | landrum | evaluated | 61ab81 | 535.7 |
+| 29 | sjb | evaluated | 373553 | 535.3 |
+| 30 | lipphi | evaluated | a3a71b | 534.8 |
+| 31 | chickfila | evaluated | f0956d | 534.5 |
+| 32 | Licha | evaluated | 9666cd | 534.4 |
+| 33 | Yize | evaluated | c8c9f7 | 534.4 |
+| 34 | mdavalos10 | evaluated | 6e0754 | 533.3 |
+| 35 | gravlax | evaluated | b1229d | 532.3 |
 | 36 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
 | 37 | Junyi Li | evaluated | c7a1b3 | 527.3 |
 | 38 | castillo | evaluated | 0e93de | 526.6 |
@@ -96,8 +96,8 @@ Last updated: `April 10, 2026 at 02:59:54 PM ET`
 | 19 | leoli | evaluated | 5cdac4 | 327.5 |
 | 20 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
 | 21 | jl | evaluated | 8b6423 | 311.6 |
-| 22 | lipphi | evaluated | a3a71b | 306.7 |
-| 23 | pallavi-srinivas | evaluated | 72c655 | 304.3 |
+| 22 | pallavi-srinivas | evaluated | 9da900 | 307.0 |
+| 23 | lipphi | evaluated | a3a71b | 306.7 |
 | 24 | PurplePickle67 | evaluated | 68d34e | 303.7 |
 | 25 | TA | evaluated | a6e863 | 294.5 |
 | 26 | ngoguen | evaluated | f69acc | 282.0 |
@@ -181,8 +181,8 @@ Last updated: `April 10, 2026 at 02:59:54 PM ET`
 | 35 | TA | evaluated | a6e863 | 85.6 |
 | 36 | 13rabbit | evaluated | b38df9 | 100.3 |
 | 37 | jl | evaluated | 8b6423 | 102.6 |
-| 38 | pallavi-srinivas | evaluated | 72c655 | 104.2 |
-| 39 | lipphi | evaluated | a3a71b | 104.4 |
+| 38 | lipphi | evaluated | a3a71b | 104.4 |
+| 39 | pallavi-srinivas | evaluated | 9da900 | 105.2 |
 | 40 | abhik | evaluated | bf55dc | 140.5 |
 | 41 | tuo | evaluated | 3d6d40 | 167.8 |
 | 42 | fishyfins | evaluated | 6c0e20 | 304.6 |
@@ -250,7 +250,7 @@ Last updated: `April 10, 2026 at 02:59:54 PM ET`
 | 35 | TA | evaluated | a6e863 | 135.6 |
 | 36 | 13rabbit | evaluated | b38df9 | 142.7 |
 | 37 | jl | evaluated | 8b6423 | 149.1 |
-| 38 | pallavi-srinivas | evaluated | 72c655 | 149.7 |
+| 38 | pallavi-srinivas | evaluated | 9da900 | 150.8 |
 | 39 | lipphi | evaluated | a3a71b | 150.9 |
 | 40 | tuo | evaluated | 3d6d40 | 162.8 |
 | 41 | abhik | evaluated | bf55dc | 172.5 |
