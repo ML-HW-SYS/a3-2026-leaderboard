@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 10, 2026 at 04:51:05 PM ET`
+Last updated: `April 10, 2026 at 05:00:00 PM ET`
 
 ## R1 (tok/s)
 
@@ -86,8 +86,8 @@ Last updated: `April 10, 2026 at 04:51:05 PM ET`
 | 14 | Shengwei | submission.py | 67896e | 362.7 |
 | 15 | gm | develop.py | fd15e9 | 357.3 |
 | 16 | sjb | develop.py | 7fb492 | 347.4 |
-| 17 | JasonWang07 | develop.py | 2ecd91 | 343.1 |
-| 18 | nickname55555555 | develop.py | e3c641 | 337.7 |
+| 17 | nickname55555555 | submission.py | dfd550 | 345.9 |
+| 18 | JasonWang07 | develop.py | 2ecd91 | 343.1 |
 | 19 | Rithvik | submission.py | 2924a0 | 335.8 |
 | 20 | leoli | submission.py | 5cdac4 | 327.5 |
 | 21 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 326.5 |
