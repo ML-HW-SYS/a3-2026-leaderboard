@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 10, 2026 at 06:09:04 PM ET`
+Last updated: `April 10, 2026 at 06:16:24 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 10 06:13 PM ET | vallabkaranam | failed_security | Security policy check failed for submission.py: \| - prohibited call: compile \| - prohibited call: exec | submission.py | cb5981 |  |  |  |  |  |
 | Apr 10 05:35 PM ET | prousoglou | evaluated |  | submission.py | 294560 | 19.6/2.6/22.2 | 554.4 | 372.5 | 29.8 | 54.5 |
 | Apr 10 05:28 PM ET | brandon_lorenzo | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 3cc86c | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 10 05:28 PM ET | brandon_lorenzo | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | 3cc86c | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |

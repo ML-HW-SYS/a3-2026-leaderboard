@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 10, 2026 at 06:09:04 PM ET`
+Last updated: `April 10, 2026 at 06:16:24 PM ET`
 
 ## R1 (tok/s)
 
@@ -70,7 +70,7 @@ Last updated: `April 10, 2026 at 06:09:04 PM ET`
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | tif03 | failed | f612be |  |
-|  | vallabkaranam | failed | ec4b9a |  |
+|  | vallabkaranam | failed | cb5981 |  |
 
 ## R2 (tok/s)
 
@@ -140,7 +140,7 @@ Last updated: `April 10, 2026 at 06:09:04 PM ET`
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | tif03 | failed | f612be |  |
-|  | vallabkaranam | failed | ec4b9a |  |
+|  | vallabkaranam | failed | cb5981 |  |
 
 ## R3 (ms)
 
@@ -210,7 +210,7 @@ Last updated: `April 10, 2026 at 06:09:04 PM ET`
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | tif03 | failed | f612be |  |
-|  | vallabkaranam | failed | ec4b9a |  |
+|  | vallabkaranam | failed | cb5981 |  |
 
 ## R4 (ms)
 
@@ -280,4 +280,4 @@ Last updated: `April 10, 2026 at 06:09:04 PM ET`
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | tif03 | failed | f612be |  |
-|  | vallabkaranam | failed | ec4b9a |  |
+|  | vallabkaranam | failed | cb5981 |  |
