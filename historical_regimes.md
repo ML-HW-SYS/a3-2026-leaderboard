@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 10, 2026 at 06:38:24 PM ET`
+Last updated: `April 10, 2026 at 06:46:35 PM ET`
 
 ## R1 (tok/s)
 
@@ -78,8 +78,8 @@ Last updated: `April 10, 2026 at 06:38:24 PM ET`
 | 6 | blabrl | develop.py | 9873f9 | 383.8 |
 | 7 | alifim | submission.py | 701077 | 381.2 |
 | 8 | abarat007 | submission.py | d7f626 | 378.6 |
-| 9 | omermoav | submission.py | dc63b9 | 374.3 |
-| 10 | prousoglou | develop.py | 80f145 | 373.7 |
+| 9 | prousoglou | develop.py | 457c73 | 374.3 |
+| 10 | omermoav | submission.py | dc63b9 | 374.3 |
 | 11 | zionrangers | develop.py | 7758e0 | 372.9 |
 | 12 | ashaikh23 | submission.py | 84a425 | 372.1 |
 | 13 | pyjuan91 | develop.py | 92d1da | 364.9 |
@@ -143,8 +143,8 @@ Last updated: `April 10, 2026 at 06:38:24 PM ET`
 | 7 | Rithvik | submission.py | 8e6767 | 26.9 |
 | 8 | omermoav | submission.py | dc63b9 | 26.9 |
 | 9 | zionrangers | develop.py | 7758e0 | 27.3 |
-| 10 | zhumengzhiren | submission.py | 789cd3 | 27.9 |
-| 11 | prousoglou | develop.py | cc747b | 28.1 |
+| 10 | prousoglou | develop.py | 457c73 | 27.4 |
+| 11 | zhumengzhiren | submission.py | 789cd3 | 27.9 |
 | 12 | abarat007 | submission.py | d7f626 | 28.1 |
 | 13 | pyjuan91 | submission.py | 430a83 | 28.8 |
 | 14 | ashaikh23 | submission.py | 84a425 | 29.1 |
@@ -208,10 +208,10 @@ Last updated: `April 10, 2026 at 06:38:24 PM ET`
 | 7 | zionrangers | submission.py | 7758e0 | 48.7 |
 | 8 | ngoguen | submission.py | ecab75 | 49.6 |
 | 9 | chickfila | submission.py | f0956d | 49.6 |
-| 10 | zhumengzhiren | develop.py | cf2924 | 50.1 |
-| 11 | ashaikh23 | submission.py | 84a425 | 50.2 |
-| 12 | nickname55555555 | develop.py | 4dcb5c | 50.4 |
-| 13 | prousoglou | develop.py | cc747b | 51.4 |
+| 10 | prousoglou | develop.py | 457c73 | 49.8 |
+| 11 | zhumengzhiren | develop.py | cf2924 | 50.1 |
+| 12 | ashaikh23 | submission.py | 84a425 | 50.2 |
+| 13 | nickname55555555 | develop.py | 4dcb5c | 50.4 |
 | 14 | abarat007 | submission.py | 260fed | 51.5 |
 | 15 | PurplePickle67 | submission.py | 2efdba | 51.9 |
 | 16 | sjb | develop.py | 387987 | 53.1 |
