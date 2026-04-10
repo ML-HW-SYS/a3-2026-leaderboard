@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 10, 2026 at 11:38:52 AM ET`
+Last updated: `April 10, 2026 at 11:47:45 AM ET`
 
 ## R1 (tok/s)
 
@@ -79,9 +79,9 @@ Last updated: `April 10, 2026 at 11:38:52 AM ET`
 | 7 | alifim | submission.py | 701077 | 381.2 |
 | 8 | abarat007 | submission.py | d7f626 | 378.6 |
 | 9 | omermoav | submission.py | dc63b9 | 374.3 |
-| 10 | zionrangers | develop.py | 7758e0 | 372.9 |
-| 11 | ashaikh23 | submission.py | 84a425 | 372.1 |
-| 12 | prousoglou | submission.py | bd7151 | 371.8 |
+| 10 | prousoglou | develop.py | 80f145 | 373.7 |
+| 11 | zionrangers | develop.py | 7758e0 | 372.9 |
+| 12 | ashaikh23 | submission.py | 84a425 | 372.1 |
 | 13 | pyjuan91 | develop.py | 92d1da | 364.9 |
 | 14 | Shengwei | submission.py | 67896e | 362.7 |
 | 15 | gm | develop.py | fd15e9 | 357.3 |
