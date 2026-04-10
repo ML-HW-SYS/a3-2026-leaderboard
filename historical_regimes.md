@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 10, 2026 at 01:42:04 AM ET`
+Last updated: `April 10, 2026 at 01:49:58 AM ET`
 
 ## R1 (tok/s)
 
@@ -11,8 +11,8 @@ Last updated: `April 10, 2026 at 01:42:04 AM ET`
 | 3 | jl | submission.py | e6ce85 | 574.4 |
 | 4 | zhumengzhiren | develop.py | cf2924 | 571.1 |
 | 5 | omermoav | submission.py | b01c0e | 569.6 |
-| 6 | TheProphet | submission.py | 0a9c73 | 567.2 |
-| 7 | zionrangers | submission.py | 7758e0 | 565.7 |
+| 6 | zionrangers | develop.py | 7758e0 | 568.5 |
+| 7 | TheProphet | submission.py | 0a9c73 | 567.2 |
 | 8 | beratcelik | submission.py | ecf890 | 564.7 |
 | 9 | ashaikh23 | submission.py | 062f0e | 563.6 |
 | 10 | nickname55555555 | develop.py | e3c641 | 563.5 |
@@ -79,8 +79,8 @@ Last updated: `April 10, 2026 at 01:42:04 AM ET`
 | 7 | alifim | submission.py | 701077 | 381.2 |
 | 8 | abarat007 | submission.py | d7f626 | 378.6 |
 | 9 | omermoav | submission.py | dc63b9 | 374.3 |
-| 10 | ashaikh23 | submission.py | 84a425 | 372.1 |
-| 11 | zionrangers | submission.py | 7758e0 | 371.7 |
+| 10 | zionrangers | develop.py | 7758e0 | 372.9 |
+| 11 | ashaikh23 | submission.py | 84a425 | 372.1 |
 | 12 | prousoglou | develop.py | 0263e4 | 371.5 |
 | 13 | pyjuan91 | develop.py | 92d1da | 364.9 |
 | 14 | Shengwei | submission.py | 67896e | 362.7 |
@@ -142,7 +142,7 @@ Last updated: `April 10, 2026 at 01:42:04 AM ET`
 | 6 | gm | submission.py | 2898fc | 26.8 |
 | 7 | Rithvik | submission.py | 8e6767 | 26.9 |
 | 8 | omermoav | submission.py | dc63b9 | 26.9 |
-| 9 | zionrangers | submission.py | 7758e0 | 27.3 |
+| 9 | zionrangers | develop.py | 7758e0 | 27.3 |
 | 10 | zhumengzhiren | submission.py | 789cd3 | 27.9 |
 | 11 | abarat007 | submission.py | d7f626 | 28.1 |
 | 12 | pyjuan91 | submission.py | 430a83 | 28.8 |
