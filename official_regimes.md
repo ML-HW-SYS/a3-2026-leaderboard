@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 09, 2026 at 11:12:15 PM ET`
+Last updated: `April 09, 2026 at 11:21:02 PM ET`
 
 ## R1 (tok/s)
 
@@ -11,15 +11,15 @@ Last updated: `April 09, 2026 at 11:12:15 PM ET`
 | 3 | jl | evaluated | 8b6423 | 569.1 |
 | 4 | zhumengzhiren | evaluated | cf2924 | 566.6 |
 | 5 | beratcelik | evaluated | 863a89 | 564.3 |
-| 6 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 560.4 |
-| 7 | abarat007 | evaluated | d7f626 | 559.5 |
-| 8 | your_nickname_here | evaluated | f10b9b | 557.8 |
-| 9 | blabrl | evaluated | ca60eb | 557.4 |
-| 10 | prousoglou | evaluated | 570c63 | 556.7 |
-| 11 | TA | evaluated | a6e863 | 556.6 |
-| 12 | chyyy | evaluated | 34cc06 | 555.7 |
-| 13 | ashaikh23 | evaluated | 84a425 | 555.4 |
-| 14 | nickname55555555 | evaluated | 506f8f | 553.4 |
+| 6 | nickname55555555 | evaluated | 00ea49 | 561.3 |
+| 7 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 560.4 |
+| 8 | abarat007 | evaluated | d7f626 | 559.5 |
+| 9 | your_nickname_here | evaluated | f10b9b | 557.8 |
+| 10 | blabrl | evaluated | ca60eb | 557.4 |
+| 11 | prousoglou | evaluated | 570c63 | 556.7 |
+| 12 | TA | evaluated | a6e863 | 556.6 |
+| 13 | chyyy | evaluated | 34cc06 | 555.7 |
+| 14 | ashaikh23 | evaluated | 84a425 | 555.4 |
 | 15 | JasonWang07 | evaluated | a4b405 | 547.1 |
 | 16 | leoli | evaluated | 5cdac4 | 544.1 |
 | 17 | happyface | evaluated | 7e8b61 | 543.0 |
@@ -90,8 +90,8 @@ Last updated: `April 09, 2026 at 11:12:15 PM ET`
 | 13 | gm | evaluated | 2898fc | 357.0 |
 | 14 | sjb | evaluated | 373553 | 346.4 |
 | 15 | JasonWang07 | evaluated | a4b405 | 342.2 |
-| 16 | Rithvik | evaluated | 2924a0 | 335.8 |
-| 17 | nickname55555555 | evaluated | 506f8f | 333.8 |
+| 16 | nickname55555555 | evaluated | 00ea49 | 337.3 |
+| 17 | Rithvik | evaluated | 2924a0 | 335.8 |
 | 18 | leoli | evaluated | 5cdac4 | 327.5 |
 | 19 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
 | 20 | jl | evaluated | 8b6423 | 311.6 |
@@ -155,7 +155,7 @@ Last updated: `April 09, 2026 at 11:12:15 PM ET`
 | 9 | ashaikh23 | evaluated | 84a425 | 29.1 |
 | 10 | landrum | evaluated | 61ab81 | 29.9 |
 | 11 | Shengwei | evaluated | 20b468 | 30.1 |
-| 12 | nickname55555555 | evaluated | 506f8f | 31.4 |
+| 12 | nickname55555555 | evaluated | 00ea49 | 31.1 |
 | 13 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
 | 14 | bl792 | evaluated | 09cd73 | 32.4 |
 | 15 | blabrl | evaluated | ca60eb | 33.7 |
@@ -221,7 +221,7 @@ Last updated: `April 09, 2026 at 11:12:15 PM ET`
 | 6 | chickfila | evaluated | f0956d | 49.6 |
 | 7 | ashaikh23 | evaluated | 84a425 | 50.2 |
 | 8 | zhumengzhiren | evaluated | cf2924 | 50.2 |
-| 9 | nickname55555555 | evaluated | 506f8f | 50.5 |
+| 9 | nickname55555555 | evaluated | 00ea49 | 51.2 |
 | 10 | abarat007 | evaluated | d7f626 | 51.5 |
 | 11 | PurplePickle67 | evaluated | 68d34e | 52.1 |
 | 12 | Yize | evaluated | c8c9f7 | 53.1 |
