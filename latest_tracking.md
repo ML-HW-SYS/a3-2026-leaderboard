@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 10, 2026 at 05:16:29 PM ET`
+Last updated: `April 10, 2026 at 05:24:23 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 10 05:12 PM ET | prousoglou | evaluated |  | develop.py | d07c41 | 22.0/2.6/24.7 | 555.2 | 372.4 | 29.7 | 54.5 |
 | Apr 10 04:56 PM ET | nickname55555555 | evaluated |  | submission.py | 4dcb5c | 62.1/2.7/64.8 | 559.5 | 345.4 | 31.8 | 50.8 |
 | Apr 10 04:56 PM ET | nickname55555555 | evaluated |  | develop.py | 4dcb5c | 27.3/2.7/30.1 | 556.6 | 346.0 | 31.3 | 50.4 |
 | Apr 10 04:53 PM ET | nickname55555555 | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | submission.py | dfd550 | 67.7/2.4/70.1 | 560.7 | 345.9 | 0.0 | 0.0 |
