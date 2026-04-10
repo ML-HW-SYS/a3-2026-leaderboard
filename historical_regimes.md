@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 09, 2026 at 09:28:56 PM ET`
+Last updated: `April 09, 2026 at 09:36:50 PM ET`
 
 ## R1 (tok/s)
 
@@ -40,12 +40,12 @@ Last updated: `April 09, 2026 at 09:28:56 PM ET`
 | 32 | stefan | develop.py | 9a25e1 | 539.1 |
 | 33 | ishan-pat | develop.py | 75d32d | 537.5 |
 | 34 | sjb | develop.py | 3359ec | 537.0 |
-| 35 | lipphi | submission.py | a3a71b | 534.8 |
-| 36 | gravlax | develop.py | 1f23d9 | 534.6 |
-| 37 | chickfila | submission.py | 29860a | 534.6 |
-| 38 | Yize | submission.py | c8c9f7 | 534.4 |
-| 39 | kade_lin_is_here | submission.py | 41a1de | 533.8 |
-| 40 | mdavalos10 | submission.py | 6e0754 | 533.3 |
+| 35 | mdavalos10 | develop.py | 6e0754 | 535.4 |
+| 36 | lipphi | submission.py | a3a71b | 534.8 |
+| 37 | gravlax | develop.py | 1f23d9 | 534.6 |
+| 38 | chickfila | submission.py | 29860a | 534.6 |
+| 39 | Yize | submission.py | c8c9f7 | 534.4 |
+| 40 | kade_lin_is_here | submission.py | 41a1de | 533.8 |
 | 41 | Junyi Li | submission.py | 2e381b | 529.4 |
 | 42 | bl792 | submission.py | 3b3a8a | 528.5 |
 | 43 | dylanjhnsondj | develop.py | 55a3fd | 528.5 |
@@ -115,16 +115,16 @@ Last updated: `April 09, 2026 at 09:28:56 PM ET`
 | 43 | tuo | submission.py | 3d6d40 | 204.6 |
 | 44 | Sulaiman Alam | submission.py | c7ede2 | 197.4 |
 | 45 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 46 | stefan | submission.py | 583665 | 170.2 |
-| 47 | yoursun1220 | submission.py | 27e400 | 169.9 |
-| 48 | yb | submission.py | 2aa1a9 | 169.8 |
-| 49 | hw_bloss | submission.py | b2767b | 169.8 |
-| 50 | Junyi Li | submission.py | c7a1b3 | 169.7 |
-| 51 | dylanjhnsondj | submission.py | c4e1ab | 169.6 |
-| 52 | jbc | develop.py | 4e7308 | 169.4 |
-| 53 | castillo | develop.py | 0e93de | 169.2 |
-| 54 | act | submission.py | 899777 | 169.0 |
-| 55 | mdavalos10 | submission.py | 6e0754 | 159.3 |
+| 46 | mdavalos10 | develop.py | 6e0754 | 170.7 |
+| 47 | stefan | submission.py | 583665 | 170.2 |
+| 48 | yoursun1220 | submission.py | 27e400 | 169.9 |
+| 49 | yb | submission.py | 2aa1a9 | 169.8 |
+| 50 | hw_bloss | submission.py | b2767b | 169.8 |
+| 51 | Junyi Li | submission.py | c7a1b3 | 169.7 |
+| 52 | dylanjhnsondj | submission.py | c4e1ab | 169.6 |
+| 53 | jbc | develop.py | 4e7308 | 169.4 |
+| 54 | castillo | develop.py | 0e93de | 169.2 |
+| 55 | act | submission.py | 899777 | 169.0 |
 | 56 | nicknam534534 | develop.py | 187bfa | 148.4 |
 | 57 | poppyPotatoe | submission.py | dd4e57 | 117.7 |
 | 58 | co-smith | submission.py | dcfadf | 112.4 |
@@ -188,9 +188,9 @@ Last updated: `April 09, 2026 at 09:28:56 PM ET`
 | 52 | yb | submission.py | 2aa1a9 | 309.3 |
 | 53 | jbc | develop.py | 4e7308 | 309.3 |
 | 54 | poppyPotatoe | submission.py | 311dc9 | 309.5 |
-| 55 | castillo | develop.py | 0e93de | 310.9 |
-| 56 | act | develop.py | 1b5e17 | 310.9 |
-| 57 | mdavalos10 | submission.py | 6e0754 | 311.3 |
+| 55 | mdavalos10 | develop.py | 6e0754 | 310.8 |
+| 56 | castillo | develop.py | 0e93de | 310.9 |
+| 57 | act | develop.py | 1b5e17 | 310.9 |
 | 58 | co-smith | develop.py | dcfadf | 322.6 |
 | 59 | Decode_speed | submission.py | 097a6b | 412.7 |
 | 60 | siddarak | submission.py | d85766 | 614.4 |
@@ -255,7 +255,7 @@ Last updated: `April 09, 2026 at 09:28:56 PM ET`
 | 54 | castillo | develop.py | 0e93de | 250.2 |
 | 55 | yb | submission.py | 2aa1a9 | 250.5 |
 | 56 | act | develop.py | 1b5e17 | 250.6 |
-| 57 | mdavalos10 | submission.py | 6e0754 | 251.5 |
+| 57 | mdavalos10 | develop.py | 6e0754 | 251.0 |
 | 58 | co-smith | develop.py | dcfadf | 256.9 |
 | 59 | Decode_speed | submission.py | 097a6b | 270.3 |
 | 60 | siddarak | submission.py | d85766 | 382.1 |
