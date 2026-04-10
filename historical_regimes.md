@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 10, 2026 at 07:23:15 PM ET`
+Last updated: `April 10, 2026 at 07:31:13 PM ET`
 
 ## R1 (tok/s)
 
@@ -78,7 +78,7 @@ Last updated: `April 10, 2026 at 07:23:15 PM ET`
 | 6 | blabrl | develop.py | 9873f9 | 383.8 |
 | 7 | alifim | submission.py | 701077 | 381.2 |
 | 8 | abarat007 | submission.py | d7f626 | 378.6 |
-| 9 | prousoglou | develop.py | 457c73 | 374.3 |
+| 9 | prousoglou | develop.py | d39ef8 | 375.8 |
 | 10 | omermoav | submission.py | dc63b9 | 374.3 |
 | 11 | zionrangers | develop.py | 7758e0 | 372.9 |
 | 12 | ashaikh23 | submission.py | 84a425 | 372.1 |
@@ -142,8 +142,8 @@ Last updated: `April 10, 2026 at 07:23:15 PM ET`
 | 6 | gm | submission.py | 2898fc | 26.8 |
 | 7 | Rithvik | submission.py | 8e6767 | 26.9 |
 | 8 | omermoav | submission.py | dc63b9 | 26.9 |
-| 9 | zionrangers | develop.py | 7758e0 | 27.3 |
-| 10 | prousoglou | develop.py | 457c73 | 27.4 |
+| 9 | prousoglou | develop.py | d39ef8 | 27.0 |
+| 10 | zionrangers | develop.py | 7758e0 | 27.3 |
 | 11 | zhumengzhiren | submission.py | 789cd3 | 27.9 |
 | 12 | abarat007 | submission.py | d7f626 | 28.1 |
 | 13 | pyjuan91 | submission.py | 430a83 | 28.8 |
@@ -206,9 +206,9 @@ Last updated: `April 10, 2026 at 07:23:15 PM ET`
 | 5 | Shengwei | submission.py | 67896e | 48.1 |
 | 6 | gm | submission.py | 2898fc | 48.5 |
 | 7 | zionrangers | submission.py | 7758e0 | 48.7 |
-| 8 | ngoguen | submission.py | ecab75 | 49.6 |
-| 9 | chickfila | submission.py | f0956d | 49.6 |
-| 10 | prousoglou | develop.py | 457c73 | 49.8 |
+| 8 | prousoglou | develop.py | d39ef8 | 49.5 |
+| 9 | ngoguen | submission.py | ecab75 | 49.6 |
+| 10 | chickfila | submission.py | f0956d | 49.6 |
 | 11 | zhumengzhiren | develop.py | cf2924 | 50.1 |
 | 12 | ashaikh23 | submission.py | 84a425 | 50.2 |
 | 13 | nickname55555555 | develop.py | 4dcb5c | 50.4 |
