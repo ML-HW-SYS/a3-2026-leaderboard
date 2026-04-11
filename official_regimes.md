@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 10, 2026 at 10:55:38 PM ET`
+Last updated: `April 10, 2026 at 11:05:01 PM ET`
 
 ## R1 (tok/s)
 
@@ -9,11 +9,11 @@ Last updated: `April 10, 2026 at 10:55:38 PM ET`
 | 1 | - - | evaluated | adc0f3 | 591.4 |
 | 2 | omermoav | evaluated | b01c0e | 569.6 |
 | 3 | jl | evaluated | 8b6423 | 569.1 |
-| 4 | zhumengzhiren | evaluated | cf2924 | 566.6 |
-| 5 | zionrangers | evaluated | 7758e0 | 565.7 |
-| 6 | beratcelik | evaluated | 863a89 | 564.3 |
-| 7 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 560.4 |
-| 8 | nickname55555555 | evaluated | 4dcb5c | 559.5 |
+| 4 | nickname55555555 | evaluated | 2f62d2 | 567.7 |
+| 5 | zhumengzhiren | evaluated | cf2924 | 566.6 |
+| 6 | zionrangers | evaluated | 7758e0 | 565.7 |
+| 7 | beratcelik | evaluated | 863a89 | 564.3 |
+| 8 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 560.4 |
 | 9 | abarat007 | evaluated | d7f626 | 559.5 |
 | 10 | your_nickname_here | evaluated | f10b9b | 557.8 |
 | 11 | blabrl | evaluated | ca60eb | 557.4 |
@@ -63,7 +63,7 @@ Last updated: `April 10, 2026 at 10:55:38 PM ET`
 | 55 | abhik | evaluated | bf55dc | 157.9 |
 | 56 | poppyPotatoe | evaluated | eea264 | 144.2 |
 | 57 | Decode_speed | evaluated | 097a6b | 104.5 |
-|  | brandon_lorenzo | failed | 7cad8b |  |
+|  | brandon_lorenzo | failed | c24b76 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | siddarak | failed | d85766 |  |
@@ -90,8 +90,8 @@ Last updated: `April 10, 2026 at 10:55:38 PM ET`
 | 12 | pyjuan91 | evaluated | fe8f27 | 363.6 |
 | 13 | Shengwei | evaluated | 20b468 | 359.3 |
 | 14 | gm | evaluated | 2898fc | 357.0 |
-| 15 | sjb | evaluated | 373553 | 346.4 |
-| 16 | nickname55555555 | evaluated | 4dcb5c | 345.4 |
+| 15 | nickname55555555 | evaluated | 2f62d2 | 354.3 |
+| 16 | sjb | evaluated | 373553 | 346.4 |
 | 17 | JasonWang07 | evaluated | a4b405 | 342.2 |
 | 18 | Rithvik | evaluated | 2924a0 | 335.8 |
 | 19 | leoli | evaluated | 5cdac4 | 327.5 |
@@ -133,7 +133,7 @@ Last updated: `April 10, 2026 at 10:55:38 PM ET`
 | 55 | co-smith | evaluated | dcfadf | 112.4 |
 | 56 | poppyPotatoe | evaluated | eea264 | 109.8 |
 | 57 | Decode_speed | evaluated | 097a6b | 77.3 |
-|  | brandon_lorenzo | failed | 7cad8b |  |
+|  | brandon_lorenzo | failed | c24b76 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | siddarak | failed | d85766 |  |
@@ -153,13 +153,13 @@ Last updated: `April 10, 2026 at 10:55:38 PM ET`
 | 5 | prousoglou | evaluated | 13e8de | 27.1 |
 | 6 | Rithvik | evaluated | 2924a0 | 27.1 |
 | 7 | zionrangers | evaluated | 7758e0 | 27.3 |
-| 8 | zhumengzhiren | evaluated | cf2924 | 28.0 |
-| 9 | abarat007 | evaluated | d7f626 | 28.1 |
-| 10 | pyjuan91 | evaluated | fe8f27 | 28.8 |
-| 11 | ashaikh23 | evaluated | 84a425 | 29.1 |
-| 12 | landrum | evaluated | 61ab81 | 29.9 |
-| 13 | Shengwei | evaluated | 20b468 | 30.1 |
-| 14 | nickname55555555 | evaluated | 4dcb5c | 31.8 |
+| 8 | nickname55555555 | evaluated | 2f62d2 | 27.4 |
+| 9 | zhumengzhiren | evaluated | cf2924 | 28.0 |
+| 10 | abarat007 | evaluated | d7f626 | 28.1 |
+| 11 | pyjuan91 | evaluated | fe8f27 | 28.8 |
+| 12 | ashaikh23 | evaluated | 84a425 | 29.1 |
+| 13 | landrum | evaluated | 61ab81 | 29.9 |
+| 14 | Shengwei | evaluated | 20b468 | 30.1 |
 | 15 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
 | 16 | bl792 | evaluated | 09cd73 | 32.4 |
 | 17 | blabrl | evaluated | ca60eb | 33.7 |
@@ -203,7 +203,7 @@ Last updated: `April 10, 2026 at 10:55:38 PM ET`
 | 55 | co-smith | evaluated | dcfadf | 323.6 |
 | 56 | nicknam534534 | evaluated | 83a901 | 405.3 |
 | 57 | Decode_speed | evaluated | 097a6b | 412.7 |
-|  | brandon_lorenzo | failed | 7cad8b |  |
+|  | brandon_lorenzo | failed | c24b76 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | siddarak | failed | d85766 |  |
@@ -223,10 +223,10 @@ Last updated: `April 10, 2026 at 10:55:38 PM ET`
 | 5 | zionrangers | evaluated | 7758e0 | 48.7 |
 | 6 | prousoglou | evaluated | 13e8de | 49.6 |
 | 7 | chickfila | evaluated | f0956d | 49.6 |
-| 8 | ashaikh23 | evaluated | 84a425 | 50.2 |
-| 9 | zhumengzhiren | evaluated | cf2924 | 50.2 |
-| 10 | ngoguen | evaluated | f69acc | 50.4 |
-| 11 | nickname55555555 | evaluated | 4dcb5c | 50.8 |
+| 8 | nickname55555555 | evaluated | 2f62d2 | 50.0 |
+| 9 | ashaikh23 | evaluated | 84a425 | 50.2 |
+| 10 | zhumengzhiren | evaluated | cf2924 | 50.2 |
+| 11 | ngoguen | evaluated | f69acc | 50.4 |
 | 12 | abarat007 | evaluated | d7f626 | 51.5 |
 | 13 | PurplePickle67 | evaluated | 68d34e | 52.1 |
 | 14 | Yize | evaluated | c8c9f7 | 53.1 |
@@ -273,7 +273,7 @@ Last updated: `April 10, 2026 at 10:55:38 PM ET`
 | 55 | co-smith | evaluated | dcfadf | 257.4 |
 | 56 | nicknam534534 | evaluated | 83a901 | 268.7 |
 | 57 | Decode_speed | evaluated | 097a6b | 270.3 |
-|  | brandon_lorenzo | failed | 7cad8b |  |
+|  | brandon_lorenzo | failed | c24b76 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | siddarak | failed | d85766 |  |

@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 10, 2026 at 10:55:38 PM ET`
+Last updated: `April 10, 2026 at 11:05:01 PM ET`
 
 ## Pages
 
@@ -18,12 +18,12 @@ Last updated: `April 10, 2026 at 10:55:38 PM ET`
 | 4 | zionrangers | evaluated | 7758e0 | 56.3/2.6/58.9 | 1.799 | 565.7 | 371.7 | 27.3 | 48.7 |
 | 5 | prousoglou | evaluated | 13e8de | 19.7/2.6/22.3 | 1.791 | 554.7 | 375.9 | 27.1 | 49.6 |
 | 6 | gm | evaluated | 2898fc | 20.9/2.7/23.6 | 1.772 | 541.1 | 357.0 | 26.8 | 48.5 |
-| 7 | abarat007 | evaluated | d7f626 | 47.1/2.6/49.7 | 1.764 | 559.5 | 378.6 | 28.1 | 51.5 |
-| 8 | ashaikh23 | evaluated | 84a425 | 26.9/2.6/29.5 | 1.750 | 555.4 | 372.1 | 29.1 | 50.2 |
-| 9 | pyjuan91 | evaluated | fe8f27 | 24.8/2.7/27.5 | 1.707 | 540.9 | 363.6 | 28.8 | 53.3 |
-| 10 | Rithvik | evaluated | 2924a0 | 46.5/2.9/49.4 | 1.706 | 495.8 | 335.8 | 27.1 | 48.0 |
-| 11 | chickfila | evaluated | f0956d | 65.8/2.6/68.4 | 1.693 | 534.5 | 398.8 | 34.7 | 49.6 |
-| 12 | nickname55555555 | evaluated | 4dcb5c | 62.1/2.7/64.8 | 1.677 | 559.5 | 345.4 | 31.8 | 50.8 |
+| 7 | nickname55555555 | evaluated | 2f62d2 | 82.3/2.7/84.9 | 1.765 | 567.7 | 354.3 | 27.4 | 50.0 |
+| 8 | abarat007 | evaluated | d7f626 | 47.1/2.6/49.7 | 1.764 | 559.5 | 378.6 | 28.1 | 51.5 |
+| 9 | ashaikh23 | evaluated | 84a425 | 26.9/2.6/29.5 | 1.750 | 555.4 | 372.1 | 29.1 | 50.2 |
+| 10 | pyjuan91 | evaluated | fe8f27 | 24.8/2.7/27.5 | 1.707 | 540.9 | 363.6 | 28.8 | 53.3 |
+| 11 | Rithvik | evaluated | 2924a0 | 46.5/2.9/49.4 | 1.706 | 495.8 | 335.8 | 27.1 | 48.0 |
+| 12 | chickfila | evaluated | f0956d | 65.8/2.6/68.4 | 1.693 | 534.5 | 398.8 | 34.7 | 49.6 |
 | 13 | Shengwei | evaluated | 20b468 | 21.2/2.7/23.9 | 1.663 | 537.5 | 359.3 | 30.1 | 55.5 |
 | 14 | ngoguen | evaluated | f69acc | 33.5/3.1/36.6 | 1.659 | 538.9 | 282.0 | 26.3 | 50.4 |
 | 15 | blabrl | evaluated | ca60eb | 19.3/2.6/21.9 | 1.593 | 557.4 | 383.3 | 33.7 | 65.2 |
@@ -69,7 +69,7 @@ Last updated: `April 10, 2026 at 10:55:38 PM ET`
 | 55 | co-smith | evaluated | dcfadf | 15.5/9.9/25.4 | 0.350 | 167.2 | 112.4 | 323.6 | 257.4 |
 | 56 | poppyPotatoe | evaluated | eea264 | 17.1/10.5/27.5 | 0.340 | 144.2 | 109.8 | 311.3 | 251.9 |
 | 57 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
-|  | brandon_lorenzo | failed | 7cad8b | 19.5/4.0/23.5 |  |  |  |  |  |
+|  | brandon_lorenzo | failed | c24b76 | 19.5/4.0/23.5 |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | kade_lin_is_here | failed | 0d2dc7 | 72.8/3.5/76.3 |  |  |  |  |  |
 |  | siddarak | failed | d85766 | 21.8/9.2/31.0 |  |  |  |  |  |
