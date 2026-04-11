@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 11, 2026 at 04:21:33 PM ET`
+Last updated: `April 11, 2026 at 04:30:22 PM ET`
 
 ## R1 (tok/s)
 
@@ -68,7 +68,7 @@ Last updated: `April 11, 2026 at 04:21:33 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 2facb7 |  |
+|  | TheProphet | failed | 7776a6 |  |
 |  | tif03 | failed | f612be |  |
 |  | vallabkaranam | failed | e83dea |  |
 
@@ -138,7 +138,7 @@ Last updated: `April 11, 2026 at 04:21:33 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 2facb7 |  |
+|  | TheProphet | failed | 7776a6 |  |
 |  | tif03 | failed | f612be |  |
 |  | vallabkaranam | failed | e83dea |  |
 
@@ -208,7 +208,7 @@ Last updated: `April 11, 2026 at 04:21:33 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 2facb7 |  |
+|  | TheProphet | failed | 7776a6 |  |
 |  | tif03 | failed | f612be |  |
 |  | vallabkaranam | failed | e83dea |  |
 
@@ -278,6 +278,6 @@ Last updated: `April 11, 2026 at 04:21:33 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 2facb7 |  |
+|  | TheProphet | failed | 7776a6 |  |
 |  | tif03 | failed | f612be |  |
 |  | vallabkaranam | failed | e83dea |  |
