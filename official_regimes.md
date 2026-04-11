@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 11, 2026 at 04:39:48 PM ET`
+Last updated: `April 11, 2026 at 04:48:24 PM ET`
 
 ## R1 (tok/s)
 
@@ -28,9 +28,9 @@ Last updated: `April 11, 2026 at 04:39:48 PM ET`
 | 20 | gm | evaluated | 2898fc | 541.1 |
 | 21 | pyjuan91 | evaluated | fe8f27 | 540.9 |
 | 22 | alifim | evaluated | 701077 | 539.6 |
-| 23 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
-| 24 | ngoguen | evaluated | f69acc | 538.9 |
-| 25 | stefan | evaluated | 583665 | 538.1 |
+| 23 | stefan | evaluated | 353a05 | 539.1 |
+| 24 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
+| 25 | ngoguen | evaluated | f69acc | 538.9 |
 | 26 | Shengwei | evaluated | 20b468 | 537.5 |
 | 27 | landrum | evaluated | 61ab81 | 535.7 |
 | 28 | sjb | evaluated | 373553 | 535.3 |
@@ -68,7 +68,7 @@ Last updated: `April 11, 2026 at 04:39:48 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 7776a6 |  |
+|  | TheProphet | failed | 4f4cca |  |
 |  | tif03 | failed | f612be |  |
 |  | vallabkaranam | failed | e83dea |  |
 
@@ -116,11 +116,11 @@ Last updated: `April 11, 2026 at 04:39:48 PM ET`
 | 38 | tuo | evaluated | 3d6d40 | 204.6 |
 | 39 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
 | 40 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 41 | stefan | evaluated | 583665 | 170.2 |
-| 42 | brandon_lorenzo | evaluated | 67c79e | 169.8 |
-| 43 | Junyi Li | evaluated | c7a1b3 | 169.7 |
-| 44 | dylanjhnsondj | evaluated | c4e1ab | 169.6 |
-| 45 | fishyfins | evaluated | 6c0e20 | 169.5 |
+| 41 | brandon_lorenzo | evaluated | 67c79e | 169.8 |
+| 42 | Junyi Li | evaluated | c7a1b3 | 169.7 |
+| 43 | dylanjhnsondj | evaluated | c4e1ab | 169.6 |
+| 44 | fishyfins | evaluated | 6c0e20 | 169.5 |
+| 45 | stefan | evaluated | 353a05 | 169.3 |
 | 46 | yoursun1220 | evaluated | d8b590 | 169.2 |
 | 47 | hw_bloss | evaluated | 4c9666 | 169.1 |
 | 48 | castillo | evaluated | 0e93de | 169.0 |
@@ -138,7 +138,7 @@ Last updated: `April 11, 2026 at 04:39:48 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 7776a6 |  |
+|  | TheProphet | failed | 4f4cca |  |
 |  | tif03 | failed | f612be |  |
 |  | vallabkaranam | failed | e83dea |  |
 
@@ -186,11 +186,11 @@ Last updated: `April 11, 2026 at 04:39:48 PM ET`
 | 38 | pallavi-srinivas | evaluated | d645d5 | 105.2 |
 | 39 | abhik | evaluated | bf55dc | 140.5 |
 | 40 | tuo | evaluated | 3d6d40 | 167.8 |
-| 41 | fishyfins | evaluated | 6c0e20 | 304.6 |
-| 42 | dylanjhnsondj | evaluated | c4e1ab | 306.0 |
-| 43 | hw_bloss | evaluated | 4c9666 | 308.1 |
-| 44 | your_nickname_here | evaluated | f10b9b | 308.1 |
-| 45 | stefan | evaluated | 583665 | 308.5 |
+| 41 | stefan | evaluated | 353a05 | 280.3 |
+| 42 | fishyfins | evaluated | 6c0e20 | 304.6 |
+| 43 | dylanjhnsondj | evaluated | c4e1ab | 306.0 |
+| 44 | hw_bloss | evaluated | 4c9666 | 308.1 |
+| 45 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 46 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
 | 47 | brandon_lorenzo | evaluated | 67c79e | 309.2 |
 | 48 | yoursun1220 | evaluated | d8b590 | 310.7 |
@@ -208,7 +208,7 @@ Last updated: `April 11, 2026 at 04:39:48 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 7776a6 |  |
+|  | TheProphet | failed | 4f4cca |  |
 |  | tif03 | failed | f612be |  |
 |  | vallabkaranam | failed | e83dea |  |
 
@@ -256,12 +256,12 @@ Last updated: `April 11, 2026 at 04:39:48 PM ET`
 | 38 | lipphi | evaluated | a3a71b | 150.9 |
 | 39 | tuo | evaluated | 3d6d40 | 162.8 |
 | 40 | abhik | evaluated | bf55dc | 172.5 |
-| 41 | fishyfins | evaluated | 6c0e20 | 232.9 |
-| 42 | dylanjhnsondj | evaluated | c4e1ab | 236.8 |
-| 43 | hw_bloss | evaluated | 4c9666 | 239.1 |
-| 44 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
-| 45 | your_nickname_here | evaluated | f10b9b | 246.4 |
-| 46 | stefan | evaluated | 583665 | 247.3 |
+| 41 | stefan | evaluated | 353a05 | 189.1 |
+| 42 | fishyfins | evaluated | 6c0e20 | 232.9 |
+| 43 | dylanjhnsondj | evaluated | c4e1ab | 236.8 |
+| 44 | hw_bloss | evaluated | 4c9666 | 239.1 |
+| 45 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
+| 46 | your_nickname_here | evaluated | f10b9b | 246.4 |
 | 47 | brandon_lorenzo | evaluated | 67c79e | 249.6 |
 | 48 | yoursun1220 | evaluated | d8b590 | 250.1 |
 | 49 | castillo | evaluated | 0e93de | 250.4 |
@@ -278,6 +278,6 @@ Last updated: `April 11, 2026 at 04:39:48 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 7776a6 |  |
+|  | TheProphet | failed | 4f4cca |  |
 |  | tif03 | failed | f612be |  |
 |  | vallabkaranam | failed | e83dea |  |

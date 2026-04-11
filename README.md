@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 11, 2026 at 04:39:48 PM ET`
+Last updated: `April 11, 2026 at 04:48:24 PM ET`
 
 ## Pages
 
@@ -51,12 +51,12 @@ Last updated: `April 11, 2026 at 04:39:48 PM ET`
 | 37 | pallavi-srinivas | evaluated | d645d5 | 19.2/3.7/22.9 | 0.907 | 529.9 | 304.4 | 105.2 | 150.4 |
 | 38 | 13rabbit | evaluated | b38df9 | 37.3/4.0/41.3 | 0.884 | 542.8 | 242.9 | 100.3 | 142.7 |
 | 39 | tuo | evaluated | 3d6d40 | 74.5/4.9/79.3 | 0.704 | 494.8 | 204.6 | 167.8 | 162.8 |
-| 40 | Sulaiman Alam | evaluated | c7ede2 | 21.7/5.8/27.5 | 0.545 | 511.2 | 197.4 | 308.7 | 245.0 |
-| 41 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
-| 42 | fishyfins | evaluated | 6c0e20 | 29.2/6.2/35.4 | 0.536 | 522.0 | 169.5 | 304.6 | 232.9 |
-| 43 | dylanjhnsondj | evaluated | c4e1ab | 59.0/6.2/65.1 | 0.535 | 527.3 | 169.6 | 306.0 | 236.8 |
-| 44 | hw_bloss | evaluated | 4c9666 | 23.8/6.2/30.0 | 0.531 | 522.2 | 169.1 | 308.1 | 239.1 |
-| 45 | stefan | evaluated | 583665 | 19.6/6.2/25.8 | 0.531 | 538.1 | 170.2 | 308.5 | 247.3 |
+| 40 | stefan | evaluated | 353a05 | 19.4/5.9/25.2 | 0.581 | 539.1 | 169.3 | 280.3 | 189.1 |
+| 41 | Sulaiman Alam | evaluated | c7ede2 | 21.7/5.8/27.5 | 0.545 | 511.2 | 197.4 | 308.7 | 245.0 |
+| 42 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
+| 43 | fishyfins | evaluated | 6c0e20 | 29.2/6.2/35.4 | 0.536 | 522.0 | 169.5 | 304.6 | 232.9 |
+| 44 | dylanjhnsondj | evaluated | c4e1ab | 59.0/6.2/65.1 | 0.535 | 527.3 | 169.6 | 306.0 | 236.8 |
+| 45 | hw_bloss | evaluated | 4c9666 | 23.8/6.2/30.0 | 0.531 | 522.2 | 169.1 | 308.1 | 239.1 |
 | 46 | brandon_lorenzo | evaluated | 67c79e | 19.7/6.2/26.0 | 0.526 | 524.1 | 169.8 | 309.2 | 249.6 |
 | 47 | castillo | evaluated | 0e93de | 27.1/6.2/33.4 | 0.524 | 526.6 | 169.0 | 311.4 | 250.4 |
 | 48 | act | evaluated | 899777 | 19.8/6.3/26.1 | 0.524 | 523.9 | 169.0 | 310.9 | 250.7 |
@@ -74,7 +74,7 @@ Last updated: `April 11, 2026 at 04:39:48 PM ET`
 |  | kade_lin_is_here | failed | 104152 | 13.0/3.1/16.1 |  |  |  |  |  |
 |  | siddarak | failed | d85766 | 21.8/9.2/31.0 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | TheProphet | failed | 7776a6 | 0.0/0.0/0.0 |  |  |  |  |  |
+|  | TheProphet | failed | 4f4cca | 34.6/5.5/40.1 |  |  |  |  |  |
 |  | tif03 | failed | f612be | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | vallabkaranam | failed | e83dea | 15.8/9.6/25.4 |  |  |  |  |  |
 
