@@ -1,10 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 11, 2026 at 04:48:24 PM ET`
+Last updated: `April 11, 2026 at 04:56:30 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Apr 11 04:39 PM ET | TheProphet | failed_correctness | R1: SETUP: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent ... | submission.py | 4f4cca | 34.6/5.5/40.1 | 0.0 | 98.8 | 24.1 | 46.5 |
+| Apr 11 04:39 PM ET | TheProphet | failed_correctness | R1: SETUP: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent ... | develop.py | 4f4cca | 35.2/5.3/40.5 | 0.0 | 101.1 | 24.1 | 46.6 |
 | Apr 11 04:37 PM ET | stefan | evaluated |  | submission.py | 353a05 | 19.4/5.9/25.2 | 539.1 | 169.3 | 280.3 | 189.1 |
 | Apr 11 04:24 PM ET | stefan | evaluated |  | develop.py | 3b3718 | 26.3/5.8/32.1 | 540.3 | 169.9 | 279.2 | 188.3 |
 | Apr 11 04:17 PM ET | TheProphet | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 7776a6 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
