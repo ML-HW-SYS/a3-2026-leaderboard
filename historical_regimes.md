@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 11, 2026 at 06:50:26 PM ET`
+Last updated: `April 11, 2026 at 06:59:38 PM ET`
 
 ## R1 (tok/s)
 
@@ -191,7 +191,7 @@ Last updated: `April 11, 2026 at 06:50:26 PM ET`
 | 53 | yb | submission.py | 2aa1a9 | 309.3 |
 | 54 | jbc | develop.py | 4e7308 | 309.3 |
 | 55 | poppyPotatoe | submission.py | 311dc9 | 309.5 |
-| 56 | Decode_speed | submission.py | 208b90 | 310.8 |
+| 56 | Decode_speed | submission.py | ed732f | 310.7 |
 | 57 | mdavalos10 | develop.py | 6e0754 | 310.8 |
 | 58 | castillo | develop.py | 0e93de | 310.9 |
 | 59 | act | develop.py | 1b5e17 | 310.9 |
@@ -259,7 +259,7 @@ Last updated: `April 11, 2026 at 06:50:26 PM ET`
 | 55 | castillo | develop.py | 0e93de | 250.2 |
 | 56 | yb | submission.py | 2aa1a9 | 250.5 |
 | 57 | act | develop.py | 1b5e17 | 250.6 |
-| 58 | Decode_speed | develop.py | 419eb0 | 250.8 |
+| 58 | Decode_speed | submission.py | ed732f | 250.6 |
 | 59 | mdavalos10 | develop.py | 6e0754 | 251.0 |
 | 60 | co-smith | develop.py | dcfadf | 256.9 |
 | 61 | siddarak | submission.py | d85766 | 382.1 |
