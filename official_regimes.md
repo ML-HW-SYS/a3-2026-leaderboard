@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 11, 2026 at 12:13:04 PM ET`
+Last updated: `April 11, 2026 at 12:21:33 PM ET`
 
 ## R1 (tok/s)
 
@@ -50,21 +50,21 @@ Last updated: `April 11, 2026 at 12:13:04 PM ET`
 | 42 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
 | 43 | act | evaluated | 899777 | 523.9 |
 | 44 | ethanchen | evaluated | ea518d | 523.7 |
-| 45 | ishan-pat | evaluated | 5a9f4d | 523.1 |
-| 46 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 47 | fishyfins | evaluated | 6c0e20 | 522.0 |
-| 48 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 49 | PurplePickle67 | evaluated | 68d34e | 520.5 |
-| 50 | jbc | evaluated | 12bb20 | 520.4 |
-| 51 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 52 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
-| 53 | Rithvik | evaluated | 2924a0 | 495.8 |
-| 54 | tuo | evaluated | 3d6d40 | 494.8 |
-| 55 | co-smith | evaluated | dcfadf | 167.2 |
-| 56 | abhik | evaluated | bf55dc | 157.9 |
-| 57 | poppyPotatoe | evaluated | eea264 | 144.2 |
-| 58 | Decode_speed | evaluated | 097a6b | 104.5 |
+| 45 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 46 | fishyfins | evaluated | 6c0e20 | 522.0 |
+| 47 | yoursun1220 | evaluated | d8b590 | 521.8 |
+| 48 | PurplePickle67 | evaluated | 68d34e | 520.5 |
+| 49 | jbc | evaluated | 12bb20 | 520.4 |
+| 50 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 51 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
+| 52 | Rithvik | evaluated | 2924a0 | 495.8 |
+| 53 | tuo | evaluated | 3d6d40 | 494.8 |
+| 54 | co-smith | evaluated | dcfadf | 167.2 |
+| 55 | abhik | evaluated | bf55dc | 157.9 |
+| 56 | poppyPotatoe | evaluated | eea264 | 144.2 |
+| 57 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | dhanushikka | failed | 14b1fd |  |
+|  | ishan-pat | failed | ea5705 |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -108,33 +108,33 @@ Last updated: `April 11, 2026 at 12:13:04 PM ET`
 | 30 | Yize | evaluated | c8c9f7 | 269.9 |
 | 31 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
 | 32 | happyface | evaluated | 7e8b61 | 258.2 |
-| 33 | ishan-pat | evaluated | 5a9f4d | 257.6 |
-| 34 | ethanchen | evaluated | ea518d | 251.2 |
-| 35 | 13rabbit | evaluated | b38df9 | 242.9 |
-| 36 | bl792 | evaluated | 09cd73 | 238.8 |
-| 37 | Licha | evaluated | 9666cd | 238.1 |
-| 38 | beratcelik | evaluated | 863a89 | 231.2 |
-| 39 | tuo | evaluated | 3d6d40 | 204.6 |
-| 40 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
-| 41 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 42 | stefan | evaluated | 583665 | 170.2 |
-| 43 | brandon_lorenzo | evaluated | 67c79e | 169.8 |
-| 44 | Junyi Li | evaluated | c7a1b3 | 169.7 |
-| 45 | dylanjhnsondj | evaluated | c4e1ab | 169.6 |
-| 46 | fishyfins | evaluated | 6c0e20 | 169.5 |
-| 47 | yoursun1220 | evaluated | d8b590 | 169.2 |
-| 48 | hw_bloss | evaluated | 4c9666 | 169.1 |
-| 49 | castillo | evaluated | 0e93de | 169.0 |
-| 50 | jbc | evaluated | 12bb20 | 169.0 |
-| 51 | act | evaluated | 899777 | 169.0 |
-| 52 | yb | evaluated | ea23ab | 168.8 |
-| 53 | mdavalos10 | evaluated | 6e0754 | 159.3 |
-| 54 | nicknam534534 | evaluated | 83a901 | 148.4 |
-| 55 | abhik | evaluated | bf55dc | 127.8 |
-| 56 | co-smith | evaluated | dcfadf | 112.4 |
-| 57 | poppyPotatoe | evaluated | eea264 | 109.8 |
-| 58 | Decode_speed | evaluated | 097a6b | 77.3 |
+| 33 | ethanchen | evaluated | ea518d | 251.2 |
+| 34 | 13rabbit | evaluated | b38df9 | 242.9 |
+| 35 | bl792 | evaluated | 09cd73 | 238.8 |
+| 36 | Licha | evaluated | 9666cd | 238.1 |
+| 37 | beratcelik | evaluated | 863a89 | 231.2 |
+| 38 | tuo | evaluated | 3d6d40 | 204.6 |
+| 39 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
+| 40 | your_nickname_here | evaluated | f10b9b | 173.1 |
+| 41 | stefan | evaluated | 583665 | 170.2 |
+| 42 | brandon_lorenzo | evaluated | 67c79e | 169.8 |
+| 43 | Junyi Li | evaluated | c7a1b3 | 169.7 |
+| 44 | dylanjhnsondj | evaluated | c4e1ab | 169.6 |
+| 45 | fishyfins | evaluated | 6c0e20 | 169.5 |
+| 46 | yoursun1220 | evaluated | d8b590 | 169.2 |
+| 47 | hw_bloss | evaluated | 4c9666 | 169.1 |
+| 48 | castillo | evaluated | 0e93de | 169.0 |
+| 49 | jbc | evaluated | 12bb20 | 169.0 |
+| 50 | act | evaluated | 899777 | 169.0 |
+| 51 | yb | evaluated | ea23ab | 168.8 |
+| 52 | mdavalos10 | evaluated | 6e0754 | 159.3 |
+| 53 | nicknam534534 | evaluated | 83a901 | 148.4 |
+| 54 | abhik | evaluated | bf55dc | 127.8 |
+| 55 | co-smith | evaluated | dcfadf | 112.4 |
+| 56 | poppyPotatoe | evaluated | eea264 | 109.8 |
+| 57 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | dhanushikka | failed | 14b1fd |  |
+|  | ishan-pat | failed | ea5705 |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -171,40 +171,40 @@ Last updated: `April 11, 2026 at 12:13:04 PM ET`
 | 23 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
 | 24 | sjb | evaluated | 373553 | 50.8 |
 | 25 | Junyi Li | evaluated | c7a1b3 | 60.9 |
-| 26 | ishan-pat | evaluated | 5a9f4d | 61.2 |
-| 27 | Licha | evaluated | 9666cd | 61.8 |
-| 28 | happyface | evaluated | 7e8b61 | 63.7 |
-| 29 | alifim | evaluated | 701077 | 64.8 |
-| 30 | beratcelik | evaluated | 863a89 | 68.2 |
-| 31 | JasonWang07 | evaluated | a4b405 | 70.8 |
-| 32 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
-| 33 | leoli | evaluated | 5cdac4 | 71.0 |
-| 34 | ethanchen | evaluated | ea518d | 74.4 |
-| 35 | TA | evaluated | a6e863 | 85.6 |
-| 36 | 13rabbit | evaluated | b38df9 | 100.3 |
-| 37 | jl | evaluated | 8b6423 | 102.6 |
-| 38 | lipphi | evaluated | a3a71b | 104.4 |
-| 39 | pallavi-srinivas | evaluated | 1fd99b | 104.9 |
-| 40 | abhik | evaluated | bf55dc | 140.5 |
-| 41 | tuo | evaluated | 3d6d40 | 167.8 |
-| 42 | fishyfins | evaluated | 6c0e20 | 304.6 |
-| 43 | dylanjhnsondj | evaluated | c4e1ab | 306.0 |
-| 44 | hw_bloss | evaluated | 4c9666 | 308.1 |
-| 45 | your_nickname_here | evaluated | f10b9b | 308.1 |
-| 46 | stefan | evaluated | 583665 | 308.5 |
-| 47 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
-| 48 | brandon_lorenzo | evaluated | 67c79e | 309.2 |
-| 49 | yoursun1220 | evaluated | d8b590 | 310.7 |
-| 50 | act | evaluated | 899777 | 310.9 |
-| 51 | jbc | evaluated | 12bb20 | 311.3 |
-| 52 | mdavalos10 | evaluated | 6e0754 | 311.3 |
-| 53 | poppyPotatoe | evaluated | eea264 | 311.3 |
-| 54 | castillo | evaluated | 0e93de | 311.4 |
-| 55 | yb | evaluated | ea23ab | 312.3 |
-| 56 | co-smith | evaluated | dcfadf | 323.6 |
-| 57 | nicknam534534 | evaluated | 83a901 | 405.3 |
-| 58 | Decode_speed | evaluated | 097a6b | 412.7 |
+| 26 | Licha | evaluated | 9666cd | 61.8 |
+| 27 | happyface | evaluated | 7e8b61 | 63.7 |
+| 28 | alifim | evaluated | 701077 | 64.8 |
+| 29 | beratcelik | evaluated | 863a89 | 68.2 |
+| 30 | JasonWang07 | evaluated | a4b405 | 70.8 |
+| 31 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
+| 32 | leoli | evaluated | 5cdac4 | 71.0 |
+| 33 | ethanchen | evaluated | ea518d | 74.4 |
+| 34 | TA | evaluated | a6e863 | 85.6 |
+| 35 | 13rabbit | evaluated | b38df9 | 100.3 |
+| 36 | jl | evaluated | 8b6423 | 102.6 |
+| 37 | lipphi | evaluated | a3a71b | 104.4 |
+| 38 | pallavi-srinivas | evaluated | 1fd99b | 104.9 |
+| 39 | abhik | evaluated | bf55dc | 140.5 |
+| 40 | tuo | evaluated | 3d6d40 | 167.8 |
+| 41 | fishyfins | evaluated | 6c0e20 | 304.6 |
+| 42 | dylanjhnsondj | evaluated | c4e1ab | 306.0 |
+| 43 | hw_bloss | evaluated | 4c9666 | 308.1 |
+| 44 | your_nickname_here | evaluated | f10b9b | 308.1 |
+| 45 | stefan | evaluated | 583665 | 308.5 |
+| 46 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
+| 47 | brandon_lorenzo | evaluated | 67c79e | 309.2 |
+| 48 | yoursun1220 | evaluated | d8b590 | 310.7 |
+| 49 | act | evaluated | 899777 | 310.9 |
+| 50 | jbc | evaluated | 12bb20 | 311.3 |
+| 51 | mdavalos10 | evaluated | 6e0754 | 311.3 |
+| 52 | poppyPotatoe | evaluated | eea264 | 311.3 |
+| 53 | castillo | evaluated | 0e93de | 311.4 |
+| 54 | yb | evaluated | ea23ab | 312.3 |
+| 55 | co-smith | evaluated | dcfadf | 323.6 |
+| 56 | nicknam534534 | evaluated | 83a901 | 405.3 |
+| 57 | Decode_speed | evaluated | 097a6b | 412.7 |
 |  | dhanushikka | failed | 14b1fd |  |
+|  | ishan-pat | failed | ea5705 |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -245,36 +245,36 @@ Last updated: `April 11, 2026 at 12:13:04 PM ET`
 | 27 | JasonWang07 | evaluated | a4b405 | 88.9 |
 | 28 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
 | 29 | alifim | evaluated | 701077 | 109.2 |
-| 30 | ishan-pat | evaluated | 5a9f4d | 110.9 |
-| 31 | Junyi Li | evaluated | c7a1b3 | 113.1 |
-| 32 | beratcelik | evaluated | 863a89 | 113.8 |
-| 33 | Licha | evaluated | 9666cd | 115.6 |
-| 34 | ethanchen | evaluated | ea518d | 123.6 |
-| 35 | TA | evaluated | a6e863 | 135.6 |
-| 36 | 13rabbit | evaluated | b38df9 | 142.7 |
-| 37 | jl | evaluated | 8b6423 | 149.1 |
-| 38 | pallavi-srinivas | evaluated | 1fd99b | 150.8 |
-| 39 | lipphi | evaluated | a3a71b | 150.9 |
-| 40 | tuo | evaluated | 3d6d40 | 162.8 |
-| 41 | abhik | evaluated | bf55dc | 172.5 |
-| 42 | fishyfins | evaluated | 6c0e20 | 232.9 |
-| 43 | dylanjhnsondj | evaluated | c4e1ab | 236.8 |
-| 44 | hw_bloss | evaluated | 4c9666 | 239.1 |
-| 45 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
-| 46 | your_nickname_here | evaluated | f10b9b | 246.4 |
-| 47 | stefan | evaluated | 583665 | 247.3 |
-| 48 | brandon_lorenzo | evaluated | 67c79e | 249.6 |
-| 49 | yoursun1220 | evaluated | d8b590 | 250.1 |
-| 50 | castillo | evaluated | 0e93de | 250.4 |
-| 51 | yb | evaluated | ea23ab | 250.6 |
-| 52 | act | evaluated | 899777 | 250.7 |
-| 53 | jbc | evaluated | 12bb20 | 251.3 |
-| 54 | mdavalos10 | evaluated | 6e0754 | 251.5 |
-| 55 | poppyPotatoe | evaluated | eea264 | 251.9 |
-| 56 | co-smith | evaluated | dcfadf | 257.4 |
-| 57 | nicknam534534 | evaluated | 83a901 | 268.7 |
-| 58 | Decode_speed | evaluated | 097a6b | 270.3 |
+| 30 | Junyi Li | evaluated | c7a1b3 | 113.1 |
+| 31 | beratcelik | evaluated | 863a89 | 113.8 |
+| 32 | Licha | evaluated | 9666cd | 115.6 |
+| 33 | ethanchen | evaluated | ea518d | 123.6 |
+| 34 | TA | evaluated | a6e863 | 135.6 |
+| 35 | 13rabbit | evaluated | b38df9 | 142.7 |
+| 36 | jl | evaluated | 8b6423 | 149.1 |
+| 37 | pallavi-srinivas | evaluated | 1fd99b | 150.8 |
+| 38 | lipphi | evaluated | a3a71b | 150.9 |
+| 39 | tuo | evaluated | 3d6d40 | 162.8 |
+| 40 | abhik | evaluated | bf55dc | 172.5 |
+| 41 | fishyfins | evaluated | 6c0e20 | 232.9 |
+| 42 | dylanjhnsondj | evaluated | c4e1ab | 236.8 |
+| 43 | hw_bloss | evaluated | 4c9666 | 239.1 |
+| 44 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
+| 45 | your_nickname_here | evaluated | f10b9b | 246.4 |
+| 46 | stefan | evaluated | 583665 | 247.3 |
+| 47 | brandon_lorenzo | evaluated | 67c79e | 249.6 |
+| 48 | yoursun1220 | evaluated | d8b590 | 250.1 |
+| 49 | castillo | evaluated | 0e93de | 250.4 |
+| 50 | yb | evaluated | ea23ab | 250.6 |
+| 51 | act | evaluated | 899777 | 250.7 |
+| 52 | jbc | evaluated | 12bb20 | 251.3 |
+| 53 | mdavalos10 | evaluated | 6e0754 | 251.5 |
+| 54 | poppyPotatoe | evaluated | eea264 | 251.9 |
+| 55 | co-smith | evaluated | dcfadf | 257.4 |
+| 56 | nicknam534534 | evaluated | 83a901 | 268.7 |
+| 57 | Decode_speed | evaluated | 097a6b | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |
+|  | ishan-pat | failed | ea5705 |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
