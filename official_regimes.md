@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 11, 2026 at 07:26:12 PM ET`
+Last updated: `April 11, 2026 at 07:34:02 PM ET`
 
 ## R1 (tok/s)
 
@@ -41,8 +41,8 @@ Last updated: `April 11, 2026 at 07:26:12 PM ET`
 | 33 | Yize | evaluated | c8c9f7 | 534.4 |
 | 34 | mdavalos10 | evaluated | 6e0754 | 533.3 |
 | 35 | gravlax | evaluated | b1229d | 532.3 |
-| 36 | Decode_speed | evaluated | 3cbb03 | 530.4 |
-| 37 | pallavi-srinivas | evaluated | d645d5 | 529.9 |
+| 36 | pallavi-srinivas | evaluated | d645d5 | 529.9 |
+| 37 | Decode_speed | evaluated | 49150c | 528.5 |
 | 38 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
 | 39 | Junyi Li | evaluated | c7a1b3 | 527.3 |
 | 40 | castillo | evaluated | 0e93de | 526.6 |
@@ -128,7 +128,7 @@ Last updated: `April 11, 2026 at 07:26:12 PM ET`
 | 50 | castillo | evaluated | 0e93de | 169.0 |
 | 51 | jbc | evaluated | 12bb20 | 169.0 |
 | 52 | act | evaluated | 899777 | 169.0 |
-| 53 | Decode_speed | evaluated | 3cbb03 | 168.9 |
+| 53 | Decode_speed | evaluated | 49150c | 168.8 |
 | 54 | yb | evaluated | ea23ab | 168.8 |
 | 55 | mdavalos10 | evaluated | 6e0754 | 159.3 |
 | 56 | nicknam534534 | evaluated | 83a901 | 148.4 |
@@ -195,13 +195,13 @@ Last updated: `April 11, 2026 at 07:26:12 PM ET`
 | 47 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 48 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
 | 49 | brandon_lorenzo | evaluated | 67c79e | 309.2 |
-| 50 | yoursun1220 | evaluated | d8b590 | 310.7 |
-| 51 | act | evaluated | 899777 | 310.9 |
-| 52 | jbc | evaluated | 12bb20 | 311.3 |
-| 53 | mdavalos10 | evaluated | 6e0754 | 311.3 |
-| 54 | poppyPotatoe | evaluated | eea264 | 311.3 |
-| 55 | castillo | evaluated | 0e93de | 311.4 |
-| 56 | Decode_speed | evaluated | 3cbb03 | 311.7 |
+| 50 | Decode_speed | evaluated | 49150c | 310.7 |
+| 51 | yoursun1220 | evaluated | d8b590 | 310.7 |
+| 52 | act | evaluated | 899777 | 310.9 |
+| 53 | jbc | evaluated | 12bb20 | 311.3 |
+| 54 | mdavalos10 | evaluated | 6e0754 | 311.3 |
+| 55 | poppyPotatoe | evaluated | eea264 | 311.3 |
+| 56 | castillo | evaluated | 0e93de | 311.4 |
 | 57 | yb | evaluated | ea23ab | 312.3 |
 | 58 | co-smith | evaluated | dcfadf | 323.6 |
 | 59 | nicknam534534 | evaluated | 83a901 | 405.3 |
@@ -264,8 +264,8 @@ Last updated: `April 11, 2026 at 07:26:12 PM ET`
 | 46 | hw_bloss | evaluated | 4c9666 | 239.1 |
 | 47 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
 | 48 | your_nickname_here | evaluated | f10b9b | 246.4 |
-| 49 | Decode_speed | evaluated | 3cbb03 | 249.0 |
-| 50 | brandon_lorenzo | evaluated | 67c79e | 249.6 |
+| 49 | brandon_lorenzo | evaluated | 67c79e | 249.6 |
+| 50 | Decode_speed | evaluated | 49150c | 249.7 |
 | 51 | yoursun1220 | evaluated | d8b590 | 250.1 |
 | 52 | castillo | evaluated | 0e93de | 250.4 |
 | 53 | yb | evaluated | ea23ab | 250.6 |

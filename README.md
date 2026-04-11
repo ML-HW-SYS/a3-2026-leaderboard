@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 11, 2026 at 07:26:12 PM ET`
+Last updated: `April 11, 2026 at 07:34:02 PM ET`
 
 ## Pages
 
@@ -59,8 +59,8 @@ Last updated: `April 11, 2026 at 07:26:12 PM ET`
 | 45 | fishyfins | evaluated | 6c0e20 | 29.2/6.2/35.4 | 0.536 | 522.0 | 169.5 | 304.6 | 232.9 |
 | 46 | dylanjhnsondj | evaluated | c4e1ab | 59.0/6.2/65.1 | 0.535 | 527.3 | 169.6 | 306.0 | 236.8 |
 | 47 | hw_bloss | evaluated | 4c9666 | 23.8/6.2/30.0 | 0.531 | 522.2 | 169.1 | 308.1 | 239.1 |
-| 48 | Decode_speed | evaluated | 3cbb03 | 37.9/6.2/44.1 | 0.526 | 530.4 | 168.9 | 311.7 | 249.0 |
-| 49 | brandon_lorenzo | evaluated | 67c79e | 19.7/6.2/26.0 | 0.526 | 524.1 | 169.8 | 309.2 | 249.6 |
+| 48 | brandon_lorenzo | evaluated | 67c79e | 19.7/6.2/26.0 | 0.526 | 524.1 | 169.8 | 309.2 | 249.6 |
+| 49 | Decode_speed | evaluated | 49150c | 19.8/6.2/26.0 | 0.525 | 528.5 | 168.8 | 310.7 | 249.7 |
 | 50 | castillo | evaluated | 0e93de | 27.1/6.2/33.4 | 0.524 | 526.6 | 169.0 | 311.4 | 250.4 |
 | 51 | act | evaluated | 899777 | 19.8/6.3/26.1 | 0.524 | 523.9 | 169.0 | 310.9 | 250.7 |
 | 52 | yoursun1220 | evaluated | d8b590 | 19.8/6.2/26.1 | 0.524 | 521.8 | 169.2 | 310.7 | 250.1 |

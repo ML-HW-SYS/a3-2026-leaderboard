@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 11, 2026 at 07:26:12 PM ET`
+Last updated: `April 11, 2026 at 07:34:02 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 11 07:23 PM ET | Decode_speed | evaluated |  | submission.py | 49150c | 19.8/6.2/26.0 | 528.5 | 168.8 | 310.7 | 249.7 |
 | Apr 11 07:08 PM ET | ishan-pat | evaluated |  | submission.py | 22076e | 43.2/3.6/46.8 | 537.9 | 260.2 | 57.3 | 108.3 |
 | Apr 11 07:08 PM ET | ishan-pat | evaluated |  | develop.py | 22076e | 25.0/3.6/28.6 | 535.8 | 260.0 | 57.1 | 108.3 |
 | Apr 11 07:05 PM ET | Decode_speed | evaluated |  | submission.py | 3cbb03 | 37.9/6.2/44.1 | 530.4 | 168.9 | 311.7 | 249.0 |
