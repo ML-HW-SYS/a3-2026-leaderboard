@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 11, 2026 at 04:30:22 PM ET`
+Last updated: `April 11, 2026 at 04:39:48 PM ET`
 
 ## R1 (tok/s)
 
@@ -36,8 +36,8 @@ Last updated: `April 11, 2026 at 04:30:22 PM ET`
 | 28 | landrum | develop.py | b61e15 | 540.9 |
 | 29 | pyjuan91 | submission.py | fe8f27 | 540.9 |
 | 30 | andrasferenczy | submission.py | 6204c7 | 540.6 |
-| 31 | abhik | develop.py | 41a3ec | 539.5 |
-| 32 | stefan | develop.py | 9a25e1 | 539.1 |
+| 31 | stefan | develop.py | 3b3718 | 540.3 |
+| 32 | abhik | develop.py | 41a3ec | 539.5 |
 | 33 | ishan-pat | develop.py | 75d32d | 537.5 |
 | 34 | sjb | develop.py | 3359ec | 537.0 |
 | 35 | mdavalos10 | develop.py | 6e0754 | 535.4 |
@@ -180,11 +180,11 @@ Last updated: `April 11, 2026 at 04:30:22 PM ET`
 | 42 | abhik | submission.py | 93ffca | 140.3 |
 | 43 | tuo | submission.py | 92c00e | 166.9 |
 | 44 | nicknam534534 | develop.py | cd4c9b | 210.5 |
-| 45 | fishyfins | submission.py | 6c0e20 | 304.6 |
-| 46 | dylanjhnsondj | submission.py | c4e1ab | 306.0 |
-| 47 | hw_bloss | submission.py | b2767b | 306.7 |
-| 48 | your_nickname_here | submission.py | 59e245 | 307.4 |
-| 49 | stefan | submission.py | 583665 | 308.5 |
+| 45 | stefan | develop.py | 3b3718 | 279.2 |
+| 46 | fishyfins | submission.py | 6c0e20 | 304.6 |
+| 47 | dylanjhnsondj | submission.py | c4e1ab | 306.0 |
+| 48 | hw_bloss | submission.py | b2767b | 306.7 |
+| 49 | your_nickname_here | submission.py | 59e245 | 307.4 |
 | 50 | yoursun1220 | submission.py | 27e400 | 308.6 |
 | 51 | Sulaiman Alam | submission.py | c7ede2 | 308.7 |
 | 52 | brandon_lorenzo | submission.py | 67c79e | 309.2 |
@@ -246,12 +246,12 @@ Last updated: `April 11, 2026 at 04:30:22 PM ET`
 | 42 | lipphi | submission.py | a3a71b | 150.9 |
 | 43 | tuo | submission.py | 4274da | 160.5 |
 | 44 | abhik | submission.py | 572159 | 172.1 |
-| 45 | fishyfins | submission.py | 6c0e20 | 232.9 |
-| 46 | dylanjhnsondj | submission.py | c4e1ab | 236.8 |
-| 47 | hw_bloss | submission.py | b2767b | 237.0 |
-| 48 | Sulaiman Alam | develop.py | c7ede2 | 244.4 |
-| 49 | your_nickname_here | submission.py | 59e245 | 245.7 |
-| 50 | stefan | submission.py | 583665 | 247.3 |
+| 45 | stefan | develop.py | 3b3718 | 188.3 |
+| 46 | fishyfins | submission.py | 6c0e20 | 232.9 |
+| 47 | dylanjhnsondj | submission.py | c4e1ab | 236.8 |
+| 48 | hw_bloss | submission.py | b2767b | 237.0 |
+| 49 | Sulaiman Alam | develop.py | c7ede2 | 244.4 |
+| 50 | your_nickname_here | submission.py | 59e245 | 245.7 |
 | 51 | yoursun1220 | submission.py | 27e400 | 248.7 |
 | 52 | poppyPotatoe | submission.py | 311dc9 | 248.9 |
 | 53 | jbc | develop.py | 4e7308 | 248.9 |

@@ -1,10 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 11, 2026 at 04:30:22 PM ET`
+Last updated: `April 11, 2026 at 04:39:48 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 11 04:24 PM ET | stefan | evaluated |  | develop.py | 3b3718 | 26.3/5.8/32.1 | 540.3 | 169.9 | 279.2 | 188.3 |
 | Apr 11 04:17 PM ET | TheProphet | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 7776a6 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 11 04:17 PM ET | TheProphet | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | develop.py | 7776a6 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 11 03:22 PM ET | stefan | evaluated |  | develop.py | 78f7ec | 38.3/6.2/44.6 | 536.2 | 169.7 | 310.3 | 249.0 |
 | Apr 11 01:23 PM ET | pallavi-srinivas | evaluated |  | submission.py | d645d5 | 19.2/3.7/22.9 | 529.9 | 304.4 | 105.2 | 150.4 |
 | Apr 11 01:05 PM ET | brandon_lorenzo | evaluated |  | develop.py | abaa77 | 19.6/6.3/25.9 | 522.1 | 168.8 | 311.4 | 251.3 |
