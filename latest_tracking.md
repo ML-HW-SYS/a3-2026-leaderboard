@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 11, 2026 at 12:00:01 AM ET`
+Last updated: `April 11, 2026 at 12:08:01 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 10 11:58 PM ET | nickname55555555 | evaluated |  | submission.py | 46e31e | 28.9/2.7/31.5 | 563.6 | 354.9 | 27.5 | 49.4 |
 | Apr 10 11:30 PM ET | nickname55555555 | failed_correctness | R2: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | submission.py | 57eff5 | 31.3/0.9/32.2 | 562.4 | 0.0 | 0.0 | 0.0 |
 | Apr 10 11:17 PM ET | nickname55555555 | failed_correctness | R2: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | submission.py | 45cab4 | 31.4/0.9/32.3 | 568.8 | 0.0 | 0.0 | 0.0 |
 | Apr 10 11:17 PM ET | nickname55555555 | failed_correctness | R2: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | develop.py | 45cab4 | 31.2/0.9/32.1 | 564.8 | 0.0 | 0.0 | 0.0 |
