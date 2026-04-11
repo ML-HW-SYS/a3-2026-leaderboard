@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 11, 2026 at 05:52:23 PM ET`
+Last updated: `April 11, 2026 at 06:00:21 PM ET`
 
 ## Pages
 
@@ -66,7 +66,7 @@ Last updated: `April 11, 2026 at 05:52:23 PM ET`
 | 52 | mdavalos10 | evaluated | 6e0754 | 47.4/6.4/53.9 | 0.518 | 533.3 | 159.3 | 311.3 | 251.5 |
 | 53 | abhik | evaluated | bf55dc | 16.0/8.5/24.5 | 0.485 | 157.9 | 127.8 | 140.5 | 172.5 |
 | 54 | nicknam534534 | evaluated | 83a901 | 19.7/7.1/26.8 | 0.467 | 524.7 | 148.4 | 405.3 | 268.7 |
-| 55 | Decode_speed | evaluated | 3b1e3b | 41.7/7.8/49.5 | 0.409 | 327.7 | 144.0 | 412.8 | 270.1 |
+| 55 | Decode_speed | evaluated | cbc868 | 26.1/7.7/33.8 | 0.418 | 346.8 | 147.6 | 412.3 | 269.2 |
 | 56 | co-smith | evaluated | dcfadf | 15.5/9.9/25.4 | 0.350 | 167.2 | 112.4 | 323.6 | 257.4 |
 | 57 | poppyPotatoe | evaluated | eea264 | 17.1/10.5/27.5 | 0.340 | 144.2 | 109.8 | 311.3 | 251.9 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
