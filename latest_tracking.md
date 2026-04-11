@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 11, 2026 at 03:22:03 PM ET`
+Last updated: `April 11, 2026 at 03:30:13 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 11 03:22 PM ET | stefan | evaluated |  | develop.py | 78f7ec | 38.3/6.2/44.6 | 536.2 | 169.7 | 310.3 | 249.0 |
 | Apr 11 01:23 PM ET | pallavi-srinivas | evaluated |  | submission.py | d645d5 | 19.2/3.7/22.9 | 529.9 | 304.4 | 105.2 | 150.4 |
 | Apr 11 01:05 PM ET | brandon_lorenzo | evaluated |  | develop.py | abaa77 | 19.6/6.3/25.9 | 522.1 | 168.8 | 311.4 | 251.3 |
 | Apr 11 01:04 PM ET | kade_lin_is_here | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | submission.py | 104152 | 13.0/3.1/16.1 | 531.5 | 237.9 | 0.0 | 0.0 |
