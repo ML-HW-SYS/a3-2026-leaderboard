@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 10, 2026 at 09:46:21 PM ET`
+Last updated: `April 10, 2026 at 09:53:41 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 10 09:47 PM ET | vallabkaranam | failed_compliance | Submission compliance check failed for submission.py: \| - missing required function(s): setup, run | submission.py | 60e19f |  |  |  |  |  |
+| Apr 10 09:42 PM ET | brandon_lorenzo | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | ed61e9 |  |  |  |  |  |
 | Apr 10 09:36 PM ET | brandon_lorenzo | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | c66620 |  |  |  |  |  |
 | Apr 10 09:26 PM ET | brandon_lorenzo | evaluated |  | submission.py | 2131a3 | 15.3/14.1/29.4 | 118.6 | 82.7 | 519.7 | 382.4 |
 | Apr 10 09:18 PM ET | brandon_lorenzo | evaluated |  | develop.py | b75766 | 15.3/13.8/29.2 | 120.5 | 85.6 | 519.2 | 384.6 |

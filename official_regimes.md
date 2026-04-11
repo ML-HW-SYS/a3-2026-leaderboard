@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 10, 2026 at 09:46:21 PM ET`
+Last updated: `April 10, 2026 at 09:53:41 PM ET`
 
 ## R1 (tok/s)
 
@@ -62,15 +62,15 @@ Last updated: `April 10, 2026 at 09:46:21 PM ET`
 | 54 | co-smith | evaluated | dcfadf | 167.2 |
 | 55 | abhik | evaluated | bf55dc | 157.9 |
 | 56 | poppyPotatoe | evaluated | eea264 | 144.2 |
-| 57 | brandon_lorenzo | evaluated | 2131a3 | 118.6 |
-| 58 | Decode_speed | evaluated | 097a6b | 104.5 |
+| 57 | Decode_speed | evaluated | 097a6b | 104.5 |
+|  | brandon_lorenzo | failed | ed61e9 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | tif03 | failed | f612be |  |
-|  | vallabkaranam | failed | cb5981 |  |
+|  | vallabkaranam | failed | 60e19f |  |
 
 ## R2 (tok/s)
 
@@ -132,15 +132,15 @@ Last updated: `April 10, 2026 at 09:46:21 PM ET`
 | 54 | abhik | evaluated | bf55dc | 127.8 |
 | 55 | co-smith | evaluated | dcfadf | 112.4 |
 | 56 | poppyPotatoe | evaluated | eea264 | 109.8 |
-| 57 | brandon_lorenzo | evaluated | 2131a3 | 82.7 |
-| 58 | Decode_speed | evaluated | 097a6b | 77.3 |
+| 57 | Decode_speed | evaluated | 097a6b | 77.3 |
+|  | brandon_lorenzo | failed | ed61e9 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | tif03 | failed | f612be |  |
-|  | vallabkaranam | failed | cb5981 |  |
+|  | vallabkaranam | failed | 60e19f |  |
 
 ## R3 (ms)
 
@@ -203,14 +203,14 @@ Last updated: `April 10, 2026 at 09:46:21 PM ET`
 | 55 | co-smith | evaluated | dcfadf | 323.6 |
 | 56 | nicknam534534 | evaluated | 83a901 | 405.3 |
 | 57 | Decode_speed | evaluated | 097a6b | 412.7 |
-| 58 | brandon_lorenzo | evaluated | 2131a3 | 519.7 |
+|  | brandon_lorenzo | failed | ed61e9 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | tif03 | failed | f612be |  |
-|  | vallabkaranam | failed | cb5981 |  |
+|  | vallabkaranam | failed | 60e19f |  |
 
 ## R4 (ms)
 
@@ -273,11 +273,11 @@ Last updated: `April 10, 2026 at 09:46:21 PM ET`
 | 55 | co-smith | evaluated | dcfadf | 257.4 |
 | 56 | nicknam534534 | evaluated | 83a901 | 268.7 |
 | 57 | Decode_speed | evaluated | 097a6b | 270.3 |
-| 58 | brandon_lorenzo | evaluated | 2131a3 | 382.4 |
+|  | brandon_lorenzo | failed | ed61e9 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | tif03 | failed | f612be |  |
-|  | vallabkaranam | failed | cb5981 |  |
+|  | vallabkaranam | failed | 60e19f |  |
