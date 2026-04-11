@@ -1,11 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 11, 2026 at 07:17:46 PM ET`
+Last updated: `April 11, 2026 at 07:26:12 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Apr 11 07:08 PM ET | ishan-pat | evaluated |  | submission.py | 22076e | 43.2/3.6/46.8 | 537.9 | 260.2 | 57.3 | 108.3 |
+| Apr 11 07:08 PM ET | ishan-pat | evaluated |  | develop.py | 22076e | 25.0/3.6/28.6 | 535.8 | 260.0 | 57.1 | 108.3 |
 | Apr 11 07:05 PM ET | Decode_speed | evaluated |  | submission.py | 3cbb03 | 37.9/6.2/44.1 | 530.4 | 168.9 | 311.7 | 249.0 |
+| Apr 11 07:05 PM ET | Decode_speed | evaluated |  | develop.py | 3cbb03 | 19.9/6.2/26.2 | 526.7 | 168.8 | 310.8 | 249.0 |
 | Apr 11 07:02 PM ET | ishan-pat | evaluated |  | submission.py | f5e007 | 25.0/3.6/28.6 | 521.2 | 258.7 | 57.0 | 108.3 |
 | Apr 11 06:50 PM ET | TheProphet | evaluated |  | submission.py | e08ffb | 51.1/3.0/54.0 | 378.1 | 384.7 | 24.0 | 46.4 |
 | Apr 11 06:50 PM ET | TheProphet | evaluated |  | develop.py | e08ffb | 30.9/2.9/33.9 | 384.4 | 384.9 | 24.1 | 46.5 |
