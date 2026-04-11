@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 10, 2026 at 11:05:01 PM ET`
+Last updated: `April 10, 2026 at 11:13:30 PM ET`
 
 ## R1 (tok/s)
 
@@ -56,8 +56,8 @@ Last updated: `April 10, 2026 at 11:05:01 PM ET`
 | 48 | nicknam534534 | develop.py | 83a901 | 525.8 |
 | 49 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
 | 50 | yoursun1220 | submission.py | f4e2be | 524.2 |
-| 51 | act | submission.py | 899777 | 523.9 |
-| 52 | brandon_lorenzo | submission.py | be4a1f | 523.6 |
+| 51 | brandon_lorenzo | submission.py | 2543b5 | 524.0 |
+| 52 | act | submission.py | 899777 | 523.9 |
 | 53 | hw_bloss | submission.py | 2d26da | 523.5 |
 | 54 | PurplePickle67 | submission.py | 68d34e | 520.5 |
 | 55 | jbc | submission.py | 12bb20 | 520.4 |
@@ -86,7 +86,7 @@ Last updated: `April 10, 2026 at 11:05:01 PM ET`
 | 13 | pyjuan91 | develop.py | 92d1da | 364.9 |
 | 14 | Shengwei | submission.py | 67896e | 362.7 |
 | 15 | gm | develop.py | fd15e9 | 357.3 |
-| 16 | nickname55555555 | submission.py | 2f62d2 | 354.3 |
+| 16 | nickname55555555 | develop.py | 2f62d2 | 355.1 |
 | 17 | sjb | develop.py | 7fb492 | 347.4 |
 | 18 | JasonWang07 | develop.py | 2ecd91 | 343.1 |
 | 19 | Rithvik | submission.py | 2924a0 | 335.8 |
@@ -210,9 +210,9 @@ Last updated: `April 10, 2026 at 11:05:01 PM ET`
 | 6 | gm | submission.py | 2898fc | 48.5 |
 | 7 | zionrangers | submission.py | 7758e0 | 48.7 |
 | 8 | prousoglou | develop.py | 5379db | 49.3 |
-| 9 | ngoguen | submission.py | ecab75 | 49.6 |
-| 10 | chickfila | submission.py | f0956d | 49.6 |
-| 11 | nickname55555555 | submission.py | 2f62d2 | 50.0 |
+| 9 | nickname55555555 | develop.py | 2f62d2 | 49.5 |
+| 10 | ngoguen | submission.py | ecab75 | 49.6 |
+| 11 | chickfila | submission.py | f0956d | 49.6 |
 | 12 | zhumengzhiren | develop.py | cf2924 | 50.1 |
 | 13 | ashaikh23 | submission.py | 84a425 | 50.2 |
 | 14 | abarat007 | submission.py | 260fed | 51.5 |

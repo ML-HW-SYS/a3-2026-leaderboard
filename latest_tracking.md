@@ -1,10 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 10, 2026 at 11:05:01 PM ET`
+Last updated: `April 10, 2026 at 11:13:30 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 10 11:00 PM ET | brandon_lorenzo | failed_correctness | R3: SETUP: ERR: Unsupported: builtin isinstance() cannot determine type of argument Explanation: Dynamo doesn't have ... | submission.py | 2543b5 | 19.5/4.0/23.5 | 524.0 | 169.0 | 0.0 | 0.0 |
 | Apr 10 11:00 PM ET | nickname55555555 | evaluated |  | submission.py | 2f62d2 | 82.3/2.7/84.9 | 567.7 | 354.3 | 27.4 | 50.0 |
+| Apr 10 11:00 PM ET | nickname55555555 | evaluated |  | develop.py | 2f62d2 | 29.2/2.7/31.9 | 563.8 | 355.1 | 27.7 | 49.5 |
 | Apr 10 10:53 PM ET | brandon_lorenzo | failed_correctness | R3: SETUP: ERR: Unsupported: builtin isinstance() cannot determine type of argument Explanation: Dynamo doesn't have ... | submission.py | c24b76 | 19.5/4.0/23.5 | 523.4 | 169.0 | 0.0 | 0.0 |
 | Apr 10 10:46 PM ET | brandon_lorenzo | failed_correctness | R3: SETUP: ERR: Unsupported: builtin isinstance() cannot determine type of argument Explanation: Dynamo doesn't have ... | submission.py | 7cad8b | 19.5/4.0/23.5 | 522.9 | 169.3 | 0.0 | 0.0 |
 | Apr 10 10:38 PM ET | brandon_lorenzo | evaluated |  | submission.py | be4a1f | 40.1/6.3/46.4 | 523.6 | 169.1 | 311.1 | 250.1 |
