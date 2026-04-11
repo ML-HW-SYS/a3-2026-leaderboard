@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 11, 2026 at 06:08:34 PM ET`
+Last updated: `April 11, 2026 at 06:16:26 PM ET`
 
 ## R1 (tok/s)
 
@@ -53,9 +53,9 @@ Last updated: `April 11, 2026 at 06:08:34 PM ET`
 | 45 | hw_bloss | evaluated | 4c9666 | 522.2 |
 | 46 | fishyfins | evaluated | 6c0e20 | 522.0 |
 | 47 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 48 | PurplePickle67 | evaluated | 68d34e | 520.5 |
-| 49 | jbc | evaluated | 12bb20 | 520.4 |
-| 50 | Decode_speed | evaluated | 208b90 | 515.7 |
+| 48 | Decode_speed | evaluated | e006e9 | 521.0 |
+| 49 | PurplePickle67 | evaluated | 68d34e | 520.5 |
+| 50 | jbc | evaluated | 12bb20 | 520.4 |
 | 51 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
 | 52 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
 | 53 | Rithvik | evaluated | 2924a0 | 495.8 |
@@ -121,14 +121,14 @@ Last updated: `April 11, 2026 at 06:08:34 PM ET`
 | 43 | dylanjhnsondj | evaluated | c4e1ab | 169.6 |
 | 44 | fishyfins | evaluated | 6c0e20 | 169.5 |
 | 45 | stefan | evaluated | 353a05 | 169.3 |
-| 46 | Decode_speed | evaluated | 208b90 | 169.2 |
-| 47 | yoursun1220 | evaluated | d8b590 | 169.2 |
-| 48 | hw_bloss | evaluated | 4c9666 | 169.1 |
-| 49 | castillo | evaluated | 0e93de | 169.0 |
-| 50 | jbc | evaluated | 12bb20 | 169.0 |
-| 51 | act | evaluated | 899777 | 169.0 |
-| 52 | yb | evaluated | ea23ab | 168.8 |
-| 53 | mdavalos10 | evaluated | 6e0754 | 159.3 |
+| 46 | yoursun1220 | evaluated | d8b590 | 169.2 |
+| 47 | hw_bloss | evaluated | 4c9666 | 169.1 |
+| 48 | castillo | evaluated | 0e93de | 169.0 |
+| 49 | jbc | evaluated | 12bb20 | 169.0 |
+| 50 | act | evaluated | 899777 | 169.0 |
+| 51 | yb | evaluated | ea23ab | 168.8 |
+| 52 | mdavalos10 | evaluated | 6e0754 | 159.3 |
+| 53 | Decode_speed | evaluated | e006e9 | 149.0 |
 | 54 | nicknam534534 | evaluated | 83a901 | 148.4 |
 | 55 | abhik | evaluated | bf55dc | 127.8 |
 | 56 | co-smith | evaluated | dcfadf | 112.4 |
@@ -194,15 +194,15 @@ Last updated: `April 11, 2026 at 06:08:34 PM ET`
 | 46 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
 | 47 | brandon_lorenzo | evaluated | 67c79e | 309.2 |
 | 48 | yoursun1220 | evaluated | d8b590 | 310.7 |
-| 49 | Decode_speed | evaluated | 208b90 | 310.8 |
-| 50 | act | evaluated | 899777 | 310.9 |
-| 51 | jbc | evaluated | 12bb20 | 311.3 |
-| 52 | mdavalos10 | evaluated | 6e0754 | 311.3 |
-| 53 | poppyPotatoe | evaluated | eea264 | 311.3 |
-| 54 | castillo | evaluated | 0e93de | 311.4 |
-| 55 | yb | evaluated | ea23ab | 312.3 |
-| 56 | co-smith | evaluated | dcfadf | 323.6 |
-| 57 | nicknam534534 | evaluated | 83a901 | 405.3 |
+| 49 | act | evaluated | 899777 | 310.9 |
+| 50 | jbc | evaluated | 12bb20 | 311.3 |
+| 51 | mdavalos10 | evaluated | 6e0754 | 311.3 |
+| 52 | poppyPotatoe | evaluated | eea264 | 311.3 |
+| 53 | castillo | evaluated | 0e93de | 311.4 |
+| 54 | yb | evaluated | ea23ab | 312.3 |
+| 55 | co-smith | evaluated | dcfadf | 323.6 |
+| 56 | nicknam534534 | evaluated | 83a901 | 405.3 |
+| 57 | Decode_speed | evaluated | e006e9 | 405.5 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ishan-pat | failed | ea5705 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
@@ -267,12 +267,12 @@ Last updated: `April 11, 2026 at 06:08:34 PM ET`
 | 49 | castillo | evaluated | 0e93de | 250.4 |
 | 50 | yb | evaluated | ea23ab | 250.6 |
 | 51 | act | evaluated | 899777 | 250.7 |
-| 52 | Decode_speed | evaluated | 208b90 | 251.2 |
-| 53 | jbc | evaluated | 12bb20 | 251.3 |
-| 54 | mdavalos10 | evaluated | 6e0754 | 251.5 |
-| 55 | poppyPotatoe | evaluated | eea264 | 251.9 |
-| 56 | co-smith | evaluated | dcfadf | 257.4 |
-| 57 | nicknam534534 | evaluated | 83a901 | 268.7 |
+| 52 | jbc | evaluated | 12bb20 | 251.3 |
+| 53 | mdavalos10 | evaluated | 6e0754 | 251.5 |
+| 54 | poppyPotatoe | evaluated | eea264 | 251.9 |
+| 55 | co-smith | evaluated | dcfadf | 257.4 |
+| 56 | nicknam534534 | evaluated | 83a901 | 268.7 |
+| 57 | Decode_speed | evaluated | e006e9 | 269.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ishan-pat | failed | ea5705 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
