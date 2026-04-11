@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 11, 2026 at 11:18:47 AM ET`
+Last updated: `April 11, 2026 at 11:27:12 AM ET`
 
 ## R1 (tok/s)
 
@@ -120,10 +120,10 @@ Last updated: `April 11, 2026 at 11:18:47 AM ET`
 | 47 | stefan | submission.py | 583665 | 170.2 |
 | 48 | yoursun1220 | submission.py | 27e400 | 169.9 |
 | 49 | yb | submission.py | 2aa1a9 | 169.8 |
-| 50 | hw_bloss | submission.py | b2767b | 169.8 |
-| 51 | Junyi Li | submission.py | c7a1b3 | 169.7 |
-| 52 | dylanjhnsondj | submission.py | c4e1ab | 169.6 |
-| 53 | brandon_lorenzo | submission.py | 494304 | 169.5 |
+| 50 | brandon_lorenzo | submission.py | 67c79e | 169.8 |
+| 51 | hw_bloss | submission.py | b2767b | 169.8 |
+| 52 | Junyi Li | submission.py | c7a1b3 | 169.7 |
+| 53 | dylanjhnsondj | submission.py | c4e1ab | 169.6 |
 | 54 | jbc | develop.py | 4e7308 | 169.4 |
 | 55 | castillo | develop.py | 0e93de | 169.2 |
 | 56 | act | submission.py | 899777 | 169.0 |
@@ -187,10 +187,10 @@ Last updated: `April 11, 2026 at 11:18:47 AM ET`
 | 49 | stefan | submission.py | 583665 | 308.5 |
 | 50 | yoursun1220 | submission.py | 27e400 | 308.6 |
 | 51 | Sulaiman Alam | submission.py | c7ede2 | 308.7 |
-| 52 | yb | submission.py | 2aa1a9 | 309.3 |
-| 53 | jbc | develop.py | 4e7308 | 309.3 |
-| 54 | poppyPotatoe | submission.py | 311dc9 | 309.5 |
-| 55 | brandon_lorenzo | submission.py | 494304 | 309.8 |
+| 52 | brandon_lorenzo | submission.py | 67c79e | 309.2 |
+| 53 | yb | submission.py | 2aa1a9 | 309.3 |
+| 54 | jbc | develop.py | 4e7308 | 309.3 |
+| 55 | poppyPotatoe | submission.py | 311dc9 | 309.5 |
 | 56 | mdavalos10 | develop.py | 6e0754 | 310.8 |
 | 57 | castillo | develop.py | 0e93de | 310.9 |
 | 58 | act | develop.py | 1b5e17 | 310.9 |
@@ -255,7 +255,7 @@ Last updated: `April 11, 2026 at 11:18:47 AM ET`
 | 51 | yoursun1220 | submission.py | 27e400 | 248.7 |
 | 52 | poppyPotatoe | submission.py | 311dc9 | 248.9 |
 | 53 | jbc | develop.py | 4e7308 | 248.9 |
-| 54 | brandon_lorenzo | submission.py | be4a1f | 250.1 |
+| 54 | brandon_lorenzo | submission.py | 67c79e | 249.6 |
 | 55 | castillo | develop.py | 0e93de | 250.2 |
 | 56 | yb | submission.py | 2aa1a9 | 250.5 |
 | 57 | act | develop.py | 1b5e17 | 250.6 |

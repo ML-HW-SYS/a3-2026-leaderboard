@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 11, 2026 at 11:18:47 AM ET`
+Last updated: `April 11, 2026 at 11:27:12 AM ET`
 
 ## R1 (tok/s)
 
@@ -45,9 +45,9 @@ Last updated: `April 11, 2026 at 11:18:47 AM ET`
 | 37 | Junyi Li | evaluated | c7a1b3 | 527.3 |
 | 38 | castillo | evaluated | 0e93de | 526.6 |
 | 39 | yb | evaluated | ea23ab | 525.9 |
-| 40 | brandon_lorenzo | evaluated | 494304 | 525.0 |
-| 41 | bl792 | evaluated | 09cd73 | 524.7 |
-| 42 | nicknam534534 | evaluated | 83a901 | 524.7 |
+| 40 | bl792 | evaluated | 09cd73 | 524.7 |
+| 41 | nicknam534534 | evaluated | 83a901 | 524.7 |
+| 42 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
 | 43 | act | evaluated | 899777 | 523.9 |
 | 44 | ethanchen | evaluated | ea518d | 523.7 |
 | 45 | hw_bloss | evaluated | 4c9666 | 522.2 |
@@ -117,9 +117,9 @@ Last updated: `April 11, 2026 at 11:18:47 AM ET`
 | 39 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
 | 40 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 41 | stefan | evaluated | 583665 | 170.2 |
-| 42 | Junyi Li | evaluated | c7a1b3 | 169.7 |
-| 43 | dylanjhnsondj | evaluated | c4e1ab | 169.6 |
-| 44 | brandon_lorenzo | evaluated | 494304 | 169.5 |
+| 42 | brandon_lorenzo | evaluated | 67c79e | 169.8 |
+| 43 | Junyi Li | evaluated | c7a1b3 | 169.7 |
+| 44 | dylanjhnsondj | evaluated | c4e1ab | 169.6 |
 | 45 | fishyfins | evaluated | 6c0e20 | 169.5 |
 | 46 | yoursun1220 | evaluated | d8b590 | 169.2 |
 | 47 | hw_bloss | evaluated | 4c9666 | 169.1 |
@@ -192,7 +192,7 @@ Last updated: `April 11, 2026 at 11:18:47 AM ET`
 | 44 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 45 | stefan | evaluated | 583665 | 308.5 |
 | 46 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
-| 47 | brandon_lorenzo | evaluated | 494304 | 309.8 |
+| 47 | brandon_lorenzo | evaluated | 67c79e | 309.2 |
 | 48 | yoursun1220 | evaluated | d8b590 | 310.7 |
 | 49 | act | evaluated | 899777 | 310.9 |
 | 50 | jbc | evaluated | 12bb20 | 311.3 |
@@ -262,8 +262,8 @@ Last updated: `April 11, 2026 at 11:18:47 AM ET`
 | 44 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
 | 45 | your_nickname_here | evaluated | f10b9b | 246.4 |
 | 46 | stefan | evaluated | 583665 | 247.3 |
-| 47 | yoursun1220 | evaluated | d8b590 | 250.1 |
-| 48 | brandon_lorenzo | evaluated | 494304 | 250.3 |
+| 47 | brandon_lorenzo | evaluated | 67c79e | 249.6 |
+| 48 | yoursun1220 | evaluated | d8b590 | 250.1 |
 | 49 | castillo | evaluated | 0e93de | 250.4 |
 | 50 | yb | evaluated | ea23ab | 250.6 |
 | 51 | act | evaluated | 899777 | 250.7 |
