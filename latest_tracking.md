@@ -1,12 +1,14 @@
 # Latest Tracking
 
-Last updated: `April 11, 2026 at 01:08:38 PM ET`
+Last updated: `April 11, 2026 at 01:16:55 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 11 01:05 PM ET | brandon_lorenzo | evaluated |  | develop.py | abaa77 | 19.6/6.3/25.9 | 522.1 | 168.8 | 311.4 | 251.3 |
 | Apr 11 01:04 PM ET | kade_lin_is_here | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | submission.py | 104152 | 13.0/3.1/16.1 | 531.5 | 237.9 | 0.0 | 0.0 |
 | Apr 11 12:54 PM ET | brandon_lorenzo | evaluated |  | develop.py | 1d1fff | 19.7/6.2/25.9 | 523.2 | 169.6 | 310.0 | 249.7 |
 | Apr 11 12:53 PM ET | pallavi-srinivas | failed_correctness | Correctness FAIL \| R2 (79.09%), R3 (79.65%), R4 (82.91%) \| max_abs_diff=10.39 | submission.py | f50940 | 18.6/3.3/21.9 | 527.4 | 329.8 | 70.2 | 127.0 |
+| Apr 11 12:53 PM ET | pallavi-srinivas | failed_correctness | Correctness FAIL \| R2 (79.09%), R3 (79.65%), R4 (82.91%) \| max_abs_diff=10.39 | develop.py | f50940 | 18.7/3.3/22.0 | 529.9 | 328.7 | 71.2 | 127.4 |
 | Apr 11 12:16 PM ET | ishan-pat | failed_correctness | Correctness FAIL \| R1 (90.63%), R2 (35.91%) \| max_abs_diff=14.54 | submission.py | ea5705 | 58.1/3.3/61.4 | 466.3 | 332.1 | 57.6 | 109.3 |
 | Apr 11 12:16 PM ET | ishan-pat | failed_correctness | Correctness FAIL \| R1 (90.63%), R2 (35.91%) \| max_abs_diff=14.54 | develop.py | ea5705 | 25.2/3.3/28.5 | 465.7 | 330.6 | 57.9 | 108.9 |
 | Apr 11 11:36 AM ET | ishan-pat | evaluated |  | submission.py | 5a9f4d | 37.2/3.7/40.8 | 523.1 | 257.6 | 61.2 | 110.9 |
