@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 10, 2026 at 11:13:30 PM ET`
+Last updated: `April 10, 2026 at 11:21:59 PM ET`
 
 ## R1 (tok/s)
 
@@ -12,8 +12,8 @@ Last updated: `April 10, 2026 at 11:13:30 PM ET`
 | 4 | jl | submission.py | e6ce85 | 574.4 |
 | 5 | zhumengzhiren | develop.py | cf2924 | 571.1 |
 | 6 | omermoav | submission.py | b01c0e | 569.6 |
-| 7 | zionrangers | develop.py | 7758e0 | 568.5 |
-| 8 | nickname55555555 | submission.py | 2f62d2 | 567.7 |
+| 7 | nickname55555555 | submission.py | 45cab4 | 568.8 |
+| 8 | zionrangers | develop.py | 7758e0 | 568.5 |
 | 9 | TheProphet | submission.py | 0a9c73 | 567.2 |
 | 10 | beratcelik | submission.py | ecf890 | 564.7 |
 | 11 | ashaikh23 | submission.py | 062f0e | 563.6 |
@@ -55,8 +55,8 @@ Last updated: `April 10, 2026 at 11:13:30 PM ET`
 | 47 | yb | submission.py | ea23ab | 525.9 |
 | 48 | nicknam534534 | develop.py | 83a901 | 525.8 |
 | 49 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
-| 50 | yoursun1220 | submission.py | f4e2be | 524.2 |
-| 51 | brandon_lorenzo | submission.py | 2543b5 | 524.0 |
+| 50 | brandon_lorenzo | develop.py | 2543b5 | 524.4 |
+| 51 | yoursun1220 | submission.py | f4e2be | 524.2 |
 | 52 | act | submission.py | 899777 | 523.9 |
 | 53 | hw_bloss | submission.py | 2d26da | 523.5 |
 | 54 | PurplePickle67 | submission.py | 68d34e | 520.5 |
