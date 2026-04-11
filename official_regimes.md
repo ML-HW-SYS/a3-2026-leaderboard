@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 10, 2026 at 10:16:10 PM ET`
+Last updated: `April 10, 2026 at 10:24:26 PM ET`
 
 ## R1 (tok/s)
 
@@ -55,15 +55,15 @@ Last updated: `April 10, 2026 at 10:16:10 PM ET`
 | 47 | PurplePickle67 | evaluated | 68d34e | 520.5 |
 | 48 | jbc | evaluated | 12bb20 | 520.4 |
 | 49 | ishan-pat | evaluated | fddca1 | 518.1 |
-| 50 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 51 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
-| 52 | Rithvik | evaluated | 2924a0 | 495.8 |
-| 53 | tuo | evaluated | 3d6d40 | 494.8 |
-| 54 | co-smith | evaluated | dcfadf | 167.2 |
-| 55 | abhik | evaluated | bf55dc | 157.9 |
-| 56 | poppyPotatoe | evaluated | eea264 | 144.2 |
-| 57 | Decode_speed | evaluated | 097a6b | 104.5 |
-|  | brandon_lorenzo | failed | 612056 |  |
+| 50 | brandon_lorenzo | evaluated | 4e674e | 517.0 |
+| 51 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 52 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
+| 53 | Rithvik | evaluated | 2924a0 | 495.8 |
+| 54 | tuo | evaluated | 3d6d40 | 494.8 |
+| 55 | co-smith | evaluated | dcfadf | 167.2 |
+| 56 | abhik | evaluated | bf55dc | 157.9 |
+| 57 | poppyPotatoe | evaluated | eea264 | 144.2 |
+| 58 | Decode_speed | evaluated | 097a6b | 104.5 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | siddarak | failed | d85766 |  |
@@ -128,12 +128,12 @@ Last updated: `April 10, 2026 at 10:16:10 PM ET`
 | 50 | act | evaluated | 899777 | 169.0 |
 | 51 | yb | evaluated | ea23ab | 168.8 |
 | 52 | mdavalos10 | evaluated | 6e0754 | 159.3 |
-| 53 | nicknam534534 | evaluated | 83a901 | 148.4 |
-| 54 | abhik | evaluated | bf55dc | 127.8 |
-| 55 | co-smith | evaluated | dcfadf | 112.4 |
-| 56 | poppyPotatoe | evaluated | eea264 | 109.8 |
-| 57 | Decode_speed | evaluated | 097a6b | 77.3 |
-|  | brandon_lorenzo | failed | 612056 |  |
+| 53 | brandon_lorenzo | evaluated | 4e674e | 150.7 |
+| 54 | nicknam534534 | evaluated | 83a901 | 148.4 |
+| 55 | abhik | evaluated | bf55dc | 127.8 |
+| 56 | co-smith | evaluated | dcfadf | 112.4 |
+| 57 | poppyPotatoe | evaluated | eea264 | 109.8 |
+| 58 | Decode_speed | evaluated | 097a6b | 77.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | siddarak | failed | d85766 |  |
@@ -201,9 +201,9 @@ Last updated: `April 10, 2026 at 10:16:10 PM ET`
 | 53 | castillo | evaluated | 0e93de | 311.4 |
 | 54 | yb | evaluated | ea23ab | 312.3 |
 | 55 | co-smith | evaluated | dcfadf | 323.6 |
-| 56 | nicknam534534 | evaluated | 83a901 | 405.3 |
-| 57 | Decode_speed | evaluated | 097a6b | 412.7 |
-|  | brandon_lorenzo | failed | 612056 |  |
+| 56 | brandon_lorenzo | evaluated | 4e674e | 404.9 |
+| 57 | nicknam534534 | evaluated | 83a901 | 405.3 |
+| 58 | Decode_speed | evaluated | 097a6b | 412.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | siddarak | failed | d85766 |  |
@@ -271,9 +271,9 @@ Last updated: `April 10, 2026 at 10:16:10 PM ET`
 | 53 | mdavalos10 | evaluated | 6e0754 | 251.5 |
 | 54 | poppyPotatoe | evaluated | eea264 | 251.9 |
 | 55 | co-smith | evaluated | dcfadf | 257.4 |
-| 56 | nicknam534534 | evaluated | 83a901 | 268.7 |
-| 57 | Decode_speed | evaluated | 097a6b | 270.3 |
-|  | brandon_lorenzo | failed | 612056 |  |
+| 56 | brandon_lorenzo | evaluated | 4e674e | 267.3 |
+| 57 | nicknam534534 | evaluated | 83a901 | 268.7 |
+| 58 | Decode_speed | evaluated | 097a6b | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | siddarak | failed | d85766 |  |

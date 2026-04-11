@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 10, 2026 at 10:16:10 PM ET`
+Last updated: `April 10, 2026 at 10:24:26 PM ET`
 
 ## Pages
 
@@ -65,11 +65,11 @@ Last updated: `April 10, 2026 at 10:16:10 PM ET`
 | 51 | jbc | evaluated | 12bb20 | 21.1/6.3/27.4 | 0.522 | 520.4 | 169.0 | 311.3 | 251.3 |
 | 52 | mdavalos10 | evaluated | 6e0754 | 47.4/6.4/53.9 | 0.518 | 533.3 | 159.3 | 311.3 | 251.5 |
 | 53 | abhik | evaluated | bf55dc | 16.0/8.5/24.5 | 0.485 | 157.9 | 127.8 | 140.5 | 172.5 |
-| 54 | nicknam534534 | evaluated | 83a901 | 19.7/7.1/26.8 | 0.467 | 524.7 | 148.4 | 405.3 | 268.7 |
-| 55 | co-smith | evaluated | dcfadf | 15.5/9.9/25.4 | 0.350 | 167.2 | 112.4 | 323.6 | 257.4 |
-| 56 | poppyPotatoe | evaluated | eea264 | 17.1/10.5/27.5 | 0.340 | 144.2 | 109.8 | 311.3 | 251.9 |
-| 57 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
-|  | brandon_lorenzo | failed | 612056 |  |  |  |  |  |  |
+| 54 | brandon_lorenzo | evaluated | 4e674e | 42.0/7.1/49.1 | 0.467 | 517.0 | 150.7 | 404.9 | 267.3 |
+| 55 | nicknam534534 | evaluated | 83a901 | 19.7/7.1/26.8 | 0.467 | 524.7 | 148.4 | 405.3 | 268.7 |
+| 56 | co-smith | evaluated | dcfadf | 15.5/9.9/25.4 | 0.350 | 167.2 | 112.4 | 323.6 | 257.4 |
+| 57 | poppyPotatoe | evaluated | eea264 | 17.1/10.5/27.5 | 0.340 | 144.2 | 109.8 | 311.3 | 251.9 |
+| 58 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | kade_lin_is_here | failed | 0d2dc7 | 72.8/3.5/76.3 |  |  |  |  |  |
 |  | siddarak | failed | d85766 | 21.8/9.2/31.0 |  |  |  |  |  |
