@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 11, 2026 at 06:42:35 PM ET`
+Last updated: `April 11, 2026 at 06:50:26 PM ET`
 
 ## R1 (tok/s)
 
@@ -124,8 +124,8 @@ Last updated: `April 11, 2026 at 06:42:35 PM ET`
 | 51 | hw_bloss | submission.py | b2767b | 169.8 |
 | 52 | Junyi Li | submission.py | c7a1b3 | 169.7 |
 | 53 | dylanjhnsondj | submission.py | c4e1ab | 169.6 |
-| 54 | jbc | develop.py | 4e7308 | 169.4 |
-| 55 | Decode_speed | submission.py | c63467 | 169.3 |
+| 54 | Decode_speed | develop.py | 419eb0 | 169.4 |
+| 55 | jbc | develop.py | 4e7308 | 169.4 |
 | 56 | castillo | develop.py | 0e93de | 169.2 |
 | 57 | act | submission.py | 899777 | 169.0 |
 | 58 | nicknam534534 | develop.py | 187bfa | 148.4 |
@@ -259,7 +259,7 @@ Last updated: `April 11, 2026 at 06:42:35 PM ET`
 | 55 | castillo | develop.py | 0e93de | 250.2 |
 | 56 | yb | submission.py | 2aa1a9 | 250.5 |
 | 57 | act | develop.py | 1b5e17 | 250.6 |
-| 58 | mdavalos10 | develop.py | 6e0754 | 251.0 |
-| 59 | Decode_speed | submission.py | 208b90 | 251.2 |
+| 58 | Decode_speed | develop.py | 419eb0 | 250.8 |
+| 59 | mdavalos10 | develop.py | 6e0754 | 251.0 |
 | 60 | co-smith | develop.py | dcfadf | 256.9 |
 | 61 | siddarak | submission.py | d85766 | 382.1 |
