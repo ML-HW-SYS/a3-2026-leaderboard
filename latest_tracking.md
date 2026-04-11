@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 10, 2026 at 10:01:01 PM ET`
+Last updated: `April 10, 2026 at 10:08:53 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 10 10:04 PM ET | vallabkaranam | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | e83dea | 15.8/9.6/25.4 | 170.1 | 118.1 | 308.8 | 246.9 |
+| Apr 10 09:59 PM ET | brandon_lorenzo | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | 612056 |  |  |  |  |  |
 | Apr 10 09:53 PM ET | brandon_lorenzo | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | 5d3290 |  |  |  |  |  |
 | Apr 10 09:47 PM ET | vallabkaranam | failed_compliance | Submission compliance check failed for submission.py: \| - missing required function(s): setup, run | submission.py | 60e19f |  |  |  |  |  |
 | Apr 10 09:42 PM ET | brandon_lorenzo | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | ed61e9 |  |  |  |  |  |

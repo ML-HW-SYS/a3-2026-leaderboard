@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 10, 2026 at 10:01:01 PM ET`
+Last updated: `April 10, 2026 at 10:08:53 PM ET`
 
 ## R1 (tok/s)
 
@@ -63,14 +63,14 @@ Last updated: `April 10, 2026 at 10:01:01 PM ET`
 | 55 | abhik | evaluated | bf55dc | 157.9 |
 | 56 | poppyPotatoe | evaluated | eea264 | 144.2 |
 | 57 | Decode_speed | evaluated | 097a6b | 104.5 |
-|  | brandon_lorenzo | failed | ed61e9 |  |
+|  | brandon_lorenzo | failed | 612056 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | tif03 | failed | f612be |  |
-|  | vallabkaranam | failed | 60e19f |  |
+|  | vallabkaranam | failed | e83dea |  |
 
 ## R2 (tok/s)
 
@@ -133,14 +133,14 @@ Last updated: `April 10, 2026 at 10:01:01 PM ET`
 | 55 | co-smith | evaluated | dcfadf | 112.4 |
 | 56 | poppyPotatoe | evaluated | eea264 | 109.8 |
 | 57 | Decode_speed | evaluated | 097a6b | 77.3 |
-|  | brandon_lorenzo | failed | ed61e9 |  |
+|  | brandon_lorenzo | failed | 612056 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | tif03 | failed | f612be |  |
-|  | vallabkaranam | failed | 60e19f |  |
+|  | vallabkaranam | failed | e83dea |  |
 
 ## R3 (ms)
 
@@ -203,14 +203,14 @@ Last updated: `April 10, 2026 at 10:01:01 PM ET`
 | 55 | co-smith | evaluated | dcfadf | 323.6 |
 | 56 | nicknam534534 | evaluated | 83a901 | 405.3 |
 | 57 | Decode_speed | evaluated | 097a6b | 412.7 |
-|  | brandon_lorenzo | failed | ed61e9 |  |
+|  | brandon_lorenzo | failed | 612056 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | tif03 | failed | f612be |  |
-|  | vallabkaranam | failed | 60e19f |  |
+|  | vallabkaranam | failed | e83dea |  |
 
 ## R4 (ms)
 
@@ -273,11 +273,11 @@ Last updated: `April 10, 2026 at 10:01:01 PM ET`
 | 55 | co-smith | evaluated | dcfadf | 257.4 |
 | 56 | nicknam534534 | evaluated | 83a901 | 268.7 |
 | 57 | Decode_speed | evaluated | 097a6b | 270.3 |
-|  | brandon_lorenzo | failed | ed61e9 |  |
+|  | brandon_lorenzo | failed | 612056 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
 |  | tif03 | failed | f612be |  |
-|  | vallabkaranam | failed | 60e19f |  |
+|  | vallabkaranam | failed | e83dea |  |
