@@ -1,28 +1,28 @@
 # Historical Best By Regime
 
-Last updated: `April 10, 2026 at 08:30:24 PM ET`
+Last updated: `April 10, 2026 at 08:38:40 PM ET`
 
 ## R1 (tok/s)
 
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | - - | submission.py | adc0f3 | 591.4 |
-| 2 | fishyfins | develop.py | 866448 | 580.7 |
-| 3 | jl | submission.py | e6ce85 | 574.4 |
-| 4 | zhumengzhiren | develop.py | cf2924 | 571.1 |
-| 5 | omermoav | submission.py | b01c0e | 569.6 |
-| 6 | zionrangers | develop.py | 7758e0 | 568.5 |
-| 7 | TheProphet | submission.py | 0a9c73 | 567.2 |
-| 8 | beratcelik | submission.py | ecf890 | 564.7 |
-| 9 | ashaikh23 | submission.py | 062f0e | 563.6 |
-| 10 | nickname55555555 | develop.py | e3c641 | 563.5 |
-| 11 | abarat007 | develop.py | d7f626 | 562.9 |
-| 12 | JasonWang07 | submission.py | 1b4aca | 561.1 |
-| 13 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 560.4 |
-| 14 | your_nickname_here | submission.py | 59e245 | 559.6 |
-| 15 | blabrl | develop.py | 9873f9 | 559.5 |
-| 16 | chyyy | submission.py | 56b321 | 557.7 |
-| 17 | prousoglou | submission.py | 570c63 | 556.7 |
+| 1 | prousoglou | develop.py | 5379db | 601.0 |
+| 2 | - - | submission.py | adc0f3 | 591.4 |
+| 3 | fishyfins | develop.py | 866448 | 580.7 |
+| 4 | jl | submission.py | e6ce85 | 574.4 |
+| 5 | zhumengzhiren | develop.py | cf2924 | 571.1 |
+| 6 | omermoav | submission.py | b01c0e | 569.6 |
+| 7 | zionrangers | develop.py | 7758e0 | 568.5 |
+| 8 | TheProphet | submission.py | 0a9c73 | 567.2 |
+| 9 | beratcelik | submission.py | ecf890 | 564.7 |
+| 10 | ashaikh23 | submission.py | 062f0e | 563.6 |
+| 11 | nickname55555555 | develop.py | e3c641 | 563.5 |
+| 12 | abarat007 | develop.py | d7f626 | 562.9 |
+| 13 | JasonWang07 | submission.py | 1b4aca | 561.1 |
+| 14 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 560.4 |
+| 15 | your_nickname_here | submission.py | 59e245 | 559.6 |
+| 16 | blabrl | develop.py | 9873f9 | 559.5 |
+| 17 | chyyy | submission.py | 56b321 | 557.7 |
 | 18 | TA | submission.py | a6e863 | 556.6 |
 | 19 | gm | develop.py | a57e9f | 548.9 |
 | 20 | leoli | submission.py | 7ef4b9 | 544.9 |
@@ -73,12 +73,12 @@ Last updated: `April 10, 2026 at 08:30:24 PM ET`
 | 1 | zhumengzhiren | develop.py | 23fbd6 | 484.8 |
 | 2 | chyyy | submission.py | 34cc06 | 433.8 |
 | 3 | chickfila | submission.py | f0956d | 398.8 |
-| 4 | - - | submission.py | adc0f3 | 386.9 |
-| 5 | TheProphet | develop.py | 3a9c2e | 385.3 |
-| 6 | blabrl | develop.py | 9873f9 | 383.8 |
-| 7 | alifim | submission.py | 701077 | 381.2 |
-| 8 | abarat007 | submission.py | d7f626 | 378.6 |
-| 9 | prousoglou | submission.py | 13e8de | 375.9 |
+| 4 | prousoglou | develop.py | 5379db | 396.0 |
+| 5 | - - | submission.py | adc0f3 | 386.9 |
+| 6 | TheProphet | develop.py | 3a9c2e | 385.3 |
+| 7 | blabrl | develop.py | 9873f9 | 383.8 |
+| 8 | alifim | submission.py | 701077 | 381.2 |
+| 9 | abarat007 | submission.py | d7f626 | 378.6 |
 | 10 | omermoav | submission.py | dc63b9 | 374.3 |
 | 11 | zionrangers | develop.py | 7758e0 | 372.9 |
 | 12 | ashaikh23 | submission.py | 84a425 | 372.1 |
@@ -206,7 +206,7 @@ Last updated: `April 10, 2026 at 08:30:24 PM ET`
 | 5 | Shengwei | submission.py | 67896e | 48.1 |
 | 6 | gm | submission.py | 2898fc | 48.5 |
 | 7 | zionrangers | submission.py | 7758e0 | 48.7 |
-| 8 | prousoglou | develop.py | d39ef8 | 49.5 |
+| 8 | prousoglou | develop.py | 5379db | 49.3 |
 | 9 | ngoguen | submission.py | ecab75 | 49.6 |
 | 10 | chickfila | submission.py | f0956d | 49.6 |
 | 11 | zhumengzhiren | develop.py | cf2924 | 50.1 |
