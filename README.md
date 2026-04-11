@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 10, 2026 at 11:30:00 PM ET`
+Last updated: `April 10, 2026 at 11:38:01 PM ET`
 
 ## Pages
 
@@ -71,7 +71,7 @@ Last updated: `April 10, 2026 at 11:30:00 PM ET`
 |  | brandon_lorenzo | failed | 2543b5 | 19.5/4.0/23.5 |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | kade_lin_is_here | failed | 0d2dc7 | 72.8/3.5/76.3 |  |  |  |  |  |
-|  | nickname55555555 | failed | 45cab4 | 31.4/0.9/32.3 |  |  |  |  |  |
+|  | nickname55555555 | failed | 57eff5 | 31.3/0.9/32.2 |  |  |  |  |  |
 |  | siddarak | failed | d85766 | 21.8/9.2/31.0 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | TheProphet | failed | 2facb7 | 41.1/2.5/43.6 |  |  |  |  |  |

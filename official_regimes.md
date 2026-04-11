@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 10, 2026 at 11:30:00 PM ET`
+Last updated: `April 10, 2026 at 11:38:01 PM ET`
 
 ## R1 (tok/s)
 
@@ -65,7 +65,7 @@ Last updated: `April 10, 2026 at 11:30:00 PM ET`
 |  | brandon_lorenzo | failed | 2543b5 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
-|  | nickname55555555 | failed | 45cab4 |  |
+|  | nickname55555555 | failed | 57eff5 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
@@ -135,7 +135,7 @@ Last updated: `April 10, 2026 at 11:30:00 PM ET`
 |  | brandon_lorenzo | failed | 2543b5 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
-|  | nickname55555555 | failed | 45cab4 |  |
+|  | nickname55555555 | failed | 57eff5 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
@@ -205,7 +205,7 @@ Last updated: `April 10, 2026 at 11:30:00 PM ET`
 |  | brandon_lorenzo | failed | 2543b5 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
-|  | nickname55555555 | failed | 45cab4 |  |
+|  | nickname55555555 | failed | 57eff5 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
@@ -275,7 +275,7 @@ Last updated: `April 10, 2026 at 11:30:00 PM ET`
 |  | brandon_lorenzo | failed | 2543b5 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 0d2dc7 |  |
-|  | nickname55555555 | failed | 45cab4 |  |
+|  | nickname55555555 | failed | 57eff5 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 2facb7 |  |
