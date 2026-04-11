@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 10, 2026 at 08:23:04 PM ET`
+Last updated: `April 10, 2026 at 08:30:24 PM ET`
 
 ## Pages
 
@@ -69,7 +69,7 @@ Last updated: `April 10, 2026 at 08:23:04 PM ET`
 | 55 | co-smith | evaluated | dcfadf | 15.5/9.9/25.4 | 0.350 | 167.2 | 112.4 | 323.6 | 257.4 |
 | 56 | poppyPotatoe | evaluated | eea264 | 17.1/10.5/27.5 | 0.340 | 144.2 | 109.8 | 311.3 | 251.9 |
 | 57 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
-|  | brandon_lorenzo | failed | 3cc86c | 0.0/0.0/0.0 |  |  |  |  |  |
+|  | brandon_lorenzo | failed | 93ba08 |  |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | kade_lin_is_here | failed | 0d2dc7 | 72.8/3.5/76.3 |  |  |  |  |  |
 |  | siddarak | failed | d85766 | 21.8/9.2/31.0 |  |  |  |  |  |

@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 10, 2026 at 08:23:04 PM ET`
+Last updated: `April 10, 2026 at 08:30:24 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 10 08:19 PM ET | brandon_lorenzo | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | 93ba08 |  |  |  |  |  |
 | Apr 10 07:43 PM ET | brandon_lorenzo | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | 301b2d |  |  |  |  |  |
 | Apr 10 07:40 PM ET | prousoglou | evaluated |  | submission.py | 13e8de | 19.7/2.6/22.3 | 554.7 | 375.9 | 27.1 | 49.6 |
 | Apr 10 07:25 PM ET | brandon_lorenzo | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | f49c9b |  |  |  |  |  |
