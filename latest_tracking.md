@@ -1,10 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 11, 2026 at 05:20:22 PM ET`
+Last updated: `April 11, 2026 at 05:28:54 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 11 05:21 PM ET | Decode_speed | evaluated |  | submission.py | af3ee4 | 16.2/14.4/30.6 | 102.7 | 76.8 | 413.1 | 270.5 |
 | Apr 11 05:08 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.75%) \| max_abs_diff=12.18 | submission.py | 28f3f9 | 29.4/2.5/31.9 | 562.0 | 381.2 | 24.1 | 46.7 |
+| Apr 11 05:08 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.75%) \| max_abs_diff=12.18 | develop.py | 28f3f9 | 29.1/2.5/31.7 | 553.8 | 381.8 | 24.1 | 46.4 |
 | Apr 11 04:55 PM ET | TheProphet | evaluated |  | submission.py | d41248 | 28.3/2.9/31.2 | 393.7 | 384.6 | 24.1 | 46.7 |
 | Apr 11 04:55 PM ET | TheProphet | evaluated |  | develop.py | d41248 | 29.2/2.9/32.1 | 394.4 | 384.5 | 24.2 | 46.7 |
 | Apr 11 04:39 PM ET | TheProphet | failed_correctness | R1: SETUP: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent ... | submission.py | 4f4cca | 34.6/5.5/40.1 | 0.0 | 98.8 | 24.1 | 46.5 |

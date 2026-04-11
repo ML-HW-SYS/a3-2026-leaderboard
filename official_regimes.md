@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 11, 2026 at 05:20:22 PM ET`
+Last updated: `April 11, 2026 at 05:28:54 PM ET`
 
 ## R1 (tok/s)
 
@@ -62,7 +62,7 @@ Last updated: `April 11, 2026 at 05:20:22 PM ET`
 | 54 | co-smith | evaluated | dcfadf | 167.2 |
 | 55 | abhik | evaluated | bf55dc | 157.9 |
 | 56 | poppyPotatoe | evaluated | eea264 | 144.2 |
-| 57 | Decode_speed | evaluated | 097a6b | 104.5 |
+| 57 | Decode_speed | evaluated | af3ee4 | 102.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ishan-pat | failed | ea5705 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
@@ -132,7 +132,7 @@ Last updated: `April 11, 2026 at 05:20:22 PM ET`
 | 54 | abhik | evaluated | bf55dc | 127.8 |
 | 55 | co-smith | evaluated | dcfadf | 112.4 |
 | 56 | poppyPotatoe | evaluated | eea264 | 109.8 |
-| 57 | Decode_speed | evaluated | 097a6b | 77.3 |
+| 57 | Decode_speed | evaluated | af3ee4 | 76.8 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ishan-pat | failed | ea5705 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
@@ -202,7 +202,7 @@ Last updated: `April 11, 2026 at 05:20:22 PM ET`
 | 54 | yb | evaluated | ea23ab | 312.3 |
 | 55 | co-smith | evaluated | dcfadf | 323.6 |
 | 56 | nicknam534534 | evaluated | 83a901 | 405.3 |
-| 57 | Decode_speed | evaluated | 097a6b | 412.7 |
+| 57 | Decode_speed | evaluated | af3ee4 | 413.1 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ishan-pat | failed | ea5705 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
@@ -272,7 +272,7 @@ Last updated: `April 11, 2026 at 05:20:22 PM ET`
 | 54 | poppyPotatoe | evaluated | eea264 | 251.9 |
 | 55 | co-smith | evaluated | dcfadf | 257.4 |
 | 56 | nicknam534534 | evaluated | 83a901 | 268.7 |
-| 57 | Decode_speed | evaluated | 097a6b | 270.3 |
+| 57 | Decode_speed | evaluated | af3ee4 | 270.5 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | ishan-pat | failed | ea5705 |  |
 |  | kade_lin_is_here | failed | 104152 |  |

@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 11, 2026 at 05:20:22 PM ET`
+Last updated: `April 11, 2026 at 05:28:54 PM ET`
 
 ## Pages
 
@@ -68,7 +68,7 @@ Last updated: `April 11, 2026 at 05:20:22 PM ET`
 | 54 | nicknam534534 | evaluated | 83a901 | 19.7/7.1/26.8 | 0.467 | 524.7 | 148.4 | 405.3 | 268.7 |
 | 55 | co-smith | evaluated | dcfadf | 15.5/9.9/25.4 | 0.350 | 167.2 | 112.4 | 323.6 | 257.4 |
 | 56 | poppyPotatoe | evaluated | eea264 | 17.1/10.5/27.5 | 0.340 | 144.2 | 109.8 | 311.3 | 251.9 |
-| 57 | Decode_speed | evaluated | 097a6b | 16.4/14.3/30.7 | 0.263 | 104.5 | 77.3 | 412.7 | 270.3 |
+| 57 | Decode_speed | evaluated | af3ee4 | 16.2/14.4/30.6 | 0.261 | 102.7 | 76.8 | 413.1 | 270.5 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | ishan-pat | failed | ea5705 | 58.1/3.3/61.4 |  |  |  |  |  |
 |  | kade_lin_is_here | failed | 104152 | 13.0/3.1/16.1 |  |  |  |  |  |
