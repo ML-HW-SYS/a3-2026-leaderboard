@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 11, 2026 at 07:08:43 PM ET`
+Last updated: `April 11, 2026 at 07:17:46 PM ET`
 
 ## R1 (tok/s)
 
@@ -31,32 +31,32 @@ Last updated: `April 11, 2026 at 07:08:43 PM ET`
 | 23 | stefan | evaluated | 353a05 | 539.1 |
 | 24 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
 | 25 | ngoguen | evaluated | f69acc | 538.9 |
-| 26 | Shengwei | evaluated | 20b468 | 537.5 |
-| 27 | landrum | evaluated | 61ab81 | 535.7 |
-| 28 | sjb | evaluated | 373553 | 535.3 |
-| 29 | lipphi | evaluated | a3a71b | 534.8 |
-| 30 | chickfila | evaluated | f0956d | 534.5 |
-| 31 | Licha | evaluated | 9666cd | 534.4 |
-| 32 | Yize | evaluated | c8c9f7 | 534.4 |
-| 33 | mdavalos10 | evaluated | 6e0754 | 533.3 |
-| 34 | gravlax | evaluated | b1229d | 532.3 |
-| 35 | pallavi-srinivas | evaluated | d645d5 | 529.9 |
-| 36 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
-| 37 | Junyi Li | evaluated | c7a1b3 | 527.3 |
-| 38 | castillo | evaluated | 0e93de | 526.6 |
-| 39 | yb | evaluated | ea23ab | 525.9 |
-| 40 | bl792 | evaluated | 09cd73 | 524.7 |
-| 41 | nicknam534534 | evaluated | 83a901 | 524.7 |
-| 42 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
-| 43 | act | evaluated | 899777 | 523.9 |
-| 44 | ethanchen | evaluated | ea518d | 523.7 |
-| 45 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 46 | fishyfins | evaluated | 6c0e20 | 522.0 |
-| 47 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 48 | ishan-pat | evaluated | f5e007 | 521.2 |
-| 49 | PurplePickle67 | evaluated | 68d34e | 520.5 |
-| 50 | jbc | evaluated | 12bb20 | 520.4 |
-| 51 | Decode_speed | evaluated | ed732f | 516.1 |
+| 26 | ishan-pat | evaluated | 22076e | 537.9 |
+| 27 | Shengwei | evaluated | 20b468 | 537.5 |
+| 28 | landrum | evaluated | 61ab81 | 535.7 |
+| 29 | sjb | evaluated | 373553 | 535.3 |
+| 30 | lipphi | evaluated | a3a71b | 534.8 |
+| 31 | chickfila | evaluated | f0956d | 534.5 |
+| 32 | Licha | evaluated | 9666cd | 534.4 |
+| 33 | Yize | evaluated | c8c9f7 | 534.4 |
+| 34 | mdavalos10 | evaluated | 6e0754 | 533.3 |
+| 35 | gravlax | evaluated | b1229d | 532.3 |
+| 36 | Decode_speed | evaluated | 3cbb03 | 530.4 |
+| 37 | pallavi-srinivas | evaluated | d645d5 | 529.9 |
+| 38 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
+| 39 | Junyi Li | evaluated | c7a1b3 | 527.3 |
+| 40 | castillo | evaluated | 0e93de | 526.6 |
+| 41 | yb | evaluated | ea23ab | 525.9 |
+| 42 | bl792 | evaluated | 09cd73 | 524.7 |
+| 43 | nicknam534534 | evaluated | 83a901 | 524.7 |
+| 44 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
+| 45 | act | evaluated | 899777 | 523.9 |
+| 46 | ethanchen | evaluated | ea518d | 523.7 |
+| 47 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 48 | fishyfins | evaluated | 6c0e20 | 522.0 |
+| 49 | yoursun1220 | evaluated | d8b590 | 521.8 |
+| 50 | PurplePickle67 | evaluated | 68d34e | 520.5 |
+| 51 | jbc | evaluated | 12bb20 | 520.4 |
 | 52 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
 | 53 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
 | 54 | Rithvik | evaluated | 2924a0 | 495.8 |
@@ -108,7 +108,7 @@ Last updated: `April 11, 2026 at 07:08:43 PM ET`
 | 30 | gravlax | evaluated | b1229d | 272.5 |
 | 31 | Yize | evaluated | c8c9f7 | 269.9 |
 | 32 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
-| 33 | ishan-pat | evaluated | f5e007 | 258.7 |
+| 33 | ishan-pat | evaluated | 22076e | 260.2 |
 | 34 | happyface | evaluated | 7e8b61 | 258.2 |
 | 35 | ethanchen | evaluated | ea518d | 251.2 |
 | 36 | 13rabbit | evaluated | b38df9 | 242.9 |
@@ -128,8 +128,8 @@ Last updated: `April 11, 2026 at 07:08:43 PM ET`
 | 50 | castillo | evaluated | 0e93de | 169.0 |
 | 51 | jbc | evaluated | 12bb20 | 169.0 |
 | 52 | act | evaluated | 899777 | 169.0 |
-| 53 | yb | evaluated | ea23ab | 168.8 |
-| 54 | Decode_speed | evaluated | ed732f | 168.4 |
+| 53 | Decode_speed | evaluated | 3cbb03 | 168.9 |
+| 54 | yb | evaluated | ea23ab | 168.8 |
 | 55 | mdavalos10 | evaluated | 6e0754 | 159.3 |
 | 56 | nicknam534534 | evaluated | 83a901 | 148.4 |
 | 57 | abhik | evaluated | bf55dc | 127.8 |
@@ -171,7 +171,7 @@ Last updated: `April 11, 2026 at 07:08:43 PM ET`
 | 23 | Yize | evaluated | c8c9f7 | 39.4 |
 | 24 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
 | 25 | sjb | evaluated | 373553 | 50.8 |
-| 26 | ishan-pat | evaluated | f5e007 | 57.0 |
+| 26 | ishan-pat | evaluated | 22076e | 57.3 |
 | 27 | Junyi Li | evaluated | c7a1b3 | 60.9 |
 | 28 | Licha | evaluated | 9666cd | 61.8 |
 | 29 | happyface | evaluated | 7e8b61 | 63.7 |
@@ -196,12 +196,12 @@ Last updated: `April 11, 2026 at 07:08:43 PM ET`
 | 48 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
 | 49 | brandon_lorenzo | evaluated | 67c79e | 309.2 |
 | 50 | yoursun1220 | evaluated | d8b590 | 310.7 |
-| 51 | Decode_speed | evaluated | ed732f | 310.7 |
-| 52 | act | evaluated | 899777 | 310.9 |
-| 53 | jbc | evaluated | 12bb20 | 311.3 |
-| 54 | mdavalos10 | evaluated | 6e0754 | 311.3 |
-| 55 | poppyPotatoe | evaluated | eea264 | 311.3 |
-| 56 | castillo | evaluated | 0e93de | 311.4 |
+| 51 | act | evaluated | 899777 | 310.9 |
+| 52 | jbc | evaluated | 12bb20 | 311.3 |
+| 53 | mdavalos10 | evaluated | 6e0754 | 311.3 |
+| 54 | poppyPotatoe | evaluated | eea264 | 311.3 |
+| 55 | castillo | evaluated | 0e93de | 311.4 |
+| 56 | Decode_speed | evaluated | 3cbb03 | 311.7 |
 | 57 | yb | evaluated | ea23ab | 312.3 |
 | 58 | co-smith | evaluated | dcfadf | 323.6 |
 | 59 | nicknam534534 | evaluated | 83a901 | 405.3 |
@@ -245,7 +245,7 @@ Last updated: `April 11, 2026 at 07:08:43 PM ET`
 | 27 | leoli | evaluated | 5cdac4 | 87.4 |
 | 28 | JasonWang07 | evaluated | a4b405 | 88.9 |
 | 29 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
-| 30 | ishan-pat | evaluated | f5e007 | 108.3 |
+| 30 | ishan-pat | evaluated | 22076e | 108.3 |
 | 31 | alifim | evaluated | 701077 | 109.2 |
 | 32 | Junyi Li | evaluated | c7a1b3 | 113.1 |
 | 33 | beratcelik | evaluated | 863a89 | 113.8 |
@@ -264,11 +264,11 @@ Last updated: `April 11, 2026 at 07:08:43 PM ET`
 | 46 | hw_bloss | evaluated | 4c9666 | 239.1 |
 | 47 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
 | 48 | your_nickname_here | evaluated | f10b9b | 246.4 |
-| 49 | brandon_lorenzo | evaluated | 67c79e | 249.6 |
-| 50 | yoursun1220 | evaluated | d8b590 | 250.1 |
-| 51 | castillo | evaluated | 0e93de | 250.4 |
-| 52 | yb | evaluated | ea23ab | 250.6 |
-| 53 | Decode_speed | evaluated | ed732f | 250.6 |
+| 49 | Decode_speed | evaluated | 3cbb03 | 249.0 |
+| 50 | brandon_lorenzo | evaluated | 67c79e | 249.6 |
+| 51 | yoursun1220 | evaluated | d8b590 | 250.1 |
+| 52 | castillo | evaluated | 0e93de | 250.4 |
+| 53 | yb | evaluated | ea23ab | 250.6 |
 | 54 | act | evaluated | 899777 | 250.7 |
 | 55 | jbc | evaluated | 12bb20 | 251.3 |
 | 56 | mdavalos10 | evaluated | 6e0754 | 251.5 |
