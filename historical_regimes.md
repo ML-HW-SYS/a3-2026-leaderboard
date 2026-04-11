@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 11, 2026 at 05:37:09 PM ET`
+Last updated: `April 11, 2026 at 05:45:03 PM ET`
 
 ## R1 (tok/s)
 
@@ -63,7 +63,7 @@ Last updated: `April 11, 2026 at 05:37:09 PM ET`
 | 55 | jbc | submission.py | 12bb20 | 520.4 |
 | 56 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
 | 57 | tuo | submission.py | 4274da | 507.3 |
-| 58 | Decode_speed | submission.py | 3b1e3b | 327.7 |
+| 58 | Decode_speed | develop.py | 3b1e3b | 328.2 |
 | 59 | poppyPotatoe | submission.py | dd4e57 | 169.9 |
 | 60 | co-smith | submission.py | dcfadf | 167.2 |
 
