@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 10, 2026 at 10:39:37 PM ET`
+Last updated: `April 10, 2026 at 10:47:49 PM ET`
 
 ## R1 (tok/s)
 
@@ -57,11 +57,11 @@ Last updated: `April 10, 2026 at 10:39:37 PM ET`
 | 49 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
 | 50 | yoursun1220 | submission.py | f4e2be | 524.2 |
 | 51 | act | submission.py | 899777 | 523.9 |
-| 52 | hw_bloss | submission.py | 2d26da | 523.5 |
-| 53 | PurplePickle67 | submission.py | 68d34e | 520.5 |
-| 54 | jbc | submission.py | 12bb20 | 520.4 |
-| 55 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
-| 56 | brandon_lorenzo | submission.py | 4e674e | 517.0 |
+| 52 | brandon_lorenzo | submission.py | be4a1f | 523.6 |
+| 53 | hw_bloss | submission.py | 2d26da | 523.5 |
+| 54 | PurplePickle67 | submission.py | 68d34e | 520.5 |
+| 55 | jbc | submission.py | 12bb20 | 520.4 |
+| 56 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
 | 57 | tuo | submission.py | 4274da | 507.3 |
 | 58 | poppyPotatoe | submission.py | dd4e57 | 169.9 |
 | 59 | co-smith | submission.py | dcfadf | 167.2 |
@@ -125,8 +125,8 @@ Last updated: `April 10, 2026 at 10:39:37 PM ET`
 | 52 | dylanjhnsondj | submission.py | c4e1ab | 169.6 |
 | 53 | jbc | develop.py | 4e7308 | 169.4 |
 | 54 | castillo | develop.py | 0e93de | 169.2 |
-| 55 | act | submission.py | 899777 | 169.0 |
-| 56 | brandon_lorenzo | submission.py | 4e674e | 150.7 |
+| 55 | brandon_lorenzo | submission.py | be4a1f | 169.1 |
+| 56 | act | submission.py | 899777 | 169.0 |
 | 57 | nicknam534534 | develop.py | 187bfa | 148.4 |
 | 58 | poppyPotatoe | submission.py | dd4e57 | 117.7 |
 | 59 | co-smith | submission.py | dcfadf | 112.4 |
@@ -193,8 +193,8 @@ Last updated: `April 10, 2026 at 10:39:37 PM ET`
 | 55 | mdavalos10 | develop.py | 6e0754 | 310.8 |
 | 56 | castillo | develop.py | 0e93de | 310.9 |
 | 57 | act | develop.py | 1b5e17 | 310.9 |
-| 58 | co-smith | develop.py | dcfadf | 322.6 |
-| 59 | brandon_lorenzo | submission.py | 4e674e | 404.9 |
+| 58 | brandon_lorenzo | submission.py | be4a1f | 311.1 |
+| 59 | co-smith | develop.py | dcfadf | 322.6 |
 | 60 | Decode_speed | submission.py | 097a6b | 412.7 |
 | 61 | siddarak | submission.py | d85766 | 614.4 |
 
@@ -255,11 +255,11 @@ Last updated: `April 10, 2026 at 10:39:37 PM ET`
 | 51 | yoursun1220 | submission.py | 27e400 | 248.7 |
 | 52 | poppyPotatoe | submission.py | 311dc9 | 248.9 |
 | 53 | jbc | develop.py | 4e7308 | 248.9 |
-| 54 | castillo | develop.py | 0e93de | 250.2 |
-| 55 | yb | submission.py | 2aa1a9 | 250.5 |
-| 56 | act | develop.py | 1b5e17 | 250.6 |
-| 57 | mdavalos10 | develop.py | 6e0754 | 251.0 |
-| 58 | co-smith | develop.py | dcfadf | 256.9 |
-| 59 | brandon_lorenzo | submission.py | 4e674e | 267.3 |
+| 54 | brandon_lorenzo | submission.py | be4a1f | 250.1 |
+| 55 | castillo | develop.py | 0e93de | 250.2 |
+| 56 | yb | submission.py | 2aa1a9 | 250.5 |
+| 57 | act | develop.py | 1b5e17 | 250.6 |
+| 58 | mdavalos10 | develop.py | 6e0754 | 251.0 |
+| 59 | co-smith | develop.py | dcfadf | 256.9 |
 | 60 | Decode_speed | submission.py | 097a6b | 270.3 |
 | 61 | siddarak | submission.py | d85766 | 382.1 |

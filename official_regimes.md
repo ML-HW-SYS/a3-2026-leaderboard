@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 10, 2026 at 10:39:37 PM ET`
+Last updated: `April 10, 2026 at 10:47:49 PM ET`
 
 ## R1 (tok/s)
 
@@ -49,13 +49,13 @@ Last updated: `April 10, 2026 at 10:39:37 PM ET`
 | 41 | nicknam534534 | evaluated | 83a901 | 524.7 |
 | 42 | act | evaluated | 899777 | 523.9 |
 | 43 | ethanchen | evaluated | ea518d | 523.7 |
-| 44 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 45 | fishyfins | evaluated | 6c0e20 | 522.0 |
-| 46 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 47 | PurplePickle67 | evaluated | 68d34e | 520.5 |
-| 48 | jbc | evaluated | 12bb20 | 520.4 |
-| 49 | ishan-pat | evaluated | fddca1 | 518.1 |
-| 50 | brandon_lorenzo | evaluated | 4e674e | 517.0 |
+| 44 | brandon_lorenzo | evaluated | be4a1f | 523.6 |
+| 45 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 46 | fishyfins | evaluated | 6c0e20 | 522.0 |
+| 47 | yoursun1220 | evaluated | d8b590 | 521.8 |
+| 48 | PurplePickle67 | evaluated | 68d34e | 520.5 |
+| 49 | jbc | evaluated | 12bb20 | 520.4 |
+| 50 | ishan-pat | evaluated | fddca1 | 518.1 |
 | 51 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
 | 52 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
 | 53 | Rithvik | evaluated | 2924a0 | 495.8 |
@@ -123,12 +123,12 @@ Last updated: `April 10, 2026 at 10:39:37 PM ET`
 | 45 | fishyfins | evaluated | 6c0e20 | 169.5 |
 | 46 | yoursun1220 | evaluated | d8b590 | 169.2 |
 | 47 | hw_bloss | evaluated | 4c9666 | 169.1 |
-| 48 | castillo | evaluated | 0e93de | 169.0 |
-| 49 | jbc | evaluated | 12bb20 | 169.0 |
-| 50 | act | evaluated | 899777 | 169.0 |
-| 51 | yb | evaluated | ea23ab | 168.8 |
-| 52 | mdavalos10 | evaluated | 6e0754 | 159.3 |
-| 53 | brandon_lorenzo | evaluated | 4e674e | 150.7 |
+| 48 | brandon_lorenzo | evaluated | be4a1f | 169.1 |
+| 49 | castillo | evaluated | 0e93de | 169.0 |
+| 50 | jbc | evaluated | 12bb20 | 169.0 |
+| 51 | act | evaluated | 899777 | 169.0 |
+| 52 | yb | evaluated | ea23ab | 168.8 |
+| 53 | mdavalos10 | evaluated | 6e0754 | 159.3 |
 | 54 | nicknam534534 | evaluated | 83a901 | 148.4 |
 | 55 | abhik | evaluated | bf55dc | 127.8 |
 | 56 | co-smith | evaluated | dcfadf | 112.4 |
@@ -195,13 +195,13 @@ Last updated: `April 10, 2026 at 10:39:37 PM ET`
 | 47 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
 | 48 | yoursun1220 | evaluated | d8b590 | 310.7 |
 | 49 | act | evaluated | 899777 | 310.9 |
-| 50 | jbc | evaluated | 12bb20 | 311.3 |
-| 51 | mdavalos10 | evaluated | 6e0754 | 311.3 |
-| 52 | poppyPotatoe | evaluated | eea264 | 311.3 |
-| 53 | castillo | evaluated | 0e93de | 311.4 |
-| 54 | yb | evaluated | ea23ab | 312.3 |
-| 55 | co-smith | evaluated | dcfadf | 323.6 |
-| 56 | brandon_lorenzo | evaluated | 4e674e | 404.9 |
+| 50 | brandon_lorenzo | evaluated | be4a1f | 311.1 |
+| 51 | jbc | evaluated | 12bb20 | 311.3 |
+| 52 | mdavalos10 | evaluated | 6e0754 | 311.3 |
+| 53 | poppyPotatoe | evaluated | eea264 | 311.3 |
+| 54 | castillo | evaluated | 0e93de | 311.4 |
+| 55 | yb | evaluated | ea23ab | 312.3 |
+| 56 | co-smith | evaluated | dcfadf | 323.6 |
 | 57 | nicknam534534 | evaluated | 83a901 | 405.3 |
 | 58 | Decode_speed | evaluated | 097a6b | 412.7 |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -263,15 +263,15 @@ Last updated: `April 10, 2026 at 10:39:37 PM ET`
 | 45 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
 | 46 | your_nickname_here | evaluated | f10b9b | 246.4 |
 | 47 | stefan | evaluated | 583665 | 247.3 |
-| 48 | yoursun1220 | evaluated | d8b590 | 250.1 |
-| 49 | castillo | evaluated | 0e93de | 250.4 |
-| 50 | yb | evaluated | ea23ab | 250.6 |
-| 51 | act | evaluated | 899777 | 250.7 |
-| 52 | jbc | evaluated | 12bb20 | 251.3 |
-| 53 | mdavalos10 | evaluated | 6e0754 | 251.5 |
-| 54 | poppyPotatoe | evaluated | eea264 | 251.9 |
-| 55 | co-smith | evaluated | dcfadf | 257.4 |
-| 56 | brandon_lorenzo | evaluated | 4e674e | 267.3 |
+| 48 | brandon_lorenzo | evaluated | be4a1f | 250.1 |
+| 49 | yoursun1220 | evaluated | d8b590 | 250.1 |
+| 50 | castillo | evaluated | 0e93de | 250.4 |
+| 51 | yb | evaluated | ea23ab | 250.6 |
+| 52 | act | evaluated | 899777 | 250.7 |
+| 53 | jbc | evaluated | 12bb20 | 251.3 |
+| 54 | mdavalos10 | evaluated | 6e0754 | 251.5 |
+| 55 | poppyPotatoe | evaluated | eea264 | 251.9 |
+| 56 | co-smith | evaluated | dcfadf | 257.4 |
 | 57 | nicknam534534 | evaluated | 83a901 | 268.7 |
 | 58 | Decode_speed | evaluated | 097a6b | 270.3 |
 |  | dhanushikka | failed | 14b1fd |  |
