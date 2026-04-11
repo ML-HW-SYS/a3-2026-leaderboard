@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 11, 2026 at 06:24:18 PM ET`
+Last updated: `April 11, 2026 at 06:34:10 PM ET`
 
 ## R1 (tok/s)
 
@@ -54,12 +54,12 @@ Last updated: `April 11, 2026 at 06:24:18 PM ET`
 | 46 | castillo | submission.py | 0e93de | 526.6 |
 | 47 | yb | submission.py | ea23ab | 525.9 |
 | 48 | nicknam534534 | develop.py | 83a901 | 525.8 |
-| 49 | brandon_lorenzo | submission.py | 494304 | 525.0 |
-| 50 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
-| 51 | yoursun1220 | submission.py | f4e2be | 524.2 |
-| 52 | act | submission.py | 899777 | 523.9 |
-| 53 | hw_bloss | submission.py | 2d26da | 523.5 |
-| 54 | Decode_speed | develop.py | e006e9 | 523.1 |
+| 49 | Decode_speed | submission.py | c63467 | 525.6 |
+| 50 | brandon_lorenzo | submission.py | 494304 | 525.0 |
+| 51 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
+| 52 | yoursun1220 | submission.py | f4e2be | 524.2 |
+| 53 | act | submission.py | 899777 | 523.9 |
+| 54 | hw_bloss | submission.py | 2d26da | 523.5 |
 | 55 | PurplePickle67 | submission.py | 68d34e | 520.5 |
 | 56 | jbc | submission.py | 12bb20 | 520.4 |
 | 57 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
@@ -125,8 +125,8 @@ Last updated: `April 11, 2026 at 06:24:18 PM ET`
 | 52 | Junyi Li | submission.py | c7a1b3 | 169.7 |
 | 53 | dylanjhnsondj | submission.py | c4e1ab | 169.6 |
 | 54 | jbc | develop.py | 4e7308 | 169.4 |
-| 55 | castillo | develop.py | 0e93de | 169.2 |
-| 56 | Decode_speed | submission.py | 208b90 | 169.2 |
+| 55 | Decode_speed | submission.py | c63467 | 169.3 |
+| 56 | castillo | develop.py | 0e93de | 169.2 |
 | 57 | act | submission.py | 899777 | 169.0 |
 | 58 | nicknam534534 | develop.py | 187bfa | 148.4 |
 | 59 | poppyPotatoe | submission.py | dd4e57 | 117.7 |

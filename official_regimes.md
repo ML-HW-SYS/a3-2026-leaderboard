@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 11, 2026 at 06:24:18 PM ET`
+Last updated: `April 11, 2026 at 06:34:10 PM ET`
 
 ## R1 (tok/s)
 
@@ -53,18 +53,18 @@ Last updated: `April 11, 2026 at 06:24:18 PM ET`
 | 45 | hw_bloss | evaluated | 4c9666 | 522.2 |
 | 46 | fishyfins | evaluated | 6c0e20 | 522.0 |
 | 47 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 48 | Decode_speed | evaluated | e006e9 | 521.0 |
-| 49 | PurplePickle67 | evaluated | 68d34e | 520.5 |
-| 50 | jbc | evaluated | 12bb20 | 520.4 |
-| 51 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 52 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
-| 53 | Rithvik | evaluated | 2924a0 | 495.8 |
-| 54 | tuo | evaluated | 3d6d40 | 494.8 |
-| 55 | co-smith | evaluated | dcfadf | 167.2 |
-| 56 | abhik | evaluated | bf55dc | 157.9 |
-| 57 | poppyPotatoe | evaluated | eea264 | 144.2 |
+| 48 | PurplePickle67 | evaluated | 68d34e | 520.5 |
+| 49 | jbc | evaluated | 12bb20 | 520.4 |
+| 50 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 51 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
+| 52 | Rithvik | evaluated | 2924a0 | 495.8 |
+| 53 | tuo | evaluated | 3d6d40 | 494.8 |
+| 54 | co-smith | evaluated | dcfadf | 167.2 |
+| 55 | abhik | evaluated | bf55dc | 157.9 |
+| 56 | poppyPotatoe | evaluated | eea264 | 144.2 |
+|  | Decode_speed | failed | c63467 |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | ishan-pat | failed | ea5705 |  |
+|  | ishan-pat | failed | 745a19 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -128,13 +128,13 @@ Last updated: `April 11, 2026 at 06:24:18 PM ET`
 | 50 | act | evaluated | 899777 | 169.0 |
 | 51 | yb | evaluated | ea23ab | 168.8 |
 | 52 | mdavalos10 | evaluated | 6e0754 | 159.3 |
-| 53 | Decode_speed | evaluated | e006e9 | 149.0 |
-| 54 | nicknam534534 | evaluated | 83a901 | 148.4 |
-| 55 | abhik | evaluated | bf55dc | 127.8 |
-| 56 | co-smith | evaluated | dcfadf | 112.4 |
-| 57 | poppyPotatoe | evaluated | eea264 | 109.8 |
+| 53 | nicknam534534 | evaluated | 83a901 | 148.4 |
+| 54 | abhik | evaluated | bf55dc | 127.8 |
+| 55 | co-smith | evaluated | dcfadf | 112.4 |
+| 56 | poppyPotatoe | evaluated | eea264 | 109.8 |
+|  | Decode_speed | failed | c63467 |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | ishan-pat | failed | ea5705 |  |
+|  | ishan-pat | failed | 745a19 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -202,9 +202,9 @@ Last updated: `April 11, 2026 at 06:24:18 PM ET`
 | 54 | yb | evaluated | ea23ab | 312.3 |
 | 55 | co-smith | evaluated | dcfadf | 323.6 |
 | 56 | nicknam534534 | evaluated | 83a901 | 405.3 |
-| 57 | Decode_speed | evaluated | e006e9 | 405.5 |
+|  | Decode_speed | failed | c63467 |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | ishan-pat | failed | ea5705 |  |
+|  | ishan-pat | failed | 745a19 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -272,9 +272,9 @@ Last updated: `April 11, 2026 at 06:24:18 PM ET`
 | 54 | poppyPotatoe | evaluated | eea264 | 251.9 |
 | 55 | co-smith | evaluated | dcfadf | 257.4 |
 | 56 | nicknam534534 | evaluated | 83a901 | 268.7 |
-| 57 | Decode_speed | evaluated | e006e9 | 269.3 |
+|  | Decode_speed | failed | c63467 |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | ishan-pat | failed | ea5705 |  |
+|  | ishan-pat | failed | 745a19 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |

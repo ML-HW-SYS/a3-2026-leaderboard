@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 11, 2026 at 06:24:18 PM ET`
+Last updated: `April 11, 2026 at 06:34:10 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 11 06:28 PM ET | ishan-pat | failed_correctness | Correctness FAIL \| R1 (90.63%), R2 (35.91%) \| max_abs_diff=14.54 | submission.py | 745a19 | 45.9/3.3/49.2 | 465.9 | 332.1 | 57.2 | 108.3 |
+| Apr 11 06:20 PM ET | Decode_speed | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | submission.py | c63467 | 44.7/22.1/66.9 | 525.6 | 169.3 | 4533.8 | 0.0 |
 | Apr 11 06:08 PM ET | Decode_speed | evaluated |  | submission.py | e006e9 | 20.3/7.1/27.5 | 521.0 | 149.0 | 405.5 | 269.3 |
 | Apr 11 06:08 PM ET | Decode_speed | evaluated |  | develop.py | e006e9 | 20.3/7.1/27.4 | 523.1 | 148.9 | 405.7 | 269.3 |
 | Apr 11 06:01 PM ET | Decode_speed | evaluated |  | submission.py | 208b90 | 40.9/6.3/47.1 | 515.7 | 169.2 | 310.8 | 251.2 |
