@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 11, 2026 at 07:41:53 PM ET`
+Last updated: `April 11, 2026 at 07:50:57 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 11 07:43 PM ET | TheProphet | failed_correctness | R1: SETUP: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent ... | submission.py | 294a5f | 61.2/1.6/62.8 | 0.0 | 384.8 | 24.1 | 46.4 |
+| Apr 11 07:38 PM ET | Decode_speed | evaluated |  | submission.py | 5a8bf3 | 20.5/8.4/29.0 | 527.1 | 130.1 | 523.9 | 355.9 |
 | Apr 11 07:23 PM ET | Decode_speed | evaluated |  | submission.py | 49150c | 19.8/6.2/26.0 | 528.5 | 168.8 | 310.7 | 249.7 |
 | Apr 11 07:23 PM ET | Decode_speed | evaluated |  | develop.py | 49150c | 19.8/6.2/26.1 | 530.4 | 169.0 | 310.4 | 249.1 |
 | Apr 11 07:08 PM ET | ishan-pat | evaluated |  | submission.py | 22076e | 43.2/3.6/46.8 | 537.9 | 260.2 | 57.3 | 108.3 |
