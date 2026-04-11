@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 10, 2026 at 10:47:49 PM ET`
+Last updated: `April 10, 2026 at 10:55:38 PM ET`
 
 ## R1 (tok/s)
 
@@ -124,8 +124,8 @@ Last updated: `April 10, 2026 at 10:47:49 PM ET`
 | 51 | Junyi Li | submission.py | c7a1b3 | 169.7 |
 | 52 | dylanjhnsondj | submission.py | c4e1ab | 169.6 |
 | 53 | jbc | develop.py | 4e7308 | 169.4 |
-| 54 | castillo | develop.py | 0e93de | 169.2 |
-| 55 | brandon_lorenzo | submission.py | be4a1f | 169.1 |
+| 54 | brandon_lorenzo | submission.py | 7cad8b | 169.3 |
+| 55 | castillo | develop.py | 0e93de | 169.2 |
 | 56 | act | submission.py | 899777 | 169.0 |
 | 57 | nicknam534534 | develop.py | 187bfa | 148.4 |
 | 58 | poppyPotatoe | submission.py | dd4e57 | 117.7 |
