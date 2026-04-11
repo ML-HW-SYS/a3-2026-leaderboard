@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 11, 2026 at 01:44:02 AM ET`
+Last updated: `April 11, 2026 at 01:51:52 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 11 01:44 AM ET | brandon_lorenzo | evaluated |  | submission.py | 494304 | 19.7/6.2/25.9 | 525.0 | 169.5 | 309.8 | 250.3 |
 | Apr 10 11:58 PM ET | nickname55555555 | evaluated |  | submission.py | 46e31e | 28.9/2.7/31.5 | 563.6 | 354.9 | 27.5 | 49.4 |
 | Apr 10 11:58 PM ET | nickname55555555 | evaluated |  | develop.py | 46e31e | 29.5/2.7/32.2 | 560.1 | 353.4 | 28.0 | 49.9 |
 | Apr 10 11:30 PM ET | nickname55555555 | failed_correctness | R2: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | submission.py | 57eff5 | 31.3/0.9/32.2 | 562.4 | 0.0 | 0.0 | 0.0 |

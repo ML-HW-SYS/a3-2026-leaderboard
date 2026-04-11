@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 11, 2026 at 01:44:02 AM ET`
+Last updated: `April 11, 2026 at 01:51:52 AM ET`
 
 ## R1 (tok/s)
 
@@ -54,8 +54,8 @@ Last updated: `April 11, 2026 at 01:44:02 AM ET`
 | 46 | castillo | submission.py | 0e93de | 526.6 |
 | 47 | yb | submission.py | ea23ab | 525.9 |
 | 48 | nicknam534534 | develop.py | 83a901 | 525.8 |
-| 49 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
-| 50 | brandon_lorenzo | develop.py | 2543b5 | 524.4 |
+| 49 | brandon_lorenzo | submission.py | 494304 | 525.0 |
+| 50 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
 | 51 | yoursun1220 | submission.py | f4e2be | 524.2 |
 | 52 | act | submission.py | 899777 | 523.9 |
 | 53 | hw_bloss | submission.py | 2d26da | 523.5 |
@@ -123,8 +123,8 @@ Last updated: `April 11, 2026 at 01:44:02 AM ET`
 | 50 | hw_bloss | submission.py | b2767b | 169.8 |
 | 51 | Junyi Li | submission.py | c7a1b3 | 169.7 |
 | 52 | dylanjhnsondj | submission.py | c4e1ab | 169.6 |
-| 53 | jbc | develop.py | 4e7308 | 169.4 |
-| 54 | brandon_lorenzo | submission.py | 7cad8b | 169.3 |
+| 53 | brandon_lorenzo | submission.py | 494304 | 169.5 |
+| 54 | jbc | develop.py | 4e7308 | 169.4 |
 | 55 | castillo | develop.py | 0e93de | 169.2 |
 | 56 | act | submission.py | 899777 | 169.0 |
 | 57 | nicknam534534 | develop.py | 187bfa | 148.4 |
@@ -190,10 +190,10 @@ Last updated: `April 11, 2026 at 01:44:02 AM ET`
 | 52 | yb | submission.py | 2aa1a9 | 309.3 |
 | 53 | jbc | develop.py | 4e7308 | 309.3 |
 | 54 | poppyPotatoe | submission.py | 311dc9 | 309.5 |
-| 55 | mdavalos10 | develop.py | 6e0754 | 310.8 |
-| 56 | castillo | develop.py | 0e93de | 310.9 |
-| 57 | act | develop.py | 1b5e17 | 310.9 |
-| 58 | brandon_lorenzo | submission.py | be4a1f | 311.1 |
+| 55 | brandon_lorenzo | submission.py | 494304 | 309.8 |
+| 56 | mdavalos10 | develop.py | 6e0754 | 310.8 |
+| 57 | castillo | develop.py | 0e93de | 310.9 |
+| 58 | act | develop.py | 1b5e17 | 310.9 |
 | 59 | co-smith | develop.py | dcfadf | 322.6 |
 | 60 | Decode_speed | submission.py | 097a6b | 412.7 |
 | 61 | siddarak | submission.py | d85766 | 614.4 |
