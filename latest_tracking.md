@@ -1,10 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 11, 2026 at 12:21:33 PM ET`
+Last updated: `April 11, 2026 at 12:29:27 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Apr 11 12:16 PM ET | ishan-pat | failed_correctness | Correctness FAIL \| R1 (90.63%), R2 (35.91%) \| max_abs_diff=14.54 | submission.py | ea5705 | 58.1/3.3/61.4 | 466.3 | 332.1 | 57.6 | 109.3 |
+| Apr 11 12:16 PM ET | ishan-pat | failed_correctness | Correctness FAIL \| R1 (90.63%), R2 (35.91%) \| max_abs_diff=14.54 | develop.py | ea5705 | 25.2/3.3/28.5 | 465.7 | 330.6 | 57.9 | 108.9 |
 | Apr 11 11:36 AM ET | ishan-pat | evaluated |  | submission.py | 5a9f4d | 37.2/3.7/40.8 | 523.1 | 257.6 | 61.2 | 110.9 |
 | Apr 11 11:36 AM ET | ishan-pat | evaluated |  | develop.py | 5a9f4d | 24.8/3.7/28.5 | 520.8 | 258.4 | 61.2 | 110.5 |
 | Apr 11 11:18 AM ET | brandon_lorenzo | evaluated |  | submission.py | 67c79e | 19.7/6.2/26.0 | 524.1 | 169.8 | 309.2 | 249.6 |
