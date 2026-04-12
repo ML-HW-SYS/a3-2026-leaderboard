@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 11, 2026 at 08:51:12 PM ET`
+Last updated: `April 11, 2026 at 08:59:21 PM ET`
 
 ## R1 (tok/s)
 
@@ -44,13 +44,13 @@ Last updated: `April 11, 2026 at 08:51:12 PM ET`
 | 36 | 13rabbit | evaluated | 49d27b | 529.4 |
 | 37 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
 | 38 | Junyi Li | evaluated | c7a1b3 | 527.3 |
-| 39 | Decode_speed | evaluated | 10212e | 526.8 |
-| 40 | castillo | evaluated | 0e93de | 526.6 |
-| 41 | yb | evaluated | ea23ab | 525.9 |
-| 42 | bl792 | evaluated | 09cd73 | 524.7 |
-| 43 | nicknam534534 | evaluated | 83a901 | 524.7 |
-| 44 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
-| 45 | act | evaluated | 899777 | 523.9 |
+| 39 | castillo | evaluated | 0e93de | 526.6 |
+| 40 | yb | evaluated | ea23ab | 525.9 |
+| 41 | bl792 | evaluated | 09cd73 | 524.7 |
+| 42 | nicknam534534 | evaluated | 83a901 | 524.7 |
+| 43 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
+| 44 | act | evaluated | 899777 | 523.9 |
+| 45 | Decode_speed | evaluated | f3dbdb | 523.9 |
 | 46 | ethanchen | evaluated | ea518d | 523.7 |
 | 47 | hw_bloss | evaluated | 4c9666 | 522.2 |
 | 48 | fishyfins | evaluated | 6c0e20 | 522.0 |
@@ -127,7 +127,7 @@ Last updated: `April 11, 2026 at 08:51:12 PM ET`
 | 49 | castillo | evaluated | 0e93de | 169.0 |
 | 50 | jbc | evaluated | 12bb20 | 169.0 |
 | 51 | act | evaluated | 899777 | 169.0 |
-| 52 | Decode_speed | evaluated | 10212e | 168.9 |
+| 52 | Decode_speed | evaluated | f3dbdb | 169.0 |
 | 53 | yb | evaluated | ea23ab | 168.8 |
 | 54 | mdavalos10 | evaluated | 6e0754 | 159.3 |
 | 55 | nicknam534534 | evaluated | 83a901 | 148.4 |
@@ -194,7 +194,7 @@ Last updated: `April 11, 2026 at 08:51:12 PM ET`
 | 46 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 47 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
 | 48 | brandon_lorenzo | evaluated | 67c79e | 309.2 |
-| 49 | Decode_speed | evaluated | 10212e | 309.9 |
+| 49 | Decode_speed | evaluated | f3dbdb | 310.5 |
 | 50 | yoursun1220 | evaluated | d8b590 | 310.7 |
 | 51 | act | evaluated | 899777 | 310.9 |
 | 52 | jbc | evaluated | 12bb20 | 311.3 |
@@ -263,7 +263,7 @@ Last updated: `April 11, 2026 at 08:51:12 PM ET`
 | 45 | hw_bloss | evaluated | 4c9666 | 239.1 |
 | 46 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
 | 47 | your_nickname_here | evaluated | f10b9b | 246.4 |
-| 48 | Decode_speed | evaluated | 10212e | 248.9 |
+| 48 | Decode_speed | evaluated | f3dbdb | 249.5 |
 | 49 | brandon_lorenzo | evaluated | 67c79e | 249.6 |
 | 50 | yoursun1220 | evaluated | d8b590 | 250.1 |
 | 51 | castillo | evaluated | 0e93de | 250.4 |
