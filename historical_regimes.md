@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 12, 2026 at 06:54:38 PM ET`
+Last updated: `April 12, 2026 at 07:03:25 PM ET`
 
 ## R1 (tok/s)
 
@@ -70,7 +70,7 @@ Last updated: `April 12, 2026 at 06:54:38 PM ET`
 | 62 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
 | 63 | tuo | submission.py | 4274da | 507.3 |
 | 64 | tif03 | submission.py | e84053 | 501.5 |
-| 65 | co-smith | develop.py | 8970a6 | 364.4 |
+| 65 | co-smith | submission.py | f82ef1 | 370.4 |
 | 66 | poppyPotatoe | submission.py | dd4e57 | 169.9 |
 
 ## R2 (tok/s)
@@ -117,7 +117,7 @@ Last updated: `April 12, 2026 at 06:54:38 PM ET`
 | 38 | gravlax | develop.py | b1229d | 273.0 |
 | 39 | Yize | submission.py | c8c9f7 | 269.9 |
 | 40 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
-| 41 | happyface | develop.py | 1c2931 | 264.7 |
+| 41 | happyface | develop.py | f8fcfd | 265.8 |
 | 42 | ethanchen | submission.py | ea518d | 251.2 |
 | 43 | fishyfins | develop.py | 87e789 | 243.3 |
 | 44 | 13rabbit | develop.py | b38df9 | 243.3 |
@@ -140,7 +140,7 @@ Last updated: `April 12, 2026 at 06:54:38 PM ET`
 | 61 | castillo | develop.py | 0e93de | 169.2 |
 | 62 | jet2holiday | submission.py | 05925d | 169.1 |
 | 63 | tif03 | submission.py | ec268d | 167.6 |
-| 64 | co-smith | develop.py | 8970a6 | 150.5 |
+| 64 | co-smith | submission.py | f82ef1 | 151.4 |
 | 65 | nicknam534534 | develop.py | 187bfa | 148.4 |
 | 66 | poppyPotatoe | submission.py | dd4e57 | 117.7 |
 
@@ -178,8 +178,8 @@ Last updated: `April 12, 2026 at 06:54:38 PM ET`
 | 28 | sjb | develop.py | 7fb492 | 50.4 |
 | 29 | ishan-pat | submission.py | 564670 | 55.1 |
 | 30 | abhik | develop.py | 0b4b08 | 55.4 |
-| 31 | vallabkaranam | submission.py | 0bdeec | 57.3 |
-| 32 | happyface | develop.py | 1c2931 | 58.5 |
+| 31 | happyface | develop.py | f8fcfd | 56.8 |
+| 32 | vallabkaranam | submission.py | 0bdeec | 57.3 |
 | 33 | act | submission.py | fce2ab | 59.5 |
 | 34 | Junyi Li | submission.py | c7a1b3 | 60.9 |
 | 35 | Licha | submission.py | 9666cd | 61.8 |

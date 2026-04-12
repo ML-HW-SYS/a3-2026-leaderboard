@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 06:54:38 PM ET`
+Last updated: `April 12, 2026 at 07:03:25 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 06:58 PM ET | happyface | evaluated |  | develop.py | f8fcfd | 41.7/3.5/45.3 | 542.8 | 265.8 | 56.8 | 107.5 |
+| Apr 12 06:50 PM ET | co-smith | evaluated |  | submission.py | f82ef1 | 21.0/7.1/28.0 | 370.4 | 151.4 | 321.9 | 253.7 |
 | Apr 12 06:48 PM ET | happyface | evaluated |  | develop.py | 1c2931 | 50.0/3.5/53.6 | 540.1 | 264.7 | 58.5 | 108.4 |
 | Apr 12 06:41 PM ET | happyface | failed_correctness | R2: ERR: shape '[1, 1]' is invalid for input of size 4096 \| R4: ERR: hard timeout exceeded (worker killed) | develop.py | 40e8cb | 79.3/1.2/80.4 | 542.9 | 0.0 | 58.5 | 0.0 |
 | Apr 12 06:33 PM ET | co-smith | evaluated |  | submission.py | 8970a6 | 32.2/7.3/39.5 | 357.3 | 145.6 | 321.1 | 254.4 |
