@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 12, 2026 at 01:19:15 AM ET`
+Last updated: `April 12, 2026 at 01:29:07 AM ET`
 
 ## R1 (tok/s)
 
@@ -96,11 +96,11 @@ Last updated: `April 12, 2026 at 01:19:15 AM ET`
 | 20 | leoli | submission.py | 5cdac4 | 327.5 |
 | 21 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 326.5 |
 | 22 | abhik | develop.py | 0b4b08 | 319.4 |
-| 23 | jl | submission.py | e6ce85 | 313.1 |
-| 24 | pallavi-srinivas | submission.py | 26a6d9 | 307.4 |
-| 25 | lipphi | submission.py | a3a71b | 306.7 |
-| 26 | PurplePickle67 | submission.py | 68d34e | 303.7 |
-| 27 | vallabkaranam | develop.py | f3a1fe | 295.9 |
+| 23 | vallabkaranam | develop.py | b27b18 | 318.8 |
+| 24 | jl | submission.py | e6ce85 | 313.1 |
+| 25 | pallavi-srinivas | submission.py | 26a6d9 | 307.4 |
+| 26 | lipphi | submission.py | a3a71b | 306.7 |
+| 27 | PurplePickle67 | submission.py | 68d34e | 303.7 |
 | 28 | TA | submission.py | 324cb8 | 295.5 |
 | 29 | beratcelik | submission.py | 7c87c2 | 294.0 |
 | 30 | ngoguen | submission.py | ecab75 | 282.6 |
@@ -170,20 +170,20 @@ Last updated: `April 12, 2026 at 01:19:15 AM ET`
 | 26 | sjb | develop.py | 7fb492 | 50.4 |
 | 27 | ishan-pat | submission.py | 564670 | 55.1 |
 | 28 | abhik | develop.py | 0b4b08 | 55.4 |
-| 29 | Junyi Li | submission.py | c7a1b3 | 60.9 |
-| 30 | Licha | submission.py | 9666cd | 61.8 |
-| 31 | happyface | submission.py | 9f7886 | 63.4 |
-| 32 | Decode_speed | submission.py | 76cc2d | 64.0 |
-| 33 | alifim | submission.py | 701077 | 64.8 |
-| 34 | beratcelik | submission.py | 11c1b8 | 65.4 |
-| 35 | JasonWang07 | submission.py | f27837 | 68.2 |
-| 36 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 70.9 |
-| 37 | leoli | submission.py | 5cdac4 | 71.0 |
-| 38 | ethanchen | submission.py | bf6f9e | 74.0 |
-| 39 | TA | submission.py | 324cb8 | 83.2 |
-| 40 | kade_lin_is_here | submission.py | 0d2dc7 | 94.2 |
-| 41 | 13rabbit | submission.py | 49d27b | 97.1 |
-| 42 | vallabkaranam | develop.py | 7dfaed | 99.4 |
+| 29 | vallabkaranam | develop.py | b27b18 | 58.0 |
+| 30 | Junyi Li | submission.py | c7a1b3 | 60.9 |
+| 31 | Licha | submission.py | 9666cd | 61.8 |
+| 32 | happyface | submission.py | 9f7886 | 63.4 |
+| 33 | Decode_speed | submission.py | 76cc2d | 64.0 |
+| 34 | alifim | submission.py | 701077 | 64.8 |
+| 35 | beratcelik | submission.py | 11c1b8 | 65.4 |
+| 36 | JasonWang07 | submission.py | f27837 | 68.2 |
+| 37 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 70.9 |
+| 38 | leoli | submission.py | 5cdac4 | 71.0 |
+| 39 | ethanchen | submission.py | bf6f9e | 74.0 |
+| 40 | TA | submission.py | 324cb8 | 83.2 |
+| 41 | kade_lin_is_here | submission.py | 0d2dc7 | 94.2 |
+| 42 | 13rabbit | submission.py | 49d27b | 97.1 |
 | 43 | jl | submission.py | e6ce85 | 101.9 |
 | 44 | pallavi-srinivas | submission.py | 72c655 | 104.2 |
 | 45 | lipphi | develop.py | d58cae | 104.4 |
@@ -243,14 +243,14 @@ Last updated: `April 12, 2026 at 01:19:15 AM ET`
 | 30 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 89.2 |
 | 31 | ishan-pat | submission.py | 564670 | 107.0 |
 | 32 | abhik | submission.py | 0b4b08 | 107.2 |
-| 33 | alifim | submission.py | 701077 | 109.2 |
-| 34 | beratcelik | submission.py | 11c1b8 | 110.5 |
-| 35 | Junyi Li | submission.py | c7a1b3 | 113.1 |
-| 36 | Licha | submission.py | 9666cd | 115.6 |
-| 37 | ethanchen | submission.py | bf6f9e | 123.0 |
-| 38 | Decode_speed | submission.py | 76cc2d | 125.5 |
-| 39 | TA | submission.py | 324cb8 | 131.7 |
-| 40 | vallabkaranam | develop.py | f13533 | 132.2 |
+| 33 | vallabkaranam | develop.py | b27b18 | 109.0 |
+| 34 | alifim | submission.py | 701077 | 109.2 |
+| 35 | beratcelik | submission.py | 11c1b8 | 110.5 |
+| 36 | Junyi Li | submission.py | c7a1b3 | 113.1 |
+| 37 | Licha | submission.py | 9666cd | 115.6 |
+| 38 | ethanchen | submission.py | bf6f9e | 123.0 |
+| 39 | Decode_speed | submission.py | 76cc2d | 125.5 |
+| 40 | TA | submission.py | 324cb8 | 131.7 |
 | 41 | nicknam534534 | develop.py | cd4c9b | 134.6 |
 | 42 | kade_lin_is_here | submission.py | 5403c9 | 137.7 |
 | 43 | 13rabbit | submission.py | 49d27b | 141.4 |

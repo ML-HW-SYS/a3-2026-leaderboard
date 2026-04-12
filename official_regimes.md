@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 01:19:15 AM ET`
+Last updated: `April 12, 2026 at 01:29:07 AM ET`
 
 ## R1 (tok/s)
 
@@ -54,15 +54,15 @@ Last updated: `April 12, 2026 at 01:19:15 AM ET`
 | 46 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
 | 47 | act | evaluated | 899777 | 523.9 |
 | 48 | ethanchen | evaluated | ea518d | 523.7 |
-| 49 | axel4 | evaluated | 3fc844 | 522.6 |
+| 49 | axel4 | evaluated | d11960 | 523.6 |
 | 50 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 51 | fishyfins | evaluated | 6c0e20 | 522.0 |
-| 52 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 53 | PurplePickle67 | evaluated | 68d34e | 520.5 |
-| 54 | jbc | evaluated | 12bb20 | 520.4 |
-| 55 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 56 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
-| 57 | abhik | evaluated | 0b4b08 | 507.2 |
+| 51 | yoursun1220 | evaluated | d8b590 | 521.8 |
+| 52 | PurplePickle67 | evaluated | 68d34e | 520.5 |
+| 53 | jbc | evaluated | 12bb20 | 520.4 |
+| 54 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 55 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
+| 56 | abhik | evaluated | 0b4b08 | 507.2 |
+| 57 | fishyfins | evaluated | 7ae866 | 503.1 |
 | 58 | Rithvik | evaluated | 2924a0 | 495.8 |
 | 59 | tuo | evaluated | 3d6d40 | 494.8 |
 | 60 | TheProphet | evaluated | 705619 | 395.2 |
@@ -127,15 +127,15 @@ Last updated: `April 12, 2026 at 01:19:15 AM ET`
 | 47 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 48 | brandon_lorenzo | evaluated | 67c79e | 169.8 |
 | 49 | Junyi Li | evaluated | c7a1b3 | 169.7 |
-| 50 | dylanjhnsondj | evaluated | c4e1ab | 169.6 |
-| 51 | fishyfins | evaluated | 6c0e20 | 169.5 |
+| 50 | axel4 | evaluated | d11960 | 169.7 |
+| 51 | dylanjhnsondj | evaluated | c4e1ab | 169.6 |
 | 52 | yoursun1220 | evaluated | d8b590 | 169.2 |
 | 53 | hw_bloss | evaluated | 4c9666 | 169.1 |
 | 54 | castillo | evaluated | 0e93de | 169.0 |
 | 55 | jbc | evaluated | 12bb20 | 169.0 |
 | 56 | act | evaluated | 899777 | 169.0 |
-| 57 | axel4 | evaluated | 3fc844 | 168.9 |
-| 58 | yb | evaluated | ea23ab | 168.8 |
+| 57 | yb | evaluated | ea23ab | 168.8 |
+| 58 | fishyfins | evaluated | 7ae866 | 162.7 |
 | 59 | mdavalos10 | evaluated | 6e0754 | 159.3 |
 | 60 | nicknam534534 | evaluated | 83a901 | 148.4 |
 | 61 | co-smith | evaluated | dcfadf | 112.4 |
@@ -195,15 +195,15 @@ Last updated: `April 12, 2026 at 01:19:15 AM ET`
 | 43 | vallabkaranam | evaluated | 0f2111 | 104.9 |
 | 44 | pallavi-srinivas | evaluated | d645d5 | 105.2 |
 | 45 | tuo | evaluated | 3d6d40 | 167.8 |
-| 46 | fishyfins | evaluated | 6c0e20 | 304.6 |
+| 46 | fishyfins | evaluated | 7ae866 | 305.6 |
 | 47 | dylanjhnsondj | evaluated | c4e1ab | 306.0 |
 | 48 | hw_bloss | evaluated | 4c9666 | 308.1 |
 | 49 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 50 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
 | 51 | brandon_lorenzo | evaluated | 67c79e | 309.2 |
 | 52 | ss4478 | evaluated | 9c8cb8 | 309.8 |
-| 53 | yoursun1220 | evaluated | d8b590 | 310.7 |
-| 54 | axel4 | evaluated | 3fc844 | 310.9 |
+| 53 | axel4 | evaluated | d11960 | 310.4 |
+| 54 | yoursun1220 | evaluated | d8b590 | 310.7 |
 | 55 | act | evaluated | 899777 | 310.9 |
 | 56 | jbc | evaluated | 12bb20 | 311.3 |
 | 57 | mdavalos10 | evaluated | 6e0754 | 311.3 |
@@ -267,16 +267,16 @@ Last updated: `April 12, 2026 at 01:19:15 AM ET`
 | 43 | pallavi-srinivas | evaluated | d645d5 | 150.4 |
 | 44 | lipphi | evaluated | a3a71b | 150.9 |
 | 45 | tuo | evaluated | 3d6d40 | 162.8 |
-| 46 | fishyfins | evaluated | 6c0e20 | 232.9 |
+| 46 | fishyfins | evaluated | 7ae866 | 234.1 |
 | 47 | dylanjhnsondj | evaluated | c4e1ab | 236.8 |
 | 48 | hw_bloss | evaluated | 4c9666 | 239.1 |
 | 49 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
 | 50 | your_nickname_here | evaluated | f10b9b | 246.4 |
-| 51 | brandon_lorenzo | evaluated | 67c79e | 249.6 |
-| 52 | ss4478 | evaluated | 9c8cb8 | 249.6 |
-| 53 | yoursun1220 | evaluated | d8b590 | 250.1 |
-| 54 | castillo | evaluated | 0e93de | 250.4 |
-| 55 | axel4 | evaluated | 3fc844 | 250.5 |
+| 51 | axel4 | evaluated | d11960 | 249.3 |
+| 52 | brandon_lorenzo | evaluated | 67c79e | 249.6 |
+| 53 | ss4478 | evaluated | 9c8cb8 | 249.6 |
+| 54 | yoursun1220 | evaluated | d8b590 | 250.1 |
+| 55 | castillo | evaluated | 0e93de | 250.4 |
 | 56 | yb | evaluated | ea23ab | 250.6 |
 | 57 | act | evaluated | 899777 | 250.7 |
 | 58 | jbc | evaluated | 12bb20 | 251.3 |
