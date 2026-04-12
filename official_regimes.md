@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 02:03:33 PM ET`
+Last updated: `April 12, 2026 at 02:11:27 PM ET`
 
 ## R1 (tok/s)
 
@@ -70,7 +70,7 @@ Last updated: `April 12, 2026 at 02:03:33 PM ET`
 | 62 | poppyPotatoe | evaluated | eea264 | 144.2 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 104152 |  |
-|  | nickname55555555 | failed | 29d715 |  |
+|  | nickname55555555 | failed | d29b8e |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | tif03 | failed | 489fa6 |  |
@@ -143,7 +143,7 @@ Last updated: `April 12, 2026 at 02:03:33 PM ET`
 | 62 | poppyPotatoe | evaluated | eea264 | 109.8 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 104152 |  |
-|  | nickname55555555 | failed | 29d715 |  |
+|  | nickname55555555 | failed | d29b8e |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | tif03 | failed | 489fa6 |  |
@@ -216,7 +216,7 @@ Last updated: `April 12, 2026 at 02:03:33 PM ET`
 | 62 | nicknam534534 | evaluated | 83a901 | 405.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 104152 |  |
-|  | nickname55555555 | failed | 29d715 |  |
+|  | nickname55555555 | failed | d29b8e |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | tif03 | failed | 489fa6 |  |
@@ -289,7 +289,7 @@ Last updated: `April 12, 2026 at 02:03:33 PM ET`
 | 62 | nicknam534534 | evaluated | 83a901 | 268.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 104152 |  |
-|  | nickname55555555 | failed | 29d715 |  |
+|  | nickname55555555 | failed | d29b8e |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | tif03 | failed | 489fa6 |  |
