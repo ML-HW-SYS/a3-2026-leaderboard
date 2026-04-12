@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 12, 2026 at 07:42:33 PM ET`
+Last updated: `April 12, 2026 at 07:51:25 PM ET`
 
 ## Pages
 
@@ -59,7 +59,7 @@ Last updated: `April 12, 2026 at 07:42:33 PM ET`
 | 45 | pallavi-srinivas | evaluated | 3c1d3c | 19.2/3.7/22.8 | 0.905 | 533.0 | 302.6 | 105.4 | 151.0 |
 | 46 | 13rabbit | evaluated | 49d27b | 18.7/4.1/22.8 | 0.880 | 529.4 | 234.5 | 97.1 | 141.4 |
 | 47 | tuo | evaluated | 3d6d40 | 74.5/4.9/79.3 | 0.704 | 494.8 | 204.6 | 167.8 | 162.8 |
-| 48 | co-smith | evaluated | 2c710f | 63.9/5.5/69.3 | 0.584 | 446.4 | 212.6 | 288.1 | 187.1 |
+| 48 | co-smith | evaluated | ed9049 | 79.2/5.4/84.6 | 0.587 | 443.0 | 220.6 | 289.8 | 187.8 |
 | 49 | Sulaiman Alam | evaluated | c7ede2 | 21.7/5.8/27.5 | 0.545 | 511.2 | 197.4 | 308.7 | 245.0 |
 | 50 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
 | 51 | dylanjhnsondj | evaluated | c4e1ab | 59.0/6.2/65.1 | 0.535 | 527.3 | 169.6 | 306.0 | 236.8 |

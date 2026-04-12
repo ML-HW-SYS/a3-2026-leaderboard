@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 07:42:33 PM ET`
+Last updated: `April 12, 2026 at 07:51:25 PM ET`
 
 ## R1 (tok/s)
 
@@ -69,7 +69,7 @@ Last updated: `April 12, 2026 at 07:42:33 PM ET`
 | 61 | tif03 | evaluated | ec268d | 501.2 |
 | 62 | Rithvik | evaluated | 2924a0 | 495.8 |
 | 63 | tuo | evaluated | 3d6d40 | 494.8 |
-| 64 | co-smith | evaluated | 2c710f | 446.4 |
+| 64 | co-smith | evaluated | ed9049 | 443.0 |
 | 65 | poppyPotatoe | evaluated | eea264 | 144.2 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 104152 |  |
@@ -125,7 +125,7 @@ Last updated: `April 12, 2026 at 07:42:33 PM ET`
 | 43 | Licha | evaluated | 9666cd | 238.1 |
 | 44 | 13rabbit | evaluated | 49d27b | 234.5 |
 | 45 | beratcelik | evaluated | 863a89 | 231.2 |
-| 46 | co-smith | evaluated | 2c710f | 212.6 |
+| 46 | co-smith | evaluated | ed9049 | 220.6 |
 | 47 | tuo | evaluated | 3d6d40 | 204.6 |
 | 48 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
 | 49 | your_nickname_here | evaluated | f10b9b | 173.1 |
@@ -201,7 +201,7 @@ Last updated: `April 12, 2026 at 07:42:33 PM ET`
 | 45 | lipphi | evaluated | a3a71b | 104.4 |
 | 46 | pallavi-srinivas | evaluated | 3c1d3c | 105.4 |
 | 47 | tuo | evaluated | 3d6d40 | 167.8 |
-| 48 | co-smith | evaluated | 2c710f | 288.1 |
+| 48 | co-smith | evaluated | ed9049 | 289.8 |
 | 49 | fishyfins | evaluated | 08f1ac | 305.8 |
 | 50 | dylanjhnsondj | evaluated | c4e1ab | 306.0 |
 | 51 | hw_bloss | evaluated | 4c9666 | 308.1 |
@@ -275,7 +275,7 @@ Last updated: `April 12, 2026 at 07:42:33 PM ET`
 | 45 | lipphi | evaluated | a3a71b | 150.9 |
 | 46 | pallavi-srinivas | evaluated | 3c1d3c | 151.0 |
 | 47 | tuo | evaluated | 3d6d40 | 162.8 |
-| 48 | co-smith | evaluated | 2c710f | 187.1 |
+| 48 | co-smith | evaluated | ed9049 | 187.8 |
 | 49 | dylanjhnsondj | evaluated | c4e1ab | 236.8 |
 | 50 | fishyfins | evaluated | 08f1ac | 237.6 |
 | 51 | hw_bloss | evaluated | 4c9666 | 239.1 |
