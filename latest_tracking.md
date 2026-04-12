@@ -1,10 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 04:16:49 PM ET`
+Last updated: `April 12, 2026 at 04:27:15 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 04:24 PM ET | happyface | failed_correctness | R1: SETUP: ERR: TypeError: AssignmentTransformerModel._forward_with_mask() got an unexpected keyword argument 'block_... | develop.py | b835fb | 13.6/0.0/13.6 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 12 04:12 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.77%) \| max_abs_diff=12.19 | submission.py | 60b091 | 67.0/2.7/69.7 | 650.6 | 368.8 | 63.5 | 72.5 |
 | Apr 12 04:12 PM ET | tif03 | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | ed4e55 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 12 04:12 PM ET | tif03 | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | develop.py | ed4e55 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 12 03:59 PM ET | fishyfins | evaluated |  | submission.py | 08f1ac | 76.9/6.2/83.1 | 534.9 | 165.4 | 305.8 | 237.6 |
 | Apr 12 03:59 PM ET | fishyfins | evaluated |  | develop.py | 08f1ac | 28.5/6.3/34.8 | 534.6 | 164.6 | 308.2 | 239.8 |
 | Apr 12 03:58 PM ET | tif03 | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | d77ad7 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
