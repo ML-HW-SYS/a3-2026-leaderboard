@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 12:29:57 AM ET`
+Last updated: `April 12, 2026 at 12:37:49 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 12:27 AM ET | ishan-pat | evaluated |  | submission.py | 8762eb | 25.0/3.6/28.6 | 533.5 | 258.7 | 57.7 | 109.1 |
 | Apr 12 12:26 AM ET | vallabkaranam | evaluated |  | develop.py | f3a1fe | 41.1/3.7/44.7 | 543.0 | 295.9 | 104.6 | 150.8 |
 | Apr 12 12:22 AM ET | axel4 | evaluated |  | submission.py | ea45fd | 48.1/6.2/54.3 | 524.4 | 169.9 | 309.0 | 249.6 |
 | Apr 12 12:17 AM ET | stefan | evaluated |  | submission.py | a6f092 | 21.6/3.2/24.8 | 538.6 | 276.3 | 34.1 | 64.4 |
