@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 11, 2026 at 08:59:21 PM ET`
+Last updated: `April 11, 2026 at 09:08:15 PM ET`
 
 ## R1 (tok/s)
 
@@ -46,7 +46,7 @@ Last updated: `April 11, 2026 at 08:59:21 PM ET`
 | 38 | chickfila | submission.py | 29860a | 534.6 |
 | 39 | Yize | submission.py | c8c9f7 | 534.4 |
 | 40 | kade_lin_is_here | submission.py | 41a1de | 533.8 |
-| 41 | Decode_speed | submission.py | 46dbb9 | 532.0 |
+| 41 | Decode_speed | submission.py | 236fa2 | 533.3 |
 | 42 | Junyi Li | submission.py | 2e381b | 529.4 |
 | 43 | bl792 | submission.py | 3b3a8a | 528.5 |
 | 44 | dylanjhnsondj | develop.py | 55a3fd | 528.5 |
