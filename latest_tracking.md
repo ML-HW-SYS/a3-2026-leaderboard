@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 06:01:49 PM ET`
+Last updated: `April 12, 2026 at 06:13:32 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 06:06 PM ET | tif03 | evaluated |  | submission.py | a8bdd5 | 14.7/30.5/45.2 | 40.3 | 34.3 | 394.3 | 332.4 |
+| Apr 12 06:03 PM ET | happyface | failed_correctness | R2: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | develop.py | 3082b6 | 51.0/0.9/51.9 | 542.8 | 0.0 | 0.0 | 0.0 |
+| Apr 12 05:59 PM ET | co-smith | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | adf8fc | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 12 05:56 PM ET | act | evaluated |  | submission.py | f42c8d | 50.5/4.0/54.6 | 547.0 | 211.8 | 59.7 | 110.2 |
 | Apr 12 05:53 PM ET | tif03 | evaluated |  | submission.py | e84053 | 40.7/6.3/47.0 | 501.5 | 167.4 | 310.6 | 250.2 |
 | Apr 12 05:52 PM ET | happyface | failed_correctness | R2: SETUP: ERR: ValueError: Expect query and key/value to have the same number of heads but got Hq=14 and Hkv=2. Try ... | develop.py | f86cad | 25.0/0.9/25.9 | 545.6 | 0.0 | 0.0 | 0.0 |
 | Apr 12 05:46 PM ET | co-smith | evaluated |  | submission.py | b84cba | 21.6/8.6/30.2 | 353.8 | 104.5 | 319.5 | 254.1 |
