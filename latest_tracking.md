@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 11, 2026 at 10:11:03 PM ET`
+Last updated: `April 11, 2026 at 10:18:26 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 11 10:16 PM ET | vallabkaranam | failed_compliance | Submission compliance check failed for submission.py: \| - missing required function(s): setup, run | submission.py | 02abe9 |  |  |  |  |  |
+| Apr 11 10:12 PM ET | abhik | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 06a02c | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 11 10:10 PM ET | tif03 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | ce0289 | 23.8/6.1/29.9 | 525.5 | 169.8 | 300.4 | 228.8 |
 | Apr 11 09:58 PM ET | Decode_speed | evaluated |  | submission.py | 3020d7 | 38.5/6.2/44.7 | 528.6 | 168.7 | 310.5 | 249.6 |
 | Apr 11 09:55 PM ET | tif03 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | 80287c | 39.5/6.1/45.6 | 526.3 | 169.9 | 300.5 | 229.3 |

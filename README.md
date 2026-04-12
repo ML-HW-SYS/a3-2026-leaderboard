@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 11, 2026 at 10:11:03 PM ET`
+Last updated: `April 11, 2026 at 10:18:26 PM ET`
 
 ## Pages
 
@@ -68,16 +68,16 @@ Last updated: `April 11, 2026 at 10:11:03 PM ET`
 | 54 | yb | evaluated | ea23ab | 19.9/6.3/26.1 | 0.524 | 525.9 | 168.8 | 312.3 | 250.6 |
 | 55 | jbc | evaluated | 12bb20 | 21.1/6.3/27.4 | 0.522 | 520.4 | 169.0 | 311.3 | 251.3 |
 | 56 | mdavalos10 | evaluated | 6e0754 | 47.4/6.4/53.9 | 0.518 | 533.3 | 159.3 | 311.3 | 251.5 |
-| 57 | abhik | evaluated | bf55dc | 16.0/8.5/24.5 | 0.485 | 157.9 | 127.8 | 140.5 | 172.5 |
-| 58 | nicknam534534 | evaluated | 83a901 | 19.7/7.1/26.8 | 0.467 | 524.7 | 148.4 | 405.3 | 268.7 |
-| 59 | co-smith | evaluated | dcfadf | 15.5/9.9/25.4 | 0.350 | 167.2 | 112.4 | 323.6 | 257.4 |
-| 60 | poppyPotatoe | evaluated | eea264 | 17.1/10.5/27.5 | 0.340 | 144.2 | 109.8 | 311.3 | 251.9 |
+| 57 | nicknam534534 | evaluated | 83a901 | 19.7/7.1/26.8 | 0.467 | 524.7 | 148.4 | 405.3 | 268.7 |
+| 58 | co-smith | evaluated | dcfadf | 15.5/9.9/25.4 | 0.350 | 167.2 | 112.4 | 323.6 | 257.4 |
+| 59 | poppyPotatoe | evaluated | eea264 | 17.1/10.5/27.5 | 0.340 | 144.2 | 109.8 | 311.3 | 251.9 |
+|  | abhik | failed | 06a02c | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | kade_lin_is_here | failed | 104152 | 13.0/3.1/16.1 |  |  |  |  |  |
 |  | siddarak | failed | d85766 | 21.8/9.2/31.0 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | tif03 | failed | ce0289 | 23.8/6.1/29.9 |  |  |  |  |  |
-|  | vallabkaranam | failed | e83dea | 15.8/9.6/25.4 |  |  |  |  |  |
+|  | vallabkaranam | failed | 02abe9 |  |  |  |  |  |  |
 
 ## Column Guide
 
