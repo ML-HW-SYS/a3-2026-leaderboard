@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 11, 2026 at 08:24:50 PM ET`
+Last updated: `April 11, 2026 at 08:33:18 PM ET`
 
 ## R1 (tok/s)
 
@@ -68,7 +68,7 @@ Last updated: `April 11, 2026 at 08:24:50 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 0a088e |  |
+|  | TheProphet | failed | 180c0d |  |
 |  | tif03 | failed | f612be |  |
 |  | vallabkaranam | failed | e83dea |  |
 
@@ -138,7 +138,7 @@ Last updated: `April 11, 2026 at 08:24:50 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 0a088e |  |
+|  | TheProphet | failed | 180c0d |  |
 |  | tif03 | failed | f612be |  |
 |  | vallabkaranam | failed | e83dea |  |
 
@@ -208,7 +208,7 @@ Last updated: `April 11, 2026 at 08:24:50 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 0a088e |  |
+|  | TheProphet | failed | 180c0d |  |
 |  | tif03 | failed | f612be |  |
 |  | vallabkaranam | failed | e83dea |  |
 
@@ -278,6 +278,6 @@ Last updated: `April 11, 2026 at 08:24:50 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 0a088e |  |
+|  | TheProphet | failed | 180c0d |  |
 |  | tif03 | failed | f612be |  |
 |  | vallabkaranam | failed | e83dea |  |
