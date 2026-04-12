@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 12, 2026 at 05:51:34 PM ET`
+Last updated: `April 12, 2026 at 06:01:49 PM ET`
 
 ## Pages
 
@@ -58,7 +58,7 @@ Last updated: `April 12, 2026 at 05:51:34 PM ET`
 | 44 | pallavi-srinivas | evaluated | 3c1d3c | 19.2/3.7/22.8 | 0.905 | 533.0 | 302.6 | 105.4 | 151.0 |
 | 45 | 13rabbit | evaluated | 49d27b | 18.7/4.1/22.8 | 0.880 | 529.4 | 234.5 | 97.1 | 141.4 |
 | 46 | tuo | evaluated | 3d6d40 | 74.5/4.9/79.3 | 0.704 | 494.8 | 204.6 | 167.8 | 162.8 |
-| 47 | act | evaluated | 3858e5 | 40.6/5.3/45.9 | 0.657 | 534.5 | 185.1 | 245.4 | 143.5 |
+| 47 | act | evaluated | c5e9ea | 41.8/4.8/46.7 | 0.691 | 549.6 | 218.7 | 245.4 | 142.5 |
 | 48 | Sulaiman Alam | evaluated | c7ede2 | 21.7/5.8/27.5 | 0.545 | 511.2 | 197.4 | 308.7 | 245.0 |
 | 49 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
 | 50 | dylanjhnsondj | evaluated | c4e1ab | 59.0/6.2/65.1 | 0.535 | 527.3 | 169.6 | 306.0 | 236.8 |
@@ -73,14 +73,14 @@ Last updated: `April 12, 2026 at 05:51:34 PM ET`
 | 59 | jet2holiday | evaluated | efd6c8 | 40.0/6.3/46.3 | 0.523 | 522.9 | 169.0 | 310.9 | 250.7 |
 | 60 | jbc | evaluated | 12bb20 | 21.1/6.3/27.4 | 0.522 | 520.4 | 169.0 | 311.3 | 251.3 |
 | 61 | mdavalos10 | evaluated | 6e0754 | 47.4/6.4/53.9 | 0.518 | 533.3 | 159.3 | 311.3 | 251.5 |
-| 62 | nicknam534534 | evaluated | 83a901 | 19.7/7.1/26.8 | 0.467 | 524.7 | 148.4 | 405.3 | 268.7 |
-| 63 | co-smith | evaluated | b84cba | 21.6/8.6/30.2 | 0.417 | 353.8 | 104.5 | 319.5 | 254.1 |
-| 64 | poppyPotatoe | evaluated | eea264 | 17.1/10.5/27.5 | 0.340 | 144.2 | 109.8 | 311.3 | 251.9 |
+| 62 | tif03 | evaluated | e84053 | 40.7/6.3/47.0 | 0.517 | 501.5 | 167.4 | 310.6 | 250.2 |
+| 63 | nicknam534534 | evaluated | 83a901 | 19.7/7.1/26.8 | 0.467 | 524.7 | 148.4 | 405.3 | 268.7 |
+| 64 | co-smith | evaluated | b84cba | 21.6/8.6/30.2 | 0.417 | 353.8 | 104.5 | 319.5 | 254.1 |
+| 65 | poppyPotatoe | evaluated | eea264 | 17.1/10.5/27.5 | 0.340 | 144.2 | 109.8 | 311.3 | 251.9 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | kade_lin_is_here | failed | 104152 | 13.0/3.1/16.1 |  |  |  |  |  |
 |  | siddarak | failed | d85766 | 21.8/9.2/31.0 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | tif03 | failed | 9af3ed | 14.9/0.0/14.9 |  |  |  |  |  |
 
 ## Column Guide
 

@@ -1,10 +1,14 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 05:51:34 PM ET`
+Last updated: `April 12, 2026 at 06:01:49 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 05:53 PM ET | tif03 | evaluated |  | submission.py | e84053 | 40.7/6.3/47.0 | 501.5 | 167.4 | 310.6 | 250.2 |
+| Apr 12 05:52 PM ET | happyface | failed_correctness | R2: SETUP: ERR: ValueError: Expect query and key/value to have the same number of heads but got Hq=14 and Hkv=2. Try ... | develop.py | f86cad | 25.0/0.9/25.9 | 545.6 | 0.0 | 0.0 | 0.0 |
 | Apr 12 05:46 PM ET | co-smith | evaluated |  | submission.py | b84cba | 21.6/8.6/30.2 | 353.8 | 104.5 | 319.5 | 254.1 |
+| Apr 12 05:46 PM ET | co-smith | evaluated |  | develop.py | b84cba | 21.3/8.7/29.9 | 352.0 | 104.3 | 319.7 | 253.7 |
+| Apr 12 05:45 PM ET | act | evaluated |  | submission.py | c5e9ea | 41.8/4.8/46.7 | 549.6 | 218.7 | 245.4 | 142.5 |
 | Apr 12 05:45 PM ET | tif03 | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 72:16: kv_block = t0 // BLOCK_SIZE causal_block = kv_block <= q_bloc... | submission.py | 9af3ed | 14.9/0.0/14.9 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 12 05:39 PM ET | TheProphet | evaluated |  | submission.py | 48f739 | 53.8/2.9/56.8 | 572.5 | 343.5 | 64.5 | 73.0 |
 | Apr 12 05:37 PM ET | happyface | failed_correctness | R2: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | develop.py | daa7f1 | 28.6/0.9/29.5 | 542.8 | 0.0 | 0.0 | 0.0 |
