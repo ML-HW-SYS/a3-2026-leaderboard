@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 12, 2026 at 05:41:37 PM ET`
+Last updated: `April 12, 2026 at 05:51:34 PM ET`
 
 ## R1 (tok/s)
 
@@ -69,7 +69,7 @@ Last updated: `April 12, 2026 at 05:41:37 PM ET`
 | 61 | jbc | submission.py | 12bb20 | 520.4 |
 | 62 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
 | 63 | tuo | submission.py | 4274da | 507.3 |
-| 64 | co-smith | develop.py | ebd5c5 | 199.5 |
+| 64 | co-smith | submission.py | b84cba | 353.8 |
 | 65 | poppyPotatoe | submission.py | dd4e57 | 169.9 |
 
 ## R2 (tok/s)
@@ -91,7 +91,7 @@ Last updated: `April 12, 2026 at 05:41:37 PM ET`
 | 13 | pyjuan91 | develop.py | 92d1da | 364.9 |
 | 14 | Shengwei | submission.py | 67896e | 362.7 |
 | 15 | gm | develop.py | fd15e9 | 357.3 |
-| 16 | nickname55555555 | develop.py | 2f62d2 | 355.1 |
+| 16 | nickname55555555 | develop.py | 68b98d | 355.5 |
 | 17 | ishan-pat | submission.py | 99aac6 | 352.8 |
 | 18 | sjb | develop.py | 7fb492 | 347.4 |
 | 19 | JasonWang07 | develop.py | 2ecd91 | 343.1 |
@@ -210,7 +210,7 @@ Last updated: `April 12, 2026 at 05:41:37 PM ET`
 | 62 | mdavalos10 | develop.py | 6e0754 | 310.8 |
 | 63 | castillo | develop.py | 0e93de | 310.9 |
 | 64 | jet2holiday | submission.py | efd6c8 | 310.9 |
-| 65 | co-smith | submission.py | ebd5c5 | 321.9 |
+| 65 | co-smith | submission.py | b84cba | 319.5 |
 | 66 | siddarak | submission.py | d85766 | 614.4 |
 
 ## R4 (ms)
@@ -226,7 +226,7 @@ Last updated: `April 12, 2026 at 05:41:37 PM ET`
 | 7 | ss4478 | develop.py | 93d739 | 48.2 |
 | 8 | gm | submission.py | 2898fc | 48.5 |
 | 9 | zionrangers | submission.py | 7758e0 | 48.7 |
-| 10 | nickname55555555 | develop.py | 5aef32 | 49.2 |
+| 10 | nickname55555555 | develop.py | 68b98d | 49.1 |
 | 11 | prousoglou | develop.py | 5379db | 49.3 |
 | 12 | ngoguen | submission.py | ecab75 | 49.6 |
 | 13 | chickfila | submission.py | f0956d | 49.6 |
@@ -281,5 +281,5 @@ Last updated: `April 12, 2026 at 05:41:37 PM ET`
 | 62 | yb | submission.py | 2aa1a9 | 250.5 |
 | 63 | jet2holiday | submission.py | efd6c8 | 250.7 |
 | 64 | mdavalos10 | develop.py | 6e0754 | 251.0 |
-| 65 | co-smith | submission.py | ebd5c5 | 256.4 |
+| 65 | co-smith | submission.py | b84cba | 254.1 |
 | 66 | siddarak | submission.py | d85766 | 382.1 |

@@ -1,13 +1,17 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 05:41:37 PM ET`
+Last updated: `April 12, 2026 at 05:51:34 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 05:46 PM ET | co-smith | evaluated |  | submission.py | b84cba | 21.6/8.6/30.2 | 353.8 | 104.5 | 319.5 | 254.1 |
+| Apr 12 05:45 PM ET | tif03 | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 72:16: kv_block = t0 // BLOCK_SIZE causal_block = kv_block <= q_bloc... | submission.py | 9af3ed | 14.9/0.0/14.9 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 12 05:39 PM ET | TheProphet | evaluated |  | submission.py | 48f739 | 53.8/2.9/56.8 | 572.5 | 343.5 | 64.5 | 73.0 |
 | Apr 12 05:37 PM ET | happyface | failed_correctness | R2: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | develop.py | daa7f1 | 28.6/0.9/29.5 | 542.8 | 0.0 | 0.0 | 0.0 |
 | Apr 12 05:36 PM ET | tif03 | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 72:16: kv_block = t0 // BLOCK_SIZE causal_block = kv_block <= q_bloc... | submission.py | 664caf | 15.6/0.0/15.6 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 12 05:28 PM ET | tif03 | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 72:16: kv_block = t0 // BLOCK_SIZE causal_block = kv_block <= q_bloc... | submission.py | 46f49a | 15.6/0.0/15.6 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 12 05:28 PM ET | nickname55555555 | evaluated |  | submission.py | 68b98d | 28.8/2.7/31.5 | 564.6 | 354.2 | 27.7 | 49.4 |
+| Apr 12 05:28 PM ET | nickname55555555 | evaluated |  | develop.py | 68b98d | 29.1/2.7/31.7 | 566.2 | 355.5 | 27.8 | 49.1 |
 | Apr 12 05:27 PM ET | happyface | failed_correctness | R2: SETUP: ERR: ValueError: block_mask was created for block_mask.shape=(1, 14, 4096, 4096) but got q_len=4096 and kv... | develop.py | 7fb55b | 25.4/0.9/26.4 | 544.9 | 0.0 | 0.0 | 0.0 |
 | Apr 12 05:23 PM ET | act | evaluated |  | submission.py | 3858e5 | 40.6/5.3/45.9 | 534.5 | 185.1 | 245.4 | 143.5 |
 | Apr 12 05:23 PM ET | act | evaluated |  | develop.py | 3858e5 | 21.3/5.4/26.6 | 532.0 | 179.9 | 244.9 | 142.8 |
