@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 12, 2026 at 11:50:00 AM ET`
+Last updated: `April 12, 2026 at 11:59:28 AM ET`
 
 ## R1 (tok/s)
 
@@ -108,7 +108,7 @@ Last updated: `April 12, 2026 at 11:50:00 AM ET`
 | 32 | stefan | submission.py | 5ea8db | 277.5 |
 | 33 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
 | 34 | landrum | submission.py | 61ab81 | 276.9 |
-| 35 | Decode_speed | submission.py | d882a0 | 273.9 |
+| 35 | Decode_speed | submission.py | aa476a | 274.5 |
 | 36 | gravlax | develop.py | b1229d | 273.0 |
 | 37 | Yize | submission.py | c8c9f7 | 269.9 |
 | 38 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
@@ -159,7 +159,7 @@ Last updated: `April 12, 2026 at 11:50:00 AM ET`
 | 15 | pyjuan91 | submission.py | 430a83 | 28.8 |
 | 16 | ashaikh23 | submission.py | 84a425 | 29.1 |
 | 17 | landrum | develop.py | 4d2d51 | 29.6 |
-| 18 | stefan | develop.py | 1a1bc7 | 31.8 |
+| 18 | stefan | submission.py | 47712c | 31.7 |
 | 19 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
 | 20 | bl792 | develop.py | 09cd73 | 32.3 |
 | 21 | blabrl | submission.py | ca60eb | 33.7 |
@@ -233,7 +233,7 @@ Last updated: `April 12, 2026 at 11:50:00 AM ET`
 | 20 | landrum | develop.py | 4d2d51 | 53.5 |
 | 21 | gravlax | submission.py | b1229d | 59.7 |
 | 22 | bl792 | develop.py | 09cd73 | 59.8 |
-| 23 | stefan | develop.py | 1a1bc7 | 59.8 |
+| 23 | stefan | submission.py | 47712c | 59.8 |
 | 24 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 59.9 |
 | 25 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
 | 26 | omermoav | submission.py | b01c0e | 64.6 |
