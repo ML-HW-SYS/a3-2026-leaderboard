@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 11, 2026 at 08:43:21 PM ET`
+Last updated: `April 11, 2026 at 08:51:12 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 11 08:45 PM ET | Decode_speed | evaluated |  | submission.py | 10212e | 19.9/6.2/26.1 | 526.8 | 168.9 | 309.9 | 248.9 |
 | Apr 11 08:34 PM ET | Decode_speed | failed_correctness | Correctness FAIL \| R1 (87.53%), R2 (84.38%), R3 (77.21%), R4 (82.45%) \| max_abs_diff=11.42 | submission.py | b58eeb | 45.9/6.2/52.1 | 572.0 | 176.0 | 330.6 | 260.4 |
 | Apr 11 08:33 PM ET | stefan | evaluated |  | develop.py | 95e2ad | 27.2/7.6/34.8 | 537.6 | 170.2 | 579.6 | 321.8 |
 | Apr 11 08:31 PM ET | 13rabbit | evaluated |  | submission.py | 49d27b | 18.7/4.1/22.8 | 529.4 | 234.5 | 97.1 | 141.4 |

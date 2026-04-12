@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 11, 2026 at 08:43:21 PM ET`
+Last updated: `April 11, 2026 at 08:51:12 PM ET`
 
 ## R1 (tok/s)
 
@@ -44,26 +44,26 @@ Last updated: `April 11, 2026 at 08:43:21 PM ET`
 | 36 | 13rabbit | evaluated | 49d27b | 529.4 |
 | 37 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
 | 38 | Junyi Li | evaluated | c7a1b3 | 527.3 |
-| 39 | castillo | evaluated | 0e93de | 526.6 |
-| 40 | yb | evaluated | ea23ab | 525.9 |
-| 41 | bl792 | evaluated | 09cd73 | 524.7 |
-| 42 | nicknam534534 | evaluated | 83a901 | 524.7 |
-| 43 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
-| 44 | act | evaluated | 899777 | 523.9 |
-| 45 | ethanchen | evaluated | ea518d | 523.7 |
-| 46 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 47 | fishyfins | evaluated | 6c0e20 | 522.0 |
-| 48 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 49 | PurplePickle67 | evaluated | 68d34e | 520.5 |
-| 50 | jbc | evaluated | 12bb20 | 520.4 |
-| 51 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 52 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
-| 53 | Rithvik | evaluated | 2924a0 | 495.8 |
-| 54 | tuo | evaluated | 3d6d40 | 494.8 |
-| 55 | co-smith | evaluated | dcfadf | 167.2 |
-| 56 | abhik | evaluated | bf55dc | 157.9 |
-| 57 | poppyPotatoe | evaluated | eea264 | 144.2 |
-|  | Decode_speed | failed | b58eeb |  |
+| 39 | Decode_speed | evaluated | 10212e | 526.8 |
+| 40 | castillo | evaluated | 0e93de | 526.6 |
+| 41 | yb | evaluated | ea23ab | 525.9 |
+| 42 | bl792 | evaluated | 09cd73 | 524.7 |
+| 43 | nicknam534534 | evaluated | 83a901 | 524.7 |
+| 44 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
+| 45 | act | evaluated | 899777 | 523.9 |
+| 46 | ethanchen | evaluated | ea518d | 523.7 |
+| 47 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 48 | fishyfins | evaluated | 6c0e20 | 522.0 |
+| 49 | yoursun1220 | evaluated | d8b590 | 521.8 |
+| 50 | PurplePickle67 | evaluated | 68d34e | 520.5 |
+| 51 | jbc | evaluated | 12bb20 | 520.4 |
+| 52 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 53 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
+| 54 | Rithvik | evaluated | 2924a0 | 495.8 |
+| 55 | tuo | evaluated | 3d6d40 | 494.8 |
+| 56 | co-smith | evaluated | dcfadf | 167.2 |
+| 57 | abhik | evaluated | bf55dc | 157.9 |
+| 58 | poppyPotatoe | evaluated | eea264 | 144.2 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
@@ -127,13 +127,13 @@ Last updated: `April 11, 2026 at 08:43:21 PM ET`
 | 49 | castillo | evaluated | 0e93de | 169.0 |
 | 50 | jbc | evaluated | 12bb20 | 169.0 |
 | 51 | act | evaluated | 899777 | 169.0 |
-| 52 | yb | evaluated | ea23ab | 168.8 |
-| 53 | mdavalos10 | evaluated | 6e0754 | 159.3 |
-| 54 | nicknam534534 | evaluated | 83a901 | 148.4 |
-| 55 | abhik | evaluated | bf55dc | 127.8 |
-| 56 | co-smith | evaluated | dcfadf | 112.4 |
-| 57 | poppyPotatoe | evaluated | eea264 | 109.8 |
-|  | Decode_speed | failed | b58eeb |  |
+| 52 | Decode_speed | evaluated | 10212e | 168.9 |
+| 53 | yb | evaluated | ea23ab | 168.8 |
+| 54 | mdavalos10 | evaluated | 6e0754 | 159.3 |
+| 55 | nicknam534534 | evaluated | 83a901 | 148.4 |
+| 56 | abhik | evaluated | bf55dc | 127.8 |
+| 57 | co-smith | evaluated | dcfadf | 112.4 |
+| 58 | poppyPotatoe | evaluated | eea264 | 109.8 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
@@ -194,16 +194,16 @@ Last updated: `April 11, 2026 at 08:43:21 PM ET`
 | 46 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 47 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
 | 48 | brandon_lorenzo | evaluated | 67c79e | 309.2 |
-| 49 | yoursun1220 | evaluated | d8b590 | 310.7 |
-| 50 | act | evaluated | 899777 | 310.9 |
-| 51 | jbc | evaluated | 12bb20 | 311.3 |
-| 52 | mdavalos10 | evaluated | 6e0754 | 311.3 |
-| 53 | poppyPotatoe | evaluated | eea264 | 311.3 |
-| 54 | castillo | evaluated | 0e93de | 311.4 |
-| 55 | yb | evaluated | ea23ab | 312.3 |
-| 56 | co-smith | evaluated | dcfadf | 323.6 |
-| 57 | nicknam534534 | evaluated | 83a901 | 405.3 |
-|  | Decode_speed | failed | b58eeb |  |
+| 49 | Decode_speed | evaluated | 10212e | 309.9 |
+| 50 | yoursun1220 | evaluated | d8b590 | 310.7 |
+| 51 | act | evaluated | 899777 | 310.9 |
+| 52 | jbc | evaluated | 12bb20 | 311.3 |
+| 53 | mdavalos10 | evaluated | 6e0754 | 311.3 |
+| 54 | poppyPotatoe | evaluated | eea264 | 311.3 |
+| 55 | castillo | evaluated | 0e93de | 311.4 |
+| 56 | yb | evaluated | ea23ab | 312.3 |
+| 57 | co-smith | evaluated | dcfadf | 323.6 |
+| 58 | nicknam534534 | evaluated | 83a901 | 405.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
@@ -263,17 +263,17 @@ Last updated: `April 11, 2026 at 08:43:21 PM ET`
 | 45 | hw_bloss | evaluated | 4c9666 | 239.1 |
 | 46 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
 | 47 | your_nickname_here | evaluated | f10b9b | 246.4 |
-| 48 | brandon_lorenzo | evaluated | 67c79e | 249.6 |
-| 49 | yoursun1220 | evaluated | d8b590 | 250.1 |
-| 50 | castillo | evaluated | 0e93de | 250.4 |
-| 51 | yb | evaluated | ea23ab | 250.6 |
-| 52 | act | evaluated | 899777 | 250.7 |
-| 53 | jbc | evaluated | 12bb20 | 251.3 |
-| 54 | mdavalos10 | evaluated | 6e0754 | 251.5 |
-| 55 | poppyPotatoe | evaluated | eea264 | 251.9 |
-| 56 | co-smith | evaluated | dcfadf | 257.4 |
-| 57 | nicknam534534 | evaluated | 83a901 | 268.7 |
-|  | Decode_speed | failed | b58eeb |  |
+| 48 | Decode_speed | evaluated | 10212e | 248.9 |
+| 49 | brandon_lorenzo | evaluated | 67c79e | 249.6 |
+| 50 | yoursun1220 | evaluated | d8b590 | 250.1 |
+| 51 | castillo | evaluated | 0e93de | 250.4 |
+| 52 | yb | evaluated | ea23ab | 250.6 |
+| 53 | act | evaluated | 899777 | 250.7 |
+| 54 | jbc | evaluated | 12bb20 | 251.3 |
+| 55 | mdavalos10 | evaluated | 6e0754 | 251.5 |
+| 56 | poppyPotatoe | evaluated | eea264 | 251.9 |
+| 57 | co-smith | evaluated | dcfadf | 257.4 |
+| 58 | nicknam534534 | evaluated | 83a901 | 268.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
