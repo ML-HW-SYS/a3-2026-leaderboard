@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 12, 2026 at 07:33:57 PM ET`
+Last updated: `April 12, 2026 at 07:42:33 PM ET`
 
 ## R1 (tok/s)
 
@@ -70,7 +70,7 @@ Last updated: `April 12, 2026 at 07:33:57 PM ET`
 | 62 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
 | 63 | tuo | submission.py | 4274da | 507.3 |
 | 64 | tif03 | submission.py | e84053 | 501.5 |
-| 65 | co-smith | submission.py | c402db | 372.9 |
+| 65 | co-smith | submission.py | 2c710f | 446.4 |
 | 66 | poppyPotatoe | submission.py | dd4e57 | 169.9 |
 
 ## R2 (tok/s)
@@ -124,10 +124,10 @@ Last updated: `April 12, 2026 at 07:33:57 PM ET`
 | 45 | bl792 | develop.py | 09cd73 | 239.0 |
 | 46 | Licha | submission.py | 094c4b | 238.2 |
 | 47 | kade_lin_is_here | submission.py | 104152 | 237.9 |
-| 48 | tuo | submission.py | 3d6d40 | 204.6 |
-| 49 | Sulaiman Alam | submission.py | c7ede2 | 197.4 |
-| 50 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 51 | co-smith | submission.py | c402db | 171.0 |
+| 48 | co-smith | submission.py | 2c710f | 212.6 |
+| 49 | tuo | submission.py | 3d6d40 | 204.6 |
+| 50 | Sulaiman Alam | submission.py | c7ede2 | 197.4 |
+| 51 | your_nickname_here | submission.py | 59e245 | 173.4 |
 | 52 | mdavalos10 | develop.py | 6e0754 | 170.7 |
 | 53 | yoursun1220 | submission.py | 27e400 | 169.9 |
 | 54 | pick_a_nickname | submission.py | c47490 | 169.9 |
@@ -197,7 +197,7 @@ Last updated: `April 12, 2026 at 07:33:57 PM ET`
 | 47 | lipphi | develop.py | d58cae | 104.4 |
 | 48 | tuo | submission.py | 92c00e | 166.9 |
 | 49 | nicknam534534 | develop.py | cd4c9b | 210.5 |
-| 50 | co-smith | develop.py | c402db | 290.2 |
+| 50 | co-smith | submission.py | 2c710f | 288.1 |
 | 51 | fishyfins | submission.py | 6c0e20 | 304.6 |
 | 52 | dylanjhnsondj | submission.py | c4e1ab | 306.0 |
 | 53 | hw_bloss | submission.py | b2767b | 306.7 |
@@ -269,7 +269,7 @@ Last updated: `April 12, 2026 at 07:33:57 PM ET`
 | 47 | pallavi-srinivas | submission.py | 72c655 | 149.7 |
 | 48 | lipphi | submission.py | a3a71b | 150.9 |
 | 49 | tuo | submission.py | 4274da | 160.5 |
-| 50 | co-smith | develop.py | c402db | 192.9 |
+| 50 | co-smith | submission.py | 2c710f | 187.1 |
 | 51 | fishyfins | submission.py | 6c0e20 | 232.9 |
 | 52 | dylanjhnsondj | submission.py | c4e1ab | 236.8 |
 | 53 | hw_bloss | submission.py | b2767b | 237.0 |
