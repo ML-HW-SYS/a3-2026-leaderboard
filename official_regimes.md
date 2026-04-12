@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 01:14:06 PM ET`
+Last updated: `April 12, 2026 at 01:22:26 PM ET`
 
 ## R1 (tok/s)
 
@@ -42,7 +42,7 @@ Last updated: `April 12, 2026 at 01:14:06 PM ET`
 | 34 | mdavalos10 | evaluated | 6e0754 | 533.3 |
 | 35 | pallavi-srinivas | evaluated | 3c1d3c | 533.0 |
 | 36 | gravlax | evaluated | b1229d | 532.3 |
-| 37 | Decode_speed | evaluated | c5a40c | 529.9 |
+| 37 | Decode_speed | evaluated | 3ff088 | 531.5 |
 | 38 | 13rabbit | evaluated | 49d27b | 529.4 |
 | 39 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
 | 40 | Junyi Li | evaluated | c7a1b3 | 527.3 |
@@ -73,7 +73,7 @@ Last updated: `April 12, 2026 at 01:14:06 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | tif03 | failed | c037ef |  |
+|  | tif03 | failed | 489fa6 |  |
 
 ## R2 (tok/s)
 
@@ -113,7 +113,7 @@ Last updated: `April 12, 2026 at 01:14:06 PM ET`
 | 32 | stefan | evaluated | 9e3945 | 278.6 |
 | 33 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
 | 34 | landrum | evaluated | 61ab81 | 276.9 |
-| 35 | Decode_speed | evaluated | c5a40c | 273.9 |
+| 35 | Decode_speed | evaluated | 3ff088 | 275.1 |
 | 36 | gravlax | evaluated | b1229d | 272.5 |
 | 37 | Yize | evaluated | c8c9f7 | 269.9 |
 | 38 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
@@ -146,7 +146,7 @@ Last updated: `April 12, 2026 at 01:14:06 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | tif03 | failed | c037ef |  |
+|  | tif03 | failed | 489fa6 |  |
 
 ## R3 (ms)
 
@@ -155,17 +155,17 @@ Last updated: `April 12, 2026 at 01:14:06 PM ET`
 | 1 | - - | evaluated | adc0f3 | 21.8 |
 | 2 | TheProphet | evaluated | 91631a | 24.3 |
 | 3 | chyyy | evaluated | 34cc06 | 24.8 |
-| 4 | ngoguen | evaluated | f69acc | 26.3 |
-| 5 | gm | evaluated | 2898fc | 26.8 |
-| 6 | prousoglou | evaluated | 13e8de | 27.1 |
-| 7 | Rithvik | evaluated | 2924a0 | 27.1 |
-| 8 | zionrangers | evaluated | 7758e0 | 27.3 |
-| 9 | nickname55555555 | evaluated | 46e31e | 27.5 |
-| 10 | ss4478 | evaluated | c35426 | 27.6 |
-| 11 | zhumengzhiren | evaluated | cf2924 | 28.0 |
-| 12 | abarat007 | evaluated | d7f626 | 28.1 |
-| 13 | pyjuan91 | evaluated | fe8f27 | 28.8 |
-| 14 | Decode_speed | evaluated | c5a40c | 29.0 |
+| 4 | Decode_speed | evaluated | 3ff088 | 26.0 |
+| 5 | ngoguen | evaluated | f69acc | 26.3 |
+| 6 | gm | evaluated | 2898fc | 26.8 |
+| 7 | prousoglou | evaluated | 13e8de | 27.1 |
+| 8 | Rithvik | evaluated | 2924a0 | 27.1 |
+| 9 | zionrangers | evaluated | 7758e0 | 27.3 |
+| 10 | nickname55555555 | evaluated | 46e31e | 27.5 |
+| 11 | ss4478 | evaluated | c35426 | 27.6 |
+| 12 | zhumengzhiren | evaluated | cf2924 | 28.0 |
+| 13 | abarat007 | evaluated | d7f626 | 28.1 |
+| 14 | pyjuan91 | evaluated | fe8f27 | 28.8 |
 | 15 | ashaikh23 | evaluated | 84a425 | 29.1 |
 | 16 | stefan | evaluated | 9e3945 | 29.8 |
 | 17 | landrum | evaluated | 61ab81 | 29.9 |
@@ -219,7 +219,7 @@ Last updated: `April 12, 2026 at 01:14:06 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | tif03 | failed | c037ef |  |
+|  | tif03 | failed | 489fa6 |  |
 
 ## R4 (ms)
 
@@ -227,24 +227,24 @@ Last updated: `April 12, 2026 at 01:14:06 PM ET`
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 44.5 |
 | 2 | TheProphet | evaluated | 91631a | 46.2 |
-| 3 | chyyy | evaluated | 34cc06 | 47.6 |
-| 4 | Rithvik | evaluated | 2924a0 | 48.0 |
-| 5 | gm | evaluated | 2898fc | 48.5 |
-| 6 | zionrangers | evaluated | 7758e0 | 48.7 |
-| 7 | nickname55555555 | evaluated | 46e31e | 49.4 |
-| 8 | ss4478 | evaluated | c35426 | 49.4 |
-| 9 | prousoglou | evaluated | 13e8de | 49.6 |
-| 10 | chickfila | evaluated | f0956d | 49.6 |
-| 11 | ashaikh23 | evaluated | 84a425 | 50.2 |
-| 12 | zhumengzhiren | evaluated | cf2924 | 50.2 |
-| 13 | ngoguen | evaluated | f69acc | 50.4 |
-| 14 | abarat007 | evaluated | d7f626 | 51.5 |
-| 15 | PurplePickle67 | evaluated | 68d34e | 52.1 |
-| 16 | Yize | evaluated | c8c9f7 | 53.1 |
-| 17 | pyjuan91 | evaluated | fe8f27 | 53.3 |
-| 18 | sjb | evaluated | 373553 | 53.6 |
-| 19 | landrum | evaluated | 61ab81 | 53.7 |
-| 20 | Decode_speed | evaluated | c5a40c | 54.4 |
+| 3 | Decode_speed | evaluated | 3ff088 | 46.9 |
+| 4 | chyyy | evaluated | 34cc06 | 47.6 |
+| 5 | Rithvik | evaluated | 2924a0 | 48.0 |
+| 6 | gm | evaluated | 2898fc | 48.5 |
+| 7 | zionrangers | evaluated | 7758e0 | 48.7 |
+| 8 | nickname55555555 | evaluated | 46e31e | 49.4 |
+| 9 | ss4478 | evaluated | c35426 | 49.4 |
+| 10 | prousoglou | evaluated | 13e8de | 49.6 |
+| 11 | chickfila | evaluated | f0956d | 49.6 |
+| 12 | ashaikh23 | evaluated | 84a425 | 50.2 |
+| 13 | zhumengzhiren | evaluated | cf2924 | 50.2 |
+| 14 | ngoguen | evaluated | f69acc | 50.4 |
+| 15 | abarat007 | evaluated | d7f626 | 51.5 |
+| 16 | PurplePickle67 | evaluated | 68d34e | 52.1 |
+| 17 | Yize | evaluated | c8c9f7 | 53.1 |
+| 18 | pyjuan91 | evaluated | fe8f27 | 53.3 |
+| 19 | sjb | evaluated | 373553 | 53.6 |
+| 20 | landrum | evaluated | 61ab81 | 53.7 |
 | 21 | stefan | evaluated | 9e3945 | 54.5 |
 | 22 | Shengwei | evaluated | 20b468 | 55.5 |
 | 23 | gravlax | evaluated | b1229d | 59.7 |
@@ -292,4 +292,4 @@ Last updated: `April 12, 2026 at 01:14:06 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | tif03 | failed | c037ef |  |
+|  | tif03 | failed | 489fa6 |  |

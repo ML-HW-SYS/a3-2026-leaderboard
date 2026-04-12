@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 12, 2026 at 01:14:06 PM ET`
+Last updated: `April 12, 2026 at 01:22:26 PM ET`
 
 ## Pages
 
@@ -26,12 +26,12 @@ Last updated: `April 12, 2026 at 01:14:06 PM ET`
 | 12 | Rithvik | evaluated | 2924a0 | 46.5/2.9/49.4 | 1.706 | 495.8 | 335.8 | 27.1 | 48.0 |
 | 13 | ss4478 | evaluated | c35426 | 23.9/2.9/26.8 | 1.698 | 547.8 | 312.1 | 27.6 | 49.4 |
 | 14 | chickfila | evaluated | f0956d | 65.8/2.6/68.4 | 1.693 | 534.5 | 398.8 | 34.7 | 49.6 |
-| 15 | Shengwei | evaluated | 20b468 | 21.2/2.7/23.9 | 1.663 | 537.5 | 359.3 | 30.1 | 55.5 |
-| 16 | ngoguen | evaluated | f69acc | 33.5/3.1/36.6 | 1.659 | 538.9 | 282.0 | 26.3 | 50.4 |
-| 17 | blabrl | evaluated | ca60eb | 19.3/2.6/21.9 | 1.593 | 557.4 | 383.3 | 33.7 | 65.2 |
-| 18 | omermoav | evaluated | b01c0e | 18.6/2.7/21.3 | 1.578 | 569.6 | 373.6 | 35.2 | 64.6 |
-| 19 | landrum | evaluated | 61ab81 | 22.7/3.1/25.8 | 1.573 | 535.7 | 276.9 | 29.9 | 53.7 |
-| 20 | Decode_speed | evaluated | c5a40c | 21.6/3.2/24.8 | 1.572 | 529.9 | 273.9 | 29.0 | 54.4 |
+| 15 | Decode_speed | evaluated | 3ff088 | 23.3/3.1/26.4 | 1.678 | 531.5 | 275.1 | 26.0 | 46.9 |
+| 16 | Shengwei | evaluated | 20b468 | 21.2/2.7/23.9 | 1.663 | 537.5 | 359.3 | 30.1 | 55.5 |
+| 17 | ngoguen | evaluated | f69acc | 33.5/3.1/36.6 | 1.659 | 538.9 | 282.0 | 26.3 | 50.4 |
+| 18 | blabrl | evaluated | ca60eb | 19.3/2.6/21.9 | 1.593 | 557.4 | 383.3 | 33.7 | 65.2 |
+| 19 | omermoav | evaluated | b01c0e | 18.6/2.7/21.3 | 1.578 | 569.6 | 373.6 | 35.2 | 64.6 |
+| 20 | landrum | evaluated | 61ab81 | 22.7/3.1/25.8 | 1.573 | 535.7 | 276.9 | 29.9 | 53.7 |
 | 21 | stefan | evaluated | 9e3945 | 22.3/3.1/25.4 | 1.570 | 534.2 | 278.6 | 29.8 | 54.5 |
 | 22 | PurplePickle67 | evaluated | 68d34e | 32.7/3.0/35.7 | 1.524 | 520.5 | 303.7 | 37.3 | 52.1 |
 | 23 | andrasferenczy | evaluated | 9c7f53 | 37.3/3.2/40.5 | 1.486 | 539.1 | 277.2 | 31.9 | 63.7 |
@@ -79,7 +79,7 @@ Last updated: `April 12, 2026 at 01:14:06 PM ET`
 |  | kade_lin_is_here | failed | 104152 | 13.0/3.1/16.1 |  |  |  |  |  |
 |  | siddarak | failed | d85766 | 21.8/9.2/31.0 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | tif03 | failed | c037ef | 15.8/9.7/25.5 |  |  |  |  |  |
+|  | tif03 | failed | 489fa6 | 15.1/9.5/24.6 |  |  |  |  |  |
 
 ## Column Guide
 

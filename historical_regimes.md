@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 12, 2026 at 01:14:06 PM ET`
+Last updated: `April 12, 2026 at 01:22:26 PM ET`
 
 ## R1 (tok/s)
 
@@ -110,7 +110,7 @@ Last updated: `April 12, 2026 at 01:14:06 PM ET`
 | 33 | stefan | develop.py | c521d2 | 279.0 |
 | 34 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
 | 35 | landrum | submission.py | 61ab81 | 276.9 |
-| 36 | Decode_speed | submission.py | fa8e12 | 274.6 |
+| 36 | Decode_speed | submission.py | 3ff088 | 275.1 |
 | 37 | gravlax | develop.py | b1229d | 273.0 |
 | 38 | Yize | submission.py | c8c9f7 | 269.9 |
 | 39 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
@@ -148,18 +148,18 @@ Last updated: `April 12, 2026 at 01:14:06 PM ET`
 | 2 | TheProphet | develop.py | cc54b3 | 24.0 |
 | 3 | chyyy | submission.py | 34cc06 | 24.8 |
 | 4 | ss4478 | develop.py | 93d739 | 25.9 |
-| 5 | ngoguen | submission.py | ecab75 | 26.3 |
-| 6 | Shengwei | submission.py | 67896e | 26.7 |
-| 7 | gm | submission.py | 2898fc | 26.8 |
-| 8 | Rithvik | submission.py | 8e6767 | 26.9 |
-| 9 | omermoav | submission.py | dc63b9 | 26.9 |
-| 10 | prousoglou | develop.py | d39ef8 | 27.0 |
-| 11 | zionrangers | develop.py | 7758e0 | 27.3 |
-| 12 | nickname55555555 | submission.py | 2f62d2 | 27.4 |
-| 13 | zhumengzhiren | submission.py | 789cd3 | 27.9 |
-| 14 | abarat007 | submission.py | d7f626 | 28.1 |
-| 15 | pyjuan91 | submission.py | 430a83 | 28.8 |
-| 16 | Decode_speed | submission.py | c5a40c | 29.0 |
+| 5 | Decode_speed | submission.py | 3ff088 | 26.0 |
+| 6 | ngoguen | submission.py | ecab75 | 26.3 |
+| 7 | Shengwei | submission.py | 67896e | 26.7 |
+| 8 | gm | submission.py | 2898fc | 26.8 |
+| 9 | Rithvik | submission.py | 8e6767 | 26.9 |
+| 10 | omermoav | submission.py | dc63b9 | 26.9 |
+| 11 | prousoglou | develop.py | d39ef8 | 27.0 |
+| 12 | zionrangers | develop.py | 7758e0 | 27.3 |
+| 13 | nickname55555555 | submission.py | 2f62d2 | 27.4 |
+| 14 | zhumengzhiren | submission.py | 789cd3 | 27.9 |
+| 15 | abarat007 | submission.py | d7f626 | 28.1 |
+| 16 | pyjuan91 | submission.py | 430a83 | 28.8 |
 | 17 | ashaikh23 | submission.py | 84a425 | 29.1 |
 | 18 | landrum | develop.py | 4d2d51 | 29.6 |
 | 19 | stefan | develop.py | c521d2 | 29.6 |
@@ -216,26 +216,26 @@ Last updated: `April 12, 2026 at 01:14:06 PM ET`
 | --- | --- | --- | --- | --- |
 | 1 | - - | submission.py | 442030 | 44.4 |
 | 2 | TheProphet | develop.py | 5b306e | 46.2 |
-| 3 | chyyy | develop.py | 34cc06 | 47.5 |
-| 4 | Rithvik | submission.py | 1523b4 | 47.6 |
-| 5 | Shengwei | submission.py | 67896e | 48.1 |
-| 6 | ss4478 | develop.py | 93d739 | 48.2 |
-| 7 | gm | submission.py | 2898fc | 48.5 |
-| 8 | zionrangers | submission.py | 7758e0 | 48.7 |
-| 9 | prousoglou | develop.py | 5379db | 49.3 |
-| 10 | nickname55555555 | submission.py | 46e31e | 49.4 |
-| 11 | ngoguen | submission.py | ecab75 | 49.6 |
-| 12 | chickfila | submission.py | f0956d | 49.6 |
-| 13 | zhumengzhiren | develop.py | cf2924 | 50.1 |
-| 14 | ashaikh23 | submission.py | 84a425 | 50.2 |
-| 15 | abarat007 | submission.py | 260fed | 51.5 |
-| 16 | PurplePickle67 | submission.py | 2efdba | 51.9 |
-| 17 | sjb | develop.py | 387987 | 53.1 |
-| 18 | pyjuan91 | develop.py | 92d1da | 53.1 |
-| 19 | Yize | submission.py | c8c9f7 | 53.1 |
-| 20 | landrum | develop.py | 4d2d51 | 53.5 |
-| 21 | stefan | develop.py | c521d2 | 54.3 |
-| 22 | Decode_speed | submission.py | c5a40c | 54.4 |
+| 3 | Decode_speed | submission.py | 3ff088 | 46.9 |
+| 4 | chyyy | develop.py | 34cc06 | 47.5 |
+| 5 | Rithvik | submission.py | 1523b4 | 47.6 |
+| 6 | Shengwei | submission.py | 67896e | 48.1 |
+| 7 | ss4478 | develop.py | 93d739 | 48.2 |
+| 8 | gm | submission.py | 2898fc | 48.5 |
+| 9 | zionrangers | submission.py | 7758e0 | 48.7 |
+| 10 | prousoglou | develop.py | 5379db | 49.3 |
+| 11 | nickname55555555 | submission.py | 46e31e | 49.4 |
+| 12 | ngoguen | submission.py | ecab75 | 49.6 |
+| 13 | chickfila | submission.py | f0956d | 49.6 |
+| 14 | zhumengzhiren | develop.py | cf2924 | 50.1 |
+| 15 | ashaikh23 | submission.py | 84a425 | 50.2 |
+| 16 | abarat007 | submission.py | 260fed | 51.5 |
+| 17 | PurplePickle67 | submission.py | 2efdba | 51.9 |
+| 18 | sjb | develop.py | 387987 | 53.1 |
+| 19 | pyjuan91 | develop.py | 92d1da | 53.1 |
+| 20 | Yize | submission.py | c8c9f7 | 53.1 |
+| 21 | landrum | develop.py | 4d2d51 | 53.5 |
+| 22 | stefan | develop.py | c521d2 | 54.3 |
 | 23 | gravlax | submission.py | b1229d | 59.7 |
 | 24 | bl792 | develop.py | 09cd73 | 59.8 |
 | 25 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 59.9 |
