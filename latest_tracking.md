@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 11, 2026 at 10:26:23 PM ET`
+Last updated: `April 11, 2026 at 10:34:35 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 11 10:27 PM ET | stefan | failed_correctness | R3: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. St... | develop.py | 86ddc3 | 44.2/4.0/48.1 | 536.4 | 169.5 | 0.0 | 0.0 |
 | Apr 11 10:16 PM ET | vallabkaranam | failed_compliance | Submission compliance check failed for submission.py: \| - missing required function(s): setup, run | submission.py | 02abe9 |  |  |  |  |  |
 | Apr 11 10:16 PM ET | vallabkaranam | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | 02abe9 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 11 10:12 PM ET | abhik | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 06a02c | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
