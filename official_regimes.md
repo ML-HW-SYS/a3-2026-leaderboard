@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 11:24:30 AM ET`
+Last updated: `April 12, 2026 at 11:32:17 AM ET`
 
 ## R1 (tok/s)
 
@@ -42,7 +42,7 @@ Last updated: `April 12, 2026 at 11:24:30 AM ET`
 | 34 | mdavalos10 | evaluated | 6e0754 | 533.3 |
 | 35 | pallavi-srinivas | evaluated | 3c1d3c | 533.0 |
 | 36 | gravlax | evaluated | b1229d | 532.3 |
-| 37 | Decode_speed | evaluated | 76cc2d | 530.5 |
+| 37 | Decode_speed | evaluated | d882a0 | 532.1 |
 | 38 | 13rabbit | evaluated | 49d27b | 529.4 |
 | 39 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
 | 40 | Junyi Li | evaluated | c7a1b3 | 527.3 |
@@ -110,12 +110,12 @@ Last updated: `April 12, 2026 at 11:24:30 AM ET`
 | 30 | stefan | evaluated | 5ea8db | 277.5 |
 | 31 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
 | 32 | landrum | evaluated | 61ab81 | 276.9 |
-| 33 | gravlax | evaluated | b1229d | 272.5 |
-| 34 | Yize | evaluated | c8c9f7 | 269.9 |
-| 35 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
-| 36 | ishan-pat | evaluated | 5b4474 | 260.0 |
-| 37 | happyface | evaluated | 7e8b61 | 258.2 |
-| 38 | Decode_speed | evaluated | 76cc2d | 257.9 |
+| 33 | Decode_speed | evaluated | d882a0 | 273.9 |
+| 34 | gravlax | evaluated | b1229d | 272.5 |
+| 35 | Yize | evaluated | c8c9f7 | 269.9 |
+| 36 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
+| 37 | ishan-pat | evaluated | 5b4474 | 260.0 |
+| 38 | happyface | evaluated | 7e8b61 | 258.2 |
 | 39 | ethanchen | evaluated | ea518d | 251.2 |
 | 40 | bl792 | evaluated | 09cd73 | 238.8 |
 | 41 | Licha | evaluated | 9666cd | 238.1 |
@@ -168,21 +168,21 @@ Last updated: `April 12, 2026 at 11:24:30 AM ET`
 | 16 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
 | 17 | bl792 | evaluated | 09cd73 | 32.4 |
 | 18 | blabrl | evaluated | ca60eb | 33.7 |
-| 19 | stefan | evaluated | 5ea8db | 33.9 |
-| 20 | chickfila | evaluated | f0956d | 34.7 |
-| 21 | gravlax | evaluated | b1229d | 35.0 |
-| 22 | omermoav | evaluated | b01c0e | 35.2 |
-| 23 | PurplePickle67 | evaluated | 68d34e | 37.3 |
-| 24 | Yize | evaluated | c8c9f7 | 39.4 |
-| 25 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
-| 26 | sjb | evaluated | 373553 | 50.8 |
-| 27 | abhik | evaluated | 0b4b08 | 55.4 |
-| 28 | ishan-pat | evaluated | 5b4474 | 57.0 |
-| 29 | vallabkaranam | evaluated | 0bdeec | 57.3 |
-| 30 | Junyi Li | evaluated | c7a1b3 | 60.9 |
-| 31 | Licha | evaluated | 9666cd | 61.8 |
-| 32 | happyface | evaluated | 7e8b61 | 63.7 |
-| 33 | Decode_speed | evaluated | 76cc2d | 64.0 |
+| 19 | Decode_speed | evaluated | d882a0 | 33.7 |
+| 20 | stefan | evaluated | 5ea8db | 33.9 |
+| 21 | chickfila | evaluated | f0956d | 34.7 |
+| 22 | gravlax | evaluated | b1229d | 35.0 |
+| 23 | omermoav | evaluated | b01c0e | 35.2 |
+| 24 | PurplePickle67 | evaluated | 68d34e | 37.3 |
+| 25 | Yize | evaluated | c8c9f7 | 39.4 |
+| 26 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
+| 27 | sjb | evaluated | 373553 | 50.8 |
+| 28 | abhik | evaluated | 0b4b08 | 55.4 |
+| 29 | ishan-pat | evaluated | 5b4474 | 57.0 |
+| 30 | vallabkaranam | evaluated | 0bdeec | 57.3 |
+| 31 | Junyi Li | evaluated | c7a1b3 | 60.9 |
+| 32 | Licha | evaluated | 9666cd | 61.8 |
+| 33 | happyface | evaluated | 7e8b61 | 63.7 |
 | 34 | alifim | evaluated | 701077 | 64.8 |
 | 35 | beratcelik | evaluated | 863a89 | 68.2 |
 | 36 | JasonWang07 | evaluated | a4b405 | 70.8 |
@@ -247,20 +247,20 @@ Last updated: `April 12, 2026 at 11:24:30 AM ET`
 | 23 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
 | 24 | stefan | evaluated | 5ea8db | 64.2 |
 | 25 | omermoav | evaluated | b01c0e | 64.6 |
-| 26 | blabrl | evaluated | ca60eb | 65.2 |
-| 27 | happyface | evaluated | 7e8b61 | 66.0 |
-| 28 | leoli | evaluated | 5cdac4 | 87.4 |
-| 29 | JasonWang07 | evaluated | a4b405 | 88.9 |
-| 30 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
-| 31 | abhik | evaluated | 0b4b08 | 107.2 |
-| 32 | vallabkaranam | evaluated | 0bdeec | 108.2 |
-| 33 | ishan-pat | evaluated | 5b4474 | 108.7 |
-| 34 | alifim | evaluated | 701077 | 109.2 |
-| 35 | Junyi Li | evaluated | c7a1b3 | 113.1 |
-| 36 | beratcelik | evaluated | 863a89 | 113.8 |
-| 37 | Licha | evaluated | 9666cd | 115.6 |
-| 38 | ethanchen | evaluated | ea518d | 123.6 |
-| 39 | Decode_speed | evaluated | 76cc2d | 125.5 |
+| 26 | Decode_speed | evaluated | d882a0 | 64.9 |
+| 27 | blabrl | evaluated | ca60eb | 65.2 |
+| 28 | happyface | evaluated | 7e8b61 | 66.0 |
+| 29 | leoli | evaluated | 5cdac4 | 87.4 |
+| 30 | JasonWang07 | evaluated | a4b405 | 88.9 |
+| 31 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
+| 32 | abhik | evaluated | 0b4b08 | 107.2 |
+| 33 | vallabkaranam | evaluated | 0bdeec | 108.2 |
+| 34 | ishan-pat | evaluated | 5b4474 | 108.7 |
+| 35 | alifim | evaluated | 701077 | 109.2 |
+| 36 | Junyi Li | evaluated | c7a1b3 | 113.1 |
+| 37 | beratcelik | evaluated | 863a89 | 113.8 |
+| 38 | Licha | evaluated | 9666cd | 115.6 |
+| 39 | ethanchen | evaluated | ea518d | 123.6 |
 | 40 | TA | evaluated | a6e863 | 135.6 |
 | 41 | 13rabbit | evaluated | 49d27b | 141.4 |
 | 42 | jl | evaluated | 8b6423 | 149.1 |
