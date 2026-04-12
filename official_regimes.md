@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 01:54:11 PM ET`
+Last updated: `April 12, 2026 at 02:03:33 PM ET`
 
 ## R1 (tok/s)
 
@@ -65,7 +65,7 @@ Last updated: `April 12, 2026 at 01:54:11 PM ET`
 | 57 | fishyfins | evaluated | 7ae866 | 503.1 |
 | 58 | Rithvik | evaluated | 2924a0 | 495.8 |
 | 59 | tuo | evaluated | 3d6d40 | 494.8 |
-| 60 | TheProphet | evaluated | 6927ae | 470.9 |
+| 60 | TheProphet | evaluated | 31568e | 428.6 |
 | 61 | co-smith | evaluated | dcfadf | 167.2 |
 | 62 | poppyPotatoe | evaluated | eea264 | 144.2 |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -97,13 +97,13 @@ Last updated: `April 12, 2026 at 01:54:11 PM ET`
 | 16 | sjb | evaluated | 373553 | 346.4 |
 | 17 | JasonWang07 | evaluated | a4b405 | 342.2 |
 | 18 | Rithvik | evaluated | 2924a0 | 335.8 |
-| 19 | TheProphet | evaluated | 6927ae | 332.7 |
-| 20 | leoli | evaluated | 5cdac4 | 327.5 |
-| 21 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
-| 22 | abhik | evaluated | 0b4b08 | 319.2 |
-| 23 | vallabkaranam | evaluated | 0bdeec | 318.5 |
-| 24 | ss4478 | evaluated | c35426 | 312.1 |
-| 25 | jl | evaluated | 8b6423 | 311.6 |
+| 19 | leoli | evaluated | 5cdac4 | 327.5 |
+| 20 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
+| 21 | abhik | evaluated | 0b4b08 | 319.2 |
+| 22 | vallabkaranam | evaluated | 0bdeec | 318.5 |
+| 23 | ss4478 | evaluated | c35426 | 312.1 |
+| 24 | jl | evaluated | 8b6423 | 311.6 |
+| 25 | TheProphet | evaluated | 31568e | 310.6 |
 | 26 | lipphi | evaluated | a3a71b | 306.7 |
 | 27 | PurplePickle67 | evaluated | 68d34e | 303.7 |
 | 28 | pallavi-srinivas | evaluated | 3c1d3c | 302.6 |
@@ -153,7 +153,7 @@ Last updated: `April 12, 2026 at 01:54:11 PM ET`
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 21.8 |
-| 2 | TheProphet | evaluated | 6927ae | 24.3 |
+| 2 | TheProphet | evaluated | 31568e | 24.6 |
 | 3 | chyyy | evaluated | 34cc06 | 24.8 |
 | 4 | Decode_speed | evaluated | 3ff088 | 26.0 |
 | 5 | ngoguen | evaluated | f69acc | 26.3 |
@@ -226,13 +226,13 @@ Last updated: `April 12, 2026 at 01:54:11 PM ET`
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 44.5 |
-| 2 | TheProphet | evaluated | 6927ae | 46.3 |
-| 3 | Decode_speed | evaluated | 3ff088 | 46.9 |
-| 4 | chyyy | evaluated | 34cc06 | 47.6 |
-| 5 | Rithvik | evaluated | 2924a0 | 48.0 |
-| 6 | Shengwei | evaluated | af8da2 | 48.2 |
-| 7 | gm | evaluated | 2898fc | 48.5 |
-| 8 | zionrangers | evaluated | 7758e0 | 48.7 |
+| 2 | Decode_speed | evaluated | 3ff088 | 46.9 |
+| 3 | chyyy | evaluated | 34cc06 | 47.6 |
+| 4 | Rithvik | evaluated | 2924a0 | 48.0 |
+| 5 | Shengwei | evaluated | af8da2 | 48.2 |
+| 6 | gm | evaluated | 2898fc | 48.5 |
+| 7 | zionrangers | evaluated | 7758e0 | 48.7 |
+| 8 | TheProphet | evaluated | 31568e | 49.2 |
 | 9 | ss4478 | evaluated | c35426 | 49.4 |
 | 10 | prousoglou | evaluated | 13e8de | 49.6 |
 | 11 | chickfila | evaluated | f0956d | 49.6 |
