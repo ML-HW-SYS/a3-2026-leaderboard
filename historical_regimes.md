@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 12, 2026 at 10:53:55 AM ET`
+Last updated: `April 12, 2026 at 11:01:47 AM ET`
 
 ## R1 (tok/s)
 
@@ -105,7 +105,7 @@ Last updated: `April 12, 2026 at 10:53:55 AM ET`
 | 29 | TA | submission.py | 324cb8 | 295.5 |
 | 30 | beratcelik | submission.py | 7c87c2 | 294.0 |
 | 31 | ngoguen | submission.py | ecab75 | 282.6 |
-| 32 | stefan | develop.py | 4bac49 | 277.4 |
+| 32 | stefan | submission.py | 5ea8db | 277.5 |
 | 33 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
 | 34 | landrum | submission.py | 61ab81 | 276.9 |
 | 35 | gravlax | develop.py | b1229d | 273.0 |
@@ -162,7 +162,7 @@ Last updated: `April 12, 2026 at 10:53:55 AM ET`
 | 18 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
 | 19 | bl792 | develop.py | 09cd73 | 32.3 |
 | 20 | blabrl | submission.py | ca60eb | 33.7 |
-| 21 | stefan | develop.py | 9023a1 | 33.9 |
+| 21 | stefan | submission.py | 5ea8db | 33.9 |
 | 22 | chickfila | submission.py | f0956d | 34.7 |
 | 23 | gravlax | develop.py | b1229d | 35.0 |
 | 24 | PurplePickle67 | submission.py | 2efdba | 36.3 |

@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 10:53:55 AM ET`
+Last updated: `April 12, 2026 at 11:01:47 AM ET`
 
 ## R1 (tok/s)
 
@@ -30,8 +30,8 @@ Last updated: `April 12, 2026 at 10:53:55 AM ET`
 | 22 | alifim | evaluated | 701077 | 539.6 |
 | 23 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
 | 24 | ngoguen | evaluated | f69acc | 538.9 |
-| 25 | stefan | evaluated | a6f092 | 538.6 |
-| 26 | Shengwei | evaluated | 20b468 | 537.5 |
+| 25 | Shengwei | evaluated | 20b468 | 537.5 |
+| 26 | stefan | evaluated | 5ea8db | 536.0 |
 | 27 | landrum | evaluated | 61ab81 | 535.7 |
 | 28 | sjb | evaluated | 373553 | 535.3 |
 | 29 | lipphi | evaluated | a3a71b | 534.8 |
@@ -107,9 +107,9 @@ Last updated: `April 12, 2026 at 10:53:55 AM ET`
 | 27 | pallavi-srinivas | evaluated | 3c1d3c | 302.6 |
 | 28 | TA | evaluated | a6e863 | 294.5 |
 | 29 | ngoguen | evaluated | f69acc | 282.0 |
-| 30 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
-| 31 | landrum | evaluated | 61ab81 | 276.9 |
-| 32 | stefan | evaluated | a6f092 | 276.3 |
+| 30 | stefan | evaluated | 5ea8db | 277.5 |
+| 31 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
+| 32 | landrum | evaluated | 61ab81 | 276.9 |
 | 33 | gravlax | evaluated | b1229d | 272.5 |
 | 34 | Yize | evaluated | c8c9f7 | 269.9 |
 | 35 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
@@ -168,7 +168,7 @@ Last updated: `April 12, 2026 at 10:53:55 AM ET`
 | 16 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
 | 17 | bl792 | evaluated | 09cd73 | 32.4 |
 | 18 | blabrl | evaluated | ca60eb | 33.7 |
-| 19 | stefan | evaluated | a6f092 | 34.1 |
+| 19 | stefan | evaluated | 5ea8db | 33.9 |
 | 20 | chickfila | evaluated | f0956d | 34.7 |
 | 21 | gravlax | evaluated | b1229d | 35.0 |
 | 22 | omermoav | evaluated | b01c0e | 35.2 |
@@ -245,7 +245,7 @@ Last updated: `April 12, 2026 at 10:53:55 AM ET`
 | 21 | bl792 | evaluated | 09cd73 | 59.9 |
 | 22 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 59.9 |
 | 23 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
-| 24 | stefan | evaluated | a6f092 | 64.4 |
+| 24 | stefan | evaluated | 5ea8db | 64.2 |
 | 25 | omermoav | evaluated | b01c0e | 64.6 |
 | 26 | blabrl | evaluated | ca60eb | 65.2 |
 | 27 | happyface | evaluated | 7e8b61 | 66.0 |
