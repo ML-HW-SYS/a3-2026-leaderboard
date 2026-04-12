@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 11, 2026 at 09:08:15 PM ET`
+Last updated: `April 11, 2026 at 09:17:56 PM ET`
 
 ## Pages
 
@@ -67,14 +67,14 @@ Last updated: `April 11, 2026 at 09:08:15 PM ET`
 | 53 | mdavalos10 | evaluated | 6e0754 | 47.4/6.4/53.9 | 0.518 | 533.3 | 159.3 | 311.3 | 251.5 |
 | 54 | abhik | evaluated | bf55dc | 16.0/8.5/24.5 | 0.485 | 157.9 | 127.8 | 140.5 | 172.5 |
 | 55 | nicknam534534 | evaluated | 83a901 | 19.7/7.1/26.8 | 0.467 | 524.7 | 148.4 | 405.3 | 268.7 |
-| 56 | Decode_speed | evaluated | 236fa2 | 77.7/8.4/86.1 | 0.400 | 533.3 | 129.8 | 520.5 | 343.8 |
+| 56 | Decode_speed | evaluated | 8cc9d9 | 40.2/8.5/48.6 | 0.393 | 520.8 | 129.0 | 523.6 | 357.0 |
 | 57 | co-smith | evaluated | dcfadf | 15.5/9.9/25.4 | 0.350 | 167.2 | 112.4 | 323.6 | 257.4 |
 | 58 | poppyPotatoe | evaluated | eea264 | 17.1/10.5/27.5 | 0.340 | 144.2 | 109.8 | 311.3 | 251.9 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | kade_lin_is_here | failed | 104152 | 13.0/3.1/16.1 |  |  |  |  |  |
 |  | siddarak | failed | d85766 | 21.8/9.2/31.0 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | TheProphet | failed | 180c0d | 29.3/2.5/31.8 |  |  |  |  |  |
+|  | TheProphet | failed | eb9aab | 29.2/2.5/31.7 |  |  |  |  |  |
 |  | tif03 | failed | f612be | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | vallabkaranam | failed | e83dea | 15.8/9.6/25.4 |  |  |  |  |  |
 
