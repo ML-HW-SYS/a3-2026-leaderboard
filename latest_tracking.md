@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 12:33:23 PM ET`
+Last updated: `April 12, 2026 at 12:42:34 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 12:37 PM ET | tif03 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | c037ef | 15.8/9.7/25.5 | 165.8 | 117.5 | 308.5 | 246.7 |
+| Apr 12 12:36 PM ET | pick_a_nickname | evaluated |  | submission.py | c47490 | 27.2/6.2/33.4 | 525.7 | 169.9 | 309.4 | 249.3 |
+| Apr 12 12:29 PM ET | TheProphet | evaluated |  | submission.py | c4578d | 32.0/5.4/37.4 | 367.7 | 139.2 | 24.4 | 46.5 |
 | Apr 12 12:22 PM ET | stefan | evaluated |  | submission.py | 9e3945 | 22.3/3.1/25.4 | 534.2 | 278.6 | 29.8 | 54.5 |
 | Apr 12 12:18 PM ET | Decode_speed | evaluated |  | submission.py | fa8e12 | 19.5/3.2/22.7 | 530.7 | 274.6 | 33.0 | 64.1 |
 | Apr 12 12:16 PM ET | TheProphet | failed_compliance | SyntaxError during policy check: unexpected indent (submission.py, line 2361) | submission.py | d9c4e1 |  |  |  |  |  |
