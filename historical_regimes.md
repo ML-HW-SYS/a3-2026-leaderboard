@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 12, 2026 at 06:35:33 PM ET`
+Last updated: `April 12, 2026 at 06:45:16 PM ET`
 
 ## R1 (tok/s)
 
@@ -70,7 +70,7 @@ Last updated: `April 12, 2026 at 06:35:33 PM ET`
 | 62 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
 | 63 | tuo | submission.py | 4274da | 507.3 |
 | 64 | tif03 | submission.py | e84053 | 501.5 |
-| 65 | co-smith | submission.py | b84cba | 353.8 |
+| 65 | co-smith | submission.py | 8970a6 | 357.3 |
 | 66 | poppyPotatoe | submission.py | dd4e57 | 169.9 |
 
 ## R2 (tok/s)
@@ -141,8 +141,8 @@ Last updated: `April 12, 2026 at 06:35:33 PM ET`
 | 62 | jet2holiday | submission.py | 05925d | 169.1 |
 | 63 | tif03 | submission.py | ec268d | 167.6 |
 | 64 | nicknam534534 | develop.py | 187bfa | 148.4 |
-| 65 | poppyPotatoe | submission.py | dd4e57 | 117.7 |
-| 66 | co-smith | submission.py | ebd5c5 | 117.1 |
+| 65 | co-smith | submission.py | 8970a6 | 145.6 |
+| 66 | poppyPotatoe | submission.py | dd4e57 | 117.7 |
 
 ## R3 (ms)
 
@@ -179,10 +179,10 @@ Last updated: `April 12, 2026 at 06:35:33 PM ET`
 | 29 | ishan-pat | submission.py | 564670 | 55.1 |
 | 30 | abhik | develop.py | 0b4b08 | 55.4 |
 | 31 | vallabkaranam | submission.py | 0bdeec | 57.3 |
-| 32 | act | submission.py | fce2ab | 59.5 |
-| 33 | Junyi Li | submission.py | c7a1b3 | 60.9 |
-| 34 | Licha | submission.py | 9666cd | 61.8 |
-| 35 | happyface | submission.py | 9f7886 | 63.4 |
+| 32 | happyface | develop.py | 40e8cb | 58.5 |
+| 33 | act | submission.py | fce2ab | 59.5 |
+| 34 | Junyi Li | submission.py | c7a1b3 | 60.9 |
+| 35 | Licha | submission.py | 9666cd | 61.8 |
 | 36 | alifim | submission.py | 701077 | 64.8 |
 | 37 | beratcelik | submission.py | 11c1b8 | 65.4 |
 | 38 | JasonWang07 | submission.py | f27837 | 68.2 |

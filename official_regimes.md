@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 06:35:33 PM ET`
+Last updated: `April 12, 2026 at 06:45:16 PM ET`
 
 ## R1 (tok/s)
 
@@ -69,8 +69,8 @@ Last updated: `April 12, 2026 at 06:35:33 PM ET`
 | 61 | tif03 | evaluated | ec268d | 501.2 |
 | 62 | Rithvik | evaluated | 2924a0 | 495.8 |
 | 63 | tuo | evaluated | 3d6d40 | 494.8 |
-| 64 | poppyPotatoe | evaluated | eea264 | 144.2 |
-|  | co-smith | failed | aa257a |  |
+| 64 | co-smith | evaluated | 8970a6 | 357.3 |
+| 65 | poppyPotatoe | evaluated | eea264 | 144.2 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
@@ -143,8 +143,8 @@ Last updated: `April 12, 2026 at 06:35:33 PM ET`
 | 61 | fishyfins | evaluated | 08f1ac | 165.4 |
 | 62 | mdavalos10 | evaluated | 6e0754 | 159.3 |
 | 63 | nicknam534534 | evaluated | 83a901 | 148.4 |
-| 64 | poppyPotatoe | evaluated | eea264 | 109.8 |
-|  | co-smith | failed | aa257a |  |
+| 64 | co-smith | evaluated | 8970a6 | 145.6 |
+| 65 | poppyPotatoe | evaluated | eea264 | 109.8 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
@@ -217,8 +217,8 @@ Last updated: `April 12, 2026 at 06:35:33 PM ET`
 | 61 | poppyPotatoe | evaluated | eea264 | 311.3 |
 | 62 | castillo | evaluated | 0e93de | 311.4 |
 | 63 | yb | evaluated | ea23ab | 312.3 |
-| 64 | nicknam534534 | evaluated | 83a901 | 405.3 |
-|  | co-smith | failed | aa257a |  |
+| 64 | co-smith | evaluated | 8970a6 | 321.1 |
+| 65 | nicknam534534 | evaluated | 83a901 | 405.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
@@ -291,8 +291,8 @@ Last updated: `April 12, 2026 at 06:35:33 PM ET`
 | 61 | jbc | evaluated | 12bb20 | 251.3 |
 | 62 | mdavalos10 | evaluated | 6e0754 | 251.5 |
 | 63 | poppyPotatoe | evaluated | eea264 | 251.9 |
-| 64 | nicknam534534 | evaluated | 83a901 | 268.7 |
-|  | co-smith | failed | aa257a |  |
+| 64 | co-smith | evaluated | 8970a6 | 254.4 |
+| 65 | nicknam534534 | evaluated | 83a901 | 268.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
