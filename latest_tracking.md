@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 10:36:51 AM ET`
+Last updated: `April 12, 2026 at 10:46:00 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 10:37 AM ET | ishan-pat | evaluated |  | submission.py | 5b4474 | 25.0/3.6/28.6 | 534.6 | 260.0 | 57.0 | 108.7 |
+| Apr 12 10:36 AM ET | stefan | evaluated |  | develop.py | 9bf83e | 21.5/3.2/24.7 | 535.7 | 276.7 | 33.9 | 64.4 |
+| Apr 12 10:33 AM ET | TheProphet | failed_correctness | R1: SETUP: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent ... | submission.py | 26c20b | 35.5/0.3/35.8 | 0.0 | 0.0 | 24.3 | 46.3 |
 | Apr 12 10:13 AM ET | TheProphet | failed_correctness | R1: SETUP: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent ... | submission.py | bdf8e4 | 75.0/0.3/75.3 | 0.0 | 0.0 | 24.3 | 46.3 |
 | Apr 12 10:12 AM ET | ishan-pat | evaluated |  | submission.py | 4c7e91 | 25.4/3.6/29.0 | 537.2 | 259.7 | 57.2 | 108.0 |
 | Apr 12 10:12 AM ET | ishan-pat | failed_compliance | SyntaxError during policy check: expected an indented block after 'if' statement on line 422 (develop.py, line 423) | develop.py | 4c7e91 |  |  |  |  |  |
