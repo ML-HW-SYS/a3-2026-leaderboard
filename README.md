@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 12, 2026 at 05:02:40 PM ET`
+Last updated: `April 12, 2026 at 05:13:02 PM ET`
 
 ## Pages
 
@@ -71,15 +71,15 @@ Last updated: `April 12, 2026 at 05:02:40 PM ET`
 | 57 | jbc | evaluated | 12bb20 | 21.1/6.3/27.4 | 0.522 | 520.4 | 169.0 | 311.3 | 251.3 |
 | 58 | mdavalos10 | evaluated | 6e0754 | 47.4/6.4/53.9 | 0.518 | 533.3 | 159.3 | 311.3 | 251.5 |
 | 59 | nicknam534534 | evaluated | 83a901 | 19.7/7.1/26.8 | 0.467 | 524.7 | 148.4 | 405.3 | 268.7 |
-| 60 | co-smith | evaluated | dcfadf | 15.5/9.9/25.4 | 0.350 | 167.2 | 112.4 | 323.6 | 257.4 |
+| 60 | co-smith | evaluated | ebd5c5 | 15.4/9.8/25.3 | 0.352 | 164.0 | 117.1 | 321.9 | 256.4 |
 | 61 | poppyPotatoe | evaluated | eea264 | 17.1/10.5/27.5 | 0.340 | 144.2 | 109.8 | 311.3 | 251.9 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | kade_lin_is_here | failed | 104152 | 13.0/3.1/16.1 |  |  |  |  |  |
 |  | nickname55555555 | failed | 5aef32 | 29.1/1.2/30.3 |  |  |  |  |  |
 |  | siddarak | failed | d85766 | 21.8/9.2/31.0 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | TheProphet | failed | d2670a | 75.7/2.4/78.1 |  |  |  |  |  |
-|  | tif03 | failed | 3ffa5b | 15.5/0.0/15.5 |  |  |  |  |  |
+|  | TheProphet | failed | 7af43e | 59.8/2.4/62.2 |  |  |  |  |  |
+|  | tif03 | failed | 1765c1 | 15.5/0.0/15.5 |  |  |  |  |  |
 
 ## Column Guide
 

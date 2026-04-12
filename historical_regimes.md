@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 12, 2026 at 05:02:40 PM ET`
+Last updated: `April 12, 2026 at 05:13:02 PM ET`
 
 ## R1 (tok/s)
 
@@ -138,7 +138,7 @@ Last updated: `April 12, 2026 at 05:02:40 PM ET`
 | 61 | castillo | develop.py | 0e93de | 169.2 |
 | 62 | nicknam534534 | develop.py | 187bfa | 148.4 |
 | 63 | poppyPotatoe | submission.py | dd4e57 | 117.7 |
-| 64 | co-smith | submission.py | dcfadf | 112.4 |
+| 64 | co-smith | submission.py | ebd5c5 | 117.1 |
 
 ## R3 (ms)
 
@@ -207,7 +207,7 @@ Last updated: `April 12, 2026 at 05:02:40 PM ET`
 | 61 | poppyPotatoe | submission.py | 311dc9 | 309.5 |
 | 62 | mdavalos10 | develop.py | 6e0754 | 310.8 |
 | 63 | castillo | develop.py | 0e93de | 310.9 |
-| 64 | co-smith | develop.py | dcfadf | 322.6 |
+| 64 | co-smith | submission.py | ebd5c5 | 321.9 |
 | 65 | siddarak | submission.py | d85766 | 614.4 |
 
 ## R4 (ms)
@@ -223,8 +223,8 @@ Last updated: `April 12, 2026 at 05:02:40 PM ET`
 | 7 | ss4478 | develop.py | 93d739 | 48.2 |
 | 8 | gm | submission.py | 2898fc | 48.5 |
 | 9 | zionrangers | submission.py | 7758e0 | 48.7 |
-| 10 | prousoglou | develop.py | 5379db | 49.3 |
-| 11 | nickname55555555 | submission.py | 5aef32 | 49.3 |
+| 10 | nickname55555555 | develop.py | 5aef32 | 49.2 |
+| 11 | prousoglou | develop.py | 5379db | 49.3 |
 | 12 | ngoguen | submission.py | ecab75 | 49.6 |
 | 13 | chickfila | submission.py | f0956d | 49.6 |
 | 14 | zhumengzhiren | develop.py | cf2924 | 50.1 |
@@ -277,5 +277,5 @@ Last updated: `April 12, 2026 at 05:02:40 PM ET`
 | 61 | castillo | develop.py | 0e93de | 250.2 |
 | 62 | yb | submission.py | 2aa1a9 | 250.5 |
 | 63 | mdavalos10 | develop.py | 6e0754 | 251.0 |
-| 64 | co-smith | develop.py | dcfadf | 256.9 |
+| 64 | co-smith | submission.py | ebd5c5 | 256.4 |
 | 65 | siddarak | submission.py | d85766 | 382.1 |

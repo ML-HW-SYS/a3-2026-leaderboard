@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 05:02:40 PM ET`
+Last updated: `April 12, 2026 at 05:13:02 PM ET`
 
 ## R1 (tok/s)
 
@@ -65,15 +65,15 @@ Last updated: `April 12, 2026 at 05:02:40 PM ET`
 | 57 | abhik | evaluated | 0b4b08 | 507.2 |
 | 58 | Rithvik | evaluated | 2924a0 | 495.8 |
 | 59 | tuo | evaluated | 3d6d40 | 494.8 |
-| 60 | co-smith | evaluated | dcfadf | 167.2 |
+| 60 | co-smith | evaluated | ebd5c5 | 164.0 |
 | 61 | poppyPotatoe | evaluated | eea264 | 144.2 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | nickname55555555 | failed | 5aef32 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | d2670a |  |
-|  | tif03 | failed | 3ffa5b |  |
+|  | TheProphet | failed | 7af43e |  |
+|  | tif03 | failed | 1765c1 |  |
 
 ## R2 (tok/s)
 
@@ -138,15 +138,15 @@ Last updated: `April 12, 2026 at 05:02:40 PM ET`
 | 57 | fishyfins | evaluated | 08f1ac | 165.4 |
 | 58 | mdavalos10 | evaluated | 6e0754 | 159.3 |
 | 59 | nicknam534534 | evaluated | 83a901 | 148.4 |
-| 60 | co-smith | evaluated | dcfadf | 112.4 |
+| 60 | co-smith | evaluated | ebd5c5 | 117.1 |
 | 61 | poppyPotatoe | evaluated | eea264 | 109.8 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | nickname55555555 | failed | 5aef32 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | d2670a |  |
-|  | tif03 | failed | 3ffa5b |  |
+|  | TheProphet | failed | 7af43e |  |
+|  | tif03 | failed | 1765c1 |  |
 
 ## R3 (ms)
 
@@ -211,15 +211,15 @@ Last updated: `April 12, 2026 at 05:02:40 PM ET`
 | 57 | poppyPotatoe | evaluated | eea264 | 311.3 |
 | 58 | castillo | evaluated | 0e93de | 311.4 |
 | 59 | yb | evaluated | ea23ab | 312.3 |
-| 60 | co-smith | evaluated | dcfadf | 323.6 |
+| 60 | co-smith | evaluated | ebd5c5 | 321.9 |
 | 61 | nicknam534534 | evaluated | 83a901 | 405.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | nickname55555555 | failed | 5aef32 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | d2670a |  |
-|  | tif03 | failed | 3ffa5b |  |
+|  | TheProphet | failed | 7af43e |  |
+|  | tif03 | failed | 1765c1 |  |
 
 ## R4 (ms)
 
@@ -284,12 +284,12 @@ Last updated: `April 12, 2026 at 05:02:40 PM ET`
 | 57 | jbc | evaluated | 12bb20 | 251.3 |
 | 58 | mdavalos10 | evaluated | 6e0754 | 251.5 |
 | 59 | poppyPotatoe | evaluated | eea264 | 251.9 |
-| 60 | co-smith | evaluated | dcfadf | 257.4 |
+| 60 | co-smith | evaluated | ebd5c5 | 256.4 |
 | 61 | nicknam534534 | evaluated | 83a901 | 268.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | nickname55555555 | failed | 5aef32 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | d2670a |  |
-|  | tif03 | failed | 3ffa5b |  |
+|  | TheProphet | failed | 7af43e |  |
+|  | tif03 | failed | 1765c1 |  |
