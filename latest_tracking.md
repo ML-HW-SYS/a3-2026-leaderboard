@@ -1,10 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 12:08:25 PM ET`
+Last updated: `April 12, 2026 at 12:17:06 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 12:08 PM ET | Decode_speed | evaluated |  | submission.py | a1ba5d | 19.2/3.2/22.4 | 529.6 | 274.4 | 33.9 | 65.1 |
 | Apr 12 12:02 PM ET | ishan-pat | evaluated |  | submission.py | 99aac6 | 44.2/3.0/47.2 | 553.2 | 352.8 | 56.7 | 108.1 |
+| Apr 12 12:02 PM ET | ishan-pat | evaluated |  | develop.py | 99aac6 | 44.4/3.1/47.4 | 551.9 | 351.0 | 57.8 | 109.3 |
 | Apr 12 11:57 AM ET | TheProphet | failed_correctness | R2: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | submission.py | 30d740 | 33.8/1.7/35.5 | 368.2 | 0.0 | 24.4 | 46.3 |
 | Apr 12 11:53 AM ET | stefan | evaluated |  | submission.py | 47712c | 21.8/3.2/25.0 | 534.1 | 277.4 | 31.7 | 59.8 |
 | Apr 12 11:47 AM ET | Decode_speed | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | submission.py | aa476a | 44.3/31.8/76.2 | 528.8 | 274.5 | 7251.3 | 0.0 |
