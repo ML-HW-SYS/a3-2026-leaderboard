@@ -1,11 +1,14 @@
 # Latest Tracking
 
-Last updated: `April 11, 2026 at 09:52:58 PM ET`
+Last updated: `April 11, 2026 at 10:02:17 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 11 09:55 PM ET | tif03 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | 80287c | 39.5/6.1/45.6 | 526.3 | 169.9 | 300.5 | 229.3 |
 | Apr 11 09:45 PM ET | ss4478 | evaluated |  | submission.py | 9c8cb8 | 49.6/5.8/55.4 | 535.2 | 194.4 | 309.8 | 249.6 |
+| Apr 11 09:45 PM ET | ss4478 | evaluated |  | develop.py | 9c8cb8 | 20.1/5.8/25.9 | 527.1 | 194.3 | 309.8 | 249.3 |
 | Apr 11 09:40 PM ET | TheProphet | evaluated |  | submission.py | 705619 | 28.3/2.9/31.2 | 395.2 | 382.9 | 24.0 | 46.5 |
+| Apr 11 09:40 PM ET | TheProphet | evaluated |  | develop.py | 705619 | 27.8/2.9/30.7 | 393.8 | 382.6 | 24.2 | 46.8 |
 | Apr 11 09:33 PM ET | stefan | evaluated |  | submission.py | 07c9f0 | 21.2/4.4/25.6 | 535.8 | 170.2 | 33.9 | 64.1 |
 | Apr 11 09:30 PM ET | Decode_speed | evaluated |  | submission.py | c5a242 | 40.6/7.1/47.7 | 528.6 | 156.9 | 375.4 | 334.9 |
 | Apr 11 09:30 PM ET | Decode_speed | evaluated |  | develop.py | c5a242 | 21.0/7.1/28.1 | 526.4 | 156.6 | 375.9 | 334.2 |
