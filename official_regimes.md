@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 01:38:29 PM ET`
+Last updated: `April 12, 2026 at 01:46:16 PM ET`
 
 ## R1 (tok/s)
 
@@ -26,12 +26,12 @@ Last updated: `April 12, 2026 at 01:38:29 PM ET`
 | 18 | JasonWang07 | evaluated | a4b405 | 547.1 |
 | 19 | leoli | evaluated | 5cdac4 | 544.1 |
 | 20 | happyface | evaluated | 7e8b61 | 543.0 |
-| 21 | gm | evaluated | 2898fc | 541.1 |
-| 22 | pyjuan91 | evaluated | fe8f27 | 540.9 |
-| 23 | alifim | evaluated | 701077 | 539.6 |
-| 24 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
-| 25 | ngoguen | evaluated | f69acc | 538.9 |
-| 26 | Shengwei | evaluated | 20b468 | 537.5 |
+| 21 | Shengwei | evaluated | af8da2 | 541.3 |
+| 22 | gm | evaluated | 2898fc | 541.1 |
+| 23 | pyjuan91 | evaluated | fe8f27 | 540.9 |
+| 24 | alifim | evaluated | 701077 | 539.6 |
+| 25 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
+| 26 | ngoguen | evaluated | f69acc | 538.9 |
 | 27 | landrum | evaluated | 61ab81 | 535.7 |
 | 28 | sjb | evaluated | 373553 | 535.3 |
 | 29 | lipphi | evaluated | a3a71b | 534.8 |
@@ -91,7 +91,7 @@ Last updated: `April 12, 2026 at 01:38:29 PM ET`
 | 10 | ashaikh23 | evaluated | 84a425 | 372.1 |
 | 11 | zionrangers | evaluated | 7758e0 | 371.7 |
 | 12 | pyjuan91 | evaluated | fe8f27 | 363.6 |
-| 13 | Shengwei | evaluated | 20b468 | 359.3 |
+| 13 | Shengwei | evaluated | af8da2 | 361.3 |
 | 14 | gm | evaluated | 2898fc | 357.0 |
 | 15 | nickname55555555 | evaluated | 46e31e | 354.9 |
 | 16 | ishan-pat | evaluated | 99aac6 | 352.8 |
@@ -158,18 +158,18 @@ Last updated: `April 12, 2026 at 01:38:29 PM ET`
 | 4 | Decode_speed | evaluated | 3ff088 | 26.0 |
 | 5 | ngoguen | evaluated | f69acc | 26.3 |
 | 6 | gm | evaluated | 2898fc | 26.8 |
-| 7 | prousoglou | evaluated | 13e8de | 27.1 |
-| 8 | Rithvik | evaluated | 2924a0 | 27.1 |
-| 9 | zionrangers | evaluated | 7758e0 | 27.3 |
-| 10 | nickname55555555 | evaluated | 46e31e | 27.5 |
-| 11 | ss4478 | evaluated | c35426 | 27.6 |
-| 12 | zhumengzhiren | evaluated | cf2924 | 28.0 |
-| 13 | abarat007 | evaluated | d7f626 | 28.1 |
-| 14 | pyjuan91 | evaluated | fe8f27 | 28.8 |
-| 15 | ashaikh23 | evaluated | 84a425 | 29.1 |
-| 16 | stefan | evaluated | 9e3945 | 29.8 |
-| 17 | landrum | evaluated | 61ab81 | 29.9 |
-| 18 | Shengwei | evaluated | 20b468 | 30.1 |
+| 7 | Shengwei | evaluated | af8da2 | 26.8 |
+| 8 | prousoglou | evaluated | 13e8de | 27.1 |
+| 9 | Rithvik | evaluated | 2924a0 | 27.1 |
+| 10 | zionrangers | evaluated | 7758e0 | 27.3 |
+| 11 | nickname55555555 | evaluated | 46e31e | 27.5 |
+| 12 | ss4478 | evaluated | c35426 | 27.6 |
+| 13 | zhumengzhiren | evaluated | cf2924 | 28.0 |
+| 14 | abarat007 | evaluated | d7f626 | 28.1 |
+| 15 | pyjuan91 | evaluated | fe8f27 | 28.8 |
+| 16 | ashaikh23 | evaluated | 84a425 | 29.1 |
+| 17 | stefan | evaluated | 9e3945 | 29.8 |
+| 18 | landrum | evaluated | 61ab81 | 29.9 |
 | 19 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
 | 20 | bl792 | evaluated | 09cd73 | 32.4 |
 | 21 | blabrl | evaluated | ca60eb | 33.7 |
@@ -230,23 +230,23 @@ Last updated: `April 12, 2026 at 01:38:29 PM ET`
 | 3 | Decode_speed | evaluated | 3ff088 | 46.9 |
 | 4 | chyyy | evaluated | 34cc06 | 47.6 |
 | 5 | Rithvik | evaluated | 2924a0 | 48.0 |
-| 6 | gm | evaluated | 2898fc | 48.5 |
-| 7 | zionrangers | evaluated | 7758e0 | 48.7 |
-| 8 | nickname55555555 | evaluated | 46e31e | 49.4 |
-| 9 | ss4478 | evaluated | c35426 | 49.4 |
-| 10 | prousoglou | evaluated | 13e8de | 49.6 |
-| 11 | chickfila | evaluated | f0956d | 49.6 |
-| 12 | ashaikh23 | evaluated | 84a425 | 50.2 |
-| 13 | zhumengzhiren | evaluated | cf2924 | 50.2 |
-| 14 | ngoguen | evaluated | f69acc | 50.4 |
-| 15 | abarat007 | evaluated | d7f626 | 51.5 |
-| 16 | PurplePickle67 | evaluated | 68d34e | 52.1 |
-| 17 | Yize | evaluated | c8c9f7 | 53.1 |
-| 18 | pyjuan91 | evaluated | fe8f27 | 53.3 |
-| 19 | sjb | evaluated | 373553 | 53.6 |
-| 20 | landrum | evaluated | 61ab81 | 53.7 |
-| 21 | stefan | evaluated | 9e3945 | 54.5 |
-| 22 | Shengwei | evaluated | 20b468 | 55.5 |
+| 6 | Shengwei | evaluated | af8da2 | 48.2 |
+| 7 | gm | evaluated | 2898fc | 48.5 |
+| 8 | zionrangers | evaluated | 7758e0 | 48.7 |
+| 9 | nickname55555555 | evaluated | 46e31e | 49.4 |
+| 10 | ss4478 | evaluated | c35426 | 49.4 |
+| 11 | prousoglou | evaluated | 13e8de | 49.6 |
+| 12 | chickfila | evaluated | f0956d | 49.6 |
+| 13 | ashaikh23 | evaluated | 84a425 | 50.2 |
+| 14 | zhumengzhiren | evaluated | cf2924 | 50.2 |
+| 15 | ngoguen | evaluated | f69acc | 50.4 |
+| 16 | abarat007 | evaluated | d7f626 | 51.5 |
+| 17 | PurplePickle67 | evaluated | 68d34e | 52.1 |
+| 18 | Yize | evaluated | c8c9f7 | 53.1 |
+| 19 | pyjuan91 | evaluated | fe8f27 | 53.3 |
+| 20 | sjb | evaluated | 373553 | 53.6 |
+| 21 | landrum | evaluated | 61ab81 | 53.7 |
+| 22 | stefan | evaluated | 9e3945 | 54.5 |
 | 23 | gravlax | evaluated | b1229d | 59.7 |
 | 24 | bl792 | evaluated | 09cd73 | 59.9 |
 | 25 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 59.9 |
