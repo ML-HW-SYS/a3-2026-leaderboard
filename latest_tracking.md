@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 01:29:46 PM ET`
+Last updated: `April 12, 2026 at 01:38:29 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 01:30 PM ET | TheProphet | evaluated |  | submission.py | 6927ae | 73.3/2.9/76.2 | 470.9 | 332.7 | 24.3 | 46.3 |
 | Apr 12 01:20 PM ET | tif03 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 489fa6 | 15.1/9.5/24.6 | 170.3 | 119.1 | 309.2 | 247.1 |
 | Apr 12 01:11 PM ET | tif03 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | a8498d | 15.0/9.5/24.5 | 170.9 | 118.9 | 309.7 | 247.3 |
 | Apr 12 01:11 PM ET | Decode_speed | evaluated |  | submission.py | 3ff088 | 23.3/3.1/26.4 | 531.5 | 275.1 | 26.0 | 46.9 |

@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 01:29:46 PM ET`
+Last updated: `April 12, 2026 at 01:38:29 PM ET`
 
 ## R1 (tok/s)
 
@@ -66,7 +66,7 @@ Last updated: `April 12, 2026 at 01:29:46 PM ET`
 | 58 | fishyfins | evaluated | 7ae866 | 503.1 |
 | 59 | Rithvik | evaluated | 2924a0 | 495.8 |
 | 60 | tuo | evaluated | 3d6d40 | 494.8 |
-| 61 | TheProphet | evaluated | 91631a | 466.7 |
+| 61 | TheProphet | evaluated | 6927ae | 470.9 |
 | 62 | co-smith | evaluated | dcfadf | 167.2 |
 | 63 | poppyPotatoe | evaluated | eea264 | 144.2 |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -98,7 +98,7 @@ Last updated: `April 12, 2026 at 01:29:46 PM ET`
 | 17 | sjb | evaluated | 373553 | 346.4 |
 | 18 | JasonWang07 | evaluated | a4b405 | 342.2 |
 | 19 | Rithvik | evaluated | 2924a0 | 335.8 |
-| 20 | TheProphet | evaluated | 91631a | 330.8 |
+| 20 | TheProphet | evaluated | 6927ae | 332.7 |
 | 21 | leoli | evaluated | 5cdac4 | 327.5 |
 | 22 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
 | 23 | abhik | evaluated | 0b4b08 | 319.2 |
@@ -153,7 +153,7 @@ Last updated: `April 12, 2026 at 01:29:46 PM ET`
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 21.8 |
-| 2 | TheProphet | evaluated | 91631a | 24.3 |
+| 2 | TheProphet | evaluated | 6927ae | 24.3 |
 | 3 | chyyy | evaluated | 34cc06 | 24.8 |
 | 4 | Decode_speed | evaluated | 3ff088 | 26.0 |
 | 5 | ngoguen | evaluated | f69acc | 26.3 |
@@ -226,7 +226,7 @@ Last updated: `April 12, 2026 at 01:29:46 PM ET`
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 44.5 |
-| 2 | TheProphet | evaluated | 91631a | 46.2 |
+| 2 | TheProphet | evaluated | 6927ae | 46.3 |
 | 3 | Decode_speed | evaluated | 3ff088 | 46.9 |
 | 4 | chyyy | evaluated | 34cc06 | 47.6 |
 | 5 | Rithvik | evaluated | 2924a0 | 48.0 |
