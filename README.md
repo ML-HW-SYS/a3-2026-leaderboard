@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 12, 2026 at 04:07:19 PM ET`
+Last updated: `April 12, 2026 at 04:16:49 PM ET`
 
 ## Pages
 
@@ -79,7 +79,7 @@ Last updated: `April 12, 2026 at 04:07:19 PM ET`
 |  | siddarak | failed | d85766 | 21.8/9.2/31.0 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | TheProphet | failed | 72c47e | 54.1/2.8/56.9 |  |  |  |  |  |
-|  | tif03 | failed | d77ad7 | 0.0/0.0/0.0 |  |  |  |  |  |
+|  | tif03 | failed | ed4e55 | 0.0/0.0/0.0 |  |  |  |  |  |
 
 ## Column Guide
 
