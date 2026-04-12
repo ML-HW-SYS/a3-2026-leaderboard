@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 11, 2026 at 08:16:58 PM ET`
+Last updated: `April 11, 2026 at 08:24:50 PM ET`
 
 ## R1 (tok/s)
 
@@ -42,9 +42,9 @@ Last updated: `April 11, 2026 at 08:16:58 PM ET`
 | 34 | mdavalos10 | evaluated | 6e0754 | 533.3 |
 | 35 | gravlax | evaluated | b1229d | 532.3 |
 | 36 | pallavi-srinivas | evaluated | d645d5 | 529.9 |
-| 37 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
-| 38 | Junyi Li | evaluated | c7a1b3 | 527.3 |
-| 39 | Decode_speed | evaluated | d2bbad | 526.8 |
+| 37 | Decode_speed | evaluated | 024f12 | 528.0 |
+| 38 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
+| 39 | Junyi Li | evaluated | c7a1b3 | 527.3 |
 | 40 | castillo | evaluated | 0e93de | 526.6 |
 | 41 | yb | evaluated | ea23ab | 525.9 |
 | 42 | bl792 | evaluated | 09cd73 | 524.7 |
@@ -127,7 +127,7 @@ Last updated: `April 11, 2026 at 08:16:58 PM ET`
 | 49 | castillo | evaluated | 0e93de | 169.0 |
 | 50 | jbc | evaluated | 12bb20 | 169.0 |
 | 51 | act | evaluated | 899777 | 169.0 |
-| 52 | Decode_speed | evaluated | d2bbad | 168.8 |
+| 52 | Decode_speed | evaluated | 024f12 | 168.8 |
 | 53 | yb | evaluated | ea23ab | 168.8 |
 | 54 | mdavalos10 | evaluated | 6e0754 | 159.3 |
 | 55 | nicknam534534 | evaluated | 83a901 | 148.4 |
@@ -194,8 +194,8 @@ Last updated: `April 11, 2026 at 08:16:58 PM ET`
 | 46 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 47 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
 | 48 | brandon_lorenzo | evaluated | 67c79e | 309.2 |
-| 49 | Decode_speed | evaluated | d2bbad | 310.3 |
-| 50 | yoursun1220 | evaluated | d8b590 | 310.7 |
+| 49 | yoursun1220 | evaluated | d8b590 | 310.7 |
+| 50 | Decode_speed | evaluated | 024f12 | 310.9 |
 | 51 | act | evaluated | 899777 | 310.9 |
 | 52 | jbc | evaluated | 12bb20 | 311.3 |
 | 53 | mdavalos10 | evaluated | 6e0754 | 311.3 |
@@ -263,7 +263,7 @@ Last updated: `April 11, 2026 at 08:16:58 PM ET`
 | 45 | hw_bloss | evaluated | 4c9666 | 239.1 |
 | 46 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
 | 47 | your_nickname_here | evaluated | f10b9b | 246.4 |
-| 48 | Decode_speed | evaluated | d2bbad | 248.6 |
+| 48 | Decode_speed | evaluated | 024f12 | 248.9 |
 | 49 | brandon_lorenzo | evaluated | 67c79e | 249.6 |
 | 50 | yoursun1220 | evaluated | d8b590 | 250.1 |
 | 51 | castillo | evaluated | 0e93de | 250.4 |
