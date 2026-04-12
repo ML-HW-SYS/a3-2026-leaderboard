@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 03:38:26 PM ET`
+Last updated: `April 12, 2026 at 03:47:56 PM ET`
 
 ## R1 (tok/s)
 
@@ -9,14 +9,14 @@ Last updated: `April 12, 2026 at 03:38:26 PM ET`
 | 1 | - - | evaluated | adc0f3 | 591.4 |
 | 2 | omermoav | evaluated | b01c0e | 569.6 |
 | 3 | jl | evaluated | 8b6423 | 569.1 |
-| 4 | zhumengzhiren | evaluated | cf2924 | 566.6 |
-| 5 | zionrangers | evaluated | 7758e0 | 565.7 |
-| 6 | beratcelik | evaluated | 863a89 | 564.3 |
-| 7 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 560.4 |
-| 8 | abarat007 | evaluated | d7f626 | 559.5 |
-| 9 | your_nickname_here | evaluated | f10b9b | 557.8 |
-| 10 | blabrl | evaluated | ca60eb | 557.4 |
-| 11 | nickname55555555 | evaluated | c178df | 556.9 |
+| 4 | nickname55555555 | evaluated | 968757 | 568.1 |
+| 5 | zhumengzhiren | evaluated | cf2924 | 566.6 |
+| 6 | zionrangers | evaluated | 7758e0 | 565.7 |
+| 7 | beratcelik | evaluated | 863a89 | 564.3 |
+| 8 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 560.4 |
+| 9 | abarat007 | evaluated | d7f626 | 559.5 |
+| 10 | your_nickname_here | evaluated | f10b9b | 557.8 |
+| 11 | blabrl | evaluated | ca60eb | 557.4 |
 | 12 | TA | evaluated | a6e863 | 556.6 |
 | 13 | chyyy | evaluated | 34cc06 | 555.7 |
 | 14 | ashaikh23 | evaluated | 84a425 | 555.4 |
@@ -73,7 +73,7 @@ Last updated: `April 12, 2026 at 03:38:26 PM ET`
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 8370d2 |  |
-|  | tif03 | failed | 489fa6 |  |
+|  | tif03 | failed | 80f16f |  |
 
 ## R2 (tok/s)
 
@@ -93,8 +93,8 @@ Last updated: `April 12, 2026 at 03:38:26 PM ET`
 | 12 | pyjuan91 | evaluated | fe8f27 | 363.6 |
 | 13 | Shengwei | evaluated | 327428 | 360.4 |
 | 14 | gm | evaluated | 2898fc | 357.0 |
-| 15 | ishan-pat | evaluated | 99aac6 | 352.8 |
-| 16 | nickname55555555 | evaluated | c178df | 348.1 |
+| 15 | nickname55555555 | evaluated | 968757 | 354.1 |
+| 16 | ishan-pat | evaluated | 99aac6 | 352.8 |
 | 17 | sjb | evaluated | 373553 | 346.4 |
 | 18 | JasonWang07 | evaluated | a4b405 | 342.2 |
 | 19 | Rithvik | evaluated | 2924a0 | 335.8 |
@@ -146,7 +146,7 @@ Last updated: `April 12, 2026 at 03:38:26 PM ET`
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 8370d2 |  |
-|  | tif03 | failed | 489fa6 |  |
+|  | tif03 | failed | 80f16f |  |
 
 ## R3 (ms)
 
@@ -161,14 +161,14 @@ Last updated: `April 12, 2026 at 03:38:26 PM ET`
 | 7 | prousoglou | evaluated | 13e8de | 27.1 |
 | 8 | Rithvik | evaluated | 2924a0 | 27.1 |
 | 9 | zionrangers | evaluated | 7758e0 | 27.3 |
-| 10 | ss4478 | evaluated | c35426 | 27.6 |
-| 11 | zhumengzhiren | evaluated | cf2924 | 28.0 |
-| 12 | abarat007 | evaluated | d7f626 | 28.1 |
-| 13 | pyjuan91 | evaluated | fe8f27 | 28.8 |
-| 14 | ashaikh23 | evaluated | 84a425 | 29.1 |
-| 15 | stefan | evaluated | 9e3945 | 29.8 |
-| 16 | landrum | evaluated | 61ab81 | 29.9 |
-| 17 | nickname55555555 | evaluated | c178df | 31.4 |
+| 10 | nickname55555555 | evaluated | 968757 | 27.6 |
+| 11 | ss4478 | evaluated | c35426 | 27.6 |
+| 12 | zhumengzhiren | evaluated | cf2924 | 28.0 |
+| 13 | abarat007 | evaluated | d7f626 | 28.1 |
+| 14 | pyjuan91 | evaluated | fe8f27 | 28.8 |
+| 15 | ashaikh23 | evaluated | 84a425 | 29.1 |
+| 16 | stefan | evaluated | 9e3945 | 29.8 |
+| 17 | landrum | evaluated | 61ab81 | 29.9 |
 | 18 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
 | 19 | bl792 | evaluated | 09cd73 | 32.4 |
 | 20 | blabrl | evaluated | ca60eb | 33.7 |
@@ -219,7 +219,7 @@ Last updated: `April 12, 2026 at 03:38:26 PM ET`
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 8370d2 |  |
-|  | tif03 | failed | 489fa6 |  |
+|  | tif03 | failed | 80f16f |  |
 
 ## R4 (ms)
 
@@ -232,8 +232,8 @@ Last updated: `April 12, 2026 at 03:38:26 PM ET`
 | 5 | Rithvik | evaluated | 2924a0 | 48.0 |
 | 6 | gm | evaluated | 2898fc | 48.5 |
 | 7 | zionrangers | evaluated | 7758e0 | 48.7 |
-| 8 | nickname55555555 | evaluated | c178df | 49.3 |
-| 9 | ss4478 | evaluated | c35426 | 49.4 |
+| 8 | ss4478 | evaluated | c35426 | 49.4 |
+| 9 | nickname55555555 | evaluated | 968757 | 49.5 |
 | 10 | prousoglou | evaluated | 13e8de | 49.6 |
 | 11 | chickfila | evaluated | f0956d | 49.6 |
 | 12 | ashaikh23 | evaluated | 84a425 | 50.2 |
@@ -292,4 +292,4 @@ Last updated: `April 12, 2026 at 03:38:26 PM ET`
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | 8370d2 |  |
-|  | tif03 | failed | 489fa6 |  |
+|  | tif03 | failed | 80f16f |  |
