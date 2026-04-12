@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 04:46:22 PM ET`
+Last updated: `April 12, 2026 at 04:54:22 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 04:52 PM ET | tif03 | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 72:16: kv_block = t0 // BLOCK_SIZE causal_block = kv_block <= q_bloc... | submission.py | c2821d | 15.5/0.0/15.5 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 12 04:50 PM ET | happyface | failed_correctness | R1: SETUP: ERR: TypeError: DecoderLayer.forward() got an unexpected keyword argument 'block_mask' \| R2: SETUP: ERR: T... | develop.py | d70fdd | 13.6/0.0/13.6 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 12 04:44 PM ET | happyface | failed_correctness | R1: SETUP: ERR: TypeError: AssignmentTransformerModel._forward_with_mask() got an unexpected keyword argument 'block_... | develop.py | 41cdaf | 13.6/0.0/13.6 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 12 04:34 PM ET | tif03 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | c7c887 | 19.7/6.2/25.9 | 523.0 | 169.8 | 308.0 | 246.3 |
 | Apr 12 04:33 PM ET | TheProphet | failed_correctness | R3: SETUP: ERR: AcceleratorError: CUDA error: an illegal memory access was encountered Search for `cudaErrorIllegalAd... | submission.py | d2670a | 75.7/2.4/78.1 | 572.7 | 343.5 | 0.0 | 0.0 |

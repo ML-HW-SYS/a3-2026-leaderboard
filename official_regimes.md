@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 04:46:22 PM ET`
+Last updated: `April 12, 2026 at 04:54:22 PM ET`
 
 ## R1 (tok/s)
 
@@ -73,7 +73,7 @@ Last updated: `April 12, 2026 at 04:46:22 PM ET`
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | d2670a |  |
-|  | tif03 | failed | c7c887 |  |
+|  | tif03 | failed | c2821d |  |
 
 ## R2 (tok/s)
 
@@ -146,7 +146,7 @@ Last updated: `April 12, 2026 at 04:46:22 PM ET`
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | d2670a |  |
-|  | tif03 | failed | c7c887 |  |
+|  | tif03 | failed | c2821d |  |
 
 ## R3 (ms)
 
@@ -219,7 +219,7 @@ Last updated: `April 12, 2026 at 04:46:22 PM ET`
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | d2670a |  |
-|  | tif03 | failed | c7c887 |  |
+|  | tif03 | failed | c2821d |  |
 
 ## R4 (ms)
 
@@ -292,4 +292,4 @@ Last updated: `April 12, 2026 at 04:46:22 PM ET`
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
 |  | TheProphet | failed | d2670a |  |
-|  | tif03 | failed | c7c887 |  |
+|  | tif03 | failed | c2821d |  |
