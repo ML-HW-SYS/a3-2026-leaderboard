@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 11, 2026 at 07:59:48 PM ET`
+Last updated: `April 11, 2026 at 08:09:07 PM ET`
 
 ## R1 (tok/s)
 
@@ -41,10 +41,10 @@ Last updated: `April 11, 2026 at 07:59:48 PM ET`
 | 33 | Yize | evaluated | c8c9f7 | 534.4 |
 | 34 | mdavalos10 | evaluated | 6e0754 | 533.3 |
 | 35 | gravlax | evaluated | b1229d | 532.3 |
-| 36 | pallavi-srinivas | evaluated | d645d5 | 529.9 |
-| 37 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
-| 38 | Junyi Li | evaluated | c7a1b3 | 527.3 |
-| 39 | Decode_speed | evaluated | 5a8bf3 | 527.1 |
+| 36 | Decode_speed | evaluated | 46dbb9 | 532.0 |
+| 37 | pallavi-srinivas | evaluated | d645d5 | 529.9 |
+| 38 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
+| 39 | Junyi Li | evaluated | c7a1b3 | 527.3 |
 | 40 | castillo | evaluated | 0e93de | 526.6 |
 | 41 | yb | evaluated | ea23ab | 525.9 |
 | 42 | bl792 | evaluated | 09cd73 | 524.7 |
@@ -130,7 +130,7 @@ Last updated: `April 11, 2026 at 07:59:48 PM ET`
 | 52 | yb | evaluated | ea23ab | 168.8 |
 | 53 | mdavalos10 | evaluated | 6e0754 | 159.3 |
 | 54 | nicknam534534 | evaluated | 83a901 | 148.4 |
-| 55 | Decode_speed | evaluated | 5a8bf3 | 130.1 |
+| 55 | Decode_speed | evaluated | 46dbb9 | 143.9 |
 | 56 | abhik | evaluated | bf55dc | 127.8 |
 | 57 | co-smith | evaluated | dcfadf | 112.4 |
 | 58 | poppyPotatoe | evaluated | eea264 | 109.8 |
@@ -203,7 +203,7 @@ Last updated: `April 11, 2026 at 07:59:48 PM ET`
 | 55 | yb | evaluated | ea23ab | 312.3 |
 | 56 | co-smith | evaluated | dcfadf | 323.6 |
 | 57 | nicknam534534 | evaluated | 83a901 | 405.3 |
-| 58 | Decode_speed | evaluated | 5a8bf3 | 523.9 |
+| 58 | Decode_speed | evaluated | 46dbb9 | 474.1 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
@@ -273,7 +273,7 @@ Last updated: `April 11, 2026 at 07:59:48 PM ET`
 | 55 | poppyPotatoe | evaluated | eea264 | 251.9 |
 | 56 | co-smith | evaluated | dcfadf | 257.4 |
 | 57 | nicknam534534 | evaluated | 83a901 | 268.7 |
-| 58 | Decode_speed | evaluated | 5a8bf3 | 355.9 |
+| 58 | Decode_speed | evaluated | 46dbb9 | 331.0 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |

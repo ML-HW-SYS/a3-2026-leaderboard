@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 11, 2026 at 07:59:48 PM ET`
+Last updated: `April 11, 2026 at 08:09:07 PM ET`
 
 ## R1 (tok/s)
 
@@ -46,7 +46,7 @@ Last updated: `April 11, 2026 at 07:59:48 PM ET`
 | 38 | chickfila | submission.py | 29860a | 534.6 |
 | 39 | Yize | submission.py | c8c9f7 | 534.4 |
 | 40 | kade_lin_is_here | submission.py | 41a1de | 533.8 |
-| 41 | Decode_speed | submission.py | 3cbb03 | 530.4 |
+| 41 | Decode_speed | submission.py | 46dbb9 | 532.0 |
 | 42 | Junyi Li | submission.py | 2e381b | 529.4 |
 | 43 | bl792 | submission.py | 3b3a8a | 528.5 |
 | 44 | dylanjhnsondj | develop.py | 55a3fd | 528.5 |
@@ -173,7 +173,7 @@ Last updated: `April 11, 2026 at 07:59:48 PM ET`
 | 35 | ethanchen | submission.py | bf6f9e | 74.0 |
 | 36 | TA | submission.py | 324cb8 | 83.2 |
 | 37 | kade_lin_is_here | submission.py | 0d2dc7 | 94.2 |
-| 38 | 13rabbit | develop.py | b38df9 | 100.0 |
+| 38 | 13rabbit | develop.py | 1dde1f | 97.1 |
 | 39 | jl | submission.py | e6ce85 | 101.9 |
 | 40 | pallavi-srinivas | submission.py | 72c655 | 104.2 |
 | 41 | lipphi | develop.py | d58cae | 104.4 |
