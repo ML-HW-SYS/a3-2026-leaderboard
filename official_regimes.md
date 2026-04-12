@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 11, 2026 at 11:48:38 PM ET`
+Last updated: `April 11, 2026 at 11:58:25 PM ET`
 
 ## R1 (tok/s)
 
@@ -30,36 +30,36 @@ Last updated: `April 11, 2026 at 11:48:38 PM ET`
 | 22 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
 | 23 | ngoguen | evaluated | f69acc | 538.9 |
 | 24 | Shengwei | evaluated | 20b468 | 537.5 |
-| 25 | stefan | evaluated | 07c9f0 | 535.8 |
-| 26 | landrum | evaluated | 61ab81 | 535.7 |
-| 27 | sjb | evaluated | 373553 | 535.3 |
-| 28 | ss4478 | evaluated | 9c8cb8 | 535.2 |
-| 29 | lipphi | evaluated | a3a71b | 534.8 |
-| 30 | chickfila | evaluated | f0956d | 534.5 |
-| 31 | Licha | evaluated | 9666cd | 534.4 |
-| 32 | Yize | evaluated | c8c9f7 | 534.4 |
-| 33 | mdavalos10 | evaluated | 6e0754 | 533.3 |
-| 34 | gravlax | evaluated | b1229d | 532.3 |
-| 35 | Decode_speed | evaluated | 76cc2d | 530.5 |
-| 36 | pallavi-srinivas | evaluated | d645d5 | 529.9 |
-| 37 | 13rabbit | evaluated | 49d27b | 529.4 |
-| 38 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
-| 39 | Junyi Li | evaluated | c7a1b3 | 527.3 |
-| 40 | castillo | evaluated | 0e93de | 526.6 |
-| 41 | yb | evaluated | ea23ab | 525.9 |
-| 42 | axel4 | evaluated | 7f216f | 524.8 |
+| 25 | ishan-pat | evaluated | 8ae9ea | 536.8 |
+| 26 | stefan | evaluated | 07c9f0 | 535.8 |
+| 27 | landrum | evaluated | 61ab81 | 535.7 |
+| 28 | sjb | evaluated | 373553 | 535.3 |
+| 29 | ss4478 | evaluated | 9c8cb8 | 535.2 |
+| 30 | lipphi | evaluated | a3a71b | 534.8 |
+| 31 | chickfila | evaluated | f0956d | 534.5 |
+| 32 | Licha | evaluated | 9666cd | 534.4 |
+| 33 | Yize | evaluated | c8c9f7 | 534.4 |
+| 34 | mdavalos10 | evaluated | 6e0754 | 533.3 |
+| 35 | gravlax | evaluated | b1229d | 532.3 |
+| 36 | Decode_speed | evaluated | 76cc2d | 530.5 |
+| 37 | pallavi-srinivas | evaluated | d645d5 | 529.9 |
+| 38 | 13rabbit | evaluated | 49d27b | 529.4 |
+| 39 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
+| 40 | Junyi Li | evaluated | c7a1b3 | 527.3 |
+| 41 | castillo | evaluated | 0e93de | 526.6 |
+| 42 | yb | evaluated | ea23ab | 525.9 |
 | 43 | bl792 | evaluated | 09cd73 | 524.7 |
 | 44 | nicknam534534 | evaluated | 83a901 | 524.7 |
 | 45 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
 | 46 | act | evaluated | 899777 | 523.9 |
 | 47 | ethanchen | evaluated | ea518d | 523.7 |
-| 48 | ishan-pat | evaluated | f4d84a | 523.4 |
-| 49 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 50 | fishyfins | evaluated | 6c0e20 | 522.0 |
-| 51 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 52 | PurplePickle67 | evaluated | 68d34e | 520.5 |
-| 53 | jbc | evaluated | 12bb20 | 520.4 |
-| 54 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 48 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 49 | fishyfins | evaluated | 6c0e20 | 522.0 |
+| 50 | yoursun1220 | evaluated | d8b590 | 521.8 |
+| 51 | PurplePickle67 | evaluated | 68d34e | 520.5 |
+| 52 | jbc | evaluated | 12bb20 | 520.4 |
+| 53 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 54 | axel4 | evaluated | 5a3cae | 511.3 |
 | 55 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
 | 56 | abhik | evaluated | 2d4dc7 | 499.7 |
 | 57 | Rithvik | evaluated | 2924a0 | 495.8 |
@@ -110,9 +110,9 @@ Last updated: `April 11, 2026 at 11:48:38 PM ET`
 | 30 | gravlax | evaluated | b1229d | 272.5 |
 | 31 | Yize | evaluated | c8c9f7 | 269.9 |
 | 32 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
-| 33 | happyface | evaluated | 7e8b61 | 258.2 |
-| 34 | Decode_speed | evaluated | 76cc2d | 257.9 |
-| 35 | ishan-pat | evaluated | f4d84a | 256.7 |
+| 33 | ishan-pat | evaluated | 8ae9ea | 259.3 |
+| 34 | happyface | evaluated | 7e8b61 | 258.2 |
+| 35 | Decode_speed | evaluated | 76cc2d | 257.9 |
 | 36 | ethanchen | evaluated | ea518d | 251.2 |
 | 37 | bl792 | evaluated | 09cd73 | 238.8 |
 | 38 | Licha | evaluated | 9666cd | 238.1 |
@@ -125,16 +125,16 @@ Last updated: `April 11, 2026 at 11:48:38 PM ET`
 | 45 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 46 | stefan | evaluated | 07c9f0 | 170.2 |
 | 47 | brandon_lorenzo | evaluated | 67c79e | 169.8 |
-| 48 | axel4 | evaluated | 7f216f | 169.7 |
-| 49 | Junyi Li | evaluated | c7a1b3 | 169.7 |
-| 50 | dylanjhnsondj | evaluated | c4e1ab | 169.6 |
-| 51 | fishyfins | evaluated | 6c0e20 | 169.5 |
-| 52 | yoursun1220 | evaluated | d8b590 | 169.2 |
-| 53 | hw_bloss | evaluated | 4c9666 | 169.1 |
-| 54 | castillo | evaluated | 0e93de | 169.0 |
-| 55 | jbc | evaluated | 12bb20 | 169.0 |
-| 56 | act | evaluated | 899777 | 169.0 |
-| 57 | yb | evaluated | ea23ab | 168.8 |
+| 48 | Junyi Li | evaluated | c7a1b3 | 169.7 |
+| 49 | dylanjhnsondj | evaluated | c4e1ab | 169.6 |
+| 50 | fishyfins | evaluated | 6c0e20 | 169.5 |
+| 51 | yoursun1220 | evaluated | d8b590 | 169.2 |
+| 52 | hw_bloss | evaluated | 4c9666 | 169.1 |
+| 53 | castillo | evaluated | 0e93de | 169.0 |
+| 54 | jbc | evaluated | 12bb20 | 169.0 |
+| 55 | act | evaluated | 899777 | 169.0 |
+| 56 | yb | evaluated | ea23ab | 168.8 |
+| 57 | axel4 | evaluated | 5a3cae | 168.3 |
 | 58 | mdavalos10 | evaluated | 6e0754 | 159.3 |
 | 59 | nicknam534534 | evaluated | 83a901 | 148.4 |
 | 60 | co-smith | evaluated | dcfadf | 112.4 |
@@ -176,8 +176,8 @@ Last updated: `April 11, 2026 at 11:48:38 PM ET`
 | 24 | Yize | evaluated | c8c9f7 | 39.4 |
 | 25 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
 | 26 | sjb | evaluated | 373553 | 50.8 |
-| 27 | Junyi Li | evaluated | c7a1b3 | 60.9 |
-| 28 | ishan-pat | evaluated | f4d84a | 61.3 |
+| 27 | ishan-pat | evaluated | 8ae9ea | 57.5 |
+| 28 | Junyi Li | evaluated | c7a1b3 | 60.9 |
 | 29 | Licha | evaluated | 9666cd | 61.8 |
 | 30 | happyface | evaluated | 7e8b61 | 63.7 |
 | 31 | Decode_speed | evaluated | 76cc2d | 64.0 |
@@ -199,8 +199,8 @@ Last updated: `April 11, 2026 at 11:48:38 PM ET`
 | 47 | hw_bloss | evaluated | 4c9666 | 308.1 |
 | 48 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 49 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
-| 50 | brandon_lorenzo | evaluated | 67c79e | 309.2 |
-| 51 | axel4 | evaluated | 7f216f | 309.6 |
+| 50 | axel4 | evaluated | 5a3cae | 309.1 |
+| 51 | brandon_lorenzo | evaluated | 67c79e | 309.2 |
 | 52 | ss4478 | evaluated | 9c8cb8 | 309.8 |
 | 53 | yoursun1220 | evaluated | d8b590 | 310.7 |
 | 54 | act | evaluated | 899777 | 310.9 |
@@ -253,10 +253,10 @@ Last updated: `April 11, 2026 at 11:48:38 PM ET`
 | 29 | JasonWang07 | evaluated | a4b405 | 88.9 |
 | 30 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
 | 31 | alifim | evaluated | 701077 | 109.2 |
-| 32 | Junyi Li | evaluated | c7a1b3 | 113.1 |
-| 33 | beratcelik | evaluated | 863a89 | 113.8 |
-| 34 | Licha | evaluated | 9666cd | 115.6 |
-| 35 | ishan-pat | evaluated | f4d84a | 118.0 |
+| 32 | ishan-pat | evaluated | 8ae9ea | 109.8 |
+| 33 | Junyi Li | evaluated | c7a1b3 | 113.1 |
+| 34 | beratcelik | evaluated | 863a89 | 113.8 |
+| 35 | Licha | evaluated | 9666cd | 115.6 |
 | 36 | abhik | evaluated | 2d4dc7 | 123.4 |
 | 37 | ethanchen | evaluated | ea518d | 123.6 |
 | 38 | Decode_speed | evaluated | 76cc2d | 125.5 |
@@ -271,7 +271,7 @@ Last updated: `April 11, 2026 at 11:48:38 PM ET`
 | 47 | hw_bloss | evaluated | 4c9666 | 239.1 |
 | 48 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
 | 49 | your_nickname_here | evaluated | f10b9b | 246.4 |
-| 50 | axel4 | evaluated | 7f216f | 249.1 |
+| 50 | axel4 | evaluated | 5a3cae | 249.5 |
 | 51 | brandon_lorenzo | evaluated | 67c79e | 249.6 |
 | 52 | ss4478 | evaluated | 9c8cb8 | 249.6 |
 | 53 | yoursun1220 | evaluated | d8b590 | 250.1 |

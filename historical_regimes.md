@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 11, 2026 at 11:48:38 PM ET`
+Last updated: `April 11, 2026 at 11:58:25 PM ET`
 
 ## R1 (tok/s)
 
@@ -192,11 +192,11 @@ Last updated: `April 11, 2026 at 11:48:38 PM ET`
 | 50 | your_nickname_here | submission.py | 59e245 | 307.4 |
 | 51 | yoursun1220 | submission.py | 27e400 | 308.6 |
 | 52 | Sulaiman Alam | submission.py | c7ede2 | 308.7 |
-| 53 | brandon_lorenzo | submission.py | 67c79e | 309.2 |
-| 54 | yb | submission.py | 2aa1a9 | 309.3 |
-| 55 | jbc | develop.py | 4e7308 | 309.3 |
-| 56 | poppyPotatoe | submission.py | 311dc9 | 309.5 |
-| 57 | axel4 | submission.py | 7f216f | 309.6 |
+| 53 | axel4 | submission.py | 5a3cae | 309.1 |
+| 54 | brandon_lorenzo | submission.py | 67c79e | 309.2 |
+| 55 | yb | submission.py | 2aa1a9 | 309.3 |
+| 56 | jbc | develop.py | 4e7308 | 309.3 |
+| 57 | poppyPotatoe | submission.py | 311dc9 | 309.5 |
 | 58 | ss4478 | submission.py | 9c8cb8 | 309.8 |
 | 59 | mdavalos10 | develop.py | 6e0754 | 310.8 |
 | 60 | castillo | develop.py | 0e93de | 310.9 |
