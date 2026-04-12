@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 04:54:22 PM ET`
+Last updated: `April 12, 2026 at 05:02:40 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 04:59 PM ET | tif03 | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 72:16: kv_block = t0 // BLOCK_SIZE causal_block = kv_block <= q_bloc... | submission.py | 3ffa5b | 15.5/0.0/15.5 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 12 04:57 PM ET | nickname55555555 | failed_correctness | R2: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | submission.py | 5aef32 | 29.1/1.2/30.3 | 566.4 | 0.0 | 27.8 | 49.3 |
 | Apr 12 04:52 PM ET | tif03 | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 72:16: kv_block = t0 // BLOCK_SIZE causal_block = kv_block <= q_bloc... | submission.py | c2821d | 15.5/0.0/15.5 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 12 04:50 PM ET | happyface | failed_correctness | R1: SETUP: ERR: TypeError: DecoderLayer.forward() got an unexpected keyword argument 'block_mask' \| R2: SETUP: ERR: T... | develop.py | d70fdd | 13.6/0.0/13.6 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 12 04:44 PM ET | happyface | failed_correctness | R1: SETUP: ERR: TypeError: AssignmentTransformerModel._forward_with_mask() got an unexpected keyword argument 'block_... | develop.py | 41cdaf | 13.6/0.0/13.6 | 0.0 | 0.0 | 0.0 | 0.0 |
