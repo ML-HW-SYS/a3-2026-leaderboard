@@ -1,12 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 11, 2026 at 09:17:56 PM ET`
+Last updated: `April 11, 2026 at 09:25:50 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Apr 11 09:14 PM ET | tif03 | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | develop.py | a0a1ec | 39.6/4.0/43.6 | 523.1 | 169.9 | 0.0 | 0.0 |
 | Apr 11 09:03 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.75%) \| max_abs_diff=12.18 | submission.py | eb9aab | 29.2/2.5/31.7 | 557.5 | 383.1 | 24.1 | 46.5 |
 | Apr 11 09:02 PM ET | Decode_speed | evaluated |  | submission.py | 8cc9d9 | 40.2/8.5/48.6 | 520.8 | 129.0 | 523.6 | 357.0 |
+| Apr 11 09:02 PM ET | Decode_speed | evaluated |  | develop.py | 8cc9d9 | 20.4/8.5/28.9 | 525.6 | 129.1 | 523.7 | 356.1 |
 | Apr 11 08:56 PM ET | Decode_speed | evaluated |  | submission.py | 236fa2 | 77.7/8.4/86.1 | 533.3 | 129.8 | 520.5 | 343.8 |
 | Apr 11 08:50 PM ET | Decode_speed | evaluated |  | submission.py | f3dbdb | 37.9/6.2/44.2 | 523.9 | 169.0 | 310.5 | 249.5 |
 | Apr 11 08:45 PM ET | Decode_speed | evaluated |  | submission.py | 10212e | 19.9/6.2/26.1 | 526.8 | 168.9 | 309.9 | 248.9 |
