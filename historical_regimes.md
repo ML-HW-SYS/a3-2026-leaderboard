@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 12, 2026 at 02:58:03 AM ET`
+Last updated: `April 12, 2026 at 03:06:23 AM ET`
 
 ## R1 (tok/s)
 
@@ -97,7 +97,7 @@ Last updated: `April 12, 2026 at 02:58:03 AM ET`
 | 21 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 326.5 |
 | 22 | abhik | develop.py | 0b4b08 | 319.4 |
 | 23 | vallabkaranam | develop.py | b27b18 | 318.8 |
-| 24 | ss4478 | develop.py | ece454 | 313.8 |
+| 24 | ss4478 | develop.py | 93d739 | 314.6 |
 | 25 | jl | submission.py | e6ce85 | 313.1 |
 | 26 | pallavi-srinivas | submission.py | 26a6d9 | 307.4 |
 | 27 | lipphi | submission.py | a3a71b | 306.7 |
@@ -145,13 +145,13 @@ Last updated: `April 12, 2026 at 02:58:03 AM ET`
 | 1 | - - | submission.py | adc0f3 | 21.8 |
 | 2 | TheProphet | develop.py | cc54b3 | 24.0 |
 | 3 | chyyy | submission.py | 34cc06 | 24.8 |
-| 4 | ngoguen | submission.py | ecab75 | 26.3 |
-| 5 | Shengwei | submission.py | 67896e | 26.7 |
-| 6 | gm | submission.py | 2898fc | 26.8 |
-| 7 | Rithvik | submission.py | 8e6767 | 26.9 |
-| 8 | omermoav | submission.py | dc63b9 | 26.9 |
-| 9 | prousoglou | develop.py | d39ef8 | 27.0 |
-| 10 | ss4478 | develop.py | ece454 | 27.2 |
+| 4 | ss4478 | develop.py | 93d739 | 25.9 |
+| 5 | ngoguen | submission.py | ecab75 | 26.3 |
+| 6 | Shengwei | submission.py | 67896e | 26.7 |
+| 7 | gm | submission.py | 2898fc | 26.8 |
+| 8 | Rithvik | submission.py | 8e6767 | 26.9 |
+| 9 | omermoav | submission.py | dc63b9 | 26.9 |
+| 10 | prousoglou | develop.py | d39ef8 | 27.0 |
 | 11 | zionrangers | develop.py | 7758e0 | 27.3 |
 | 12 | nickname55555555 | submission.py | 2f62d2 | 27.4 |
 | 13 | zhumengzhiren | submission.py | 789cd3 | 27.9 |
@@ -216,9 +216,9 @@ Last updated: `April 12, 2026 at 02:58:03 AM ET`
 | 3 | chyyy | develop.py | 34cc06 | 47.5 |
 | 4 | Rithvik | submission.py | 1523b4 | 47.6 |
 | 5 | Shengwei | submission.py | 67896e | 48.1 |
-| 6 | gm | submission.py | 2898fc | 48.5 |
-| 7 | zionrangers | submission.py | 7758e0 | 48.7 |
-| 8 | ss4478 | develop.py | ece454 | 48.9 |
+| 6 | ss4478 | develop.py | 93d739 | 48.2 |
+| 7 | gm | submission.py | 2898fc | 48.5 |
+| 8 | zionrangers | submission.py | 7758e0 | 48.7 |
 | 9 | prousoglou | develop.py | 5379db | 49.3 |
 | 10 | nickname55555555 | submission.py | 46e31e | 49.4 |
 | 11 | ngoguen | submission.py | ecab75 | 49.6 |
