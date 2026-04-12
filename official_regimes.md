@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 06:25:11 PM ET`
+Last updated: `April 12, 2026 at 06:35:33 PM ET`
 
 ## R1 (tok/s)
 
@@ -51,15 +51,15 @@ Last updated: `April 12, 2026 at 06:25:11 PM ET`
 | 43 | castillo | evaluated | 0e93de | 526.6 |
 | 44 | yb | evaluated | ea23ab | 525.9 |
 | 45 | pick_a_nickname | evaluated | c47490 | 525.7 |
-| 46 | Decode_speed | evaluated | 8b78db | 525.4 |
-| 47 | bl792 | evaluated | 09cd73 | 524.7 |
-| 48 | nicknam534534 | evaluated | 83a901 | 524.7 |
-| 49 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
-| 50 | ethanchen | evaluated | ea518d | 523.7 |
-| 51 | axel4 | evaluated | d11960 | 523.6 |
-| 52 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 53 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 54 | jet2holiday | evaluated | bc64e7 | 521.0 |
+| 46 | jet2holiday | evaluated | 05925d | 525.4 |
+| 47 | Decode_speed | evaluated | 8b78db | 525.4 |
+| 48 | bl792 | evaluated | 09cd73 | 524.7 |
+| 49 | nicknam534534 | evaluated | 83a901 | 524.7 |
+| 50 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
+| 51 | ethanchen | evaluated | ea518d | 523.7 |
+| 52 | axel4 | evaluated | d11960 | 523.6 |
+| 53 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 54 | yoursun1220 | evaluated | d8b590 | 521.8 |
 | 55 | PurplePickle67 | evaluated | 68d34e | 520.5 |
 | 56 | jbc | evaluated | 12bb20 | 520.4 |
 | 57 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
@@ -134,8 +134,8 @@ Last updated: `April 12, 2026 at 06:25:11 PM ET`
 | 52 | axel4 | evaluated | d11960 | 169.7 |
 | 53 | dylanjhnsondj | evaluated | c4e1ab | 169.6 |
 | 54 | yoursun1220 | evaluated | d8b590 | 169.2 |
-| 55 | hw_bloss | evaluated | 4c9666 | 169.1 |
-| 56 | jet2holiday | evaluated | bc64e7 | 169.1 |
+| 55 | jet2holiday | evaluated | 05925d | 169.1 |
+| 56 | hw_bloss | evaluated | 4c9666 | 169.1 |
 | 57 | castillo | evaluated | 0e93de | 169.0 |
 | 58 | jbc | evaluated | 12bb20 | 169.0 |
 | 59 | yb | evaluated | ea23ab | 168.8 |
@@ -211,7 +211,7 @@ Last updated: `April 12, 2026 at 06:25:11 PM ET`
 | 55 | tif03 | evaluated | ec268d | 309.4 |
 | 56 | axel4 | evaluated | d11960 | 310.4 |
 | 57 | yoursun1220 | evaluated | d8b590 | 310.7 |
-| 58 | jet2holiday | evaluated | bc64e7 | 311.2 |
+| 58 | jet2holiday | evaluated | 05925d | 311.1 |
 | 59 | jbc | evaluated | 12bb20 | 311.3 |
 | 60 | mdavalos10 | evaluated | 6e0754 | 311.3 |
 | 61 | poppyPotatoe | evaluated | eea264 | 311.3 |
@@ -287,7 +287,7 @@ Last updated: `April 12, 2026 at 06:25:11 PM ET`
 | 57 | yoursun1220 | evaluated | d8b590 | 250.1 |
 | 58 | castillo | evaluated | 0e93de | 250.4 |
 | 59 | yb | evaluated | ea23ab | 250.6 |
-| 60 | jet2holiday | evaluated | bc64e7 | 250.7 |
+| 60 | jet2holiday | evaluated | 05925d | 251.0 |
 | 61 | jbc | evaluated | 12bb20 | 251.3 |
 | 62 | mdavalos10 | evaluated | 6e0754 | 251.5 |
 | 63 | poppyPotatoe | evaluated | eea264 | 251.9 |
