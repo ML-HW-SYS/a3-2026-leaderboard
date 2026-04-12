@@ -1,10 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 02:11:27 PM ET`
+Last updated: `April 12, 2026 at 02:21:45 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 02:13 PM ET | TheProphet | failed_correctness | R2: ERR: hard timeout exceeded (worker killed) \| R3: ERR: total timeout exceeded before regime start \| R4: ERR: total... | submission.py | e0683b | 54.4/0.8/55.2 | 649.6 | 0.0 | 0.0 | 0.0 |
+| Apr 12 02:07 PM ET | Shengwei | evaluated |  | submission.py | 651116 | 42.8/2.7/45.5 | 541.1 | 361.9 | 26.7 | 48.3 |
 | Apr 12 02:05 PM ET | nickname55555555 | failed_correctness | R2: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | submission.py | d29b8e | 24.2/1.2/25.4 | 566.7 | 0.0 | 28.2 | 50.1 |
+| Apr 12 02:05 PM ET | nickname55555555 | failed_correctness | R2: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | develop.py | d29b8e | 24.6/1.2/25.8 | 564.6 | 0.0 | 27.8 | 49.9 |
 | Apr 12 01:49 PM ET | TheProphet | evaluated |  | submission.py | 31568e | 77.3/3.1/80.4 | 428.6 | 310.6 | 24.6 | 49.2 |
 | Apr 12 01:45 PM ET | nickname55555555 | failed_correctness | R2: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | submission.py | 29d715 | 24.6/1.2/25.8 | 562.6 | 0.0 | 27.7 | 49.8 |
 | Apr 12 01:45 PM ET | nickname55555555 | failed_correctness | R2: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | develop.py | 29d715 | 24.6/1.2/25.8 | 566.9 | 0.0 | 27.5 | 49.7 |
