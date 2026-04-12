@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 11, 2026 at 11:32:09 PM ET`
+Last updated: `April 11, 2026 at 11:39:52 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 11 11:35 PM ET | vallabkaranam | failed_correctness | R1: SETUP: ERR: ValueError: packed_u32 must have shape [K/8, N] \| R2: SETUP: ERR: ValueError: packed_u32 must have sh... | develop.py | 1e70d6 | 15.3/0.0/15.3 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 11 11:18 PM ET | abhik | evaluated |  | develop.py | 5d5d13 | 39.6/4.5/44.1 | 502.7 | 215.0 | 147.2 | 123.2 |
 | Apr 11 11:18 PM ET | vallabkaranam | failed_correctness | R1: SETUP: ERR: ValueError: packed_u32 must have shape [K/8, N] \| R2: SETUP: ERR: ValueError: packed_u32 must have sh... | develop.py | e5213b | 16.0/0.0/16.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 11 11:14 PM ET | ishan-pat | evaluated |  | submission.py | f4d84a | 63.1/3.7/66.8 | 523.4 | 256.7 | 61.3 | 118.0 |
