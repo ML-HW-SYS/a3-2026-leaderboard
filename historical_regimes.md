@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 11, 2026 at 11:14:31 PM ET`
+Last updated: `April 11, 2026 at 11:24:17 PM ET`
 
 ## R1 (tok/s)
 
@@ -241,16 +241,16 @@ Last updated: `April 11, 2026 at 11:14:31 PM ET`
 | 34 | Junyi Li | submission.py | c7a1b3 | 113.1 |
 | 35 | Licha | submission.py | 9666cd | 115.6 |
 | 36 | ethanchen | submission.py | bf6f9e | 123.0 |
-| 37 | Decode_speed | submission.py | 76cc2d | 125.5 |
-| 38 | TA | submission.py | 324cb8 | 131.7 |
-| 39 | nicknam534534 | develop.py | cd4c9b | 134.6 |
-| 40 | kade_lin_is_here | submission.py | 5403c9 | 137.7 |
-| 41 | 13rabbit | submission.py | 49d27b | 141.4 |
-| 42 | jl | submission.py | e6ce85 | 148.1 |
-| 43 | pallavi-srinivas | submission.py | 72c655 | 149.7 |
-| 44 | lipphi | submission.py | a3a71b | 150.9 |
-| 45 | tuo | submission.py | 4274da | 160.5 |
-| 46 | abhik | submission.py | 572159 | 172.1 |
+| 37 | abhik | develop.py | 5d5d13 | 123.2 |
+| 38 | Decode_speed | submission.py | 76cc2d | 125.5 |
+| 39 | TA | submission.py | 324cb8 | 131.7 |
+| 40 | nicknam534534 | develop.py | cd4c9b | 134.6 |
+| 41 | kade_lin_is_here | submission.py | 5403c9 | 137.7 |
+| 42 | 13rabbit | submission.py | 49d27b | 141.4 |
+| 43 | jl | submission.py | e6ce85 | 148.1 |
+| 44 | pallavi-srinivas | submission.py | 72c655 | 149.7 |
+| 45 | lipphi | submission.py | a3a71b | 150.9 |
+| 46 | tuo | submission.py | 4274da | 160.5 |
 | 47 | fishyfins | submission.py | 6c0e20 | 232.9 |
 | 48 | dylanjhnsondj | submission.py | c4e1ab | 236.8 |
 | 49 | hw_bloss | submission.py | b2767b | 237.0 |
