@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 03:55:56 PM ET`
+Last updated: `April 12, 2026 at 04:07:19 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 03:59 PM ET | fishyfins | evaluated |  | submission.py | 08f1ac | 76.9/6.2/83.1 | 534.9 | 165.4 | 305.8 | 237.6 |
+| Apr 12 03:58 PM ET | tif03 | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | d77ad7 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 12 03:55 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.76%) \| max_abs_diff=12.19 | submission.py | 72c47e | 54.1/2.8/56.9 | 646.5 | 368.6 | 67.8 | 81.0 |
 | Apr 12 03:40 PM ET | tif03 | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 80f16f | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 12 03:36 PM ET | nickname55555555 | evaluated |  | submission.py | 968757 | 29.3/2.7/31.9 | 568.1 | 354.1 | 27.6 | 49.5 |
 | Apr 12 03:36 PM ET | nickname55555555 | evaluated |  | develop.py | 968757 | 29.0/2.7/31.6 | 565.5 | 354.4 | 27.5 | 49.4 |

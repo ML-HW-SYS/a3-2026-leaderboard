@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 12, 2026 at 03:55:56 PM ET`
+Last updated: `April 12, 2026 at 04:07:19 PM ET`
 
 ## Pages
 
@@ -60,10 +60,10 @@ Last updated: `April 12, 2026 at 03:55:56 PM ET`
 | 46 | Sulaiman Alam | evaluated | c7ede2 | 21.7/5.8/27.5 | 0.545 | 511.2 | 197.4 | 308.7 | 245.0 |
 | 47 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
 | 48 | dylanjhnsondj | evaluated | c4e1ab | 59.0/6.2/65.1 | 0.535 | 527.3 | 169.6 | 306.0 | 236.8 |
-| 49 | hw_bloss | evaluated | 4c9666 | 23.8/6.2/30.0 | 0.531 | 522.2 | 169.1 | 308.1 | 239.1 |
-| 50 | brandon_lorenzo | evaluated | 67c79e | 19.7/6.2/26.0 | 0.526 | 524.1 | 169.8 | 309.2 | 249.6 |
-| 51 | pick_a_nickname | evaluated | c47490 | 27.2/6.2/33.4 | 0.526 | 525.7 | 169.9 | 309.4 | 249.3 |
-| 52 | fishyfins | evaluated | 7ae866 | 76.5/6.3/82.9 | 0.525 | 503.1 | 162.7 | 305.6 | 234.1 |
+| 49 | fishyfins | evaluated | 08f1ac | 76.9/6.2/83.1 | 0.533 | 534.9 | 165.4 | 305.8 | 237.6 |
+| 50 | hw_bloss | evaluated | 4c9666 | 23.8/6.2/30.0 | 0.531 | 522.2 | 169.1 | 308.1 | 239.1 |
+| 51 | brandon_lorenzo | evaluated | 67c79e | 19.7/6.2/26.0 | 0.526 | 524.1 | 169.8 | 309.2 | 249.6 |
+| 52 | pick_a_nickname | evaluated | c47490 | 27.2/6.2/33.4 | 0.526 | 525.7 | 169.9 | 309.4 | 249.3 |
 | 53 | axel4 | evaluated | d11960 | 19.7/6.2/25.9 | 0.525 | 523.6 | 169.7 | 310.4 | 249.3 |
 | 54 | castillo | evaluated | 0e93de | 27.1/6.2/33.4 | 0.524 | 526.6 | 169.0 | 311.4 | 250.4 |
 | 55 | act | evaluated | 899777 | 19.8/6.3/26.1 | 0.524 | 523.9 | 169.0 | 310.9 | 250.7 |
@@ -78,8 +78,8 @@ Last updated: `April 12, 2026 at 03:55:56 PM ET`
 |  | kade_lin_is_here | failed | 104152 | 13.0/3.1/16.1 |  |  |  |  |  |
 |  | siddarak | failed | d85766 | 21.8/9.2/31.0 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | TheProphet | failed | 8370d2 | 81.1/2.2/83.2 |  |  |  |  |  |
-|  | tif03 | failed | 80f16f | 0.0/0.0/0.0 |  |  |  |  |  |
+|  | TheProphet | failed | 72c47e | 54.1/2.8/56.9 |  |  |  |  |  |
+|  | tif03 | failed | d77ad7 | 0.0/0.0/0.0 |  |  |  |  |  |
 
 ## Column Guide
 

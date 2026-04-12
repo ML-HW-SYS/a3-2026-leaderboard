@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 03:55:56 PM ET`
+Last updated: `April 12, 2026 at 04:07:19 PM ET`
 
 ## R1 (tok/s)
 
@@ -34,36 +34,36 @@ Last updated: `April 12, 2026 at 03:55:56 PM ET`
 | 26 | Shengwei | evaluated | 327428 | 538.8 |
 | 27 | landrum | evaluated | 61ab81 | 535.7 |
 | 28 | sjb | evaluated | 373553 | 535.3 |
-| 29 | lipphi | evaluated | a3a71b | 534.8 |
-| 30 | chickfila | evaluated | f0956d | 534.5 |
-| 31 | Licha | evaluated | 9666cd | 534.4 |
-| 32 | Yize | evaluated | c8c9f7 | 534.4 |
-| 33 | stefan | evaluated | 9e3945 | 534.2 |
-| 34 | mdavalos10 | evaluated | 6e0754 | 533.3 |
-| 35 | pallavi-srinivas | evaluated | 3c1d3c | 533.0 |
-| 36 | gravlax | evaluated | b1229d | 532.3 |
-| 37 | Decode_speed | evaluated | 3ff088 | 531.5 |
-| 38 | 13rabbit | evaluated | 49d27b | 529.4 |
-| 39 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
-| 40 | Junyi Li | evaluated | c7a1b3 | 527.3 |
-| 41 | castillo | evaluated | 0e93de | 526.6 |
-| 42 | yb | evaluated | ea23ab | 525.9 |
-| 43 | pick_a_nickname | evaluated | c47490 | 525.7 |
-| 44 | bl792 | evaluated | 09cd73 | 524.7 |
-| 45 | nicknam534534 | evaluated | 83a901 | 524.7 |
-| 46 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
-| 47 | act | evaluated | 899777 | 523.9 |
-| 48 | ethanchen | evaluated | ea518d | 523.7 |
-| 49 | axel4 | evaluated | d11960 | 523.6 |
-| 50 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 51 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 52 | PurplePickle67 | evaluated | 68d34e | 520.5 |
-| 53 | jbc | evaluated | 12bb20 | 520.4 |
-| 54 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 55 | vallabkaranam | evaluated | 0bdeec | 513.3 |
-| 56 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
-| 57 | abhik | evaluated | 0b4b08 | 507.2 |
-| 58 | fishyfins | evaluated | 7ae866 | 503.1 |
+| 29 | fishyfins | evaluated | 08f1ac | 534.9 |
+| 30 | lipphi | evaluated | a3a71b | 534.8 |
+| 31 | chickfila | evaluated | f0956d | 534.5 |
+| 32 | Licha | evaluated | 9666cd | 534.4 |
+| 33 | Yize | evaluated | c8c9f7 | 534.4 |
+| 34 | stefan | evaluated | 9e3945 | 534.2 |
+| 35 | mdavalos10 | evaluated | 6e0754 | 533.3 |
+| 36 | pallavi-srinivas | evaluated | 3c1d3c | 533.0 |
+| 37 | gravlax | evaluated | b1229d | 532.3 |
+| 38 | Decode_speed | evaluated | 3ff088 | 531.5 |
+| 39 | 13rabbit | evaluated | 49d27b | 529.4 |
+| 40 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
+| 41 | Junyi Li | evaluated | c7a1b3 | 527.3 |
+| 42 | castillo | evaluated | 0e93de | 526.6 |
+| 43 | yb | evaluated | ea23ab | 525.9 |
+| 44 | pick_a_nickname | evaluated | c47490 | 525.7 |
+| 45 | bl792 | evaluated | 09cd73 | 524.7 |
+| 46 | nicknam534534 | evaluated | 83a901 | 524.7 |
+| 47 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
+| 48 | act | evaluated | 899777 | 523.9 |
+| 49 | ethanchen | evaluated | ea518d | 523.7 |
+| 50 | axel4 | evaluated | d11960 | 523.6 |
+| 51 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 52 | yoursun1220 | evaluated | d8b590 | 521.8 |
+| 53 | PurplePickle67 | evaluated | 68d34e | 520.5 |
+| 54 | jbc | evaluated | 12bb20 | 520.4 |
+| 55 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 56 | vallabkaranam | evaluated | 0bdeec | 513.3 |
+| 57 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
+| 58 | abhik | evaluated | 0b4b08 | 507.2 |
 | 59 | Rithvik | evaluated | 2924a0 | 495.8 |
 | 60 | tuo | evaluated | 3d6d40 | 494.8 |
 | 61 | co-smith | evaluated | dcfadf | 167.2 |
@@ -72,8 +72,8 @@ Last updated: `April 12, 2026 at 03:55:56 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 8370d2 |  |
-|  | tif03 | failed | 80f16f |  |
+|  | TheProphet | failed | 72c47e |  |
+|  | tif03 | failed | d77ad7 |  |
 
 ## R2 (tok/s)
 
@@ -136,7 +136,7 @@ Last updated: `April 12, 2026 at 03:55:56 PM ET`
 | 55 | jbc | evaluated | 12bb20 | 169.0 |
 | 56 | act | evaluated | 899777 | 169.0 |
 | 57 | yb | evaluated | ea23ab | 168.8 |
-| 58 | fishyfins | evaluated | 7ae866 | 162.7 |
+| 58 | fishyfins | evaluated | 08f1ac | 165.4 |
 | 59 | mdavalos10 | evaluated | 6e0754 | 159.3 |
 | 60 | nicknam534534 | evaluated | 83a901 | 148.4 |
 | 61 | co-smith | evaluated | dcfadf | 112.4 |
@@ -145,8 +145,8 @@ Last updated: `April 12, 2026 at 03:55:56 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 8370d2 |  |
-|  | tif03 | failed | 80f16f |  |
+|  | TheProphet | failed | 72c47e |  |
+|  | tif03 | failed | d77ad7 |  |
 
 ## R3 (ms)
 
@@ -197,7 +197,7 @@ Last updated: `April 12, 2026 at 03:55:56 PM ET`
 | 43 | lipphi | evaluated | a3a71b | 104.4 |
 | 44 | pallavi-srinivas | evaluated | 3c1d3c | 105.4 |
 | 45 | tuo | evaluated | 3d6d40 | 167.8 |
-| 46 | fishyfins | evaluated | 7ae866 | 305.6 |
+| 46 | fishyfins | evaluated | 08f1ac | 305.8 |
 | 47 | dylanjhnsondj | evaluated | c4e1ab | 306.0 |
 | 48 | hw_bloss | evaluated | 4c9666 | 308.1 |
 | 49 | your_nickname_here | evaluated | f10b9b | 308.1 |
@@ -218,8 +218,8 @@ Last updated: `April 12, 2026 at 03:55:56 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 8370d2 |  |
-|  | tif03 | failed | 80f16f |  |
+|  | TheProphet | failed | 72c47e |  |
+|  | tif03 | failed | d77ad7 |  |
 
 ## R4 (ms)
 
@@ -270,8 +270,8 @@ Last updated: `April 12, 2026 at 03:55:56 PM ET`
 | 43 | lipphi | evaluated | a3a71b | 150.9 |
 | 44 | pallavi-srinivas | evaluated | 3c1d3c | 151.0 |
 | 45 | tuo | evaluated | 3d6d40 | 162.8 |
-| 46 | fishyfins | evaluated | 7ae866 | 234.1 |
-| 47 | dylanjhnsondj | evaluated | c4e1ab | 236.8 |
+| 46 | dylanjhnsondj | evaluated | c4e1ab | 236.8 |
+| 47 | fishyfins | evaluated | 08f1ac | 237.6 |
 | 48 | hw_bloss | evaluated | 4c9666 | 239.1 |
 | 49 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
 | 50 | your_nickname_here | evaluated | f10b9b | 246.4 |
@@ -291,5 +291,5 @@ Last updated: `April 12, 2026 at 03:55:56 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 8370d2 |  |
-|  | tif03 | failed | 80f16f |  |
+|  | TheProphet | failed | 72c47e |  |
+|  | tif03 | failed | d77ad7 |  |
