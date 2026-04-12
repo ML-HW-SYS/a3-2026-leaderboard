@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 11, 2026 at 10:02:17 PM ET`
+Last updated: `April 11, 2026 at 10:11:03 PM ET`
 
 ## R1 (tok/s)
 
@@ -43,7 +43,7 @@ Last updated: `April 11, 2026 at 10:02:17 PM ET`
 | 35 | gravlax | evaluated | b1229d | 532.3 |
 | 36 | pallavi-srinivas | evaluated | d645d5 | 529.9 |
 | 37 | 13rabbit | evaluated | 49d27b | 529.4 |
-| 38 | Decode_speed | evaluated | c5a242 | 528.6 |
+| 38 | Decode_speed | evaluated | 3020d7 | 528.6 |
 | 39 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
 | 40 | Junyi Li | evaluated | c7a1b3 | 527.3 |
 | 41 | castillo | evaluated | 0e93de | 526.6 |
@@ -70,7 +70,7 @@ Last updated: `April 11, 2026 at 10:02:17 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | tif03 | failed | f612be |  |
+|  | tif03 | failed | ce0289 |  |
 |  | vallabkaranam | failed | e83dea |  |
 
 ## R2 (tok/s)
@@ -131,8 +131,8 @@ Last updated: `April 11, 2026 at 10:02:17 PM ET`
 | 52 | jbc | evaluated | 12bb20 | 169.0 |
 | 53 | act | evaluated | 899777 | 169.0 |
 | 54 | yb | evaluated | ea23ab | 168.8 |
-| 55 | mdavalos10 | evaluated | 6e0754 | 159.3 |
-| 56 | Decode_speed | evaluated | c5a242 | 156.9 |
+| 55 | Decode_speed | evaluated | 3020d7 | 168.7 |
+| 56 | mdavalos10 | evaluated | 6e0754 | 159.3 |
 | 57 | nicknam534534 | evaluated | 83a901 | 148.4 |
 | 58 | abhik | evaluated | bf55dc | 127.8 |
 | 59 | co-smith | evaluated | dcfadf | 112.4 |
@@ -141,7 +141,7 @@ Last updated: `April 11, 2026 at 10:02:17 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | tif03 | failed | f612be |  |
+|  | tif03 | failed | ce0289 |  |
 |  | vallabkaranam | failed | e83dea |  |
 
 ## R3 (ms)
@@ -198,21 +198,21 @@ Last updated: `April 11, 2026 at 10:02:17 PM ET`
 | 48 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
 | 49 | brandon_lorenzo | evaluated | 67c79e | 309.2 |
 | 50 | ss4478 | evaluated | 9c8cb8 | 309.8 |
-| 51 | yoursun1220 | evaluated | d8b590 | 310.7 |
-| 52 | act | evaluated | 899777 | 310.9 |
-| 53 | jbc | evaluated | 12bb20 | 311.3 |
-| 54 | mdavalos10 | evaluated | 6e0754 | 311.3 |
-| 55 | poppyPotatoe | evaluated | eea264 | 311.3 |
-| 56 | castillo | evaluated | 0e93de | 311.4 |
-| 57 | yb | evaluated | ea23ab | 312.3 |
-| 58 | co-smith | evaluated | dcfadf | 323.6 |
-| 59 | Decode_speed | evaluated | c5a242 | 375.4 |
+| 51 | Decode_speed | evaluated | 3020d7 | 310.5 |
+| 52 | yoursun1220 | evaluated | d8b590 | 310.7 |
+| 53 | act | evaluated | 899777 | 310.9 |
+| 54 | jbc | evaluated | 12bb20 | 311.3 |
+| 55 | mdavalos10 | evaluated | 6e0754 | 311.3 |
+| 56 | poppyPotatoe | evaluated | eea264 | 311.3 |
+| 57 | castillo | evaluated | 0e93de | 311.4 |
+| 58 | yb | evaluated | ea23ab | 312.3 |
+| 59 | co-smith | evaluated | dcfadf | 323.6 |
 | 60 | nicknam534534 | evaluated | 83a901 | 405.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | tif03 | failed | f612be |  |
+|  | tif03 | failed | ce0289 |  |
 |  | vallabkaranam | failed | e83dea |  |
 
 ## R4 (ms)
@@ -267,21 +267,21 @@ Last updated: `April 11, 2026 at 10:02:17 PM ET`
 | 46 | hw_bloss | evaluated | 4c9666 | 239.1 |
 | 47 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
 | 48 | your_nickname_here | evaluated | f10b9b | 246.4 |
-| 49 | brandon_lorenzo | evaluated | 67c79e | 249.6 |
-| 50 | ss4478 | evaluated | 9c8cb8 | 249.6 |
-| 51 | yoursun1220 | evaluated | d8b590 | 250.1 |
-| 52 | castillo | evaluated | 0e93de | 250.4 |
-| 53 | yb | evaluated | ea23ab | 250.6 |
-| 54 | act | evaluated | 899777 | 250.7 |
-| 55 | jbc | evaluated | 12bb20 | 251.3 |
-| 56 | mdavalos10 | evaluated | 6e0754 | 251.5 |
-| 57 | poppyPotatoe | evaluated | eea264 | 251.9 |
-| 58 | co-smith | evaluated | dcfadf | 257.4 |
-| 59 | nicknam534534 | evaluated | 83a901 | 268.7 |
-| 60 | Decode_speed | evaluated | c5a242 | 334.9 |
+| 49 | Decode_speed | evaluated | 3020d7 | 249.6 |
+| 50 | brandon_lorenzo | evaluated | 67c79e | 249.6 |
+| 51 | ss4478 | evaluated | 9c8cb8 | 249.6 |
+| 52 | yoursun1220 | evaluated | d8b590 | 250.1 |
+| 53 | castillo | evaluated | 0e93de | 250.4 |
+| 54 | yb | evaluated | ea23ab | 250.6 |
+| 55 | act | evaluated | 899777 | 250.7 |
+| 56 | jbc | evaluated | 12bb20 | 251.3 |
+| 57 | mdavalos10 | evaluated | 6e0754 | 251.5 |
+| 58 | poppyPotatoe | evaluated | eea264 | 251.9 |
+| 59 | co-smith | evaluated | dcfadf | 257.4 |
+| 60 | nicknam534534 | evaluated | 83a901 | 268.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | tif03 | failed | f612be |  |
+|  | tif03 | failed | ce0289 |  |
 |  | vallabkaranam | failed | e83dea |  |
