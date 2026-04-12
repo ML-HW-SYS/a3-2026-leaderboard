@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 06:13:32 PM ET`
+Last updated: `April 12, 2026 at 06:25:11 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 06:18 PM ET | co-smith | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | aa257a | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 12 06:16 PM ET | tif03 | evaluated |  | submission.py | ec268d | 19.7/6.3/26.0 | 501.2 | 167.6 | 309.4 | 249.5 |
+| Apr 12 06:11 PM ET | jet2holiday | evaluated |  | submission.py | bc64e7 | 39.1/6.3/45.3 | 521.0 | 169.1 | 311.2 | 250.7 |
+| Apr 12 06:07 PM ET | act | evaluated |  | submission.py | fce2ab | 78.5/3.1/81.6 | 560.1 | 332.5 | 59.5 | 109.5 |
 | Apr 12 06:06 PM ET | tif03 | evaluated |  | submission.py | a8bdd5 | 14.7/30.5/45.2 | 40.3 | 34.3 | 394.3 | 332.4 |
 | Apr 12 06:03 PM ET | happyface | failed_correctness | R2: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | develop.py | 3082b6 | 51.0/0.9/51.9 | 542.8 | 0.0 | 0.0 | 0.0 |
 | Apr 12 05:59 PM ET | co-smith | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | adf8fc | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
