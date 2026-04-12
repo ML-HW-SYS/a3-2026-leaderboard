@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 03:28:03 PM ET`
+Last updated: `April 12, 2026 at 03:38:26 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 03:31 PM ET | tif03 | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | develop.py | f3f280 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 12 03:22 PM ET | TheProphet | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | submission.py | 8370d2 | 81.1/2.2/83.2 | 650.4 | 368.3 | 0.0 | 0.0 |
 | Apr 12 03:22 PM ET | tif03 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | 760e7d | 39.3/6.5/45.8 | 454.3 | 162.6 | 308.3 | 246.6 |
 | Apr 12 03:13 PM ET | nickname55555555 | evaluated |  | submission.py | c178df | 73.3/2.7/76.0 | 556.9 | 348.1 | 31.4 | 49.3 |
 | Apr 12 03:13 PM ET | nickname55555555 | evaluated |  | develop.py | c178df | 28.3/2.7/31.0 | 561.5 | 347.8 | 31.8 | 49.4 |
