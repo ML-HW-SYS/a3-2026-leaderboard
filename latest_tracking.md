@@ -1,11 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 06:45:16 PM ET`
+Last updated: `April 12, 2026 at 06:54:38 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 06:48 PM ET | happyface | evaluated |  | develop.py | 1c2931 | 50.0/3.5/53.6 | 540.1 | 264.7 | 58.5 | 108.4 |
 | Apr 12 06:41 PM ET | happyface | failed_correctness | R2: ERR: shape '[1, 1]' is invalid for input of size 4096 \| R4: ERR: hard timeout exceeded (worker killed) | develop.py | 40e8cb | 79.3/1.2/80.4 | 542.9 | 0.0 | 58.5 | 0.0 |
 | Apr 12 06:33 PM ET | co-smith | evaluated |  | submission.py | 8970a6 | 32.2/7.3/39.5 | 357.3 | 145.6 | 321.1 | 254.4 |
+| Apr 12 06:33 PM ET | co-smith | evaluated |  | develop.py | 8970a6 | 45.3/7.1/52.4 | 364.4 | 150.5 | 321.7 | 253.9 |
 | Apr 12 06:32 PM ET | jet2holiday | evaluated |  | submission.py | 05925d | 27.3/6.2/33.6 | 525.4 | 169.1 | 311.1 | 251.0 |
 | Apr 12 06:32 PM ET | tif03 | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 73:16: causal_block = kv_block <= q_block keep_block = causal_block ... | develop.py | 0e9878 | 15.5/0.0/15.5 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 12 06:18 PM ET | co-smith | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | aa257a | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
