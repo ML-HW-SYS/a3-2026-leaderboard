@@ -1,13 +1,18 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 05:32:03 PM ET`
+Last updated: `April 12, 2026 at 05:41:37 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 05:37 PM ET | happyface | failed_correctness | R2: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | develop.py | daa7f1 | 28.6/0.9/29.5 | 542.8 | 0.0 | 0.0 | 0.0 |
+| Apr 12 05:36 PM ET | tif03 | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 72:16: kv_block = t0 // BLOCK_SIZE causal_block = kv_block <= q_bloc... | submission.py | 664caf | 15.6/0.0/15.6 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 12 05:28 PM ET | tif03 | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 72:16: kv_block = t0 // BLOCK_SIZE causal_block = kv_block <= q_bloc... | submission.py | 46f49a | 15.6/0.0/15.6 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 12 05:28 PM ET | nickname55555555 | evaluated |  | submission.py | 68b98d | 28.8/2.7/31.5 | 564.6 | 354.2 | 27.7 | 49.4 |
 | Apr 12 05:27 PM ET | happyface | failed_correctness | R2: SETUP: ERR: ValueError: block_mask was created for block_mask.shape=(1, 14, 4096, 4096) but got q_len=4096 and kv... | develop.py | 7fb55b | 25.4/0.9/26.4 | 544.9 | 0.0 | 0.0 | 0.0 |
 | Apr 12 05:23 PM ET | act | evaluated |  | submission.py | 3858e5 | 40.6/5.3/45.9 | 534.5 | 185.1 | 245.4 | 143.5 |
+| Apr 12 05:23 PM ET | act | evaluated |  | develop.py | 3858e5 | 21.3/5.4/26.6 | 532.0 | 179.9 | 244.9 | 142.8 |
 | Apr 12 05:22 PM ET | jet2holiday | evaluated |  | submission.py | efd6c8 | 40.0/6.3/46.3 | 522.9 | 169.0 | 310.9 | 250.7 |
+| Apr 12 05:22 PM ET | jet2holiday | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | efd6c8 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 12 05:21 PM ET | TheProphet | failed_correctness | R1: SETUP: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent ... | submission.py | eb73c2 | 20.3/0.0/20.3 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 12 05:14 PM ET | happyface | failed_correctness | R2: SETUP: ERR: TypeError: scaled_dot_product_attention(): argument 'attn_mask' must be Tensor, not BlockMask \| R3: S... | develop.py | 3aec34 | 27.6/0.9/28.6 | 541.6 | 0.0 | 0.0 | 0.0 |
 | Apr 12 05:07 PM ET | happyface | failed_correctness | R1: SETUP: ERR: CompilationError: at 80:14: keep_block = keep_block & (local_keep \| long_keep) if keep_block: offs_t ... | develop.py | 9a8e6b | 17.5/0.0/17.5 | 0.0 | 0.0 | 0.0 | 0.0 |

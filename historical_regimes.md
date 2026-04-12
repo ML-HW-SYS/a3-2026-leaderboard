@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 12, 2026 at 05:32:03 PM ET`
+Last updated: `April 12, 2026 at 05:41:37 PM ET`
 
 ## R1 (tok/s)
 
@@ -194,7 +194,7 @@ Last updated: `April 12, 2026 at 05:32:03 PM ET`
 | 46 | lipphi | develop.py | d58cae | 104.4 |
 | 47 | tuo | submission.py | 92c00e | 166.9 |
 | 48 | nicknam534534 | develop.py | cd4c9b | 210.5 |
-| 49 | act | submission.py | 3858e5 | 245.4 |
+| 49 | act | develop.py | 3858e5 | 244.9 |
 | 50 | fishyfins | submission.py | 6c0e20 | 304.6 |
 | 51 | dylanjhnsondj | submission.py | c4e1ab | 306.0 |
 | 52 | hw_bloss | submission.py | b2767b | 306.7 |
@@ -261,7 +261,7 @@ Last updated: `April 12, 2026 at 05:32:03 PM ET`
 | 42 | nicknam534534 | develop.py | cd4c9b | 134.6 |
 | 43 | kade_lin_is_here | submission.py | 5403c9 | 137.7 |
 | 44 | 13rabbit | submission.py | 49d27b | 141.4 |
-| 45 | act | submission.py | 3858e5 | 143.5 |
+| 45 | act | develop.py | 3858e5 | 142.8 |
 | 46 | jl | submission.py | e6ce85 | 148.1 |
 | 47 | pallavi-srinivas | submission.py | 72c655 | 149.7 |
 | 48 | lipphi | submission.py | a3a71b | 150.9 |
