@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 12:47:36 AM ET`
+Last updated: `April 12, 2026 at 12:56:23 AM ET`
 
 ## R1 (tok/s)
 
@@ -54,13 +54,13 @@ Last updated: `April 12, 2026 at 12:47:36 AM ET`
 | 46 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
 | 47 | act | evaluated | 899777 | 523.9 |
 | 48 | ethanchen | evaluated | ea518d | 523.7 |
-| 49 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 50 | fishyfins | evaluated | 6c0e20 | 522.0 |
-| 51 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 52 | PurplePickle67 | evaluated | 68d34e | 520.5 |
-| 53 | jbc | evaluated | 12bb20 | 520.4 |
-| 54 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 55 | axel4 | evaluated | e8d77a | 512.9 |
+| 49 | axel4 | evaluated | 3fc844 | 522.6 |
+| 50 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 51 | fishyfins | evaluated | 6c0e20 | 522.0 |
+| 52 | yoursun1220 | evaluated | d8b590 | 521.8 |
+| 53 | PurplePickle67 | evaluated | 68d34e | 520.5 |
+| 54 | jbc | evaluated | 12bb20 | 520.4 |
+| 55 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
 | 56 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
 | 57 | abhik | evaluated | 0b4b08 | 507.2 |
 | 58 | Rithvik | evaluated | 2924a0 | 495.8 |
@@ -134,7 +134,7 @@ Last updated: `April 12, 2026 at 12:47:36 AM ET`
 | 54 | castillo | evaluated | 0e93de | 169.0 |
 | 55 | jbc | evaluated | 12bb20 | 169.0 |
 | 56 | act | evaluated | 899777 | 169.0 |
-| 57 | axel4 | evaluated | e8d77a | 168.9 |
+| 57 | axel4 | evaluated | 3fc844 | 168.9 |
 | 58 | yb | evaluated | ea23ab | 168.8 |
 | 59 | mdavalos10 | evaluated | 6e0754 | 159.3 |
 | 60 | nicknam534534 | evaluated | 83a901 | 148.4 |
@@ -203,12 +203,12 @@ Last updated: `April 12, 2026 at 12:47:36 AM ET`
 | 51 | brandon_lorenzo | evaluated | 67c79e | 309.2 |
 | 52 | ss4478 | evaluated | 9c8cb8 | 309.8 |
 | 53 | yoursun1220 | evaluated | d8b590 | 310.7 |
-| 54 | act | evaluated | 899777 | 310.9 |
-| 55 | jbc | evaluated | 12bb20 | 311.3 |
-| 56 | mdavalos10 | evaluated | 6e0754 | 311.3 |
-| 57 | poppyPotatoe | evaluated | eea264 | 311.3 |
-| 58 | castillo | evaluated | 0e93de | 311.4 |
-| 59 | axel4 | evaluated | e8d77a | 311.7 |
+| 54 | axel4 | evaluated | 3fc844 | 310.9 |
+| 55 | act | evaluated | 899777 | 310.9 |
+| 56 | jbc | evaluated | 12bb20 | 311.3 |
+| 57 | mdavalos10 | evaluated | 6e0754 | 311.3 |
+| 58 | poppyPotatoe | evaluated | eea264 | 311.3 |
+| 59 | castillo | evaluated | 0e93de | 311.4 |
 | 60 | yb | evaluated | ea23ab | 312.3 |
 | 61 | co-smith | evaluated | dcfadf | 323.6 |
 | 62 | nicknam534534 | evaluated | 83a901 | 405.3 |
@@ -276,9 +276,9 @@ Last updated: `April 12, 2026 at 12:47:36 AM ET`
 | 52 | ss4478 | evaluated | 9c8cb8 | 249.6 |
 | 53 | yoursun1220 | evaluated | d8b590 | 250.1 |
 | 54 | castillo | evaluated | 0e93de | 250.4 |
-| 55 | yb | evaluated | ea23ab | 250.6 |
-| 56 | act | evaluated | 899777 | 250.7 |
-| 57 | axel4 | evaluated | e8d77a | 251.1 |
+| 55 | axel4 | evaluated | 3fc844 | 250.5 |
+| 56 | yb | evaluated | ea23ab | 250.6 |
+| 57 | act | evaluated | 899777 | 250.7 |
 | 58 | jbc | evaluated | 12bb20 | 251.3 |
 | 59 | mdavalos10 | evaluated | 6e0754 | 251.5 |
 | 60 | poppyPotatoe | evaluated | eea264 | 251.9 |

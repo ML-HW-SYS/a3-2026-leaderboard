@@ -1,12 +1,15 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 12:47:36 AM ET`
+Last updated: `April 12, 2026 at 12:56:23 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 12:52 AM ET | vallabkaranam | evaluated |  | develop.py | f13533 | 19.5/4.0/23.5 | 542.6 | 263.1 | 151.5 | 132.2 |
+| Apr 12 12:50 AM ET | axel4 | evaluated |  | submission.py | 3fc844 | 19.7/6.3/25.9 | 522.6 | 168.9 | 310.9 | 250.5 |
 | Apr 12 12:39 AM ET | vallabkaranam | evaluated |  | submission.py | 0f2111 | 20.7/3.7/24.4 | 538.7 | 295.9 | 104.9 | 150.3 |
 | Apr 12 12:38 AM ET | axel4 | evaluated |  | submission.py | e8d77a | 41.6/6.3/47.9 | 512.9 | 168.9 | 311.7 | 251.1 |
 | Apr 12 12:37 AM ET | abhik | evaluated |  | submission.py | 0b4b08 | 19.4/3.3/22.6 | 507.2 | 319.2 | 55.4 | 107.2 |
+| Apr 12 12:37 AM ET | abhik | evaluated |  | develop.py | 0b4b08 | 19.1/3.3/22.3 | 511.2 | 319.4 | 55.4 | 107.7 |
 | Apr 12 12:27 AM ET | ishan-pat | evaluated |  | submission.py | 8762eb | 25.0/3.6/28.6 | 533.5 | 258.7 | 57.7 | 109.1 |
 | Apr 12 12:27 AM ET | ishan-pat | evaluated |  | develop.py | 8762eb | 25.0/3.6/28.6 | 531.1 | 259.2 | 57.5 | 109.4 |
 | Apr 12 12:26 AM ET | vallabkaranam | evaluated |  | develop.py | f3a1fe | 41.1/3.7/44.7 | 543.0 | 295.9 | 104.6 | 150.8 |

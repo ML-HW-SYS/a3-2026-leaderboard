@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 12, 2026 at 12:47:36 AM ET`
+Last updated: `April 12, 2026 at 12:56:23 AM ET`
 
 ## R1 (tok/s)
 
@@ -95,7 +95,7 @@ Last updated: `April 12, 2026 at 12:47:36 AM ET`
 | 19 | Rithvik | submission.py | 2924a0 | 335.8 |
 | 20 | leoli | submission.py | 5cdac4 | 327.5 |
 | 21 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 326.5 |
-| 22 | abhik | submission.py | 0b4b08 | 319.2 |
+| 22 | abhik | develop.py | 0b4b08 | 319.4 |
 | 23 | jl | submission.py | e6ce85 | 313.1 |
 | 24 | pallavi-srinivas | submission.py | 26a6d9 | 307.4 |
 | 25 | lipphi | submission.py | a3a71b | 306.7 |
@@ -169,7 +169,7 @@ Last updated: `April 12, 2026 at 12:47:36 AM ET`
 | 25 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 43.1 |
 | 26 | sjb | develop.py | 7fb492 | 50.4 |
 | 27 | ishan-pat | submission.py | 564670 | 55.1 |
-| 28 | abhik | submission.py | 0b4b08 | 55.4 |
+| 28 | abhik | develop.py | 0b4b08 | 55.4 |
 | 29 | Junyi Li | submission.py | c7a1b3 | 60.9 |
 | 30 | Licha | submission.py | 9666cd | 61.8 |
 | 31 | happyface | submission.py | 9f7886 | 63.4 |
@@ -250,12 +250,12 @@ Last updated: `April 12, 2026 at 12:47:36 AM ET`
 | 37 | ethanchen | submission.py | bf6f9e | 123.0 |
 | 38 | Decode_speed | submission.py | 76cc2d | 125.5 |
 | 39 | TA | submission.py | 324cb8 | 131.7 |
-| 40 | nicknam534534 | develop.py | cd4c9b | 134.6 |
-| 41 | kade_lin_is_here | submission.py | 5403c9 | 137.7 |
-| 42 | 13rabbit | submission.py | 49d27b | 141.4 |
-| 43 | jl | submission.py | e6ce85 | 148.1 |
-| 44 | pallavi-srinivas | submission.py | 72c655 | 149.7 |
-| 45 | vallabkaranam | submission.py | 0f2111 | 150.3 |
+| 40 | vallabkaranam | develop.py | f13533 | 132.2 |
+| 41 | nicknam534534 | develop.py | cd4c9b | 134.6 |
+| 42 | kade_lin_is_here | submission.py | 5403c9 | 137.7 |
+| 43 | 13rabbit | submission.py | 49d27b | 141.4 |
+| 44 | jl | submission.py | e6ce85 | 148.1 |
+| 45 | pallavi-srinivas | submission.py | 72c655 | 149.7 |
 | 46 | lipphi | submission.py | a3a71b | 150.9 |
 | 47 | tuo | submission.py | 4274da | 160.5 |
 | 48 | fishyfins | submission.py | 6c0e20 | 232.9 |
