@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 12, 2026 at 12:17:06 PM ET`
+Last updated: `April 12, 2026 at 12:25:32 PM ET`
 
 ## Pages
 
@@ -35,8 +35,8 @@ Last updated: `April 12, 2026 at 12:17:06 PM ET`
 | 21 | andrasferenczy | evaluated | 9c7f53 | 37.3/3.2/40.5 | 1.486 | 539.1 | 277.2 | 31.9 | 63.7 |
 | 22 | gravlax | evaluated | b1229d | 19.9/3.2/23.1 | 1.464 | 532.3 | 272.5 | 35.0 | 59.7 |
 | 23 | Yize | evaluated | c8c9f7 | 24.6/3.2/27.9 | 1.462 | 534.4 | 269.9 | 39.4 | 53.1 |
-| 24 | sjb | evaluated | 373553 | 28.3/2.9/31.1 | 1.457 | 535.3 | 346.4 | 50.8 | 53.6 |
-| 25 | Decode_speed | evaluated | a1ba5d | 19.2/3.2/22.4 | 1.446 | 529.6 | 274.4 | 33.9 | 65.1 |
+| 24 | Decode_speed | evaluated | fa8e12 | 19.5/3.2/22.7 | 1.461 | 530.7 | 274.6 | 33.0 | 64.1 |
+| 25 | sjb | evaluated | 373553 | 28.3/2.9/31.1 | 1.457 | 535.3 | 346.4 | 50.8 | 53.6 |
 | 26 | bl792 | evaluated | 09cd73 | 18.3/3.5/21.8 | 1.438 | 524.7 | 238.8 | 32.4 | 59.9 |
 | 27 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 41.6/3.3/44.9 | 1.370 | 515.1 | 266.6 | 43.1 | 59.9 |
 | 28 | happyface | evaluated | 7e8b61 | 18.5/3.4/22.0 | 1.219 | 543.0 | 258.2 | 63.7 | 66.0 |
@@ -77,7 +77,7 @@ Last updated: `April 12, 2026 at 12:17:06 PM ET`
 |  | kade_lin_is_here | failed | 104152 | 13.0/3.1/16.1 |  |  |  |  |  |
 |  | siddarak | failed | d85766 | 21.8/9.2/31.0 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | TheProphet | failed | 30d740 | 33.8/1.7/35.5 |  |  |  |  |  |
+|  | TheProphet | failed | d9c4e1 |  |  |  |  |  |  |
 |  | tif03 | failed | 854b00 | 19.7/6.2/25.9 |  |  |  |  |  |
 
 ## Column Guide

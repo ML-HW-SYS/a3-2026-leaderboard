@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 12:17:06 PM ET`
+Last updated: `April 12, 2026 at 12:25:32 PM ET`
 
 ## R1 (tok/s)
 
@@ -42,7 +42,7 @@ Last updated: `April 12, 2026 at 12:17:06 PM ET`
 | 34 | mdavalos10 | evaluated | 6e0754 | 533.3 |
 | 35 | pallavi-srinivas | evaluated | 3c1d3c | 533.0 |
 | 36 | gravlax | evaluated | b1229d | 532.3 |
-| 37 | Decode_speed | evaluated | a1ba5d | 529.6 |
+| 37 | Decode_speed | evaluated | fa8e12 | 530.7 |
 | 38 | 13rabbit | evaluated | 49d27b | 529.4 |
 | 39 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
 | 40 | Junyi Li | evaluated | c7a1b3 | 527.3 |
@@ -71,7 +71,7 @@ Last updated: `April 12, 2026 at 12:17:06 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 30d740 |  |
+|  | TheProphet | failed | d9c4e1 |  |
 |  | tif03 | failed | 854b00 |  |
 
 ## R2 (tok/s)
@@ -111,7 +111,7 @@ Last updated: `April 12, 2026 at 12:17:06 PM ET`
 | 31 | stefan | evaluated | 47712c | 277.4 |
 | 32 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
 | 33 | landrum | evaluated | 61ab81 | 276.9 |
-| 34 | Decode_speed | evaluated | a1ba5d | 274.4 |
+| 34 | Decode_speed | evaluated | fa8e12 | 274.6 |
 | 35 | gravlax | evaluated | b1229d | 272.5 |
 | 36 | Yize | evaluated | c8c9f7 | 269.9 |
 | 37 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
@@ -143,7 +143,7 @@ Last updated: `April 12, 2026 at 12:17:06 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 30d740 |  |
+|  | TheProphet | failed | d9c4e1 |  |
 |  | tif03 | failed | 854b00 |  |
 
 ## R3 (ms)
@@ -168,8 +168,8 @@ Last updated: `April 12, 2026 at 12:17:06 PM ET`
 | 16 | stefan | evaluated | 47712c | 31.7 |
 | 17 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
 | 18 | bl792 | evaluated | 09cd73 | 32.4 |
-| 19 | blabrl | evaluated | ca60eb | 33.7 |
-| 20 | Decode_speed | evaluated | a1ba5d | 33.9 |
+| 19 | Decode_speed | evaluated | fa8e12 | 33.0 |
+| 20 | blabrl | evaluated | ca60eb | 33.7 |
 | 21 | chickfila | evaluated | f0956d | 34.7 |
 | 22 | gravlax | evaluated | b1229d | 35.0 |
 | 23 | omermoav | evaluated | b01c0e | 35.2 |
@@ -215,7 +215,7 @@ Last updated: `April 12, 2026 at 12:17:06 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 30d740 |  |
+|  | TheProphet | failed | d9c4e1 |  |
 |  | tif03 | failed | 854b00 |  |
 
 ## R4 (ms)
@@ -246,8 +246,8 @@ Last updated: `April 12, 2026 at 12:17:06 PM ET`
 | 22 | bl792 | evaluated | 09cd73 | 59.9 |
 | 23 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 59.9 |
 | 24 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
-| 25 | omermoav | evaluated | b01c0e | 64.6 |
-| 26 | Decode_speed | evaluated | a1ba5d | 65.1 |
+| 25 | Decode_speed | evaluated | fa8e12 | 64.1 |
+| 26 | omermoav | evaluated | b01c0e | 64.6 |
 | 27 | blabrl | evaluated | ca60eb | 65.2 |
 | 28 | happyface | evaluated | 7e8b61 | 66.0 |
 | 29 | leoli | evaluated | 5cdac4 | 87.4 |
@@ -287,5 +287,5 @@ Last updated: `April 12, 2026 at 12:17:06 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 30d740 |  |
+|  | TheProphet | failed | d9c4e1 |  |
 |  | tif03 | failed | 854b00 |  |

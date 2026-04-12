@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 12:17:06 PM ET`
+Last updated: `April 12, 2026 at 12:25:32 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 12:18 PM ET | Decode_speed | evaluated |  | submission.py | fa8e12 | 19.5/3.2/22.7 | 530.7 | 274.6 | 33.0 | 64.1 |
+| Apr 12 12:16 PM ET | TheProphet | failed_compliance | SyntaxError during policy check: unexpected indent (submission.py, line 2361) | submission.py | d9c4e1 |  |  |  |  |  |
+| Apr 12 12:13 PM ET | stefan | evaluated |  | develop.py | c521d2 | 29.4/3.1/32.6 | 534.6 | 279.0 | 29.6 | 54.3 |
 | Apr 12 12:08 PM ET | Decode_speed | evaluated |  | submission.py | a1ba5d | 19.2/3.2/22.4 | 529.6 | 274.4 | 33.9 | 65.1 |
 | Apr 12 12:02 PM ET | ishan-pat | evaluated |  | submission.py | 99aac6 | 44.2/3.0/47.2 | 553.2 | 352.8 | 56.7 | 108.1 |
 | Apr 12 12:02 PM ET | ishan-pat | evaluated |  | develop.py | 99aac6 | 44.4/3.1/47.4 | 551.9 | 351.0 | 57.8 | 109.3 |
