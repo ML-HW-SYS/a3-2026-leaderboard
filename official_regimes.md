@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 10:12:53 AM ET`
+Last updated: `April 12, 2026 at 10:22:11 AM ET`
 
 ## R1 (tok/s)
 
@@ -32,13 +32,13 @@ Last updated: `April 12, 2026 at 10:12:53 AM ET`
 | 24 | ngoguen | evaluated | f69acc | 538.9 |
 | 25 | stefan | evaluated | a6f092 | 538.6 |
 | 26 | Shengwei | evaluated | 20b468 | 537.5 |
-| 27 | landrum | evaluated | 61ab81 | 535.7 |
-| 28 | sjb | evaluated | 373553 | 535.3 |
-| 29 | lipphi | evaluated | a3a71b | 534.8 |
-| 30 | chickfila | evaluated | f0956d | 534.5 |
-| 31 | Licha | evaluated | 9666cd | 534.4 |
-| 32 | Yize | evaluated | c8c9f7 | 534.4 |
-| 33 | ishan-pat | evaluated | 8762eb | 533.5 |
+| 27 | ishan-pat | evaluated | 4c7e91 | 537.2 |
+| 28 | landrum | evaluated | 61ab81 | 535.7 |
+| 29 | sjb | evaluated | 373553 | 535.3 |
+| 30 | lipphi | evaluated | a3a71b | 534.8 |
+| 31 | chickfila | evaluated | f0956d | 534.5 |
+| 32 | Licha | evaluated | 9666cd | 534.4 |
+| 33 | Yize | evaluated | c8c9f7 | 534.4 |
 | 34 | mdavalos10 | evaluated | 6e0754 | 533.3 |
 | 35 | pallavi-srinivas | evaluated | 3c1d3c | 533.0 |
 | 36 | gravlax | evaluated | b1229d | 532.3 |
@@ -71,7 +71,7 @@ Last updated: `April 12, 2026 at 10:12:53 AM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | f9450d |  |
+|  | TheProphet | failed | bdf8e4 |  |
 |  | tif03 | failed | 854b00 |  |
 
 ## R2 (tok/s)
@@ -113,7 +113,7 @@ Last updated: `April 12, 2026 at 10:12:53 AM ET`
 | 33 | gravlax | evaluated | b1229d | 272.5 |
 | 34 | Yize | evaluated | c8c9f7 | 269.9 |
 | 35 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
-| 36 | ishan-pat | evaluated | 8762eb | 258.7 |
+| 36 | ishan-pat | evaluated | 4c7e91 | 259.7 |
 | 37 | happyface | evaluated | 7e8b61 | 258.2 |
 | 38 | Decode_speed | evaluated | 76cc2d | 257.9 |
 | 39 | ethanchen | evaluated | ea518d | 251.2 |
@@ -143,7 +143,7 @@ Last updated: `April 12, 2026 at 10:12:53 AM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | f9450d |  |
+|  | TheProphet | failed | bdf8e4 |  |
 |  | tif03 | failed | 854b00 |  |
 
 ## R3 (ms)
@@ -177,8 +177,8 @@ Last updated: `April 12, 2026 at 10:12:53 AM ET`
 | 25 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
 | 26 | sjb | evaluated | 373553 | 50.8 |
 | 27 | abhik | evaluated | 0b4b08 | 55.4 |
-| 28 | vallabkaranam | evaluated | 0bdeec | 57.3 |
-| 29 | ishan-pat | evaluated | 8762eb | 57.7 |
+| 28 | ishan-pat | evaluated | 4c7e91 | 57.2 |
+| 29 | vallabkaranam | evaluated | 0bdeec | 57.3 |
 | 30 | Junyi Li | evaluated | c7a1b3 | 60.9 |
 | 31 | Licha | evaluated | 9666cd | 61.8 |
 | 32 | happyface | evaluated | 7e8b61 | 63.7 |
@@ -215,7 +215,7 @@ Last updated: `April 12, 2026 at 10:12:53 AM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | f9450d |  |
+|  | TheProphet | failed | bdf8e4 |  |
 |  | tif03 | failed | 854b00 |  |
 
 ## R4 (ms)
@@ -253,8 +253,8 @@ Last updated: `April 12, 2026 at 10:12:53 AM ET`
 | 29 | JasonWang07 | evaluated | a4b405 | 88.9 |
 | 30 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
 | 31 | abhik | evaluated | 0b4b08 | 107.2 |
-| 32 | vallabkaranam | evaluated | 0bdeec | 108.2 |
-| 33 | ishan-pat | evaluated | 8762eb | 109.1 |
+| 32 | ishan-pat | evaluated | 4c7e91 | 108.0 |
+| 33 | vallabkaranam | evaluated | 0bdeec | 108.2 |
 | 34 | alifim | evaluated | 701077 | 109.2 |
 | 35 | Junyi Li | evaluated | c7a1b3 | 113.1 |
 | 36 | beratcelik | evaluated | 863a89 | 113.8 |
@@ -287,5 +287,5 @@ Last updated: `April 12, 2026 at 10:12:53 AM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | f9450d |  |
+|  | TheProphet | failed | bdf8e4 |  |
 |  | tif03 | failed | 854b00 |  |

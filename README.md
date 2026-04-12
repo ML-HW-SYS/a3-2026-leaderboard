@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 12, 2026 at 10:12:53 AM ET`
+Last updated: `April 12, 2026 at 10:22:11 AM ET`
 
 ## Pages
 
@@ -45,7 +45,7 @@ Last updated: `April 12, 2026 at 10:12:53 AM ET`
 | 31 | leoli | evaluated | 5cdac4 | 20.6/3.1/23.8 | 1.174 | 544.1 | 327.5 | 71.0 | 87.4 |
 | 32 | abhik | evaluated | 0b4b08 | 19.4/3.3/22.6 | 1.159 | 507.2 | 319.2 | 55.4 | 107.2 |
 | 33 | vallabkaranam | evaluated | 0bdeec | 19.7/3.3/23.0 | 1.150 | 513.3 | 318.5 | 57.3 | 108.2 |
-| 34 | ishan-pat | evaluated | 8762eb | 25.0/3.6/28.6 | 1.098 | 533.5 | 258.7 | 57.7 | 109.1 |
+| 34 | ishan-pat | evaluated | 4c7e91 | 25.4/3.6/29.0 | 1.106 | 537.2 | 259.7 | 57.2 | 108.0 |
 | 35 | Licha | evaluated | 9666cd | 18.9/3.8/22.7 | 1.042 | 534.4 | 238.1 | 61.8 | 115.6 |
 | 36 | Decode_speed | evaluated | 76cc2d | 20.8/3.7/24.5 | 1.031 | 530.5 | 257.9 | 64.0 | 125.5 |
 | 37 | beratcelik | evaluated | 863a89 | 51.8/3.9/55.6 | 1.027 | 564.3 | 231.2 | 68.2 | 113.8 |
@@ -77,7 +77,7 @@ Last updated: `April 12, 2026 at 10:12:53 AM ET`
 |  | kade_lin_is_here | failed | 104152 | 13.0/3.1/16.1 |  |  |  |  |  |
 |  | siddarak | failed | d85766 | 21.8/9.2/31.0 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | TheProphet | failed | f9450d | 79.4/0.1/79.5 |  |  |  |  |  |
+|  | TheProphet | failed | bdf8e4 | 75.0/0.3/75.3 |  |  |  |  |  |
 |  | tif03 | failed | 854b00 | 19.7/6.2/25.9 |  |  |  |  |  |
 
 ## Column Guide
