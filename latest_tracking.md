@@ -1,10 +1,14 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 12:07:31 AM ET`
+Last updated: `April 12, 2026 at 12:18:48 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 12:09 AM ET | stefan | evaluated |  | develop.py | 4bac49 | 28.5/3.2/31.7 | 540.4 | 277.4 | 34.0 | 64.2 |
+| Apr 12 12:07 AM ET | axel4 | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | submission.py | 0cb14b | 80.9/4.0/84.9 | 511.7 | 168.3 | 0.0 | 0.0 |
+| Apr 12 12:07 AM ET | abhik | evaluated |  | submission.py | 4ab54e | 43.0/4.0/47.1 | 510.6 | 258.2 | 145.2 | 117.1 |
 | Apr 12 12:05 AM ET | vallabkaranam | failed_correctness | R1: SETUP: ERR: TypeError: dynamic_func() got multiple values for argument 'K' \| R2: SETUP: ERR: TypeError: dynamic_f... | develop.py | 1961b8 | 26.2/0.0/26.2 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 12 12:05 AM ET | ishan-pat | failed_correctness | Correctness FAIL \| R1 (90.63%), R2 (35.91%) \| max_abs_diff=14.54 | submission.py | 99c732 | 44.8/3.3/48.1 | 476.4 | 334.2 | 57.2 | 108.3 |
 | Apr 11 11:52 PM ET | vallabkaranam | failed_correctness | R1: SETUP: ERR: TypeError: _triton_int4_gemv() got an unexpected keyword argument 'in_features'. Did you mean 'out_fe... | develop.py | bc38d7 | 18.0/0.0/18.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 11 11:51 PM ET | axel4 | evaluated |  | submission.py | 5a3cae | 48.8/6.3/55.1 | 511.3 | 168.3 | 309.1 | 249.5 |
 | Apr 11 11:51 PM ET | axel4 | evaluated |  | develop.py | 5a3cae | 17.3/20.0/37.3 | 73.8 | 47.2 | 309.3 | 249.6 |

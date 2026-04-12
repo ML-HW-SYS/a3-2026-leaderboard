@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 12, 2026 at 12:07:31 AM ET`
+Last updated: `April 12, 2026 at 12:18:48 AM ET`
 
 ## R1 (tok/s)
 
@@ -36,7 +36,7 @@ Last updated: `April 12, 2026 at 12:07:31 AM ET`
 | 28 | landrum | develop.py | b61e15 | 540.9 |
 | 29 | pyjuan91 | submission.py | fe8f27 | 540.9 |
 | 30 | andrasferenczy | submission.py | 6204c7 | 540.6 |
-| 31 | stefan | develop.py | 3b3718 | 540.3 |
+| 31 | stefan | develop.py | 4bac49 | 540.4 |
 | 32 | abhik | develop.py | 41a3ec | 539.5 |
 | 33 | ishan-pat | submission.py | 22076e | 537.9 |
 | 34 | sjb | develop.py | 3359ec | 537.0 |
@@ -101,27 +101,27 @@ Last updated: `April 12, 2026 at 12:07:31 AM ET`
 | 26 | TA | submission.py | 324cb8 | 295.5 |
 | 27 | beratcelik | submission.py | 7c87c2 | 294.0 |
 | 28 | ngoguen | submission.py | ecab75 | 282.6 |
-| 29 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
-| 30 | landrum | submission.py | 61ab81 | 276.9 |
-| 31 | gravlax | develop.py | b1229d | 273.0 |
-| 32 | Yize | submission.py | c8c9f7 | 269.9 |
-| 33 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
-| 34 | ishan-pat | submission.py | 22076e | 260.2 |
-| 35 | happyface | develop.py | 0aca52 | 259.4 |
-| 36 | Decode_speed | submission.py | 76cc2d | 257.9 |
-| 37 | ethanchen | submission.py | ea518d | 251.2 |
-| 38 | fishyfins | develop.py | 87e789 | 243.3 |
-| 39 | 13rabbit | develop.py | b38df9 | 243.3 |
-| 40 | bl792 | develop.py | 09cd73 | 239.0 |
-| 41 | Licha | submission.py | 094c4b | 238.2 |
-| 42 | kade_lin_is_here | submission.py | 104152 | 237.9 |
-| 43 | abhik | submission.py | 572159 | 224.0 |
-| 44 | tuo | submission.py | 3d6d40 | 204.6 |
-| 45 | Sulaiman Alam | submission.py | c7ede2 | 197.4 |
-| 46 | ss4478 | submission.py | 9c8cb8 | 194.4 |
-| 47 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 48 | mdavalos10 | develop.py | 6e0754 | 170.7 |
-| 49 | stefan | submission.py | 583665 | 170.2 |
+| 29 | stefan | develop.py | 4bac49 | 277.4 |
+| 30 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
+| 31 | landrum | submission.py | 61ab81 | 276.9 |
+| 32 | gravlax | develop.py | b1229d | 273.0 |
+| 33 | Yize | submission.py | c8c9f7 | 269.9 |
+| 34 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
+| 35 | ishan-pat | submission.py | 22076e | 260.2 |
+| 36 | happyface | develop.py | 0aca52 | 259.4 |
+| 37 | abhik | submission.py | 4ab54e | 258.2 |
+| 38 | Decode_speed | submission.py | 76cc2d | 257.9 |
+| 39 | ethanchen | submission.py | ea518d | 251.2 |
+| 40 | fishyfins | develop.py | 87e789 | 243.3 |
+| 41 | 13rabbit | develop.py | b38df9 | 243.3 |
+| 42 | bl792 | develop.py | 09cd73 | 239.0 |
+| 43 | Licha | submission.py | 094c4b | 238.2 |
+| 44 | kade_lin_is_here | submission.py | 104152 | 237.9 |
+| 45 | tuo | submission.py | 3d6d40 | 204.6 |
+| 46 | Sulaiman Alam | submission.py | c7ede2 | 197.4 |
+| 47 | ss4478 | submission.py | 9c8cb8 | 194.4 |
+| 48 | your_nickname_here | submission.py | 59e245 | 173.4 |
+| 49 | mdavalos10 | develop.py | 6e0754 | 170.7 |
 | 50 | yoursun1220 | submission.py | 27e400 | 169.9 |
 | 51 | yb | submission.py | 2aa1a9 | 169.8 |
 | 52 | brandon_lorenzo | submission.py | 67c79e | 169.8 |
@@ -243,8 +243,8 @@ Last updated: `April 12, 2026 at 12:07:31 AM ET`
 | 33 | beratcelik | submission.py | 11c1b8 | 110.5 |
 | 34 | Junyi Li | submission.py | c7a1b3 | 113.1 |
 | 35 | Licha | submission.py | 9666cd | 115.6 |
-| 36 | ethanchen | submission.py | bf6f9e | 123.0 |
-| 37 | abhik | develop.py | 5d5d13 | 123.2 |
+| 36 | abhik | submission.py | 4ab54e | 117.1 |
+| 37 | ethanchen | submission.py | bf6f9e | 123.0 |
 | 38 | Decode_speed | submission.py | 76cc2d | 125.5 |
 | 39 | TA | submission.py | 324cb8 | 131.7 |
 | 40 | nicknam534534 | develop.py | cd4c9b | 134.6 |
