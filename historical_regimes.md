@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 12, 2026 at 12:42:34 PM ET`
+Last updated: `April 12, 2026 at 12:50:29 PM ET`
 
 ## R1 (tok/s)
 
@@ -159,12 +159,12 @@ Last updated: `April 12, 2026 at 12:42:34 PM ET`
 | 13 | zhumengzhiren | submission.py | 789cd3 | 27.9 |
 | 14 | abarat007 | submission.py | d7f626 | 28.1 |
 | 15 | pyjuan91 | submission.py | 430a83 | 28.8 |
-| 16 | ashaikh23 | submission.py | 84a425 | 29.1 |
-| 17 | landrum | develop.py | 4d2d51 | 29.6 |
-| 18 | stefan | develop.py | c521d2 | 29.6 |
-| 19 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
-| 20 | bl792 | develop.py | 09cd73 | 32.3 |
-| 21 | Decode_speed | submission.py | fa8e12 | 33.0 |
+| 16 | Decode_speed | submission.py | c5a40c | 29.0 |
+| 17 | ashaikh23 | submission.py | 84a425 | 29.1 |
+| 18 | landrum | develop.py | 4d2d51 | 29.6 |
+| 19 | stefan | develop.py | c521d2 | 29.6 |
+| 20 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
+| 21 | bl792 | develop.py | 09cd73 | 32.3 |
 | 22 | blabrl | submission.py | ca60eb | 33.7 |
 | 23 | chickfila | submission.py | f0956d | 34.7 |
 | 24 | gravlax | develop.py | b1229d | 35.0 |
@@ -235,11 +235,11 @@ Last updated: `April 12, 2026 at 12:42:34 PM ET`
 | 19 | Yize | submission.py | c8c9f7 | 53.1 |
 | 20 | landrum | develop.py | 4d2d51 | 53.5 |
 | 21 | stefan | develop.py | c521d2 | 54.3 |
-| 22 | gravlax | submission.py | b1229d | 59.7 |
-| 23 | bl792 | develop.py | 09cd73 | 59.8 |
-| 24 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 59.9 |
-| 25 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
-| 26 | Decode_speed | submission.py | fa8e12 | 64.1 |
+| 22 | Decode_speed | submission.py | c5a40c | 54.4 |
+| 23 | gravlax | submission.py | b1229d | 59.7 |
+| 24 | bl792 | develop.py | 09cd73 | 59.8 |
+| 25 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 59.9 |
+| 26 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
 | 27 | omermoav | submission.py | b01c0e | 64.6 |
 | 28 | blabrl | submission.py | ca60eb | 65.2 |
 | 29 | happyface | develop.py | 0aca52 | 65.7 |

@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 12:42:34 PM ET`
+Last updated: `April 12, 2026 at 12:50:29 PM ET`
 
 ## R1 (tok/s)
 
@@ -42,7 +42,7 @@ Last updated: `April 12, 2026 at 12:42:34 PM ET`
 | 34 | mdavalos10 | evaluated | 6e0754 | 533.3 |
 | 35 | pallavi-srinivas | evaluated | 3c1d3c | 533.0 |
 | 36 | gravlax | evaluated | b1229d | 532.3 |
-| 37 | Decode_speed | evaluated | fa8e12 | 530.7 |
+| 37 | Decode_speed | evaluated | c5a40c | 529.9 |
 | 38 | 13rabbit | evaluated | 49d27b | 529.4 |
 | 39 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
 | 40 | Junyi Li | evaluated | c7a1b3 | 527.3 |
@@ -112,7 +112,7 @@ Last updated: `April 12, 2026 at 12:42:34 PM ET`
 | 31 | stefan | evaluated | 9e3945 | 278.6 |
 | 32 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
 | 33 | landrum | evaluated | 61ab81 | 276.9 |
-| 34 | Decode_speed | evaluated | fa8e12 | 274.6 |
+| 34 | Decode_speed | evaluated | c5a40c | 273.9 |
 | 35 | gravlax | evaluated | b1229d | 272.5 |
 | 36 | Yize | evaluated | c8c9f7 | 269.9 |
 | 37 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
@@ -165,13 +165,13 @@ Last updated: `April 12, 2026 at 12:42:34 PM ET`
 | 11 | zhumengzhiren | evaluated | cf2924 | 28.0 |
 | 12 | abarat007 | evaluated | d7f626 | 28.1 |
 | 13 | pyjuan91 | evaluated | fe8f27 | 28.8 |
-| 14 | ashaikh23 | evaluated | 84a425 | 29.1 |
-| 15 | stefan | evaluated | 9e3945 | 29.8 |
-| 16 | landrum | evaluated | 61ab81 | 29.9 |
-| 17 | Shengwei | evaluated | 20b468 | 30.1 |
-| 18 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
-| 19 | bl792 | evaluated | 09cd73 | 32.4 |
-| 20 | Decode_speed | evaluated | fa8e12 | 33.0 |
+| 14 | Decode_speed | evaluated | c5a40c | 29.0 |
+| 15 | ashaikh23 | evaluated | 84a425 | 29.1 |
+| 16 | stefan | evaluated | 9e3945 | 29.8 |
+| 17 | landrum | evaluated | 61ab81 | 29.9 |
+| 18 | Shengwei | evaluated | 20b468 | 30.1 |
+| 19 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
+| 20 | bl792 | evaluated | 09cd73 | 32.4 |
 | 21 | blabrl | evaluated | ca60eb | 33.7 |
 | 22 | chickfila | evaluated | f0956d | 34.7 |
 | 23 | gravlax | evaluated | b1229d | 35.0 |
@@ -244,13 +244,13 @@ Last updated: `April 12, 2026 at 12:42:34 PM ET`
 | 17 | pyjuan91 | evaluated | fe8f27 | 53.3 |
 | 18 | sjb | evaluated | 373553 | 53.6 |
 | 19 | landrum | evaluated | 61ab81 | 53.7 |
-| 20 | stefan | evaluated | 9e3945 | 54.5 |
-| 21 | Shengwei | evaluated | 20b468 | 55.5 |
-| 22 | gravlax | evaluated | b1229d | 59.7 |
-| 23 | bl792 | evaluated | 09cd73 | 59.9 |
-| 24 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 59.9 |
-| 25 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
-| 26 | Decode_speed | evaluated | fa8e12 | 64.1 |
+| 20 | Decode_speed | evaluated | c5a40c | 54.4 |
+| 21 | stefan | evaluated | 9e3945 | 54.5 |
+| 22 | Shengwei | evaluated | 20b468 | 55.5 |
+| 23 | gravlax | evaluated | b1229d | 59.7 |
+| 24 | bl792 | evaluated | 09cd73 | 59.9 |
+| 25 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 59.9 |
+| 26 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
 | 27 | omermoav | evaluated | b01c0e | 64.6 |
 | 28 | blabrl | evaluated | ca60eb | 65.2 |
 | 29 | happyface | evaluated | 7e8b61 | 66.0 |

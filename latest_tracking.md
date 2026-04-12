@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 12:42:34 PM ET`
+Last updated: `April 12, 2026 at 12:50:29 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 12:40 PM ET | pick_a_nickname | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | 4ba686 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 12 12:39 PM ET | Decode_speed | evaluated |  | submission.py | c5a40c | 21.6/3.2/24.8 | 529.9 | 273.9 | 29.0 | 54.4 |
 | Apr 12 12:37 PM ET | tif03 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | c037ef | 15.8/9.7/25.5 | 165.8 | 117.5 | 308.5 | 246.7 |
 | Apr 12 12:36 PM ET | pick_a_nickname | evaluated |  | submission.py | c47490 | 27.2/6.2/33.4 | 525.7 | 169.9 | 309.4 | 249.3 |
 | Apr 12 12:29 PM ET | TheProphet | evaluated |  | submission.py | c4578d | 32.0/5.4/37.4 | 367.7 | 139.2 | 24.4 | 46.5 |
