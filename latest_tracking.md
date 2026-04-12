@@ -1,12 +1,14 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 05:13:02 PM ET`
+Last updated: `April 12, 2026 at 05:21:35 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 05:14 PM ET | happyface | failed_correctness | R2: SETUP: ERR: TypeError: scaled_dot_product_attention(): argument 'attn_mask' must be Tensor, not BlockMask \| R3: S... | develop.py | 3aec34 | 27.6/0.9/28.6 | 541.6 | 0.0 | 0.0 | 0.0 |
 | Apr 12 05:07 PM ET | happyface | failed_correctness | R1: SETUP: ERR: CompilationError: at 80:14: keep_block = keep_block & (local_keep \| long_keep) if keep_block: offs_t ... | develop.py | 9a8e6b | 17.5/0.0/17.5 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 12 05:03 PM ET | tif03 | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 72:16: kv_block = t0 // BLOCK_SIZE causal_block = kv_block <= q_bloc... | submission.py | 1765c1 | 15.5/0.0/15.5 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 12 05:03 PM ET | co-smith | evaluated |  | submission.py | ebd5c5 | 15.4/9.8/25.3 | 164.0 | 117.1 | 321.9 | 256.4 |
+| Apr 12 05:03 PM ET | co-smith | evaluated |  | develop.py | ebd5c5 | 19.4/9.4/28.8 | 199.5 | 112.4 | 323.7 | 256.8 |
 | Apr 12 05:00 PM ET | TheProphet | failed_correctness | R3: SETUP: ERR: AcceleratorError: CUDA error: an illegal memory access was encountered Search for `cudaErrorIllegalAd... | submission.py | 7af43e | 59.8/2.4/62.2 | 571.7 | 343.7 | 0.0 | 0.0 |
 | Apr 12 04:59 PM ET | tif03 | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 72:16: kv_block = t0 // BLOCK_SIZE causal_block = kv_block <= q_bloc... | submission.py | 3ffa5b | 15.5/0.0/15.5 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 12 04:57 PM ET | nickname55555555 | failed_correctness | R2: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | submission.py | 5aef32 | 29.1/1.2/30.3 | 566.4 | 0.0 | 27.8 | 49.3 |
