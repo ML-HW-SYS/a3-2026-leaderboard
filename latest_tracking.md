@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 01:06:17 PM ET`
+Last updated: `April 12, 2026 at 01:14:06 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 01:11 PM ET | tif03 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | a8498d | 15.0/9.5/24.5 | 170.9 | 118.9 | 309.7 | 247.3 |
 | Apr 12 01:04 PM ET | tif03 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | d19a92 | 16.0/9.5/25.5 | 169.1 | 119.3 | 308.4 | 246.7 |
 | Apr 12 12:55 PM ET | TheProphet | evaluated |  | submission.py | 91631a | 30.8/2.9/33.8 | 466.7 | 330.8 | 24.3 | 46.2 |
 | Apr 12 12:40 PM ET | pick_a_nickname | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | 4ba686 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
