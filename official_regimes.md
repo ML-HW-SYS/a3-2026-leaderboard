@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 03:02:26 PM ET`
+Last updated: `April 12, 2026 at 03:10:26 PM ET`
 
 ## R1 (tok/s)
 
@@ -9,8 +9,8 @@ Last updated: `April 12, 2026 at 03:02:26 PM ET`
 | 1 | - - | evaluated | adc0f3 | 591.4 |
 | 2 | omermoav | evaluated | b01c0e | 569.6 |
 | 3 | jl | evaluated | 8b6423 | 569.1 |
-| 4 | nickname55555555 | evaluated | 07c289 | 566.9 |
-| 5 | zhumengzhiren | evaluated | cf2924 | 566.6 |
+| 4 | zhumengzhiren | evaluated | cf2924 | 566.6 |
+| 5 | nickname55555555 | evaluated | b23d74 | 566.5 |
 | 6 | zionrangers | evaluated | 7758e0 | 565.7 |
 | 7 | beratcelik | evaluated | 863a89 | 564.3 |
 | 8 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 560.4 |
@@ -93,9 +93,9 @@ Last updated: `April 12, 2026 at 03:02:26 PM ET`
 | 12 | pyjuan91 | evaluated | fe8f27 | 363.6 |
 | 13 | Shengwei | evaluated | 327428 | 360.4 |
 | 14 | gm | evaluated | 2898fc | 357.0 |
-| 15 | ishan-pat | evaluated | 99aac6 | 352.8 |
-| 16 | sjb | evaluated | 373553 | 346.4 |
-| 17 | nickname55555555 | evaluated | 07c289 | 342.5 |
+| 15 | nickname55555555 | evaluated | b23d74 | 353.7 |
+| 16 | ishan-pat | evaluated | 99aac6 | 352.8 |
+| 17 | sjb | evaluated | 373553 | 346.4 |
 | 18 | JasonWang07 | evaluated | a4b405 | 342.2 |
 | 19 | Rithvik | evaluated | 2924a0 | 335.8 |
 | 20 | leoli | evaluated | 5cdac4 | 327.5 |
@@ -162,7 +162,7 @@ Last updated: `April 12, 2026 at 03:02:26 PM ET`
 | 8 | Rithvik | evaluated | 2924a0 | 27.1 |
 | 9 | zionrangers | evaluated | 7758e0 | 27.3 |
 | 10 | ss4478 | evaluated | c35426 | 27.6 |
-| 11 | nickname55555555 | evaluated | 07c289 | 27.9 |
+| 11 | nickname55555555 | evaluated | b23d74 | 27.9 |
 | 12 | zhumengzhiren | evaluated | cf2924 | 28.0 |
 | 13 | abarat007 | evaluated | d7f626 | 28.1 |
 | 14 | pyjuan91 | evaluated | fe8f27 | 28.8 |
@@ -235,7 +235,7 @@ Last updated: `April 12, 2026 at 03:02:26 PM ET`
 | 8 | ss4478 | evaluated | c35426 | 49.4 |
 | 9 | prousoglou | evaluated | 13e8de | 49.6 |
 | 10 | chickfila | evaluated | f0956d | 49.6 |
-| 11 | nickname55555555 | evaluated | 07c289 | 49.8 |
+| 11 | nickname55555555 | evaluated | b23d74 | 49.9 |
 | 12 | ashaikh23 | evaluated | 84a425 | 50.2 |
 | 13 | zhumengzhiren | evaluated | cf2924 | 50.2 |
 | 14 | ngoguen | evaluated | f69acc | 50.4 |
