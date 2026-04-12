@@ -1,10 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 02:44:59 PM ET`
+Last updated: `April 12, 2026 at 02:53:32 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 02:51 PM ET | tif03 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | 787c12 | 23.8/6.1/29.9 | 525.5 | 169.9 | 304.6 | 234.5 |
 | Apr 12 02:36 PM ET | nickname55555555 | evaluated |  | submission.py | 07c289 | 36.4/2.7/39.1 | 566.9 | 342.5 | 27.9 | 49.8 |
+| Apr 12 02:36 PM ET | nickname55555555 | evaluated |  | develop.py | 07c289 | 25.2/2.7/27.9 | 565.3 | 343.0 | 27.9 | 49.7 |
 | Apr 12 02:33 PM ET | Shengwei | evaluated |  | submission.py | 327428 | 19.4/2.7/22.1 | 538.8 | 360.4 | 26.6 | 47.9 |
 | Apr 12 02:13 PM ET | TheProphet | failed_correctness | R2: ERR: hard timeout exceeded (worker killed) \| R3: ERR: total timeout exceeded before regime start \| R4: ERR: total... | submission.py | e0683b | 54.4/0.8/55.2 | 649.6 | 0.0 | 0.0 | 0.0 |
 | Apr 12 02:07 PM ET | Shengwei | evaluated |  | submission.py | 651116 | 42.8/2.7/45.5 | 541.1 | 361.9 | 26.7 | 48.3 |
