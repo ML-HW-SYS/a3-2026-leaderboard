@@ -1,11 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 02:26:16 AM ET`
+Last updated: `April 12, 2026 at 02:35:02 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 02:21 AM ET | pallavi-srinivas | evaluated |  | submission.py | 3c1d3c | 19.2/3.7/22.8 | 533.0 | 302.6 | 105.4 | 151.0 |
 | Apr 12 02:18 AM ET | vallabkaranam | evaluated |  | develop.py | 676a25 | 22.9/3.3/26.2 | 512.0 | 317.8 | 57.5 | 109.3 |
 | Apr 12 02:17 AM ET | ss4478 | failed_correctness | R1: ERR: subprocess failed with exit code 1 \| R2: ERR: subprocess failed with exit code 1 \| R3: ERR: subprocess faile... | submission.py | ece454 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 12 02:17 AM ET | ss4478 | evaluated |  | develop.py | ece454 | 50.7/2.9/53.6 | 552.9 | 313.8 | 27.2 | 48.9 |
 | Apr 12 02:15 AM ET | vallabkaranam | evaluated |  | develop.py | 60363f | 29.9/3.3/33.2 | 510.6 | 317.8 | 57.8 | 109.8 |
 | Apr 12 02:10 AM ET | pallavi-srinivas | failed_correctness | Correctness FAIL \| R2 (88.58%), R3 (78.42%), R4 (83.54%) \| max_abs_diff=17 | submission.py | c1d5df | 18.7/3.3/22.0 | 521.4 | 330.4 | 67.5 | 126.5 |
 | Apr 12 02:10 AM ET | pallavi-srinivas | failed_correctness | Correctness FAIL \| R2 (88.58%), R3 (78.42%), R4 (83.54%) \| max_abs_diff=17 | develop.py | c1d5df | 18.7/3.3/22.0 | 525.6 | 332.5 | 68.0 | 125.4 |
