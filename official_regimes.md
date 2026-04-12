@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 04:36:14 PM ET`
+Last updated: `April 12, 2026 at 04:46:22 PM ET`
 
 ## R1 (tok/s)
 
@@ -72,7 +72,7 @@ Last updated: `April 12, 2026 at 04:36:14 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 60b091 |  |
+|  | TheProphet | failed | d2670a |  |
 |  | tif03 | failed | c7c887 |  |
 
 ## R2 (tok/s)
@@ -145,7 +145,7 @@ Last updated: `April 12, 2026 at 04:36:14 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 60b091 |  |
+|  | TheProphet | failed | d2670a |  |
 |  | tif03 | failed | c7c887 |  |
 
 ## R3 (ms)
@@ -218,7 +218,7 @@ Last updated: `April 12, 2026 at 04:36:14 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 60b091 |  |
+|  | TheProphet | failed | d2670a |  |
 |  | tif03 | failed | c7c887 |  |
 
 ## R4 (ms)
@@ -291,5 +291,5 @@ Last updated: `April 12, 2026 at 04:36:14 PM ET`
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 60b091 |  |
+|  | TheProphet | failed | d2670a |  |
 |  | tif03 | failed | c7c887 |  |

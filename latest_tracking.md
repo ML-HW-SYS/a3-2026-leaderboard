@@ -1,13 +1,17 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 04:36:14 PM ET`
+Last updated: `April 12, 2026 at 04:46:22 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 04:44 PM ET | happyface | failed_correctness | R1: SETUP: ERR: TypeError: AssignmentTransformerModel._forward_with_mask() got an unexpected keyword argument 'block_... | develop.py | 41cdaf | 13.6/0.0/13.6 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 12 04:34 PM ET | tif03 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | c7c887 | 19.7/6.2/25.9 | 523.0 | 169.8 | 308.0 | 246.3 |
+| Apr 12 04:33 PM ET | TheProphet | failed_correctness | R3: SETUP: ERR: AcceleratorError: CUDA error: an illegal memory access was encountered Search for `cudaErrorIllegalAd... | submission.py | d2670a | 75.7/2.4/78.1 | 572.7 | 343.5 | 0.0 | 0.0 |
 | Apr 12 04:24 PM ET | act | evaluated |  | submission.py | a54982 | 23.6/5.3/28.9 | 525.6 | 185.8 | 245.9 | 149.1 |
+| Apr 12 04:24 PM ET | act | evaluated |  | develop.py | a54982 | 21.4/5.4/26.8 | 522.4 | 180.7 | 246.3 | 147.2 |
 | Apr 12 04:24 PM ET | happyface | failed_correctness | R1: SETUP: ERR: TypeError: AssignmentTransformerModel._forward_with_mask() got an unexpected keyword argument 'block_... | develop.py | b835fb | 13.6/0.0/13.6 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 12 04:22 PM ET | Decode_speed | evaluated |  | submission.py | 8b78db | 23.9/3.1/27.0 | 525.4 | 274.2 | 25.0 | 46.9 |
+| Apr 12 04:22 PM ET | Decode_speed | evaluated |  | develop.py | 8b78db | 21.2/3.1/24.4 | 527.5 | 275.0 | 25.1 | 46.7 |
 | Apr 12 04:12 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.77%) \| max_abs_diff=12.19 | submission.py | 60b091 | 67.0/2.7/69.7 | 650.6 | 368.8 | 63.5 | 72.5 |
 | Apr 12 04:12 PM ET | tif03 | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | ed4e55 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 12 04:12 PM ET | tif03 | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | develop.py | ed4e55 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |

@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 12, 2026 at 04:36:14 PM ET`
+Last updated: `April 12, 2026 at 04:46:22 PM ET`
 
 ## R1 (tok/s)
 
@@ -10,11 +10,11 @@ Last updated: `April 12, 2026 at 04:36:14 PM ET`
 | 2 | - - | submission.py | adc0f3 | 591.4 |
 | 3 | fishyfins | develop.py | 866448 | 580.7 |
 | 4 | jl | submission.py | e6ce85 | 574.4 |
-| 5 | zhumengzhiren | develop.py | cf2924 | 571.1 |
-| 6 | omermoav | submission.py | b01c0e | 569.6 |
-| 7 | nickname55555555 | submission.py | 45cab4 | 568.8 |
-| 8 | zionrangers | develop.py | 7758e0 | 568.5 |
-| 9 | TheProphet | submission.py | 0a9c73 | 567.2 |
+| 5 | TheProphet | submission.py | d2670a | 572.7 |
+| 6 | zhumengzhiren | develop.py | cf2924 | 571.1 |
+| 7 | omermoav | submission.py | b01c0e | 569.6 |
+| 8 | nickname55555555 | submission.py | 45cab4 | 568.8 |
+| 9 | zionrangers | develop.py | 7758e0 | 568.5 |
 | 10 | beratcelik | submission.py | ecf890 | 564.7 |
 | 11 | ashaikh23 | submission.py | 062f0e | 563.6 |
 | 12 | abarat007 | develop.py | d7f626 | 562.9 |
@@ -216,7 +216,7 @@ Last updated: `April 12, 2026 at 04:36:14 PM ET`
 | --- | --- | --- | --- | --- |
 | 1 | - - | submission.py | 442030 | 44.4 |
 | 2 | TheProphet | develop.py | 5b306e | 46.2 |
-| 3 | Decode_speed | submission.py | 3ff088 | 46.9 |
+| 3 | Decode_speed | develop.py | 8b78db | 46.7 |
 | 4 | chyyy | develop.py | 34cc06 | 47.5 |
 | 5 | Rithvik | submission.py | 1523b4 | 47.6 |
 | 6 | Shengwei | submission.py | 327428 | 47.9 |
@@ -258,8 +258,8 @@ Last updated: `April 12, 2026 at 04:36:14 PM ET`
 | 42 | nicknam534534 | develop.py | cd4c9b | 134.6 |
 | 43 | kade_lin_is_here | submission.py | 5403c9 | 137.7 |
 | 44 | 13rabbit | submission.py | 49d27b | 141.4 |
-| 45 | jl | submission.py | e6ce85 | 148.1 |
-| 46 | act | submission.py | a54982 | 149.1 |
+| 45 | act | develop.py | a54982 | 147.2 |
+| 46 | jl | submission.py | e6ce85 | 148.1 |
 | 47 | pallavi-srinivas | submission.py | 72c655 | 149.7 |
 | 48 | lipphi | submission.py | a3a71b | 150.9 |
 | 49 | tuo | submission.py | 4274da | 160.5 |
