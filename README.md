@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 12, 2026 at 12:25:32 PM ET`
+Last updated: `April 12, 2026 at 12:33:23 PM ET`
 
 ## Pages
 
@@ -30,8 +30,8 @@ Last updated: `April 12, 2026 at 12:25:32 PM ET`
 | 16 | blabrl | evaluated | ca60eb | 19.3/2.6/21.9 | 1.593 | 557.4 | 383.3 | 33.7 | 65.2 |
 | 17 | omermoav | evaluated | b01c0e | 18.6/2.7/21.3 | 1.578 | 569.6 | 373.6 | 35.2 | 64.6 |
 | 18 | landrum | evaluated | 61ab81 | 22.7/3.1/25.8 | 1.573 | 535.7 | 276.9 | 29.9 | 53.7 |
-| 19 | PurplePickle67 | evaluated | 68d34e | 32.7/3.0/35.7 | 1.524 | 520.5 | 303.7 | 37.3 | 52.1 |
-| 20 | stefan | evaluated | 47712c | 21.8/3.2/25.0 | 1.509 | 534.1 | 277.4 | 31.7 | 59.8 |
+| 19 | stefan | evaluated | 9e3945 | 22.3/3.1/25.4 | 1.570 | 534.2 | 278.6 | 29.8 | 54.5 |
+| 20 | PurplePickle67 | evaluated | 68d34e | 32.7/3.0/35.7 | 1.524 | 520.5 | 303.7 | 37.3 | 52.1 |
 | 21 | andrasferenczy | evaluated | 9c7f53 | 37.3/3.2/40.5 | 1.486 | 539.1 | 277.2 | 31.9 | 63.7 |
 | 22 | gravlax | evaluated | b1229d | 19.9/3.2/23.1 | 1.464 | 532.3 | 272.5 | 35.0 | 59.7 |
 | 23 | Yize | evaluated | c8c9f7 | 24.6/3.2/27.9 | 1.462 | 534.4 | 269.9 | 39.4 | 53.1 |

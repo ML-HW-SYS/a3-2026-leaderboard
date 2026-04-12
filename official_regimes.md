@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 12:25:32 PM ET`
+Last updated: `April 12, 2026 at 12:33:23 PM ET`
 
 ## R1 (tok/s)
 
@@ -38,7 +38,7 @@ Last updated: `April 12, 2026 at 12:25:32 PM ET`
 | 30 | chickfila | evaluated | f0956d | 534.5 |
 | 31 | Licha | evaluated | 9666cd | 534.4 |
 | 32 | Yize | evaluated | c8c9f7 | 534.4 |
-| 33 | stefan | evaluated | 47712c | 534.1 |
+| 33 | stefan | evaluated | 9e3945 | 534.2 |
 | 34 | mdavalos10 | evaluated | 6e0754 | 533.3 |
 | 35 | pallavi-srinivas | evaluated | 3c1d3c | 533.0 |
 | 36 | gravlax | evaluated | b1229d | 532.3 |
@@ -108,7 +108,7 @@ Last updated: `April 12, 2026 at 12:25:32 PM ET`
 | 28 | pallavi-srinivas | evaluated | 3c1d3c | 302.6 |
 | 29 | TA | evaluated | a6e863 | 294.5 |
 | 30 | ngoguen | evaluated | f69acc | 282.0 |
-| 31 | stefan | evaluated | 47712c | 277.4 |
+| 31 | stefan | evaluated | 9e3945 | 278.6 |
 | 32 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
 | 33 | landrum | evaluated | 61ab81 | 276.9 |
 | 34 | Decode_speed | evaluated | fa8e12 | 274.6 |
@@ -163,9 +163,9 @@ Last updated: `April 12, 2026 at 12:25:32 PM ET`
 | 11 | abarat007 | evaluated | d7f626 | 28.1 |
 | 12 | pyjuan91 | evaluated | fe8f27 | 28.8 |
 | 13 | ashaikh23 | evaluated | 84a425 | 29.1 |
-| 14 | landrum | evaluated | 61ab81 | 29.9 |
-| 15 | Shengwei | evaluated | 20b468 | 30.1 |
-| 16 | stefan | evaluated | 47712c | 31.7 |
+| 14 | stefan | evaluated | 9e3945 | 29.8 |
+| 15 | landrum | evaluated | 61ab81 | 29.9 |
+| 16 | Shengwei | evaluated | 20b468 | 30.1 |
 | 17 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
 | 18 | bl792 | evaluated | 09cd73 | 32.4 |
 | 19 | Decode_speed | evaluated | fa8e12 | 33.0 |
@@ -240,9 +240,9 @@ Last updated: `April 12, 2026 at 12:25:32 PM ET`
 | 16 | pyjuan91 | evaluated | fe8f27 | 53.3 |
 | 17 | sjb | evaluated | 373553 | 53.6 |
 | 18 | landrum | evaluated | 61ab81 | 53.7 |
-| 19 | Shengwei | evaluated | 20b468 | 55.5 |
-| 20 | gravlax | evaluated | b1229d | 59.7 |
-| 21 | stefan | evaluated | 47712c | 59.8 |
+| 19 | stefan | evaluated | 9e3945 | 54.5 |
+| 20 | Shengwei | evaluated | 20b468 | 55.5 |
+| 21 | gravlax | evaluated | b1229d | 59.7 |
 | 22 | bl792 | evaluated | 09cd73 | 59.9 |
 | 23 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 59.9 |
 | 24 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
