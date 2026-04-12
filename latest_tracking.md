@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 11, 2026 at 08:09:07 PM ET`
+Last updated: `April 11, 2026 at 08:16:58 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 11 08:09 PM ET | Decode_speed | evaluated |  | submission.py | d2bbad | 19.8/6.2/26.0 | 526.8 | 168.8 | 310.3 | 248.6 |
 | Apr 11 08:01 PM ET | Decode_speed | evaluated |  | submission.py | 46dbb9 | 40.5/7.7/48.2 | 532.0 | 143.9 | 474.1 | 331.0 |
 | Apr 11 08:00 PM ET | 13rabbit | evaluated |  | develop.py | 1dde1f | 18.7/4.1/22.8 | 534.0 | 234.1 | 97.1 | 142.1 |
 | Apr 11 07:52 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.75%) \| max_abs_diff=12.18 | submission.py | 0a088e | 49.5/2.5/52.0 | 571.0 | 384.8 | 24.1 | 46.5 |

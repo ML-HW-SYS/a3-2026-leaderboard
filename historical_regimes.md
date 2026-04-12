@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 11, 2026 at 08:09:07 PM ET`
+Last updated: `April 11, 2026 at 08:16:58 PM ET`
 
 ## R1 (tok/s)
 
@@ -191,7 +191,7 @@ Last updated: `April 11, 2026 at 08:09:07 PM ET`
 | 53 | yb | submission.py | 2aa1a9 | 309.3 |
 | 54 | jbc | develop.py | 4e7308 | 309.3 |
 | 55 | poppyPotatoe | submission.py | 311dc9 | 309.5 |
-| 56 | Decode_speed | develop.py | 49150c | 310.4 |
+| 56 | Decode_speed | submission.py | d2bbad | 310.3 |
 | 57 | mdavalos10 | develop.py | 6e0754 | 310.8 |
 | 58 | castillo | develop.py | 0e93de | 310.9 |
 | 59 | act | develop.py | 1b5e17 | 310.9 |
@@ -252,10 +252,10 @@ Last updated: `April 11, 2026 at 08:09:07 PM ET`
 | 48 | hw_bloss | submission.py | b2767b | 237.0 |
 | 49 | Sulaiman Alam | develop.py | c7ede2 | 244.4 |
 | 50 | your_nickname_here | submission.py | 59e245 | 245.7 |
-| 51 | yoursun1220 | submission.py | 27e400 | 248.7 |
-| 52 | poppyPotatoe | submission.py | 311dc9 | 248.9 |
-| 53 | jbc | develop.py | 4e7308 | 248.9 |
-| 54 | Decode_speed | develop.py | 3cbb03 | 249.0 |
+| 51 | Decode_speed | submission.py | d2bbad | 248.6 |
+| 52 | yoursun1220 | submission.py | 27e400 | 248.7 |
+| 53 | poppyPotatoe | submission.py | 311dc9 | 248.9 |
+| 54 | jbc | develop.py | 4e7308 | 248.9 |
 | 55 | brandon_lorenzo | submission.py | 67c79e | 249.6 |
 | 56 | castillo | develop.py | 0e93de | 250.2 |
 | 57 | yb | submission.py | 2aa1a9 | 250.5 |

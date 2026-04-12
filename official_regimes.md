@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 11, 2026 at 08:09:07 PM ET`
+Last updated: `April 11, 2026 at 08:16:58 PM ET`
 
 ## R1 (tok/s)
 
@@ -41,10 +41,10 @@ Last updated: `April 11, 2026 at 08:09:07 PM ET`
 | 33 | Yize | evaluated | c8c9f7 | 534.4 |
 | 34 | mdavalos10 | evaluated | 6e0754 | 533.3 |
 | 35 | gravlax | evaluated | b1229d | 532.3 |
-| 36 | Decode_speed | evaluated | 46dbb9 | 532.0 |
-| 37 | pallavi-srinivas | evaluated | d645d5 | 529.9 |
-| 38 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
-| 39 | Junyi Li | evaluated | c7a1b3 | 527.3 |
+| 36 | pallavi-srinivas | evaluated | d645d5 | 529.9 |
+| 37 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
+| 38 | Junyi Li | evaluated | c7a1b3 | 527.3 |
+| 39 | Decode_speed | evaluated | d2bbad | 526.8 |
 | 40 | castillo | evaluated | 0e93de | 526.6 |
 | 41 | yb | evaluated | ea23ab | 525.9 |
 | 42 | bl792 | evaluated | 09cd73 | 524.7 |
@@ -127,10 +127,10 @@ Last updated: `April 11, 2026 at 08:09:07 PM ET`
 | 49 | castillo | evaluated | 0e93de | 169.0 |
 | 50 | jbc | evaluated | 12bb20 | 169.0 |
 | 51 | act | evaluated | 899777 | 169.0 |
-| 52 | yb | evaluated | ea23ab | 168.8 |
-| 53 | mdavalos10 | evaluated | 6e0754 | 159.3 |
-| 54 | nicknam534534 | evaluated | 83a901 | 148.4 |
-| 55 | Decode_speed | evaluated | 46dbb9 | 143.9 |
+| 52 | Decode_speed | evaluated | d2bbad | 168.8 |
+| 53 | yb | evaluated | ea23ab | 168.8 |
+| 54 | mdavalos10 | evaluated | 6e0754 | 159.3 |
+| 55 | nicknam534534 | evaluated | 83a901 | 148.4 |
 | 56 | abhik | evaluated | bf55dc | 127.8 |
 | 57 | co-smith | evaluated | dcfadf | 112.4 |
 | 58 | poppyPotatoe | evaluated | eea264 | 109.8 |
@@ -194,16 +194,16 @@ Last updated: `April 11, 2026 at 08:09:07 PM ET`
 | 46 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 47 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
 | 48 | brandon_lorenzo | evaluated | 67c79e | 309.2 |
-| 49 | yoursun1220 | evaluated | d8b590 | 310.7 |
-| 50 | act | evaluated | 899777 | 310.9 |
-| 51 | jbc | evaluated | 12bb20 | 311.3 |
-| 52 | mdavalos10 | evaluated | 6e0754 | 311.3 |
-| 53 | poppyPotatoe | evaluated | eea264 | 311.3 |
-| 54 | castillo | evaluated | 0e93de | 311.4 |
-| 55 | yb | evaluated | ea23ab | 312.3 |
-| 56 | co-smith | evaluated | dcfadf | 323.6 |
-| 57 | nicknam534534 | evaluated | 83a901 | 405.3 |
-| 58 | Decode_speed | evaluated | 46dbb9 | 474.1 |
+| 49 | Decode_speed | evaluated | d2bbad | 310.3 |
+| 50 | yoursun1220 | evaluated | d8b590 | 310.7 |
+| 51 | act | evaluated | 899777 | 310.9 |
+| 52 | jbc | evaluated | 12bb20 | 311.3 |
+| 53 | mdavalos10 | evaluated | 6e0754 | 311.3 |
+| 54 | poppyPotatoe | evaluated | eea264 | 311.3 |
+| 55 | castillo | evaluated | 0e93de | 311.4 |
+| 56 | yb | evaluated | ea23ab | 312.3 |
+| 57 | co-smith | evaluated | dcfadf | 323.6 |
+| 58 | nicknam534534 | evaluated | 83a901 | 405.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
@@ -263,17 +263,17 @@ Last updated: `April 11, 2026 at 08:09:07 PM ET`
 | 45 | hw_bloss | evaluated | 4c9666 | 239.1 |
 | 46 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
 | 47 | your_nickname_here | evaluated | f10b9b | 246.4 |
-| 48 | brandon_lorenzo | evaluated | 67c79e | 249.6 |
-| 49 | yoursun1220 | evaluated | d8b590 | 250.1 |
-| 50 | castillo | evaluated | 0e93de | 250.4 |
-| 51 | yb | evaluated | ea23ab | 250.6 |
-| 52 | act | evaluated | 899777 | 250.7 |
-| 53 | jbc | evaluated | 12bb20 | 251.3 |
-| 54 | mdavalos10 | evaluated | 6e0754 | 251.5 |
-| 55 | poppyPotatoe | evaluated | eea264 | 251.9 |
-| 56 | co-smith | evaluated | dcfadf | 257.4 |
-| 57 | nicknam534534 | evaluated | 83a901 | 268.7 |
-| 58 | Decode_speed | evaluated | 46dbb9 | 331.0 |
+| 48 | Decode_speed | evaluated | d2bbad | 248.6 |
+| 49 | brandon_lorenzo | evaluated | 67c79e | 249.6 |
+| 50 | yoursun1220 | evaluated | d8b590 | 250.1 |
+| 51 | castillo | evaluated | 0e93de | 250.4 |
+| 52 | yb | evaluated | ea23ab | 250.6 |
+| 53 | act | evaluated | 899777 | 250.7 |
+| 54 | jbc | evaluated | 12bb20 | 251.3 |
+| 55 | mdavalos10 | evaluated | 6e0754 | 251.5 |
+| 56 | poppyPotatoe | evaluated | eea264 | 251.9 |
+| 57 | co-smith | evaluated | dcfadf | 257.4 |
+| 58 | nicknam534534 | evaluated | 83a901 | 268.7 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
