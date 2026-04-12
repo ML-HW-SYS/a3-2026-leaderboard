@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 11, 2026 at 09:33:43 PM ET`
+Last updated: `April 11, 2026 at 09:43:26 PM ET`
 
 ## R1 (tok/s)
 
@@ -225,7 +225,7 @@ Last updated: `April 11, 2026 at 09:33:43 PM ET`
 | 21 | bl792 | develop.py | 09cd73 | 59.8 |
 | 22 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 59.9 |
 | 23 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
-| 24 | stefan | develop.py | 9023a1 | 64.3 |
+| 24 | stefan | submission.py | 07c9f0 | 64.1 |
 | 25 | omermoav | submission.py | b01c0e | 64.6 |
 | 26 | blabrl | submission.py | ca60eb | 65.2 |
 | 27 | happyface | develop.py | 0aca52 | 65.7 |
