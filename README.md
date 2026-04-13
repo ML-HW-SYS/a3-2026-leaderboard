@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 13, 2026 at 08:36:31 AM ET`
+Last updated: `April 13, 2026 at 08:44:39 AM ET`
 
 ## Pages
 
@@ -40,7 +40,7 @@ Last updated: `April 13, 2026 at 08:36:31 AM ET`
 | 26 | sjb | evaluated | 373553 | 28.3/2.9/31.1 | 1.457 | 535.3 | 346.4 | 50.8 | 53.6 |
 | 27 | bl792 | evaluated | 09cd73 | 18.3/3.5/21.8 | 1.438 | 524.7 | 238.8 | 32.4 | 59.9 |
 | 28 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 41.6/3.3/44.9 | 1.370 | 515.1 | 266.6 | 43.1 | 59.9 |
-| 29 | TheProphet | evaluated | 45f599 | 25.1/2.9/28.0 | 1.296 | 576.9 | 345.7 | 64.0 | 73.2 |
+| 29 | TheProphet | evaluated | 4f904c | 37.5/4.6/42.1 | 1.347 | 246.7 | 226.6 | 24.2 | 46.4 |
 | 30 | happyface | evaluated | 7e8b61 | 18.5/3.4/22.0 | 1.219 | 543.0 | 258.2 | 63.7 | 66.0 |
 | 31 | ishan-pat | evaluated | 99aac6 | 44.2/3.0/47.2 | 1.205 | 553.2 | 352.8 | 56.7 | 108.1 |
 | 32 | JasonWang07 | evaluated | a4b405 | 22.9/3.1/26.0 | 1.185 | 547.1 | 342.2 | 70.8 | 88.9 |

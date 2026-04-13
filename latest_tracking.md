@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 08:36:31 AM ET`
+Last updated: `April 13, 2026 at 08:44:39 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 08:38 AM ET | TheProphet | evaluated |  | submission.py | 4f904c | 37.5/4.6/42.1 | 246.7 | 226.6 | 24.2 | 46.4 |
 | Apr 13 08:07 AM ET | TheProphet | evaluated |  | submission.py | 45f599 | 25.1/2.9/28.0 | 576.9 | 345.7 | 64.0 | 73.2 |
 | Apr 13 07:30 AM ET | TheProphet | evaluated |  | submission.py | ab7156 | 62.0/4.4/66.5 | 589.1 | 171.7 | 66.4 | 76.0 |
 | Apr 13 07:13 AM ET | TheProphet | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | submission.py | 1ea373 | 59.7/3.7/63.5 | 589.3 | 179.3 | 0.0 | 0.0 |
