@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 12, 2026 at 10:04:38 PM ET`
+Last updated: `April 12, 2026 at 10:13:11 PM ET`
 
 ## R1 (tok/s)
 
@@ -8,22 +8,22 @@ Last updated: `April 12, 2026 at 10:04:38 PM ET`
 | --- | --- | --- | --- | --- |
 | 1 | prousoglou | develop.py | 5379db | 601.0 |
 | 2 | - - | submission.py | adc0f3 | 591.4 |
-| 3 | fishyfins | develop.py | 866448 | 580.7 |
-| 4 | jl | submission.py | e6ce85 | 574.4 |
-| 5 | TheProphet | submission.py | d2670a | 572.7 |
+| 3 | TheProphet | submission.py | dd4633 | 584.7 |
+| 4 | fishyfins | develop.py | 866448 | 580.7 |
+| 5 | jl | submission.py | e6ce85 | 574.4 |
 | 6 | zhumengzhiren | develop.py | cf2924 | 571.1 |
 | 7 | omermoav | submission.py | b01c0e | 569.6 |
 | 8 | nickname55555555 | submission.py | 45cab4 | 568.8 |
 | 9 | zionrangers | develop.py | 7758e0 | 568.5 |
 | 10 | beratcelik | submission.py | ecf890 | 564.7 |
 | 11 | ashaikh23 | submission.py | 062f0e | 563.6 |
-| 12 | abarat007 | develop.py | d7f626 | 562.9 |
-| 13 | act | develop.py | fce2ab | 562.9 |
-| 14 | JasonWang07 | submission.py | 1b4aca | 561.1 |
-| 15 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 560.4 |
-| 16 | your_nickname_here | submission.py | 59e245 | 559.6 |
-| 17 | blabrl | develop.py | 9873f9 | 559.5 |
-| 18 | goingbananas | submission.py | fc1133 | 558.9 |
+| 12 | goingbananas | develop.py | fc1133 | 563.5 |
+| 13 | abarat007 | develop.py | d7f626 | 562.9 |
+| 14 | act | develop.py | fce2ab | 562.9 |
+| 15 | JasonWang07 | submission.py | 1b4aca | 561.1 |
+| 16 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 560.4 |
+| 17 | your_nickname_here | submission.py | 59e245 | 559.6 |
+| 18 | blabrl | develop.py | 9873f9 | 559.5 |
 | 19 | co-smith | develop.py | 407280 | 558.6 |
 | 20 | chyyy | submission.py | 56b321 | 557.7 |
 | 21 | TA | submission.py | a6e863 | 556.6 |

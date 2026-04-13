@@ -1,10 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 10:04:38 PM ET`
+Last updated: `April 12, 2026 at 10:13:11 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 10:00 PM ET | TheProphet | failed_correctness | R2: SETUP: ERR: AcceleratorError: CUDA error: an illegal memory access was encountered Search for `cudaErrorIllegalAd... | submission.py | dd4633 | 29.1/0.9/30.0 | 584.7 | 0.0 | 0.0 | 0.0 |
 | Apr 12 09:52 PM ET | goingbananas | failed_correctness | Correctness FAIL \| R2 (88.57%), R3 (78.40%), R4 (83.55%) \| max_abs_diff=16.99 | submission.py | fc1133 | 62.7/3.6/66.3 | 558.9 | 265.6 | 64.3 | 114.1 |
+| Apr 12 09:52 PM ET | goingbananas | failed_correctness | Correctness FAIL \| R2 (88.28%), R3 (78.40%), R4 (83.55%) \| max_abs_diff=16.99 | develop.py | fc1133 | 26.5/3.6/30.0 | 563.5 | 265.0 | 65.6 | 115.2 |
 | Apr 12 09:06 PM ET | nicknam534534 | evaluated |  | submission.py | 59bdfc | 33.5/3.8/37.2 | 503.8 | 256.3 | 64.8 | 126.3 |
 | Apr 12 08:59 PM ET | goingbananas | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 7f35a8 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 12 08:59 PM ET | goingbananas | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | 7f35a8 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
