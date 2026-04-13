@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 01:18:18 PM ET`
+Last updated: `April 13, 2026 at 01:29:03 PM ET`
 
 ## R1 (tok/s)
 
@@ -239,8 +239,8 @@ Last updated: `April 13, 2026 at 01:18:18 PM ET`
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | submission.py | 442030 | 44.4 |
-| 2 | Decode_speed | develop.py | d54f1d | 46.1 |
-| 3 | TheProphet | develop.py | 5b306e | 46.2 |
+| 2 | TheProphet | submission.py | 10217b | 46.1 |
+| 3 | Decode_speed | develop.py | d54f1d | 46.1 |
 | 4 | chyyy | develop.py | 34cc06 | 47.5 |
 | 5 | Shengwei | submission.py | 55fd4e | 47.5 |
 | 6 | Rithvik | submission.py | 1523b4 | 47.6 |

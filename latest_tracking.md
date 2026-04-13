@@ -1,10 +1,14 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 01:18:18 PM ET`
+Last updated: `April 13, 2026 at 01:29:03 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 01:23 PM ET | ck | evaluated |  | submission.py | c35857 | 27.1/6.3/33.3 | 519.6 | 169.3 | 310.9 | 251.1 |
+| Apr 13 01:17 PM ET | TheProphet | evaluated |  | submission.py | 10217b | 79.9/4.5/84.3 | 181.2 | 371.7 | 24.0 | 46.1 |
+| Apr 13 01:17 PM ET | jbc | evaluated |  | submission.py | 70a8e0 | 19.7/19.1/38.9 | 527.0 | 32.2 | 312.1 | 251.1 |
 | Apr 13 01:13 PM ET | Akash Basu | evaluated |  | submission.py | b0a419 | 41.8/6.2/48.1 | 525.9 | 169.5 | 309.8 | 250.2 |
+| Apr 13 01:13 PM ET | Akash Basu | evaluated |  | develop.py | b0a419 | 19.6/6.2/25.9 | 524.9 | 169.4 | 310.1 | 250.3 |
 | Apr 13 12:59 PM ET | jbc | evaluated |  | submission.py | aaf397 | 47.9/6.3/54.1 | 527.8 | 168.7 | 311.8 | 250.0 |
 | Apr 13 12:59 PM ET | jbc | evaluated |  | develop.py | aaf397 | 19.6/6.2/25.9 | 531.0 | 168.5 | 311.7 | 249.6 |
 | Apr 13 12:44 PM ET | co-smith | evaluated |  | develop.py | d8d4f1 | 60.8/4.3/65.1 | 448.0 | 404.8 | 288.6 | 187.2 |
