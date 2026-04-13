@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 13, 2026 at 02:28:43 AM ET`
+Last updated: `April 13, 2026 at 02:36:55 AM ET`
 
 ## Pages
 
@@ -60,12 +60,12 @@ Last updated: `April 13, 2026 at 02:28:43 AM ET`
 | 46 | pallavi-srinivas | evaluated | 3c1d3c | 19.2/3.7/22.8 | 0.905 | 533.0 | 302.6 | 105.4 | 151.0 |
 | 47 | 13rabbit | evaluated | 49d27b | 18.7/4.1/22.8 | 0.880 | 529.4 | 234.5 | 97.1 | 141.4 |
 | 48 | tuo | evaluated | 3d6d40 | 74.5/4.9/79.3 | 0.704 | 494.8 | 204.6 | 167.8 | 162.8 |
-| 49 | fishyfins | evaluated | 468ef1 | 67.6/6.0/73.7 | 0.546 | 565.9 | 172.8 | 306.5 | 237.7 |
-| 50 | Sulaiman Alam | evaluated | c7ede2 | 21.7/5.8/27.5 | 0.545 | 511.2 | 197.4 | 308.7 | 245.0 |
-| 51 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
-| 52 | dylanjhnsondj | evaluated | c4e1ab | 59.0/6.2/65.1 | 0.535 | 527.3 | 169.6 | 306.0 | 236.8 |
-| 53 | hw_bloss | evaluated | 4c9666 | 23.8/6.2/30.0 | 0.531 | 522.2 | 169.1 | 308.1 | 239.1 |
-| 54 | hngydn20 | evaluated | ce7855 | 38.2/6.2/44.4 | 0.529 | 534.4 | 170.4 | 308.8 | 248.7 |
+| 49 | hngydn20 | evaluated | 630c81 | 40.2/5.7/45.9 | 0.554 | 550.4 | 197.8 | 309.0 | 247.9 |
+| 50 | fishyfins | evaluated | 468ef1 | 67.6/6.0/73.7 | 0.546 | 565.9 | 172.8 | 306.5 | 237.7 |
+| 51 | Sulaiman Alam | evaluated | c7ede2 | 21.7/5.8/27.5 | 0.545 | 511.2 | 197.4 | 308.7 | 245.0 |
+| 52 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
+| 53 | dylanjhnsondj | evaluated | c4e1ab | 59.0/6.2/65.1 | 0.535 | 527.3 | 169.6 | 306.0 | 236.8 |
+| 54 | hw_bloss | evaluated | 4c9666 | 23.8/6.2/30.0 | 0.531 | 522.2 | 169.1 | 308.1 | 239.1 |
 | 55 | mdavalos10 | evaluated | eca698 | 22.4/6.2/28.6 | 0.527 | 529.8 | 170.5 | 310.3 | 250.2 |
 | 56 | brandon_lorenzo | evaluated | 67c79e | 19.7/6.2/26.0 | 0.526 | 524.1 | 169.8 | 309.2 | 249.6 |
 | 57 | pick_a_nickname | evaluated | c47490 | 27.2/6.2/33.4 | 0.526 | 525.7 | 169.9 | 309.4 | 249.3 |

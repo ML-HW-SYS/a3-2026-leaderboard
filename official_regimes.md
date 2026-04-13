@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 13, 2026 at 02:28:43 AM ET`
+Last updated: `April 13, 2026 at 02:36:55 AM ET`
 
 ## R1 (tok/s)
 
@@ -25,24 +25,24 @@ Last updated: `April 13, 2026 at 02:28:43 AM ET`
 | 17 | ashaikh23 | evaluated | 84a425 | 555.4 |
 | 18 | prousoglou | evaluated | 13e8de | 554.7 |
 | 19 | ishan-pat | evaluated | 99aac6 | 553.2 |
-| 20 | ss4478 | evaluated | c35426 | 547.8 |
-| 21 | JasonWang07 | evaluated | a4b405 | 547.1 |
-| 22 | leoli | evaluated | 5cdac4 | 544.1 |
-| 23 | happyface | evaluated | 7e8b61 | 543.0 |
-| 24 | gm | evaluated | 2898fc | 541.1 |
-| 25 | 1_Core_2GHz_Colab_CPU | evaluated | 4e42ed | 540.9 |
-| 26 | pyjuan91 | evaluated | fe8f27 | 540.9 |
-| 27 | alifim | evaluated | 701077 | 539.6 |
-| 28 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
-| 29 | ngoguen | evaluated | f69acc | 538.9 |
-| 30 | Shengwei | evaluated | 327428 | 538.8 |
-| 31 | landrum | evaluated | 61ab81 | 535.7 |
-| 32 | sjb | evaluated | 373553 | 535.3 |
-| 33 | lipphi | evaluated | a3a71b | 534.8 |
-| 34 | chickfila | evaluated | f0956d | 534.5 |
-| 35 | Licha | evaluated | 9666cd | 534.4 |
-| 36 | Yize | evaluated | c8c9f7 | 534.4 |
-| 37 | hngydn20 | evaluated | ce7855 | 534.4 |
+| 20 | hngydn20 | evaluated | 630c81 | 550.4 |
+| 21 | ss4478 | evaluated | c35426 | 547.8 |
+| 22 | JasonWang07 | evaluated | a4b405 | 547.1 |
+| 23 | leoli | evaluated | 5cdac4 | 544.1 |
+| 24 | happyface | evaluated | 7e8b61 | 543.0 |
+| 25 | gm | evaluated | 2898fc | 541.1 |
+| 26 | 1_Core_2GHz_Colab_CPU | evaluated | 4e42ed | 540.9 |
+| 27 | pyjuan91 | evaluated | fe8f27 | 540.9 |
+| 28 | alifim | evaluated | 701077 | 539.6 |
+| 29 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
+| 30 | ngoguen | evaluated | f69acc | 538.9 |
+| 31 | Shengwei | evaluated | 327428 | 538.8 |
+| 32 | landrum | evaluated | 61ab81 | 535.7 |
+| 33 | sjb | evaluated | 373553 | 535.3 |
+| 34 | lipphi | evaluated | a3a71b | 534.8 |
+| 35 | chickfila | evaluated | f0956d | 534.5 |
+| 36 | Licha | evaluated | 9666cd | 534.4 |
+| 37 | Yize | evaluated | c8c9f7 | 534.4 |
 | 38 | stefan | evaluated | 9e3945 | 534.2 |
 | 39 | pallavi-srinivas | evaluated | 3c1d3c | 533.0 |
 | 40 | gravlax | evaluated | b1229d | 532.3 |
@@ -129,12 +129,12 @@ Last updated: `April 13, 2026 at 02:28:43 AM ET`
 | 44 | 13rabbit | evaluated | 49d27b | 234.5 |
 | 45 | beratcelik | evaluated | 863a89 | 231.2 |
 | 46 | tuo | evaluated | 3d6d40 | 204.6 |
-| 47 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
-| 48 | TheProphet | evaluated | 9402e5 | 181.5 |
-| 49 | your_nickname_here | evaluated | f10b9b | 173.1 |
-| 50 | fishyfins | evaluated | 468ef1 | 172.8 |
-| 51 | mdavalos10 | evaluated | eca698 | 170.5 |
-| 52 | hngydn20 | evaluated | ce7855 | 170.4 |
+| 47 | hngydn20 | evaluated | 630c81 | 197.8 |
+| 48 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
+| 49 | TheProphet | evaluated | 9402e5 | 181.5 |
+| 50 | your_nickname_here | evaluated | f10b9b | 173.1 |
+| 51 | fishyfins | evaluated | 468ef1 | 172.8 |
+| 52 | mdavalos10 | evaluated | eca698 | 170.5 |
 | 53 | pick_a_nickname | evaluated | c47490 | 169.9 |
 | 54 | brandon_lorenzo | evaluated | 67c79e | 169.8 |
 | 55 | Junyi Li | evaluated | c7a1b3 | 169.7 |
@@ -214,7 +214,7 @@ Last updated: `April 13, 2026 at 02:28:43 AM ET`
 | 52 | hw_bloss | evaluated | 4c9666 | 308.1 |
 | 53 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 54 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
-| 55 | hngydn20 | evaluated | ce7855 | 308.8 |
+| 55 | hngydn20 | evaluated | 630c81 | 309.0 |
 | 56 | brandon_lorenzo | evaluated | 67c79e | 309.2 |
 | 57 | pick_a_nickname | evaluated | c47490 | 309.4 |
 | 58 | tif03 | evaluated | ec268d | 309.4 |
@@ -291,7 +291,7 @@ Last updated: `April 13, 2026 at 02:28:43 AM ET`
 | 52 | hw_bloss | evaluated | 4c9666 | 239.1 |
 | 53 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
 | 54 | your_nickname_here | evaluated | f10b9b | 246.4 |
-| 55 | hngydn20 | evaluated | ce7855 | 248.7 |
+| 55 | hngydn20 | evaluated | 630c81 | 247.9 |
 | 56 | pick_a_nickname | evaluated | c47490 | 249.3 |
 | 57 | axel4 | evaluated | d11960 | 249.3 |
 | 58 | tif03 | evaluated | ec268d | 249.5 |
