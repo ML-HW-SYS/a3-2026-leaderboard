@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 13, 2026 at 04:50:27 PM ET`
+Last updated: `April 13, 2026 at 05:03:23 PM ET`
 
 ## R1 (tok/s)
 
@@ -38,7 +38,7 @@ Last updated: `April 13, 2026 at 04:50:27 PM ET`
 | 30 | ngoguen | evaluated | f69acc | 538.9 |
 | 31 | axel4 | evaluated | 66964d | 537.9 |
 | 32 | Shengwei | evaluated | f78d37 | 537.7 |
-| 33 | onlythingIcanDOisTAPEOUT | evaluated | b40e4a | 536.3 |
+| 33 | onlythingIcanDOisTAPEOUT | evaluated | 39c775 | 536.1 |
 | 34 | landrum | evaluated | 61ab81 | 535.7 |
 | 35 | goingbananas | evaluated | 2ce123 | 535.5 |
 | 36 | sjb | evaluated | 373553 | 535.3 |
@@ -62,13 +62,13 @@ Last updated: `April 13, 2026 at 04:50:27 PM ET`
 | 54 | yb | evaluated | f606cb | 524.1 |
 | 55 | ethanchen | evaluated | ea518d | 523.7 |
 | 56 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 57 | kaimaeda | evaluated | 2ef03f | 522.0 |
-| 58 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 59 | PurplePickle67 | evaluated | 68d34e | 520.5 |
-| 60 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 61 | vallabkaranam | evaluated | 0bdeec | 513.3 |
-| 62 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
-| 63 | abhik | evaluated | 0b4b08 | 507.2 |
+| 57 | yoursun1220 | evaluated | d8b590 | 521.8 |
+| 58 | PurplePickle67 | evaluated | 68d34e | 520.5 |
+| 59 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 60 | vallabkaranam | evaluated | 0bdeec | 513.3 |
+| 61 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
+| 62 | abhik | evaluated | 0b4b08 | 507.2 |
+| 63 | kaimaeda | evaluated | 6a5b34 | 505.8 |
 | 64 | nicknam534534 | evaluated | 59bdfc | 503.8 |
 | 65 | tif03 | evaluated | ec268d | 501.2 |
 | 66 | Rithvik | evaluated | 2924a0 | 495.8 |
@@ -80,9 +80,9 @@ Last updated: `April 13, 2026 at 04:50:27 PM ET`
 |  | avemaria | failed | 3b3135 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 3765df |  |
-|  | kade_lin_is_here | failed | f52035 |  |
+|  | kade_lin_is_here | failed | 612c98 |  |
 |  | siddarak | failed | d85766 |  |
-|  | SIUUU | failed | ad9184 |  |
+|  | SIUUU | failed | 522695 |  |
 |  | TheProphet | failed | 4d6dad |  |
 
 ## R2 (tok/s)
@@ -125,16 +125,16 @@ Last updated: `April 13, 2026 at 04:50:27 PM ET`
 | 34 | Bulbasaur | evaluated | dfcccd | 301.5 |
 | 35 | TA | evaluated | a6e863 | 294.5 |
 | 36 | ngoguen | evaluated | f69acc | 282.0 |
-| 37 | stefan | evaluated | 9e3945 | 278.6 |
-| 38 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
-| 39 | landrum | evaluated | 61ab81 | 276.9 |
-| 40 | onlythingIcanDOisTAPEOUT | evaluated | b40e4a | 276.6 |
+| 37 | onlythingIcanDOisTAPEOUT | evaluated | 39c775 | 280.9 |
+| 38 | stefan | evaluated | 9e3945 | 278.6 |
+| 39 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
+| 40 | landrum | evaluated | 61ab81 | 276.9 |
 | 41 | Decode_speed | evaluated | d54f1d | 274.5 |
 | 42 | gravlax | evaluated | b1229d | 272.5 |
 | 43 | Yize | evaluated | c8c9f7 | 269.9 |
 | 44 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
 | 45 | happyface | evaluated | 4ce0f3 | 263.7 |
-| 46 | kaimaeda | evaluated | 2ef03f | 257.6 |
+| 46 | kaimaeda | evaluated | 6a5b34 | 258.3 |
 | 47 | nicknam534534 | evaluated | 59bdfc | 256.3 |
 | 48 | jet2holiday | evaluated | 0bf782 | 251.8 |
 | 49 | ethanchen | evaluated | ea518d | 251.2 |
@@ -163,9 +163,9 @@ Last updated: `April 13, 2026 at 04:50:27 PM ET`
 |  | avemaria | failed | 3b3135 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 3765df |  |
-|  | kade_lin_is_here | failed | f52035 |  |
+|  | kade_lin_is_here | failed | 612c98 |  |
 |  | siddarak | failed | d85766 |  |
-|  | SIUUU | failed | ad9184 |  |
+|  | SIUUU | failed | 522695 |  |
 |  | TheProphet | failed | 4d6dad |  |
 
 ## R3 (ms)
@@ -192,8 +192,8 @@ Last updated: `April 13, 2026 at 04:50:27 PM ET`
 | 18 | stefan | evaluated | 9e3945 | 29.8 |
 | 19 | landrum | evaluated | 61ab81 | 29.9 |
 | 20 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
-| 21 | bl792 | evaluated | 09cd73 | 32.4 |
-| 22 | onlythingIcanDOisTAPEOUT | evaluated | b40e4a | 32.5 |
+| 21 | onlythingIcanDOisTAPEOUT | evaluated | 39c775 | 32.3 |
+| 22 | bl792 | evaluated | 09cd73 | 32.4 |
 | 23 | blabrl | evaluated | ca60eb | 33.7 |
 | 24 | 1_Core_2GHz_Colab_CPU | evaluated | 4e42ed | 34.1 |
 | 25 | chickfila | evaluated | f0956d | 34.7 |
@@ -209,10 +209,10 @@ Last updated: `April 13, 2026 at 04:50:27 PM ET`
 | 35 | act | evaluated | fce2ab | 59.5 |
 | 36 | JaneShuey | evaluated | 882419 | 59.6 |
 | 37 | Junyi Li | evaluated | c7a1b3 | 60.9 |
-| 38 | Licha | evaluated | 9666cd | 61.8 |
-| 39 | nicknam534534 | evaluated | 59bdfc | 64.8 |
-| 40 | alifim | evaluated | 701077 | 64.8 |
-| 41 | kaimaeda | evaluated | 2ef03f | 66.7 |
+| 38 | kaimaeda | evaluated | 6a5b34 | 61.0 |
+| 39 | Licha | evaluated | 9666cd | 61.8 |
+| 40 | nicknam534534 | evaluated | 59bdfc | 64.8 |
+| 41 | alifim | evaluated | 701077 | 64.8 |
 | 42 | beratcelik | evaluated | 863a89 | 68.2 |
 | 43 | jbc | evaluated | c950a5 | 68.8 |
 | 44 | JasonWang07 | evaluated | a4b405 | 70.8 |
@@ -246,9 +246,9 @@ Last updated: `April 13, 2026 at 04:50:27 PM ET`
 |  | avemaria | failed | 3b3135 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 3765df |  |
-|  | kade_lin_is_here | failed | f52035 |  |
+|  | kade_lin_is_here | failed | 612c98 |  |
 |  | siddarak | failed | d85766 |  |
-|  | SIUUU | failed | ad9184 |  |
+|  | SIUUU | failed | 522695 |  |
 |  | TheProphet | failed | 4d6dad |  |
 
 ## R4 (ms)
@@ -281,8 +281,8 @@ Last updated: `April 13, 2026 at 04:50:27 PM ET`
 | 24 | gravlax | evaluated | b1229d | 59.7 |
 | 25 | bl792 | evaluated | 09cd73 | 59.9 |
 | 26 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 59.9 |
-| 27 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
-| 28 | onlythingIcanDOisTAPEOUT | evaluated | b40e4a | 64.4 |
+| 27 | onlythingIcanDOisTAPEOUT | evaluated | 39c775 | 63.7 |
+| 28 | andrasferenczy | evaluated | 9c7f53 | 63.7 |
 | 29 | omermoav | evaluated | b01c0e | 64.6 |
 | 30 | ck | evaluated | f75094 | 64.6 |
 | 31 | blabrl | evaluated | ca60eb | 65.2 |
@@ -298,10 +298,10 @@ Last updated: `April 13, 2026 at 04:50:27 PM ET`
 | 41 | Junyi Li | evaluated | c7a1b3 | 113.1 |
 | 42 | beratcelik | evaluated | 863a89 | 113.8 |
 | 43 | Licha | evaluated | 9666cd | 115.6 |
-| 44 | ethanchen | evaluated | ea518d | 123.6 |
-| 45 | nicknam534534 | evaluated | 59bdfc | 126.3 |
-| 46 | jet2holiday | evaluated | 0bf782 | 127.0 |
-| 47 | kaimaeda | evaluated | 2ef03f | 128.3 |
+| 44 | kaimaeda | evaluated | 6a5b34 | 119.7 |
+| 45 | ethanchen | evaluated | ea518d | 123.6 |
+| 46 | nicknam534534 | evaluated | 59bdfc | 126.3 |
+| 47 | jet2holiday | evaluated | 0bf782 | 127.0 |
 | 48 | poppyPotatoe | evaluated | e01605 | 133.8 |
 | 49 | TA | evaluated | a6e863 | 135.6 |
 | 50 | 13rabbit | evaluated | 49d27b | 141.4 |
@@ -329,7 +329,7 @@ Last updated: `April 13, 2026 at 04:50:27 PM ET`
 |  | avemaria | failed | 3b3135 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 3765df |  |
-|  | kade_lin_is_here | failed | f52035 |  |
+|  | kade_lin_is_here | failed | 612c98 |  |
 |  | siddarak | failed | d85766 |  |
-|  | SIUUU | failed | ad9184 |  |
+|  | SIUUU | failed | 522695 |  |
 |  | TheProphet | failed | 4d6dad |  |

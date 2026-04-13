@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 13, 2026 at 04:50:27 PM ET`
+Last updated: `April 13, 2026 at 05:03:23 PM ET`
 
 ## Pages
 
@@ -38,7 +38,7 @@ Last updated: `April 13, 2026 at 04:50:27 PM ET`
 | 24 | 1_Core_2GHz_Colab_CPU | evaluated | 4e42ed | 19.3/2.8/22.1 | 1.542 | 540.9 | 359.3 | 34.1 | 66.8 |
 | 25 | PurplePickle67 | evaluated | 68d34e | 32.7/3.0/35.7 | 1.524 | 520.5 | 303.7 | 37.3 | 52.1 |
 | 26 | andrasferenczy | evaluated | 9c7f53 | 37.3/3.2/40.5 | 1.486 | 539.1 | 277.2 | 31.9 | 63.7 |
-| 27 | onlythingIcanDOisTAPEOUT | evaluated | b40e4a | 35.9/3.2/39.0 | 1.472 | 536.3 | 276.6 | 32.5 | 64.4 |
+| 27 | onlythingIcanDOisTAPEOUT | evaluated | 39c775 | 47.6/3.2/50.8 | 1.484 | 536.1 | 280.9 | 32.3 | 63.7 |
 | 28 | gravlax | evaluated | b1229d | 19.9/3.2/23.1 | 1.464 | 532.3 | 272.5 | 35.0 | 59.7 |
 | 29 | Yize | evaluated | c8c9f7 | 24.6/3.2/27.9 | 1.462 | 534.4 | 269.9 | 39.4 | 53.1 |
 | 30 | sjb | evaluated | 373553 | 28.3/2.9/31.1 | 1.457 | 535.3 | 346.4 | 50.8 | 53.6 |
@@ -51,10 +51,10 @@ Last updated: `April 13, 2026 at 04:50:27 PM ET`
 | 37 | act | evaluated | fce2ab | 78.5/3.1/81.6 | 1.173 | 560.1 | 332.5 | 59.5 | 109.5 |
 | 38 | abhik | evaluated | 0b4b08 | 19.4/3.3/22.6 | 1.159 | 507.2 | 319.2 | 55.4 | 107.2 |
 | 39 | vallabkaranam | evaluated | 0bdeec | 19.7/3.3/23.0 | 1.150 | 513.3 | 318.5 | 57.3 | 108.2 |
-| 40 | Licha | evaluated | 9666cd | 18.9/3.8/22.7 | 1.042 | 534.4 | 238.1 | 61.8 | 115.6 |
-| 41 | beratcelik | evaluated | 863a89 | 51.8/3.9/55.6 | 1.027 | 564.3 | 231.2 | 68.2 | 113.8 |
-| 42 | nicknam534534 | evaluated | 59bdfc | 33.5/3.8/37.2 | 1.011 | 503.8 | 256.3 | 64.8 | 126.3 |
-| 43 | kaimaeda | evaluated | 2ef03f | 20.8/3.7/24.6 | 1.010 | 522.0 | 257.6 | 66.7 | 128.3 |
+| 40 | kaimaeda | evaluated | 6a5b34 | 24.7/3.7/28.4 | 1.043 | 505.8 | 258.3 | 61.0 | 119.7 |
+| 41 | Licha | evaluated | 9666cd | 18.9/3.8/22.7 | 1.042 | 534.4 | 238.1 | 61.8 | 115.6 |
+| 42 | beratcelik | evaluated | 863a89 | 51.8/3.9/55.6 | 1.027 | 564.3 | 231.2 | 68.2 | 113.8 |
+| 43 | nicknam534534 | evaluated | 59bdfc | 33.5/3.8/37.2 | 1.011 | 503.8 | 256.3 | 64.8 | 126.3 |
 | 44 | ethanchen | evaluated | ea518d | 37.9/3.8/41.7 | 0.987 | 523.7 | 251.2 | 74.4 | 123.6 |
 | 45 | TA | evaluated | a6e863 | 47.2/3.5/50.8 | 0.984 | 556.6 | 294.5 | 85.6 | 135.6 |
 | 46 | jet2holiday | evaluated | 0bf782 | 44.3/3.8/48.1 | 0.976 | 532.9 | 251.8 | 77.1 | 127.0 |
@@ -86,9 +86,9 @@ Last updated: `April 13, 2026 at 04:50:27 PM ET`
 |  | avemaria | failed | 3b3135 |  |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | fishyfins | failed | 3765df |  |  |  |  |  |  |
-|  | kade_lin_is_here | failed | f52035 | 62.2/3.2/65.4 |  |  |  |  |  |
+|  | kade_lin_is_here | failed | 612c98 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | siddarak | failed | d85766 | 21.8/9.2/31.0 |  |  |  |  |  |
-|  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
+|  | SIUUU | failed | 522695 | 37.9/4.1/42.0 |  |  |  |  |  |
 |  | TheProphet | failed | 4d6dad | 30.6/2.8/33.4 |  |  |  |  |  |
 
 ## Column Guide
