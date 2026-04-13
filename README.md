@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 13, 2026 at 07:00:16 PM ET`
+Last updated: `April 13, 2026 at 07:07:58 PM ET`
 
 ## Pages
 
@@ -89,7 +89,8 @@ Last updated: `April 13, 2026 at 07:00:16 PM ET`
 |  | kade_lin_is_here | failed | 5a28f9 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | siddarak | failed | d85766 | 21.8/9.2/31.0 |  |  |  |  |  |
 |  | SIUUU | failed | 522695 | 37.9/4.1/42.0 |  |  |  |  |  |
-|  | TheProphet | failed | be4b32 |  |  |  |  |  |  |
+|  | somita | failed | 19e120 | 0.0/0.0/0.0 |  |  |  |  |  |
+|  | TheProphet | failed | 0470a0 | 13.3/0.0/13.3 |  |  |  |  |  |
 
 ## Column Guide
 

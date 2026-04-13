@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 07:00:16 PM ET`
+Last updated: `April 13, 2026 at 07:07:58 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 07:04 PM ET | somita | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 19e120 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 13 06:55 PM ET | TheProphet | failed_correctness | R1: SETUP: ERR: KeyError: "attribute 'fp_bias' already exists" \| R2: SETUP: ERR: KeyError: "attribute 'fp_bias' alrea... | submission.py | 0470a0 | 13.3/0.0/13.3 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 06:51 PM ET | kaimaeda | evaluated |  | develop.py | dfd931 | 28.0/2.9/30.9 | 525.2 | 411.0 | 56.5 | 109.8 |
 | Apr 13 06:49 PM ET | co-smith | failed_correctness | R3: SETUP: ERR: RuntimeError: Either mode or options can be specified, but both can't be specified at the same time. ... | submission.py | 13e3ee | 20.4/3.5/23.9 | 440.0 | 220.2 | 0.0 | 0.0 |
 | Apr 13 06:48 PM ET | pick_a_nickname | evaluated |  | submission.py | c8a863 | 29.1/3.8/32.9 | 521.6 | 255.0 | 71.2 | 127.0 |

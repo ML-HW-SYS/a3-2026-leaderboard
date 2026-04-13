@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 13, 2026 at 07:00:16 PM ET`
+Last updated: `April 13, 2026 at 07:07:58 PM ET`
 
 ## R1 (tok/s)
 
@@ -83,7 +83,8 @@ Last updated: `April 13, 2026 at 07:00:16 PM ET`
 |  | kade_lin_is_here | failed | 5a28f9 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | 522695 |  |
-|  | TheProphet | failed | be4b32 |  |
+|  | somita | failed | 19e120 |  |
+|  | TheProphet | failed | 0470a0 |  |
 
 ## R2 (tok/s)
 
@@ -166,7 +167,8 @@ Last updated: `April 13, 2026 at 07:00:16 PM ET`
 |  | kade_lin_is_here | failed | 5a28f9 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | 522695 |  |
-|  | TheProphet | failed | be4b32 |  |
+|  | somita | failed | 19e120 |  |
+|  | TheProphet | failed | 0470a0 |  |
 
 ## R3 (ms)
 
@@ -249,7 +251,8 @@ Last updated: `April 13, 2026 at 07:00:16 PM ET`
 |  | kade_lin_is_here | failed | 5a28f9 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | 522695 |  |
-|  | TheProphet | failed | be4b32 |  |
+|  | somita | failed | 19e120 |  |
+|  | TheProphet | failed | 0470a0 |  |
 
 ## R4 (ms)
 
@@ -332,4 +335,5 @@ Last updated: `April 13, 2026 at 07:00:16 PM ET`
 |  | kade_lin_is_here | failed | 5a28f9 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | 522695 |  |
-|  | TheProphet | failed | be4b32 |  |
+|  | somita | failed | 19e120 |  |
+|  | TheProphet | failed | 0470a0 |  |
