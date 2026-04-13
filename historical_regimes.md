@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 07:07:58 PM ET`
+Last updated: `April 13, 2026 at 07:18:34 PM ET`
 
 ## R1 (tok/s)
 
@@ -137,7 +137,7 @@ Last updated: `April 13, 2026 at 07:07:58 PM ET`
 | 49 | happyface | develop.py | f8fcfd | 265.8 |
 | 50 | nicknam534534 | develop.py | f75c41 | 256.9 |
 | 51 | pick_a_nickname | submission.py | c8a863 | 255.0 |
-| 52 | jet2holiday | submission.py | 0bf782 | 251.8 |
+| 52 | jet2holiday | submission.py | 3794df | 251.9 |
 | 53 | ethanchen | submission.py | ea518d | 251.2 |
 | 54 | fishyfins | develop.py | 87e789 | 243.3 |
 | 55 | 13rabbit | develop.py | b38df9 | 243.3 |
@@ -206,13 +206,13 @@ Last updated: `April 13, 2026 at 07:07:58 PM ET`
 | 38 | JaneShuey | submission.py | 882419 | 59.6 |
 | 39 | Junyi Li | submission.py | c7a1b3 | 60.9 |
 | 40 | Licha | submission.py | 9666cd | 61.8 |
-| 41 | nicknam534534 | submission.py | 59bdfc | 64.8 |
-| 42 | alifim | submission.py | 701077 | 64.8 |
-| 43 | beratcelik | submission.py | 11c1b8 | 65.4 |
-| 44 | JasonWang07 | submission.py | f27837 | 68.2 |
-| 45 | jbc | submission.py | 717262 | 68.6 |
-| 46 | leoli | submission.py | 5cdac4 | 71.0 |
-| 47 | pick_a_nickname | submission.py | c8a863 | 71.2 |
+| 41 | pick_a_nickname | submission.py | 964d0c | 64.4 |
+| 42 | nicknam534534 | submission.py | 59bdfc | 64.8 |
+| 43 | alifim | submission.py | 701077 | 64.8 |
+| 44 | beratcelik | submission.py | 11c1b8 | 65.4 |
+| 45 | JasonWang07 | submission.py | f27837 | 68.2 |
+| 46 | jbc | submission.py | 717262 | 68.6 |
+| 47 | leoli | submission.py | 5cdac4 | 71.0 |
 | 48 | ethanchen | submission.py | bf6f9e | 74.0 |
 | 49 | jet2holiday | submission.py | 0bf782 | 77.1 |
 | 50 | TA | submission.py | 324cb8 | 83.2 |
@@ -290,13 +290,13 @@ Last updated: `April 13, 2026 at 07:07:58 PM ET`
 | 40 | kaimaeda | submission.py | 4360ef | 109.4 |
 | 41 | act | submission.py | fce2ab | 109.5 |
 | 42 | beratcelik | submission.py | 11c1b8 | 110.5 |
-| 43 | JaneShuey | submission.py | 882419 | 111.1 |
-| 44 | Junyi Li | submission.py | c7a1b3 | 113.1 |
-| 45 | Licha | submission.py | 9666cd | 115.6 |
-| 46 | ethanchen | submission.py | bf6f9e | 123.0 |
-| 47 | nicknam534534 | submission.py | 59bdfc | 126.3 |
-| 48 | jet2holiday | submission.py | 0bf782 | 127.0 |
-| 49 | pick_a_nickname | submission.py | c8a863 | 127.0 |
+| 43 | pick_a_nickname | submission.py | 964d0c | 110.5 |
+| 44 | JaneShuey | submission.py | 882419 | 111.1 |
+| 45 | Junyi Li | submission.py | c7a1b3 | 113.1 |
+| 46 | Licha | submission.py | 9666cd | 115.6 |
+| 47 | ethanchen | submission.py | bf6f9e | 123.0 |
+| 48 | nicknam534534 | submission.py | 59bdfc | 126.3 |
+| 49 | jet2holiday | submission.py | 0bf782 | 127.0 |
 | 50 | kade_lin_is_here | submission.py | f52035 | 131.5 |
 | 51 | TA | submission.py | 324cb8 | 131.7 |
 | 52 | poppyPotatoe | submission.py | e01605 | 133.8 |
@@ -309,7 +309,7 @@ Last updated: `April 13, 2026 at 07:07:58 PM ET`
 | 59 | lipphi | submission.py | a3a71b | 150.9 |
 | 60 | SIUUU | develop.py | 522695 | 151.0 |
 | 61 | tuo | submission.py | 4274da | 160.5 |
-| 62 | co-smith | submission.py | 2c710f | 187.1 |
+| 62 | co-smith | submission.py | 80f4c0 | 176.5 |
 | 63 | mdavalos10 | submission.py | af3233 | 189.4 |
 | 64 | fishyfins | submission.py | 6c0e20 | 232.9 |
 | 65 | dylanjhnsondj | submission.py | c4e1ab | 236.8 |

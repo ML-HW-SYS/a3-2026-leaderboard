@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 13, 2026 at 07:07:58 PM ET`
+Last updated: `April 13, 2026 at 07:18:34 PM ET`
 
 ## R1 (tok/s)
 
@@ -48,8 +48,8 @@ Last updated: `April 13, 2026 at 07:07:58 PM ET`
 | 40 | Yize | evaluated | c8c9f7 | 534.4 |
 | 41 | stefan | evaluated | 9e3945 | 534.2 |
 | 42 | pallavi-srinivas | evaluated | 3c1d3c | 533.0 |
-| 43 | jet2holiday | evaluated | 0bf782 | 532.9 |
-| 44 | gravlax | evaluated | b1229d | 532.3 |
+| 43 | gravlax | evaluated | b1229d | 532.3 |
+| 44 | jet2holiday | evaluated | 3794df | 531.3 |
 | 45 | Decode_speed | evaluated | d54f1d | 530.2 |
 | 46 | 13rabbit | evaluated | 49d27b | 529.4 |
 | 47 | mdavalos10 | evaluated | af3233 | 529.3 |
@@ -61,10 +61,10 @@ Last updated: `April 13, 2026 at 07:07:58 PM ET`
 | 53 | bl792 | evaluated | 09cd73 | 524.7 |
 | 54 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
 | 55 | ethanchen | evaluated | ea518d | 523.7 |
-| 56 | Akash Basu | evaluated | fa6371 | 522.6 |
-| 57 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 58 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 59 | pick_a_nickname | evaluated | c8a863 | 521.6 |
+| 56 | pick_a_nickname | evaluated | 964d0c | 523.2 |
+| 57 | Akash Basu | evaluated | fa6371 | 522.6 |
+| 58 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 59 | yoursun1220 | evaluated | d8b590 | 521.8 |
 | 60 | yb | evaluated | 1e1b29 | 521.0 |
 | 61 | PurplePickle67 | evaluated | 68d34e | 520.5 |
 | 62 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
@@ -75,9 +75,9 @@ Last updated: `April 13, 2026 at 07:07:58 PM ET`
 | 67 | tif03 | evaluated | ec268d | 501.2 |
 | 68 | Rithvik | evaluated | 2924a0 | 495.8 |
 | 69 | tuo | evaluated | 3d6d40 | 494.8 |
-| 70 | poppyPotatoe | evaluated | e01605 | 165.2 |
+| 70 | co-smith | evaluated | 80f4c0 | 448.0 |
+| 71 | poppyPotatoe | evaluated | e01605 | 165.2 |
 |  | avemaria | failed | 3b3135 |  |
-|  | co-smith | failed | 13e3ee |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 01eade |  |
 |  | kade_lin_is_here | failed | 5a28f9 |  |
@@ -137,31 +137,31 @@ Last updated: `April 13, 2026 at 07:07:58 PM ET`
 | 45 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
 | 46 | happyface | evaluated | 4ce0f3 | 263.7 |
 | 47 | nicknam534534 | evaluated | 59bdfc | 256.3 |
-| 48 | pick_a_nickname | evaluated | c8a863 | 255.0 |
-| 49 | jet2holiday | evaluated | 0bf782 | 251.8 |
+| 48 | pick_a_nickname | evaluated | 964d0c | 254.9 |
+| 49 | jet2holiday | evaluated | 3794df | 251.9 |
 | 50 | ethanchen | evaluated | ea518d | 251.2 |
 | 51 | bl792 | evaluated | 09cd73 | 238.8 |
 | 52 | Licha | evaluated | 9666cd | 238.1 |
 | 53 | 13rabbit | evaluated | 49d27b | 234.5 |
 | 54 | beratcelik | evaluated | 863a89 | 231.2 |
-| 55 | tuo | evaluated | 3d6d40 | 204.6 |
-| 56 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
-| 57 | mdavalos10 | evaluated | af3233 | 177.8 |
-| 58 | yb | evaluated | 1e1b29 | 174.0 |
-| 59 | your_nickname_here | evaluated | 0949d0 | 172.4 |
-| 60 | axel4 | evaluated | 66964d | 169.8 |
-| 61 | brandon_lorenzo | evaluated | 67c79e | 169.8 |
-| 62 | Akash Basu | evaluated | fa6371 | 169.8 |
-| 63 | Junyi Li | evaluated | c7a1b3 | 169.7 |
-| 64 | dylanjhnsondj | evaluated | c4e1ab | 169.6 |
-| 65 | yoursun1220 | evaluated | d8b590 | 169.2 |
-| 66 | hw_bloss | evaluated | 4c9666 | 169.1 |
-| 67 | castillo | evaluated | 0e93de | 169.0 |
-| 68 | tif03 | evaluated | ec268d | 167.6 |
-| 69 | JaneShuey | evaluated | 882419 | 165.2 |
-| 70 | poppyPotatoe | evaluated | e01605 | 124.1 |
+| 55 | co-smith | evaluated | 80f4c0 | 220.6 |
+| 56 | tuo | evaluated | 3d6d40 | 204.6 |
+| 57 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
+| 58 | mdavalos10 | evaluated | af3233 | 177.8 |
+| 59 | yb | evaluated | 1e1b29 | 174.0 |
+| 60 | your_nickname_here | evaluated | 0949d0 | 172.4 |
+| 61 | axel4 | evaluated | 66964d | 169.8 |
+| 62 | brandon_lorenzo | evaluated | 67c79e | 169.8 |
+| 63 | Akash Basu | evaluated | fa6371 | 169.8 |
+| 64 | Junyi Li | evaluated | c7a1b3 | 169.7 |
+| 65 | dylanjhnsondj | evaluated | c4e1ab | 169.6 |
+| 66 | yoursun1220 | evaluated | d8b590 | 169.2 |
+| 67 | hw_bloss | evaluated | 4c9666 | 169.1 |
+| 68 | castillo | evaluated | 0e93de | 169.0 |
+| 69 | tif03 | evaluated | ec268d | 167.6 |
+| 70 | JaneShuey | evaluated | 882419 | 165.2 |
+| 71 | poppyPotatoe | evaluated | e01605 | 124.1 |
 |  | avemaria | failed | 3b3135 |  |
-|  | co-smith | failed | 13e3ee |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 01eade |  |
 |  | kade_lin_is_here | failed | 5a28f9 |  |
@@ -213,15 +213,15 @@ Last updated: `April 13, 2026 at 07:07:58 PM ET`
 | 37 | JaneShuey | evaluated | 882419 | 59.6 |
 | 38 | Junyi Li | evaluated | c7a1b3 | 60.9 |
 | 39 | Licha | evaluated | 9666cd | 61.8 |
-| 40 | nicknam534534 | evaluated | 59bdfc | 64.8 |
-| 41 | alifim | evaluated | 701077 | 64.8 |
-| 42 | beratcelik | evaluated | 863a89 | 68.2 |
-| 43 | jbc | evaluated | 717262 | 68.6 |
-| 44 | JasonWang07 | evaluated | a4b405 | 70.8 |
-| 45 | leoli | evaluated | 5cdac4 | 71.0 |
-| 46 | pick_a_nickname | evaluated | c8a863 | 71.2 |
+| 40 | pick_a_nickname | evaluated | 964d0c | 64.4 |
+| 41 | nicknam534534 | evaluated | 59bdfc | 64.8 |
+| 42 | alifim | evaluated | 701077 | 64.8 |
+| 43 | beratcelik | evaluated | 863a89 | 68.2 |
+| 44 | jbc | evaluated | 717262 | 68.6 |
+| 45 | JasonWang07 | evaluated | a4b405 | 70.8 |
+| 46 | leoli | evaluated | 5cdac4 | 71.0 |
 | 47 | ethanchen | evaluated | ea518d | 74.4 |
-| 48 | jet2holiday | evaluated | 0bf782 | 77.1 |
+| 48 | jet2holiday | evaluated | 3794df | 77.4 |
 | 49 | TA | evaluated | a6e863 | 85.6 |
 | 50 | 13rabbit | evaluated | 49d27b | 97.1 |
 | 51 | hngydn20 | evaluated | 7ec9c9 | 99.4 |
@@ -233,19 +233,19 @@ Last updated: `April 13, 2026 at 07:07:58 PM ET`
 | 57 | tuo | evaluated | 3d6d40 | 167.8 |
 | 58 | poppyPotatoe | evaluated | e01605 | 209.9 |
 | 59 | mdavalos10 | evaluated | af3233 | 279.7 |
-| 60 | dylanjhnsondj | evaluated | c4e1ab | 306.0 |
-| 61 | hw_bloss | evaluated | 4c9666 | 308.1 |
-| 62 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
-| 63 | Akash Basu | evaluated | fa6371 | 308.7 |
-| 64 | brandon_lorenzo | evaluated | 67c79e | 309.2 |
-| 65 | tif03 | evaluated | ec268d | 309.4 |
-| 66 | yb | evaluated | 1e1b29 | 310.5 |
-| 67 | yoursun1220 | evaluated | d8b590 | 310.7 |
-| 68 | axel4 | evaluated | 66964d | 311.0 |
-| 69 | castillo | evaluated | 0e93de | 311.4 |
-| 70 | your_nickname_here | evaluated | 0949d0 | 311.5 |
+| 60 | co-smith | evaluated | 80f4c0 | 284.0 |
+| 61 | dylanjhnsondj | evaluated | c4e1ab | 306.0 |
+| 62 | hw_bloss | evaluated | 4c9666 | 308.1 |
+| 63 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
+| 64 | Akash Basu | evaluated | fa6371 | 308.7 |
+| 65 | brandon_lorenzo | evaluated | 67c79e | 309.2 |
+| 66 | tif03 | evaluated | ec268d | 309.4 |
+| 67 | yb | evaluated | 1e1b29 | 310.5 |
+| 68 | yoursun1220 | evaluated | d8b590 | 310.7 |
+| 69 | axel4 | evaluated | 66964d | 311.0 |
+| 70 | castillo | evaluated | 0e93de | 311.4 |
+| 71 | your_nickname_here | evaluated | 0949d0 | 311.5 |
 |  | avemaria | failed | 3b3135 |  |
-|  | co-smith | failed | 13e3ee |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 01eade |  |
 |  | kade_lin_is_here | failed | 5a28f9 |  |
@@ -298,14 +298,14 @@ Last updated: `April 13, 2026 at 07:07:58 PM ET`
 | 38 | alifim | evaluated | 701077 | 109.2 |
 | 39 | kaimaeda | evaluated | 4360ef | 109.4 |
 | 40 | act | evaluated | fce2ab | 109.5 |
-| 41 | JaneShuey | evaluated | 882419 | 111.1 |
-| 42 | Junyi Li | evaluated | c7a1b3 | 113.1 |
-| 43 | beratcelik | evaluated | 863a89 | 113.8 |
-| 44 | Licha | evaluated | 9666cd | 115.6 |
-| 45 | ethanchen | evaluated | ea518d | 123.6 |
-| 46 | nicknam534534 | evaluated | 59bdfc | 126.3 |
-| 47 | jet2holiday | evaluated | 0bf782 | 127.0 |
-| 48 | pick_a_nickname | evaluated | c8a863 | 127.0 |
+| 41 | pick_a_nickname | evaluated | 964d0c | 110.5 |
+| 42 | JaneShuey | evaluated | 882419 | 111.1 |
+| 43 | Junyi Li | evaluated | c7a1b3 | 113.1 |
+| 44 | beratcelik | evaluated | 863a89 | 113.8 |
+| 45 | Licha | evaluated | 9666cd | 115.6 |
+| 46 | ethanchen | evaluated | ea518d | 123.6 |
+| 47 | nicknam534534 | evaluated | 59bdfc | 126.3 |
+| 48 | jet2holiday | evaluated | 3794df | 127.1 |
 | 49 | poppyPotatoe | evaluated | e01605 | 133.8 |
 | 50 | TA | evaluated | a6e863 | 135.6 |
 | 51 | 13rabbit | evaluated | 49d27b | 141.4 |
@@ -316,20 +316,20 @@ Last updated: `April 13, 2026 at 07:07:58 PM ET`
 | 56 | Bulbasaur | evaluated | dfcccd | 150.9 |
 | 57 | pallavi-srinivas | evaluated | 3c1d3c | 151.0 |
 | 58 | tuo | evaluated | 3d6d40 | 162.8 |
-| 59 | mdavalos10 | evaluated | af3233 | 189.4 |
-| 60 | dylanjhnsondj | evaluated | c4e1ab | 236.8 |
-| 61 | hw_bloss | evaluated | 4c9666 | 239.1 |
-| 62 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
-| 63 | Akash Basu | evaluated | fa6371 | 247.9 |
-| 64 | axel4 | evaluated | 66964d | 248.8 |
-| 65 | tif03 | evaluated | ec268d | 249.5 |
-| 66 | brandon_lorenzo | evaluated | 67c79e | 249.6 |
-| 67 | yoursun1220 | evaluated | d8b590 | 250.1 |
-| 68 | castillo | evaluated | 0e93de | 250.4 |
-| 69 | your_nickname_here | evaluated | 0949d0 | 250.7 |
-| 70 | yb | evaluated | 1e1b29 | 250.7 |
+| 59 | co-smith | evaluated | 80f4c0 | 176.5 |
+| 60 | mdavalos10 | evaluated | af3233 | 189.4 |
+| 61 | dylanjhnsondj | evaluated | c4e1ab | 236.8 |
+| 62 | hw_bloss | evaluated | 4c9666 | 239.1 |
+| 63 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
+| 64 | Akash Basu | evaluated | fa6371 | 247.9 |
+| 65 | axel4 | evaluated | 66964d | 248.8 |
+| 66 | tif03 | evaluated | ec268d | 249.5 |
+| 67 | brandon_lorenzo | evaluated | 67c79e | 249.6 |
+| 68 | yoursun1220 | evaluated | d8b590 | 250.1 |
+| 69 | castillo | evaluated | 0e93de | 250.4 |
+| 70 | your_nickname_here | evaluated | 0949d0 | 250.7 |
+| 71 | yb | evaluated | 1e1b29 | 250.7 |
 |  | avemaria | failed | 3b3135 |  |
-|  | co-smith | failed | 13e3ee |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 01eade |  |
 |  | kade_lin_is_here | failed | 5a28f9 |  |
