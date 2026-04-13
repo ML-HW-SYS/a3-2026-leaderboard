@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 10:22:03 PM ET`
+Last updated: `April 12, 2026 at 10:30:02 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 10:20 PM ET | goingbananas | evaluated |  | submission.py | 2f9b76 | 27.1/6.2/33.3 | 526.3 | 169.1 | 310.7 | 251.5 |
 | Apr 12 10:14 PM ET | TheProphet | evaluated |  | submission.py | 91c348 | 25.9/2.9/28.8 | 589.0 | 349.5 | 64.0 | 72.7 |
 | Apr 12 10:10 PM ET | goingbananas | evaluated |  | submission.py | f09881 | 45.1/6.1/51.2 | 561.2 | 172.6 | 310.9 | 251.6 |
 | Apr 12 10:00 PM ET | TheProphet | failed_correctness | R2: SETUP: ERR: AcceleratorError: CUDA error: an illegal memory access was encountered Search for `cudaErrorIllegalAd... | submission.py | dd4633 | 29.1/0.9/30.0 | 584.7 | 0.0 | 0.0 | 0.0 |

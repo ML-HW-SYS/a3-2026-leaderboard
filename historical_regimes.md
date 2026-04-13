@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 12, 2026 at 10:22:03 PM ET`
+Last updated: `April 12, 2026 at 10:30:02 PM ET`
 
 ## R1 (tok/s)
 
@@ -214,9 +214,9 @@ Last updated: `April 12, 2026 at 10:22:03 PM ET`
 | 62 | pick_a_nickname | submission.py | c47490 | 309.4 |
 | 63 | tif03 | submission.py | ec268d | 309.4 |
 | 64 | poppyPotatoe | submission.py | 311dc9 | 309.5 |
-| 65 | castillo | develop.py | 0e93de | 310.9 |
-| 66 | jet2holiday | submission.py | efd6c8 | 310.9 |
-| 67 | goingbananas | submission.py | f09881 | 310.9 |
+| 65 | goingbananas | submission.py | 2f9b76 | 310.7 |
+| 66 | castillo | develop.py | 0e93de | 310.9 |
+| 67 | jet2holiday | submission.py | efd6c8 | 310.9 |
 | 68 | siddarak | submission.py | d85766 | 614.4 |
 
 ## R4 (ms)
@@ -289,5 +289,5 @@ Last updated: `April 12, 2026 at 10:22:03 PM ET`
 | 64 | castillo | develop.py | 0e93de | 250.2 |
 | 65 | yb | submission.py | 2aa1a9 | 250.5 |
 | 66 | jet2holiday | submission.py | efd6c8 | 250.7 |
-| 67 | goingbananas | submission.py | f09881 | 251.6 |
+| 67 | goingbananas | submission.py | 2f9b76 | 251.5 |
 | 68 | siddarak | submission.py | d85766 | 382.1 |
