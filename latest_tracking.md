@@ -1,10 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 10:26:15 AM ET`
+Last updated: `April 13, 2026 at 10:34:20 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Apr 13 10:21 AM ET | co-smith | failed_correctness | R2: ERR: subprocess failed with exit code -6 | submission.py | efb21b | 26.2/2.8/29.0 | 553.7 | 0.0 | 289.3 | 187.7 |
+| Apr 13 10:21 AM ET | co-smith | failed_correctness | R2: ERR: subprocess failed with exit code -6 | develop.py | efb21b | 22.7/2.8/25.6 | 553.1 | 0.0 | 290.9 | 188.8 |
 | Apr 13 10:16 AM ET | goingbananas | evaluated |  | submission.py | 2ce123 | 40.5/3.6/44.2 | 535.5 | 307.6 | 104.8 | 150.5 |
 | Apr 13 10:08 AM ET | jbc | evaluated |  | submission.py | ba1d09 | 19.8/6.3/26.1 | 522.2 | 169.1 | 311.6 | 249.3 |
 | Apr 13 10:08 AM ET | jbc | evaluated |  | develop.py | ba1d09 | 19.5/6.3/25.8 | 515.8 | 169.1 | 311.3 | 249.7 |
