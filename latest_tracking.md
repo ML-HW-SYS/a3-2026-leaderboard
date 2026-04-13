@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 05:57:07 PM ET`
+Last updated: `April 13, 2026 at 06:07:00 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 06:02 PM ET | kaimaeda | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 4fcc2c | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 13 06:02 PM ET | Akash Basu | evaluated |  | submission.py | fa6371 | 21.0/6.2/27.3 | 522.6 | 169.8 | 308.7 | 247.9 |
+| Apr 13 05:59 PM ET | yb | evaluated |  | submission.py | 200763 | 20.2/6.2/26.4 | 524.7 | 173.7 | 311.2 | 251.2 |
 | Apr 13 05:52 PM ET | kaimaeda | evaluated |  | submission.py | 2dd5d0 | 26.3/3.7/30.0 | 505.2 | 257.2 | 59.5 | 115.1 |
 | Apr 13 05:33 PM ET | kaimaeda | evaluated |  | submission.py | dba883 | 47.7/3.7/51.4 | 510.7 | 258.6 | 59.0 | 114.7 |
 | Apr 13 05:33 PM ET | kaimaeda | evaluated |  | develop.py | dba883 | 26.4/3.7/30.1 | 508.5 | 256.7 | 60.3 | 115.3 |
