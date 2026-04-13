@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 12:43:23 PM ET`
+Last updated: `April 13, 2026 at 12:52:44 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 12:44 PM ET | co-smith | evaluated |  | develop.py | d8d4f1 | 60.8/4.3/65.1 | 448.0 | 404.8 | 288.6 | 187.2 |
+| Apr 13 12:43 PM ET | jbc | evaluated |  | submission.py | 1cbf1d | 37.6/6.2/43.9 | 531.9 | 168.8 | 312.3 | 250.0 |
 | Apr 13 12:26 PM ET | Shengwei | evaluated |  | submission.py | 55fd4e | 19.8/2.7/22.4 | 534.0 | 362.4 | 26.5 | 47.5 |
 | Apr 13 12:25 PM ET | co-smith | failed_correctness | Correctness FAIL \| R2 (89.43%) \| max_abs_diff=15.99 | develop.py | 540cc0 | 53.0/4.3/57.3 | 449.4 | 416.3 | 289.2 | 187.6 |
 | Apr 13 12:25 PM ET | yb | evaluated |  | submission.py | f1acc1 | 19.7/6.3/25.9 | 519.6 | 169.1 | 310.3 | 250.4 |
