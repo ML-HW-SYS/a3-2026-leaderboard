@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 01:44:46 PM ET`
+Last updated: `April 13, 2026 at 01:54:29 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 01:51 PM ET | ck | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 28c7f6 | 19.7/6.2/25.9 | 524.1 | 169.5 | 308.6 | 246.8 |
+| Apr 13 01:45 PM ET | axel4 | evaluated |  | submission.py | 66964d | 40.7/6.2/47.0 | 537.9 | 169.8 | 311.0 | 248.8 |
+| Apr 13 01:42 PM ET | jbc | evaluated |  | submission.py | f4c2f0 | 19.3/6.2/25.6 | 529.2 | 169.1 | 309.5 | 247.4 |
+| Apr 13 01:39 PM ET | poppyPotatoe | evaluated |  | submission.py | fccdc3 | 15.0/9.6/24.6 | 166.9 | 119.8 | 311.6 | 251.3 |
 | Apr 13 01:33 PM ET | jbc | evaluated |  | submission.py | 3e8dd7 | 19.5/6.3/25.8 | 529.3 | 168.3 | 312.3 | 250.7 |
 | Apr 13 01:23 PM ET | ck | evaluated |  | submission.py | c35857 | 27.1/6.3/33.3 | 519.6 | 169.3 | 310.9 | 251.1 |
 | Apr 13 01:17 PM ET | TheProphet | evaluated |  | submission.py | 10217b | 79.9/4.5/84.3 | 181.2 | 371.7 | 24.0 | 46.1 |

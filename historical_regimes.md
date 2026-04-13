@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 01:44:46 PM ET`
+Last updated: `April 13, 2026 at 01:54:29 PM ET`
 
 ## R1 (tok/s)
 
@@ -48,28 +48,28 @@ Last updated: `April 13, 2026 at 01:44:46 PM ET`
 | 40 | stefan | develop.py | 4bac49 | 540.4 |
 | 41 | Bulbasaur | submission.py | dfcccd | 540.2 |
 | 42 | abhik | develop.py | 41a3ec | 539.5 |
-| 43 | sjb | develop.py | 3359ec | 537.0 |
-| 44 | mdavalos10 | develop.py | 6e0754 | 535.4 |
-| 45 | lipphi | submission.py | a3a71b | 534.8 |
-| 46 | gravlax | develop.py | 1f23d9 | 534.6 |
-| 47 | chickfila | submission.py | 29860a | 534.6 |
-| 48 | Yize | submission.py | c8c9f7 | 534.4 |
-| 49 | Decode_speed | submission.py | 236fa2 | 533.3 |
-| 50 | jbc | submission.py | 1cbf1d | 531.9 |
-| 51 | Junyi Li | submission.py | 2e381b | 529.4 |
-| 52 | bl792 | submission.py | 3b3a8a | 528.5 |
-| 53 | dylanjhnsondj | develop.py | 55a3fd | 528.5 |
-| 54 | ethanchen | submission.py | a0d359 | 528.1 |
-| 55 | Rithvik | submission.py | 1a7556 | 527.1 |
-| 56 | castillo | submission.py | 0e93de | 526.6 |
-| 57 | JaneShuey | submission.py | 882419 | 526.2 |
-| 58 | Akash Basu | submission.py | b0a419 | 525.9 |
-| 59 | yb | submission.py | ea23ab | 525.9 |
-| 60 | nicknam534534 | develop.py | 83a901 | 525.8 |
-| 61 | pick_a_nickname | submission.py | c47490 | 525.7 |
-| 62 | jet2holiday | submission.py | 05925d | 525.4 |
-| 63 | brandon_lorenzo | submission.py | 494304 | 525.0 |
-| 64 | axel4 | submission.py | 7f216f | 524.8 |
+| 43 | axel4 | submission.py | 66964d | 537.9 |
+| 44 | sjb | develop.py | 3359ec | 537.0 |
+| 45 | mdavalos10 | develop.py | 6e0754 | 535.4 |
+| 46 | lipphi | submission.py | a3a71b | 534.8 |
+| 47 | gravlax | develop.py | 1f23d9 | 534.6 |
+| 48 | chickfila | submission.py | 29860a | 534.6 |
+| 49 | Yize | submission.py | c8c9f7 | 534.4 |
+| 50 | Decode_speed | submission.py | 236fa2 | 533.3 |
+| 51 | jbc | submission.py | 1cbf1d | 531.9 |
+| 52 | Junyi Li | submission.py | 2e381b | 529.4 |
+| 53 | bl792 | submission.py | 3b3a8a | 528.5 |
+| 54 | dylanjhnsondj | develop.py | 55a3fd | 528.5 |
+| 55 | ethanchen | submission.py | a0d359 | 528.1 |
+| 56 | Rithvik | submission.py | 1a7556 | 527.1 |
+| 57 | castillo | submission.py | 0e93de | 526.6 |
+| 58 | JaneShuey | submission.py | 882419 | 526.2 |
+| 59 | Akash Basu | submission.py | b0a419 | 525.9 |
+| 60 | yb | submission.py | ea23ab | 525.9 |
+| 61 | nicknam534534 | develop.py | 83a901 | 525.8 |
+| 62 | pick_a_nickname | submission.py | c47490 | 525.7 |
+| 63 | jet2holiday | submission.py | 05925d | 525.4 |
+| 64 | brandon_lorenzo | submission.py | 494304 | 525.0 |
 | 65 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
 | 66 | yoursun1220 | submission.py | f4e2be | 524.2 |
 | 67 | hw_bloss | submission.py | 2d26da | 523.5 |
@@ -154,7 +154,7 @@ Last updated: `April 13, 2026 at 01:44:46 PM ET`
 | 69 | jet2holiday | submission.py | 05925d | 169.1 |
 | 70 | tif03 | submission.py | ec268d | 167.6 |
 | 71 | JaneShuey | submission.py | 882419 | 165.2 |
-| 72 | poppyPotatoe | submission.py | dd4e57 | 117.7 |
+| 72 | poppyPotatoe | submission.py | fccdc3 | 119.8 |
 
 ## R3 (ms)
 
@@ -297,12 +297,12 @@ Last updated: `April 13, 2026 at 01:44:46 PM ET`
 | 57 | hw_bloss | submission.py | b2767b | 237.0 |
 | 58 | Sulaiman Alam | develop.py | c7ede2 | 244.4 |
 | 59 | your_nickname_here | submission.py | 59e245 | 245.7 |
-| 60 | hngydn20 | submission.py | 630c81 | 247.9 |
-| 61 | jbc | submission.py | de1427 | 247.9 |
+| 60 | jbc | submission.py | f4c2f0 | 247.4 |
+| 61 | hngydn20 | submission.py | 630c81 | 247.9 |
 | 62 | mdavalos10 | develop.py | eca698 | 248.2 |
 | 63 | yoursun1220 | submission.py | 27e400 | 248.7 |
-| 64 | poppyPotatoe | submission.py | 311dc9 | 248.9 |
-| 65 | axel4 | submission.py | 7f216f | 249.1 |
+| 64 | axel4 | submission.py | 66964d | 248.8 |
+| 65 | poppyPotatoe | submission.py | 311dc9 | 248.9 |
 | 66 | pick_a_nickname | submission.py | c47490 | 249.3 |
 | 67 | tif03 | submission.py | ec268d | 249.5 |
 | 68 | brandon_lorenzo | submission.py | 67c79e | 249.6 |
