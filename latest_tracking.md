@@ -1,11 +1,16 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 03:11:34 PM ET`
+Last updated: `April 13, 2026 at 03:24:02 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 03:22 PM ET | kade_lin_is_here | evaluated |  | submission.py | 1d2e24 | 71.1/4.0/75.1 | 541.3 | 237.5 | 94.1 | 133.1 |
+| Apr 13 03:16 PM ET | ck | evaluated |  | submission.py | 4feb2f | 36.8/2.7/39.5 | 571.3 | 373.1 | 35.2 | 64.6 |
+| Apr 13 03:12 PM ET | ishan-pat | evaluated |  | submission.py | 598a3d | 40.3/2.7/43.0 | 551.7 | 351.9 | 25.9 | 52.1 |
+| Apr 13 03:11 PM ET | TheProphet | evaluated |  | submission.py | ba2c24 | 41.4/6.0/47.4 | 468.3 | 170.8 | 280.0 | 187.8 |
 | Apr 13 03:07 PM ET | ck | evaluated |  | submission.py | 8ef005 | 19.7/6.2/25.9 | 525.4 | 170.0 | 309.6 | 249.3 |
 | Apr 13 03:05 PM ET | yb | evaluated |  | develop.py | b9a7e3 | 19.9/6.3/26.1 | 521.4 | 169.1 | 311.4 | 251.1 |
+| Apr 13 03:03 PM ET | jbc | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | submission.py | 163050 | 41.6/5.4/47.0 | 530.7 | 116.2 | 0.0 | 0.0 |
 | Apr 13 02:58 PM ET | avemaria | evaluated |  | develop.py | 242975 | 39.7/6.4/46.1 | 524.7 | 165.7 | 322.2 | 254.8 |
 | Apr 13 02:56 PM ET | kaimaeda | evaluated |  | develop.py | c1ff00 | 44.5/3.7/48.3 | 522.6 | 257.6 | 65.9 | 127.8 |
 | Apr 13 02:53 PM ET | kaimaeda | evaluated |  | submission.py | db84ae | 19.3/3.7/23.0 | 523.3 | 257.7 | 66.1 | 127.4 |
