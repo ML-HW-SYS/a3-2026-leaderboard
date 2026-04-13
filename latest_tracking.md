@@ -1,11 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 11:58:00 AM ET`
+Last updated: `April 13, 2026 at 12:08:03 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Apr 13 11:47 AM ET | co-smith | evaluated |  | submission.py | 6647c3 | 29.2/5.4/34.6 | 445.2 | 219.6 | 290.9 | 188.4 |
+| Apr 13 11:47 AM ET | co-smith | failed_correctness | R3: ERR: at 117:37: p = tl.where(keep, p, 0.0) v = tl.load( v_ptr + b * stride_vb + hk * stride_vh + off \| R4: ERR: a... | develop.py | 6647c3 | 61.2/2.4/63.5 | 447.6 | 414.8 | 0.0 | 0.0 |
 | Apr 13 11:43 AM ET | jbc | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 62fd1a | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 13 11:43 AM ET | jbc | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | develop.py | 62fd1a | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 11:39 AM ET | JaneShuey | evaluated |  | submission.py | 882419 | 54.6/4.8/59.4 | 526.2 | 165.2 | 59.6 | 111.1 |
 | Apr 13 11:30 AM ET | JaneShuey | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | 4bd0cf |  |  |  |  |  |
 | Apr 13 11:28 AM ET | JaneShuey | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | 4f504b |  |  |  |  |  |
