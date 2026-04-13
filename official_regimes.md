@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 13, 2026 at 11:31:56 AM ET`
+Last updated: `April 13, 2026 at 11:39:40 AM ET`
 
 ## R1 (tok/s)
 
@@ -77,7 +77,7 @@ Last updated: `April 13, 2026 at 11:31:56 AM ET`
 |  | ck | failed | dbcd8b |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | JaneShuey | failed | 4f504b |  |
-|  | jbc | failed | 1e6d2f |  |
+|  | jbc | failed | bc91d7 |  |
 |  | kaimaeda | failed | 24ca30 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -157,7 +157,7 @@ Last updated: `April 13, 2026 at 11:31:56 AM ET`
 |  | ck | failed | dbcd8b |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | JaneShuey | failed | 4f504b |  |
-|  | jbc | failed | 1e6d2f |  |
+|  | jbc | failed | bc91d7 |  |
 |  | kaimaeda | failed | 24ca30 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -237,7 +237,7 @@ Last updated: `April 13, 2026 at 11:31:56 AM ET`
 |  | ck | failed | dbcd8b |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | JaneShuey | failed | 4f504b |  |
-|  | jbc | failed | 1e6d2f |  |
+|  | jbc | failed | bc91d7 |  |
 |  | kaimaeda | failed | 24ca30 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -317,7 +317,7 @@ Last updated: `April 13, 2026 at 11:31:56 AM ET`
 |  | ck | failed | dbcd8b |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | JaneShuey | failed | 4f504b |  |
-|  | jbc | failed | 1e6d2f |  |
+|  | jbc | failed | bc91d7 |  |
 |  | kaimaeda | failed | 24ca30 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |

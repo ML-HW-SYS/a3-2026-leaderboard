@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 13, 2026 at 11:31:56 AM ET`
+Last updated: `April 13, 2026 at 11:39:40 AM ET`
 
 ## Pages
 
@@ -83,7 +83,7 @@ Last updated: `April 13, 2026 at 11:31:56 AM ET`
 |  | ck | failed | dbcd8b | 19.9/6.2/26.1 |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | JaneShuey | failed | 4f504b |  |  |  |  |  |  |
-|  | jbc | failed | 1e6d2f | 14.4/0.0/14.4 |  |  |  |  |  |
+|  | jbc | failed | bc91d7 | 17.2/2.2/19.4 |  |  |  |  |  |
 |  | kaimaeda | failed | 24ca30 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | siddarak | failed | d85766 | 21.8/9.2/31.0 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
