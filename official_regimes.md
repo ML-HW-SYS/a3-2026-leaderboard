@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 13, 2026 at 01:36:55 PM ET`
+Last updated: `April 13, 2026 at 01:44:46 PM ET`
 
 ## R1 (tok/s)
 
@@ -50,9 +50,9 @@ Last updated: `April 13, 2026 at 01:36:55 PM ET`
 | 42 | Decode_speed | evaluated | d54f1d | 530.2 |
 | 43 | mdavalos10 | evaluated | eca698 | 529.8 |
 | 44 | 13rabbit | evaluated | 49d27b | 529.4 |
-| 45 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
-| 46 | Junyi Li | evaluated | c7a1b3 | 527.3 |
-| 47 | jbc | evaluated | 70a8e0 | 527.0 |
+| 45 | jbc | evaluated | 3e8dd7 | 529.3 |
+| 46 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
+| 47 | Junyi Li | evaluated | c7a1b3 | 527.3 |
 | 48 | castillo | evaluated | 0e93de | 526.6 |
 | 49 | JaneShuey | evaluated | 882419 | 526.2 |
 | 50 | Akash Basu | evaluated | b0a419 | 525.9 |
@@ -155,10 +155,10 @@ Last updated: `April 13, 2026 at 01:36:55 PM ET`
 | 66 | hw_bloss | evaluated | 4c9666 | 169.1 |
 | 67 | yb | evaluated | f1acc1 | 169.1 |
 | 68 | castillo | evaluated | 0e93de | 169.0 |
-| 69 | tif03 | evaluated | ec268d | 167.6 |
-| 70 | JaneShuey | evaluated | 882419 | 165.2 |
-| 71 | poppyPotatoe | evaluated | eea264 | 109.8 |
-| 72 | jbc | evaluated | 70a8e0 | 32.2 |
+| 69 | jbc | evaluated | 3e8dd7 | 168.3 |
+| 70 | tif03 | evaluated | ec268d | 167.6 |
+| 71 | JaneShuey | evaluated | 882419 | 165.2 |
+| 72 | poppyPotatoe | evaluated | eea264 | 109.8 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kaimaeda | failed | 24ca30 |  |
 |  | siddarak | failed | d85766 |  |
@@ -239,7 +239,7 @@ Last updated: `April 13, 2026 at 01:36:55 PM ET`
 | 69 | jet2holiday | evaluated | 05925d | 311.1 |
 | 70 | poppyPotatoe | evaluated | eea264 | 311.3 |
 | 71 | castillo | evaluated | 0e93de | 311.4 |
-| 72 | jbc | evaluated | 70a8e0 | 312.1 |
+| 72 | jbc | evaluated | 3e8dd7 | 312.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kaimaeda | failed | 24ca30 |  |
 |  | siddarak | failed | d85766 |  |
@@ -317,8 +317,8 @@ Last updated: `April 13, 2026 at 01:36:55 PM ET`
 | 66 | mdavalos10 | evaluated | eca698 | 250.2 |
 | 67 | castillo | evaluated | 0e93de | 250.4 |
 | 68 | yb | evaluated | f1acc1 | 250.4 |
-| 69 | jet2holiday | evaluated | 05925d | 251.0 |
-| 70 | jbc | evaluated | 70a8e0 | 251.1 |
+| 69 | jbc | evaluated | 3e8dd7 | 250.7 |
+| 70 | jet2holiday | evaluated | 05925d | 251.0 |
 | 71 | ck | evaluated | c35857 | 251.1 |
 | 72 | poppyPotatoe | evaluated | eea264 | 251.9 |
 |  | dhanushikka | failed | 14b1fd |  |
