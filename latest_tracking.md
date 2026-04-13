@@ -1,12 +1,16 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 02:17:19 PM ET`
+Last updated: `April 13, 2026 at 02:26:32 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 02:22 PM ET | ck | evaluated |  | submission.py | 5b7378 | 38.9/6.3/45.2 | 521.2 | 168.9 | 311.5 | 250.9 |
+| Apr 13 02:20 PM ET | Shengwei | evaluated |  | submission.py | 3a2250 | 19.6/2.7/22.2 | 539.6 | 361.3 | 26.7 | 47.9 |
+| Apr 13 02:13 PM ET | goingbananas | failed_correctness | R1: ERR: subprocess failed with exit code 1 \| R2: ERR: subprocess failed with exit code 1 \| R3: ERR: subprocess faile... | develop.py | fd9212 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 02:07 PM ET | kaimaeda | evaluated |  | develop.py | 337473 | 20.0/6.2/26.2 | 526.1 | 169.4 | 310.5 | 250.8 |
 | Apr 13 02:05 PM ET | Shengwei | evaluated |  | submission.py | cd3181 | 29.1/2.7/31.8 | 525.0 | 361.3 | 26.6 | 47.7 |
 | Apr 13 02:03 PM ET | jbc | evaluated |  | submission.py | 5d9d34 | 29.9/6.7/36.6 | 530.5 | 146.4 | 309.7 | 248.8 |
+| Apr 13 02:03 PM ET | jbc | evaluated |  | develop.py | 5d9d34 | 19.2/6.7/25.9 | 526.6 | 146.2 | 310.3 | 247.7 |
 | Apr 13 01:58 PM ET | yb | evaluated |  | submission.py | f606cb | 39.5/6.2/45.8 | 524.1 | 169.1 | 311.0 | 250.4 |
 | Apr 13 01:58 PM ET | yb | evaluated |  | develop.py | f606cb | 39.4/6.3/45.7 | 521.2 | 169.0 | 311.6 | 251.5 |
 | Apr 13 01:54 PM ET | co-smith | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | develop.py | d82aa8 | 49.8/2.4/52.2 | 449.3 | 403.9 | 0.0 | 0.0 |
