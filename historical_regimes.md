@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 04:33:23 PM ET`
+Last updated: `April 13, 2026 at 04:42:40 PM ET`
 
 ## R1 (tok/s)
 
@@ -103,14 +103,14 @@ Last updated: `April 13, 2026 at 04:33:23 PM ET`
 | 15 | pyjuan91 | develop.py | 92d1da | 364.9 |
 | 16 | Shengwei | submission.py | 67896e | 362.7 |
 | 17 | 1_Core_2GHz_Colab_CPU | submission.py | 124a48 | 360.8 |
-| 18 | gm | develop.py | fd15e9 | 357.3 |
-| 19 | nickname55555555 | develop.py | 68b98d | 355.5 |
-| 20 | ishan-pat | submission.py | 99aac6 | 352.8 |
-| 21 | sjb | develop.py | 7fb492 | 347.4 |
-| 22 | JasonWang07 | develop.py | 2ecd91 | 343.1 |
-| 23 | Rithvik | submission.py | 2924a0 | 335.8 |
-| 24 | act | develop.py | fce2ab | 332.9 |
-| 25 | jbc | submission.py | a225b8 | 332.7 |
+| 18 | jbc | submission.py | c950a5 | 360.8 |
+| 19 | gm | develop.py | fd15e9 | 357.3 |
+| 20 | nickname55555555 | develop.py | 68b98d | 355.5 |
+| 21 | ishan-pat | submission.py | 99aac6 | 352.8 |
+| 22 | sjb | develop.py | 7fb492 | 347.4 |
+| 23 | JasonWang07 | develop.py | 2ecd91 | 343.1 |
+| 24 | Rithvik | submission.py | 2924a0 | 335.8 |
+| 25 | act | develop.py | fce2ab | 332.9 |
 | 26 | leoli | submission.py | 5cdac4 | 327.5 |
 | 27 | hngydn20 | submission.py | 7ec9c9 | 321.2 |
 | 28 | abhik | develop.py | 0b4b08 | 319.4 |
@@ -210,14 +210,14 @@ Last updated: `April 13, 2026 at 04:33:23 PM ET`
 | 42 | alifim | submission.py | 701077 | 64.8 |
 | 43 | beratcelik | submission.py | 11c1b8 | 65.4 |
 | 44 | JasonWang07 | submission.py | f27837 | 68.2 |
-| 45 | jbc | develop.py | e6ad4a | 70.8 |
+| 45 | jbc | submission.py | c950a5 | 68.8 |
 | 46 | leoli | submission.py | 5cdac4 | 71.0 |
 | 47 | ethanchen | submission.py | bf6f9e | 74.0 |
 | 48 | jet2holiday | submission.py | 0bf782 | 77.1 |
 | 49 | TA | submission.py | 324cb8 | 83.2 |
 | 50 | kade_lin_is_here | submission.py | f52035 | 93.7 |
 | 51 | 13rabbit | submission.py | 49d27b | 97.1 |
-| 52 | hngydn20 | submission.py | 7ec9c9 | 99.4 |
+| 52 | hngydn20 | develop.py | 7ec9c9 | 99.3 |
 | 53 | jl | submission.py | e6ce85 | 101.9 |
 | 54 | co-smith | develop.py | 00ede6 | 102.0 |
 | 55 | Bulbasaur | develop.py | dfcccd | 103.8 |
@@ -281,7 +281,7 @@ Last updated: `April 13, 2026 at 04:33:23 PM ET`
 | 32 | blabrl | submission.py | ca60eb | 65.2 |
 | 33 | 1_Core_2GHz_Colab_CPU | submission.py | 4a067d | 66.5 |
 | 34 | JasonWang07 | develop.py | f27837 | 78.3 |
-| 35 | jbc | develop.py | e6ad4a | 87.1 |
+| 35 | jbc | submission.py | c950a5 | 82.5 |
 | 36 | leoli | submission.py | 5cdac4 | 87.4 |
 | 37 | abhik | submission.py | 0b4b08 | 107.2 |
 | 38 | vallabkaranam | submission.py | 0bdeec | 108.2 |
