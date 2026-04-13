@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 05:15:11 PM ET`
+Last updated: `April 13, 2026 at 05:30:01 PM ET`
 
 ## R1 (tok/s)
 
@@ -146,7 +146,7 @@ Last updated: `April 13, 2026 at 05:15:11 PM ET`
 | 58 | tuo | submission.py | 3d6d40 | 204.6 |
 | 59 | Sulaiman Alam | submission.py | c7ede2 | 197.4 |
 | 60 | mdavalos10 | submission.py | 871ac2 | 177.7 |
-| 61 | yb | develop.py | 0d2af8 | 173.7 |
+| 61 | yb | submission.py | 1533ce | 174.0 |
 | 62 | your_nickname_here | submission.py | 59e245 | 173.4 |
 | 63 | yoursun1220 | submission.py | 27e400 | 169.9 |
 | 64 | pick_a_nickname | submission.py | c47490 | 169.9 |

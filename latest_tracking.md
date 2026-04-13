@@ -1,82 +1,87 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 05:15:11 PM ET`
+Last updated: `April 13, 2026 at 05:30:01 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Apr 13 05:07 PM ET | yb | evaluated |  | develop.py | 0d2af8 | 40.0/6.6/46.6 | 517.3 | 173.7 | 405.5 | 269.5 |
+| Apr 13 05:20 PM ET | chyyy | late |  | develop.py | cfc420 | 23.5/2.4/25.9 | 546.9 | 428.6 | 25.0 | 48.4 |
+| Apr 13 05:19 PM ET | kaimaeda | failed_correctness | Correctness FAIL \| R1 (76.63%), R2 (47.55%), R3 (46.95%), R4 (53.74%) \| max_abs_diff=10.5 | submission.py | a2923a | 54.2/3.9/58.1 | 484.4 | 239.9 | 61.7 | 117.3 |
+| Apr 13 05:18 PM ET | fishyfins | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | 01eade |  |  |  |  |  |
+| Apr 13 05:13 PM ET | yb | late |  | submission.py | 1533ce | 20.1/6.6/26.7 | 524.8 | 174.0 | 404.9 | 268.3 |
+| Apr 13 05:09 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.76%) \| max_abs_diff=12.18 | submission.py | 81e056 | 66.1/2.7/68.7 | 646.7 | 381.3 | 62.7 | 71.0 |
+| Apr 13 05:07 PM ET | yb | late |  | develop.py | 0d2af8 | 40.0/6.6/46.6 | 517.3 | 173.7 | 405.5 | 269.5 |
 | Apr 13 05:06 PM ET | fishyfins | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | c5749f |  |  |  |  |  |
 | Apr 13 05:01 PM ET | kade_lin_is_here | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 5a28f9 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 04:56 PM ET | kade_lin_is_here | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 612c98 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
-| Apr 13 04:55 PM ET | onlythingIcanDOisTAPEOUT | evaluated |  | submission.py | 39c775 | 47.6/3.2/50.8 | 536.1 | 280.9 | 32.3 | 63.7 |
-| Apr 13 04:55 PM ET | onlythingIcanDOisTAPEOUT | evaluated |  | develop.py | 39c775 | 32.4/3.2/35.5 | 534.3 | 281.2 | 32.2 | 63.9 |
-| Apr 13 04:53 PM ET | chyyy | evaluated |  | develop.py | 6df604 | 55.2/2.4/57.6 | 551.0 | 429.4 | 25.7 | 49.1 |
-| Apr 13 04:52 PM ET | co-smith | evaluated |  | develop.py | d6d952 | 28.9/5.4/34.3 | 446.1 | 220.6 | 289.9 | 187.9 |
-| Apr 13 04:51 PM ET | kaimaeda | evaluated |  | submission.py | 6a5b34 | 24.7/3.7/28.4 | 505.8 | 258.3 | 61.0 | 119.7 |
-| Apr 13 04:51 PM ET | kaimaeda | evaluated |  | develop.py | 6a5b34 | 47.6/3.7/51.3 | 510.7 | 257.8 | 59.2 | 115.5 |
+| Apr 13 04:55 PM ET | onlythingIcanDOisTAPEOUT | late |  | submission.py | 39c775 | 47.6/3.2/50.8 | 536.1 | 280.9 | 32.3 | 63.7 |
+| Apr 13 04:55 PM ET | onlythingIcanDOisTAPEOUT | late |  | develop.py | 39c775 | 32.4/3.2/35.5 | 534.3 | 281.2 | 32.2 | 63.9 |
+| Apr 13 04:53 PM ET | chyyy | late |  | develop.py | 6df604 | 55.2/2.4/57.6 | 551.0 | 429.4 | 25.7 | 49.1 |
+| Apr 13 04:52 PM ET | co-smith | late |  | develop.py | d6d952 | 28.9/5.4/34.3 | 446.1 | 220.6 | 289.9 | 187.9 |
+| Apr 13 04:51 PM ET | kaimaeda | late |  | submission.py | 6a5b34 | 24.7/3.7/28.4 | 505.8 | 258.3 | 61.0 | 119.7 |
+| Apr 13 04:51 PM ET | kaimaeda | late |  | develop.py | 6a5b34 | 47.6/3.7/51.3 | 510.7 | 257.8 | 59.2 | 115.5 |
 | Apr 13 04:49 PM ET | yb | failed_correctness | R1: ERR: subprocess failed with exit code 1 \| R2: ERR: subprocess failed with exit code 1 \| R3: ERR: subprocess faile... | develop.py | d91728 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 04:45 PM ET | SIUUU | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | 522695 | 37.9/4.1/42.0 | 536.2 | 242.3 | 104.7 | 151.3 |
 | Apr 13 04:45 PM ET | SIUUU | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | develop.py | 522695 | 19.1/4.1/23.2 | 536.1 | 242.3 | 104.4 | 151.0 |
 | Apr 13 04:37 PM ET | fishyfins | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | 3765df |  |  |  |  |  |
 | Apr 13 04:37 PM ET | fishyfins | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | 3765df |  |  |  |  |  |
-| Apr 13 04:29 PM ET | jbc | evaluated |  | submission.py | c950a5 | 41.4/2.9/44.3 | 555.7 | 360.8 | 68.8 | 82.5 |
-| Apr 13 04:29 PM ET | jbc | evaluated |  | develop.py | c950a5 | 18.8/3.0/21.7 | 554.8 | 360.4 | 68.9 | 82.7 |
-| Apr 13 04:29 PM ET | ck | evaluated |  | submission.py | f75094 | 36.6/2.7/39.2 | 571.9 | 373.2 | 35.1 | 64.6 |
-| Apr 13 04:28 PM ET | kaimaeda | evaluated |  | develop.py | c3ba91 | 25.1/3.7/28.8 | 511.2 | 257.7 | 60.8 | 119.6 |
+| Apr 13 04:29 PM ET | jbc | late |  | submission.py | c950a5 | 41.4/2.9/44.3 | 555.7 | 360.8 | 68.8 | 82.5 |
+| Apr 13 04:29 PM ET | jbc | late |  | develop.py | c950a5 | 18.8/3.0/21.7 | 554.8 | 360.4 | 68.9 | 82.7 |
+| Apr 13 04:29 PM ET | ck | late |  | submission.py | f75094 | 36.6/2.7/39.2 | 571.9 | 373.2 | 35.1 | 64.6 |
+| Apr 13 04:28 PM ET | kaimaeda | late |  | develop.py | c3ba91 | 25.1/3.7/28.8 | 511.2 | 257.7 | 60.8 | 119.6 |
 | Apr 13 04:28 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.76%) \| max_abs_diff=12.18 | submission.py | 4d6dad | 30.6/2.8/33.4 | 649.0 | 381.2 | 70.2 | 88.2 |
-| Apr 13 04:23 PM ET | co-smith | evaluated |  | develop.py | 9e4685 | 35.0/7.0/42.0 | 453.7 | 131.0 | 290.0 | 188.5 |
-| Apr 13 04:23 PM ET | hngydn20 | evaluated |  | submission.py | 7ec9c9 | 38.5/3.5/42.0 | 552.6 | 321.2 | 99.4 | 145.9 |
-| Apr 13 04:23 PM ET | hngydn20 | evaluated |  | develop.py | 7ec9c9 | 19.8/3.5/23.3 | 550.6 | 321.1 | 99.3 | 146.0 |
+| Apr 13 04:23 PM ET | co-smith | late |  | develop.py | 9e4685 | 35.0/7.0/42.0 | 453.7 | 131.0 | 290.0 | 188.5 |
+| Apr 13 04:23 PM ET | hngydn20 | late |  | submission.py | 7ec9c9 | 38.5/3.5/42.0 | 552.6 | 321.2 | 99.4 | 145.9 |
+| Apr 13 04:23 PM ET | hngydn20 | late |  | develop.py | 7ec9c9 | 19.8/3.5/23.3 | 550.6 | 321.1 | 99.3 | 146.0 |
 | Apr 13 04:18 PM ET | ck | failed_correctness | R1: SETUP: ERR: UserError: Could not guard on data-dependent expression Eq(u1, 1) (unhinted: Eq(u1, 1)). (Size-like s... | submission.py | 557ef6 | 43.5/0.0/43.5 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 04:10 PM ET | ck | failed_correctness | R2: SETUP: ERR: OutOfMemoryError: CUDA out of memory. Tried to allocate 14.00 GiB. GPU 0 has a total capacity of 23.5... | submission.py | 4ef89e | 25.9/1.5/27.4 | 460.3 | 0.0 | 35.1 | 64.3 |
 | Apr 13 03:59 PM ET | Akash Basu | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | submission.py | 254f04 | 39.6/4.0/43.6 | 522.1 | 168.9 | 0.0 | 0.0 |
-| Apr 13 03:58 PM ET | jbc | evaluated |  | submission.py | e6ad4a | 41.0/3.1/44.2 | 540.7 | 329.7 | 71.7 | 87.1 |
-| Apr 13 03:58 PM ET | jbc | evaluated |  | develop.py | e6ad4a | 18.8/3.1/22.0 | 551.0 | 329.3 | 70.8 | 87.1 |
-| Apr 13 03:58 PM ET | mdavalos10 | evaluated |  | submission.py | 871ac2 | 41.5/5.9/47.4 | 433.8 | 177.7 | 279.7 | 189.4 |
-| Apr 13 03:58 PM ET | mdavalos10 | evaluated |  | develop.py | 871ac2 | 22.0/5.7/27.7 | 527.1 | 177.4 | 280.4 | 189.9 |
+| Apr 13 03:58 PM ET | jbc | late |  | submission.py | e6ad4a | 41.0/3.1/44.2 | 540.7 | 329.7 | 71.7 | 87.1 |
+| Apr 13 03:58 PM ET | jbc | late |  | develop.py | e6ad4a | 18.8/3.1/22.0 | 551.0 | 329.3 | 70.8 | 87.1 |
+| Apr 13 03:58 PM ET | mdavalos10 | late |  | submission.py | 871ac2 | 41.5/5.9/47.4 | 433.8 | 177.7 | 279.7 | 189.4 |
+| Apr 13 03:58 PM ET | mdavalos10 | late |  | develop.py | 871ac2 | 22.0/5.7/27.7 | 527.1 | 177.4 | 280.4 | 189.9 |
 | Apr 13 03:56 PM ET | TheProphet | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | submission.py | 254ebf | 66.1/2.1/68.2 | 646.1 | 380.8 | 0.0 | 0.0 |
-| Apr 13 03:55 PM ET | ck | evaluated |  | submission.py | 3d55c3 | 51.8/15.8/67.5 | 555.2 | 327.6 | 1067.1 | 2252.6 |
-| Apr 13 03:54 PM ET | kaimaeda | evaluated |  | develop.py | 251e7b | 20.2/16.3/36.6 | 67.8 | 64.1 | 66.5 | 128.2 |
+| Apr 13 03:55 PM ET | ck | late |  | submission.py | 3d55c3 | 51.8/15.8/67.5 | 555.2 | 327.6 | 1067.1 | 2252.6 |
+| Apr 13 03:54 PM ET | kaimaeda | late |  | develop.py | 251e7b | 20.2/16.3/36.6 | 67.8 | 64.1 | 66.5 | 128.2 |
 | Apr 13 03:51 PM ET | kade_lin_is_here | failed_correctness | Correctness FAIL \| R1 (87.86%), R2 (92.00%) \| max_abs_diff=15.93 | submission.py | f52035 | 62.2/3.2/65.4 | 557.1 | 383.9 | 93.7 | 131.5 |
-| Apr 13 03:48 PM ET | Shengwei | evaluated |  | submission.py | f78d37 | 21.0/2.7/23.6 | 537.7 | 361.2 | 26.3 | 47.5 |
-| Apr 13 03:43 PM ET | onlythingIcanDOisTAPEOUT | evaluated |  | submission.py | b40e4a | 35.9/3.2/39.0 | 536.3 | 276.6 | 32.5 | 64.4 |
-| Apr 13 03:39 PM ET | ishan-pat | evaluated |  | submission.py | a4749e | 40.6/2.7/43.3 | 551.0 | 351.9 | 25.7 | 51.6 |
-| Apr 13 03:39 PM ET | ishan-pat | evaluated |  | develop.py | a4749e | 22.8/2.7/25.5 | 552.8 | 350.9 | 25.9 | 52.0 |
-| Apr 13 03:38 PM ET | jbc | evaluated |  | submission.py | a225b8 | 38.4/3.1/41.5 | 556.6 | 332.7 | 71.4 | 89.0 |
-| Apr 13 03:37 PM ET | jet2holiday | evaluated |  | submission.py | 0bf782 | 44.3/3.8/48.1 | 532.9 | 251.8 | 77.1 | 127.0 |
-| Apr 13 03:36 PM ET | Shengwei | evaluated |  | submission.py | ee4422 | 19.7/2.7/22.4 | 536.9 | 361.9 | 26.6 | 47.6 |
-| Apr 13 03:36 PM ET | ck | evaluated |  | submission.py | 7ab0a8 | 37.9/2.7/40.6 | 552.7 | 365.2 | 35.4 | 64.7 |
+| Apr 13 03:48 PM ET | Shengwei | late |  | submission.py | f78d37 | 21.0/2.7/23.6 | 537.7 | 361.2 | 26.3 | 47.5 |
+| Apr 13 03:43 PM ET | onlythingIcanDOisTAPEOUT | late |  | submission.py | b40e4a | 35.9/3.2/39.0 | 536.3 | 276.6 | 32.5 | 64.4 |
+| Apr 13 03:39 PM ET | ishan-pat | late |  | submission.py | a4749e | 40.6/2.7/43.3 | 551.0 | 351.9 | 25.7 | 51.6 |
+| Apr 13 03:39 PM ET | ishan-pat | late |  | develop.py | a4749e | 22.8/2.7/25.5 | 552.8 | 350.9 | 25.9 | 52.0 |
+| Apr 13 03:38 PM ET | jbc | late |  | submission.py | a225b8 | 38.4/3.1/41.5 | 556.6 | 332.7 | 71.4 | 89.0 |
+| Apr 13 03:37 PM ET | jet2holiday | late |  | submission.py | 0bf782 | 44.3/3.8/48.1 | 532.9 | 251.8 | 77.1 | 127.0 |
+| Apr 13 03:36 PM ET | Shengwei | late |  | submission.py | ee4422 | 19.7/2.7/22.4 | 536.9 | 361.9 | 26.6 | 47.6 |
+| Apr 13 03:36 PM ET | ck | late |  | submission.py | 7ab0a8 | 37.9/2.7/40.6 | 552.7 | 365.2 | 35.4 | 64.7 |
 | Apr 13 03:34 PM ET | kade_lin_is_here | failed_correctness | R1: SETUP: ERR: Unsupported: Observed exception Explanation: Dynamo found no exception handler at the top-level compi... | submission.py | 8531cc | 29.7/0.9/30.6 | 0.0 | 0.0 | 94.8 | 133.3 |
-| Apr 13 03:32 PM ET | poppyPotatoe | evaluated |  | submission.py | e01605 | 14.6/8.6/23.2 | 165.2 | 124.1 | 209.9 | 133.8 |
-| Apr 13 03:32 PM ET | poppyPotatoe | evaluated |  | develop.py | e01605 | 14.7/8.6/23.3 | 160.7 | 127.2 | 210.0 | 133.9 |
+| Apr 13 03:32 PM ET | poppyPotatoe | late |  | submission.py | e01605 | 14.6/8.6/23.2 | 165.2 | 124.1 | 209.9 | 133.8 |
+| Apr 13 03:32 PM ET | poppyPotatoe | late |  | develop.py | e01605 | 14.7/8.6/23.3 | 160.7 | 127.2 | 210.0 | 133.9 |
 | Apr 13 03:32 PM ET | ck | failed_correctness | R1: SETUP: ERR: RuntimeError: The size of tensor a (14) must match the size of tensor b (2) at non-singleton dimensio... | submission.py | 2a8964 | 16.5/2.3/18.8 | 0.0 | 0.0 | 312.7 | 251.5 |
-| Apr 13 03:25 PM ET | poppyPotatoe | evaluated |  | submission.py | 804d9d | 16.4/10.0/26.4 | 153.5 | 115.7 | 310.1 | 249.0 |
-| Apr 13 03:23 PM ET | kaimaeda | evaluated |  | submission.py | 2ef03f | 20.8/3.7/24.6 | 522.0 | 257.6 | 66.7 | 128.3 |
-| Apr 13 03:23 PM ET | kaimaeda | evaluated |  | develop.py | 2ef03f | 42.2/3.7/45.9 | 516.0 | 256.8 | 63.3 | 121.1 |
-| Apr 13 03:23 PM ET | Shengwei | evaluated |  | submission.py | 2add11 | 21.4/2.7/24.1 | 535.7 | 361.4 | 26.3 | 47.6 |
-| Apr 13 03:22 PM ET | kade_lin_is_here | evaluated |  | submission.py | 1d2e24 | 71.1/4.0/75.1 | 541.3 | 237.5 | 94.1 | 133.1 |
-| Apr 13 03:16 PM ET | ck | evaluated |  | submission.py | 4feb2f | 36.8/2.7/39.5 | 571.3 | 373.1 | 35.2 | 64.6 |
+| Apr 13 03:25 PM ET | poppyPotatoe | late |  | submission.py | 804d9d | 16.4/10.0/26.4 | 153.5 | 115.7 | 310.1 | 249.0 |
+| Apr 13 03:23 PM ET | kaimaeda | late |  | submission.py | 2ef03f | 20.8/3.7/24.6 | 522.0 | 257.6 | 66.7 | 128.3 |
+| Apr 13 03:23 PM ET | kaimaeda | late |  | develop.py | 2ef03f | 42.2/3.7/45.9 | 516.0 | 256.8 | 63.3 | 121.1 |
+| Apr 13 03:23 PM ET | Shengwei | late |  | submission.py | 2add11 | 21.4/2.7/24.1 | 535.7 | 361.4 | 26.3 | 47.6 |
+| Apr 13 03:22 PM ET | kade_lin_is_here | late |  | submission.py | 1d2e24 | 71.1/4.0/75.1 | 541.3 | 237.5 | 94.1 | 133.1 |
+| Apr 13 03:16 PM ET | ck | late |  | submission.py | 4feb2f | 36.8/2.7/39.5 | 571.3 | 373.1 | 35.2 | 64.6 |
 | Apr 13 03:13 PM ET | jbc | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | submission.py | 8dd46e | 23.9/5.4/29.3 | 525.5 | 116.6 | 0.0 | 0.0 |
 | Apr 13 03:13 PM ET | jbc | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | develop.py | 8dd46e | 23.8/5.4/29.2 | 523.3 | 116.5 | 0.0 | 0.0 |
-| Apr 13 03:12 PM ET | ishan-pat | evaluated |  | submission.py | 598a3d | 40.3/2.7/43.0 | 551.7 | 351.9 | 25.9 | 52.1 |
-| Apr 13 03:12 PM ET | ishan-pat | evaluated |  | develop.py | 598a3d | 22.8/2.7/25.5 | 548.5 | 350.8 | 26.1 | 52.6 |
-| Apr 13 03:11 PM ET | TheProphet | evaluated |  | submission.py | ba2c24 | 41.4/6.0/47.4 | 468.3 | 170.8 | 280.0 | 187.8 |
-| Apr 13 03:07 PM ET | ck | evaluated |  | submission.py | 8ef005 | 19.7/6.2/25.9 | 525.4 | 170.0 | 309.6 | 249.3 |
-| Apr 13 03:05 PM ET | yb | evaluated |  | develop.py | b9a7e3 | 19.9/6.3/26.1 | 521.4 | 169.1 | 311.4 | 251.1 |
+| Apr 13 03:12 PM ET | ishan-pat | late |  | submission.py | 598a3d | 40.3/2.7/43.0 | 551.7 | 351.9 | 25.9 | 52.1 |
+| Apr 13 03:12 PM ET | ishan-pat | late |  | develop.py | 598a3d | 22.8/2.7/25.5 | 548.5 | 350.8 | 26.1 | 52.6 |
+| Apr 13 03:11 PM ET | TheProphet | late |  | submission.py | ba2c24 | 41.4/6.0/47.4 | 468.3 | 170.8 | 280.0 | 187.8 |
+| Apr 13 03:07 PM ET | ck | late |  | submission.py | 8ef005 | 19.7/6.2/25.9 | 525.4 | 170.0 | 309.6 | 249.3 |
+| Apr 13 03:05 PM ET | yb | late |  | develop.py | b9a7e3 | 19.9/6.3/26.1 | 521.4 | 169.1 | 311.4 | 251.1 |
 | Apr 13 03:03 PM ET | jbc | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | submission.py | 163050 | 41.6/5.4/47.0 | 530.7 | 116.2 | 0.0 | 0.0 |
-| Apr 13 02:58 PM ET | avemaria | evaluated |  | develop.py | 242975 | 39.7/6.4/46.1 | 524.7 | 165.7 | 322.2 | 254.8 |
-| Apr 13 02:56 PM ET | kaimaeda | evaluated |  | develop.py | c1ff00 | 44.5/3.7/48.3 | 522.6 | 257.6 | 65.9 | 127.8 |
-| Apr 13 02:53 PM ET | kaimaeda | evaluated |  | submission.py | db84ae | 19.3/3.7/23.0 | 523.3 | 257.7 | 66.1 | 127.4 |
+| Apr 13 02:58 PM ET | avemaria | late |  | develop.py | 242975 | 39.7/6.4/46.1 | 524.7 | 165.7 | 322.2 | 254.8 |
+| Apr 13 02:56 PM ET | kaimaeda | late |  | develop.py | c1ff00 | 44.5/3.7/48.3 | 522.6 | 257.6 | 65.9 | 127.8 |
+| Apr 13 02:53 PM ET | kaimaeda | late |  | submission.py | db84ae | 19.3/3.7/23.0 | 523.3 | 257.7 | 66.1 | 127.4 |
 | Apr 13 02:52 PM ET | jbc | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | submission.py | 4895f6 | 33.6/19.9/53.5 | 525.9 | 146.1 | 3864.0 | 0.0 |
 | Apr 13 02:52 PM ET | ck | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | submission.py | 17de61 | 38.7/30.6/69.3 | 72.1 | 33.3 | 2030.4 | 0.0 |
-| Apr 13 02:46 PM ET | yb | evaluated |  | develop.py | f47a91 | 19.7/6.2/26.0 | 524.1 | 169.4 | 310.3 | 249.9 |
-| Apr 13 02:46 PM ET | your_nickname_here | evaluated |  | submission.py | 0949d0 | 48.9/6.1/55.1 | 554.1 | 172.4 | 311.5 | 250.7 |
-| Apr 13 02:46 PM ET | your_nickname_here | evaluated |  | develop.py | 0949d0 | 22.6/6.1/28.7 | 558.3 | 173.3 | 308.9 | 248.8 |
+| Apr 13 02:46 PM ET | yb | late |  | develop.py | f47a91 | 19.7/6.2/26.0 | 524.1 | 169.4 | 310.3 | 249.9 |
+| Apr 13 02:46 PM ET | your_nickname_here | late |  | submission.py | 0949d0 | 48.9/6.1/55.1 | 554.1 | 172.4 | 311.5 | 250.7 |
+| Apr 13 02:46 PM ET | your_nickname_here | late |  | develop.py | 0949d0 | 22.6/6.1/28.7 | 558.3 | 173.3 | 308.9 | 248.8 |
 | Apr 13 02:46 PM ET | jbc | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | submission.py | dea5f4 | 23.3/4.5/27.7 | 524.8 | 146.5 | 0.0 | 0.0 |
-| Apr 13 02:40 PM ET | hngydn20 | evaluated |  | submission.py | c63812 | 38.6/3.9/42.5 | 552.9 | 287.4 | 131.9 | 165.5 |
-| Apr 13 02:40 PM ET | hngydn20 | evaluated |  | develop.py | c63812 | 19.8/3.9/23.7 | 551.5 | 286.5 | 131.7 | 165.9 |
+| Apr 13 02:40 PM ET | hngydn20 | late |  | submission.py | c63812 | 38.6/3.9/42.5 | 552.9 | 287.4 | 131.9 | 165.5 |
+| Apr 13 02:40 PM ET | hngydn20 | late |  | develop.py | c63812 | 19.8/3.9/23.7 | 551.5 | 286.5 | 131.7 | 165.9 |
 | Apr 13 02:36 PM ET | yb | failed_correctness | R1: ERR: subprocess failed with exit code 1 \| R2: ERR: subprocess failed with exit code 1 \| R3: ERR: subprocess faile... | develop.py | 2676e6 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
-| Apr 13 02:36 PM ET | kaimaeda | evaluated |  | submission.py | 5c71e7 | 19.7/6.2/26.0 | 523.3 | 169.4 | 309.8 | 249.7 |
+| Apr 13 02:36 PM ET | kaimaeda | late |  | submission.py | 5c71e7 | 19.7/6.2/26.0 | 523.3 | 169.4 | 309.8 | 249.7 |
 | Apr 13 02:32 PM ET | onlythingIcanDOisTAPEOUT | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | 31bf98 | 36.7/3.2/39.9 | 534.3 | 276.5 | 32.5 | 64.2 |
 | Apr 13 02:32 PM ET | onlythingIcanDOisTAPEOUT | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | develop.py | 31bf98 | 19.9/3.2/23.1 | 537.4 | 276.6 | 32.4 | 64.1 |
 | Apr 13 02:31 PM ET | TheProphet | failed_correctness | R2: ERR: hard timeout exceeded (worker killed) \| R3: ERR: total timeout exceeded before regime start \| R4: ERR: total... | submission.py | b84b4d | 50.3/0.8/51.1 | 646.2 | 0.0 | 0.0 | 0.0 |
@@ -84,122 +89,122 @@ Last updated: `April 13, 2026 at 05:15:11 PM ET`
 | Apr 13 02:28 PM ET | avemaria | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | 3b3135 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 02:23 PM ET | jbc | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | submission.py | 79eb0b | 40.8/4.5/45.2 | 529.2 | 146.5 | 0.0 | 0.0 |
 | Apr 13 02:23 PM ET | jbc | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | develop.py | 79eb0b | 23.3/4.5/27.8 | 529.2 | 145.7 | 0.0 | 0.0 |
-| Apr 13 02:22 PM ET | ck | evaluated |  | submission.py | 5b7378 | 38.9/6.3/45.2 | 521.2 | 168.9 | 311.5 | 250.9 |
-| Apr 13 02:20 PM ET | Shengwei | evaluated |  | submission.py | 3a2250 | 19.6/2.7/22.2 | 539.6 | 361.3 | 26.7 | 47.9 |
+| Apr 13 02:22 PM ET | ck | late |  | submission.py | 5b7378 | 38.9/6.3/45.2 | 521.2 | 168.9 | 311.5 | 250.9 |
+| Apr 13 02:20 PM ET | Shengwei | late |  | submission.py | 3a2250 | 19.6/2.7/22.2 | 539.6 | 361.3 | 26.7 | 47.9 |
 | Apr 13 02:13 PM ET | goingbananas | failed_correctness | R1: ERR: subprocess failed with exit code 1 \| R2: ERR: subprocess failed with exit code 1 \| R3: ERR: subprocess faile... | develop.py | fd9212 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
-| Apr 13 02:07 PM ET | kaimaeda | evaluated |  | develop.py | 337473 | 20.0/6.2/26.2 | 526.1 | 169.4 | 310.5 | 250.8 |
-| Apr 13 02:05 PM ET | Shengwei | evaluated |  | submission.py | cd3181 | 29.1/2.7/31.8 | 525.0 | 361.3 | 26.6 | 47.7 |
-| Apr 13 02:03 PM ET | jbc | evaluated |  | submission.py | 5d9d34 | 29.9/6.7/36.6 | 530.5 | 146.4 | 309.7 | 248.8 |
-| Apr 13 02:03 PM ET | jbc | evaluated |  | develop.py | 5d9d34 | 19.2/6.7/25.9 | 526.6 | 146.2 | 310.3 | 247.7 |
-| Apr 13 01:58 PM ET | yb | evaluated |  | submission.py | f606cb | 39.5/6.2/45.8 | 524.1 | 169.1 | 311.0 | 250.4 |
-| Apr 13 01:58 PM ET | yb | evaluated |  | develop.py | f606cb | 39.4/6.3/45.7 | 521.2 | 169.0 | 311.6 | 251.5 |
+| Apr 13 02:07 PM ET | kaimaeda | late |  | develop.py | 337473 | 20.0/6.2/26.2 | 526.1 | 169.4 | 310.5 | 250.8 |
+| Apr 13 02:05 PM ET | Shengwei | late |  | submission.py | cd3181 | 29.1/2.7/31.8 | 525.0 | 361.3 | 26.6 | 47.7 |
+| Apr 13 02:03 PM ET | jbc | late |  | submission.py | 5d9d34 | 29.9/6.7/36.6 | 530.5 | 146.4 | 309.7 | 248.8 |
+| Apr 13 02:03 PM ET | jbc | late |  | develop.py | 5d9d34 | 19.2/6.7/25.9 | 526.6 | 146.2 | 310.3 | 247.7 |
+| Apr 13 01:58 PM ET | yb | late |  | submission.py | f606cb | 39.5/6.2/45.8 | 524.1 | 169.1 | 311.0 | 250.4 |
+| Apr 13 01:58 PM ET | yb | late |  | develop.py | f606cb | 39.4/6.3/45.7 | 521.2 | 169.0 | 311.6 | 251.5 |
 | Apr 13 01:54 PM ET | co-smith | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | develop.py | d82aa8 | 49.8/2.4/52.2 | 449.3 | 403.9 | 0.0 | 0.0 |
-| Apr 13 01:52 PM ET | kaimaeda | evaluated |  | submission.py | 176fa2 | 39.2/6.2/45.5 | 524.0 | 169.5 | 310.1 | 250.4 |
+| Apr 13 01:52 PM ET | kaimaeda | late |  | submission.py | 176fa2 | 39.2/6.2/45.5 | 524.0 | 169.5 | 310.1 | 250.4 |
 | Apr 13 01:51 PM ET | ck | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 28c7f6 | 19.7/6.2/25.9 | 524.1 | 169.5 | 308.6 | 246.8 |
 | Apr 13 01:49 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.76%) \| max_abs_diff=12.18 | submission.py | 3949b5 | 60.5/2.8/63.3 | 650.6 | 367.4 | 69.8 | 87.3 |
-| Apr 13 01:45 PM ET | axel4 | evaluated |  | submission.py | 66964d | 40.7/6.2/47.0 | 537.9 | 169.8 | 311.0 | 248.8 |
-| Apr 13 01:42 PM ET | jbc | evaluated |  | submission.py | f4c2f0 | 19.3/6.2/25.6 | 529.2 | 169.1 | 309.5 | 247.4 |
-| Apr 13 01:42 PM ET | jbc | evaluated |  | develop.py | f4c2f0 | 19.1/6.2/25.4 | 525.3 | 169.1 | 308.8 | 247.2 |
-| Apr 13 01:39 PM ET | poppyPotatoe | evaluated |  | submission.py | fccdc3 | 15.0/9.6/24.6 | 166.9 | 119.8 | 311.6 | 251.3 |
-| Apr 13 01:39 PM ET | poppyPotatoe | evaluated |  | develop.py | fccdc3 | 14.9/9.9/24.8 | 157.8 | 116.2 | 310.6 | 248.6 |
-| Apr 13 01:33 PM ET | jbc | evaluated |  | submission.py | 3e8dd7 | 19.5/6.3/25.8 | 529.3 | 168.3 | 312.3 | 250.7 |
-| Apr 13 01:23 PM ET | ck | evaluated |  | submission.py | c35857 | 27.1/6.3/33.3 | 519.6 | 169.3 | 310.9 | 251.1 |
-| Apr 13 01:17 PM ET | TheProphet | evaluated |  | submission.py | 10217b | 79.9/4.5/84.3 | 181.2 | 371.7 | 24.0 | 46.1 |
-| Apr 13 01:17 PM ET | jbc | evaluated |  | submission.py | 70a8e0 | 19.7/19.1/38.9 | 527.0 | 32.2 | 312.1 | 251.1 |
-| Apr 13 01:17 PM ET | jbc | evaluated |  | develop.py | 70a8e0 | 19.6/8.1/27.7 | 529.8 | 104.7 | 310.3 | 248.2 |
-| Apr 13 01:13 PM ET | Akash Basu | evaluated |  | submission.py | b0a419 | 41.8/6.2/48.1 | 525.9 | 169.5 | 309.8 | 250.2 |
-| Apr 13 01:13 PM ET | Akash Basu | evaluated |  | develop.py | b0a419 | 19.6/6.2/25.9 | 524.9 | 169.4 | 310.1 | 250.3 |
-| Apr 13 12:59 PM ET | jbc | evaluated |  | submission.py | aaf397 | 47.9/6.3/54.1 | 527.8 | 168.7 | 311.8 | 250.0 |
-| Apr 13 12:59 PM ET | jbc | evaluated |  | develop.py | aaf397 | 19.6/6.2/25.9 | 531.0 | 168.5 | 311.7 | 249.6 |
-| Apr 13 12:44 PM ET | co-smith | evaluated |  | develop.py | d8d4f1 | 60.8/4.3/65.1 | 448.0 | 404.8 | 288.6 | 187.2 |
-| Apr 13 12:43 PM ET | jbc | evaluated |  | submission.py | 1cbf1d | 37.6/6.2/43.9 | 531.9 | 168.8 | 312.3 | 250.0 |
-| Apr 13 12:43 PM ET | jbc | evaluated |  | develop.py | 1cbf1d | 19.6/6.3/25.9 | 529.3 | 168.4 | 311.6 | 249.9 |
-| Apr 13 12:26 PM ET | Shengwei | evaluated |  | submission.py | 55fd4e | 19.8/2.7/22.4 | 534.0 | 362.4 | 26.5 | 47.5 |
+| Apr 13 01:45 PM ET | axel4 | late |  | submission.py | 66964d | 40.7/6.2/47.0 | 537.9 | 169.8 | 311.0 | 248.8 |
+| Apr 13 01:42 PM ET | jbc | late |  | submission.py | f4c2f0 | 19.3/6.2/25.6 | 529.2 | 169.1 | 309.5 | 247.4 |
+| Apr 13 01:42 PM ET | jbc | late |  | develop.py | f4c2f0 | 19.1/6.2/25.4 | 525.3 | 169.1 | 308.8 | 247.2 |
+| Apr 13 01:39 PM ET | poppyPotatoe | late |  | submission.py | fccdc3 | 15.0/9.6/24.6 | 166.9 | 119.8 | 311.6 | 251.3 |
+| Apr 13 01:39 PM ET | poppyPotatoe | late |  | develop.py | fccdc3 | 14.9/9.9/24.8 | 157.8 | 116.2 | 310.6 | 248.6 |
+| Apr 13 01:33 PM ET | jbc | late |  | submission.py | 3e8dd7 | 19.5/6.3/25.8 | 529.3 | 168.3 | 312.3 | 250.7 |
+| Apr 13 01:23 PM ET | ck | late |  | submission.py | c35857 | 27.1/6.3/33.3 | 519.6 | 169.3 | 310.9 | 251.1 |
+| Apr 13 01:17 PM ET | TheProphet | late |  | submission.py | 10217b | 79.9/4.5/84.3 | 181.2 | 371.7 | 24.0 | 46.1 |
+| Apr 13 01:17 PM ET | jbc | late |  | submission.py | 70a8e0 | 19.7/19.1/38.9 | 527.0 | 32.2 | 312.1 | 251.1 |
+| Apr 13 01:17 PM ET | jbc | late |  | develop.py | 70a8e0 | 19.6/8.1/27.7 | 529.8 | 104.7 | 310.3 | 248.2 |
+| Apr 13 01:13 PM ET | Akash Basu | late |  | submission.py | b0a419 | 41.8/6.2/48.1 | 525.9 | 169.5 | 309.8 | 250.2 |
+| Apr 13 01:13 PM ET | Akash Basu | late |  | develop.py | b0a419 | 19.6/6.2/25.9 | 524.9 | 169.4 | 310.1 | 250.3 |
+| Apr 13 12:59 PM ET | jbc | late |  | submission.py | aaf397 | 47.9/6.3/54.1 | 527.8 | 168.7 | 311.8 | 250.0 |
+| Apr 13 12:59 PM ET | jbc | late |  | develop.py | aaf397 | 19.6/6.2/25.9 | 531.0 | 168.5 | 311.7 | 249.6 |
+| Apr 13 12:44 PM ET | co-smith | late |  | develop.py | d8d4f1 | 60.8/4.3/65.1 | 448.0 | 404.8 | 288.6 | 187.2 |
+| Apr 13 12:43 PM ET | jbc | late |  | submission.py | 1cbf1d | 37.6/6.2/43.9 | 531.9 | 168.8 | 312.3 | 250.0 |
+| Apr 13 12:43 PM ET | jbc | late |  | develop.py | 1cbf1d | 19.6/6.3/25.9 | 529.3 | 168.4 | 311.6 | 249.9 |
+| Apr 13 12:26 PM ET | Shengwei | late |  | submission.py | 55fd4e | 19.8/2.7/22.4 | 534.0 | 362.4 | 26.5 | 47.5 |
 | Apr 13 12:25 PM ET | co-smith | failed_correctness | Correctness FAIL \| R2 (89.43%) \| max_abs_diff=15.99 | develop.py | 540cc0 | 53.0/4.3/57.3 | 449.4 | 416.3 | 289.2 | 187.6 |
-| Apr 13 12:25 PM ET | yb | evaluated |  | submission.py | f1acc1 | 19.7/6.3/25.9 | 519.6 | 169.1 | 310.3 | 250.4 |
-| Apr 13 12:21 PM ET | jbc | evaluated |  | submission.py | 6325da | 15.7/9.5/25.3 | 173.4 | 117.6 | 310.4 | 249.2 |
-| Apr 13 12:21 PM ET | jbc | evaluated |  | develop.py | 6325da | 15.7/9.6/25.4 | 170.2 | 116.9 | 312.4 | 251.0 |
+| Apr 13 12:25 PM ET | yb | late |  | submission.py | f1acc1 | 19.7/6.3/25.9 | 519.6 | 169.1 | 310.3 | 250.4 |
+| Apr 13 12:21 PM ET | jbc | late |  | submission.py | 6325da | 15.7/9.5/25.3 | 173.4 | 117.6 | 310.4 | 249.2 |
+| Apr 13 12:21 PM ET | jbc | late |  | develop.py | 6325da | 15.7/9.6/25.4 | 170.2 | 116.9 | 312.4 | 251.0 |
 | Apr 13 12:00 PM ET | jbc | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 213269 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 12:00 PM ET | jbc | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | develop.py | 213269 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
-| Apr 13 11:47 AM ET | co-smith | evaluated |  | submission.py | 6647c3 | 29.2/5.4/34.6 | 445.2 | 219.6 | 290.9 | 188.4 |
+| Apr 13 11:47 AM ET | co-smith | late |  | submission.py | 6647c3 | 29.2/5.4/34.6 | 445.2 | 219.6 | 290.9 | 188.4 |
 | Apr 13 11:47 AM ET | co-smith | failed_correctness | R3: ERR: at 117:37: p = tl.where(keep, p, 0.0) v = tl.load( v_ptr + b * stride_vb + hk * stride_vh + off \| R4: ERR: a... | develop.py | 6647c3 | 61.2/2.4/63.5 | 447.6 | 414.8 | 0.0 | 0.0 |
 | Apr 13 11:43 AM ET | jbc | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 62fd1a | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 11:43 AM ET | jbc | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | develop.py | 62fd1a | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
-| Apr 13 11:39 AM ET | JaneShuey | evaluated |  | submission.py | 882419 | 54.6/4.8/59.4 | 526.2 | 165.2 | 59.6 | 111.1 |
+| Apr 13 11:39 AM ET | JaneShuey | late |  | submission.py | 882419 | 54.6/4.8/59.4 | 526.2 | 165.2 | 59.6 | 111.1 |
 | Apr 13 11:30 AM ET | JaneShuey | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | 4bd0cf |  |  |  |  |  |
 | Apr 13 11:28 AM ET | JaneShuey | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | 4f504b |  |  |  |  |  |
 | Apr 13 11:27 AM ET | jbc | failed_correctness | R1: SETUP: ERR: UserError: Could not guard on data-dependent expression Eq(u1, 1) (unhinted: Eq(u1, 1)). (Size-like s... | submission.py | bc91d7 | 17.2/2.2/19.4 | 0.0 | 0.0 | 310.5 | 249.1 |
 | Apr 13 11:27 AM ET | jbc | failed_correctness | R1: SETUP: ERR: UserError: Could not guard on data-dependent expression Eq(u1, 1) (unhinted: Eq(u1, 1)). (Size-like s... | develop.py | bc91d7 | 17.2/2.3/19.5 | 0.0 | 0.0 | 312.7 | 251.2 |
-| Apr 13 11:15 AM ET | kade_lin_is_here | evaluated |  | submission.py | 9c847b | 39.3/4.1/43.4 | 541.5 | 237.6 | 108.7 | 138.3 |
+| Apr 13 11:15 AM ET | kade_lin_is_here | late |  | submission.py | 9c847b | 39.3/4.1/43.4 | 541.5 | 237.6 | 108.7 | 138.3 |
 | Apr 13 11:13 AM ET | jbc | failed_correctness | R1: SETUP: ERR: UnboundLocalError: cannot access local variable 'decode_plan_idx' where it is not associated with a v... | submission.py | 1e6d2f | 14.4/0.0/14.4 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 11:13 AM ET | jbc | failed_correctness | R1: SETUP: ERR: UnboundLocalError: cannot access local variable 'decode_plan_idx' where it is not associated with a v... | develop.py | 1e6d2f | 14.4/0.0/14.4 | 0.0 | 0.0 | 0.0 | 0.0 |
-| Apr 13 11:10 AM ET | co-smith | evaluated |  | submission.py | 92ebc9 | 30.4/5.2/35.5 | 557.2 | 220.4 | 290.1 | 188.2 |
-| Apr 13 11:10 AM ET | co-smith | evaluated |  | develop.py | 92ebc9 | 30.5/5.1/35.6 | 560.3 | 220.7 | 289.3 | 188.1 |
-| Apr 13 11:09 AM ET | TheProphet | evaluated |  | submission.py | d5575f | 38.2/6.3/44.5 | 176.4 | 164.2 | 24.1 | 46.4 |
+| Apr 13 11:10 AM ET | co-smith | late |  | submission.py | 92ebc9 | 30.4/5.2/35.5 | 557.2 | 220.4 | 290.1 | 188.2 |
+| Apr 13 11:10 AM ET | co-smith | late |  | develop.py | 92ebc9 | 30.5/5.1/35.6 | 560.3 | 220.7 | 289.3 | 188.1 |
+| Apr 13 11:09 AM ET | TheProphet | late |  | submission.py | d5575f | 38.2/6.3/44.5 | 176.4 | 164.2 | 24.1 | 46.4 |
 | Apr 13 11:02 AM ET | kaimaeda | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 24ca30 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 11:02 AM ET | kaimaeda | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | 24ca30 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
-| Apr 13 10:58 AM ET | co-smith | evaluated |  | submission.py | 4cfcca | 29.2/5.4/34.6 | 441.5 | 220.1 | 290.5 | 188.5 |
-| Apr 13 10:43 AM ET | TheProphet | evaluated |  | submission.py | 933583 | 30.7/4.6/35.3 | 249.4 | 228.4 | 24.1 | 46.4 |
-| Apr 13 10:38 AM ET | jbc | evaluated |  | submission.py | 0e5308 | 19.8/6.3/26.1 | 521.7 | 168.8 | 311.3 | 251.0 |
-| Apr 13 10:38 AM ET | jbc | evaluated |  | develop.py | 0e5308 | 19.6/6.3/25.8 | 521.7 | 169.1 | 311.4 | 249.7 |
+| Apr 13 10:58 AM ET | co-smith | late |  | submission.py | 4cfcca | 29.2/5.4/34.6 | 441.5 | 220.1 | 290.5 | 188.5 |
+| Apr 13 10:43 AM ET | TheProphet | late |  | submission.py | 933583 | 30.7/4.6/35.3 | 249.4 | 228.4 | 24.1 | 46.4 |
+| Apr 13 10:38 AM ET | jbc | late |  | submission.py | 0e5308 | 19.8/6.3/26.1 | 521.7 | 168.8 | 311.3 | 251.0 |
+| Apr 13 10:38 AM ET | jbc | late |  | develop.py | 0e5308 | 19.6/6.3/25.8 | 521.7 | 169.1 | 311.4 | 249.7 |
 | Apr 13 10:21 AM ET | co-smith | failed_correctness | R2: ERR: subprocess failed with exit code -6 | submission.py | efb21b | 26.2/2.8/29.0 | 553.7 | 0.0 | 289.3 | 187.7 |
 | Apr 13 10:21 AM ET | co-smith | failed_correctness | R2: ERR: subprocess failed with exit code -6 | develop.py | efb21b | 22.7/2.8/25.6 | 553.1 | 0.0 | 290.9 | 188.8 |
-| Apr 13 10:16 AM ET | goingbananas | evaluated |  | submission.py | 2ce123 | 40.5/3.6/44.2 | 535.5 | 307.6 | 104.8 | 150.5 |
-| Apr 13 10:08 AM ET | jbc | evaluated |  | submission.py | ba1d09 | 19.8/6.3/26.1 | 522.2 | 169.1 | 311.6 | 249.3 |
-| Apr 13 10:08 AM ET | jbc | evaluated |  | develop.py | ba1d09 | 19.5/6.3/25.8 | 515.8 | 169.1 | 311.3 | 249.7 |
-| Apr 13 09:55 AM ET | jbc | evaluated |  | submission.py | 90801e | 19.8/6.2/26.0 | 524.8 | 169.5 | 310.9 | 249.4 |
-| Apr 13 09:55 AM ET | Decode_speed | evaluated |  | submission.py | d54f1d | 41.7/3.1/44.8 | 530.2 | 274.5 | 24.9 | 46.2 |
-| Apr 13 09:55 AM ET | Decode_speed | evaluated |  | develop.py | d54f1d | 21.2/3.1/24.3 | 526.0 | 274.9 | 24.8 | 46.1 |
-| Apr 13 09:45 AM ET | co-smith | evaluated |  | submission.py | a32130 | 29.3/5.4/34.7 | 447.0 | 220.7 | 289.4 | 188.1 |
-| Apr 13 09:45 AM ET | co-smith | evaluated |  | develop.py | a32130 | 29.2/5.4/34.6 | 444.6 | 220.9 | 289.3 | 187.8 |
-| Apr 13 09:39 AM ET | nickname55555555 | evaluated |  | submission.py | f68498 | 73.0/2.7/75.6 | 568.8 | 354.5 | 27.9 | 49.2 |
-| Apr 13 09:39 AM ET | nickname55555555 | evaluated |  | develop.py | f68498 | 28.7/2.7/31.4 | 562.9 | 353.4 | 28.0 | 49.4 |
-| Apr 13 09:38 AM ET | TheProphet | evaluated |  | submission.py | 446108 | 41.9/11.9/53.8 | 54.8 | 220.6 | 24.0 | 46.2 |
+| Apr 13 10:16 AM ET | goingbananas | late |  | submission.py | 2ce123 | 40.5/3.6/44.2 | 535.5 | 307.6 | 104.8 | 150.5 |
+| Apr 13 10:08 AM ET | jbc | late |  | submission.py | ba1d09 | 19.8/6.3/26.1 | 522.2 | 169.1 | 311.6 | 249.3 |
+| Apr 13 10:08 AM ET | jbc | late |  | develop.py | ba1d09 | 19.5/6.3/25.8 | 515.8 | 169.1 | 311.3 | 249.7 |
+| Apr 13 09:55 AM ET | jbc | late |  | submission.py | 90801e | 19.8/6.2/26.0 | 524.8 | 169.5 | 310.9 | 249.4 |
+| Apr 13 09:55 AM ET | Decode_speed | late |  | submission.py | d54f1d | 41.7/3.1/44.8 | 530.2 | 274.5 | 24.9 | 46.2 |
+| Apr 13 09:55 AM ET | Decode_speed | late |  | develop.py | d54f1d | 21.2/3.1/24.3 | 526.0 | 274.9 | 24.8 | 46.1 |
+| Apr 13 09:45 AM ET | co-smith | late |  | submission.py | a32130 | 29.3/5.4/34.7 | 447.0 | 220.7 | 289.4 | 188.1 |
+| Apr 13 09:45 AM ET | co-smith | late |  | develop.py | a32130 | 29.2/5.4/34.6 | 444.6 | 220.9 | 289.3 | 187.8 |
+| Apr 13 09:39 AM ET | nickname55555555 | late |  | submission.py | f68498 | 73.0/2.7/75.6 | 568.8 | 354.5 | 27.9 | 49.2 |
+| Apr 13 09:39 AM ET | nickname55555555 | late |  | develop.py | f68498 | 28.7/2.7/31.4 | 562.9 | 353.4 | 28.0 | 49.4 |
+| Apr 13 09:38 AM ET | TheProphet | late |  | submission.py | 446108 | 41.9/11.9/53.8 | 54.8 | 220.6 | 24.0 | 46.2 |
 | Apr 13 09:36 AM ET | jbc | failed_correctness | R1: SETUP: ERR: NameError: name 'scales_dev' is not defined \| R2: SETUP: ERR: NameError: name 'scales_dev' is not def... | submission.py | d4d80c | 13.3/0.0/13.3 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 09:36 AM ET | jbc | failed_correctness | R1: SETUP: ERR: NameError: name 'scales_dev' is not defined \| R2: SETUP: ERR: NameError: name 'scales_dev' is not def... | develop.py | d4d80c | 13.2/0.0/13.2 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 09:21 AM ET | jbc | failed_correctness | R1: SETUP: ERR: ValueError: Pointer argument (at 1) cannot be accessed from Triton (cpu tensor?) \| R2: SETUP: ERR: Va... | submission.py | 4cc936 | 18.3/2.2/20.6 | 0.0 | 0.0 | 310.6 | 248.9 |
 | Apr 13 09:21 AM ET | jbc | failed_correctness | R1: SETUP: ERR: ValueError: Pointer argument (at 1) cannot be accessed from Triton (cpu tensor?) \| R2: SETUP: ERR: Va... | develop.py | 4cc936 | 18.4/2.2/20.6 | 0.0 | 0.0 | 311.2 | 249.3 |
-| Apr 13 09:03 AM ET | TheProphet | evaluated |  | submission.py | ce53ec | 30.5/4.6/35.2 | 244.7 | 226.1 | 24.2 | 46.5 |
-| Apr 13 08:49 AM ET | co-smith | evaluated |  | submission.py | 97af03 | 45.6/7.9/53.4 | 559.0 | 101.5 | 289.4 | 187.5 |
-| Apr 13 08:49 AM ET | co-smith | evaluated |  | develop.py | 97af03 | 32.5/7.9/40.4 | 544.7 | 101.2 | 289.2 | 187.8 |
-| Apr 13 08:38 AM ET | TheProphet | evaluated |  | submission.py | 4f904c | 37.5/4.6/42.1 | 246.7 | 226.6 | 24.2 | 46.4 |
-| Apr 13 08:07 AM ET | TheProphet | evaluated |  | submission.py | 45f599 | 25.1/2.9/28.0 | 576.9 | 345.7 | 64.0 | 73.2 |
-| Apr 13 07:30 AM ET | TheProphet | evaluated |  | submission.py | ab7156 | 62.0/4.4/66.5 | 589.1 | 171.7 | 66.4 | 76.0 |
+| Apr 13 09:03 AM ET | TheProphet | late |  | submission.py | ce53ec | 30.5/4.6/35.2 | 244.7 | 226.1 | 24.2 | 46.5 |
+| Apr 13 08:49 AM ET | co-smith | late |  | submission.py | 97af03 | 45.6/7.9/53.4 | 559.0 | 101.5 | 289.4 | 187.5 |
+| Apr 13 08:49 AM ET | co-smith | late |  | develop.py | 97af03 | 32.5/7.9/40.4 | 544.7 | 101.2 | 289.2 | 187.8 |
+| Apr 13 08:38 AM ET | TheProphet | late |  | submission.py | 4f904c | 37.5/4.6/42.1 | 246.7 | 226.6 | 24.2 | 46.4 |
+| Apr 13 08:07 AM ET | TheProphet | late |  | submission.py | 45f599 | 25.1/2.9/28.0 | 576.9 | 345.7 | 64.0 | 73.2 |
+| Apr 13 07:30 AM ET | TheProphet | late |  | submission.py | ab7156 | 62.0/4.4/66.5 | 589.1 | 171.7 | 66.4 | 76.0 |
 | Apr 13 07:13 AM ET | TheProphet | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | submission.py | 1ea373 | 59.7/3.7/63.5 | 589.3 | 179.3 | 0.0 | 0.0 |
-| Apr 13 07:08 AM ET | Bulbasaur | evaluated |  | submission.py | dfcccd | 41.2/3.7/44.9 | 540.2 | 301.5 | 105.0 | 150.9 |
-| Apr 13 07:08 AM ET | Bulbasaur | evaluated |  | develop.py | dfcccd | 19.8/3.7/23.4 | 538.5 | 302.4 | 103.8 | 150.1 |
-| Apr 13 06:57 AM ET | TheProphet | evaluated |  | submission.py | da19a9 | 60.3/2.9/63.2 | 591.7 | 350.9 | 63.4 | 72.1 |
+| Apr 13 07:08 AM ET | Bulbasaur | late |  | submission.py | dfcccd | 41.2/3.7/44.9 | 540.2 | 301.5 | 105.0 | 150.9 |
+| Apr 13 07:08 AM ET | Bulbasaur | late |  | develop.py | dfcccd | 19.8/3.7/23.4 | 538.5 | 302.4 | 103.8 | 150.1 |
+| Apr 13 06:57 AM ET | TheProphet | late |  | submission.py | da19a9 | 60.3/2.9/63.2 | 591.7 | 350.9 | 63.4 | 72.1 |
 | Apr 13 04:25 AM ET | chyyy | failed_correctness | Correctness FAIL \| R2 (100.00%) \| max_abs_diff=inf | develop.py | 717998 | 61.0/2.4/63.4 | 556.5 | 433.6 | 25.0 | 48.5 |
-| Apr 13 02:25 AM ET | hngydn20 | evaluated |  | submission.py | 630c81 | 40.2/5.7/45.9 | 550.4 | 197.8 | 309.0 | 247.9 |
-| Apr 13 02:25 AM ET | hngydn20 | evaluated |  | develop.py | 630c81 | 21.6/5.8/27.4 | 545.4 | 196.8 | 311.0 | 249.6 |
-| Apr 13 02:11 AM ET | happyface | evaluated |  | submission.py | 4ce0f3 | 27.0/3.2/30.2 | 541.8 | 263.7 | 28.8 | 51.0 |
+| Apr 13 02:25 AM ET | hngydn20 | late |  | submission.py | 630c81 | 40.2/5.7/45.9 | 550.4 | 197.8 | 309.0 | 247.9 |
+| Apr 13 02:25 AM ET | hngydn20 | late |  | develop.py | 630c81 | 21.6/5.8/27.4 | 545.4 | 196.8 | 311.0 | 249.6 |
+| Apr 13 02:11 AM ET | happyface | late |  | submission.py | 4ce0f3 | 27.0/3.2/30.2 | 541.8 | 263.7 | 28.8 | 51.0 |
 | Apr 13 02:09 AM ET | ck | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | dbcd8b | 19.9/6.2/26.1 | 523.3 | 169.7 | 308.8 | 246.5 |
-| Apr 13 02:00 AM ET | happyface | evaluated |  | develop.py | 8313a7 | 47.2/3.2/50.4 | 541.1 | 265.5 | 28.1 | 51.1 |
+| Apr 13 02:00 AM ET | happyface | late |  | develop.py | 8313a7 | 47.2/3.2/50.4 | 541.1 | 265.5 | 28.1 | 51.1 |
 | Apr 13 01:42 AM ET | jbc | failed_correctness | R1: SETUP: ERR: ValueError: Pointer argument (at 1) cannot be accessed from Triton (cpu tensor?) \| R2: SETUP: ERR: Va... | submission.py | 3eae05 | 18.5/2.2/20.7 | 0.0 | 0.0 | 310.8 | 248.8 |
 | Apr 13 01:42 AM ET | jbc | failed_correctness | R1: SETUP: ERR: ValueError: Pointer argument (at 1) cannot be accessed from Triton (cpu tensor?) \| R2: SETUP: ERR: Va... | develop.py | 3eae05 | 18.3/2.2/20.6 | 0.0 | 0.0 | 309.9 | 248.8 |
-| Apr 13 01:40 AM ET | happyface | evaluated |  | develop.py | 0639a5 | 45.5/4.7/50.2 | 537.8 | 215.4 | 166.0 | 164.5 |
-| Apr 13 01:30 AM ET | ck | evaluated |  | submission.py | 0a60c6 | 18.5/2.7/21.1 | 570.4 | 373.0 | 35.2 | 64.7 |
+| Apr 13 01:40 AM ET | happyface | late |  | develop.py | 0639a5 | 45.5/4.7/50.2 | 537.8 | 215.4 | 166.0 | 164.5 |
+| Apr 13 01:30 AM ET | ck | late |  | submission.py | 0a60c6 | 18.5/2.7/21.1 | 570.4 | 373.0 | 35.2 | 64.7 |
 | Apr 13 01:30 AM ET | happyface | failed_correctness | Correctness FAIL \| R2 (88.57%), R3 (78.40%), R4 (83.54%) \| max_abs_diff=17 | develop.py | 209339 | 20.7/3.6/24.3 | 540.2 | 262.6 | 60.7 | 109.6 |
 | Apr 13 01:28 AM ET | jbc | failed_correctness | R1: SETUP: ERR: ValueError: Pointer argument (at 1) cannot be accessed from Triton (cpu tensor?) \| R2: SETUP: ERR: Va... | submission.py | de1427 | 18.6/2.2/20.8 | 0.0 | 0.0 | 308.6 | 247.9 |
 | Apr 13 01:28 AM ET | jbc | failed_correctness | R1: SETUP: ERR: ValueError: Pointer argument (at 1) cannot be accessed from Triton (cpu tensor?) \| R2: SETUP: ERR: Va... | develop.py | de1427 | 18.4/2.2/20.6 | 0.0 | 0.0 | 310.9 | 250.4 |
 | Apr 13 01:23 AM ET | jbc | failed_correctness | R1: SETUP: ERR: ValueError: Pointer argument (at 1) cannot be accessed from Triton (cpu tensor?) \| R2: SETUP: ERR: Va... | submission.py | fe0b00 | 28.6/2.2/30.9 | 0.0 | 0.0 | 308.9 | 248.3 |
 | Apr 13 01:19 AM ET | ck | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | a741ed | 19.8/6.2/26.0 | 521.7 | 169.0 | 309.2 | 246.8 |
 | Apr 13 01:19 AM ET | happyface | failed_correctness | Correctness FAIL \| R2 (88.57%), R3 (78.40%), R4 (83.54%) \| max_abs_diff=17 | develop.py | e657c3 | 25.1/3.6/28.6 | 543.4 | 262.6 | 60.4 | 109.7 |
-| Apr 13 01:12 AM ET | jbc | evaluated |  | develop.py | 1a8373 | 19.9/6.2/26.1 | 524.6 | 169.5 | 310.3 | 249.0 |
-| Apr 13 01:10 AM ET | hngydn20 | evaluated |  | submission.py | ce7855 | 38.2/6.2/44.4 | 534.4 | 170.4 | 308.8 | 248.7 |
-| Apr 13 01:10 AM ET | hngydn20 | evaluated |  | develop.py | ce7855 | 17.8/9.7/27.4 | 168.1 | 116.6 | 308.4 | 248.0 |
+| Apr 13 01:12 AM ET | jbc | late |  | develop.py | 1a8373 | 19.9/6.2/26.1 | 524.6 | 169.5 | 310.3 | 249.0 |
+| Apr 13 01:10 AM ET | hngydn20 | late |  | submission.py | ce7855 | 38.2/6.2/44.4 | 534.4 | 170.4 | 308.8 | 248.7 |
+| Apr 13 01:10 AM ET | hngydn20 | late |  | develop.py | ce7855 | 17.8/9.7/27.4 | 168.1 | 116.6 | 308.4 | 248.0 |
 | Apr 13 01:10 AM ET | ck | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | a3e0b1 | 30.9/46.9/77.8 | 71.6 | 33.3 | 2028.1 | 4067.5 |
-| Apr 13 01:03 AM ET | happyface | evaluated |  | develop.py | a91ff3 | 22.2/3.6/25.8 | 541.5 | 264.5 | 57.7 | 119.2 |
+| Apr 13 01:03 AM ET | happyface | late |  | develop.py | a91ff3 | 22.2/3.6/25.8 | 541.5 | 264.5 | 57.7 | 119.2 |
 | Apr 13 12:59 AM ET | ck | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | submission.py | 2f0ddd | 41.5/30.6/72.2 | 71.9 | 33.3 | 2028.1 | 0.0 |
-| Apr 13 12:54 AM ET | jbc | evaluated |  | submission.py | a37029 | 27.1/6.2/33.4 | 526.8 | 169.0 | 311.3 | 250.0 |
-| Apr 13 12:54 AM ET | jbc | evaluated |  | develop.py | a37029 | 19.7/6.2/25.9 | 525.9 | 169.9 | 309.8 | 248.2 |
-| Apr 13 12:38 AM ET | happyface | evaluated |  | develop.py | 1d5a76 | 23.2/3.5/26.7 | 538.0 | 264.4 | 57.4 | 108.0 |
+| Apr 13 12:54 AM ET | jbc | late |  | submission.py | a37029 | 27.1/6.2/33.4 | 526.8 | 169.0 | 311.3 | 250.0 |
+| Apr 13 12:54 AM ET | jbc | late |  | develop.py | a37029 | 19.7/6.2/25.9 | 525.9 | 169.9 | 309.8 | 248.2 |
+| Apr 13 12:38 AM ET | happyface | late |  | develop.py | 1d5a76 | 23.2/3.5/26.7 | 538.0 | 264.4 | 57.4 | 108.0 |
 | Apr 13 12:37 AM ET | ck | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | cdce71 | 38.6/6.1/44.7 | 532.0 | 169.9 | 300.8 | 228.5 |
 | Apr 13 12:37 AM ET | ck | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | cdce71 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 12:32 AM ET | ck | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | c0ea9e | 24.4/6.2/30.6 | 511.5 | 168.3 | 302.8 | 231.7 |
 | Apr 13 12:22 AM ET | happyface | failed_correctness | R2: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | develop.py | 17abab | 31.2/0.9/32.1 | 542.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 12:21 AM ET | ck | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 3a4d2f | 68.8/6.2/75.0 | 510.2 | 168.8 | 302.5 | 231.3 |
-| Apr 13 12:03 AM ET | happyface | evaluated |  | develop.py | c9271d | 25.8/3.5/29.3 | 542.6 | 265.3 | 56.9 | 107.5 |
+| Apr 13 12:03 AM ET | happyface | late |  | develop.py | c9271d | 25.8/3.5/29.3 | 542.6 | 265.3 | 56.9 | 107.5 |
 | Apr 13 12:02 AM ET | hngydn20 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 80c083 | 19.7/6.2/25.9 | 536.2 | 169.8 | 308.6 | 245.4 |
 | Apr 13 12:02 AM ET | hngydn20 | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | 80c083 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 12 11:50 PM ET | happyface | failed_correctness | R2: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | develop.py | 66da4d | 31.2/1.0/32.1 | 536.4 | 0.0 | 0.0 | 0.0 |
