@@ -1,10 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 09:00:19 AM ET`
+Last updated: `April 13, 2026 at 09:09:08 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 09:03 AM ET | TheProphet | evaluated |  | submission.py | ce53ec | 30.5/4.6/35.2 | 244.7 | 226.1 | 24.2 | 46.5 |
 | Apr 13 08:49 AM ET | co-smith | evaluated |  | submission.py | 97af03 | 45.6/7.9/53.4 | 559.0 | 101.5 | 289.4 | 187.5 |
+| Apr 13 08:49 AM ET | co-smith | evaluated |  | develop.py | 97af03 | 32.5/7.9/40.4 | 544.7 | 101.2 | 289.2 | 187.8 |
 | Apr 13 08:38 AM ET | TheProphet | evaluated |  | submission.py | 4f904c | 37.5/4.6/42.1 | 246.7 | 226.6 | 24.2 | 46.4 |
 | Apr 13 08:07 AM ET | TheProphet | evaluated |  | submission.py | 45f599 | 25.1/2.9/28.0 | 576.9 | 345.7 | 64.0 | 73.2 |
 | Apr 13 07:30 AM ET | TheProphet | evaluated |  | submission.py | ab7156 | 62.0/4.4/66.5 | 589.1 | 171.7 | 66.4 | 76.0 |

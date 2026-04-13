@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 13, 2026 at 09:00:19 AM ET`
+Last updated: `April 13, 2026 at 09:09:08 AM ET`
 
 ## R1 (tok/s)
 
@@ -71,7 +71,7 @@ Last updated: `April 13, 2026 at 09:00:19 AM ET`
 | 63 | tif03 | evaluated | ec268d | 501.2 |
 | 64 | Rithvik | evaluated | 2924a0 | 495.8 |
 | 65 | tuo | evaluated | 3d6d40 | 494.8 |
-| 66 | TheProphet | evaluated | 4f904c | 246.7 |
+| 66 | TheProphet | evaluated | ce53ec | 244.7 |
 | 67 | poppyPotatoe | evaluated | eea264 | 144.2 |
 |  | ck | failed | dbcd8b |  |
 |  | dhanushikka | failed | 14b1fd |  |
@@ -130,7 +130,7 @@ Last updated: `April 13, 2026 at 09:00:19 AM ET`
 | 44 | Licha | evaluated | 9666cd | 238.1 |
 | 45 | 13rabbit | evaluated | 49d27b | 234.5 |
 | 46 | beratcelik | evaluated | 863a89 | 231.2 |
-| 47 | TheProphet | evaluated | 4f904c | 226.6 |
+| 47 | TheProphet | evaluated | ce53ec | 226.1 |
 | 48 | tuo | evaluated | 3d6d40 | 204.6 |
 | 49 | hngydn20 | evaluated | 630c81 | 197.8 |
 | 50 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
@@ -163,7 +163,7 @@ Last updated: `April 13, 2026 at 09:00:19 AM ET`
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 21.8 |
-| 2 | TheProphet | evaluated | 4f904c | 24.2 |
+| 2 | TheProphet | evaluated | ce53ec | 24.2 |
 | 3 | chyyy | evaluated | 34cc06 | 24.8 |
 | 4 | Decode_speed | evaluated | 8b78db | 25.0 |
 | 5 | ngoguen | evaluated | f69acc | 26.3 |
@@ -241,7 +241,7 @@ Last updated: `April 13, 2026 at 09:00:19 AM ET`
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 44.5 |
-| 2 | TheProphet | evaluated | 4f904c | 46.4 |
+| 2 | TheProphet | evaluated | ce53ec | 46.5 |
 | 3 | Decode_speed | evaluated | 8b78db | 46.9 |
 | 4 | chyyy | evaluated | 34cc06 | 47.6 |
 | 5 | Shengwei | evaluated | 327428 | 47.9 |
