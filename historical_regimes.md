@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 12:25:42 PM ET`
+Last updated: `April 13, 2026 at 12:35:34 PM ET`
 
 ## R1 (tok/s)
 
@@ -164,7 +164,7 @@ Last updated: `April 13, 2026 at 12:25:42 PM ET`
 | 4 | Decode_speed | develop.py | d54f1d | 24.8 |
 | 5 | ss4478 | develop.py | 93d739 | 25.9 |
 | 6 | ngoguen | submission.py | ecab75 | 26.3 |
-| 7 | Shengwei | submission.py | 327428 | 26.6 |
+| 7 | Shengwei | submission.py | 55fd4e | 26.5 |
 | 8 | gm | submission.py | 2898fc | 26.8 |
 | 9 | Rithvik | submission.py | 8e6767 | 26.9 |
 | 10 | omermoav | submission.py | dc63b9 | 26.9 |
@@ -239,8 +239,8 @@ Last updated: `April 13, 2026 at 12:25:42 PM ET`
 | 2 | Decode_speed | develop.py | d54f1d | 46.1 |
 | 3 | TheProphet | develop.py | 5b306e | 46.2 |
 | 4 | chyyy | develop.py | 34cc06 | 47.5 |
-| 5 | Rithvik | submission.py | 1523b4 | 47.6 |
-| 6 | Shengwei | submission.py | 327428 | 47.9 |
+| 5 | Shengwei | submission.py | 55fd4e | 47.5 |
+| 6 | Rithvik | submission.py | 1523b4 | 47.6 |
 | 7 | ss4478 | develop.py | 93d739 | 48.2 |
 | 8 | gm | submission.py | 2898fc | 48.5 |
 | 9 | zionrangers | submission.py | 7758e0 | 48.7 |
@@ -304,6 +304,6 @@ Last updated: `April 13, 2026 at 12:25:42 PM ET`
 | 67 | tif03 | submission.py | ec268d | 249.5 |
 | 68 | brandon_lorenzo | submission.py | 67c79e | 249.6 |
 | 69 | castillo | develop.py | 0e93de | 250.2 |
-| 70 | yb | submission.py | 2aa1a9 | 250.5 |
+| 70 | yb | submission.py | f1acc1 | 250.4 |
 | 71 | jet2holiday | submission.py | efd6c8 | 250.7 |
 | 72 | siddarak | submission.py | d85766 | 382.1 |
