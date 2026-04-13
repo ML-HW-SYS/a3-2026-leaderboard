@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 13, 2026 at 09:23:48 AM ET`
+Last updated: `April 13, 2026 at 09:31:34 AM ET`
 
 ## R1 (tok/s)
 
@@ -75,7 +75,7 @@ Last updated: `April 13, 2026 at 09:23:48 AM ET`
 | 67 | poppyPotatoe | evaluated | eea264 | 144.2 |
 |  | ck | failed | dbcd8b |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | jbc | failed | 3eae05 |  |
+|  | jbc | failed | 4cc936 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -153,7 +153,7 @@ Last updated: `April 13, 2026 at 09:23:48 AM ET`
 | 67 | co-smith | evaluated | 97af03 | 101.5 |
 |  | ck | failed | dbcd8b |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | jbc | failed | 3eae05 |  |
+|  | jbc | failed | 4cc936 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -231,7 +231,7 @@ Last updated: `April 13, 2026 at 09:23:48 AM ET`
 | 67 | yb | evaluated | ea23ab | 312.3 |
 |  | ck | failed | dbcd8b |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | jbc | failed | 3eae05 |  |
+|  | jbc | failed | 4cc936 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -309,7 +309,7 @@ Last updated: `April 13, 2026 at 09:23:48 AM ET`
 | 67 | poppyPotatoe | evaluated | eea264 | 251.9 |
 |  | ck | failed | dbcd8b |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | jbc | failed | 3eae05 |  |
+|  | jbc | failed | 4cc936 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |

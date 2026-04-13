@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 09:23:48 AM ET`
+Last updated: `April 13, 2026 at 09:31:34 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 09:21 AM ET | jbc | failed_correctness | R1: SETUP: ERR: ValueError: Pointer argument (at 1) cannot be accessed from Triton (cpu tensor?) \| R2: SETUP: ERR: Va... | submission.py | 4cc936 | 18.3/2.2/20.6 | 0.0 | 0.0 | 310.6 | 248.9 |
 | Apr 13 09:03 AM ET | TheProphet | evaluated |  | submission.py | ce53ec | 30.5/4.6/35.2 | 244.7 | 226.1 | 24.2 | 46.5 |
 | Apr 13 08:49 AM ET | co-smith | evaluated |  | submission.py | 97af03 | 45.6/7.9/53.4 | 559.0 | 101.5 | 289.4 | 187.5 |
 | Apr 13 08:49 AM ET | co-smith | evaluated |  | develop.py | 97af03 | 32.5/7.9/40.4 | 544.7 | 101.2 | 289.2 | 187.8 |
