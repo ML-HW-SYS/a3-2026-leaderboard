@@ -1,10 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 02:36:55 AM ET`
+Last updated: `April 13, 2026 at 02:44:48 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Apr 13 02:25 AM ET | hngydn20 | evaluated |  | submission.py | 630c81 | 40.2/5.7/45.9 | 550.4 | 197.8 | 309.0 | 247.9 |
+| Apr 13 02:25 AM ET | hngydn20 | evaluated |  | develop.py | 630c81 | 21.6/5.8/27.4 | 545.4 | 196.8 | 311.0 | 249.6 |
 | Apr 13 02:11 AM ET | happyface | evaluated |  | submission.py | 4ce0f3 | 27.0/3.2/30.2 | 541.8 | 263.7 | 28.8 | 51.0 |
 | Apr 13 02:09 AM ET | ck | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | dbcd8b | 19.9/6.2/26.1 | 523.3 | 169.7 | 308.8 | 246.5 |
 | Apr 13 02:00 AM ET | happyface | evaluated |  | develop.py | 8313a7 | 47.2/3.2/50.4 | 541.1 | 265.5 | 28.1 | 51.1 |
