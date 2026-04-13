@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 06:37:58 PM ET`
+Last updated: `April 13, 2026 at 06:49:39 PM ET`
 
 ## R1 (tok/s)
 
@@ -62,11 +62,11 @@ Last updated: `April 13, 2026 at 06:37:58 PM ET`
 | 54 | Junyi Li | submission.py | 2e381b | 529.4 |
 | 55 | bl792 | submission.py | 3b3a8a | 528.5 |
 | 56 | dylanjhnsondj | develop.py | 55a3fd | 528.5 |
-| 57 | ethanchen | submission.py | a0d359 | 528.1 |
-| 58 | Rithvik | submission.py | 1a7556 | 527.1 |
-| 59 | castillo | submission.py | 0e93de | 526.6 |
-| 60 | JaneShuey | submission.py | 882419 | 526.2 |
-| 61 | kaimaeda | develop.py | 337473 | 526.1 |
+| 57 | kaimaeda | submission.py | 4360ef | 528.1 |
+| 58 | ethanchen | submission.py | a0d359 | 528.1 |
+| 59 | Rithvik | submission.py | 1a7556 | 527.1 |
+| 60 | castillo | submission.py | 0e93de | 526.6 |
+| 61 | JaneShuey | submission.py | 882419 | 526.2 |
 | 62 | Akash Basu | submission.py | b0a419 | 525.9 |
 | 63 | yb | submission.py | ea23ab | 525.9 |
 | 64 | nicknam534534 | develop.py | 83a901 | 525.8 |
@@ -88,23 +88,23 @@ Last updated: `April 13, 2026 at 06:37:58 PM ET`
 | --- | --- | --- | --- | --- |
 | 1 | zhumengzhiren | develop.py | 23fbd6 | 484.8 |
 | 2 | chyyy | submission.py | 34cc06 | 433.8 |
-| 3 | co-smith | develop.py | d8d4f1 | 404.8 |
-| 4 | chickfila | submission.py | f0956d | 398.8 |
-| 5 | prousoglou | develop.py | 5379db | 396.0 |
-| 6 | - - | submission.py | adc0f3 | 386.9 |
-| 7 | TheProphet | develop.py | 3a9c2e | 385.3 |
-| 8 | blabrl | develop.py | 9873f9 | 383.8 |
-| 9 | alifim | submission.py | 701077 | 381.2 |
-| 10 | abarat007 | submission.py | d7f626 | 378.6 |
-| 11 | omermoav | submission.py | dc63b9 | 374.3 |
-| 12 | ck | submission.py | f75094 | 373.2 |
-| 13 | zionrangers | develop.py | 7758e0 | 372.9 |
-| 14 | kaimaeda | develop.py | 4fcc2c | 372.1 |
+| 3 | kaimaeda | submission.py | 4360ef | 410.7 |
+| 4 | co-smith | develop.py | d8d4f1 | 404.8 |
+| 5 | chickfila | submission.py | f0956d | 398.8 |
+| 6 | prousoglou | develop.py | 5379db | 396.0 |
+| 7 | - - | submission.py | adc0f3 | 386.9 |
+| 8 | TheProphet | develop.py | 3a9c2e | 385.3 |
+| 9 | blabrl | develop.py | 9873f9 | 383.8 |
+| 10 | alifim | submission.py | 701077 | 381.2 |
+| 11 | abarat007 | submission.py | d7f626 | 378.6 |
+| 12 | omermoav | submission.py | dc63b9 | 374.3 |
+| 13 | ck | submission.py | f75094 | 373.2 |
+| 14 | zionrangers | develop.py | 7758e0 | 372.9 |
 | 15 | ashaikh23 | submission.py | 84a425 | 372.1 |
 | 16 | pyjuan91 | develop.py | 92d1da | 364.9 |
 | 17 | Shengwei | submission.py | 67896e | 362.7 |
-| 18 | 1_Core_2GHz_Colab_CPU | submission.py | 124a48 | 360.8 |
-| 19 | jbc | submission.py | c950a5 | 360.8 |
+| 18 | jbc | submission.py | 717262 | 362.5 |
+| 19 | 1_Core_2GHz_Colab_CPU | submission.py | 124a48 | 360.8 |
 | 20 | gm | develop.py | fd15e9 | 357.3 |
 | 21 | nickname55555555 | develop.py | 68b98d | 355.5 |
 | 22 | ishan-pat | submission.py | 99aac6 | 352.8 |
@@ -145,7 +145,7 @@ Last updated: `April 13, 2026 at 06:37:58 PM ET`
 | 57 | kade_lin_is_here | submission.py | 104152 | 237.9 |
 | 58 | tuo | submission.py | 3d6d40 | 204.6 |
 | 59 | Sulaiman Alam | submission.py | c7ede2 | 197.4 |
-| 60 | mdavalos10 | submission.py | 871ac2 | 177.7 |
+| 60 | mdavalos10 | submission.py | af3233 | 177.8 |
 | 61 | yb | submission.py | 1533ce | 174.0 |
 | 62 | your_nickname_here | submission.py | 59e245 | 173.4 |
 | 63 | yoursun1220 | submission.py | 27e400 | 169.9 |
@@ -200,8 +200,8 @@ Last updated: `April 13, 2026 at 06:37:58 PM ET`
 | 32 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 43.1 |
 | 33 | sjb | develop.py | 7fb492 | 50.4 |
 | 34 | abhik | develop.py | 0b4b08 | 55.4 |
-| 35 | vallabkaranam | submission.py | 0bdeec | 57.3 |
-| 36 | kaimaeda | submission.py | dba883 | 59.0 |
+| 35 | kaimaeda | submission.py | 4360ef | 56.3 |
+| 36 | vallabkaranam | submission.py | 0bdeec | 57.3 |
 | 37 | act | submission.py | fce2ab | 59.5 |
 | 38 | JaneShuey | submission.py | 882419 | 59.6 |
 | 39 | Junyi Li | submission.py | c7a1b3 | 60.9 |
@@ -210,7 +210,7 @@ Last updated: `April 13, 2026 at 06:37:58 PM ET`
 | 42 | alifim | submission.py | 701077 | 64.8 |
 | 43 | beratcelik | submission.py | 11c1b8 | 65.4 |
 | 44 | JasonWang07 | submission.py | f27837 | 68.2 |
-| 45 | jbc | submission.py | c950a5 | 68.8 |
+| 45 | jbc | submission.py | 717262 | 68.6 |
 | 46 | leoli | submission.py | 5cdac4 | 71.0 |
 | 47 | ethanchen | submission.py | bf6f9e | 74.0 |
 | 48 | jet2holiday | submission.py | 0bf782 | 77.1 |
@@ -287,11 +287,11 @@ Last updated: `April 13, 2026 at 06:37:58 PM ET`
 | 37 | abhik | submission.py | 0b4b08 | 107.2 |
 | 38 | vallabkaranam | submission.py | 0bdeec | 108.2 |
 | 39 | alifim | submission.py | 701077 | 109.2 |
-| 40 | act | submission.py | fce2ab | 109.5 |
-| 41 | beratcelik | submission.py | 11c1b8 | 110.5 |
-| 42 | JaneShuey | submission.py | 882419 | 111.1 |
-| 43 | Junyi Li | submission.py | c7a1b3 | 113.1 |
-| 44 | kaimaeda | submission.py | dba883 | 114.7 |
+| 40 | kaimaeda | submission.py | 4360ef | 109.4 |
+| 41 | act | submission.py | fce2ab | 109.5 |
+| 42 | beratcelik | submission.py | 11c1b8 | 110.5 |
+| 43 | JaneShuey | submission.py | 882419 | 111.1 |
+| 44 | Junyi Li | submission.py | c7a1b3 | 113.1 |
 | 45 | Licha | submission.py | 9666cd | 115.6 |
 | 46 | ethanchen | submission.py | bf6f9e | 123.0 |
 | 47 | nicknam534534 | submission.py | 59bdfc | 126.3 |
@@ -309,7 +309,7 @@ Last updated: `April 13, 2026 at 06:37:58 PM ET`
 | 59 | SIUUU | develop.py | 522695 | 151.0 |
 | 60 | tuo | submission.py | 4274da | 160.5 |
 | 61 | co-smith | submission.py | 2c710f | 187.1 |
-| 62 | mdavalos10 | submission.py | 871ac2 | 189.4 |
+| 62 | mdavalos10 | submission.py | af3233 | 189.4 |
 | 63 | fishyfins | submission.py | 6c0e20 | 232.9 |
 | 64 | dylanjhnsondj | submission.py | c4e1ab | 236.8 |
 | 65 | hw_bloss | submission.py | b2767b | 237.0 |
