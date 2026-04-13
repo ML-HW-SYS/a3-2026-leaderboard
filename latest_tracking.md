@@ -1,13 +1,19 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 07:42:39 PM ET`
+Last updated: `April 13, 2026 at 07:53:57 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 07:46 PM ET | pick_a_nickname | evaluated |  | submission.py | c0f48f | 41.9/3.7/45.6 | 521.5 | 258.2 | 66.8 | 113.8 |
+| Apr 13 07:44 PM ET | TheProphet | evaluated |  | submission.py | 38ee53 | 26.5/6.2/32.7 | 355.8 | 128.0 | 96.0 | 100.2 |
+| Apr 13 07:43 PM ET | henry | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | a05ddd | 17.2/3.5/20.6 | 539.4 | 260.9 | 66.8 | 72.2 |
+| Apr 13 07:33 PM ET | jbc | evaluated |  | submission.py | 3d5258 | 19.2/2.6/21.8 | 557.2 | 403.2 | 32.6 | 59.0 |
 | Apr 13 07:32 PM ET | avemaria | failed_compliance | Submission compliance check failed for develop.py: \| - missing required function(s): setup, run | develop.py | 61e59d |  |  |  |  |  |
 | Apr 13 07:29 PM ET | co-smith | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | submission.py | b1105a | 53.4/3.6/57.0 | 445.9 | 220.9 | 30.5 | 0.0 |
+| Apr 13 07:29 PM ET | co-smith | evaluated |  | develop.py | b1105a | 43.9/3.8/47.7 | 446.4 | 221.3 | 30.5 | 59.3 |
 | Apr 13 07:28 PM ET | pick_a_nickname | evaluated |  | submission.py | 5578f9 | 38.5/3.7/42.2 | 518.6 | 259.1 | 64.6 | 110.8 |
 | Apr 13 07:26 PM ET | fishyfins | evaluated |  | submission.py | 6b3edb | 70.8/3.7/74.5 | 543.3 | 283.7 | 101.3 | 138.3 |
+| Apr 13 07:26 PM ET | fishyfins | evaluated |  | develop.py | 6b3edb | 28.3/3.7/32.0 | 535.5 | 285.0 | 101.0 | 138.7 |
 | Apr 13 07:22 PM ET | somita | evaluated |  | submission.py | bbe658 | 19.8/6.2/26.1 | 524.7 | 169.5 | 309.5 | 249.8 |
 | Apr 13 07:22 PM ET | somita | evaluated |  | develop.py | bbe658 | 19.8/6.3/26.0 | 521.5 | 169.3 | 311.3 | 251.3 |
 | Apr 13 07:15 PM ET | jbc | failed_correctness | Correctness FAIL \| R2 (89.30%), R3 (84.53%), R4 (85.14%) \| max_abs_diff=15.26 | submission.py | 2de751 | 19.0/2.5/21.6 | 557.8 | 405.0 | 31.3 | 58.6 |
