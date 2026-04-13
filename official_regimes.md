@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 13, 2026 at 04:12:55 PM ET`
+Last updated: `April 13, 2026 at 04:23:03 PM ET`
 
 ## R1 (tok/s)
 
@@ -78,7 +78,7 @@ Last updated: `April 13, 2026 at 04:12:55 PM ET`
 | 70 | poppyPotatoe | evaluated | e01605 | 165.2 |
 |  | Akash Basu | failed | 254f04 |  |
 |  | avemaria | failed | 3b3135 |  |
-|  | ck | failed | 4ef89e |  |
+|  | ck | failed | 557ef6 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | f52035 |  |
 |  | siddarak | failed | d85766 |  |
@@ -161,7 +161,7 @@ Last updated: `April 13, 2026 at 04:12:55 PM ET`
 | 70 | poppyPotatoe | evaluated | e01605 | 124.1 |
 |  | Akash Basu | failed | 254f04 |  |
 |  | avemaria | failed | 3b3135 |  |
-|  | ck | failed | 4ef89e |  |
+|  | ck | failed | 557ef6 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | f52035 |  |
 |  | siddarak | failed | d85766 |  |
@@ -244,7 +244,7 @@ Last updated: `April 13, 2026 at 04:12:55 PM ET`
 | 70 | your_nickname_here | evaluated | 0949d0 | 311.5 |
 |  | Akash Basu | failed | 254f04 |  |
 |  | avemaria | failed | 3b3135 |  |
-|  | ck | failed | 4ef89e |  |
+|  | ck | failed | 557ef6 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | f52035 |  |
 |  | siddarak | failed | d85766 |  |
@@ -327,7 +327,7 @@ Last updated: `April 13, 2026 at 04:12:55 PM ET`
 | 70 | your_nickname_here | evaluated | 0949d0 | 250.7 |
 |  | Akash Basu | failed | 254f04 |  |
 |  | avemaria | failed | 3b3135 |  |
-|  | ck | failed | 4ef89e |  |
+|  | ck | failed | 557ef6 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | f52035 |  |
 |  | siddarak | failed | d85766 |  |

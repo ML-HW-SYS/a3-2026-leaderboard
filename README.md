@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 13, 2026 at 04:12:55 PM ET`
+Last updated: `April 13, 2026 at 04:23:03 PM ET`
 
 ## Pages
 
@@ -84,7 +84,7 @@ Last updated: `April 13, 2026 at 04:12:55 PM ET`
 | 70 | poppyPotatoe | evaluated | e01605 | 14.6/8.6/23.2 | 0.469 | 165.2 | 124.1 | 209.9 | 133.8 |
 |  | Akash Basu | failed | 254f04 | 39.6/4.0/43.6 |  |  |  |  |  |
 |  | avemaria | failed | 3b3135 |  |  |  |  |  |  |
-|  | ck | failed | 4ef89e | 25.9/1.5/27.4 |  |  |  |  |  |
+|  | ck | failed | 557ef6 | 43.5/0.0/43.5 |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | kade_lin_is_here | failed | f52035 | 62.2/3.2/65.4 |  |  |  |  |  |
 |  | siddarak | failed | d85766 | 21.8/9.2/31.0 |  |  |  |  |  |

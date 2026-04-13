@@ -1,13 +1,16 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 04:12:55 PM ET`
+Last updated: `April 13, 2026 at 04:23:03 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 04:18 PM ET | ck | failed_correctness | R1: SETUP: ERR: UserError: Could not guard on data-dependent expression Eq(u1, 1) (unhinted: Eq(u1, 1)). (Size-like s... | submission.py | 557ef6 | 43.5/0.0/43.5 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 04:10 PM ET | ck | failed_correctness | R2: SETUP: ERR: OutOfMemoryError: CUDA out of memory. Tried to allocate 14.00 GiB. GPU 0 has a total capacity of 23.5... | submission.py | 4ef89e | 25.9/1.5/27.4 | 460.3 | 0.0 | 35.1 | 64.3 |
 | Apr 13 03:59 PM ET | Akash Basu | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | submission.py | 254f04 | 39.6/4.0/43.6 | 522.1 | 168.9 | 0.0 | 0.0 |
 | Apr 13 03:58 PM ET | jbc | evaluated |  | submission.py | e6ad4a | 41.0/3.1/44.2 | 540.7 | 329.7 | 71.7 | 87.1 |
+| Apr 13 03:58 PM ET | jbc | evaluated |  | develop.py | e6ad4a | 18.8/3.1/22.0 | 551.0 | 329.3 | 70.8 | 87.1 |
 | Apr 13 03:58 PM ET | mdavalos10 | evaluated |  | submission.py | 871ac2 | 41.5/5.9/47.4 | 433.8 | 177.7 | 279.7 | 189.4 |
+| Apr 13 03:58 PM ET | mdavalos10 | evaluated |  | develop.py | 871ac2 | 22.0/5.7/27.7 | 527.1 | 177.4 | 280.4 | 189.9 |
 | Apr 13 03:56 PM ET | TheProphet | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | submission.py | 254ebf | 66.1/2.1/68.2 | 646.1 | 380.8 | 0.0 | 0.0 |
 | Apr 13 03:55 PM ET | ck | evaluated |  | submission.py | 3d55c3 | 51.8/15.8/67.5 | 555.2 | 327.6 | 1067.1 | 2252.6 |
 | Apr 13 03:54 PM ET | kaimaeda | evaluated |  | develop.py | 251e7b | 20.2/16.3/36.6 | 67.8 | 64.1 | 66.5 | 128.2 |

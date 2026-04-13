@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 04:12:55 PM ET`
+Last updated: `April 13, 2026 at 04:23:03 PM ET`
 
 ## R1 (tok/s)
 
@@ -210,8 +210,8 @@ Last updated: `April 13, 2026 at 04:12:55 PM ET`
 | 42 | alifim | submission.py | 701077 | 64.8 |
 | 43 | beratcelik | submission.py | 11c1b8 | 65.4 |
 | 44 | JasonWang07 | submission.py | f27837 | 68.2 |
-| 45 | leoli | submission.py | 5cdac4 | 71.0 |
-| 46 | jbc | submission.py | a225b8 | 71.4 |
+| 45 | jbc | develop.py | e6ad4a | 70.8 |
+| 46 | leoli | submission.py | 5cdac4 | 71.0 |
 | 47 | ethanchen | submission.py | bf6f9e | 74.0 |
 | 48 | jet2holiday | submission.py | 0bf782 | 77.1 |
 | 49 | TA | submission.py | 324cb8 | 83.2 |
@@ -281,7 +281,7 @@ Last updated: `April 13, 2026 at 04:12:55 PM ET`
 | 32 | blabrl | submission.py | ca60eb | 65.2 |
 | 33 | 1_Core_2GHz_Colab_CPU | submission.py | 4a067d | 66.5 |
 | 34 | JasonWang07 | develop.py | f27837 | 78.3 |
-| 35 | jbc | submission.py | e6ad4a | 87.1 |
+| 35 | jbc | develop.py | e6ad4a | 87.1 |
 | 36 | leoli | submission.py | 5cdac4 | 87.4 |
 | 37 | abhik | submission.py | 0b4b08 | 107.2 |
 | 38 | vallabkaranam | submission.py | 0bdeec | 108.2 |
