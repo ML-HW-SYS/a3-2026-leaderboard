@@ -1,9 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 06:15:53 PM ET`
+Last updated: `April 13, 2026 at 06:26:59 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 06:20 PM ET | chyyy | evaluated |  | develop.py | 49ba80 | 41.2/2.4/43.6 | 555.3 | 427.4 | 25.9 | 49.7 |
+| Apr 13 06:16 PM ET | mdavalos10 | evaluated |  | submission.py | 7c095c | 21.9/5.7/27.7 | 527.7 | 177.4 | 280.8 | 190.1 |
+| Apr 13 06:14 PM ET | kaimaeda | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | d7b250 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 13 06:10 PM ET | goingbananas | evaluated |  | develop.py | dfd409 | 40.3/6.2/46.5 | 524.6 | 169.6 | 309.1 | 249.7 |
 | Apr 13 06:02 PM ET | kaimaeda | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 4fcc2c | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 06:02 PM ET | kaimaeda | evaluated |  | develop.py | 4fcc2c | 53.3/3.1/56.4 | 516.3 | 372.1 | 59.2 | 115.5 |
 | Apr 13 06:02 PM ET | Akash Basu | evaluated |  | submission.py | fa6371 | 21.0/6.2/27.3 | 522.6 | 169.8 | 308.7 | 247.9 |

@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 13, 2026 at 06:15:53 PM ET`
+Last updated: `April 13, 2026 at 06:26:59 PM ET`
 
 ## Pages
 
@@ -69,7 +69,7 @@ Last updated: `April 13, 2026 at 06:15:53 PM ET`
 | 55 | 13rabbit | evaluated | 49d27b | 18.7/4.1/22.8 | 0.880 | 529.4 | 234.5 | 97.1 | 141.4 |
 | 56 | tuo | evaluated | 3d6d40 | 74.5/4.9/79.3 | 0.704 | 494.8 | 204.6 | 167.8 | 162.8 |
 | 57 | co-smith | evaluated | 6647c3 | 29.2/5.4/34.6 | 0.586 | 445.2 | 219.6 | 290.9 | 188.4 |
-| 58 | mdavalos10 | evaluated | 871ac2 | 41.5/5.9/47.4 | 0.557 | 433.8 | 177.7 | 279.7 | 189.4 |
+| 58 | mdavalos10 | evaluated | 7c095c | 21.9/5.7/27.7 | 0.584 | 527.7 | 177.4 | 280.8 | 190.1 |
 | 59 | Sulaiman Alam | evaluated | c7ede2 | 21.7/5.8/27.5 | 0.545 | 511.2 | 197.4 | 308.7 | 245.0 |
 | 60 | dylanjhnsondj | evaluated | c4e1ab | 59.0/6.2/65.1 | 0.535 | 527.3 | 169.6 | 306.0 | 236.8 |
 | 61 | your_nickname_here | evaluated | 0949d0 | 48.9/6.1/55.1 | 0.534 | 554.1 | 172.4 | 311.5 | 250.7 |
@@ -87,7 +87,7 @@ Last updated: `April 13, 2026 at 06:15:53 PM ET`
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | fishyfins | failed | 01eade |  |  |  |  |  |  |
 |  | kade_lin_is_here | failed | 5a28f9 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | kaimaeda | failed | 4fcc2c | 0.0/0.0/0.0 |  |  |  |  |  |
+|  | kaimaeda | failed | d7b250 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | siddarak | failed | d85766 | 21.8/9.2/31.0 |  |  |  |  |  |
 |  | SIUUU | failed | 522695 | 37.9/4.1/42.0 |  |  |  |  |  |
 

@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 13, 2026 at 06:15:53 PM ET`
+Last updated: `April 13, 2026 at 06:26:59 PM ET`
 
 ## R1 (tok/s)
 
@@ -52,36 +52,36 @@ Last updated: `April 13, 2026 at 06:15:53 PM ET`
 | 44 | gravlax | evaluated | b1229d | 532.3 |
 | 45 | Decode_speed | evaluated | d54f1d | 530.2 |
 | 46 | 13rabbit | evaluated | 49d27b | 529.4 |
-| 47 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
-| 48 | Junyi Li | evaluated | c7a1b3 | 527.3 |
-| 49 | castillo | evaluated | 0e93de | 526.6 |
-| 50 | JaneShuey | evaluated | 882419 | 526.2 |
-| 51 | pick_a_nickname | evaluated | c47490 | 525.7 |
-| 52 | bl792 | evaluated | 09cd73 | 524.7 |
-| 53 | yb | evaluated | 200763 | 524.7 |
-| 54 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
-| 55 | ethanchen | evaluated | ea518d | 523.7 |
-| 56 | Akash Basu | evaluated | fa6371 | 522.6 |
-| 57 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 58 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 59 | PurplePickle67 | evaluated | 68d34e | 520.5 |
-| 60 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 61 | vallabkaranam | evaluated | 0bdeec | 513.3 |
-| 62 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
-| 63 | abhik | evaluated | 0b4b08 | 507.2 |
-| 64 | nicknam534534 | evaluated | 59bdfc | 503.8 |
-| 65 | tif03 | evaluated | ec268d | 501.2 |
-| 66 | Rithvik | evaluated | 2924a0 | 495.8 |
-| 67 | tuo | evaluated | 3d6d40 | 494.8 |
-| 68 | TheProphet | evaluated | 0e2161 | 476.6 |
-| 69 | co-smith | evaluated | 6647c3 | 445.2 |
-| 70 | mdavalos10 | evaluated | 871ac2 | 433.8 |
+| 47 | mdavalos10 | evaluated | 7c095c | 527.7 |
+| 48 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
+| 49 | Junyi Li | evaluated | c7a1b3 | 527.3 |
+| 50 | castillo | evaluated | 0e93de | 526.6 |
+| 51 | JaneShuey | evaluated | 882419 | 526.2 |
+| 52 | pick_a_nickname | evaluated | c47490 | 525.7 |
+| 53 | bl792 | evaluated | 09cd73 | 524.7 |
+| 54 | yb | evaluated | 200763 | 524.7 |
+| 55 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
+| 56 | ethanchen | evaluated | ea518d | 523.7 |
+| 57 | Akash Basu | evaluated | fa6371 | 522.6 |
+| 58 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 59 | yoursun1220 | evaluated | d8b590 | 521.8 |
+| 60 | PurplePickle67 | evaluated | 68d34e | 520.5 |
+| 61 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 62 | vallabkaranam | evaluated | 0bdeec | 513.3 |
+| 63 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
+| 64 | abhik | evaluated | 0b4b08 | 507.2 |
+| 65 | nicknam534534 | evaluated | 59bdfc | 503.8 |
+| 66 | tif03 | evaluated | ec268d | 501.2 |
+| 67 | Rithvik | evaluated | 2924a0 | 495.8 |
+| 68 | tuo | evaluated | 3d6d40 | 494.8 |
+| 69 | TheProphet | evaluated | 0e2161 | 476.6 |
+| 70 | co-smith | evaluated | 6647c3 | 445.2 |
 | 71 | poppyPotatoe | evaluated | e01605 | 165.2 |
 |  | avemaria | failed | 3b3135 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 01eade |  |
 |  | kade_lin_is_here | failed | 5a28f9 |  |
-|  | kaimaeda | failed | 4fcc2c |  |
+|  | kaimaeda | failed | d7b250 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | 522695 |  |
 
@@ -145,7 +145,7 @@ Last updated: `April 13, 2026 at 06:15:53 PM ET`
 | 54 | co-smith | evaluated | 6647c3 | 219.6 |
 | 55 | tuo | evaluated | 3d6d40 | 204.6 |
 | 56 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
-| 57 | mdavalos10 | evaluated | 871ac2 | 177.7 |
+| 57 | mdavalos10 | evaluated | 7c095c | 177.4 |
 | 58 | yb | evaluated | 200763 | 173.7 |
 | 59 | your_nickname_here | evaluated | 0949d0 | 172.4 |
 | 60 | pick_a_nickname | evaluated | c47490 | 169.9 |
@@ -164,7 +164,7 @@ Last updated: `April 13, 2026 at 06:15:53 PM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 01eade |  |
 |  | kade_lin_is_here | failed | 5a28f9 |  |
-|  | kaimaeda | failed | 4fcc2c |  |
+|  | kaimaeda | failed | d7b250 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | 522695 |  |
 
@@ -229,7 +229,7 @@ Last updated: `April 13, 2026 at 06:15:53 PM ET`
 | 55 | pallavi-srinivas | evaluated | 3c1d3c | 105.4 |
 | 56 | tuo | evaluated | 3d6d40 | 167.8 |
 | 57 | poppyPotatoe | evaluated | e01605 | 209.9 |
-| 58 | mdavalos10 | evaluated | 871ac2 | 279.7 |
+| 58 | mdavalos10 | evaluated | 7c095c | 280.8 |
 | 59 | co-smith | evaluated | 6647c3 | 290.9 |
 | 60 | dylanjhnsondj | evaluated | c4e1ab | 306.0 |
 | 61 | hw_bloss | evaluated | 4c9666 | 308.1 |
@@ -247,7 +247,7 @@ Last updated: `April 13, 2026 at 06:15:53 PM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 01eade |  |
 |  | kade_lin_is_here | failed | 5a28f9 |  |
-|  | kaimaeda | failed | 4fcc2c |  |
+|  | kaimaeda | failed | d7b250 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | 522695 |  |
 
@@ -313,7 +313,7 @@ Last updated: `April 13, 2026 at 06:15:53 PM ET`
 | 56 | pallavi-srinivas | evaluated | 3c1d3c | 151.0 |
 | 57 | tuo | evaluated | 3d6d40 | 162.8 |
 | 58 | co-smith | evaluated | 6647c3 | 188.4 |
-| 59 | mdavalos10 | evaluated | 871ac2 | 189.4 |
+| 59 | mdavalos10 | evaluated | 7c095c | 190.1 |
 | 60 | dylanjhnsondj | evaluated | c4e1ab | 236.8 |
 | 61 | hw_bloss | evaluated | 4c9666 | 239.1 |
 | 62 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
@@ -330,6 +330,6 @@ Last updated: `April 13, 2026 at 06:15:53 PM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | fishyfins | failed | 01eade |  |
 |  | kade_lin_is_here | failed | 5a28f9 |  |
-|  | kaimaeda | failed | 4fcc2c |  |
+|  | kaimaeda | failed | d7b250 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | 522695 |  |
