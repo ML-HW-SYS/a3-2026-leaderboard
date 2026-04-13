@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 12, 2026 at 10:37:50 PM ET`
+Last updated: `April 12, 2026 at 10:45:37 PM ET`
 
 ## Pages
 
@@ -32,7 +32,7 @@ Last updated: `April 12, 2026 at 10:37:50 PM ET`
 | 18 | omermoav | evaluated | b01c0e | 18.6/2.7/21.3 | 1.578 | 569.6 | 373.6 | 35.2 | 64.6 |
 | 19 | landrum | evaluated | 61ab81 | 22.7/3.1/25.8 | 1.573 | 535.7 | 276.9 | 29.9 | 53.7 |
 | 20 | stefan | evaluated | 9e3945 | 22.3/3.1/25.4 | 1.570 | 534.2 | 278.6 | 29.8 | 54.5 |
-| 21 | 1_Core_2GHz_Colab_CPU | evaluated | 1bfa5e | 20.2/2.8/23.0 | 1.540 | 545.4 | 359.4 | 34.4 | 67.0 |
+| 21 | 1_Core_2GHz_Colab_CPU | evaluated | 124a48 | 20.0/2.8/22.8 | 1.548 | 542.0 | 360.8 | 33.9 | 66.6 |
 | 22 | PurplePickle67 | evaluated | 68d34e | 32.7/3.0/35.7 | 1.524 | 520.5 | 303.7 | 37.3 | 52.1 |
 | 23 | andrasferenczy | evaluated | 9c7f53 | 37.3/3.2/40.5 | 1.486 | 539.1 | 277.2 | 31.9 | 63.7 |
 | 24 | gravlax | evaluated | b1229d | 19.9/3.2/23.1 | 1.464 | 532.3 | 272.5 | 35.0 | 59.7 |
