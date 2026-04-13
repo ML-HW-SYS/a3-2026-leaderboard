@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 10:45:37 PM ET`
+Last updated: `April 12, 2026 at 10:54:14 PM ET`
 
 ## R1 (tok/s)
 
@@ -27,9 +27,9 @@ Last updated: `April 12, 2026 at 10:45:37 PM ET`
 | 19 | ishan-pat | evaluated | 99aac6 | 553.2 |
 | 20 | ss4478 | evaluated | c35426 | 547.8 |
 | 21 | JasonWang07 | evaluated | a4b405 | 547.1 |
-| 22 | leoli | evaluated | 5cdac4 | 544.1 |
-| 23 | happyface | evaluated | 7e8b61 | 543.0 |
-| 24 | 1_Core_2GHz_Colab_CPU | evaluated | 124a48 | 542.0 |
+| 22 | 1_Core_2GHz_Colab_CPU | evaluated | d3ef07 | 545.3 |
+| 23 | leoli | evaluated | 5cdac4 | 544.1 |
+| 24 | happyface | evaluated | 7e8b61 | 543.0 |
 | 25 | gm | evaluated | 2898fc | 541.1 |
 | 26 | pyjuan91 | evaluated | fe8f27 | 540.9 |
 | 27 | alifim | evaluated | 701077 | 539.6 |
@@ -50,19 +50,19 @@ Last updated: `April 12, 2026 at 10:45:37 PM ET`
 | 42 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
 | 43 | Junyi Li | evaluated | c7a1b3 | 527.3 |
 | 44 | castillo | evaluated | 0e93de | 526.6 |
-| 45 | goingbananas | evaluated | 2f9b76 | 526.3 |
-| 46 | yb | evaluated | ea23ab | 525.9 |
-| 47 | pick_a_nickname | evaluated | c47490 | 525.7 |
-| 48 | jet2holiday | evaluated | 05925d | 525.4 |
-| 49 | Decode_speed | evaluated | 8b78db | 525.4 |
-| 50 | bl792 | evaluated | 09cd73 | 524.7 |
-| 51 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
-| 52 | ethanchen | evaluated | ea518d | 523.7 |
-| 53 | axel4 | evaluated | d11960 | 523.6 |
-| 54 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 55 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 56 | PurplePickle67 | evaluated | 68d34e | 520.5 |
-| 57 | jbc | evaluated | 12bb20 | 520.4 |
+| 45 | yb | evaluated | ea23ab | 525.9 |
+| 46 | pick_a_nickname | evaluated | c47490 | 525.7 |
+| 47 | jet2holiday | evaluated | 05925d | 525.4 |
+| 48 | Decode_speed | evaluated | 8b78db | 525.4 |
+| 49 | bl792 | evaluated | 09cd73 | 524.7 |
+| 50 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
+| 51 | ethanchen | evaluated | ea518d | 523.7 |
+| 52 | axel4 | evaluated | d11960 | 523.6 |
+| 53 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 54 | yoursun1220 | evaluated | d8b590 | 521.8 |
+| 55 | PurplePickle67 | evaluated | 68d34e | 520.5 |
+| 56 | jbc | evaluated | 12bb20 | 520.4 |
+| 57 | goingbananas | evaluated | 629a61 | 519.4 |
 | 58 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
 | 59 | vallabkaranam | evaluated | 0bdeec | 513.3 |
 | 60 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
@@ -93,7 +93,7 @@ Last updated: `April 12, 2026 at 10:45:37 PM ET`
 | 10 | ashaikh23 | evaluated | 84a425 | 372.1 |
 | 11 | zionrangers | evaluated | 7758e0 | 371.7 |
 | 12 | pyjuan91 | evaluated | fe8f27 | 363.6 |
-| 13 | 1_Core_2GHz_Colab_CPU | evaluated | 124a48 | 360.8 |
+| 13 | 1_Core_2GHz_Colab_CPU | evaluated | d3ef07 | 360.5 |
 | 14 | Shengwei | evaluated | 327428 | 360.4 |
 | 15 | gm | evaluated | 2898fc | 357.0 |
 | 16 | nickname55555555 | evaluated | 68b98d | 354.2 |
@@ -139,11 +139,11 @@ Last updated: `April 12, 2026 at 10:45:37 PM ET`
 | 56 | dylanjhnsondj | evaluated | c4e1ab | 169.6 |
 | 57 | yoursun1220 | evaluated | d8b590 | 169.2 |
 | 58 | jet2holiday | evaluated | 05925d | 169.1 |
-| 59 | goingbananas | evaluated | 2f9b76 | 169.1 |
-| 60 | hw_bloss | evaluated | 4c9666 | 169.1 |
-| 61 | castillo | evaluated | 0e93de | 169.0 |
-| 62 | jbc | evaluated | 12bb20 | 169.0 |
-| 63 | yb | evaluated | ea23ab | 168.8 |
+| 59 | hw_bloss | evaluated | 4c9666 | 169.1 |
+| 60 | castillo | evaluated | 0e93de | 169.0 |
+| 61 | jbc | evaluated | 12bb20 | 169.0 |
+| 62 | yb | evaluated | ea23ab | 168.8 |
+| 63 | goingbananas | evaluated | 629a61 | 168.3 |
 | 64 | tif03 | evaluated | ec268d | 167.6 |
 | 65 | poppyPotatoe | evaluated | eea264 | 109.8 |
 | 66 | co-smith | evaluated | 407280 | 96.9 |
@@ -176,7 +176,7 @@ Last updated: `April 12, 2026 at 10:45:37 PM ET`
 | 18 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
 | 19 | bl792 | evaluated | 09cd73 | 32.4 |
 | 20 | blabrl | evaluated | ca60eb | 33.7 |
-| 21 | 1_Core_2GHz_Colab_CPU | evaluated | 124a48 | 33.9 |
+| 21 | 1_Core_2GHz_Colab_CPU | evaluated | d3ef07 | 33.9 |
 | 22 | chickfila | evaluated | f0956d | 34.7 |
 | 23 | gravlax | evaluated | b1229d | 35.0 |
 | 24 | omermoav | evaluated | b01c0e | 35.2 |
@@ -215,12 +215,12 @@ Last updated: `April 12, 2026 at 10:45:37 PM ET`
 | 57 | tif03 | evaluated | ec268d | 309.4 |
 | 58 | mdavalos10 | evaluated | eca698 | 310.3 |
 | 59 | axel4 | evaluated | d11960 | 310.4 |
-| 60 | goingbananas | evaluated | 2f9b76 | 310.7 |
-| 61 | yoursun1220 | evaluated | d8b590 | 310.7 |
-| 62 | jet2holiday | evaluated | 05925d | 311.1 |
-| 63 | jbc | evaluated | 12bb20 | 311.3 |
-| 64 | poppyPotatoe | evaluated | eea264 | 311.3 |
-| 65 | castillo | evaluated | 0e93de | 311.4 |
+| 60 | yoursun1220 | evaluated | d8b590 | 310.7 |
+| 61 | jet2holiday | evaluated | 05925d | 311.1 |
+| 62 | jbc | evaluated | 12bb20 | 311.3 |
+| 63 | poppyPotatoe | evaluated | eea264 | 311.3 |
+| 64 | castillo | evaluated | 0e93de | 311.4 |
+| 65 | goingbananas | evaluated | 629a61 | 311.7 |
 | 66 | yb | evaluated | ea23ab | 312.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 104152 |  |
@@ -259,7 +259,7 @@ Last updated: `April 12, 2026 at 10:45:37 PM ET`
 | 26 | omermoav | evaluated | b01c0e | 64.6 |
 | 27 | blabrl | evaluated | ca60eb | 65.2 |
 | 28 | happyface | evaluated | 7e8b61 | 66.0 |
-| 29 | 1_Core_2GHz_Colab_CPU | evaluated | 124a48 | 66.6 |
+| 29 | 1_Core_2GHz_Colab_CPU | evaluated | d3ef07 | 66.6 |
 | 30 | TheProphet | evaluated | 91c348 | 72.7 |
 | 31 | leoli | evaluated | 5cdac4 | 87.4 |
 | 32 | JasonWang07 | evaluated | a4b405 | 88.9 |
@@ -292,10 +292,10 @@ Last updated: `April 12, 2026 at 10:45:37 PM ET`
 | 59 | yoursun1220 | evaluated | d8b590 | 250.1 |
 | 60 | mdavalos10 | evaluated | eca698 | 250.2 |
 | 61 | castillo | evaluated | 0e93de | 250.4 |
-| 62 | yb | evaluated | ea23ab | 250.6 |
-| 63 | jet2holiday | evaluated | 05925d | 251.0 |
-| 64 | jbc | evaluated | 12bb20 | 251.3 |
-| 65 | goingbananas | evaluated | 2f9b76 | 251.5 |
+| 62 | goingbananas | evaluated | 629a61 | 250.6 |
+| 63 | yb | evaluated | ea23ab | 250.6 |
+| 64 | jet2holiday | evaluated | 05925d | 251.0 |
+| 65 | jbc | evaluated | 12bb20 | 251.3 |
 | 66 | poppyPotatoe | evaluated | eea264 | 251.9 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | kade_lin_is_here | failed | 104152 |  |

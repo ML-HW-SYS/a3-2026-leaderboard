@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 10:45:37 PM ET`
+Last updated: `April 12, 2026 at 10:54:14 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 10:50 PM ET | 1_Core_2GHz_Colab_CPU | evaluated |  | submission.py | d3ef07 | 36.8/2.8/39.6 | 545.3 | 360.5 | 33.9 | 66.6 |
+| Apr 12 10:41 PM ET | goingbananas | evaluated |  | submission.py | 629a61 | 19.7/6.3/26.0 | 519.4 | 168.3 | 311.7 | 250.6 |
 | Apr 12 10:40 PM ET | 1_Core_2GHz_Colab_CPU | evaluated |  | submission.py | 124a48 | 20.0/2.8/22.8 | 542.0 | 360.8 | 33.9 | 66.6 |
 | Apr 12 10:32 PM ET | 1_Core_2GHz_Colab_CPU | evaluated |  | submission.py | 1bfa5e | 20.2/2.8/23.0 | 545.4 | 359.4 | 34.4 | 67.0 |
 | Apr 12 10:20 PM ET | goingbananas | evaluated |  | submission.py | 2f9b76 | 27.1/6.2/33.3 | 526.3 | 169.1 | 310.7 | 251.5 |

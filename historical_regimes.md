@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 12, 2026 at 10:45:37 PM ET`
+Last updated: `April 12, 2026 at 10:54:14 PM ET`
 
 ## R1 (tok/s)
 
@@ -172,7 +172,7 @@ Last updated: `April 12, 2026 at 10:45:37 PM ET`
 | 20 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
 | 21 | bl792 | develop.py | 09cd73 | 32.3 |
 | 22 | blabrl | submission.py | ca60eb | 33.7 |
-| 23 | 1_Core_2GHz_Colab_CPU | submission.py | 124a48 | 33.9 |
+| 23 | 1_Core_2GHz_Colab_CPU | submission.py | d3ef07 | 33.9 |
 | 24 | chickfila | submission.py | f0956d | 34.7 |
 | 25 | gravlax | develop.py | b1229d | 35.0 |
 | 26 | PurplePickle67 | submission.py | 2efdba | 36.3 |
@@ -288,6 +288,6 @@ Last updated: `April 12, 2026 at 10:45:37 PM ET`
 | 63 | brandon_lorenzo | submission.py | 67c79e | 249.6 |
 | 64 | castillo | develop.py | 0e93de | 250.2 |
 | 65 | yb | submission.py | 2aa1a9 | 250.5 |
-| 66 | jet2holiday | submission.py | efd6c8 | 250.7 |
-| 67 | goingbananas | submission.py | 2f9b76 | 251.5 |
+| 66 | goingbananas | submission.py | 629a61 | 250.6 |
+| 67 | jet2holiday | submission.py | efd6c8 | 250.7 |
 | 68 | siddarak | submission.py | d85766 | 382.1 |
