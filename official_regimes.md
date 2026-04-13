@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 13, 2026 at 02:35:49 PM ET`
+Last updated: `April 13, 2026 at 02:46:25 PM ET`
 
 ## R1 (tok/s)
 
@@ -61,8 +61,8 @@ Last updated: `April 13, 2026 at 02:35:49 PM ET`
 | 53 | bl792 | evaluated | 09cd73 | 524.7 |
 | 54 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
 | 55 | yb | evaluated | f606cb | 524.1 |
-| 56 | kaimaeda | evaluated | 176fa2 | 524.0 |
-| 57 | ethanchen | evaluated | ea518d | 523.7 |
+| 56 | ethanchen | evaluated | ea518d | 523.7 |
+| 57 | kaimaeda | evaluated | 5c71e7 | 523.3 |
 | 58 | hw_bloss | evaluated | 4c9666 | 522.2 |
 | 59 | yoursun1220 | evaluated | d8b590 | 521.8 |
 | 60 | ck | evaluated | 5b7378 | 521.2 |
@@ -83,7 +83,7 @@ Last updated: `April 13, 2026 at 02:35:49 PM ET`
 |  | onlythingIcanDOisTAPEOUT | failed | 31bf98 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 3949b5 |  |
+|  | TheProphet | failed | b84b4d |  |
 
 ## R2 (tok/s)
 
@@ -149,8 +149,8 @@ Last updated: `April 13, 2026 at 02:35:49 PM ET`
 | 58 | brandon_lorenzo | evaluated | 67c79e | 169.8 |
 | 59 | Junyi Li | evaluated | c7a1b3 | 169.7 |
 | 60 | dylanjhnsondj | evaluated | c4e1ab | 169.6 |
-| 61 | kaimaeda | evaluated | 176fa2 | 169.5 |
-| 62 | Akash Basu | evaluated | b0a419 | 169.5 |
+| 61 | Akash Basu | evaluated | b0a419 | 169.5 |
+| 62 | kaimaeda | evaluated | 5c71e7 | 169.4 |
 | 63 | yoursun1220 | evaluated | d8b590 | 169.2 |
 | 64 | jet2holiday | evaluated | 05925d | 169.1 |
 | 65 | hw_bloss | evaluated | 4c9666 | 169.1 |
@@ -166,7 +166,7 @@ Last updated: `April 13, 2026 at 02:35:49 PM ET`
 |  | onlythingIcanDOisTAPEOUT | failed | 31bf98 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 3949b5 |  |
+|  | TheProphet | failed | b84b4d |  |
 
 ## R3 (ms)
 
@@ -233,8 +233,8 @@ Last updated: `April 13, 2026 at 02:35:49 PM ET`
 | 59 | brandon_lorenzo | evaluated | 67c79e | 309.2 |
 | 60 | pick_a_nickname | evaluated | c47490 | 309.4 |
 | 61 | tif03 | evaluated | ec268d | 309.4 |
-| 62 | Akash Basu | evaluated | b0a419 | 309.8 |
-| 63 | kaimaeda | evaluated | 176fa2 | 310.1 |
+| 62 | kaimaeda | evaluated | 5c71e7 | 309.8 |
+| 63 | Akash Basu | evaluated | b0a419 | 309.8 |
 | 64 | mdavalos10 | evaluated | eca698 | 310.3 |
 | 65 | yoursun1220 | evaluated | d8b590 | 310.7 |
 | 66 | axel4 | evaluated | 66964d | 311.0 |
@@ -249,7 +249,7 @@ Last updated: `April 13, 2026 at 02:35:49 PM ET`
 |  | onlythingIcanDOisTAPEOUT | failed | 31bf98 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 3949b5 |  |
+|  | TheProphet | failed | b84b4d |  |
 
 ## R4 (ms)
 
@@ -317,11 +317,11 @@ Last updated: `April 13, 2026 at 02:35:49 PM ET`
 | 60 | pick_a_nickname | evaluated | c47490 | 249.3 |
 | 61 | tif03 | evaluated | ec268d | 249.5 |
 | 62 | brandon_lorenzo | evaluated | 67c79e | 249.6 |
-| 63 | yoursun1220 | evaluated | d8b590 | 250.1 |
-| 64 | Akash Basu | evaluated | b0a419 | 250.2 |
-| 65 | mdavalos10 | evaluated | eca698 | 250.2 |
-| 66 | castillo | evaluated | 0e93de | 250.4 |
-| 67 | kaimaeda | evaluated | 176fa2 | 250.4 |
+| 63 | kaimaeda | evaluated | 5c71e7 | 249.7 |
+| 64 | yoursun1220 | evaluated | d8b590 | 250.1 |
+| 65 | Akash Basu | evaluated | b0a419 | 250.2 |
+| 66 | mdavalos10 | evaluated | eca698 | 250.2 |
+| 67 | castillo | evaluated | 0e93de | 250.4 |
 | 68 | yb | evaluated | f606cb | 250.4 |
 | 69 | ck | evaluated | 5b7378 | 250.9 |
 | 70 | jet2holiday | evaluated | 05925d | 251.0 |
@@ -332,4 +332,4 @@ Last updated: `April 13, 2026 at 02:35:49 PM ET`
 |  | onlythingIcanDOisTAPEOUT | failed | 31bf98 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
-|  | TheProphet | failed | 3949b5 |  |
+|  | TheProphet | failed | b84b4d |  |

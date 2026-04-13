@@ -1,13 +1,13 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 02:35:49 PM ET`
+Last updated: `April 13, 2026 at 02:46:25 PM ET`
 
 ## R1 (tok/s)
 
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
-| 1 | prousoglou | develop.py | 5379db | 601.0 |
-| 2 | TheProphet | submission.py | da19a9 | 591.7 |
+| 1 | TheProphet | submission.py | b84b4d | 646.2 |
+| 2 | prousoglou | develop.py | 5379db | 601.0 |
 | 3 | - - | submission.py | adc0f3 | 591.4 |
 | 4 | fishyfins | develop.py | 866448 | 580.7 |
 | 5 | jl | submission.py | e6ce85 | 574.4 |
@@ -184,7 +184,7 @@ Last updated: `April 13, 2026 at 02:35:49 PM ET`
 | 20 | stefan | develop.py | c521d2 | 29.6 |
 | 21 | andrasferenczy | submission.py | 9c7f53 | 31.9 |
 | 22 | bl792 | develop.py | 09cd73 | 32.3 |
-| 23 | onlythingIcanDOisTAPEOUT | submission.py | 31bf98 | 32.5 |
+| 23 | onlythingIcanDOisTAPEOUT | develop.py | 31bf98 | 32.4 |
 | 24 | blabrl | submission.py | ca60eb | 33.7 |
 | 25 | 1_Core_2GHz_Colab_CPU | submission.py | d3ef07 | 33.9 |
 | 26 | chickfila | submission.py | f0956d | 34.7 |
@@ -232,8 +232,8 @@ Last updated: `April 13, 2026 at 02:35:49 PM ET`
 | 68 | pick_a_nickname | submission.py | c47490 | 309.4 |
 | 69 | tif03 | submission.py | ec268d | 309.4 |
 | 70 | poppyPotatoe | submission.py | 311dc9 | 309.5 |
-| 71 | Akash Basu | submission.py | b0a419 | 309.8 |
-| 72 | kaimaeda | submission.py | 176fa2 | 310.1 |
+| 71 | kaimaeda | submission.py | 5c71e7 | 309.8 |
+| 72 | Akash Basu | submission.py | b0a419 | 309.8 |
 | 73 | castillo | develop.py | 0e93de | 310.9 |
 | 74 | jet2holiday | submission.py | efd6c8 | 310.9 |
 | 75 | siddarak | submission.py | d85766 | 614.4 |
@@ -269,7 +269,7 @@ Last updated: `April 13, 2026 at 02:35:49 PM ET`
 | 25 | bl792 | develop.py | 09cd73 | 59.8 |
 | 26 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 59.9 |
 | 27 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
-| 28 | onlythingIcanDOisTAPEOUT | submission.py | 31bf98 | 64.2 |
+| 28 | onlythingIcanDOisTAPEOUT | develop.py | 31bf98 | 64.1 |
 | 29 | omermoav | submission.py | b01c0e | 64.6 |
 | 30 | ck | submission.py | 0a60c6 | 64.7 |
 | 31 | blabrl | submission.py | ca60eb | 65.2 |
@@ -311,9 +311,9 @@ Last updated: `April 13, 2026 at 02:35:49 PM ET`
 | 67 | pick_a_nickname | submission.py | c47490 | 249.3 |
 | 68 | tif03 | submission.py | ec268d | 249.5 |
 | 69 | brandon_lorenzo | submission.py | 67c79e | 249.6 |
-| 70 | castillo | develop.py | 0e93de | 250.2 |
-| 71 | Akash Basu | submission.py | b0a419 | 250.2 |
-| 72 | kaimaeda | submission.py | 176fa2 | 250.4 |
+| 70 | kaimaeda | submission.py | 5c71e7 | 249.7 |
+| 71 | castillo | develop.py | 0e93de | 250.2 |
+| 72 | Akash Basu | submission.py | b0a419 | 250.2 |
 | 73 | yb | submission.py | f1acc1 | 250.4 |
 | 74 | jet2holiday | submission.py | efd6c8 | 250.7 |
 | 75 | siddarak | submission.py | d85766 | 382.1 |

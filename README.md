@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 13, 2026 at 02:35:49 PM ET`
+Last updated: `April 13, 2026 at 02:46:25 PM ET`
 
 ## Pages
 
@@ -74,7 +74,7 @@ Last updated: `April 13, 2026 at 02:35:49 PM ET`
 | 60 | mdavalos10 | evaluated | eca698 | 22.4/6.2/28.6 | 0.527 | 529.8 | 170.5 | 310.3 | 250.2 |
 | 61 | brandon_lorenzo | evaluated | 67c79e | 19.7/6.2/26.0 | 0.526 | 524.1 | 169.8 | 309.2 | 249.6 |
 | 62 | pick_a_nickname | evaluated | c47490 | 27.2/6.2/33.4 | 0.526 | 525.7 | 169.9 | 309.4 | 249.3 |
-| 63 | kaimaeda | evaluated | 176fa2 | 39.2/6.2/45.5 | 0.525 | 524.0 | 169.5 | 310.1 | 250.4 |
+| 63 | kaimaeda | evaluated | 5c71e7 | 19.7/6.2/26.0 | 0.525 | 523.3 | 169.4 | 309.8 | 249.7 |
 | 64 | Akash Basu | evaluated | b0a419 | 41.8/6.2/48.1 | 0.525 | 525.9 | 169.5 | 309.8 | 250.2 |
 | 65 | jet2holiday | evaluated | 05925d | 27.3/6.2/33.6 | 0.524 | 525.4 | 169.1 | 311.1 | 251.0 |
 | 66 | castillo | evaluated | 0e93de | 27.1/6.2/33.4 | 0.524 | 526.6 | 169.0 | 311.4 | 250.4 |
@@ -89,7 +89,7 @@ Last updated: `April 13, 2026 at 02:35:49 PM ET`
 |  | onlythingIcanDOisTAPEOUT | failed | 31bf98 | 36.7/3.2/39.9 |  |  |  |  |  |
 |  | siddarak | failed | d85766 | 21.8/9.2/31.0 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | TheProphet | failed | 3949b5 | 60.5/2.8/63.3 |  |  |  |  |  |
+|  | TheProphet | failed | b84b4d | 50.3/0.8/51.1 |  |  |  |  |  |
 
 ## Column Guide
 
