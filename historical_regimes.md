@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 12, 2026 at 08:26:24 PM ET`
+Last updated: `April 12, 2026 at 08:37:13 PM ET`
 
 ## R1 (tok/s)
 
@@ -211,7 +211,7 @@ Last updated: `April 12, 2026 at 08:26:24 PM ET`
 | 61 | pick_a_nickname | submission.py | c47490 | 309.4 |
 | 62 | tif03 | submission.py | ec268d | 309.4 |
 | 63 | poppyPotatoe | submission.py | 311dc9 | 309.5 |
-| 64 | mdavalos10 | develop.py | 6e0754 | 310.8 |
+| 64 | mdavalos10 | submission.py | eca698 | 310.3 |
 | 65 | castillo | develop.py | 0e93de | 310.9 |
 | 66 | jet2holiday | submission.py | efd6c8 | 310.9 |
 | 67 | siddarak | submission.py | d85766 | 614.4 |
@@ -283,7 +283,7 @@ Last updated: `April 12, 2026 at 08:26:24 PM ET`
 | 61 | tif03 | submission.py | ec268d | 249.5 |
 | 62 | brandon_lorenzo | submission.py | 67c79e | 249.6 |
 | 63 | castillo | develop.py | 0e93de | 250.2 |
-| 64 | yb | submission.py | 2aa1a9 | 250.5 |
-| 65 | jet2holiday | submission.py | efd6c8 | 250.7 |
-| 66 | mdavalos10 | develop.py | 6e0754 | 251.0 |
+| 64 | mdavalos10 | submission.py | eca698 | 250.2 |
+| 65 | yb | submission.py | 2aa1a9 | 250.5 |
+| 66 | jet2holiday | submission.py | efd6c8 | 250.7 |
 | 67 | siddarak | submission.py | d85766 | 382.1 |

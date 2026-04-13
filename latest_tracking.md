@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 08:26:24 PM ET`
+Last updated: `April 12, 2026 at 08:37:13 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 08:33 PM ET | mdavalos10 | evaluated |  | submission.py | eca698 | 22.4/6.2/28.6 | 529.8 | 170.5 | 310.3 | 250.2 |
+| Apr 12 08:23 PM ET | co-smith | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | submission.py | c03ebf | 56.9/10.0/66.9 | 548.8 | 56.7 | 0.0 | 0.0 |
+| Apr 12 08:22 PM ET | fishyfins | evaluated |  | submission.py | 468ef1 | 67.6/6.0/73.7 | 565.9 | 172.8 | 306.5 | 237.7 |
 | Apr 12 08:17 PM ET | fishyfins | evaluated |  | submission.py | 8021c3 | 29.5/6.3/35.8 | 535.6 | 164.2 | 308.1 | 239.1 |
 | Apr 12 08:07 PM ET | co-smith | failed_correctness | R2: ERR: hard timeout exceeded (worker killed) \| R3: ERR: total timeout exceeded before regime start \| R4: ERR: total... | submission.py | 00ede6 | 23.8/0.9/24.8 | 548.6 | 0.0 | 0.0 | 0.0 |
 | Apr 12 08:07 PM ET | co-smith | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | develop.py | 00ede6 | 55.0/14.1/69.1 | 549.9 | 40.2 | 102.0 | 0.0 |
