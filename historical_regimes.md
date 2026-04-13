@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 01:03:20 AM ET`
+Last updated: `April 13, 2026 at 01:13:09 AM ET`
 
 ## R1 (tok/s)
 
@@ -133,14 +133,14 @@ Last updated: `April 13, 2026 at 01:03:20 AM ET`
 | 53 | goingbananas | submission.py | f09881 | 172.6 |
 | 54 | mdavalos10 | develop.py | eca698 | 171.0 |
 | 55 | yoursun1220 | submission.py | 27e400 | 169.9 |
-| 56 | pick_a_nickname | submission.py | c47490 | 169.9 |
-| 57 | axel4 | submission.py | ea45fd | 169.9 |
-| 58 | yb | submission.py | 2aa1a9 | 169.8 |
-| 59 | brandon_lorenzo | submission.py | 67c79e | 169.8 |
-| 60 | hw_bloss | submission.py | b2767b | 169.8 |
-| 61 | Junyi Li | submission.py | c7a1b3 | 169.7 |
-| 62 | dylanjhnsondj | submission.py | c4e1ab | 169.6 |
-| 63 | jbc | develop.py | 4e7308 | 169.4 |
+| 56 | jbc | develop.py | a37029 | 169.9 |
+| 57 | pick_a_nickname | submission.py | c47490 | 169.9 |
+| 58 | axel4 | submission.py | ea45fd | 169.9 |
+| 59 | yb | submission.py | 2aa1a9 | 169.8 |
+| 60 | brandon_lorenzo | submission.py | 67c79e | 169.8 |
+| 61 | hw_bloss | submission.py | b2767b | 169.8 |
+| 62 | Junyi Li | submission.py | c7a1b3 | 169.7 |
+| 63 | dylanjhnsondj | submission.py | c4e1ab | 169.6 |
 | 64 | castillo | develop.py | 0e93de | 169.2 |
 | 65 | jet2holiday | submission.py | 05925d | 169.1 |
 | 66 | tif03 | submission.py | ec268d | 167.6 |
@@ -278,10 +278,10 @@ Last updated: `April 13, 2026 at 01:03:20 AM ET`
 | 53 | hw_bloss | submission.py | b2767b | 237.0 |
 | 54 | Sulaiman Alam | develop.py | c7ede2 | 244.4 |
 | 55 | your_nickname_here | submission.py | 59e245 | 245.7 |
-| 56 | mdavalos10 | develop.py | eca698 | 248.2 |
-| 57 | yoursun1220 | submission.py | 27e400 | 248.7 |
-| 58 | poppyPotatoe | submission.py | 311dc9 | 248.9 |
-| 59 | jbc | develop.py | 4e7308 | 248.9 |
+| 56 | jbc | develop.py | a37029 | 248.2 |
+| 57 | mdavalos10 | develop.py | eca698 | 248.2 |
+| 58 | yoursun1220 | submission.py | 27e400 | 248.7 |
+| 59 | poppyPotatoe | submission.py | 311dc9 | 248.9 |
 | 60 | axel4 | submission.py | 7f216f | 249.1 |
 | 61 | pick_a_nickname | submission.py | c47490 | 249.3 |
 | 62 | tif03 | submission.py | ec268d | 249.5 |
