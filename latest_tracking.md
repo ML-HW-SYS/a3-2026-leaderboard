@@ -1,10 +1,14 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 02:07:17 PM ET`
+Last updated: `April 13, 2026 at 02:17:19 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 02:07 PM ET | kaimaeda | evaluated |  | develop.py | 337473 | 20.0/6.2/26.2 | 526.1 | 169.4 | 310.5 | 250.8 |
+| Apr 13 02:05 PM ET | Shengwei | evaluated |  | submission.py | cd3181 | 29.1/2.7/31.8 | 525.0 | 361.3 | 26.6 | 47.7 |
+| Apr 13 02:03 PM ET | jbc | evaluated |  | submission.py | 5d9d34 | 29.9/6.7/36.6 | 530.5 | 146.4 | 309.7 | 248.8 |
 | Apr 13 01:58 PM ET | yb | evaluated |  | submission.py | f606cb | 39.5/6.2/45.8 | 524.1 | 169.1 | 311.0 | 250.4 |
+| Apr 13 01:58 PM ET | yb | evaluated |  | develop.py | f606cb | 39.4/6.3/45.7 | 521.2 | 169.0 | 311.6 | 251.5 |
 | Apr 13 01:54 PM ET | co-smith | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | develop.py | d82aa8 | 49.8/2.4/52.2 | 449.3 | 403.9 | 0.0 | 0.0 |
 | Apr 13 01:52 PM ET | kaimaeda | evaluated |  | submission.py | 176fa2 | 39.2/6.2/45.5 | 524.0 | 169.5 | 310.1 | 250.4 |
 | Apr 13 01:51 PM ET | ck | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 28c7f6 | 19.7/6.2/25.9 | 524.1 | 169.5 | 308.6 | 246.8 |
