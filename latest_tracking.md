@@ -1,10 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 01:56:47 AM ET`
+Last updated: `April 13, 2026 at 02:05:33 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 02:00 AM ET | happyface | evaluated |  | develop.py | 8313a7 | 47.2/3.2/50.4 | 541.1 | 265.5 | 28.1 | 51.1 |
 | Apr 13 01:42 AM ET | jbc | failed_correctness | R1: SETUP: ERR: ValueError: Pointer argument (at 1) cannot be accessed from Triton (cpu tensor?) \| R2: SETUP: ERR: Va... | submission.py | 3eae05 | 18.5/2.2/20.7 | 0.0 | 0.0 | 310.8 | 248.8 |
+| Apr 13 01:42 AM ET | jbc | failed_correctness | R1: SETUP: ERR: ValueError: Pointer argument (at 1) cannot be accessed from Triton (cpu tensor?) \| R2: SETUP: ERR: Va... | develop.py | 3eae05 | 18.3/2.2/20.6 | 0.0 | 0.0 | 309.9 | 248.8 |
 | Apr 13 01:40 AM ET | happyface | evaluated |  | develop.py | 0639a5 | 45.5/4.7/50.2 | 537.8 | 215.4 | 166.0 | 164.5 |
 | Apr 13 01:30 AM ET | ck | evaluated |  | submission.py | 0a60c6 | 18.5/2.7/21.1 | 570.4 | 373.0 | 35.2 | 64.7 |
 | Apr 13 01:30 AM ET | happyface | failed_correctness | Correctness FAIL \| R2 (88.57%), R3 (78.40%), R4 (83.54%) \| max_abs_diff=17 | develop.py | 209339 | 20.7/3.6/24.3 | 540.2 | 262.6 | 60.7 | 109.6 |
