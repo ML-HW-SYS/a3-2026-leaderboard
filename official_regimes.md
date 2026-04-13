@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 13, 2026 at 12:04:27 AM ET`
+Last updated: `April 13, 2026 at 12:12:54 AM ET`
 
 ## R1 (tok/s)
 
@@ -73,6 +73,7 @@ Last updated: `April 13, 2026 at 12:04:27 AM ET`
 | 65 | tuo | evaluated | 3d6d40 | 494.8 |
 | 66 | poppyPotatoe | evaluated | eea264 | 144.2 |
 |  | dhanushikka | failed | 14b1fd |  |
+|  | hngydn20 | failed | 80c083 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -148,6 +149,7 @@ Last updated: `April 13, 2026 at 12:04:27 AM ET`
 | 65 | poppyPotatoe | evaluated | eea264 | 109.8 |
 | 66 | co-smith | evaluated | 407280 | 96.9 |
 |  | dhanushikka | failed | 14b1fd |  |
+|  | hngydn20 | failed | 80c083 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -223,6 +225,7 @@ Last updated: `April 13, 2026 at 12:04:27 AM ET`
 | 65 | goingbananas | evaluated | 629a61 | 311.7 |
 | 66 | yb | evaluated | ea23ab | 312.3 |
 |  | dhanushikka | failed | 14b1fd |  |
+|  | hngydn20 | failed | 80c083 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -298,6 +301,7 @@ Last updated: `April 13, 2026 at 12:04:27 AM ET`
 | 65 | jbc | evaluated | 12bb20 | 251.3 |
 | 66 | poppyPotatoe | evaluated | eea264 | 251.9 |
 |  | dhanushikka | failed | 14b1fd |  |
+|  | hngydn20 | failed | 80c083 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |

@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 12:04:27 AM ET`
+Last updated: `April 13, 2026 at 12:12:54 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 12:03 AM ET | happyface | evaluated |  | develop.py | c9271d | 25.8/3.5/29.3 | 542.6 | 265.3 | 56.9 | 107.5 |
+| Apr 13 12:02 AM ET | hngydn20 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 80c083 | 19.7/6.2/25.9 | 536.2 | 169.8 | 308.6 | 245.4 |
 | Apr 12 11:50 PM ET | happyface | failed_correctness | R2: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | develop.py | 66da4d | 31.2/1.0/32.1 | 536.4 | 0.0 | 0.0 | 0.0 |
 | Apr 12 11:35 PM ET | happyface | evaluated |  | develop.py | 8a1e8e | 23.2/3.5/26.8 | 539.0 | 264.7 | 57.3 | 108.2 |
 | Apr 12 11:27 PM ET | happyface | failed_correctness | Correctness FAIL \| R2 (88.57%), R3 (78.40%), R4 (83.54%) \| max_abs_diff=17 | develop.py | 765aad | 37.8/3.6/41.4 | 539.5 | 263.3 | 60.2 | 109.6 |
