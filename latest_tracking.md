@@ -1,12 +1,18 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 06:26:59 PM ET`
+Last updated: `April 13, 2026 at 06:37:58 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 06:32 PM ET | pick_a_nickname | failed_correctness | R2: SETUP: ERR: ValueError: Expect query and key/value to have the same number of heads but got Hq=14 and Hkv=2. Try ... | submission.py | 1aebd8 | 28.1/1.0/29.1 | 524.3 | 0.0 | 0.0 | 0.0 |
+| Apr 13 06:32 PM ET | yb | evaluated |  | submission.py | e45d77 | 20.3/6.2/26.5 | 520.0 | 173.6 | 311.1 | 249.7 |
+| Apr 13 06:26 PM ET | TheProphet | failed_compliance | Submission compliance check failed for submission.py: \| - run(...) must have arguments exactly `(model, dataset_chunk)` | submission.py | be4b32 |  |  |  |  |  |
 | Apr 13 06:20 PM ET | chyyy | evaluated |  | develop.py | 49ba80 | 41.2/2.4/43.6 | 555.3 | 427.4 | 25.9 | 49.7 |
+| Apr 13 06:20 PM ET | goingbananas | evaluated |  | develop.py | 819374 | 19.7/6.2/26.0 | 515.4 | 169.8 | 309.7 | 250.2 |
 | Apr 13 06:16 PM ET | mdavalos10 | evaluated |  | submission.py | 7c095c | 21.9/5.7/27.7 | 527.7 | 177.4 | 280.8 | 190.1 |
+| Apr 13 06:16 PM ET | mdavalos10 | evaluated |  | develop.py | 7c095c | 22.0/5.7/27.7 | 527.3 | 177.4 | 280.4 | 189.7 |
 | Apr 13 06:14 PM ET | kaimaeda | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | d7b250 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 13 06:14 PM ET | kaimaeda | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | develop.py | d7b250 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 06:10 PM ET | goingbananas | evaluated |  | develop.py | dfd409 | 40.3/6.2/46.5 | 524.6 | 169.6 | 309.1 | 249.7 |
 | Apr 13 06:02 PM ET | kaimaeda | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 4fcc2c | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 06:02 PM ET | kaimaeda | evaluated |  | develop.py | 4fcc2c | 53.3/3.1/56.4 | 516.3 | 372.1 | 59.2 | 115.5 |
