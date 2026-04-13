@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 13, 2026 at 05:03:23 PM ET`
+Last updated: `April 13, 2026 at 05:15:11 PM ET`
 
 ## R1 (tok/s)
 
@@ -79,8 +79,8 @@ Last updated: `April 13, 2026 at 05:03:23 PM ET`
 |  | Akash Basu | failed | 254f04 |  |
 |  | avemaria | failed | 3b3135 |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | 3765df |  |
-|  | kade_lin_is_here | failed | 612c98 |  |
+|  | fishyfins | failed | c5749f |  |
+|  | kade_lin_is_here | failed | 5a28f9 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | 522695 |  |
 |  | TheProphet | failed | 4d6dad |  |
@@ -162,8 +162,8 @@ Last updated: `April 13, 2026 at 05:03:23 PM ET`
 |  | Akash Basu | failed | 254f04 |  |
 |  | avemaria | failed | 3b3135 |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | 3765df |  |
-|  | kade_lin_is_here | failed | 612c98 |  |
+|  | fishyfins | failed | c5749f |  |
+|  | kade_lin_is_here | failed | 5a28f9 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | 522695 |  |
 |  | TheProphet | failed | 4d6dad |  |
@@ -245,8 +245,8 @@ Last updated: `April 13, 2026 at 05:03:23 PM ET`
 |  | Akash Basu | failed | 254f04 |  |
 |  | avemaria | failed | 3b3135 |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | 3765df |  |
-|  | kade_lin_is_here | failed | 612c98 |  |
+|  | fishyfins | failed | c5749f |  |
+|  | kade_lin_is_here | failed | 5a28f9 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | 522695 |  |
 |  | TheProphet | failed | 4d6dad |  |
@@ -328,8 +328,8 @@ Last updated: `April 13, 2026 at 05:03:23 PM ET`
 |  | Akash Basu | failed | 254f04 |  |
 |  | avemaria | failed | 3b3135 |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | fishyfins | failed | 3765df |  |
-|  | kade_lin_is_here | failed | 612c98 |  |
+|  | fishyfins | failed | c5749f |  |
+|  | kade_lin_is_here | failed | 5a28f9 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | 522695 |  |
 |  | TheProphet | failed | 4d6dad |  |

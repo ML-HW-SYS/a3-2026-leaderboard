@@ -1,16 +1,22 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 05:03:23 PM ET`
+Last updated: `April 13, 2026 at 05:15:11 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 05:07 PM ET | yb | evaluated |  | develop.py | 0d2af8 | 40.0/6.6/46.6 | 517.3 | 173.7 | 405.5 | 269.5 |
+| Apr 13 05:06 PM ET | fishyfins | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | c5749f |  |  |  |  |  |
+| Apr 13 05:01 PM ET | kade_lin_is_here | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 5a28f9 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 04:56 PM ET | kade_lin_is_here | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 612c98 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 04:55 PM ET | onlythingIcanDOisTAPEOUT | evaluated |  | submission.py | 39c775 | 47.6/3.2/50.8 | 536.1 | 280.9 | 32.3 | 63.7 |
+| Apr 13 04:55 PM ET | onlythingIcanDOisTAPEOUT | evaluated |  | develop.py | 39c775 | 32.4/3.2/35.5 | 534.3 | 281.2 | 32.2 | 63.9 |
 | Apr 13 04:53 PM ET | chyyy | evaluated |  | develop.py | 6df604 | 55.2/2.4/57.6 | 551.0 | 429.4 | 25.7 | 49.1 |
 | Apr 13 04:52 PM ET | co-smith | evaluated |  | develop.py | d6d952 | 28.9/5.4/34.3 | 446.1 | 220.6 | 289.9 | 187.9 |
 | Apr 13 04:51 PM ET | kaimaeda | evaluated |  | submission.py | 6a5b34 | 24.7/3.7/28.4 | 505.8 | 258.3 | 61.0 | 119.7 |
+| Apr 13 04:51 PM ET | kaimaeda | evaluated |  | develop.py | 6a5b34 | 47.6/3.7/51.3 | 510.7 | 257.8 | 59.2 | 115.5 |
 | Apr 13 04:49 PM ET | yb | failed_correctness | R1: ERR: subprocess failed with exit code 1 \| R2: ERR: subprocess failed with exit code 1 \| R3: ERR: subprocess faile... | develop.py | d91728 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 04:45 PM ET | SIUUU | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | 522695 | 37.9/4.1/42.0 | 536.2 | 242.3 | 104.7 | 151.3 |
+| Apr 13 04:45 PM ET | SIUUU | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | develop.py | 522695 | 19.1/4.1/23.2 | 536.1 | 242.3 | 104.4 | 151.0 |
 | Apr 13 04:37 PM ET | fishyfins | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | 3765df |  |  |  |  |  |
 | Apr 13 04:37 PM ET | fishyfins | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | 3765df |  |  |  |  |  |
 | Apr 13 04:29 PM ET | jbc | evaluated |  | submission.py | c950a5 | 41.4/2.9/44.3 | 555.7 | 360.8 | 68.8 | 82.5 |
