@@ -1,11 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 09:12:01 PM ET`
+Last updated: `April 12, 2026 at 09:19:24 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Apr 12 09:06 PM ET | nicknam534534 | evaluated |  | submission.py | 59bdfc | 33.5/3.8/37.2 | 503.8 | 256.3 | 64.8 | 126.3 |
 | Apr 12 08:59 PM ET | goingbananas | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 7f35a8 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 12 08:59 PM ET | goingbananas | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | 7f35a8 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 12 08:56 PM ET | nicknam534534 | evaluated |  | develop.py | f75c41 | 69.9/3.8/73.6 | 511.3 | 256.9 | 65.0 | 127.3 |
 | Apr 12 08:40 PM ET | co-smith | evaluated |  | submission.py | 407280 | 25.5/8.1/33.6 | 557.1 | 96.9 | 288.9 | 187.8 |
 | Apr 12 08:40 PM ET | co-smith | evaluated |  | develop.py | 407280 | 25.4/7.9/33.3 | 558.6 | 100.3 | 290.5 | 188.5 |
