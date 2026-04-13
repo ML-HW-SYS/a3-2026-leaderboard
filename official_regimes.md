@@ -1,13 +1,13 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 11:09:43 PM ET`
+Last updated: `April 12, 2026 at 11:17:56 PM ET`
 
 ## R1 (tok/s)
 
 | rank | nickname | status | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | - - | evaluated | adc0f3 | 591.4 |
-| 2 | TheProphet | evaluated | 91c348 | 589.0 |
+| 2 | TheProphet | evaluated | 9402e5 | 589.4 |
 | 3 | omermoav | evaluated | b01c0e | 569.6 |
 | 4 | jl | evaluated | 8b6423 | 569.1 |
 | 5 | zhumengzhiren | evaluated | cf2924 | 566.6 |
@@ -97,37 +97,37 @@ Last updated: `April 12, 2026 at 11:09:43 PM ET`
 | 14 | gm | evaluated | 2898fc | 357.0 |
 | 15 | nickname55555555 | evaluated | 68b98d | 354.2 |
 | 16 | ishan-pat | evaluated | 99aac6 | 352.8 |
-| 17 | TheProphet | evaluated | 91c348 | 349.5 |
-| 18 | sjb | evaluated | 373553 | 346.4 |
-| 19 | JasonWang07 | evaluated | a4b405 | 342.2 |
-| 20 | Rithvik | evaluated | 2924a0 | 335.8 |
-| 21 | act | evaluated | fce2ab | 332.5 |
-| 22 | leoli | evaluated | 5cdac4 | 327.5 |
-| 23 | abhik | evaluated | 0b4b08 | 319.2 |
-| 24 | vallabkaranam | evaluated | 0bdeec | 318.5 |
-| 25 | ss4478 | evaluated | c35426 | 312.1 |
-| 26 | jl | evaluated | 8b6423 | 311.6 |
-| 27 | lipphi | evaluated | a3a71b | 306.7 |
-| 28 | PurplePickle67 | evaluated | 68d34e | 303.7 |
-| 29 | pallavi-srinivas | evaluated | 3c1d3c | 302.6 |
-| 30 | TA | evaluated | a6e863 | 294.5 |
-| 31 | ngoguen | evaluated | f69acc | 282.0 |
-| 32 | stefan | evaluated | 9e3945 | 278.6 |
-| 33 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
-| 34 | landrum | evaluated | 61ab81 | 276.9 |
-| 35 | Decode_speed | evaluated | 8b78db | 274.2 |
-| 36 | gravlax | evaluated | b1229d | 272.5 |
-| 37 | Yize | evaluated | c8c9f7 | 269.9 |
-| 38 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
-| 39 | happyface | evaluated | 7e8b61 | 258.2 |
-| 40 | nicknam534534 | evaluated | 59bdfc | 256.3 |
-| 41 | ethanchen | evaluated | ea518d | 251.2 |
-| 42 | bl792 | evaluated | 09cd73 | 238.8 |
-| 43 | Licha | evaluated | 9666cd | 238.1 |
-| 44 | 13rabbit | evaluated | 49d27b | 234.5 |
-| 45 | beratcelik | evaluated | 863a89 | 231.2 |
-| 46 | tuo | evaluated | 3d6d40 | 204.6 |
-| 47 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
+| 17 | sjb | evaluated | 373553 | 346.4 |
+| 18 | JasonWang07 | evaluated | a4b405 | 342.2 |
+| 19 | Rithvik | evaluated | 2924a0 | 335.8 |
+| 20 | act | evaluated | fce2ab | 332.5 |
+| 21 | leoli | evaluated | 5cdac4 | 327.5 |
+| 22 | abhik | evaluated | 0b4b08 | 319.2 |
+| 23 | vallabkaranam | evaluated | 0bdeec | 318.5 |
+| 24 | ss4478 | evaluated | c35426 | 312.1 |
+| 25 | jl | evaluated | 8b6423 | 311.6 |
+| 26 | lipphi | evaluated | a3a71b | 306.7 |
+| 27 | PurplePickle67 | evaluated | 68d34e | 303.7 |
+| 28 | pallavi-srinivas | evaluated | 3c1d3c | 302.6 |
+| 29 | TA | evaluated | a6e863 | 294.5 |
+| 30 | ngoguen | evaluated | f69acc | 282.0 |
+| 31 | stefan | evaluated | 9e3945 | 278.6 |
+| 32 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
+| 33 | landrum | evaluated | 61ab81 | 276.9 |
+| 34 | Decode_speed | evaluated | 8b78db | 274.2 |
+| 35 | gravlax | evaluated | b1229d | 272.5 |
+| 36 | Yize | evaluated | c8c9f7 | 269.9 |
+| 37 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
+| 38 | happyface | evaluated | 7e8b61 | 258.2 |
+| 39 | nicknam534534 | evaluated | 59bdfc | 256.3 |
+| 40 | ethanchen | evaluated | ea518d | 251.2 |
+| 41 | bl792 | evaluated | 09cd73 | 238.8 |
+| 42 | Licha | evaluated | 9666cd | 238.1 |
+| 43 | 13rabbit | evaluated | 49d27b | 234.5 |
+| 44 | beratcelik | evaluated | 863a89 | 231.2 |
+| 45 | tuo | evaluated | 3d6d40 | 204.6 |
+| 46 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
+| 47 | TheProphet | evaluated | 9402e5 | 181.5 |
 | 48 | your_nickname_here | evaluated | f10b9b | 173.1 |
 | 49 | fishyfins | evaluated | 468ef1 | 172.8 |
 | 50 | mdavalos10 | evaluated | eca698 | 170.5 |
@@ -190,9 +190,9 @@ Last updated: `April 12, 2026 at 11:09:43 PM ET`
 | 32 | Junyi Li | evaluated | c7a1b3 | 60.9 |
 | 33 | Licha | evaluated | 9666cd | 61.8 |
 | 34 | happyface | evaluated | 7e8b61 | 63.7 |
-| 35 | TheProphet | evaluated | 91c348 | 64.0 |
-| 36 | nicknam534534 | evaluated | 59bdfc | 64.8 |
-| 37 | alifim | evaluated | 701077 | 64.8 |
+| 35 | nicknam534534 | evaluated | 59bdfc | 64.8 |
+| 36 | alifim | evaluated | 701077 | 64.8 |
+| 37 | TheProphet | evaluated | 9402e5 | 65.0 |
 | 38 | beratcelik | evaluated | 863a89 | 68.2 |
 | 39 | JasonWang07 | evaluated | a4b405 | 70.8 |
 | 40 | leoli | evaluated | 5cdac4 | 71.0 |
@@ -259,7 +259,7 @@ Last updated: `April 12, 2026 at 11:09:43 PM ET`
 | 26 | omermoav | evaluated | b01c0e | 64.6 |
 | 27 | blabrl | evaluated | ca60eb | 65.2 |
 | 28 | happyface | evaluated | 7e8b61 | 66.0 |
-| 29 | TheProphet | evaluated | 91c348 | 72.7 |
+| 29 | TheProphet | evaluated | 9402e5 | 73.0 |
 | 30 | leoli | evaluated | 5cdac4 | 87.4 |
 | 31 | JasonWang07 | evaluated | a4b405 | 88.9 |
 | 32 | abhik | evaluated | 0b4b08 | 107.2 |

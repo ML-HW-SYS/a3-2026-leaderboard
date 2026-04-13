@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 12, 2026 at 11:09:43 PM ET`
+Last updated: `April 12, 2026 at 11:17:56 PM ET`
 
 ## R1 (tok/s)
 
@@ -8,7 +8,7 @@ Last updated: `April 12, 2026 at 11:09:43 PM ET`
 | --- | --- | --- | --- | --- |
 | 1 | prousoglou | develop.py | 5379db | 601.0 |
 | 2 | - - | submission.py | adc0f3 | 591.4 |
-| 3 | TheProphet | submission.py | 91c348 | 589.0 |
+| 3 | TheProphet | submission.py | 9402e5 | 589.4 |
 | 4 | fishyfins | develop.py | 866448 | 580.7 |
 | 5 | jl | submission.py | e6ce85 | 574.4 |
 | 6 | zhumengzhiren | develop.py | cf2924 | 571.1 |
