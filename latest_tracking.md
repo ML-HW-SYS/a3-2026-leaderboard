@@ -1,13 +1,16 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 09:50:06 AM ET`
+Last updated: `April 13, 2026 at 09:59:04 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Apr 13 09:45 AM ET | co-smith | evaluated |  | submission.py | a32130 | 29.3/5.4/34.7 | 447.0 | 220.7 | 289.4 | 188.1 |
+| Apr 13 09:45 AM ET | co-smith | evaluated |  | develop.py | a32130 | 29.2/5.4/34.6 | 444.6 | 220.9 | 289.3 | 187.8 |
 | Apr 13 09:39 AM ET | nickname55555555 | evaluated |  | submission.py | f68498 | 73.0/2.7/75.6 | 568.8 | 354.5 | 27.9 | 49.2 |
+| Apr 13 09:39 AM ET | nickname55555555 | evaluated |  | develop.py | f68498 | 28.7/2.7/31.4 | 562.9 | 353.4 | 28.0 | 49.4 |
 | Apr 13 09:38 AM ET | TheProphet | evaluated |  | submission.py | 446108 | 41.9/11.9/53.8 | 54.8 | 220.6 | 24.0 | 46.2 |
 | Apr 13 09:36 AM ET | jbc | failed_correctness | R1: SETUP: ERR: NameError: name 'scales_dev' is not defined \| R2: SETUP: ERR: NameError: name 'scales_dev' is not def... | submission.py | d4d80c | 13.3/0.0/13.3 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 13 09:36 AM ET | jbc | failed_correctness | R1: SETUP: ERR: NameError: name 'scales_dev' is not defined \| R2: SETUP: ERR: NameError: name 'scales_dev' is not def... | develop.py | d4d80c | 13.2/0.0/13.2 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 09:21 AM ET | jbc | failed_correctness | R1: SETUP: ERR: ValueError: Pointer argument (at 1) cannot be accessed from Triton (cpu tensor?) \| R2: SETUP: ERR: Va... | submission.py | 4cc936 | 18.3/2.2/20.6 | 0.0 | 0.0 | 310.6 | 248.9 |
 | Apr 13 09:21 AM ET | jbc | failed_correctness | R1: SETUP: ERR: ValueError: Pointer argument (at 1) cannot be accessed from Triton (cpu tensor?) \| R2: SETUP: ERR: Va... | develop.py | 4cc936 | 18.4/2.2/20.6 | 0.0 | 0.0 | 311.2 | 249.3 |
 | Apr 13 09:03 AM ET | TheProphet | evaluated |  | submission.py | ce53ec | 30.5/4.6/35.2 | 244.7 | 226.1 | 24.2 | 46.5 |
