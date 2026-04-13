@@ -1,13 +1,19 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 01:54:29 PM ET`
+Last updated: `April 13, 2026 at 02:07:17 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 01:58 PM ET | yb | evaluated |  | submission.py | f606cb | 39.5/6.2/45.8 | 524.1 | 169.1 | 311.0 | 250.4 |
+| Apr 13 01:54 PM ET | co-smith | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | develop.py | d82aa8 | 49.8/2.4/52.2 | 449.3 | 403.9 | 0.0 | 0.0 |
+| Apr 13 01:52 PM ET | kaimaeda | evaluated |  | submission.py | 176fa2 | 39.2/6.2/45.5 | 524.0 | 169.5 | 310.1 | 250.4 |
 | Apr 13 01:51 PM ET | ck | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 28c7f6 | 19.7/6.2/25.9 | 524.1 | 169.5 | 308.6 | 246.8 |
+| Apr 13 01:49 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.76%) \| max_abs_diff=12.18 | submission.py | 3949b5 | 60.5/2.8/63.3 | 650.6 | 367.4 | 69.8 | 87.3 |
 | Apr 13 01:45 PM ET | axel4 | evaluated |  | submission.py | 66964d | 40.7/6.2/47.0 | 537.9 | 169.8 | 311.0 | 248.8 |
 | Apr 13 01:42 PM ET | jbc | evaluated |  | submission.py | f4c2f0 | 19.3/6.2/25.6 | 529.2 | 169.1 | 309.5 | 247.4 |
+| Apr 13 01:42 PM ET | jbc | evaluated |  | develop.py | f4c2f0 | 19.1/6.2/25.4 | 525.3 | 169.1 | 308.8 | 247.2 |
 | Apr 13 01:39 PM ET | poppyPotatoe | evaluated |  | submission.py | fccdc3 | 15.0/9.6/24.6 | 166.9 | 119.8 | 311.6 | 251.3 |
+| Apr 13 01:39 PM ET | poppyPotatoe | evaluated |  | develop.py | fccdc3 | 14.9/9.9/24.8 | 157.8 | 116.2 | 310.6 | 248.6 |
 | Apr 13 01:33 PM ET | jbc | evaluated |  | submission.py | 3e8dd7 | 19.5/6.3/25.8 | 529.3 | 168.3 | 312.3 | 250.7 |
 | Apr 13 01:23 PM ET | ck | evaluated |  | submission.py | c35857 | 27.1/6.3/33.3 | 519.6 | 169.3 | 310.9 | 251.1 |
 | Apr 13 01:17 PM ET | TheProphet | evaluated |  | submission.py | 10217b | 79.9/4.5/84.3 | 181.2 | 371.7 | 24.0 | 46.1 |
