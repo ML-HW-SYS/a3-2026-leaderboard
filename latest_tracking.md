@@ -1,12 +1,14 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 11:39:40 AM ET`
+Last updated: `April 13, 2026 at 11:48:30 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 11:39 AM ET | JaneShuey | evaluated |  | submission.py | 882419 | 54.6/4.8/59.4 | 526.2 | 165.2 | 59.6 | 111.1 |
 | Apr 13 11:30 AM ET | JaneShuey | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | 4bd0cf |  |  |  |  |  |
 | Apr 13 11:28 AM ET | JaneShuey | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | 4f504b |  |  |  |  |  |
 | Apr 13 11:27 AM ET | jbc | failed_correctness | R1: SETUP: ERR: UserError: Could not guard on data-dependent expression Eq(u1, 1) (unhinted: Eq(u1, 1)). (Size-like s... | submission.py | bc91d7 | 17.2/2.2/19.4 | 0.0 | 0.0 | 310.5 | 249.1 |
+| Apr 13 11:27 AM ET | jbc | failed_correctness | R1: SETUP: ERR: UserError: Could not guard on data-dependent expression Eq(u1, 1) (unhinted: Eq(u1, 1)). (Size-like s... | develop.py | bc91d7 | 17.2/2.3/19.5 | 0.0 | 0.0 | 312.7 | 251.2 |
 | Apr 13 11:15 AM ET | kade_lin_is_here | evaluated |  | submission.py | 9c847b | 39.3/4.1/43.4 | 541.5 | 237.6 | 108.7 | 138.3 |
 | Apr 13 11:13 AM ET | jbc | failed_correctness | R1: SETUP: ERR: UnboundLocalError: cannot access local variable 'decode_plan_idx' where it is not associated with a v... | submission.py | 1e6d2f | 14.4/0.0/14.4 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 11:13 AM ET | jbc | failed_correctness | R1: SETUP: ERR: UnboundLocalError: cannot access local variable 'decode_plan_idx' where it is not associated with a v... | develop.py | 1e6d2f | 14.4/0.0/14.4 | 0.0 | 0.0 | 0.0 | 0.0 |
