@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 08:16:46 PM ET`
+Last updated: `April 12, 2026 at 08:26:24 PM ET`
 
 ## R1 (tok/s)
 
@@ -35,8 +35,8 @@ Last updated: `April 12, 2026 at 08:16:46 PM ET`
 | 27 | ngoguen | evaluated | f69acc | 538.9 |
 | 28 | Shengwei | evaluated | 327428 | 538.8 |
 | 29 | landrum | evaluated | 61ab81 | 535.7 |
-| 30 | sjb | evaluated | 373553 | 535.3 |
-| 31 | fishyfins | evaluated | 08f1ac | 534.9 |
+| 30 | fishyfins | evaluated | 8021c3 | 535.6 |
+| 31 | sjb | evaluated | 373553 | 535.3 |
 | 32 | lipphi | evaluated | a3a71b | 534.8 |
 | 33 | chickfila | evaluated | f0956d | 534.5 |
 | 34 | Licha | evaluated | 9666cd | 534.4 |
@@ -140,7 +140,7 @@ Last updated: `April 12, 2026 at 08:16:46 PM ET`
 | 58 | jbc | evaluated | 12bb20 | 169.0 |
 | 59 | yb | evaluated | ea23ab | 168.8 |
 | 60 | tif03 | evaluated | ec268d | 167.6 |
-| 61 | fishyfins | evaluated | 08f1ac | 165.4 |
+| 61 | fishyfins | evaluated | 8021c3 | 164.2 |
 | 62 | mdavalos10 | evaluated | 6e0754 | 159.3 |
 | 63 | nicknam534534 | evaluated | 83a901 | 148.4 |
 | 64 | poppyPotatoe | evaluated | eea264 | 109.8 |
@@ -201,9 +201,9 @@ Last updated: `April 12, 2026 at 08:16:46 PM ET`
 | 45 | lipphi | evaluated | a3a71b | 104.4 |
 | 46 | pallavi-srinivas | evaluated | 3c1d3c | 105.4 |
 | 47 | tuo | evaluated | 3d6d40 | 167.8 |
-| 48 | fishyfins | evaluated | 08f1ac | 305.8 |
-| 49 | dylanjhnsondj | evaluated | c4e1ab | 306.0 |
-| 50 | hw_bloss | evaluated | 4c9666 | 308.1 |
+| 48 | dylanjhnsondj | evaluated | c4e1ab | 306.0 |
+| 49 | hw_bloss | evaluated | 4c9666 | 308.1 |
+| 50 | fishyfins | evaluated | 8021c3 | 308.1 |
 | 51 | your_nickname_here | evaluated | f10b9b | 308.1 |
 | 52 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
 | 53 | brandon_lorenzo | evaluated | 67c79e | 309.2 |
@@ -276,8 +276,8 @@ Last updated: `April 12, 2026 at 08:16:46 PM ET`
 | 46 | pallavi-srinivas | evaluated | 3c1d3c | 151.0 |
 | 47 | tuo | evaluated | 3d6d40 | 162.8 |
 | 48 | dylanjhnsondj | evaluated | c4e1ab | 236.8 |
-| 49 | fishyfins | evaluated | 08f1ac | 237.6 |
-| 50 | hw_bloss | evaluated | 4c9666 | 239.1 |
+| 49 | hw_bloss | evaluated | 4c9666 | 239.1 |
+| 50 | fishyfins | evaluated | 8021c3 | 239.1 |
 | 51 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
 | 52 | your_nickname_here | evaluated | f10b9b | 246.4 |
 | 53 | pick_a_nickname | evaluated | c47490 | 249.3 |

@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 12, 2026 at 08:16:46 PM ET`
+Last updated: `April 12, 2026 at 08:26:24 PM ET`
 
 ## R1 (tok/s)
 
@@ -27,8 +27,8 @@ Last updated: `April 12, 2026 at 08:16:46 PM ET`
 | 19 | TA | submission.py | a6e863 | 556.6 |
 | 20 | ishan-pat | submission.py | 99aac6 | 553.2 |
 | 21 | ss4478 | develop.py | ece454 | 552.9 |
-| 22 | gm | develop.py | a57e9f | 548.9 |
-| 23 | co-smith | submission.py | 00ede6 | 548.6 |
+| 22 | co-smith | develop.py | 00ede6 | 549.9 |
+| 23 | gm | develop.py | a57e9f | 548.9 |
 | 24 | happyface | develop.py | f86cad | 545.6 |
 | 25 | leoli | submission.py | 7ef4b9 | 544.9 |
 | 26 | Licha | submission.py | 7cca48 | 544.4 |
@@ -193,11 +193,11 @@ Last updated: `April 12, 2026 at 08:16:46 PM ET`
 | 43 | kade_lin_is_here | submission.py | 0d2dc7 | 94.2 |
 | 44 | 13rabbit | submission.py | 49d27b | 97.1 |
 | 45 | jl | submission.py | e6ce85 | 101.9 |
-| 46 | pallavi-srinivas | submission.py | 72c655 | 104.2 |
-| 47 | lipphi | develop.py | d58cae | 104.4 |
-| 48 | tuo | submission.py | 92c00e | 166.9 |
-| 49 | nicknam534534 | develop.py | cd4c9b | 210.5 |
-| 50 | co-smith | submission.py | 2c710f | 288.1 |
+| 46 | co-smith | develop.py | 00ede6 | 102.0 |
+| 47 | pallavi-srinivas | submission.py | 72c655 | 104.2 |
+| 48 | lipphi | develop.py | d58cae | 104.4 |
+| 49 | tuo | submission.py | 92c00e | 166.9 |
+| 50 | nicknam534534 | develop.py | cd4c9b | 210.5 |
 | 51 | fishyfins | submission.py | 6c0e20 | 304.6 |
 | 52 | dylanjhnsondj | submission.py | c4e1ab | 306.0 |
 | 53 | hw_bloss | submission.py | b2767b | 306.7 |

@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 12, 2026 at 08:16:46 PM ET`
+Last updated: `April 12, 2026 at 08:26:24 PM ET`
 
 ## Pages
 
@@ -62,8 +62,8 @@ Last updated: `April 12, 2026 at 08:16:46 PM ET`
 | 48 | Sulaiman Alam | evaluated | c7ede2 | 21.7/5.8/27.5 | 0.545 | 511.2 | 197.4 | 308.7 | 245.0 |
 | 49 | your_nickname_here | evaluated | f10b9b | 22.4/6.1/28.5 | 0.539 | 557.8 | 173.1 | 308.1 | 246.4 |
 | 50 | dylanjhnsondj | evaluated | c4e1ab | 59.0/6.2/65.1 | 0.535 | 527.3 | 169.6 | 306.0 | 236.8 |
-| 51 | fishyfins | evaluated | 08f1ac | 76.9/6.2/83.1 | 0.533 | 534.9 | 165.4 | 305.8 | 237.6 |
-| 52 | hw_bloss | evaluated | 4c9666 | 23.8/6.2/30.0 | 0.531 | 522.2 | 169.1 | 308.1 | 239.1 |
+| 51 | hw_bloss | evaluated | 4c9666 | 23.8/6.2/30.0 | 0.531 | 522.2 | 169.1 | 308.1 | 239.1 |
+| 52 | fishyfins | evaluated | 8021c3 | 29.5/6.3/35.8 | 0.530 | 535.6 | 164.2 | 308.1 | 239.1 |
 | 53 | brandon_lorenzo | evaluated | 67c79e | 19.7/6.2/26.0 | 0.526 | 524.1 | 169.8 | 309.2 | 249.6 |
 | 54 | pick_a_nickname | evaluated | c47490 | 27.2/6.2/33.4 | 0.526 | 525.7 | 169.9 | 309.4 | 249.3 |
 | 55 | axel4 | evaluated | d11960 | 19.7/6.2/25.9 | 0.525 | 523.6 | 169.7 | 310.4 | 249.3 |
