@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 09:56:04 PM ET`
+Last updated: `April 12, 2026 at 10:04:38 PM ET`
 
 ## R1 (tok/s)
 
@@ -72,7 +72,7 @@ Last updated: `April 12, 2026 at 09:56:04 PM ET`
 | 64 | tuo | evaluated | 3d6d40 | 494.8 |
 | 65 | poppyPotatoe | evaluated | eea264 | 144.2 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | goingbananas | failed | 7f35a8 |  |
+|  | goingbananas | failed | fc1133 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -147,7 +147,7 @@ Last updated: `April 12, 2026 at 09:56:04 PM ET`
 | 64 | poppyPotatoe | evaluated | eea264 | 109.8 |
 | 65 | co-smith | evaluated | 407280 | 96.9 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | goingbananas | failed | 7f35a8 |  |
+|  | goingbananas | failed | fc1133 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -222,7 +222,7 @@ Last updated: `April 12, 2026 at 09:56:04 PM ET`
 | 64 | castillo | evaluated | 0e93de | 311.4 |
 | 65 | yb | evaluated | ea23ab | 312.3 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | goingbananas | failed | 7f35a8 |  |
+|  | goingbananas | failed | fc1133 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -297,7 +297,7 @@ Last updated: `April 12, 2026 at 09:56:04 PM ET`
 | 64 | jbc | evaluated | 12bb20 | 251.3 |
 | 65 | poppyPotatoe | evaluated | eea264 | 251.9 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | goingbananas | failed | 7f35a8 |  |
+|  | goingbananas | failed | fc1133 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
