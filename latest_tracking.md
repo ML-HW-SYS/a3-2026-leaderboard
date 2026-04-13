@@ -1,15 +1,22 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 03:47:22 PM ET`
+Last updated: `April 13, 2026 at 04:00:10 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 03:55 PM ET | ck | evaluated |  | submission.py | 3d55c3 | 51.8/15.8/67.5 | 555.2 | 327.6 | 1067.1 | 2252.6 |
+| Apr 13 03:51 PM ET | kade_lin_is_here | failed_correctness | Correctness FAIL \| R1 (87.86%), R2 (92.00%) \| max_abs_diff=15.93 | submission.py | f52035 | 62.2/3.2/65.4 | 557.1 | 383.9 | 93.7 | 131.5 |
+| Apr 13 03:48 PM ET | Shengwei | evaluated |  | submission.py | f78d37 | 21.0/2.7/23.6 | 537.7 | 361.2 | 26.3 | 47.5 |
+| Apr 13 03:43 PM ET | onlythingIcanDOisTAPEOUT | evaluated |  | submission.py | b40e4a | 35.9/3.2/39.0 | 536.3 | 276.6 | 32.5 | 64.4 |
 | Apr 13 03:39 PM ET | ishan-pat | evaluated |  | submission.py | a4749e | 40.6/2.7/43.3 | 551.0 | 351.9 | 25.7 | 51.6 |
+| Apr 13 03:39 PM ET | ishan-pat | evaluated |  | develop.py | a4749e | 22.8/2.7/25.5 | 552.8 | 350.9 | 25.9 | 52.0 |
+| Apr 13 03:38 PM ET | jbc | evaluated |  | submission.py | a225b8 | 38.4/3.1/41.5 | 556.6 | 332.7 | 71.4 | 89.0 |
 | Apr 13 03:37 PM ET | jet2holiday | evaluated |  | submission.py | 0bf782 | 44.3/3.8/48.1 | 532.9 | 251.8 | 77.1 | 127.0 |
 | Apr 13 03:36 PM ET | Shengwei | evaluated |  | submission.py | ee4422 | 19.7/2.7/22.4 | 536.9 | 361.9 | 26.6 | 47.6 |
 | Apr 13 03:36 PM ET | ck | evaluated |  | submission.py | 7ab0a8 | 37.9/2.7/40.6 | 552.7 | 365.2 | 35.4 | 64.7 |
 | Apr 13 03:34 PM ET | kade_lin_is_here | failed_correctness | R1: SETUP: ERR: Unsupported: Observed exception Explanation: Dynamo found no exception handler at the top-level compi... | submission.py | 8531cc | 29.7/0.9/30.6 | 0.0 | 0.0 | 94.8 | 133.3 |
 | Apr 13 03:32 PM ET | poppyPotatoe | evaluated |  | submission.py | e01605 | 14.6/8.6/23.2 | 165.2 | 124.1 | 209.9 | 133.8 |
+| Apr 13 03:32 PM ET | poppyPotatoe | evaluated |  | develop.py | e01605 | 14.7/8.6/23.3 | 160.7 | 127.2 | 210.0 | 133.9 |
 | Apr 13 03:32 PM ET | ck | failed_correctness | R1: SETUP: ERR: RuntimeError: The size of tensor a (14) must match the size of tensor b (2) at non-singleton dimensio... | submission.py | 2a8964 | 16.5/2.3/18.8 | 0.0 | 0.0 | 312.7 | 251.5 |
 | Apr 13 03:25 PM ET | poppyPotatoe | evaluated |  | submission.py | 804d9d | 16.4/10.0/26.4 | 153.5 | 115.7 | 310.1 | 249.0 |
 | Apr 13 03:23 PM ET | kaimaeda | evaluated |  | submission.py | 2ef03f | 20.8/3.7/24.6 | 522.0 | 257.6 | 66.7 | 128.3 |
