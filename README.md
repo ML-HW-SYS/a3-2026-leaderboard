@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 13, 2026 at 02:26:32 PM ET`
+Last updated: `April 13, 2026 at 02:35:49 PM ET`
 
 ## Pages
 
@@ -82,9 +82,11 @@ Last updated: `April 13, 2026 at 02:26:32 PM ET`
 | 68 | yb | evaluated | f606cb | 39.5/6.2/45.8 | 0.524 | 524.1 | 169.1 | 311.0 | 250.4 |
 | 69 | ck | evaluated | 5b7378 | 38.9/6.3/45.2 | 0.523 | 521.2 | 168.9 | 311.5 | 250.9 |
 | 70 | tif03 | evaluated | ec268d | 19.7/6.3/26.0 | 0.518 | 501.2 | 167.6 | 309.4 | 249.5 |
-| 71 | jbc | evaluated | 5d9d34 | 29.9/6.7/36.6 | 0.508 | 530.5 | 146.4 | 309.7 | 248.8 |
-| 72 | poppyPotatoe | evaluated | fccdc3 | 15.0/9.6/24.6 | 0.361 | 166.9 | 119.8 | 311.6 | 251.3 |
+| 71 | poppyPotatoe | evaluated | fccdc3 | 15.0/9.6/24.6 | 0.361 | 166.9 | 119.8 | 311.6 | 251.3 |
+|  | avemaria | failed | 3b3135 |  |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
+|  | jbc | failed | 79eb0b | 40.8/4.5/45.2 |  |  |  |  |  |
+|  | onlythingIcanDOisTAPEOUT | failed | 31bf98 | 36.7/3.2/39.9 |  |  |  |  |  |
 |  | siddarak | failed | d85766 | 21.8/9.2/31.0 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | TheProphet | failed | 3949b5 | 60.5/2.8/63.3 |  |  |  |  |  |

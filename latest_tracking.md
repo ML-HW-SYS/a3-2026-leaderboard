@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 02:26:32 PM ET`
+Last updated: `April 13, 2026 at 02:35:49 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 02:32 PM ET | onlythingIcanDOisTAPEOUT | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | 31bf98 | 36.7/3.2/39.9 | 534.3 | 276.5 | 32.5 | 64.2 |
+| Apr 13 02:28 PM ET | avemaria | failed_compliance | Submission compliance check failed for submission.py: \| - missing required function(s): setup, run | submission.py | 3b3135 |  |  |  |  |  |
+| Apr 13 02:23 PM ET | jbc | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | submission.py | 79eb0b | 40.8/4.5/45.2 | 529.2 | 146.5 | 0.0 | 0.0 |
 | Apr 13 02:22 PM ET | ck | evaluated |  | submission.py | 5b7378 | 38.9/6.3/45.2 | 521.2 | 168.9 | 311.5 | 250.9 |
 | Apr 13 02:20 PM ET | Shengwei | evaluated |  | submission.py | 3a2250 | 19.6/2.7/22.2 | 539.6 | 361.3 | 26.7 | 47.9 |
 | Apr 13 02:13 PM ET | goingbananas | failed_correctness | R1: ERR: subprocess failed with exit code 1 \| R2: ERR: subprocess failed with exit code 1 \| R3: ERR: subprocess faile... | develop.py | fd9212 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
