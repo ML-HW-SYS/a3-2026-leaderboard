@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 13, 2026 at 05:49:11 PM ET`
+Last updated: `April 13, 2026 at 05:57:07 PM ET`
 
 ## R1 (tok/s)
 
@@ -67,8 +67,8 @@ Last updated: `April 13, 2026 at 05:49:11 PM ET`
 | 59 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
 | 60 | vallabkaranam | evaluated | 0bdeec | 513.3 |
 | 61 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
-| 62 | kaimaeda | evaluated | dba883 | 510.7 |
-| 63 | abhik | evaluated | 0b4b08 | 507.2 |
+| 62 | abhik | evaluated | 0b4b08 | 507.2 |
+| 63 | kaimaeda | evaluated | 2dd5d0 | 505.2 |
 | 64 | nicknam534534 | evaluated | 59bdfc | 503.8 |
 | 65 | tif03 | evaluated | ec268d | 501.2 |
 | 66 | Rithvik | evaluated | 2924a0 | 495.8 |
@@ -135,7 +135,7 @@ Last updated: `April 13, 2026 at 05:49:11 PM ET`
 | 44 | Yize | evaluated | c8c9f7 | 269.9 |
 | 45 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
 | 46 | happyface | evaluated | 4ce0f3 | 263.7 |
-| 47 | kaimaeda | evaluated | dba883 | 258.6 |
+| 47 | kaimaeda | evaluated | 2dd5d0 | 257.2 |
 | 48 | nicknam534534 | evaluated | 59bdfc | 256.3 |
 | 49 | jet2holiday | evaluated | 0bf782 | 251.8 |
 | 50 | ethanchen | evaluated | ea518d | 251.2 |
@@ -206,7 +206,7 @@ Last updated: `April 13, 2026 at 05:49:11 PM ET`
 | 32 | sjb | evaluated | 373553 | 50.8 |
 | 33 | abhik | evaluated | 0b4b08 | 55.4 |
 | 34 | vallabkaranam | evaluated | 0bdeec | 57.3 |
-| 35 | kaimaeda | evaluated | dba883 | 59.0 |
+| 35 | kaimaeda | evaluated | 2dd5d0 | 59.5 |
 | 36 | act | evaluated | fce2ab | 59.5 |
 | 37 | JaneShuey | evaluated | 882419 | 59.6 |
 | 38 | Junyi Li | evaluated | c7a1b3 | 60.9 |
@@ -298,7 +298,7 @@ Last updated: `April 13, 2026 at 05:49:11 PM ET`
 | 41 | JaneShuey | evaluated | 882419 | 111.1 |
 | 42 | Junyi Li | evaluated | c7a1b3 | 113.1 |
 | 43 | beratcelik | evaluated | 863a89 | 113.8 |
-| 44 | kaimaeda | evaluated | dba883 | 114.7 |
+| 44 | kaimaeda | evaluated | 2dd5d0 | 115.1 |
 | 45 | Licha | evaluated | 9666cd | 115.6 |
 | 46 | ethanchen | evaluated | ea518d | 123.6 |
 | 47 | nicknam534534 | evaluated | 59bdfc | 126.3 |

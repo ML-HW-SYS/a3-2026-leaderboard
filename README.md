@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 13, 2026 at 05:49:11 PM ET`
+Last updated: `April 13, 2026 at 05:57:07 PM ET`
 
 ## Pages
 
@@ -52,7 +52,7 @@ Last updated: `April 13, 2026 at 05:49:11 PM ET`
 | 38 | act | evaluated | fce2ab | 78.5/3.1/81.6 | 1.173 | 560.1 | 332.5 | 59.5 | 109.5 |
 | 39 | abhik | evaluated | 0b4b08 | 19.4/3.3/22.6 | 1.159 | 507.2 | 319.2 | 55.4 | 107.2 |
 | 40 | vallabkaranam | evaluated | 0bdeec | 19.7/3.3/23.0 | 1.150 | 513.3 | 318.5 | 57.3 | 108.2 |
-| 41 | kaimaeda | evaluated | dba883 | 47.7/3.7/51.4 | 1.066 | 510.7 | 258.6 | 59.0 | 114.7 |
+| 41 | kaimaeda | evaluated | 2dd5d0 | 26.3/3.7/30.0 | 1.059 | 505.2 | 257.2 | 59.5 | 115.1 |
 | 42 | Licha | evaluated | 9666cd | 18.9/3.8/22.7 | 1.042 | 534.4 | 238.1 | 61.8 | 115.6 |
 | 43 | beratcelik | evaluated | 863a89 | 51.8/3.9/55.6 | 1.027 | 564.3 | 231.2 | 68.2 | 113.8 |
 | 44 | nicknam534534 | evaluated | 59bdfc | 33.5/3.8/37.2 | 1.011 | 503.8 | 256.3 | 64.8 | 126.3 |
