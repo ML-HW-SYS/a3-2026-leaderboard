@@ -1,16 +1,22 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 06:49:39 PM ET`
+Last updated: `April 13, 2026 at 07:00:16 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 06:51 PM ET | kaimaeda | evaluated |  | develop.py | dfd931 | 28.0/2.9/30.9 | 525.2 | 411.0 | 56.5 | 109.8 |
+| Apr 13 06:49 PM ET | co-smith | failed_correctness | R3: SETUP: ERR: RuntimeError: Either mode or options can be specified, but both can't be specified at the same time. ... | submission.py | 13e3ee | 20.4/3.5/23.9 | 440.0 | 220.2 | 0.0 | 0.0 |
+| Apr 13 06:48 PM ET | pick_a_nickname | evaluated |  | submission.py | c8a863 | 29.1/3.8/32.9 | 521.6 | 255.0 | 71.2 | 127.0 |
 | Apr 13 06:44 PM ET | pick_a_nickname | failed_correctness | R2: SETUP: ERR: ValueError: block_mask was created for block_mask.shape=(1, 14, 4096, 4096) but got q_len=4096 and kv... | submission.py | 8a39b9 | 18.8/5.0/23.8 | 522.8 | 0.0 | 621.0 | 383.1 |
 | Apr 13 06:40 PM ET | yb | evaluated |  | submission.py | 1e1b29 | 20.3/6.2/26.5 | 521.0 | 174.0 | 310.5 | 250.7 |
+| Apr 13 06:39 PM ET | goingbananas | evaluated |  | develop.py | 162a5a | 19.6/3.6/23.2 | 534.6 | 306.8 | 104.2 | 149.8 |
 | Apr 13 06:38 PM ET | mdavalos10 | evaluated |  | submission.py | af3233 | 22.0/5.7/27.7 | 529.3 | 177.8 | 279.7 | 189.4 |
+| Apr 13 06:38 PM ET | mdavalos10 | evaluated |  | develop.py | af3233 | 22.0/5.7/27.7 | 528.5 | 177.8 | 279.7 | 189.5 |
 | Apr 13 06:34 PM ET | co-smith | failed_correctness | R3: SETUP: ERR: RuntimeError: Either mode or options can be specified, but both can't be specified at the same time. ... | develop.py | 984211 | 20.4/3.5/23.9 | 445.8 | 219.8 | 0.0 | 0.0 |
 | Apr 13 06:33 PM ET | kaimaeda | evaluated |  | submission.py | 4360ef | 78.1/2.9/80.9 | 528.1 | 410.7 | 56.3 | 109.4 |
 | Apr 13 06:32 PM ET | pick_a_nickname | failed_correctness | R2: SETUP: ERR: ValueError: Expect query and key/value to have the same number of heads but got Hq=14 and Hkv=2. Try ... | submission.py | 1aebd8 | 28.1/1.0/29.1 | 524.3 | 0.0 | 0.0 | 0.0 |
 | Apr 13 06:32 PM ET | jbc | evaluated |  | submission.py | 717262 | 41.6/2.9/44.5 | 550.9 | 362.5 | 68.6 | 82.8 |
+| Apr 13 06:32 PM ET | jbc | evaluated |  | develop.py | 717262 | 18.8/2.9/21.8 | 556.5 | 362.6 | 68.7 | 82.6 |
 | Apr 13 06:32 PM ET | yb | evaluated |  | submission.py | e45d77 | 20.3/6.2/26.5 | 520.0 | 173.6 | 311.1 | 249.7 |
 | Apr 13 06:26 PM ET | TheProphet | failed_compliance | Submission compliance check failed for submission.py: \| - run(...) must have arguments exactly `(model, dataset_chunk)` | submission.py | be4b32 |  |  |  |  |  |
 | Apr 13 06:20 PM ET | chyyy | evaluated |  | develop.py | 49ba80 | 41.2/2.4/43.6 | 555.3 | 427.4 | 25.9 | 49.7 |
