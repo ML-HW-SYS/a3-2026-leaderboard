@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 12:53:45 AM ET`
+Last updated: `April 13, 2026 at 01:03:20 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 12:59 AM ET | ck | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | submission.py | 2f0ddd | 41.5/30.6/72.2 | 71.9 | 33.3 | 2028.1 | 0.0 |
+| Apr 13 12:54 AM ET | jbc | evaluated |  | submission.py | a37029 | 27.1/6.2/33.4 | 526.8 | 169.0 | 311.3 | 250.0 |
 | Apr 13 12:38 AM ET | happyface | evaluated |  | develop.py | 1d5a76 | 23.2/3.5/26.7 | 538.0 | 264.4 | 57.4 | 108.0 |
 | Apr 13 12:37 AM ET | ck | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | cdce71 | 38.6/6.1/44.7 | 532.0 | 169.9 | 300.8 | 228.5 |
 | Apr 13 12:37 AM ET | ck | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | cdce71 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |

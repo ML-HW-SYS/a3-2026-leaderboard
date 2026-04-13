@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 13, 2026 at 12:53:45 AM ET`
+Last updated: `April 13, 2026 at 01:03:20 AM ET`
 
 ## R1 (tok/s)
 
@@ -49,19 +49,19 @@ Last updated: `April 13, 2026 at 12:53:45 AM ET`
 | 41 | 13rabbit | evaluated | 49d27b | 529.4 |
 | 42 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
 | 43 | Junyi Li | evaluated | c7a1b3 | 527.3 |
-| 44 | castillo | evaluated | 0e93de | 526.6 |
-| 45 | yb | evaluated | ea23ab | 525.9 |
-| 46 | pick_a_nickname | evaluated | c47490 | 525.7 |
-| 47 | jet2holiday | evaluated | 05925d | 525.4 |
-| 48 | Decode_speed | evaluated | 8b78db | 525.4 |
-| 49 | bl792 | evaluated | 09cd73 | 524.7 |
-| 50 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
-| 51 | ethanchen | evaluated | ea518d | 523.7 |
-| 52 | axel4 | evaluated | d11960 | 523.6 |
-| 53 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 54 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 55 | PurplePickle67 | evaluated | 68d34e | 520.5 |
-| 56 | jbc | evaluated | 12bb20 | 520.4 |
+| 44 | jbc | evaluated | a37029 | 526.8 |
+| 45 | castillo | evaluated | 0e93de | 526.6 |
+| 46 | yb | evaluated | ea23ab | 525.9 |
+| 47 | pick_a_nickname | evaluated | c47490 | 525.7 |
+| 48 | jet2holiday | evaluated | 05925d | 525.4 |
+| 49 | Decode_speed | evaluated | 8b78db | 525.4 |
+| 50 | bl792 | evaluated | 09cd73 | 524.7 |
+| 51 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
+| 52 | ethanchen | evaluated | ea518d | 523.7 |
+| 53 | axel4 | evaluated | d11960 | 523.6 |
+| 54 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 55 | yoursun1220 | evaluated | d8b590 | 521.8 |
+| 56 | PurplePickle67 | evaluated | 68d34e | 520.5 |
 | 57 | goingbananas | evaluated | 629a61 | 519.4 |
 | 58 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
 | 59 | vallabkaranam | evaluated | 0bdeec | 513.3 |
@@ -72,7 +72,7 @@ Last updated: `April 13, 2026 at 12:53:45 AM ET`
 | 64 | Rithvik | evaluated | 2924a0 | 495.8 |
 | 65 | tuo | evaluated | 3d6d40 | 494.8 |
 | 66 | poppyPotatoe | evaluated | eea264 | 144.2 |
-|  | ck | failed | cdce71 |  |
+|  | ck | failed | 2f0ddd |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | hngydn20 | failed | 80c083 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
@@ -143,13 +143,13 @@ Last updated: `April 13, 2026 at 12:53:45 AM ET`
 | 58 | jet2holiday | evaluated | 05925d | 169.1 |
 | 59 | hw_bloss | evaluated | 4c9666 | 169.1 |
 | 60 | castillo | evaluated | 0e93de | 169.0 |
-| 61 | jbc | evaluated | 12bb20 | 169.0 |
+| 61 | jbc | evaluated | a37029 | 169.0 |
 | 62 | yb | evaluated | ea23ab | 168.8 |
 | 63 | goingbananas | evaluated | 629a61 | 168.3 |
 | 64 | tif03 | evaluated | ec268d | 167.6 |
 | 65 | poppyPotatoe | evaluated | eea264 | 109.8 |
 | 66 | co-smith | evaluated | 407280 | 96.9 |
-|  | ck | failed | cdce71 |  |
+|  | ck | failed | 2f0ddd |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | hngydn20 | failed | 80c083 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
@@ -221,12 +221,12 @@ Last updated: `April 13, 2026 at 12:53:45 AM ET`
 | 59 | axel4 | evaluated | d11960 | 310.4 |
 | 60 | yoursun1220 | evaluated | d8b590 | 310.7 |
 | 61 | jet2holiday | evaluated | 05925d | 311.1 |
-| 62 | jbc | evaluated | 12bb20 | 311.3 |
+| 62 | jbc | evaluated | a37029 | 311.3 |
 | 63 | poppyPotatoe | evaluated | eea264 | 311.3 |
 | 64 | castillo | evaluated | 0e93de | 311.4 |
 | 65 | goingbananas | evaluated | 629a61 | 311.7 |
 | 66 | yb | evaluated | ea23ab | 312.3 |
-|  | ck | failed | cdce71 |  |
+|  | ck | failed | 2f0ddd |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | hngydn20 | failed | 80c083 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
@@ -295,15 +295,15 @@ Last updated: `April 13, 2026 at 12:53:45 AM ET`
 | 56 | axel4 | evaluated | d11960 | 249.3 |
 | 57 | tif03 | evaluated | ec268d | 249.5 |
 | 58 | brandon_lorenzo | evaluated | 67c79e | 249.6 |
-| 59 | yoursun1220 | evaluated | d8b590 | 250.1 |
-| 60 | mdavalos10 | evaluated | eca698 | 250.2 |
-| 61 | castillo | evaluated | 0e93de | 250.4 |
-| 62 | goingbananas | evaluated | 629a61 | 250.6 |
-| 63 | yb | evaluated | ea23ab | 250.6 |
-| 64 | jet2holiday | evaluated | 05925d | 251.0 |
-| 65 | jbc | evaluated | 12bb20 | 251.3 |
+| 59 | jbc | evaluated | a37029 | 250.0 |
+| 60 | yoursun1220 | evaluated | d8b590 | 250.1 |
+| 61 | mdavalos10 | evaluated | eca698 | 250.2 |
+| 62 | castillo | evaluated | 0e93de | 250.4 |
+| 63 | goingbananas | evaluated | 629a61 | 250.6 |
+| 64 | yb | evaluated | ea23ab | 250.6 |
+| 65 | jet2holiday | evaluated | 05925d | 251.0 |
 | 66 | poppyPotatoe | evaluated | eea264 | 251.9 |
-|  | ck | failed | cdce71 |  |
+|  | ck | failed | 2f0ddd |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | hngydn20 | failed | 80c083 |  |
 |  | kade_lin_is_here | failed | 104152 |  |

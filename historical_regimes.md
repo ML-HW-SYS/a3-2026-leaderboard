@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 12:53:45 AM ET`
+Last updated: `April 13, 2026 at 01:03:20 AM ET`
 
 ## R1 (tok/s)
 
@@ -57,18 +57,18 @@ Last updated: `April 13, 2026 at 12:53:45 AM ET`
 | 49 | dylanjhnsondj | develop.py | 55a3fd | 528.5 |
 | 50 | ethanchen | submission.py | a0d359 | 528.1 |
 | 51 | Rithvik | submission.py | 1a7556 | 527.1 |
-| 52 | castillo | submission.py | 0e93de | 526.6 |
-| 53 | yb | submission.py | ea23ab | 525.9 |
-| 54 | nicknam534534 | develop.py | 83a901 | 525.8 |
-| 55 | pick_a_nickname | submission.py | c47490 | 525.7 |
-| 56 | jet2holiday | submission.py | 05925d | 525.4 |
-| 57 | brandon_lorenzo | submission.py | 494304 | 525.0 |
-| 58 | axel4 | submission.py | 7f216f | 524.8 |
-| 59 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
-| 60 | yoursun1220 | submission.py | f4e2be | 524.2 |
-| 61 | hw_bloss | submission.py | 2d26da | 523.5 |
-| 62 | PurplePickle67 | submission.py | 68d34e | 520.5 |
-| 63 | jbc | submission.py | 12bb20 | 520.4 |
+| 52 | jbc | submission.py | a37029 | 526.8 |
+| 53 | castillo | submission.py | 0e93de | 526.6 |
+| 54 | yb | submission.py | ea23ab | 525.9 |
+| 55 | nicknam534534 | develop.py | 83a901 | 525.8 |
+| 56 | pick_a_nickname | submission.py | c47490 | 525.7 |
+| 57 | jet2holiday | submission.py | 05925d | 525.4 |
+| 58 | brandon_lorenzo | submission.py | 494304 | 525.0 |
+| 59 | axel4 | submission.py | 7f216f | 524.8 |
+| 60 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
+| 61 | yoursun1220 | submission.py | f4e2be | 524.2 |
+| 62 | hw_bloss | submission.py | 2d26da | 523.5 |
+| 63 | PurplePickle67 | submission.py | 68d34e | 520.5 |
 | 64 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
 | 65 | tuo | submission.py | 4274da | 507.3 |
 | 66 | tif03 | submission.py | e84053 | 501.5 |
