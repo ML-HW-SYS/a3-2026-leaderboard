@@ -1,11 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 04:42:40 PM ET`
+Last updated: `April 13, 2026 at 04:50:27 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Apr 13 04:37 PM ET | fishyfins | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | 3765df |  |  |  |  |  |
+| Apr 13 04:37 PM ET | fishyfins | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | 3765df |  |  |  |  |  |
 | Apr 13 04:29 PM ET | jbc | evaluated |  | submission.py | c950a5 | 41.4/2.9/44.3 | 555.7 | 360.8 | 68.8 | 82.5 |
+| Apr 13 04:29 PM ET | jbc | evaluated |  | develop.py | c950a5 | 18.8/3.0/21.7 | 554.8 | 360.4 | 68.9 | 82.7 |
 | Apr 13 04:29 PM ET | ck | evaluated |  | submission.py | f75094 | 36.6/2.7/39.2 | 571.9 | 373.2 | 35.1 | 64.6 |
 | Apr 13 04:28 PM ET | kaimaeda | evaluated |  | develop.py | c3ba91 | 25.1/3.7/28.8 | 511.2 | 257.7 | 60.8 | 119.6 |
 | Apr 13 04:28 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.76%) \| max_abs_diff=12.18 | submission.py | 4d6dad | 30.6/2.8/33.4 | 649.0 | 381.2 | 70.2 | 88.2 |
