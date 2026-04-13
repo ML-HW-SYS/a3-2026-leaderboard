@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 02:59:39 PM ET`
+Last updated: `April 13, 2026 at 03:11:34 PM ET`
 
 ## R1 (tok/s)
 
@@ -206,7 +206,7 @@ Last updated: `April 13, 2026 at 02:59:39 PM ET`
 | 40 | nicknam534534 | submission.py | 59bdfc | 64.8 |
 | 41 | alifim | submission.py | 701077 | 64.8 |
 | 42 | beratcelik | submission.py | 11c1b8 | 65.4 |
-| 43 | kaimaeda | submission.py | db84ae | 66.1 |
+| 43 | kaimaeda | develop.py | c1ff00 | 65.9 |
 | 44 | JasonWang07 | submission.py | f27837 | 68.2 |
 | 45 | leoli | submission.py | 5cdac4 | 71.0 |
 | 46 | ethanchen | submission.py | bf6f9e | 74.0 |
@@ -219,7 +219,7 @@ Last updated: `April 13, 2026 at 02:59:39 PM ET`
 | 53 | pallavi-srinivas | submission.py | 72c655 | 104.2 |
 | 54 | lipphi | develop.py | d58cae | 104.4 |
 | 55 | goingbananas | submission.py | 2ce123 | 104.8 |
-| 56 | hngydn20 | submission.py | c63812 | 131.9 |
+| 56 | hngydn20 | develop.py | c63812 | 131.7 |
 | 57 | tuo | submission.py | 92c00e | 166.9 |
 | 58 | fishyfins | submission.py | 6c0e20 | 304.6 |
 | 59 | dylanjhnsondj | submission.py | c4e1ab | 306.0 |

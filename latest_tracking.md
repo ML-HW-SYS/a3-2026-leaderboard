@@ -1,16 +1,22 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 02:59:39 PM ET`
+Last updated: `April 13, 2026 at 03:11:34 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 03:07 PM ET | ck | evaluated |  | submission.py | 8ef005 | 19.7/6.2/25.9 | 525.4 | 170.0 | 309.6 | 249.3 |
+| Apr 13 03:05 PM ET | yb | evaluated |  | develop.py | b9a7e3 | 19.9/6.3/26.1 | 521.4 | 169.1 | 311.4 | 251.1 |
 | Apr 13 02:58 PM ET | avemaria | evaluated |  | develop.py | 242975 | 39.7/6.4/46.1 | 524.7 | 165.7 | 322.2 | 254.8 |
+| Apr 13 02:56 PM ET | kaimaeda | evaluated |  | develop.py | c1ff00 | 44.5/3.7/48.3 | 522.6 | 257.6 | 65.9 | 127.8 |
 | Apr 13 02:53 PM ET | kaimaeda | evaluated |  | submission.py | db84ae | 19.3/3.7/23.0 | 523.3 | 257.7 | 66.1 | 127.4 |
+| Apr 13 02:52 PM ET | jbc | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | submission.py | 4895f6 | 33.6/19.9/53.5 | 525.9 | 146.1 | 3864.0 | 0.0 |
 | Apr 13 02:52 PM ET | ck | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | submission.py | 17de61 | 38.7/30.6/69.3 | 72.1 | 33.3 | 2030.4 | 0.0 |
 | Apr 13 02:46 PM ET | yb | evaluated |  | develop.py | f47a91 | 19.7/6.2/26.0 | 524.1 | 169.4 | 310.3 | 249.9 |
 | Apr 13 02:46 PM ET | your_nickname_here | evaluated |  | submission.py | 0949d0 | 48.9/6.1/55.1 | 554.1 | 172.4 | 311.5 | 250.7 |
+| Apr 13 02:46 PM ET | your_nickname_here | evaluated |  | develop.py | 0949d0 | 22.6/6.1/28.7 | 558.3 | 173.3 | 308.9 | 248.8 |
 | Apr 13 02:46 PM ET | jbc | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | submission.py | dea5f4 | 23.3/4.5/27.7 | 524.8 | 146.5 | 0.0 | 0.0 |
 | Apr 13 02:40 PM ET | hngydn20 | evaluated |  | submission.py | c63812 | 38.6/3.9/42.5 | 552.9 | 287.4 | 131.9 | 165.5 |
+| Apr 13 02:40 PM ET | hngydn20 | evaluated |  | develop.py | c63812 | 19.8/3.9/23.7 | 551.5 | 286.5 | 131.7 | 165.9 |
 | Apr 13 02:36 PM ET | yb | failed_correctness | R1: ERR: subprocess failed with exit code 1 \| R2: ERR: subprocess failed with exit code 1 \| R3: ERR: subprocess faile... | develop.py | 2676e6 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 02:36 PM ET | kaimaeda | evaluated |  | submission.py | 5c71e7 | 19.7/6.2/26.0 | 523.3 | 169.4 | 309.8 | 249.7 |
 | Apr 13 02:32 PM ET | onlythingIcanDOisTAPEOUT | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | 31bf98 | 36.7/3.2/39.9 | 534.3 | 276.5 | 32.5 | 64.2 |
