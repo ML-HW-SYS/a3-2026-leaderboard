@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 13, 2026 at 07:30:04 PM ET`
+Last updated: `April 13, 2026 at 07:42:39 PM ET`
 
 ## Pages
 
@@ -51,7 +51,7 @@ Last updated: `April 13, 2026 at 07:30:04 PM ET`
 | 37 | act | evaluated | fce2ab | 78.5/3.1/81.6 | 1.173 | 560.1 | 332.5 | 59.5 | 109.5 |
 | 38 | abhik | evaluated | 0b4b08 | 19.4/3.3/22.6 | 1.159 | 507.2 | 319.2 | 55.4 | 107.2 |
 | 39 | vallabkaranam | evaluated | 0bdeec | 19.7/3.3/23.0 | 1.150 | 513.3 | 318.5 | 57.3 | 108.2 |
-| 40 | pick_a_nickname | evaluated | 964d0c | 42.1/3.7/45.8 | 1.056 | 523.2 | 254.9 | 64.4 | 110.5 |
+| 40 | pick_a_nickname | evaluated | 5578f9 | 38.5/3.7/42.2 | 1.056 | 518.6 | 259.1 | 64.6 | 110.8 |
 | 41 | Licha | evaluated | 9666cd | 18.9/3.8/22.7 | 1.042 | 534.4 | 238.1 | 61.8 | 115.6 |
 | 42 | beratcelik | evaluated | 863a89 | 51.8/3.9/55.6 | 1.027 | 564.3 | 231.2 | 68.2 | 113.8 |
 | 43 | nicknam534534 | evaluated | 59bdfc | 33.5/3.8/37.2 | 1.011 | 503.8 | 256.3 | 64.8 | 126.3 |
@@ -62,13 +62,13 @@ Last updated: `April 13, 2026 at 07:30:04 PM ET`
 | 48 | Junyi Li | evaluated | c7a1b3 | 38.5/4.7/43.2 | 0.963 | 527.3 | 169.7 | 60.9 | 113.1 |
 | 49 | hngydn20 | evaluated | 7ec9c9 | 38.5/3.5/42.0 | 0.949 | 552.6 | 321.2 | 99.4 | 145.9 |
 | 50 | jl | evaluated | 8b6423 | 19.2/3.5/22.7 | 0.936 | 569.1 | 311.6 | 102.6 | 149.1 |
-| 51 | goingbananas | evaluated | 2ce123 | 40.5/3.6/44.2 | 0.912 | 535.5 | 307.6 | 104.8 | 150.5 |
-| 52 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
-| 53 | Bulbasaur | evaluated | dfcccd | 41.2/3.7/44.9 | 0.908 | 540.2 | 301.5 | 105.0 | 150.9 |
-| 54 | pallavi-srinivas | evaluated | 3c1d3c | 19.2/3.7/22.8 | 0.905 | 533.0 | 302.6 | 105.4 | 151.0 |
-| 55 | 13rabbit | evaluated | 49d27b | 18.7/4.1/22.8 | 0.880 | 529.4 | 234.5 | 97.1 | 141.4 |
-| 56 | tuo | evaluated | 3d6d40 | 74.5/4.9/79.3 | 0.704 | 494.8 | 204.6 | 167.8 | 162.8 |
-| 57 | co-smith | evaluated | 80f4c0 | 70.9/5.3/76.2 | 0.601 | 448.0 | 220.6 | 284.0 | 176.5 |
+| 51 | fishyfins | evaluated | 6b3edb | 70.8/3.7/74.5 | 0.924 | 543.3 | 283.7 | 101.3 | 138.3 |
+| 52 | goingbananas | evaluated | 2ce123 | 40.5/3.6/44.2 | 0.912 | 535.5 | 307.6 | 104.8 | 150.5 |
+| 53 | lipphi | evaluated | a3a71b | 40.5/3.6/44.2 | 0.911 | 534.8 | 306.7 | 104.4 | 150.9 |
+| 54 | Bulbasaur | evaluated | dfcccd | 41.2/3.7/44.9 | 0.908 | 540.2 | 301.5 | 105.0 | 150.9 |
+| 55 | pallavi-srinivas | evaluated | 3c1d3c | 19.2/3.7/22.8 | 0.905 | 533.0 | 302.6 | 105.4 | 151.0 |
+| 56 | 13rabbit | evaluated | 49d27b | 18.7/4.1/22.8 | 0.880 | 529.4 | 234.5 | 97.1 | 141.4 |
+| 57 | tuo | evaluated | 3d6d40 | 74.5/4.9/79.3 | 0.704 | 494.8 | 204.6 | 167.8 | 162.8 |
 | 58 | mdavalos10 | evaluated | af3233 | 22.0/5.7/27.7 | 0.586 | 529.3 | 177.8 | 279.7 | 189.4 |
 | 59 | Sulaiman Alam | evaluated | c7ede2 | 21.7/5.8/27.5 | 0.545 | 511.2 | 197.4 | 308.7 | 245.0 |
 | 60 | dylanjhnsondj | evaluated | c4e1ab | 59.0/6.2/65.1 | 0.535 | 527.3 | 169.6 | 306.0 | 236.8 |
@@ -84,8 +84,8 @@ Last updated: `April 13, 2026 at 07:30:04 PM ET`
 | 70 | tif03 | evaluated | ec268d | 19.7/6.3/26.0 | 0.518 | 501.2 | 167.6 | 309.4 | 249.5 |
 | 71 | poppyPotatoe | evaluated | e01605 | 14.6/8.6/23.2 | 0.469 | 165.2 | 124.1 | 209.9 | 133.8 |
 |  | avemaria | failed | 3b3135 |  |  |  |  |  |  |
+|  | co-smith | failed | b1105a | 53.4/3.6/57.0 |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
-|  | fishyfins | failed | 01eade |  |  |  |  |  |  |
 |  | henry | failed | 2190fa | 38.0/3.5/41.4 |  |  |  |  |  |
 |  | jbc | failed | 2de751 | 19.0/2.5/21.6 |  |  |  |  |  |
 |  | kade_lin_is_here | failed | 5a28f9 | 0.0/0.0/0.0 |  |  |  |  |  |

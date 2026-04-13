@@ -1,13 +1,20 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 07:30:04 PM ET`
+Last updated: `April 13, 2026 at 07:42:39 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 07:32 PM ET | avemaria | failed_compliance | Submission compliance check failed for develop.py: \| - missing required function(s): setup, run | develop.py | 61e59d |  |  |  |  |  |
+| Apr 13 07:29 PM ET | co-smith | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | submission.py | b1105a | 53.4/3.6/57.0 | 445.9 | 220.9 | 30.5 | 0.0 |
+| Apr 13 07:28 PM ET | pick_a_nickname | evaluated |  | submission.py | 5578f9 | 38.5/3.7/42.2 | 518.6 | 259.1 | 64.6 | 110.8 |
+| Apr 13 07:26 PM ET | fishyfins | evaluated |  | submission.py | 6b3edb | 70.8/3.7/74.5 | 543.3 | 283.7 | 101.3 | 138.3 |
 | Apr 13 07:22 PM ET | somita | evaluated |  | submission.py | bbe658 | 19.8/6.2/26.1 | 524.7 | 169.5 | 309.5 | 249.8 |
+| Apr 13 07:22 PM ET | somita | evaluated |  | develop.py | bbe658 | 19.8/6.3/26.0 | 521.5 | 169.3 | 311.3 | 251.3 |
 | Apr 13 07:15 PM ET | jbc | failed_correctness | Correctness FAIL \| R2 (89.30%), R3 (84.53%), R4 (85.14%) \| max_abs_diff=15.26 | submission.py | 2de751 | 19.0/2.5/21.6 | 557.8 | 405.0 | 31.3 | 58.6 |
+| Apr 13 07:15 PM ET | jbc | failed_correctness | Correctness FAIL \| R2 (89.30%), R3 (84.53%), R4 (85.14%) \| max_abs_diff=15.26 | develop.py | 2de751 | 18.7/2.5/21.3 | 556.5 | 404.7 | 31.3 | 58.7 |
 | Apr 13 07:11 PM ET | TheProphet | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | submission.py | 2d82b0 | 53.7/5.4/59.2 | 356.3 | 128.1 | 0.0 | 0.0 |
 | Apr 13 07:11 PM ET | henry | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | 2190fa | 38.0/3.5/41.4 | 535.4 | 261.7 | 66.0 | 72.1 |
+| Apr 13 07:11 PM ET | henry | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | develop.py | 2190fa | 18.9/3.5/22.3 | 531.3 | 261.7 | 66.2 | 72.0 |
 | Apr 13 07:11 PM ET | jet2holiday | evaluated |  | submission.py | 3794df | 43.6/3.8/47.5 | 531.3 | 251.9 | 77.4 | 127.1 |
 | Apr 13 07:11 PM ET | co-smith | evaluated |  | submission.py | 80f4c0 | 70.9/5.3/76.2 | 448.0 | 220.6 | 284.0 | 176.5 |
 | Apr 13 07:11 PM ET | co-smith | evaluated |  | develop.py | 80f4c0 | 39.9/5.3/45.2 | 441.8 | 221.2 | 283.1 | 176.4 |
