@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 11:01:37 PM ET`
+Last updated: `April 12, 2026 at 11:09:43 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 11:03 PM ET | 1_Core_2GHz_Colab_CPU | failed_correctness | Correctness FAIL \| R1 (94.18%), R2 (94.45%), R3 (89.55%) \| max_abs_diff=31.67 | submission.py | 4a067d | 37.1/2.8/39.9 | 537.7 | 359.0 | 34.0 | 66.5 |
 | Apr 12 10:50 PM ET | 1_Core_2GHz_Colab_CPU | evaluated |  | submission.py | d3ef07 | 36.8/2.8/39.6 | 545.3 | 360.5 | 33.9 | 66.6 |
 | Apr 12 10:41 PM ET | goingbananas | evaluated |  | submission.py | 629a61 | 19.7/6.3/26.0 | 519.4 | 168.3 | 311.7 | 250.6 |
 | Apr 12 10:41 PM ET | goingbananas | failed_correctness | R1: ERR: subprocess failed with exit code 1 \| R2: ERR: subprocess failed with exit code 1 \| R3: ERR: subprocess faile... | develop.py | 629a61 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |

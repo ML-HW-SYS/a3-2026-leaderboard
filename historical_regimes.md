@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 12, 2026 at 11:01:37 PM ET`
+Last updated: `April 12, 2026 at 11:09:43 PM ET`
 
 ## R1 (tok/s)
 
@@ -252,7 +252,7 @@ Last updated: `April 12, 2026 at 11:01:37 PM ET`
 | 27 | omermoav | submission.py | b01c0e | 64.6 |
 | 28 | blabrl | submission.py | ca60eb | 65.2 |
 | 29 | happyface | develop.py | 0aca52 | 65.7 |
-| 30 | 1_Core_2GHz_Colab_CPU | submission.py | 124a48 | 66.6 |
+| 30 | 1_Core_2GHz_Colab_CPU | submission.py | 4a067d | 66.5 |
 | 31 | JasonWang07 | develop.py | f27837 | 78.3 |
 | 32 | leoli | submission.py | 5cdac4 | 87.4 |
 | 33 | ishan-pat | submission.py | 564670 | 107.0 |
