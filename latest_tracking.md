@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 12:08:03 PM ET`
+Last updated: `April 13, 2026 at 12:16:52 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 12:00 PM ET | jbc | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 213269 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 11:47 AM ET | co-smith | evaluated |  | submission.py | 6647c3 | 29.2/5.4/34.6 | 445.2 | 219.6 | 290.9 | 188.4 |
 | Apr 13 11:47 AM ET | co-smith | failed_correctness | R3: ERR: at 117:37: p = tl.where(keep, p, 0.0) v = tl.load( v_ptr + b * stride_vb + hk * stride_vh + off \| R4: ERR: a... | develop.py | 6647c3 | 61.2/2.4/63.5 | 447.6 | 414.8 | 0.0 | 0.0 |
 | Apr 13 11:43 AM ET | jbc | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 62fd1a | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |

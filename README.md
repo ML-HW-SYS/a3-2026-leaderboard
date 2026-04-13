@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 13, 2026 at 12:08:03 PM ET`
+Last updated: `April 13, 2026 at 12:16:52 PM ET`
 
 ## Pages
 
@@ -83,7 +83,7 @@ Last updated: `April 13, 2026 at 12:08:03 PM ET`
 | 69 | poppyPotatoe | evaluated | eea264 | 17.1/10.5/27.5 | 0.340 | 144.2 | 109.8 | 311.3 | 251.9 |
 |  | ck | failed | dbcd8b | 19.9/6.2/26.1 |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
-|  | jbc | failed | 62fd1a | 0.0/0.0/0.0 |  |  |  |  |  |
+|  | jbc | failed | 213269 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | kaimaeda | failed | 24ca30 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | siddarak | failed | d85766 | 21.8/9.2/31.0 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
