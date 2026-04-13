@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 11:25:43 PM ET`
+Last updated: `April 12, 2026 at 11:33:53 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 11:27 PM ET | happyface | failed_correctness | Correctness FAIL \| R2 (88.57%), R3 (78.40%), R4 (83.54%) \| max_abs_diff=17 | develop.py | 765aad | 37.8/3.6/41.4 | 539.5 | 263.3 | 60.2 | 109.6 |
 | Apr 12 11:21 PM ET | 1_Core_2GHz_Colab_CPU | evaluated |  | submission.py | 4e42ed | 19.3/2.8/22.1 | 540.9 | 359.3 | 34.1 | 66.8 |
 | Apr 12 11:06 PM ET | TheProphet | evaluated |  | submission.py | 9402e5 | 41.7/4.2/46.0 | 589.4 | 181.5 | 65.0 | 73.0 |
 | Apr 12 11:03 PM ET | 1_Core_2GHz_Colab_CPU | failed_correctness | Correctness FAIL \| R1 (94.18%), R2 (94.45%), R3 (89.55%) \| max_abs_diff=31.67 | submission.py | 4a067d | 37.1/2.8/39.9 | 537.7 | 359.0 | 34.0 | 66.5 |
