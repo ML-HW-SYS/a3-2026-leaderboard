@@ -1,10 +1,14 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 11:14:14 AM ET`
+Last updated: `April 13, 2026 at 11:24:18 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 11:15 AM ET | kade_lin_is_here | evaluated |  | submission.py | 9c847b | 39.3/4.1/43.4 | 541.5 | 237.6 | 108.7 | 138.3 |
+| Apr 13 11:13 AM ET | jbc | failed_correctness | R1: SETUP: ERR: UnboundLocalError: cannot access local variable 'decode_plan_idx' where it is not associated with a v... | submission.py | 1e6d2f | 14.4/0.0/14.4 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 11:10 AM ET | co-smith | evaluated |  | submission.py | 92ebc9 | 30.4/5.2/35.5 | 557.2 | 220.4 | 290.1 | 188.2 |
+| Apr 13 11:10 AM ET | co-smith | evaluated |  | develop.py | 92ebc9 | 30.5/5.1/35.6 | 560.3 | 220.7 | 289.3 | 188.1 |
+| Apr 13 11:09 AM ET | TheProphet | evaluated |  | submission.py | d5575f | 38.2/6.3/44.5 | 176.4 | 164.2 | 24.1 | 46.4 |
 | Apr 13 11:02 AM ET | kaimaeda | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 24ca30 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 11:02 AM ET | kaimaeda | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | 24ca30 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 10:58 AM ET | co-smith | evaluated |  | submission.py | 4cfcca | 29.2/5.4/34.6 | 441.5 | 220.1 | 290.5 | 188.5 |

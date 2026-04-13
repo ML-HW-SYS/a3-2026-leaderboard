@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 11:14:14 AM ET`
+Last updated: `April 13, 2026 at 11:24:18 AM ET`
 
 ## R1 (tok/s)
 
@@ -23,9 +23,9 @@ Last updated: `April 13, 2026 at 11:14:14 AM ET`
 | 15 | act | develop.py | fce2ab | 562.9 |
 | 16 | JasonWang07 | submission.py | 1b4aca | 561.1 |
 | 17 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 560.4 |
-| 18 | your_nickname_here | submission.py | 59e245 | 559.6 |
-| 19 | blabrl | develop.py | 9873f9 | 559.5 |
-| 20 | co-smith | submission.py | 97af03 | 559.0 |
+| 18 | co-smith | develop.py | 92ebc9 | 560.3 |
+| 19 | your_nickname_here | submission.py | 59e245 | 559.6 |
+| 20 | blabrl | develop.py | 9873f9 | 559.5 |
 | 21 | chyyy | submission.py | 56b321 | 557.7 |
 | 22 | TA | submission.py | a6e863 | 556.6 |
 | 23 | ishan-pat | submission.py | 99aac6 | 553.2 |
@@ -40,20 +40,20 @@ Last updated: `April 13, 2026 at 11:14:14 AM ET`
 | 32 | vallabkaranam | develop.py | f3a1fe | 543.0 |
 | 33 | 13rabbit | submission.py | fe30c9 | 543.0 |
 | 34 | alifim | develop.py | ad261a | 541.7 |
-| 35 | ngoguen | submission.py | be566d | 541.1 |
-| 36 | landrum | develop.py | b61e15 | 540.9 |
-| 37 | pyjuan91 | submission.py | fe8f27 | 540.9 |
-| 38 | andrasferenczy | submission.py | 6204c7 | 540.6 |
-| 39 | stefan | develop.py | 4bac49 | 540.4 |
-| 40 | Bulbasaur | submission.py | dfcccd | 540.2 |
-| 41 | abhik | develop.py | 41a3ec | 539.5 |
-| 42 | sjb | develop.py | 3359ec | 537.0 |
-| 43 | mdavalos10 | develop.py | 6e0754 | 535.4 |
-| 44 | lipphi | submission.py | a3a71b | 534.8 |
-| 45 | gravlax | develop.py | 1f23d9 | 534.6 |
-| 46 | chickfila | submission.py | 29860a | 534.6 |
-| 47 | Yize | submission.py | c8c9f7 | 534.4 |
-| 48 | kade_lin_is_here | submission.py | 41a1de | 533.8 |
+| 35 | kade_lin_is_here | submission.py | 9c847b | 541.5 |
+| 36 | ngoguen | submission.py | be566d | 541.1 |
+| 37 | landrum | develop.py | b61e15 | 540.9 |
+| 38 | pyjuan91 | submission.py | fe8f27 | 540.9 |
+| 39 | andrasferenczy | submission.py | 6204c7 | 540.6 |
+| 40 | stefan | develop.py | 4bac49 | 540.4 |
+| 41 | Bulbasaur | submission.py | dfcccd | 540.2 |
+| 42 | abhik | develop.py | 41a3ec | 539.5 |
+| 43 | sjb | develop.py | 3359ec | 537.0 |
+| 44 | mdavalos10 | develop.py | 6e0754 | 535.4 |
+| 45 | lipphi | submission.py | a3a71b | 534.8 |
+| 46 | gravlax | develop.py | 1f23d9 | 534.6 |
+| 47 | chickfila | submission.py | 29860a | 534.6 |
+| 48 | Yize | submission.py | c8c9f7 | 534.4 |
 | 49 | Decode_speed | submission.py | 236fa2 | 533.3 |
 | 50 | Junyi Li | submission.py | 2e381b | 529.4 |
 | 51 | bl792 | submission.py | 3b3a8a | 528.5 |
