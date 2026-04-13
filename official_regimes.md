@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 13, 2026 at 11:24:18 AM ET`
+Last updated: `April 13, 2026 at 11:31:56 AM ET`
 
 ## R1 (tok/s)
 
@@ -76,6 +76,7 @@ Last updated: `April 13, 2026 at 11:24:18 AM ET`
 | 68 | poppyPotatoe | evaluated | eea264 | 144.2 |
 |  | ck | failed | dbcd8b |  |
 |  | dhanushikka | failed | 14b1fd |  |
+|  | JaneShuey | failed | 4f504b |  |
 |  | jbc | failed | 1e6d2f |  |
 |  | kaimaeda | failed | 24ca30 |  |
 |  | siddarak | failed | d85766 |  |
@@ -155,6 +156,7 @@ Last updated: `April 13, 2026 at 11:24:18 AM ET`
 | 68 | poppyPotatoe | evaluated | eea264 | 109.8 |
 |  | ck | failed | dbcd8b |  |
 |  | dhanushikka | failed | 14b1fd |  |
+|  | JaneShuey | failed | 4f504b |  |
 |  | jbc | failed | 1e6d2f |  |
 |  | kaimaeda | failed | 24ca30 |  |
 |  | siddarak | failed | d85766 |  |
@@ -234,6 +236,7 @@ Last updated: `April 13, 2026 at 11:24:18 AM ET`
 | 68 | yb | evaluated | ea23ab | 312.3 |
 |  | ck | failed | dbcd8b |  |
 |  | dhanushikka | failed | 14b1fd |  |
+|  | JaneShuey | failed | 4f504b |  |
 |  | jbc | failed | 1e6d2f |  |
 |  | kaimaeda | failed | 24ca30 |  |
 |  | siddarak | failed | d85766 |  |
@@ -313,6 +316,7 @@ Last updated: `April 13, 2026 at 11:24:18 AM ET`
 | 68 | poppyPotatoe | evaluated | eea264 | 251.9 |
 |  | ck | failed | dbcd8b |  |
 |  | dhanushikka | failed | 14b1fd |  |
+|  | JaneShuey | failed | 4f504b |  |
 |  | jbc | failed | 1e6d2f |  |
 |  | kaimaeda | failed | 24ca30 |  |
 |  | siddarak | failed | d85766 |  |
