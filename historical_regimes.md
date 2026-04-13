@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 09:59:04 AM ET`
+Last updated: `April 13, 2026 at 10:07:48 AM ET`
 
 ## R1 (tok/s)
 
@@ -159,7 +159,7 @@ Last updated: `April 13, 2026 at 09:59:04 AM ET`
 | 1 | - - | submission.py | adc0f3 | 21.8 |
 | 2 | TheProphet | develop.py | cc54b3 | 24.0 |
 | 3 | chyyy | submission.py | 34cc06 | 24.8 |
-| 4 | Decode_speed | submission.py | 8b78db | 25.0 |
+| 4 | Decode_speed | submission.py | d54f1d | 24.9 |
 | 5 | ss4478 | develop.py | 93d739 | 25.9 |
 | 6 | ngoguen | submission.py | ecab75 | 26.3 |
 | 7 | Shengwei | submission.py | 327428 | 26.6 |
@@ -234,7 +234,7 @@ Last updated: `April 13, 2026 at 09:59:04 AM ET`
 | --- | --- | --- | --- | --- |
 | 1 | - - | submission.py | 442030 | 44.4 |
 | 2 | TheProphet | develop.py | 5b306e | 46.2 |
-| 3 | Decode_speed | develop.py | 8b78db | 46.7 |
+| 3 | Decode_speed | submission.py | d54f1d | 46.2 |
 | 4 | chyyy | develop.py | 34cc06 | 47.5 |
 | 5 | Rithvik | submission.py | 1523b4 | 47.6 |
 | 6 | Shengwei | submission.py | 327428 | 47.9 |
