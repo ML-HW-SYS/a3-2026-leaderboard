@@ -1,10 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 07:12:01 AM ET`
+Last updated: `April 13, 2026 at 07:21:23 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 07:13 AM ET | TheProphet | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | submission.py | 1ea373 | 59.7/3.7/63.5 | 589.3 | 179.3 | 0.0 | 0.0 |
 | Apr 13 07:08 AM ET | Bulbasaur | evaluated |  | submission.py | dfcccd | 41.2/3.7/44.9 | 540.2 | 301.5 | 105.0 | 150.9 |
+| Apr 13 07:08 AM ET | Bulbasaur | evaluated |  | develop.py | dfcccd | 19.8/3.7/23.4 | 538.5 | 302.4 | 103.8 | 150.1 |
 | Apr 13 06:57 AM ET | TheProphet | evaluated |  | submission.py | da19a9 | 60.3/2.9/63.2 | 591.7 | 350.9 | 63.4 | 72.1 |
 | Apr 13 04:25 AM ET | chyyy | failed_correctness | Correctness FAIL \| R2 (100.00%) \| max_abs_diff=inf | develop.py | 717998 | 61.0/2.4/63.4 | 556.5 | 433.6 | 25.0 | 48.5 |
 | Apr 13 02:25 AM ET | hngydn20 | evaluated |  | submission.py | 630c81 | 40.2/5.7/45.9 | 550.4 | 197.8 | 309.0 | 247.9 |

@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 07:12:01 AM ET`
+Last updated: `April 13, 2026 at 07:21:23 AM ET`
 
 ## R1 (tok/s)
 
@@ -112,7 +112,7 @@ Last updated: `April 13, 2026 at 07:12:01 AM ET`
 | 29 | pallavi-srinivas | submission.py | 26a6d9 | 307.4 |
 | 30 | lipphi | submission.py | a3a71b | 306.7 |
 | 31 | PurplePickle67 | submission.py | 68d34e | 303.7 |
-| 32 | Bulbasaur | submission.py | dfcccd | 301.5 |
+| 32 | Bulbasaur | develop.py | dfcccd | 302.4 |
 | 33 | TA | submission.py | 324cb8 | 295.5 |
 | 34 | beratcelik | submission.py | 7c87c2 | 294.0 |
 | 35 | ngoguen | submission.py | ecab75 | 282.6 |
@@ -204,9 +204,9 @@ Last updated: `April 13, 2026 at 07:12:01 AM ET`
 | 46 | 13rabbit | submission.py | 49d27b | 97.1 |
 | 47 | jl | submission.py | e6ce85 | 101.9 |
 | 48 | co-smith | develop.py | 00ede6 | 102.0 |
-| 49 | pallavi-srinivas | submission.py | 72c655 | 104.2 |
-| 50 | lipphi | develop.py | d58cae | 104.4 |
-| 51 | Bulbasaur | submission.py | dfcccd | 105.0 |
+| 49 | Bulbasaur | develop.py | dfcccd | 103.8 |
+| 50 | pallavi-srinivas | submission.py | 72c655 | 104.2 |
+| 51 | lipphi | develop.py | d58cae | 104.4 |
 | 52 | tuo | submission.py | 92c00e | 166.9 |
 | 53 | fishyfins | submission.py | 6c0e20 | 304.6 |
 | 54 | dylanjhnsondj | submission.py | c4e1ab | 306.0 |
@@ -280,8 +280,8 @@ Last updated: `April 13, 2026 at 07:12:01 AM ET`
 | 46 | 13rabbit | submission.py | 49d27b | 141.4 |
 | 47 | jl | submission.py | e6ce85 | 148.1 |
 | 48 | pallavi-srinivas | submission.py | 72c655 | 149.7 |
-| 49 | lipphi | submission.py | a3a71b | 150.9 |
-| 50 | Bulbasaur | submission.py | dfcccd | 150.9 |
+| 49 | Bulbasaur | develop.py | dfcccd | 150.1 |
+| 50 | lipphi | submission.py | a3a71b | 150.9 |
 | 51 | tuo | submission.py | 4274da | 160.5 |
 | 52 | co-smith | submission.py | 2c710f | 187.1 |
 | 53 | fishyfins | submission.py | 6c0e20 | 232.9 |
