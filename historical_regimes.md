@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 12, 2026 at 09:03:55 PM ET`
+Last updated: `April 12, 2026 at 09:12:01 PM ET`
 
 ## R1 (tok/s)
 
@@ -183,8 +183,8 @@ Last updated: `April 12, 2026 at 09:03:55 PM ET`
 | 33 | act | submission.py | fce2ab | 59.5 |
 | 34 | Junyi Li | submission.py | c7a1b3 | 60.9 |
 | 35 | Licha | submission.py | 9666cd | 61.8 |
-| 36 | alifim | submission.py | 701077 | 64.8 |
-| 37 | nicknam534534 | develop.py | f75c41 | 65.0 |
+| 36 | nicknam534534 | submission.py | 59bdfc | 64.8 |
+| 37 | alifim | submission.py | 701077 | 64.8 |
 | 38 | beratcelik | submission.py | 11c1b8 | 65.4 |
 | 39 | JasonWang07 | submission.py | f27837 | 68.2 |
 | 40 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 70.9 |
@@ -261,7 +261,7 @@ Last updated: `April 12, 2026 at 09:03:55 PM ET`
 | 39 | Junyi Li | submission.py | c7a1b3 | 113.1 |
 | 40 | Licha | submission.py | 9666cd | 115.6 |
 | 41 | ethanchen | submission.py | bf6f9e | 123.0 |
-| 42 | nicknam534534 | develop.py | f75c41 | 127.3 |
+| 42 | nicknam534534 | submission.py | 59bdfc | 126.3 |
 | 43 | TA | submission.py | 324cb8 | 131.7 |
 | 44 | kade_lin_is_here | submission.py | 5403c9 | 137.7 |
 | 45 | 13rabbit | submission.py | 49d27b | 141.4 |
