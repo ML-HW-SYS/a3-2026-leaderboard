@@ -1,14 +1,14 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 06:55:19 AM ET`
+Last updated: `April 13, 2026 at 07:03:50 AM ET`
 
 ## R1 (tok/s)
 
 | rank | nickname | graded_file | commit | metric |
 | --- | --- | --- | --- | --- |
 | 1 | prousoglou | develop.py | 5379db | 601.0 |
-| 2 | - - | submission.py | adc0f3 | 591.4 |
-| 3 | TheProphet | submission.py | 9402e5 | 589.4 |
+| 2 | TheProphet | submission.py | da19a9 | 591.7 |
+| 3 | - - | submission.py | adc0f3 | 591.4 |
 | 4 | fishyfins | develop.py | 866448 | 580.7 |
 | 5 | jl | submission.py | e6ce85 | 574.4 |
 | 6 | zhumengzhiren | develop.py | cf2924 | 571.1 |
