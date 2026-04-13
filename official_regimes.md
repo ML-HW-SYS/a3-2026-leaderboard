@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 12, 2026 at 07:59:48 PM ET`
+Last updated: `April 12, 2026 at 08:07:55 PM ET`
 
 ## R1 (tok/s)
 
@@ -14,18 +14,18 @@ Last updated: `April 12, 2026 at 07:59:48 PM ET`
 | 6 | zionrangers | evaluated | 7758e0 | 565.7 |
 | 7 | nickname55555555 | evaluated | 68b98d | 564.6 |
 | 8 | beratcelik | evaluated | 863a89 | 564.3 |
-| 9 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 560.4 |
-| 10 | act | evaluated | fce2ab | 560.1 |
-| 11 | abarat007 | evaluated | d7f626 | 559.5 |
-| 12 | your_nickname_here | evaluated | f10b9b | 557.8 |
-| 13 | blabrl | evaluated | ca60eb | 557.4 |
-| 14 | TA | evaluated | a6e863 | 556.6 |
-| 15 | chyyy | evaluated | 34cc06 | 555.7 |
-| 16 | ashaikh23 | evaluated | 84a425 | 555.4 |
-| 17 | prousoglou | evaluated | 13e8de | 554.7 |
-| 18 | ishan-pat | evaluated | 99aac6 | 553.2 |
-| 19 | ss4478 | evaluated | c35426 | 547.8 |
-| 20 | JasonWang07 | evaluated | a4b405 | 547.1 |
+| 9 | act | evaluated | fce2ab | 560.1 |
+| 10 | abarat007 | evaluated | d7f626 | 559.5 |
+| 11 | your_nickname_here | evaluated | f10b9b | 557.8 |
+| 12 | blabrl | evaluated | ca60eb | 557.4 |
+| 13 | TA | evaluated | a6e863 | 556.6 |
+| 14 | chyyy | evaluated | 34cc06 | 555.7 |
+| 15 | ashaikh23 | evaluated | 84a425 | 555.4 |
+| 16 | prousoglou | evaluated | 13e8de | 554.7 |
+| 17 | ishan-pat | evaluated | 99aac6 | 553.2 |
+| 18 | ss4478 | evaluated | c35426 | 547.8 |
+| 19 | JasonWang07 | evaluated | a4b405 | 547.1 |
+| 20 | 1_Core_2GHz_Colab_CPU | evaluated | 71f43e | 544.4 |
 | 21 | leoli | evaluated | 5cdac4 | 544.1 |
 | 22 | happyface | evaluated | 7e8b61 | 543.0 |
 | 23 | gm | evaluated | 2898fc | 541.1 |
@@ -102,7 +102,7 @@ Last updated: `April 12, 2026 at 07:59:48 PM ET`
 | 20 | Rithvik | evaluated | 2924a0 | 335.8 |
 | 21 | act | evaluated | fce2ab | 332.5 |
 | 22 | leoli | evaluated | 5cdac4 | 327.5 |
-| 23 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 326.5 |
+| 23 | 1_Core_2GHz_Colab_CPU | evaluated | 71f43e | 323.9 |
 | 24 | abhik | evaluated | 0b4b08 | 319.2 |
 | 25 | vallabkaranam | evaluated | 0bdeec | 318.5 |
 | 26 | ss4478 | evaluated | c35426 | 312.1 |
@@ -192,9 +192,9 @@ Last updated: `April 12, 2026 at 07:59:48 PM ET`
 | 36 | alifim | evaluated | 701077 | 64.8 |
 | 37 | beratcelik | evaluated | 863a89 | 68.2 |
 | 38 | JasonWang07 | evaluated | a4b405 | 70.8 |
-| 39 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 70.9 |
-| 40 | leoli | evaluated | 5cdac4 | 71.0 |
-| 41 | ethanchen | evaluated | ea518d | 74.4 |
+| 39 | leoli | evaluated | 5cdac4 | 71.0 |
+| 40 | ethanchen | evaluated | ea518d | 74.4 |
+| 41 | 1_Core_2GHz_Colab_CPU | evaluated | 71f43e | 74.7 |
 | 42 | TA | evaluated | a6e863 | 85.6 |
 | 43 | 13rabbit | evaluated | 49d27b | 97.1 |
 | 44 | jl | evaluated | 8b6423 | 102.6 |
@@ -259,7 +259,7 @@ Last updated: `April 12, 2026 at 07:59:48 PM ET`
 | 29 | TheProphet | evaluated | 48f739 | 73.0 |
 | 30 | leoli | evaluated | 5cdac4 | 87.4 |
 | 31 | JasonWang07 | evaluated | a4b405 | 88.9 |
-| 32 | 1_Core_2GHz_Colab_CPU | evaluated | 91d4be | 89.2 |
+| 32 | 1_Core_2GHz_Colab_CPU | evaluated | 71f43e | 90.8 |
 | 33 | abhik | evaluated | 0b4b08 | 107.2 |
 | 34 | ishan-pat | evaluated | 99aac6 | 108.1 |
 | 35 | vallabkaranam | evaluated | 0bdeec | 108.2 |
