@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 03:34:25 PM ET`
+Last updated: `April 13, 2026 at 03:47:22 PM ET`
 
 ## R1 (tok/s)
 
@@ -56,20 +56,20 @@ Last updated: `April 13, 2026 at 03:34:25 PM ET`
 | 48 | chickfila | submission.py | 29860a | 534.6 |
 | 49 | Yize | submission.py | c8c9f7 | 534.4 |
 | 50 | Decode_speed | submission.py | 236fa2 | 533.3 |
-| 51 | jbc | submission.py | 1cbf1d | 531.9 |
-| 52 | Junyi Li | submission.py | 2e381b | 529.4 |
-| 53 | bl792 | submission.py | 3b3a8a | 528.5 |
-| 54 | dylanjhnsondj | develop.py | 55a3fd | 528.5 |
-| 55 | ethanchen | submission.py | a0d359 | 528.1 |
-| 56 | Rithvik | submission.py | 1a7556 | 527.1 |
-| 57 | castillo | submission.py | 0e93de | 526.6 |
-| 58 | JaneShuey | submission.py | 882419 | 526.2 |
-| 59 | kaimaeda | develop.py | 337473 | 526.1 |
-| 60 | Akash Basu | submission.py | b0a419 | 525.9 |
-| 61 | yb | submission.py | ea23ab | 525.9 |
-| 62 | nicknam534534 | develop.py | 83a901 | 525.8 |
-| 63 | pick_a_nickname | submission.py | c47490 | 525.7 |
-| 64 | jet2holiday | submission.py | 05925d | 525.4 |
+| 51 | jet2holiday | submission.py | 0bf782 | 532.9 |
+| 52 | jbc | submission.py | 1cbf1d | 531.9 |
+| 53 | Junyi Li | submission.py | 2e381b | 529.4 |
+| 54 | bl792 | submission.py | 3b3a8a | 528.5 |
+| 55 | dylanjhnsondj | develop.py | 55a3fd | 528.5 |
+| 56 | ethanchen | submission.py | a0d359 | 528.1 |
+| 57 | Rithvik | submission.py | 1a7556 | 527.1 |
+| 58 | castillo | submission.py | 0e93de | 526.6 |
+| 59 | JaneShuey | submission.py | 882419 | 526.2 |
+| 60 | kaimaeda | develop.py | 337473 | 526.1 |
+| 61 | Akash Basu | submission.py | b0a419 | 525.9 |
+| 62 | yb | submission.py | ea23ab | 525.9 |
+| 63 | nicknam534534 | develop.py | 83a901 | 525.8 |
+| 64 | pick_a_nickname | submission.py | c47490 | 525.7 |
 | 65 | brandon_lorenzo | submission.py | 494304 | 525.0 |
 | 66 | avemaria | develop.py | 242975 | 524.7 |
 | 67 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
@@ -133,32 +133,32 @@ Last updated: `April 13, 2026 at 03:34:25 PM ET`
 | 46 | happyface | develop.py | f8fcfd | 265.8 |
 | 47 | kaimaeda | submission.py | db84ae | 257.7 |
 | 48 | nicknam534534 | develop.py | f75c41 | 256.9 |
-| 49 | ethanchen | submission.py | ea518d | 251.2 |
-| 50 | fishyfins | develop.py | 87e789 | 243.3 |
-| 51 | 13rabbit | develop.py | b38df9 | 243.3 |
-| 52 | bl792 | develop.py | 09cd73 | 239.0 |
-| 53 | Licha | submission.py | 094c4b | 238.2 |
-| 54 | kade_lin_is_here | submission.py | 104152 | 237.9 |
-| 55 | tuo | submission.py | 3d6d40 | 204.6 |
-| 56 | Sulaiman Alam | submission.py | c7ede2 | 197.4 |
-| 57 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 58 | mdavalos10 | develop.py | eca698 | 171.0 |
-| 59 | yoursun1220 | submission.py | 27e400 | 169.9 |
-| 60 | jbc | develop.py | a37029 | 169.9 |
-| 61 | pick_a_nickname | submission.py | c47490 | 169.9 |
-| 62 | axel4 | submission.py | ea45fd | 169.9 |
-| 63 | yb | submission.py | 2aa1a9 | 169.8 |
-| 64 | brandon_lorenzo | submission.py | 67c79e | 169.8 |
-| 65 | hw_bloss | submission.py | b2767b | 169.8 |
-| 66 | Junyi Li | submission.py | c7a1b3 | 169.7 |
-| 67 | dylanjhnsondj | submission.py | c4e1ab | 169.6 |
-| 68 | Akash Basu | submission.py | b0a419 | 169.5 |
-| 69 | castillo | develop.py | 0e93de | 169.2 |
-| 70 | jet2holiday | submission.py | 05925d | 169.1 |
+| 49 | jet2holiday | submission.py | 0bf782 | 251.8 |
+| 50 | ethanchen | submission.py | ea518d | 251.2 |
+| 51 | fishyfins | develop.py | 87e789 | 243.3 |
+| 52 | 13rabbit | develop.py | b38df9 | 243.3 |
+| 53 | bl792 | develop.py | 09cd73 | 239.0 |
+| 54 | Licha | submission.py | 094c4b | 238.2 |
+| 55 | kade_lin_is_here | submission.py | 104152 | 237.9 |
+| 56 | tuo | submission.py | 3d6d40 | 204.6 |
+| 57 | Sulaiman Alam | submission.py | c7ede2 | 197.4 |
+| 58 | your_nickname_here | submission.py | 59e245 | 173.4 |
+| 59 | mdavalos10 | develop.py | eca698 | 171.0 |
+| 60 | yoursun1220 | submission.py | 27e400 | 169.9 |
+| 61 | jbc | develop.py | a37029 | 169.9 |
+| 62 | pick_a_nickname | submission.py | c47490 | 169.9 |
+| 63 | axel4 | submission.py | ea45fd | 169.9 |
+| 64 | yb | submission.py | 2aa1a9 | 169.8 |
+| 65 | brandon_lorenzo | submission.py | 67c79e | 169.8 |
+| 66 | hw_bloss | submission.py | b2767b | 169.8 |
+| 67 | Junyi Li | submission.py | c7a1b3 | 169.7 |
+| 68 | dylanjhnsondj | submission.py | c4e1ab | 169.6 |
+| 69 | Akash Basu | submission.py | b0a419 | 169.5 |
+| 70 | castillo | develop.py | 0e93de | 169.2 |
 | 71 | tif03 | submission.py | ec268d | 167.6 |
 | 72 | avemaria | develop.py | 242975 | 165.7 |
 | 73 | JaneShuey | submission.py | 882419 | 165.2 |
-| 74 | poppyPotatoe | submission.py | fccdc3 | 119.8 |
+| 74 | poppyPotatoe | submission.py | e01605 | 124.1 |
 
 ## R3 (ms)
 
@@ -168,7 +168,7 @@ Last updated: `April 13, 2026 at 03:34:25 PM ET`
 | 2 | TheProphet | develop.py | cc54b3 | 24.0 |
 | 3 | chyyy | submission.py | 34cc06 | 24.8 |
 | 4 | Decode_speed | develop.py | d54f1d | 24.8 |
-| 5 | ishan-pat | submission.py | 598a3d | 25.9 |
+| 5 | ishan-pat | submission.py | a4749e | 25.7 |
 | 6 | ss4478 | develop.py | 93d739 | 25.9 |
 | 7 | Shengwei | submission.py | 2add11 | 26.3 |
 | 8 | ngoguen | submission.py | ecab75 | 26.3 |
@@ -203,41 +203,41 @@ Last updated: `April 13, 2026 at 03:34:25 PM ET`
 | 37 | JaneShuey | submission.py | 882419 | 59.6 |
 | 38 | Junyi Li | submission.py | c7a1b3 | 60.9 |
 | 39 | Licha | submission.py | 9666cd | 61.8 |
-| 40 | nicknam534534 | submission.py | 59bdfc | 64.8 |
-| 41 | alifim | submission.py | 701077 | 64.8 |
-| 42 | beratcelik | submission.py | 11c1b8 | 65.4 |
-| 43 | kaimaeda | develop.py | c1ff00 | 65.9 |
+| 40 | kaimaeda | develop.py | 2ef03f | 63.3 |
+| 41 | nicknam534534 | submission.py | 59bdfc | 64.8 |
+| 42 | alifim | submission.py | 701077 | 64.8 |
+| 43 | beratcelik | submission.py | 11c1b8 | 65.4 |
 | 44 | JasonWang07 | submission.py | f27837 | 68.2 |
 | 45 | leoli | submission.py | 5cdac4 | 71.0 |
 | 46 | ethanchen | submission.py | bf6f9e | 74.0 |
-| 47 | TA | submission.py | 324cb8 | 83.2 |
-| 48 | kade_lin_is_here | submission.py | 1d2e24 | 94.1 |
-| 49 | 13rabbit | submission.py | 49d27b | 97.1 |
-| 50 | jl | submission.py | e6ce85 | 101.9 |
-| 51 | co-smith | develop.py | 00ede6 | 102.0 |
-| 52 | Bulbasaur | develop.py | dfcccd | 103.8 |
-| 53 | pallavi-srinivas | submission.py | 72c655 | 104.2 |
-| 54 | lipphi | develop.py | d58cae | 104.4 |
-| 55 | goingbananas | submission.py | 2ce123 | 104.8 |
-| 56 | hngydn20 | develop.py | c63812 | 131.7 |
-| 57 | tuo | submission.py | 92c00e | 166.9 |
-| 58 | fishyfins | submission.py | 6c0e20 | 304.6 |
-| 59 | dylanjhnsondj | submission.py | c4e1ab | 306.0 |
-| 60 | hw_bloss | submission.py | b2767b | 306.7 |
-| 61 | your_nickname_here | submission.py | 59e245 | 307.4 |
-| 62 | yoursun1220 | submission.py | 27e400 | 308.6 |
-| 63 | jbc | submission.py | de1427 | 308.6 |
-| 64 | Sulaiman Alam | submission.py | c7ede2 | 308.7 |
-| 65 | axel4 | submission.py | ea45fd | 309.0 |
-| 66 | brandon_lorenzo | submission.py | 67c79e | 309.2 |
-| 67 | yb | submission.py | 2aa1a9 | 309.3 |
-| 68 | mdavalos10 | develop.py | eca698 | 309.3 |
-| 69 | pick_a_nickname | submission.py | c47490 | 309.4 |
-| 70 | tif03 | submission.py | ec268d | 309.4 |
-| 71 | poppyPotatoe | submission.py | 311dc9 | 309.5 |
-| 72 | Akash Basu | submission.py | b0a419 | 309.8 |
-| 73 | castillo | develop.py | 0e93de | 310.9 |
-| 74 | jet2holiday | submission.py | efd6c8 | 310.9 |
+| 47 | jet2holiday | submission.py | 0bf782 | 77.1 |
+| 48 | TA | submission.py | 324cb8 | 83.2 |
+| 49 | kade_lin_is_here | submission.py | 1d2e24 | 94.1 |
+| 50 | 13rabbit | submission.py | 49d27b | 97.1 |
+| 51 | jl | submission.py | e6ce85 | 101.9 |
+| 52 | co-smith | develop.py | 00ede6 | 102.0 |
+| 53 | Bulbasaur | develop.py | dfcccd | 103.8 |
+| 54 | pallavi-srinivas | submission.py | 72c655 | 104.2 |
+| 55 | lipphi | develop.py | d58cae | 104.4 |
+| 56 | goingbananas | submission.py | 2ce123 | 104.8 |
+| 57 | hngydn20 | develop.py | c63812 | 131.7 |
+| 58 | tuo | submission.py | 92c00e | 166.9 |
+| 59 | poppyPotatoe | submission.py | e01605 | 209.9 |
+| 60 | fishyfins | submission.py | 6c0e20 | 304.6 |
+| 61 | dylanjhnsondj | submission.py | c4e1ab | 306.0 |
+| 62 | hw_bloss | submission.py | b2767b | 306.7 |
+| 63 | your_nickname_here | submission.py | 59e245 | 307.4 |
+| 64 | yoursun1220 | submission.py | 27e400 | 308.6 |
+| 65 | jbc | submission.py | de1427 | 308.6 |
+| 66 | Sulaiman Alam | submission.py | c7ede2 | 308.7 |
+| 67 | axel4 | submission.py | ea45fd | 309.0 |
+| 68 | brandon_lorenzo | submission.py | 67c79e | 309.2 |
+| 69 | yb | submission.py | 2aa1a9 | 309.3 |
+| 70 | mdavalos10 | develop.py | eca698 | 309.3 |
+| 71 | pick_a_nickname | submission.py | c47490 | 309.4 |
+| 72 | tif03 | submission.py | ec268d | 309.4 |
+| 73 | Akash Basu | submission.py | b0a419 | 309.8 |
+| 74 | castillo | develop.py | 0e93de | 310.9 |
 | 75 | avemaria | develop.py | 242975 | 322.2 |
 | 76 | siddarak | submission.py | d85766 | 614.4 |
 
@@ -262,8 +262,8 @@ Last updated: `April 13, 2026 at 03:34:25 PM ET`
 | 15 | ashaikh23 | submission.py | 84a425 | 50.2 |
 | 16 | happyface | submission.py | 4ce0f3 | 51.0 |
 | 17 | abarat007 | submission.py | 260fed | 51.5 |
-| 18 | PurplePickle67 | submission.py | 2efdba | 51.9 |
-| 19 | ishan-pat | submission.py | 598a3d | 52.1 |
+| 18 | ishan-pat | submission.py | a4749e | 51.6 |
+| 19 | PurplePickle67 | submission.py | 2efdba | 51.9 |
 | 20 | sjb | develop.py | 387987 | 53.1 |
 | 21 | pyjuan91 | develop.py | 92d1da | 53.1 |
 | 22 | Yize | submission.py | c8c9f7 | 53.1 |
@@ -288,36 +288,36 @@ Last updated: `April 13, 2026 at 03:34:25 PM ET`
 | 41 | JaneShuey | submission.py | 882419 | 111.1 |
 | 42 | Junyi Li | submission.py | c7a1b3 | 113.1 |
 | 43 | Licha | submission.py | 9666cd | 115.6 |
-| 44 | ethanchen | submission.py | bf6f9e | 123.0 |
-| 45 | nicknam534534 | submission.py | 59bdfc | 126.3 |
-| 46 | kaimaeda | submission.py | db84ae | 127.4 |
-| 47 | TA | submission.py | 324cb8 | 131.7 |
-| 48 | kade_lin_is_here | submission.py | 1d2e24 | 133.1 |
-| 49 | 13rabbit | submission.py | 49d27b | 141.4 |
-| 50 | jl | submission.py | e6ce85 | 148.1 |
-| 51 | pallavi-srinivas | submission.py | 72c655 | 149.7 |
-| 52 | Bulbasaur | develop.py | dfcccd | 150.1 |
-| 53 | goingbananas | submission.py | 2ce123 | 150.5 |
-| 54 | lipphi | submission.py | a3a71b | 150.9 |
-| 55 | tuo | submission.py | 4274da | 160.5 |
-| 56 | hngydn20 | submission.py | c63812 | 165.5 |
-| 57 | co-smith | submission.py | 2c710f | 187.1 |
-| 58 | fishyfins | submission.py | 6c0e20 | 232.9 |
-| 59 | dylanjhnsondj | submission.py | c4e1ab | 236.8 |
-| 60 | hw_bloss | submission.py | b2767b | 237.0 |
-| 61 | Sulaiman Alam | develop.py | c7ede2 | 244.4 |
-| 62 | your_nickname_here | submission.py | 59e245 | 245.7 |
-| 63 | jbc | develop.py | f4c2f0 | 247.2 |
-| 64 | mdavalos10 | develop.py | eca698 | 248.2 |
-| 65 | poppyPotatoe | develop.py | fccdc3 | 248.6 |
-| 66 | yoursun1220 | submission.py | 27e400 | 248.7 |
-| 67 | axel4 | submission.py | 66964d | 248.8 |
-| 68 | pick_a_nickname | submission.py | c47490 | 249.3 |
-| 69 | tif03 | submission.py | ec268d | 249.5 |
-| 70 | brandon_lorenzo | submission.py | 67c79e | 249.6 |
-| 71 | yb | develop.py | f47a91 | 249.9 |
-| 72 | castillo | develop.py | 0e93de | 250.2 |
-| 73 | Akash Basu | submission.py | b0a419 | 250.2 |
-| 74 | jet2holiday | submission.py | efd6c8 | 250.7 |
+| 44 | kaimaeda | develop.py | 2ef03f | 121.1 |
+| 45 | ethanchen | submission.py | bf6f9e | 123.0 |
+| 46 | nicknam534534 | submission.py | 59bdfc | 126.3 |
+| 47 | jet2holiday | submission.py | 0bf782 | 127.0 |
+| 48 | TA | submission.py | 324cb8 | 131.7 |
+| 49 | kade_lin_is_here | submission.py | 1d2e24 | 133.1 |
+| 50 | poppyPotatoe | submission.py | e01605 | 133.8 |
+| 51 | 13rabbit | submission.py | 49d27b | 141.4 |
+| 52 | jl | submission.py | e6ce85 | 148.1 |
+| 53 | pallavi-srinivas | submission.py | 72c655 | 149.7 |
+| 54 | Bulbasaur | develop.py | dfcccd | 150.1 |
+| 55 | goingbananas | submission.py | 2ce123 | 150.5 |
+| 56 | lipphi | submission.py | a3a71b | 150.9 |
+| 57 | tuo | submission.py | 4274da | 160.5 |
+| 58 | hngydn20 | submission.py | c63812 | 165.5 |
+| 59 | co-smith | submission.py | 2c710f | 187.1 |
+| 60 | fishyfins | submission.py | 6c0e20 | 232.9 |
+| 61 | dylanjhnsondj | submission.py | c4e1ab | 236.8 |
+| 62 | hw_bloss | submission.py | b2767b | 237.0 |
+| 63 | Sulaiman Alam | develop.py | c7ede2 | 244.4 |
+| 64 | your_nickname_here | submission.py | 59e245 | 245.7 |
+| 65 | jbc | develop.py | f4c2f0 | 247.2 |
+| 66 | mdavalos10 | develop.py | eca698 | 248.2 |
+| 67 | yoursun1220 | submission.py | 27e400 | 248.7 |
+| 68 | axel4 | submission.py | 66964d | 248.8 |
+| 69 | pick_a_nickname | submission.py | c47490 | 249.3 |
+| 70 | tif03 | submission.py | ec268d | 249.5 |
+| 71 | brandon_lorenzo | submission.py | 67c79e | 249.6 |
+| 72 | yb | develop.py | f47a91 | 249.9 |
+| 73 | castillo | develop.py | 0e93de | 250.2 |
+| 74 | Akash Basu | submission.py | b0a419 | 250.2 |
 | 75 | avemaria | develop.py | 242975 | 254.8 |
 | 76 | siddarak | submission.py | d85766 | 382.1 |
