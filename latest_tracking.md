@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 12:20:18 AM ET`
+Last updated: `April 13, 2026 at 12:29:39 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 12:22 AM ET | happyface | failed_correctness | R2: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | develop.py | 17abab | 31.2/0.9/32.1 | 542.0 | 0.0 | 0.0 | 0.0 |
+| Apr 13 12:21 AM ET | ck | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 3a4d2f | 68.8/6.2/75.0 | 510.2 | 168.8 | 302.5 | 231.3 |
 | Apr 13 12:03 AM ET | happyface | evaluated |  | develop.py | c9271d | 25.8/3.5/29.3 | 542.6 | 265.3 | 56.9 | 107.5 |
 | Apr 13 12:02 AM ET | hngydn20 | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 80c083 | 19.7/6.2/25.9 | 536.2 | 169.8 | 308.6 | 245.4 |
 | Apr 13 12:02 AM ET | hngydn20 | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | 80c083 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
