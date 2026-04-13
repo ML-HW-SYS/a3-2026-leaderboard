@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 13, 2026 at 01:32:30 AM ET`
+Last updated: `April 13, 2026 at 01:40:16 AM ET`
 
 ## R1 (tok/s)
 
@@ -74,7 +74,7 @@ Last updated: `April 13, 2026 at 01:32:30 AM ET`
 | 66 | tuo | evaluated | 3d6d40 | 494.8 |
 | 67 | poppyPotatoe | evaluated | eea264 | 144.2 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | jbc | failed | fe0b00 |  |
+|  | jbc | failed | de1427 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -151,7 +151,7 @@ Last updated: `April 13, 2026 at 01:32:30 AM ET`
 | 66 | poppyPotatoe | evaluated | eea264 | 109.8 |
 | 67 | co-smith | evaluated | 407280 | 96.9 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | jbc | failed | fe0b00 |  |
+|  | jbc | failed | de1427 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -228,7 +228,7 @@ Last updated: `April 13, 2026 at 01:32:30 AM ET`
 | 66 | goingbananas | evaluated | 629a61 | 311.7 |
 | 67 | yb | evaluated | ea23ab | 312.3 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | jbc | failed | fe0b00 |  |
+|  | jbc | failed | de1427 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |
@@ -305,7 +305,7 @@ Last updated: `April 13, 2026 at 01:32:30 AM ET`
 | 66 | jet2holiday | evaluated | 05925d | 251.0 |
 | 67 | poppyPotatoe | evaluated | eea264 | 251.9 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | jbc | failed | fe0b00 |  |
+|  | jbc | failed | de1427 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
 |  | siddarak | failed | d85766 |  |
 |  | SIUUU | failed | ad9184 |  |

@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 01:32:30 AM ET`
+Last updated: `April 13, 2026 at 01:40:16 AM ET`
 
 ## R1 (tok/s)
 
@@ -211,8 +211,8 @@ Last updated: `April 13, 2026 at 01:32:30 AM ET`
 | 55 | your_nickname_here | submission.py | 59e245 | 307.4 |
 | 56 | hngydn20 | develop.py | ce7855 | 308.4 |
 | 57 | yoursun1220 | submission.py | 27e400 | 308.6 |
-| 58 | Sulaiman Alam | submission.py | c7ede2 | 308.7 |
-| 59 | jbc | submission.py | fe0b00 | 308.9 |
+| 58 | jbc | submission.py | de1427 | 308.6 |
+| 59 | Sulaiman Alam | submission.py | c7ede2 | 308.7 |
 | 60 | axel4 | submission.py | ea45fd | 309.0 |
 | 61 | brandon_lorenzo | submission.py | 67c79e | 309.2 |
 | 62 | yb | submission.py | 2aa1a9 | 309.3 |
@@ -285,8 +285,8 @@ Last updated: `April 13, 2026 at 01:32:30 AM ET`
 | 54 | hw_bloss | submission.py | b2767b | 237.0 |
 | 55 | Sulaiman Alam | develop.py | c7ede2 | 244.4 |
 | 56 | your_nickname_here | submission.py | 59e245 | 245.7 |
-| 57 | hngydn20 | develop.py | ce7855 | 248.0 |
-| 58 | jbc | develop.py | a37029 | 248.2 |
+| 57 | jbc | submission.py | de1427 | 247.9 |
+| 58 | hngydn20 | develop.py | ce7855 | 248.0 |
 | 59 | mdavalos10 | develop.py | eca698 | 248.2 |
 | 60 | yoursun1220 | submission.py | 27e400 | 248.7 |
 | 61 | poppyPotatoe | submission.py | 311dc9 | 248.9 |
