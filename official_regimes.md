@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 13, 2026 at 10:07:48 AM ET`
+Last updated: `April 13, 2026 at 10:16:16 AM ET`
 
 ## R1 (tok/s)
 
@@ -54,12 +54,12 @@ Last updated: `April 13, 2026 at 10:07:48 AM ET`
 | 46 | yb | evaluated | ea23ab | 525.9 |
 | 47 | pick_a_nickname | evaluated | c47490 | 525.7 |
 | 48 | jet2holiday | evaluated | 05925d | 525.4 |
-| 49 | jbc | evaluated | 90801e | 524.8 |
-| 50 | bl792 | evaluated | 09cd73 | 524.7 |
-| 51 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
-| 52 | ethanchen | evaluated | ea518d | 523.7 |
-| 53 | axel4 | evaluated | d11960 | 523.6 |
-| 54 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 49 | bl792 | evaluated | 09cd73 | 524.7 |
+| 50 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
+| 51 | ethanchen | evaluated | ea518d | 523.7 |
+| 52 | axel4 | evaluated | d11960 | 523.6 |
+| 53 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 54 | jbc | evaluated | ba1d09 | 522.2 |
 | 55 | yoursun1220 | evaluated | d8b590 | 521.8 |
 | 56 | PurplePickle67 | evaluated | 68d34e | 520.5 |
 | 57 | goingbananas | evaluated | 629a61 | 519.4 |
@@ -143,10 +143,10 @@ Last updated: `April 13, 2026 at 10:07:48 AM ET`
 | 57 | Junyi Li | evaluated | c7a1b3 | 169.7 |
 | 58 | axel4 | evaluated | d11960 | 169.7 |
 | 59 | dylanjhnsondj | evaluated | c4e1ab | 169.6 |
-| 60 | jbc | evaluated | 90801e | 169.5 |
-| 61 | yoursun1220 | evaluated | d8b590 | 169.2 |
-| 62 | jet2holiday | evaluated | 05925d | 169.1 |
-| 63 | hw_bloss | evaluated | 4c9666 | 169.1 |
+| 60 | yoursun1220 | evaluated | d8b590 | 169.2 |
+| 61 | jet2holiday | evaluated | 05925d | 169.1 |
+| 62 | hw_bloss | evaluated | 4c9666 | 169.1 |
+| 63 | jbc | evaluated | ba1d09 | 169.1 |
 | 64 | castillo | evaluated | 0e93de | 169.0 |
 | 65 | yb | evaluated | ea23ab | 168.8 |
 | 66 | goingbananas | evaluated | 629a61 | 168.3 |
@@ -224,10 +224,10 @@ Last updated: `April 13, 2026 at 10:07:48 AM ET`
 | 60 | mdavalos10 | evaluated | eca698 | 310.3 |
 | 61 | axel4 | evaluated | d11960 | 310.4 |
 | 62 | yoursun1220 | evaluated | d8b590 | 310.7 |
-| 63 | jbc | evaluated | 90801e | 310.9 |
-| 64 | jet2holiday | evaluated | 05925d | 311.1 |
-| 65 | poppyPotatoe | evaluated | eea264 | 311.3 |
-| 66 | castillo | evaluated | 0e93de | 311.4 |
+| 63 | jet2holiday | evaluated | 05925d | 311.1 |
+| 64 | poppyPotatoe | evaluated | eea264 | 311.3 |
+| 65 | castillo | evaluated | 0e93de | 311.4 |
+| 66 | jbc | evaluated | ba1d09 | 311.6 |
 | 67 | goingbananas | evaluated | 629a61 | 311.7 |
 | 68 | yb | evaluated | ea23ab | 312.3 |
 |  | ck | failed | dbcd8b |  |
@@ -296,9 +296,9 @@ Last updated: `April 13, 2026 at 10:07:48 AM ET`
 | 54 | Sulaiman Alam | evaluated | c7ede2 | 245.0 |
 | 55 | your_nickname_here | evaluated | f10b9b | 246.4 |
 | 56 | hngydn20 | evaluated | 630c81 | 247.9 |
-| 57 | pick_a_nickname | evaluated | c47490 | 249.3 |
-| 58 | axel4 | evaluated | d11960 | 249.3 |
-| 59 | jbc | evaluated | 90801e | 249.4 |
+| 57 | jbc | evaluated | ba1d09 | 249.3 |
+| 58 | pick_a_nickname | evaluated | c47490 | 249.3 |
+| 59 | axel4 | evaluated | d11960 | 249.3 |
 | 60 | tif03 | evaluated | ec268d | 249.5 |
 | 61 | brandon_lorenzo | evaluated | 67c79e | 249.6 |
 | 62 | yoursun1220 | evaluated | d8b590 | 250.1 |

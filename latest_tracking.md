@@ -1,11 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 10:07:48 AM ET`
+Last updated: `April 13, 2026 at 10:16:16 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 10:08 AM ET | jbc | evaluated |  | submission.py | ba1d09 | 19.8/6.3/26.1 | 522.2 | 169.1 | 311.6 | 249.3 |
 | Apr 13 09:55 AM ET | jbc | evaluated |  | submission.py | 90801e | 19.8/6.2/26.0 | 524.8 | 169.5 | 310.9 | 249.4 |
 | Apr 13 09:55 AM ET | Decode_speed | evaluated |  | submission.py | d54f1d | 41.7/3.1/44.8 | 530.2 | 274.5 | 24.9 | 46.2 |
+| Apr 13 09:55 AM ET | Decode_speed | evaluated |  | develop.py | d54f1d | 21.2/3.1/24.3 | 526.0 | 274.9 | 24.8 | 46.1 |
 | Apr 13 09:45 AM ET | co-smith | evaluated |  | submission.py | a32130 | 29.3/5.4/34.7 | 447.0 | 220.7 | 289.4 | 188.1 |
 | Apr 13 09:45 AM ET | co-smith | evaluated |  | develop.py | a32130 | 29.2/5.4/34.6 | 444.6 | 220.9 | 289.3 | 187.8 |
 | Apr 13 09:39 AM ET | nickname55555555 | evaluated |  | submission.py | f68498 | 73.0/2.7/75.6 | 568.8 | 354.5 | 27.9 | 49.2 |
