@@ -1,13 +1,16 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 05:32:28 PM ET`
+Last updated: `April 13, 2026 at 05:41:16 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 05:33 PM ET | kaimaeda | evaluated |  | submission.py | dba883 | 47.7/3.7/51.4 | 510.7 | 258.6 | 59.0 | 114.7 |
+| Apr 13 05:31 PM ET | TheProphet | evaluated |  | submission.py | 0e2161 | 38.3/3.0/41.3 | 476.6 | 380.0 | 62.9 | 71.5 |
 | Apr 13 05:20 PM ET | chyyy | evaluated |  | develop.py | cfc420 | 23.5/2.4/25.9 | 546.9 | 428.6 | 25.0 | 48.4 |
 | Apr 13 05:19 PM ET | kaimaeda | failed_correctness | Correctness FAIL \| R1 (76.63%), R2 (47.55%), R3 (46.95%), R4 (53.74%) \| max_abs_diff=10.5 | submission.py | a2923a | 54.2/3.9/58.1 | 484.4 | 239.9 | 61.7 | 117.3 |
 | Apr 13 05:18 PM ET | fishyfins | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | 01eade |  |  |  |  |  |
 | Apr 13 05:13 PM ET | yb | evaluated |  | submission.py | 1533ce | 20.1/6.6/26.7 | 524.8 | 174.0 | 404.9 | 268.3 |
+| Apr 13 05:13 PM ET | yb | evaluated |  | develop.py | 1533ce | 20.3/6.2/26.5 | 522.4 | 169.9 | 309.2 | 248.8 |
 | Apr 13 05:09 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.76%) \| max_abs_diff=12.18 | submission.py | 81e056 | 66.1/2.7/68.7 | 646.7 | 381.3 | 62.7 | 71.0 |
 | Apr 13 05:07 PM ET | yb | evaluated |  | develop.py | 0d2af8 | 40.0/6.6/46.6 | 517.3 | 173.7 | 405.5 | 269.5 |
 | Apr 13 05:06 PM ET | fishyfins | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | c5749f |  |  |  |  |  |

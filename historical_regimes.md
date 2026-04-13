@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 05:32:28 PM ET`
+Last updated: `April 13, 2026 at 05:41:16 PM ET`
 
 ## R1 (tok/s)
 
@@ -134,7 +134,7 @@ Last updated: `April 13, 2026 at 05:32:28 PM ET`
 | 46 | Yize | submission.py | c8c9f7 | 269.9 |
 | 47 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
 | 48 | happyface | develop.py | f8fcfd | 265.8 |
-| 49 | kaimaeda | submission.py | 6a5b34 | 258.3 |
+| 49 | kaimaeda | submission.py | dba883 | 258.6 |
 | 50 | nicknam534534 | develop.py | f75c41 | 256.9 |
 | 51 | jet2holiday | submission.py | 0bf782 | 251.8 |
 | 52 | ethanchen | submission.py | ea518d | 251.2 |
@@ -201,7 +201,7 @@ Last updated: `April 13, 2026 at 05:32:28 PM ET`
 | 33 | sjb | develop.py | 7fb492 | 50.4 |
 | 34 | abhik | develop.py | 0b4b08 | 55.4 |
 | 35 | vallabkaranam | submission.py | 0bdeec | 57.3 |
-| 36 | kaimaeda | develop.py | 6a5b34 | 59.2 |
+| 36 | kaimaeda | submission.py | dba883 | 59.0 |
 | 37 | act | submission.py | fce2ab | 59.5 |
 | 38 | JaneShuey | submission.py | 882419 | 59.6 |
 | 39 | Junyi Li | submission.py | c7a1b3 | 60.9 |
@@ -235,8 +235,8 @@ Last updated: `April 13, 2026 at 05:32:28 PM ET`
 | 67 | yoursun1220 | submission.py | 27e400 | 308.6 |
 | 68 | Sulaiman Alam | submission.py | c7ede2 | 308.7 |
 | 69 | axel4 | submission.py | ea45fd | 309.0 |
-| 70 | brandon_lorenzo | submission.py | 67c79e | 309.2 |
-| 71 | yb | submission.py | 2aa1a9 | 309.3 |
+| 70 | yb | develop.py | 1533ce | 309.2 |
+| 71 | brandon_lorenzo | submission.py | 67c79e | 309.2 |
 | 72 | pick_a_nickname | submission.py | c47490 | 309.4 |
 | 73 | tif03 | submission.py | ec268d | 309.4 |
 | 74 | Akash Basu | submission.py | b0a419 | 309.8 |
@@ -291,7 +291,7 @@ Last updated: `April 13, 2026 at 05:32:28 PM ET`
 | 41 | beratcelik | submission.py | 11c1b8 | 110.5 |
 | 42 | JaneShuey | submission.py | 882419 | 111.1 |
 | 43 | Junyi Li | submission.py | c7a1b3 | 113.1 |
-| 44 | kaimaeda | develop.py | 6a5b34 | 115.5 |
+| 44 | kaimaeda | submission.py | dba883 | 114.7 |
 | 45 | Licha | submission.py | 9666cd | 115.6 |
 | 46 | ethanchen | submission.py | bf6f9e | 123.0 |
 | 47 | nicknam534534 | submission.py | 59bdfc | 126.3 |
@@ -316,11 +316,11 @@ Last updated: `April 13, 2026 at 05:32:28 PM ET`
 | 66 | Sulaiman Alam | develop.py | c7ede2 | 244.4 |
 | 67 | your_nickname_here | submission.py | 59e245 | 245.7 |
 | 68 | yoursun1220 | submission.py | 27e400 | 248.7 |
-| 69 | axel4 | submission.py | 66964d | 248.8 |
-| 70 | pick_a_nickname | submission.py | c47490 | 249.3 |
-| 71 | tif03 | submission.py | ec268d | 249.5 |
-| 72 | brandon_lorenzo | submission.py | 67c79e | 249.6 |
-| 73 | yb | develop.py | f47a91 | 249.9 |
+| 69 | yb | develop.py | 1533ce | 248.8 |
+| 70 | axel4 | submission.py | 66964d | 248.8 |
+| 71 | pick_a_nickname | submission.py | c47490 | 249.3 |
+| 72 | tif03 | submission.py | ec268d | 249.5 |
+| 73 | brandon_lorenzo | submission.py | 67c79e | 249.6 |
 | 74 | castillo | develop.py | 0e93de | 250.2 |
 | 75 | Akash Basu | submission.py | b0a419 | 250.2 |
 | 76 | avemaria | develop.py | 242975 | 254.8 |
