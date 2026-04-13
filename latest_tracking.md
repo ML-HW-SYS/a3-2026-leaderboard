@@ -1,11 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 12:46:22 AM ET`
+Last updated: `April 13, 2026 at 12:53:45 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Apr 13 12:38 AM ET | happyface | evaluated |  | develop.py | 1d5a76 | 23.2/3.5/26.7 | 538.0 | 264.4 | 57.4 | 108.0 |
 | Apr 13 12:37 AM ET | ck | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | cdce71 | 38.6/6.1/44.7 | 532.0 | 169.9 | 300.8 | 228.5 |
+| Apr 13 12:37 AM ET | ck | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | cdce71 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 12:32 AM ET | ck | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | c0ea9e | 24.4/6.2/30.6 | 511.5 | 168.3 | 302.8 | 231.7 |
 | Apr 13 12:22 AM ET | happyface | failed_correctness | R2: SETUP: ERR: InductorError: LoweringException: ValueError: Q and KV block size must be divisible by BLOCK_M and BL... | develop.py | 17abab | 31.2/0.9/32.1 | 542.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 12:21 AM ET | ck | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 3a4d2f | 68.8/6.2/75.0 | 510.2 | 168.8 | 302.5 | 231.3 |
