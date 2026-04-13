@@ -1,6 +1,6 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 12:35:34 PM ET`
+Last updated: `April 13, 2026 at 12:43:23 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -8,6 +8,7 @@ Last updated: `April 13, 2026 at 12:35:34 PM ET`
 | Apr 13 12:25 PM ET | co-smith | failed_correctness | Correctness FAIL \| R2 (89.43%) \| max_abs_diff=15.99 | develop.py | 540cc0 | 53.0/4.3/57.3 | 449.4 | 416.3 | 289.2 | 187.6 |
 | Apr 13 12:25 PM ET | yb | evaluated |  | submission.py | f1acc1 | 19.7/6.3/25.9 | 519.6 | 169.1 | 310.3 | 250.4 |
 | Apr 13 12:21 PM ET | jbc | evaluated |  | submission.py | 6325da | 15.7/9.5/25.3 | 173.4 | 117.6 | 310.4 | 249.2 |
+| Apr 13 12:21 PM ET | jbc | evaluated |  | develop.py | 6325da | 15.7/9.6/25.4 | 170.2 | 116.9 | 312.4 | 251.0 |
 | Apr 13 12:00 PM ET | jbc | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 213269 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 12:00 PM ET | jbc | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | develop.py | 213269 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 11:47 AM ET | co-smith | evaluated |  | submission.py | 6647c3 | 29.2/5.4/34.6 | 445.2 | 219.6 | 290.9 | 188.4 |
