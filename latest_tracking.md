@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 12, 2026 at 08:07:55 PM ET`
+Last updated: `April 12, 2026 at 08:16:46 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 12 08:07 PM ET | co-smith | failed_correctness | R2: ERR: hard timeout exceeded (worker killed) \| R3: ERR: total timeout exceeded before regime start \| R4: ERR: total... | submission.py | 00ede6 | 23.8/0.9/24.8 | 548.6 | 0.0 | 0.0 | 0.0 |
 | Apr 12 08:00 PM ET | 1_Core_2GHz_Colab_CPU | evaluated |  | submission.py | 71f43e | 37.2/3.2/40.4 | 544.4 | 323.9 | 74.7 | 90.8 |
 | Apr 12 07:55 PM ET | happyface | failed_correctness | R1: SETUP: ERR: TypeError: DecoderLayer.forward() got an unexpected keyword argument 'block_mask' \| R2: SETUP: ERR: T... | develop.py | 09582d | 13.8/0.0/13.8 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 12 07:46 PM ET | co-smith | evaluated |  | submission.py | ed9049 | 79.2/5.4/84.6 | 443.0 | 220.6 | 289.8 | 187.8 |
