@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 13, 2026 at 08:51:59 AM ET`
+Last updated: `April 13, 2026 at 09:00:19 AM ET`
 
 ## Pages
 
@@ -77,7 +77,7 @@ Last updated: `April 13, 2026 at 08:51:59 AM ET`
 | 63 | yb | evaluated | ea23ab | 19.9/6.3/26.1 | 0.524 | 525.9 | 168.8 | 312.3 | 250.6 |
 | 64 | goingbananas | evaluated | 629a61 | 19.7/6.3/26.0 | 0.522 | 519.4 | 168.3 | 311.7 | 250.6 |
 | 65 | tif03 | evaluated | ec268d | 19.7/6.3/26.0 | 0.518 | 501.2 | 167.6 | 309.4 | 249.5 |
-| 66 | co-smith | evaluated | 407280 | 25.5/8.1/33.6 | 0.507 | 557.1 | 96.9 | 288.9 | 187.8 |
+| 66 | co-smith | evaluated | 97af03 | 45.6/7.9/53.4 | 0.513 | 559.0 | 101.5 | 289.4 | 187.5 |
 | 67 | poppyPotatoe | evaluated | eea264 | 17.1/10.5/27.5 | 0.340 | 144.2 | 109.8 | 311.3 | 251.9 |
 |  | ck | failed | dbcd8b | 19.9/6.2/26.1 |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |

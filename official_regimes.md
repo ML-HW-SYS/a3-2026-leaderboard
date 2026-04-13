@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 13, 2026 at 08:51:59 AM ET`
+Last updated: `April 13, 2026 at 09:00:19 AM ET`
 
 ## R1 (tok/s)
 
@@ -16,9 +16,9 @@ Last updated: `April 13, 2026 at 08:51:59 AM ET`
 | 8 | beratcelik | evaluated | 863a89 | 564.3 |
 | 9 | act | evaluated | fce2ab | 560.1 |
 | 10 | abarat007 | evaluated | d7f626 | 559.5 |
-| 11 | your_nickname_here | evaluated | f10b9b | 557.8 |
-| 12 | blabrl | evaluated | ca60eb | 557.4 |
-| 13 | co-smith | evaluated | 407280 | 557.1 |
+| 11 | co-smith | evaluated | 97af03 | 559.0 |
+| 12 | your_nickname_here | evaluated | f10b9b | 557.8 |
+| 13 | blabrl | evaluated | ca60eb | 557.4 |
 | 14 | TA | evaluated | a6e863 | 556.6 |
 | 15 | chyyy | evaluated | 34cc06 | 555.7 |
 | 16 | ashaikh23 | evaluated | 84a425 | 555.4 |
@@ -150,7 +150,7 @@ Last updated: `April 13, 2026 at 08:51:59 AM ET`
 | 64 | goingbananas | evaluated | 629a61 | 168.3 |
 | 65 | tif03 | evaluated | ec268d | 167.6 |
 | 66 | poppyPotatoe | evaluated | eea264 | 109.8 |
-| 67 | co-smith | evaluated | 407280 | 96.9 |
+| 67 | co-smith | evaluated | 97af03 | 101.5 |
 |  | ck | failed | dbcd8b |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | jbc | failed | 3eae05 |  |
@@ -211,7 +211,7 @@ Last updated: `April 13, 2026 at 08:51:59 AM ET`
 | 47 | Bulbasaur | evaluated | dfcccd | 105.0 |
 | 48 | pallavi-srinivas | evaluated | 3c1d3c | 105.4 |
 | 49 | tuo | evaluated | 3d6d40 | 167.8 |
-| 50 | co-smith | evaluated | 407280 | 288.9 |
+| 50 | co-smith | evaluated | 97af03 | 289.4 |
 | 51 | dylanjhnsondj | evaluated | c4e1ab | 306.0 |
 | 52 | fishyfins | evaluated | 468ef1 | 306.5 |
 | 53 | hw_bloss | evaluated | 4c9666 | 308.1 |
@@ -289,7 +289,7 @@ Last updated: `April 13, 2026 at 08:51:59 AM ET`
 | 47 | Bulbasaur | evaluated | dfcccd | 150.9 |
 | 48 | pallavi-srinivas | evaluated | 3c1d3c | 151.0 |
 | 49 | tuo | evaluated | 3d6d40 | 162.8 |
-| 50 | co-smith | evaluated | 407280 | 187.8 |
+| 50 | co-smith | evaluated | 97af03 | 187.5 |
 | 51 | dylanjhnsondj | evaluated | c4e1ab | 236.8 |
 | 52 | fishyfins | evaluated | 468ef1 | 237.7 |
 | 53 | hw_bloss | evaluated | 4c9666 | 239.1 |
