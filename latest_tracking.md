@@ -1,10 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 01:08:55 PM ET`
+Last updated: `April 13, 2026 at 01:18:18 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 01:13 PM ET | Akash Basu | evaluated |  | submission.py | b0a419 | 41.8/6.2/48.1 | 525.9 | 169.5 | 309.8 | 250.2 |
 | Apr 13 12:59 PM ET | jbc | evaluated |  | submission.py | aaf397 | 47.9/6.3/54.1 | 527.8 | 168.7 | 311.8 | 250.0 |
+| Apr 13 12:59 PM ET | jbc | evaluated |  | develop.py | aaf397 | 19.6/6.2/25.9 | 531.0 | 168.5 | 311.7 | 249.6 |
 | Apr 13 12:44 PM ET | co-smith | evaluated |  | develop.py | d8d4f1 | 60.8/4.3/65.1 | 448.0 | 404.8 | 288.6 | 187.2 |
 | Apr 13 12:43 PM ET | jbc | evaluated |  | submission.py | 1cbf1d | 37.6/6.2/43.9 | 531.9 | 168.8 | 312.3 | 250.0 |
 | Apr 13 12:43 PM ET | jbc | evaluated |  | develop.py | 1cbf1d | 19.6/6.3/25.9 | 529.3 | 168.4 | 311.6 | 249.9 |
