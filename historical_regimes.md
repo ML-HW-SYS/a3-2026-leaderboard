@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 03:24:02 PM ET`
+Last updated: `April 13, 2026 at 03:34:25 PM ET`
 
 ## R1 (tok/s)
 
@@ -170,8 +170,8 @@ Last updated: `April 13, 2026 at 03:24:02 PM ET`
 | 4 | Decode_speed | develop.py | d54f1d | 24.8 |
 | 5 | ishan-pat | submission.py | 598a3d | 25.9 |
 | 6 | ss4478 | develop.py | 93d739 | 25.9 |
-| 7 | ngoguen | submission.py | ecab75 | 26.3 |
-| 8 | Shengwei | submission.py | 55fd4e | 26.5 |
+| 7 | Shengwei | submission.py | 2add11 | 26.3 |
+| 8 | ngoguen | submission.py | ecab75 | 26.3 |
 | 9 | gm | submission.py | 2898fc | 26.8 |
 | 10 | Rithvik | submission.py | 8e6767 | 26.9 |
 | 11 | omermoav | submission.py | dc63b9 | 26.9 |
