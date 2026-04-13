@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 13, 2026 at 12:29:39 AM ET`
+Last updated: `April 13, 2026 at 12:37:36 AM ET`
 
 ## R1 (tok/s)
 
@@ -72,7 +72,7 @@ Last updated: `April 13, 2026 at 12:29:39 AM ET`
 | 64 | Rithvik | evaluated | 2924a0 | 495.8 |
 | 65 | tuo | evaluated | 3d6d40 | 494.8 |
 | 66 | poppyPotatoe | evaluated | eea264 | 144.2 |
-|  | ck | failed | 3a4d2f |  |
+|  | ck | failed | c0ea9e |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | hngydn20 | failed | 80c083 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
@@ -149,7 +149,7 @@ Last updated: `April 13, 2026 at 12:29:39 AM ET`
 | 64 | tif03 | evaluated | ec268d | 167.6 |
 | 65 | poppyPotatoe | evaluated | eea264 | 109.8 |
 | 66 | co-smith | evaluated | 407280 | 96.9 |
-|  | ck | failed | 3a4d2f |  |
+|  | ck | failed | c0ea9e |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | hngydn20 | failed | 80c083 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
@@ -226,7 +226,7 @@ Last updated: `April 13, 2026 at 12:29:39 AM ET`
 | 64 | castillo | evaluated | 0e93de | 311.4 |
 | 65 | goingbananas | evaluated | 629a61 | 311.7 |
 | 66 | yb | evaluated | ea23ab | 312.3 |
-|  | ck | failed | 3a4d2f |  |
+|  | ck | failed | c0ea9e |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | hngydn20 | failed | 80c083 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
@@ -303,7 +303,7 @@ Last updated: `April 13, 2026 at 12:29:39 AM ET`
 | 64 | jet2holiday | evaluated | 05925d | 251.0 |
 | 65 | jbc | evaluated | 12bb20 | 251.3 |
 | 66 | poppyPotatoe | evaluated | eea264 | 251.9 |
-|  | ck | failed | 3a4d2f |  |
+|  | ck | failed | c0ea9e |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | hngydn20 | failed | 80c083 |  |
 |  | kade_lin_is_here | failed | 104152 |  |
