@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 13, 2026 at 11:48:30 AM ET`
+Last updated: `April 13, 2026 at 11:58:00 AM ET`
 
 ## Pages
 
@@ -64,7 +64,7 @@ Last updated: `April 13, 2026 at 11:48:30 AM ET`
 | 50 | 13rabbit | evaluated | 49d27b | 18.7/4.1/22.8 | 0.880 | 529.4 | 234.5 | 97.1 | 141.4 |
 | 51 | kade_lin_is_here | evaluated | 9c847b | 39.3/4.1/43.4 | 0.868 | 541.5 | 237.6 | 108.7 | 138.3 |
 | 52 | tuo | evaluated | 3d6d40 | 74.5/4.9/79.3 | 0.704 | 494.8 | 204.6 | 167.8 | 162.8 |
-| 53 | co-smith | evaluated | 92ebc9 | 30.4/5.2/35.5 | 0.621 | 557.2 | 220.4 | 290.1 | 188.2 |
+| 53 | co-smith | evaluated | 6647c3 | 29.2/5.4/34.6 | 0.586 | 445.2 | 219.6 | 290.9 | 188.4 |
 | 54 | hngydn20 | evaluated | 630c81 | 40.2/5.7/45.9 | 0.554 | 550.4 | 197.8 | 309.0 | 247.9 |
 | 55 | fishyfins | evaluated | 468ef1 | 67.6/6.0/73.7 | 0.546 | 565.9 | 172.8 | 306.5 | 237.7 |
 | 56 | Sulaiman Alam | evaluated | c7ede2 | 21.7/5.8/27.5 | 0.545 | 511.2 | 197.4 | 308.7 | 245.0 |
@@ -83,7 +83,7 @@ Last updated: `April 13, 2026 at 11:48:30 AM ET`
 | 69 | poppyPotatoe | evaluated | eea264 | 17.1/10.5/27.5 | 0.340 | 144.2 | 109.8 | 311.3 | 251.9 |
 |  | ck | failed | dbcd8b | 19.9/6.2/26.1 |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
-|  | jbc | failed | bc91d7 | 17.2/2.2/19.4 |  |  |  |  |  |
+|  | jbc | failed | 62fd1a | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | kaimaeda | failed | 24ca30 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | siddarak | failed | d85766 | 21.8/9.2/31.0 |  |  |  |  |  |
 |  | SIUUU | failed | ad9184 | 0.0/0.0/0.0 |  |  |  |  |  |
