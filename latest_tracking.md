@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 02:05:33 AM ET`
+Last updated: `April 13, 2026 at 02:14:04 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 02:11 AM ET | happyface | evaluated |  | submission.py | 4ce0f3 | 27.0/3.2/30.2 | 541.8 | 263.7 | 28.8 | 51.0 |
+| Apr 13 02:09 AM ET | ck | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | dbcd8b | 19.9/6.2/26.1 | 523.3 | 169.7 | 308.8 | 246.5 |
 | Apr 13 02:00 AM ET | happyface | evaluated |  | develop.py | 8313a7 | 47.2/3.2/50.4 | 541.1 | 265.5 | 28.1 | 51.1 |
 | Apr 13 01:42 AM ET | jbc | failed_correctness | R1: SETUP: ERR: ValueError: Pointer argument (at 1) cannot be accessed from Triton (cpu tensor?) \| R2: SETUP: ERR: Va... | submission.py | 3eae05 | 18.5/2.2/20.7 | 0.0 | 0.0 | 310.8 | 248.8 |
 | Apr 13 01:42 AM ET | jbc | failed_correctness | R1: SETUP: ERR: ValueError: Pointer argument (at 1) cannot be accessed from Triton (cpu tensor?) \| R2: SETUP: ERR: Va... | develop.py | 3eae05 | 18.3/2.2/20.6 | 0.0 | 0.0 | 309.9 | 248.8 |
