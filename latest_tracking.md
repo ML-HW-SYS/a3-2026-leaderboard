@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 11:44:26 PM ET`
+Last updated: `April 13, 2026 at 11:49:59 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 11:48 PM ET | yb | evaluated |  | develop.py | 904357 | 20.1/6.2/26.3 | 524.6 | 170.0 | 309.4 | 249.5 |
+| Apr 13 11:43 PM ET | TheProphet | evaluated |  | develop.py | 067afe | 58.7/2.7/61.4 | 579.7 | 333.0 | 24.3 | 46.4 |
+| Apr 13 11:41 PM ET | siddarak | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | 21bc6d | 39.2/3.2/42.4 | 540.5 | 277.4 | 31.7 | 63.8 |
 | Apr 13 11:37 PM ET | sarah | failed_correctness | R4: ERR: The size of tensor a (8) must match the size of tensor b (1024) at non-singleton dimension 2 | develop.py | b37dbb | 7.3/6.7/14.0 | 283.4 | 155.0 | 394.8 | 0.0 |
 | Apr 13 11:37 PM ET | yb | evaluated |  | submission.py | a49d40 | 77.1/5.1/82.2 | 523.5 | 174.1 | 133.1 | 154.0 |
 | Apr 13 11:33 PM ET | kade_lin_is_here | evaluated |  | submission.py | 6f69a9 | 45.9/4.1/50.0 | 541.8 | 237.6 | 108.4 | 138.5 |

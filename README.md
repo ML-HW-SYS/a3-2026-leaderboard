@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 13, 2026 at 11:44:26 PM ET`
+Last updated: `April 13, 2026 at 11:49:59 PM ET`
 
 ## Pages
 
@@ -93,7 +93,7 @@ Last updated: `April 13, 2026 at 11:44:26 PM ET`
 | 79 | nkkrnkl | evaluated | b2a745 | 43.7/8.4/52.1 | 0.395 | 503.7 | 135.9 | 589.6 | 317.3 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | sarah | failed | c2bb47 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | siddarak | failed | 485a35 | 19.7/6.2/25.9 |  |  |  |  |  |
+|  | siddarak | failed | 21bc6d | 39.2/3.2/42.4 |  |  |  |  |  |
 |  | SIUUU | failed | 522695 | 37.9/4.1/42.0 |  |  |  |  |  |
 
 ## Column Guide

@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 13, 2026 at 11:44:26 PM ET`
+Last updated: `April 13, 2026 at 11:49:59 PM ET`
 
 ## R1 (tok/s)
 
@@ -87,7 +87,7 @@ Last updated: `April 13, 2026 at 11:44:26 PM ET`
 | 79 | poppyPotatoe | evaluated | e01605 | 165.2 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | sarah | failed | c2bb47 |  |
-|  | siddarak | failed | 485a35 |  |
+|  | siddarak | failed | 21bc6d |  |
 |  | SIUUU | failed | 522695 |  |
 
 ## R2 (tok/s)
@@ -175,7 +175,7 @@ Last updated: `April 13, 2026 at 11:44:26 PM ET`
 | 79 | poppyPotatoe | evaluated | e01605 | 124.1 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | sarah | failed | c2bb47 |  |
-|  | siddarak | failed | 485a35 |  |
+|  | siddarak | failed | 21bc6d |  |
 |  | SIUUU | failed | 522695 |  |
 
 ## R3 (ms)
@@ -263,7 +263,7 @@ Last updated: `April 13, 2026 at 11:44:26 PM ET`
 | 79 | nkkrnkl | evaluated | b2a745 | 589.6 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | sarah | failed | c2bb47 |  |
-|  | siddarak | failed | 485a35 |  |
+|  | siddarak | failed | 21bc6d |  |
 |  | SIUUU | failed | 522695 |  |
 
 ## R4 (ms)
@@ -351,5 +351,5 @@ Last updated: `April 13, 2026 at 11:44:26 PM ET`
 | 79 | nkkrnkl | evaluated | b2a745 | 317.3 |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | sarah | failed | c2bb47 |  |
-|  | siddarak | failed | 485a35 |  |
+|  | siddarak | failed | 21bc6d |  |
 |  | SIUUU | failed | 522695 |  |
