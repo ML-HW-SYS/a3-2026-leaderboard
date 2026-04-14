@@ -1,11 +1,17 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 08:23:36 PM ET`
+Last updated: `April 13, 2026 at 08:34:57 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 08:32 PM ET | kade_lin_is_here | evaluated |  | submission.py | c157d0 | 76.1/4.1/80.2 | 543.4 | 237.8 | 107.9 | 138.3 |
+| Apr 13 08:31 PM ET | avemaria | failed_security | Security policy check failed for develop.py: \| - prohibited import: importlib.util \| - prohibited import: pathlib | develop.py | c9c9ee |  |  |  |  |  |
+| Apr 13 08:28 PM ET | pick_a_nickname | evaluated |  | submission.py | d94152 | 28.7/3.7/32.3 | 523.2 | 259.8 | 64.8 | 111.5 |
+| Apr 13 08:26 PM ET | henry | evaluated |  | submission.py | a20a6f | 36.5/3.5/40.0 | 531.2 | 259.4 | 66.6 | 72.0 |
+| Apr 13 08:18 PM ET | stefan | evaluated |  | develop.py | 9a785e | 23.0/5.5/28.5 | 528.7 | 127.3 | 50.1 | 70.8 |
 | Apr 13 08:16 PM ET | kade_lin_is_here | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | submission.py | 2f480f | 47.6/3.1/50.7 | 543.3 | 241.9 | 0.0 | 0.0 |
 | Apr 13 08:14 PM ET | co-smith | evaluated |  | submission.py | 0ce3fd | 26.7/3.9/30.5 | 445.0 | 220.7 | 35.5 | 69.8 |
+| Apr 13 08:14 PM ET | co-smith | evaluated |  | develop.py | 0ce3fd | 21.4/3.9/25.3 | 446.8 | 221.1 | 35.5 | 69.8 |
 | Apr 13 08:09 PM ET | TheProphet | failed_compliance | Submission compliance check failed for develop.py: \| - run(...) must have arguments exactly `(model, dataset_chunk)` | develop.py | 76a77f |  |  |  |  |  |
 | Apr 13 08:07 PM ET | fishyfins | evaluated |  | develop.py | 13b4a5 | 22.8/3.6/26.4 | 578.7 | 310.5 | 106.2 | 151.2 |
 | Apr 13 08:03 PM ET | Akash Basu | failed_correctness | R2: SETUP: ERR: RuntimeError: Expected qScaleAndZeros.size(1) == n to be true, but got false. (Could this error messa... | submission.py | 0d44ec | 38.6/1.0/39.6 | 522.0 | 0.0 | 0.0 | 0.0 |
