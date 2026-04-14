@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 14, 2026 at 10:42:08 AM ET`
+Last updated: `April 14, 2026 at 10:58:14 AM ET`
 
 ## R1 (tok/s)
 
@@ -65,24 +65,24 @@ Last updated: `April 14, 2026 at 10:42:08 AM ET`
 | 57 | Decode_speed | submission.py | 236fa2 | 533.3 |
 | 58 | jet2holiday | submission.py | 0bf782 | 532.9 |
 | 59 | Junyi Li | submission.py | 2e381b | 529.4 |
-| 60 | bl792 | submission.py | 3b3a8a | 528.5 |
-| 61 | dylanjhnsondj | develop.py | 55a3fd | 528.5 |
-| 62 | kaimaeda | submission.py | 4360ef | 528.1 |
-| 63 | ethanchen | submission.py | a0d359 | 528.1 |
-| 64 | Rithvik | submission.py | 1a7556 | 527.1 |
-| 65 | JaneShuey | submission.py | 882419 | 526.2 |
-| 66 | yb | develop.py | 92193f | 525.9 |
-| 67 | Akash Basu | submission.py | b0a419 | 525.9 |
-| 68 | nicknam534534 | develop.py | 83a901 | 525.8 |
-| 69 | brandon_lorenzo | submission.py | 494304 | 525.0 |
-| 70 | somita | submission.py | bbe658 | 524.7 |
-| 71 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
-| 72 | yoursun1220 | submission.py | f4e2be | 524.2 |
-| 73 | hw_bloss | submission.py | 2d26da | 523.5 |
-| 74 | PurplePickle67 | submission.py | 68d34e | 520.5 |
-| 75 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
-| 76 | tuo | submission.py | 4274da | 507.3 |
-| 77 | nkkrnkl | submission.py | ceb8f5 | 506.2 |
+| 60 | nkkrnkl | submission.py | 1558fa | 529.3 |
+| 61 | bl792 | submission.py | 3b3a8a | 528.5 |
+| 62 | dylanjhnsondj | develop.py | 55a3fd | 528.5 |
+| 63 | kaimaeda | submission.py | 4360ef | 528.1 |
+| 64 | ethanchen | submission.py | a0d359 | 528.1 |
+| 65 | Rithvik | submission.py | 1a7556 | 527.1 |
+| 66 | JaneShuey | submission.py | 882419 | 526.2 |
+| 67 | yb | develop.py | 92193f | 525.9 |
+| 68 | Akash Basu | submission.py | b0a419 | 525.9 |
+| 69 | nicknam534534 | develop.py | 83a901 | 525.8 |
+| 70 | brandon_lorenzo | submission.py | 494304 | 525.0 |
+| 71 | somita | submission.py | bbe658 | 524.7 |
+| 72 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
+| 73 | yoursun1220 | submission.py | f4e2be | 524.2 |
+| 74 | hw_bloss | submission.py | 2d26da | 523.5 |
+| 75 | PurplePickle67 | submission.py | 68d34e | 520.5 |
+| 76 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
+| 77 | tuo | submission.py | 4274da | 507.3 |
 | 78 | tif03 | submission.py | e84053 | 501.5 |
 | 79 | poppyPotatoe | submission.py | dd4e57 | 169.9 |
 
@@ -317,7 +317,7 @@ Last updated: `April 14, 2026 at 10:42:08 AM ET`
 | 55 | jet2holiday | submission.py | 0bf782 | 127.0 |
 | 56 | kade_lin_is_here | submission.py | f52035 | 131.5 |
 | 57 | TA | submission.py | 324cb8 | 131.7 |
-| 58 | poppyPotatoe | submission.py | e01605 | 133.8 |
+| 58 | poppyPotatoe | submission.py | daea72 | 133.5 |
 | 59 | fishyfins | submission.py | 6b3edb | 138.3 |
 | 60 | 13rabbit | submission.py | 49d27b | 141.4 |
 | 61 | Bulbasaur | develop.py | d42099 | 145.4 |

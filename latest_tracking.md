@@ -1,9 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 14, 2026 at 10:42:08 AM ET`
+Last updated: `April 14, 2026 at 10:58:14 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 14 10:47 AM ET | nkkrnkl | late |  | submission.py | 1558fa | 32.2/3.2/35.4 | 529.3 | 325.0 | 76.8 | 84.9 |
+| Apr 14 10:39 AM ET | dhanushikka | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | eb8c07 | 19.9/6.2/26.2 | 518.2 | 169.4 | 308.7 | 246.7 |
+| Apr 14 10:39 AM ET | poppyPotatoe | failed_correctness | Correctness FAIL \| R1 (100.00%) \| max_abs_diff=inf | submission.py | daea72 | 15.9/7.5/23.4 | 331.6 | 112.8 | 210.0 | 133.5 |
 | Apr 14 10:32 AM ET | sarah | failed_correctness | Correctness FAIL \| R1 (92.51%), R2 (92.01%), R3 (90.81%), R4 (90.73%) \| max_abs_diff=15.72 | develop.py | 2deeaa | 7.3/8.3/15.6 | 276.7 | 151.8 | 403.7 | 368.6 |
 | Apr 14 10:12 AM ET | sarah | failed_correctness | R2: ERR: The expanded size of the tensor (129) must match the existing size (32) at non-singleton dimension 3. Target... | develop.py | aeb3e1 | 7.3/6.7/14.0 | 76.1 | 0.0 | 0.0 | 0.0 |
 | Apr 14 10:02 AM ET | castillo | late |  | submission.py | f1bdd6 | 25.8/3.2/29.0 | 538.3 | 275.6 | 35.3 | 65.9 |
