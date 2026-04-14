@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 14, 2026 at 03:03:38 PM ET`
+Last updated: `April 14, 2026 at 03:18:40 PM ET`
 
 ## R1 (tok/s)
 
@@ -87,7 +87,7 @@ Last updated: `April 14, 2026 at 03:03:38 PM ET`
 | 79 | Rithvik | evaluated | 2924a0 | 495.8 |
 | 80 | tuo | evaluated | 3d6d40 | 494.8 |
 | 81 | siddarak | late | b24e6b | 171.4 |
-| 82 | poppyPotatoe | late | 6b365f | 39.9 |
+| 82 | poppyPotatoe | late | d5cd12 | 162.6 |
 |  | SIUUU | failed | 522695 |  |
 
 ## R2 (tok/s)
@@ -175,7 +175,7 @@ Last updated: `April 14, 2026 at 03:03:38 PM ET`
 | 79 | siddarak | late | b24e6b | 166.3 |
 | 80 | avemaria | evaluated | 6a5e32 | 165.3 |
 | 81 | JaneShuey | evaluated | 882419 | 165.2 |
-| 82 | poppyPotatoe | late | 6b365f | 35.9 |
+| 82 | poppyPotatoe | late | d5cd12 | 125.0 |
 |  | SIUUU | failed | 522695 |  |
 
 ## R3 (ms)
@@ -250,7 +250,7 @@ Last updated: `April 14, 2026 at 03:03:38 PM ET`
 | 66 | kade_lin_is_here | evaluated | 6f69a9 | 108.4 |
 | 67 | yb | evaluated | a49d40 | 133.1 |
 | 68 | tuo | evaluated | 3d6d40 | 167.8 |
-| 69 | poppyPotatoe | late | 6b365f | 210.0 |
+| 69 | poppyPotatoe | late | d5cd12 | 210.5 |
 | 70 | mdavalos10 | evaluated | af3233 | 279.7 |
 | 71 | Akash Basu | evaluated | 365e59 | 303.8 |
 | 72 | dylanjhnsondj | evaluated | c4e1ab | 306.0 |
@@ -327,7 +327,7 @@ Last updated: `April 14, 2026 at 03:03:38 PM ET`
 | 55 | sarah | late | 0a16b5 | 124.9 |
 | 56 | nicknam534534 | evaluated | 59bdfc | 126.3 |
 | 57 | jet2holiday | evaluated | 2b3796 | 128.2 |
-| 58 | poppyPotatoe | late | 6b365f | 134.3 |
+| 58 | poppyPotatoe | late | d5cd12 | 135.1 |
 | 59 | TA | evaluated | a6e863 | 135.6 |
 | 60 | kade_lin_is_here | evaluated | 6f69a9 | 138.5 |
 | 61 | 13rabbit | evaluated | 49d27b | 141.4 |
