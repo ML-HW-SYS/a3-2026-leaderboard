@@ -1,10 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 09:13:16 PM ET`
+Last updated: `April 13, 2026 at 09:21:35 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 09:17 PM ET | avemaria | evaluated |  | submission.py | 6a5e32 | 20.4/6.4/26.8 | 523.7 | 165.1 | 324.2 | 257.1 |
 | Apr 13 09:04 PM ET | siddarak | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (70.97%), R4 (71.35%) \| max_abs_diff=inf | submission.py | 5563a4 | 26.7/3.7/30.4 | 527.8 | 259.5 | 62.6 | 124.6 |
+| Apr 13 09:04 PM ET | siddarak | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (70.97%), R4 (71.35%) \| max_abs_diff=inf | develop.py | 5563a4 | 19.0/3.7/22.8 | 521.6 | 258.7 | 62.6 | 124.8 |
 | Apr 13 09:00 PM ET | avemaria | evaluated |  | develop.py | edebd9 | 21.3/6.4/27.7 | 525.7 | 165.6 | 323.0 | 256.1 |
 | Apr 13 08:57 PM ET | co-smith | evaluated |  | submission.py | cc09aa | 22.0/2.6/24.6 | 564.4 | 404.3 | 35.5 | 69.7 |
 | Apr 13 08:57 PM ET | TheProphet | evaluated |  | submission.py | ff8eaa | 27.3/3.4/30.7 | 467.0 | 300.4 | 67.8 | 81.4 |

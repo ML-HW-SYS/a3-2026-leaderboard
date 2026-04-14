@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 13, 2026 at 09:13:16 PM ET`
+Last updated: `April 13, 2026 at 09:21:35 PM ET`
 
 ## Pages
 
@@ -87,9 +87,9 @@ Last updated: `April 13, 2026 at 09:13:16 PM ET`
 | 73 | castillo | evaluated | 0e93de | 27.1/6.2/33.4 | 0.524 | 526.6 | 169.0 | 311.4 | 250.4 |
 | 74 | yoursun1220 | evaluated | d8b590 | 19.8/6.2/26.1 | 0.524 | 521.8 | 169.2 | 310.7 | 250.1 |
 | 75 | tif03 | evaluated | ec268d | 19.7/6.3/26.0 | 0.518 | 501.2 | 167.6 | 309.4 | 249.5 |
-| 76 | poppyPotatoe | evaluated | e01605 | 14.6/8.6/23.2 | 0.469 | 165.2 | 124.1 | 209.9 | 133.8 |
+| 76 | avemaria | evaluated | 6a5e32 | 20.4/6.4/26.8 | 0.512 | 523.7 | 165.1 | 324.2 | 257.1 |
+| 77 | poppyPotatoe | evaluated | e01605 | 14.6/8.6/23.2 | 0.469 | 165.2 | 124.1 | 209.9 | 133.8 |
 |  | Akash Basu | failed | 0d44ec | 38.6/1.0/39.6 |  |  |  |  |  |
-|  | avemaria | failed | 3b3135 |  |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | siddarak | failed | 5563a4 | 26.7/3.7/30.4 |  |  |  |  |  |
 |  | SIUUU | failed | 522695 | 37.9/4.1/42.0 |  |  |  |  |  |

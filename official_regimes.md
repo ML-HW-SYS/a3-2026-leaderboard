@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 13, 2026 at 09:13:16 PM ET`
+Last updated: `April 13, 2026 at 09:21:35 PM ET`
 
 ## R1 (tok/s)
 
@@ -66,24 +66,24 @@ Last updated: `April 13, 2026 at 09:13:16 PM ET`
 | 58 | somita | evaluated | bbe658 | 524.7 |
 | 59 | pick_a_nickname | evaluated | 1d4f9c | 524.4 |
 | 60 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
-| 61 | ethanchen | evaluated | ea518d | 523.7 |
-| 62 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 63 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 64 | yb | evaluated | 1e1b29 | 521.0 |
-| 65 | PurplePickle67 | evaluated | 68d34e | 520.5 |
-| 66 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 67 | vallabkaranam | evaluated | 0bdeec | 513.3 |
-| 68 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
-| 69 | abhik | evaluated | 0b4b08 | 507.2 |
-| 70 | nicknam534534 | evaluated | 59bdfc | 503.8 |
-| 71 | tif03 | evaluated | ec268d | 501.2 |
-| 72 | Rithvik | evaluated | 2924a0 | 495.8 |
-| 73 | tuo | evaluated | 3d6d40 | 494.8 |
-| 74 | TheProphet | evaluated | ff8eaa | 467.0 |
-| 75 | poppyPotatoe | evaluated | e01605 | 165.2 |
-| 76 | advaith-1212 | evaluated | 343672 | 147.5 |
+| 61 | avemaria | evaluated | 6a5e32 | 523.7 |
+| 62 | ethanchen | evaluated | ea518d | 523.7 |
+| 63 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 64 | yoursun1220 | evaluated | d8b590 | 521.8 |
+| 65 | yb | evaluated | 1e1b29 | 521.0 |
+| 66 | PurplePickle67 | evaluated | 68d34e | 520.5 |
+| 67 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 68 | vallabkaranam | evaluated | 0bdeec | 513.3 |
+| 69 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
+| 70 | abhik | evaluated | 0b4b08 | 507.2 |
+| 71 | nicknam534534 | evaluated | 59bdfc | 503.8 |
+| 72 | tif03 | evaluated | ec268d | 501.2 |
+| 73 | Rithvik | evaluated | 2924a0 | 495.8 |
+| 74 | tuo | evaluated | 3d6d40 | 494.8 |
+| 75 | TheProphet | evaluated | ff8eaa | 467.0 |
+| 76 | poppyPotatoe | evaluated | e01605 | 165.2 |
+| 77 | advaith-1212 | evaluated | 343672 | 147.5 |
 |  | Akash Basu | failed | 0d44ec |  |
-|  | avemaria | failed | 3b3135 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | siddarak | failed | 5563a4 |  |
 |  | SIUUU | failed | 522695 |  |
@@ -166,10 +166,10 @@ Last updated: `April 13, 2026 at 09:13:16 PM ET`
 | 72 | castillo | evaluated | 0e93de | 169.0 |
 | 73 | tif03 | evaluated | ec268d | 167.6 |
 | 74 | JaneShuey | evaluated | 882419 | 165.2 |
-| 75 | advaith-1212 | evaluated | 343672 | 133.1 |
-| 76 | poppyPotatoe | evaluated | e01605 | 124.1 |
+| 75 | avemaria | evaluated | 6a5e32 | 165.1 |
+| 76 | advaith-1212 | evaluated | 343672 | 133.1 |
+| 77 | poppyPotatoe | evaluated | e01605 | 124.1 |
 |  | Akash Basu | failed | 0d44ec |  |
-|  | avemaria | failed | 3b3135 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | siddarak | failed | 5563a4 |  |
 |  | SIUUU | failed | 522695 |  |
@@ -254,8 +254,8 @@ Last updated: `April 13, 2026 at 09:13:16 PM ET`
 | 74 | axel4 | evaluated | 66964d | 311.0 |
 | 75 | castillo | evaluated | 0e93de | 311.4 |
 | 76 | your_nickname_here | evaluated | 0949d0 | 311.5 |
+| 77 | avemaria | evaluated | 6a5e32 | 324.2 |
 |  | Akash Basu | failed | 0d44ec |  |
-|  | avemaria | failed | 3b3135 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | siddarak | failed | 5563a4 |  |
 |  | SIUUU | failed | 522695 |  |
@@ -340,8 +340,8 @@ Last updated: `April 13, 2026 at 09:13:16 PM ET`
 | 74 | castillo | evaluated | 0e93de | 250.4 |
 | 75 | your_nickname_here | evaluated | 0949d0 | 250.7 |
 | 76 | yb | evaluated | 1e1b29 | 250.7 |
+| 77 | avemaria | evaluated | 6a5e32 | 257.1 |
 |  | Akash Basu | failed | 0d44ec |  |
-|  | avemaria | failed | 3b3135 |  |
 |  | dhanushikka | failed | 14b1fd |  |
 |  | siddarak | failed | 5563a4 |  |
 |  | SIUUU | failed | 522695 |  |
