@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 08:03:08 PM ET`
+Last updated: `April 13, 2026 at 08:12:37 PM ET`
 
 ## R1 (tok/s)
 
@@ -82,6 +82,7 @@ Last updated: `April 13, 2026 at 08:03:08 PM ET`
 | 74 | tuo | submission.py | 4274da | 507.3 |
 | 75 | tif03 | submission.py | e84053 | 501.5 |
 | 76 | poppyPotatoe | submission.py | dd4e57 | 169.9 |
+| 77 | advaith-1212 | submission.py | 343672 | 147.5 |
 
 ## R2 (tok/s)
 
@@ -119,14 +120,14 @@ Last updated: `April 13, 2026 at 08:03:08 PM ET`
 | 30 | vallabkaranam | develop.py | b27b18 | 318.8 |
 | 31 | ss4478 | develop.py | 93d739 | 314.6 |
 | 32 | jl | submission.py | e6ce85 | 313.1 |
-| 33 | goingbananas | submission.py | 2ce123 | 307.6 |
-| 34 | pallavi-srinivas | submission.py | 26a6d9 | 307.4 |
-| 35 | lipphi | submission.py | a3a71b | 306.7 |
-| 36 | PurplePickle67 | submission.py | 68d34e | 303.7 |
-| 37 | Bulbasaur | develop.py | dfcccd | 302.4 |
-| 38 | TA | submission.py | 324cb8 | 295.5 |
-| 39 | beratcelik | submission.py | 7c87c2 | 294.0 |
-| 40 | fishyfins | develop.py | 6b3edb | 285.0 |
+| 33 | fishyfins | submission.py | 5ef586 | 309.8 |
+| 34 | goingbananas | submission.py | 2ce123 | 307.6 |
+| 35 | pallavi-srinivas | submission.py | 26a6d9 | 307.4 |
+| 36 | lipphi | submission.py | a3a71b | 306.7 |
+| 37 | PurplePickle67 | submission.py | 68d34e | 303.7 |
+| 38 | Bulbasaur | develop.py | dfcccd | 302.4 |
+| 39 | TA | submission.py | 324cb8 | 295.5 |
+| 40 | beratcelik | submission.py | 7c87c2 | 294.0 |
 | 41 | ngoguen | submission.py | ecab75 | 282.6 |
 | 42 | onlythingIcanDOisTAPEOUT | develop.py | 39c775 | 281.2 |
 | 43 | stefan | develop.py | c521d2 | 279.0 |
@@ -162,7 +163,8 @@ Last updated: `April 13, 2026 at 08:03:08 PM ET`
 | 73 | tif03 | submission.py | ec268d | 167.6 |
 | 74 | avemaria | develop.py | 242975 | 165.7 |
 | 75 | JaneShuey | submission.py | 882419 | 165.2 |
-| 76 | poppyPotatoe | develop.py | e01605 | 127.2 |
+| 76 | advaith-1212 | submission.py | 343672 | 133.1 |
+| 77 | poppyPotatoe | develop.py | e01605 | 127.2 |
 
 ## R3 (ms)
 
@@ -230,23 +232,24 @@ Last updated: `April 13, 2026 at 08:03:08 PM ET`
 | 60 | pallavi-srinivas | submission.py | 72c655 | 104.2 |
 | 61 | SIUUU | develop.py | 522695 | 104.4 |
 | 62 | lipphi | develop.py | d58cae | 104.4 |
-| 63 | tuo | submission.py | 92c00e | 166.9 |
-| 64 | poppyPotatoe | submission.py | e01605 | 209.9 |
-| 65 | mdavalos10 | submission.py | 871ac2 | 279.7 |
-| 66 | dylanjhnsondj | submission.py | c4e1ab | 306.0 |
-| 67 | hw_bloss | submission.py | b2767b | 306.7 |
-| 68 | your_nickname_here | submission.py | 59e245 | 307.4 |
-| 69 | yoursun1220 | submission.py | 27e400 | 308.6 |
-| 70 | Sulaiman Alam | submission.py | c7ede2 | 308.7 |
-| 71 | Akash Basu | submission.py | fa6371 | 308.7 |
-| 72 | axel4 | submission.py | ea45fd | 309.0 |
-| 73 | yb | develop.py | 1533ce | 309.2 |
-| 74 | brandon_lorenzo | submission.py | 67c79e | 309.2 |
-| 75 | tif03 | submission.py | ec268d | 309.4 |
-| 76 | somita | submission.py | bbe658 | 309.5 |
-| 77 | castillo | develop.py | 0e93de | 310.9 |
-| 78 | avemaria | develop.py | 242975 | 322.2 |
-| 79 | siddarak | submission.py | d85766 | 614.4 |
+| 63 | advaith-1212 | submission.py | 343672 | 105.7 |
+| 64 | tuo | submission.py | 92c00e | 166.9 |
+| 65 | poppyPotatoe | submission.py | e01605 | 209.9 |
+| 66 | mdavalos10 | submission.py | 871ac2 | 279.7 |
+| 67 | dylanjhnsondj | submission.py | c4e1ab | 306.0 |
+| 68 | hw_bloss | submission.py | b2767b | 306.7 |
+| 69 | your_nickname_here | submission.py | 59e245 | 307.4 |
+| 70 | yoursun1220 | submission.py | 27e400 | 308.6 |
+| 71 | Sulaiman Alam | submission.py | c7ede2 | 308.7 |
+| 72 | Akash Basu | submission.py | fa6371 | 308.7 |
+| 73 | axel4 | submission.py | ea45fd | 309.0 |
+| 74 | yb | develop.py | 1533ce | 309.2 |
+| 75 | brandon_lorenzo | submission.py | 67c79e | 309.2 |
+| 76 | tif03 | submission.py | ec268d | 309.4 |
+| 77 | somita | submission.py | bbe658 | 309.5 |
+| 78 | castillo | develop.py | 0e93de | 310.9 |
+| 79 | avemaria | develop.py | 242975 | 322.2 |
+| 80 | siddarak | submission.py | d85766 | 614.4 |
 
 ## R4 (ms)
 
@@ -315,19 +318,20 @@ Last updated: `April 13, 2026 at 08:03:08 PM ET`
 | 61 | Bulbasaur | develop.py | dfcccd | 150.1 |
 | 62 | lipphi | submission.py | a3a71b | 150.9 |
 | 63 | SIUUU | develop.py | 522695 | 151.0 |
-| 64 | tuo | submission.py | 4274da | 160.5 |
-| 65 | mdavalos10 | submission.py | af3233 | 189.4 |
-| 66 | dylanjhnsondj | submission.py | c4e1ab | 236.8 |
-| 67 | hw_bloss | submission.py | b2767b | 237.0 |
-| 68 | Sulaiman Alam | develop.py | c7ede2 | 244.4 |
-| 69 | your_nickname_here | submission.py | 59e245 | 245.7 |
-| 70 | Akash Basu | submission.py | fa6371 | 247.9 |
-| 71 | yoursun1220 | submission.py | 27e400 | 248.7 |
-| 72 | yb | develop.py | 1533ce | 248.8 |
-| 73 | axel4 | submission.py | 66964d | 248.8 |
-| 74 | tif03 | submission.py | ec268d | 249.5 |
-| 75 | brandon_lorenzo | submission.py | 67c79e | 249.6 |
-| 76 | somita | submission.py | bbe658 | 249.8 |
-| 77 | castillo | develop.py | 0e93de | 250.2 |
-| 78 | avemaria | develop.py | 242975 | 254.8 |
-| 79 | siddarak | submission.py | d85766 | 382.1 |
+| 64 | advaith-1212 | submission.py | 343672 | 152.1 |
+| 65 | tuo | submission.py | 4274da | 160.5 |
+| 66 | mdavalos10 | submission.py | af3233 | 189.4 |
+| 67 | dylanjhnsondj | submission.py | c4e1ab | 236.8 |
+| 68 | hw_bloss | submission.py | b2767b | 237.0 |
+| 69 | Sulaiman Alam | develop.py | c7ede2 | 244.4 |
+| 70 | your_nickname_here | submission.py | 59e245 | 245.7 |
+| 71 | Akash Basu | submission.py | fa6371 | 247.9 |
+| 72 | yoursun1220 | submission.py | 27e400 | 248.7 |
+| 73 | yb | develop.py | 1533ce | 248.8 |
+| 74 | axel4 | submission.py | 66964d | 248.8 |
+| 75 | tif03 | submission.py | ec268d | 249.5 |
+| 76 | brandon_lorenzo | submission.py | 67c79e | 249.6 |
+| 77 | somita | submission.py | bbe658 | 249.8 |
+| 78 | castillo | develop.py | 0e93de | 250.2 |
+| 79 | avemaria | develop.py | 242975 | 254.8 |
+| 80 | siddarak | submission.py | d85766 | 382.1 |
