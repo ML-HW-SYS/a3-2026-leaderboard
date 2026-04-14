@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 14, 2026 at 05:34:17 PM ET`
+Last updated: `April 14, 2026 at 05:50:19 PM ET`
 
 ## R1 (tok/s)
 
@@ -86,7 +86,7 @@ Last updated: `April 14, 2026 at 05:34:17 PM ET`
 | 78 | tif03 | evaluated | ec268d | 501.2 |
 | 79 | Rithvik | evaluated | 2924a0 | 495.8 |
 | 80 | tuo | evaluated | 3d6d40 | 494.8 |
-| 81 | siddarak | late | 1c2ef6 | 177.9 |
+| 81 | siddarak | late | 84ddeb | 482.6 |
 | 82 | poppyPotatoe | late | f2e30b | 155.9 |
 |  | SIUUU | failed | 522695 |  |
 
@@ -147,23 +147,23 @@ Last updated: `April 14, 2026 at 05:34:17 PM ET`
 | 51 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
 | 52 | happyface | evaluated | 4ce0f3 | 263.7 |
 | 53 | advaith-1212 | evaluated | f4f700 | 260.2 |
-| 54 | sarah | late | 0a16b5 | 259.9 |
-| 55 | henry | evaluated | 92577d | 259.6 |
-| 56 | nicknam534534 | evaluated | 59bdfc | 256.3 |
-| 57 | ethanchen | evaluated | ea518d | 251.2 |
-| 58 | jet2holiday | evaluated | 2b3796 | 250.8 |
-| 59 | bl792 | evaluated | 09cd73 | 238.8 |
-| 60 | Licha | evaluated | 9666cd | 238.1 |
-| 61 | kade_lin_is_here | evaluated | 6f69a9 | 237.6 |
-| 62 | 13rabbit | evaluated | 49d27b | 234.5 |
-| 63 | beratcelik | evaluated | 863a89 | 231.2 |
-| 64 | tuo | evaluated | 3d6d40 | 204.6 |
-| 65 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
-| 66 | dhanushikka | late | 9e7232 | 178.9 |
-| 67 | mdavalos10 | evaluated | af3233 | 177.8 |
-| 68 | yb | evaluated | a49d40 | 174.1 |
-| 69 | your_nickname_here | evaluated | 0949d0 | 172.4 |
-| 70 | siddarak | late | 1c2ef6 | 171.7 |
+| 54 | siddarak | late | 84ddeb | 260.1 |
+| 55 | sarah | late | 0a16b5 | 259.9 |
+| 56 | henry | evaluated | 92577d | 259.6 |
+| 57 | nicknam534534 | evaluated | 59bdfc | 256.3 |
+| 58 | ethanchen | evaluated | ea518d | 251.2 |
+| 59 | jet2holiday | evaluated | 2b3796 | 250.8 |
+| 60 | bl792 | evaluated | 09cd73 | 238.8 |
+| 61 | Licha | evaluated | 9666cd | 238.1 |
+| 62 | kade_lin_is_here | evaluated | 6f69a9 | 237.6 |
+| 63 | 13rabbit | evaluated | 49d27b | 234.5 |
+| 64 | beratcelik | evaluated | 863a89 | 231.2 |
+| 65 | tuo | evaluated | 3d6d40 | 204.6 |
+| 66 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
+| 67 | dhanushikka | late | 9e7232 | 178.9 |
+| 68 | mdavalos10 | evaluated | af3233 | 177.8 |
+| 69 | yb | evaluated | a49d40 | 174.1 |
+| 70 | your_nickname_here | evaluated | 0949d0 | 172.4 |
 | 71 | brandon_lorenzo | evaluated | 67c79e | 169.8 |
 | 72 | axel4 | evaluated | 717d73 | 169.8 |
 | 73 | Junyi Li | evaluated | c7a1b3 | 169.7 |
@@ -210,7 +210,7 @@ Last updated: `April 14, 2026 at 05:34:17 PM ET`
 | 26 | onlythingIcanDOisTAPEOUT | evaluated | 6a5359 | 33.0 |
 | 27 | blabrl | evaluated | ca60eb | 33.7 |
 | 28 | 1_Core_2GHz_Colab_CPU | evaluated | 4e42ed | 34.1 |
-| 29 | siddarak | late | 1c2ef6 | 34.5 |
+| 29 | siddarak | late | 84ddeb | 34.6 |
 | 30 | chickfila | evaluated | f0956d | 34.7 |
 | 31 | gravlax | evaluated | b1229d | 35.0 |
 | 32 | ck | evaluated | f75094 | 35.1 |
@@ -305,7 +305,7 @@ Last updated: `April 14, 2026 at 05:34:17 PM ET`
 | 33 | omermoav | evaluated | b01c0e | 64.6 |
 | 34 | ck | evaluated | f75094 | 64.6 |
 | 35 | blabrl | evaluated | ca60eb | 65.2 |
-| 36 | siddarak | late | 1c2ef6 | 65.6 |
+| 36 | siddarak | late | 84ddeb | 65.5 |
 | 37 | castillo | late | f1bdd6 | 65.9 |
 | 38 | 1_Core_2GHz_Colab_CPU | evaluated | 4e42ed | 66.8 |
 | 39 | co-smith | evaluated | 089c7d | 70.1 |

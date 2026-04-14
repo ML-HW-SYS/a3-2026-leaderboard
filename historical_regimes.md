@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 14, 2026 at 05:34:17 PM ET`
+Last updated: `April 14, 2026 at 05:50:19 PM ET`
 
 ## R1 (tok/s)
 
@@ -86,7 +86,7 @@ Last updated: `April 14, 2026 at 05:34:17 PM ET`
 | 78 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
 | 79 | tuo | submission.py | 4274da | 507.3 |
 | 80 | tif03 | submission.py | e84053 | 501.5 |
-| 81 | siddarak | develop.py | b24e6b | 179.2 |
+| 81 | siddarak | submission.py | 84ddeb | 482.6 |
 | 82 | poppyPotatoe | submission.py | dd4e57 | 169.9 |
 
 ## R2 (tok/s)
@@ -147,22 +147,22 @@ Last updated: `April 14, 2026 at 05:34:17 PM ET`
 | 52 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
 | 53 | happyface | develop.py | f8fcfd | 265.8 |
 | 54 | advaith-1212 | develop.py | 759741 | 260.4 |
-| 55 | sarah | submission.py | 0a16b5 | 259.9 |
-| 56 | henry | submission.py | 92577d | 259.6 |
-| 57 | nicknam534534 | develop.py | f75c41 | 256.9 |
-| 58 | jet2holiday | submission.py | 3794df | 251.9 |
-| 59 | ethanchen | submission.py | ea518d | 251.2 |
-| 60 | 13rabbit | develop.py | b38df9 | 243.3 |
-| 61 | kade_lin_is_here | submission.py | 2f480f | 241.9 |
-| 62 | bl792 | develop.py | 09cd73 | 239.0 |
-| 63 | Licha | submission.py | 094c4b | 238.2 |
-| 64 | tuo | submission.py | 3d6d40 | 204.6 |
-| 65 | Sulaiman Alam | submission.py | c7ede2 | 197.4 |
-| 66 | dhanushikka | develop.py | 3a0ea1 | 179.2 |
-| 67 | mdavalos10 | submission.py | af3233 | 177.8 |
-| 68 | yb | develop.py | 92193f | 174.2 |
-| 69 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 70 | siddarak | submission.py | 1c2ef6 | 171.7 |
+| 55 | siddarak | submission.py | 84ddeb | 260.1 |
+| 56 | sarah | submission.py | 0a16b5 | 259.9 |
+| 57 | henry | submission.py | 92577d | 259.6 |
+| 58 | nicknam534534 | develop.py | f75c41 | 256.9 |
+| 59 | jet2holiday | submission.py | 3794df | 251.9 |
+| 60 | ethanchen | submission.py | ea518d | 251.2 |
+| 61 | 13rabbit | develop.py | b38df9 | 243.3 |
+| 62 | kade_lin_is_here | submission.py | 2f480f | 241.9 |
+| 63 | bl792 | develop.py | 09cd73 | 239.0 |
+| 64 | Licha | submission.py | 094c4b | 238.2 |
+| 65 | tuo | submission.py | 3d6d40 | 204.6 |
+| 66 | Sulaiman Alam | submission.py | c7ede2 | 197.4 |
+| 67 | dhanushikka | develop.py | 3a0ea1 | 179.2 |
+| 68 | mdavalos10 | submission.py | af3233 | 177.8 |
+| 69 | yb | develop.py | 92193f | 174.2 |
+| 70 | your_nickname_here | submission.py | 59e245 | 173.4 |
 | 71 | yoursun1220 | submission.py | 27e400 | 169.9 |
 | 72 | axel4 | submission.py | ea45fd | 169.9 |
 | 73 | brandon_lorenzo | submission.py | 67c79e | 169.8 |
