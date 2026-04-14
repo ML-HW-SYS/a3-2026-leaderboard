@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 11:10:20 PM ET`
+Last updated: `April 13, 2026 at 11:19:10 PM ET`
 
 ## R1 (tok/s)
 
@@ -25,10 +25,10 @@ Last updated: `April 13, 2026 at 11:10:20 PM ET`
 | 17 | act | develop.py | fce2ab | 562.9 |
 | 18 | JasonWang07 | submission.py | 1b4aca | 561.1 |
 | 19 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 560.4 |
-| 20 | your_nickname_here | submission.py | 59e245 | 559.6 |
-| 21 | jbc | submission.py | 66b81a | 559.5 |
-| 22 | blabrl | develop.py | 9873f9 | 559.5 |
-| 23 | chyyy | develop.py | fde2e4 | 558.5 |
+| 20 | chyyy | submission.py | ea0704 | 559.8 |
+| 21 | your_nickname_here | submission.py | 59e245 | 559.6 |
+| 22 | jbc | submission.py | 66b81a | 559.5 |
+| 23 | blabrl | develop.py | 9873f9 | 559.5 |
 | 24 | TA | submission.py | a6e863 | 556.6 |
 | 25 | pick_a_nickname | submission.py | 3e41c6 | 555.1 |
 | 26 | ishan-pat | submission.py | 99aac6 | 553.2 |
@@ -254,7 +254,7 @@ Last updated: `April 13, 2026 at 11:10:20 PM ET`
 | 78 | somita | submission.py | bbe658 | 309.5 |
 | 79 | castillo | develop.py | 0e93de | 310.9 |
 | 80 | avemaria | submission.py | 6c5090 | 316.6 |
-| 81 | nkkrnkl | submission.py | b2a745 | 589.6 |
+| 81 | nkkrnkl | develop.py | b2a745 | 589.6 |
 
 ## R4 (ms)
 

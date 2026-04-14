@@ -1,15 +1,22 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 11:10:20 PM ET`
+Last updated: `April 13, 2026 at 11:19:10 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 11:15 PM ET | avemaria | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | submission.py | d49431 | 80.0/4.1/84.2 | 509.8 | 163.7 | 0.0 | 0.0 |
+| Apr 13 11:11 PM ET | yb | evaluated |  | submission.py | 312a78 | 29.9/6.1/36.0 | 524.6 | 173.8 | 306.5 | 238.6 |
+| Apr 13 11:10 PM ET | kade_lin_is_here | evaluated |  | submission.py | f5916e | 53.1/4.4/57.5 | 543.3 | 209.5 | 109.5 | 138.5 |
+| Apr 13 11:09 PM ET | chyyy | evaluated |  | submission.py | ea0704 | 33.8/2.4/36.2 | 559.8 | 422.3 | 25.0 | 48.6 |
+| Apr 13 11:08 PM ET | siddarak | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | f39c78 | 19.2/3.8/23.0 | 521.7 | 254.9 | 70.5 | 125.5 |
 | Apr 13 11:03 PM ET | nkkrnkl | evaluated |  | submission.py | b2a745 | 43.7/8.4/52.1 | 503.7 | 135.9 | 589.6 | 317.3 |
+| Apr 13 11:03 PM ET | nkkrnkl | evaluated |  | develop.py | b2a745 | 21.9/8.4/30.3 | 498.3 | 135.9 | 589.6 | 317.5 |
 | Apr 13 11:00 PM ET | Akash Basu | evaluated |  | submission.py | 26a442 | 40.2/6.1/46.3 | 522.7 | 169.3 | 303.1 | 232.8 |
 | Apr 13 11:00 PM ET | Akash Basu | evaluated |  | develop.py | 26a442 | 23.5/6.1/29.7 | 525.3 | 169.7 | 303.0 | 231.1 |
 | Apr 13 10:59 PM ET | yb | evaluated |  | submission.py | 92193f | 20.3/6.1/26.4 | 525.6 | 174.1 | 309.4 | 249.3 |
 | Apr 13 10:59 PM ET | yb | evaluated |  | develop.py | 92193f | 69.1/6.1/75.2 | 525.9 | 174.2 | 305.6 | 238.2 |
 | Apr 13 10:59 PM ET | henry | evaluated |  | submission.py | 92577d | 17.1/3.5/20.6 | 540.0 | 259.6 | 66.8 | 72.1 |
+| Apr 13 10:59 PM ET | henry | evaluated |  | develop.py | 92577d | 17.1/3.5/20.5 | 537.9 | 259.3 | 66.6 | 72.2 |
 | Apr 13 10:54 PM ET | onlythingIcanDOisTAPEOUT | evaluated |  | submission.py | 3ff226 | 20.0/3.2/23.2 | 532.5 | 276.8 | 32.3 | 64.1 |
 | Apr 13 10:54 PM ET | onlythingIcanDOisTAPEOUT | evaluated |  | develop.py | 3ff226 | 20.1/3.2/23.3 | 534.7 | 275.8 | 32.3 | 63.8 |
 | Apr 13 10:50 PM ET | jet2holiday | evaluated |  | submission.py | 2b3796 | 41.4/3.8/45.2 | 528.0 | 250.8 | 69.4 | 128.2 |
