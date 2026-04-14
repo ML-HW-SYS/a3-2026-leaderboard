@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 14, 2026 at 10:58:14 AM ET`
+Last updated: `April 14, 2026 at 11:13:18 AM ET`
 
 ## R1 (tok/s)
 
@@ -62,10 +62,10 @@ Last updated: `April 14, 2026 at 10:58:14 AM ET`
 | 54 | gravlax | develop.py | 1f23d9 | 534.6 |
 | 55 | chickfila | submission.py | 29860a | 534.6 |
 | 56 | Yize | submission.py | c8c9f7 | 534.4 |
-| 57 | Decode_speed | submission.py | 236fa2 | 533.3 |
-| 58 | jet2holiday | submission.py | 0bf782 | 532.9 |
-| 59 | Junyi Li | submission.py | 2e381b | 529.4 |
-| 60 | nkkrnkl | submission.py | 1558fa | 529.3 |
+| 57 | nkkrnkl | develop.py | 1558fa | 534.1 |
+| 58 | Decode_speed | submission.py | 236fa2 | 533.3 |
+| 59 | jet2holiday | submission.py | 0bf782 | 532.9 |
+| 60 | Junyi Li | submission.py | 2e381b | 529.4 |
 | 61 | bl792 | submission.py | 3b3a8a | 528.5 |
 | 62 | dylanjhnsondj | develop.py | 55a3fd | 528.5 |
 | 63 | kaimaeda | submission.py | 4360ef | 528.1 |
