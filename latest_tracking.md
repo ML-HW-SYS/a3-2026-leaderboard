@@ -1,11 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 14, 2026 at 04:49:22 PM ET`
+Last updated: `April 14, 2026 at 05:04:28 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Apr 14 04:28 PM ET | poppyPotatoe | late |  | submission.py | f2e30b | 15.3/9.0/24.4 | 155.9 | 117.1 | 210.0 | 134.5 |
 | Apr 14 04:20 PM ET | siddarak | late |  | submission.py | c1bf9e | 16.9/9.7/26.6 | 168.7 | 169.9 | 585.2 | 323.4 |
+| Apr 14 04:20 PM ET | siddarak | late |  | develop.py | c1bf9e | 16.9/9.7/26.6 | 175.1 | 163.7 | 585.0 | 322.7 |
 | Apr 14 04:18 PM ET | siddarak | late |  | submission.py | cbf90a | 17.3/9.6/26.9 | 174.5 | 168.4 | 585.1 | 323.1 |
 | Apr 14 04:10 PM ET | prousoglou | late |  | submission.py | 1a9700 | 23.9/2.5/26.3 | 595.3 | 396.2 | 27.1 | 49.4 |
 | Apr 14 03:48 PM ET | dhanushikka | failed_correctness | R1: SETUP: ERR: CompilationError: at 55:25: w_ptr + kpack * stride_wk8 + offs_n * stride_wn, mask=mask_n & valid_g & ... | develop.py | 8ec8bd | 27.1/5.3/32.3 | 0.0 | 194.7 | 386.8 | 268.4 |
