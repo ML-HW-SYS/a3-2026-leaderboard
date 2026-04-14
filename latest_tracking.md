@@ -1,12 +1,17 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 11:03:17 PM ET`
+Last updated: `April 13, 2026 at 11:10:20 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 11:03 PM ET | nkkrnkl | evaluated |  | submission.py | b2a745 | 43.7/8.4/52.1 | 503.7 | 135.9 | 589.6 | 317.3 |
 | Apr 13 11:00 PM ET | Akash Basu | evaluated |  | submission.py | 26a442 | 40.2/6.1/46.3 | 522.7 | 169.3 | 303.1 | 232.8 |
+| Apr 13 11:00 PM ET | Akash Basu | evaluated |  | develop.py | 26a442 | 23.5/6.1/29.7 | 525.3 | 169.7 | 303.0 | 231.1 |
 | Apr 13 10:59 PM ET | yb | evaluated |  | submission.py | 92193f | 20.3/6.1/26.4 | 525.6 | 174.1 | 309.4 | 249.3 |
+| Apr 13 10:59 PM ET | yb | evaluated |  | develop.py | 92193f | 69.1/6.1/75.2 | 525.9 | 174.2 | 305.6 | 238.2 |
+| Apr 13 10:59 PM ET | henry | evaluated |  | submission.py | 92577d | 17.1/3.5/20.6 | 540.0 | 259.6 | 66.8 | 72.1 |
 | Apr 13 10:54 PM ET | onlythingIcanDOisTAPEOUT | evaluated |  | submission.py | 3ff226 | 20.0/3.2/23.2 | 532.5 | 276.8 | 32.3 | 64.1 |
+| Apr 13 10:54 PM ET | onlythingIcanDOisTAPEOUT | evaluated |  | develop.py | 3ff226 | 20.1/3.2/23.3 | 534.7 | 275.8 | 32.3 | 63.8 |
 | Apr 13 10:50 PM ET | jet2holiday | evaluated |  | submission.py | 2b3796 | 41.4/3.8/45.2 | 528.0 | 250.8 | 69.4 | 128.2 |
 | Apr 13 10:49 PM ET | Akash Basu | failed_correctness | Correctness FAIL \| R2 (62.86%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=391.5 | submission.py | d942a2 | 33.0/20.9/54.0 | 524.0 | 129.7 | 866.7 | 3139.4 |
 | Apr 13 10:48 PM ET | avemaria | evaluated |  | submission.py | 6a5e32 | 19.9/6.4/26.3 | 523.3 | 165.5 | 322.5 | 255.7 |
