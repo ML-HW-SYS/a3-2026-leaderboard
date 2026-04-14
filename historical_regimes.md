@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 14, 2026 at 09:09:06 AM ET`
+Last updated: `April 14, 2026 at 09:25:41 AM ET`
 
 ## R1 (tok/s)
 
@@ -108,9 +108,9 @@ Last updated: `April 14, 2026 at 09:09:06 AM ET`
 | 16 | zionrangers | develop.py | 7758e0 | 372.9 |
 | 17 | ashaikh23 | submission.py | 84a425 | 372.1 |
 | 18 | pyjuan91 | develop.py | 92d1da | 364.9 |
-| 19 | Shengwei | submission.py | 67896e | 362.7 |
-| 20 | 1_Core_2GHz_Colab_CPU | submission.py | 124a48 | 360.8 |
-| 21 | nkkrnkl | develop.py | ceb8f5 | 360.3 |
+| 19 | nkkrnkl | submission.py | 341d48 | 362.9 |
+| 20 | Shengwei | submission.py | 67896e | 362.7 |
+| 21 | 1_Core_2GHz_Colab_CPU | submission.py | 124a48 | 360.8 |
 | 22 | gm | develop.py | fd15e9 | 357.3 |
 | 23 | nickname55555555 | develop.py | 68b98d | 355.5 |
 | 24 | ishan-pat | submission.py | 99aac6 | 352.8 |
@@ -138,7 +138,7 @@ Last updated: `April 14, 2026 at 09:09:06 AM ET`
 | 46 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
 | 47 | landrum | submission.py | 61ab81 | 276.9 |
 | 48 | Decode_speed | submission.py | 3ff088 | 275.1 |
-| 49 | castillo | submission.py | c33082 | 273.8 |
+| 49 | castillo | develop.py | c33082 | 274.7 |
 | 50 | gravlax | develop.py | b1229d | 273.0 |
 | 51 | Yize | submission.py | c8c9f7 | 269.9 |
 | 52 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
@@ -208,7 +208,7 @@ Last updated: `April 14, 2026 at 09:09:06 AM ET`
 | 32 | gravlax | develop.py | b1229d | 35.0 |
 | 33 | ck | submission.py | f75094 | 35.1 |
 | 34 | nkkrnkl | develop.py | ceb8f5 | 35.5 |
-| 35 | castillo | submission.py | c33082 | 35.8 |
+| 35 | castillo | develop.py | c33082 | 35.7 |
 | 36 | PurplePickle67 | submission.py | 2efdba | 36.3 |
 | 37 | Yize | develop.py | 4c7928 | 39.3 |
 | 38 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 43.1 |

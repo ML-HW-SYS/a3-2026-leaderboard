@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 14, 2026 at 09:09:06 AM ET`
+Last updated: `April 14, 2026 at 09:25:41 AM ET`
 
 ## R1 (tok/s)
 
@@ -85,7 +85,7 @@ Last updated: `April 14, 2026 at 09:09:06 AM ET`
 | 77 | tuo | evaluated | 3d6d40 | 494.8 |
 | 78 | poppyPotatoe | evaluated | e01605 | 165.2 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | nkkrnkl | failed | ceb8f5 |  |
+|  | nkkrnkl | failed | 341d48 |  |
 |  | sarah | failed | c2bb47 |  |
 |  | siddarak | failed | b4ad9a |  |
 |  | SIUUU | failed | 522695 |  |
@@ -173,7 +173,7 @@ Last updated: `April 14, 2026 at 09:09:06 AM ET`
 | 77 | JaneShuey | evaluated | 882419 | 165.2 |
 | 78 | poppyPotatoe | evaluated | e01605 | 124.1 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | nkkrnkl | failed | ceb8f5 |  |
+|  | nkkrnkl | failed | 341d48 |  |
 |  | sarah | failed | c2bb47 |  |
 |  | siddarak | failed | b4ad9a |  |
 |  | SIUUU | failed | 522695 |  |
@@ -261,7 +261,7 @@ Last updated: `April 14, 2026 at 09:09:06 AM ET`
 | 77 | your_nickname_here | evaluated | 0949d0 | 311.5 |
 | 78 | avemaria | evaluated | 6a5e32 | 323.4 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | nkkrnkl | failed | ceb8f5 |  |
+|  | nkkrnkl | failed | 341d48 |  |
 |  | sarah | failed | c2bb47 |  |
 |  | siddarak | failed | b4ad9a |  |
 |  | SIUUU | failed | 522695 |  |
@@ -349,7 +349,7 @@ Last updated: `April 14, 2026 at 09:09:06 AM ET`
 | 77 | your_nickname_here | evaluated | 0949d0 | 250.7 |
 | 78 | avemaria | evaluated | 6a5e32 | 256.7 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | nkkrnkl | failed | ceb8f5 |  |
+|  | nkkrnkl | failed | 341d48 |  |
 |  | sarah | failed | c2bb47 |  |
 |  | siddarak | failed | b4ad9a |  |
 |  | SIUUU | failed | 522695 |  |

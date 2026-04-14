@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 14, 2026 at 09:09:06 AM ET`
+Last updated: `April 14, 2026 at 09:25:41 AM ET`
 
 ## Pages
 
@@ -91,7 +91,7 @@ Last updated: `April 14, 2026 at 09:09:06 AM ET`
 | 77 | avemaria | evaluated | 6a5e32 | 20.0/6.4/26.4 | 0.512 | 521.6 | 165.3 | 323.4 | 256.7 |
 | 78 | poppyPotatoe | evaluated | e01605 | 14.6/8.6/23.2 | 0.469 | 165.2 | 124.1 | 209.9 | 133.8 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
-|  | nkkrnkl | failed | ceb8f5 | 72.0/2.6/74.6 |  |  |  |  |  |
+|  | nkkrnkl | failed | 341d48 | 64.6/2.6/67.1 |  |  |  |  |  |
 |  | sarah | failed | c2bb47 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | siddarak | failed | b4ad9a | 37.3/3.2/40.5 |  |  |  |  |  |
 |  | SIUUU | failed | 522695 | 37.9/4.1/42.0 |  |  |  |  |  |
