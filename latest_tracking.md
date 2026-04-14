@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 14, 2026 at 03:48:23 PM ET`
+Last updated: `April 14, 2026 at 04:03:36 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 14 03:48 PM ET | dhanushikka | failed_correctness | R1: SETUP: ERR: CompilationError: at 55:25: w_ptr + kpack * stride_wk8 + offs_n * stride_wn, mask=mask_n & valid_g & ... | develop.py | 8ec8bd | 27.1/5.3/32.3 | 0.0 | 194.7 | 386.8 | 268.4 |
 | Apr 14 03:01 PM ET | poppyPotatoe | late |  | submission.py | d5cd12 | 14.7/8.6/23.3 | 162.6 | 125.0 | 210.5 | 135.1 |
 | Apr 14 03:01 PM ET | poppyPotatoe | late |  | develop.py | d5cd12 | 14.6/8.5/23.1 | 161.2 | 129.7 | 211.1 | 135.5 |
 | Apr 14 02:23 PM ET | dhanushikka | late |  | develop.py | 095b48 | 21.0/6.5/27.5 | 521.6 | 179.0 | 386.8 | 268.4 |
