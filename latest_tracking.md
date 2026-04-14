@@ -1,11 +1,15 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 11:26:06 PM ET`
+Last updated: `April 13, 2026 at 11:31:19 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 11:29 PM ET | castillo | evaluated |  | submission.py | b62311 | 29.2/4.0/33.2 | 527.4 | 236.1 | 112.0 | 106.7 |
+| Apr 13 11:26 PM ET | sarah | failed_correctness | R1: ERR: bad operand type for unary ~: 'BlockMask' \| R2: ERR: bad operand type for unary ~: 'BlockMask' \| R3: ERR: ba... | develop.py | 4177bb | 7.3/0.0/7.3 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 11:22 PM ET | sarah | failed_correctness | Correctness FAIL \| R1 (92.46%), R2 (92.02%), R3 (90.77%), R4 (90.73%) \| max_abs_diff=16.17 | develop.py | cb31d0 | 7.3/9.0/16.3 | 264.2 | 140.8 | 459.0 | 397.2 |
+| Apr 13 11:22 PM ET | siddarak | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 485a35 | 19.7/6.2/25.9 | 524.1 | 170.0 | 307.2 | 245.6 |
 | Apr 13 11:19 PM ET | yb | evaluated |  | submission.py | ec6a2f | 74.7/5.1/79.8 | 524.4 | 174.1 | 132.6 | 153.4 |
+| Apr 13 11:19 PM ET | yb | evaluated |  | develop.py | ec6a2f | 29.8/5.1/34.8 | 524.2 | 173.8 | 132.5 | 153.1 |
 | Apr 13 11:17 PM ET | avemaria | evaluated |  | submission.py | 6a5e32 | 20.0/6.4/26.4 | 521.6 | 165.3 | 323.4 | 256.7 |
 | Apr 13 11:15 PM ET | avemaria | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | submission.py | d49431 | 80.0/4.1/84.2 | 509.8 | 163.7 | 0.0 | 0.0 |
 | Apr 13 11:14 PM ET | TheProphet | evaluated |  | develop.py | 3c2897 | 43.8/2.5/46.3 | 581.0 | 381.2 | 24.2 | 46.4 |
