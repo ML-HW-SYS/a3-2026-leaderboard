@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 13, 2026 at 11:49:59 PM ET`
+Last updated: `April 13, 2026 at 11:55:13 PM ET`
 
 ## Pages
 
@@ -79,7 +79,7 @@ Last updated: `April 13, 2026 at 11:49:59 PM ET`
 | 65 | tuo | evaluated | 3d6d40 | 74.5/4.9/79.3 | 0.704 | 494.8 | 204.6 | 167.8 | 162.8 |
 | 66 | mdavalos10 | evaluated | af3233 | 22.0/5.7/27.7 | 0.586 | 529.3 | 177.8 | 279.7 | 189.4 |
 | 67 | Sulaiman Alam | evaluated | c7ede2 | 21.7/5.8/27.5 | 0.545 | 511.2 | 197.4 | 308.7 | 245.0 |
-| 68 | Akash Basu | evaluated | 26a442 | 40.2/6.1/46.3 | 0.537 | 522.7 | 169.3 | 303.1 | 232.8 |
+| 68 | Akash Basu | evaluated | 365e59 | 23.6/6.2/29.8 | 0.535 | 518.7 | 169.0 | 303.8 | 233.5 |
 | 69 | dylanjhnsondj | evaluated | c4e1ab | 59.0/6.2/65.1 | 0.535 | 527.3 | 169.6 | 306.0 | 236.8 |
 | 70 | your_nickname_here | evaluated | 0949d0 | 48.9/6.1/55.1 | 0.534 | 554.1 | 172.4 | 311.5 | 250.7 |
 | 71 | hw_bloss | evaluated | 4c9666 | 23.8/6.2/30.0 | 0.531 | 522.2 | 169.1 | 308.1 | 239.1 |
@@ -90,8 +90,8 @@ Last updated: `April 13, 2026 at 11:49:59 PM ET`
 | 76 | tif03 | evaluated | ec268d | 19.7/6.3/26.0 | 0.518 | 501.2 | 167.6 | 309.4 | 249.5 |
 | 77 | avemaria | evaluated | 6a5e32 | 20.0/6.4/26.4 | 0.512 | 521.6 | 165.3 | 323.4 | 256.7 |
 | 78 | poppyPotatoe | evaluated | e01605 | 14.6/8.6/23.2 | 0.469 | 165.2 | 124.1 | 209.9 | 133.8 |
-| 79 | nkkrnkl | evaluated | b2a745 | 43.7/8.4/52.1 | 0.395 | 503.7 | 135.9 | 589.6 | 317.3 |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
+|  | nkkrnkl | failed | ceb8f5 | 72.0/2.6/74.6 |  |  |  |  |  |
 |  | sarah | failed | c2bb47 | 0.0/0.0/0.0 |  |  |  |  |  |
 |  | siddarak | failed | 21bc6d | 39.2/3.2/42.4 |  |  |  |  |  |
 |  | SIUUU | failed | 522695 | 37.9/4.1/42.0 |  |  |  |  |  |
