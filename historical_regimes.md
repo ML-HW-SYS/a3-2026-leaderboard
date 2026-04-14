@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 09:30:52 PM ET`
+Last updated: `April 13, 2026 at 09:41:26 PM ET`
 
 ## R1 (tok/s)
 
@@ -49,30 +49,30 @@ Last updated: `April 13, 2026 at 09:30:52 PM ET`
 | 41 | stefan | develop.py | 4bac49 | 540.4 |
 | 42 | Bulbasaur | submission.py | dfcccd | 540.2 |
 | 43 | henry | develop.py | a20a6f | 540.0 |
-| 44 | abhik | develop.py | 41a3ec | 539.5 |
-| 45 | axel4 | submission.py | 66964d | 537.9 |
-| 46 | sjb | develop.py | 3359ec | 537.0 |
-| 47 | onlythingIcanDOisTAPEOUT | submission.py | b40e4a | 536.3 |
-| 48 | mdavalos10 | develop.py | 6e0754 | 535.4 |
-| 49 | lipphi | submission.py | a3a71b | 534.8 |
-| 50 | gravlax | develop.py | 1f23d9 | 534.6 |
-| 51 | chickfila | submission.py | 29860a | 534.6 |
-| 52 | Yize | submission.py | c8c9f7 | 534.4 |
-| 53 | Decode_speed | submission.py | 236fa2 | 533.3 |
-| 54 | jet2holiday | submission.py | 0bf782 | 532.9 |
-| 55 | Junyi Li | submission.py | 2e381b | 529.4 |
-| 56 | bl792 | submission.py | 3b3a8a | 528.5 |
-| 57 | dylanjhnsondj | develop.py | 55a3fd | 528.5 |
-| 58 | kaimaeda | submission.py | 4360ef | 528.1 |
-| 59 | ethanchen | submission.py | a0d359 | 528.1 |
-| 60 | Rithvik | submission.py | 1a7556 | 527.1 |
-| 61 | castillo | submission.py | 0e93de | 526.6 |
-| 62 | JaneShuey | submission.py | 882419 | 526.2 |
-| 63 | Akash Basu | submission.py | b0a419 | 525.9 |
-| 64 | yb | submission.py | ea23ab | 525.9 |
-| 65 | nicknam534534 | develop.py | 83a901 | 525.8 |
-| 66 | pick_a_nickname | submission.py | c47490 | 525.7 |
-| 67 | avemaria | develop.py | edebd9 | 525.7 |
+| 44 | avemaria | submission.py | 866c91 | 539.6 |
+| 45 | abhik | develop.py | 41a3ec | 539.5 |
+| 46 | axel4 | submission.py | 66964d | 537.9 |
+| 47 | sjb | develop.py | 3359ec | 537.0 |
+| 48 | onlythingIcanDOisTAPEOUT | submission.py | b40e4a | 536.3 |
+| 49 | mdavalos10 | develop.py | 6e0754 | 535.4 |
+| 50 | lipphi | submission.py | a3a71b | 534.8 |
+| 51 | gravlax | develop.py | 1f23d9 | 534.6 |
+| 52 | chickfila | submission.py | 29860a | 534.6 |
+| 53 | Yize | submission.py | c8c9f7 | 534.4 |
+| 54 | Decode_speed | submission.py | 236fa2 | 533.3 |
+| 55 | jet2holiday | submission.py | 0bf782 | 532.9 |
+| 56 | Junyi Li | submission.py | 2e381b | 529.4 |
+| 57 | bl792 | submission.py | 3b3a8a | 528.5 |
+| 58 | dylanjhnsondj | develop.py | 55a3fd | 528.5 |
+| 59 | kaimaeda | submission.py | 4360ef | 528.1 |
+| 60 | ethanchen | submission.py | a0d359 | 528.1 |
+| 61 | Rithvik | submission.py | 1a7556 | 527.1 |
+| 62 | castillo | submission.py | 0e93de | 526.6 |
+| 63 | JaneShuey | submission.py | 882419 | 526.2 |
+| 64 | Akash Basu | submission.py | b0a419 | 525.9 |
+| 65 | yb | submission.py | ea23ab | 525.9 |
+| 66 | nicknam534534 | develop.py | 83a901 | 525.8 |
+| 67 | pick_a_nickname | submission.py | c47490 | 525.7 |
 | 68 | brandon_lorenzo | submission.py | 494304 | 525.0 |
 | 69 | somita | submission.py | bbe658 | 524.7 |
 | 70 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
@@ -198,8 +198,8 @@ Last updated: `April 13, 2026 at 09:30:52 PM ET`
 | 24 | onlythingIcanDOisTAPEOUT | develop.py | 39c775 | 32.2 |
 | 25 | bl792 | develop.py | 09cd73 | 32.3 |
 | 26 | jbc | submission.py | 3d5258 | 32.6 |
-| 27 | blabrl | submission.py | ca60eb | 33.7 |
-| 28 | 1_Core_2GHz_Colab_CPU | submission.py | d3ef07 | 33.9 |
+| 27 | 1_Core_2GHz_Colab_CPU | develop.py | 680fa3 | 33.7 |
+| 28 | blabrl | submission.py | ca60eb | 33.7 |
 | 29 | chickfila | submission.py | f0956d | 34.7 |
 | 30 | gravlax | develop.py | b1229d | 35.0 |
 | 31 | ck | submission.py | f75094 | 35.1 |
@@ -291,7 +291,7 @@ Last updated: `April 13, 2026 at 09:30:52 PM ET`
 | 32 | ck | submission.py | 4ef89e | 64.3 |
 | 33 | omermoav | submission.py | b01c0e | 64.6 |
 | 34 | blabrl | submission.py | ca60eb | 65.2 |
-| 35 | 1_Core_2GHz_Colab_CPU | submission.py | 4a067d | 66.5 |
+| 35 | 1_Core_2GHz_Colab_CPU | develop.py | 680fa3 | 66.3 |
 | 36 | henry | submission.py | a20a6f | 72.0 |
 | 37 | JasonWang07 | develop.py | f27837 | 78.3 |
 | 38 | leoli | submission.py | 5cdac4 | 87.4 |
