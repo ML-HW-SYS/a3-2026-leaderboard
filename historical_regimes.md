@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 14, 2026 at 05:50:19 PM ET`
+Last updated: `April 14, 2026 at 06:05:25 PM ET`
 
 ## R1 (tok/s)
 
@@ -146,8 +146,8 @@ Last updated: `April 14, 2026 at 05:50:19 PM ET`
 | 51 | Yize | submission.py | c8c9f7 | 269.9 |
 | 52 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
 | 53 | happyface | develop.py | f8fcfd | 265.8 |
-| 54 | advaith-1212 | develop.py | 759741 | 260.4 |
-| 55 | siddarak | submission.py | 84ddeb | 260.1 |
+| 54 | siddarak | develop.py | 84ddeb | 261.6 |
+| 55 | advaith-1212 | develop.py | 759741 | 260.4 |
 | 56 | sarah | submission.py | 0a16b5 | 259.9 |
 | 57 | henry | submission.py | 92577d | 259.6 |
 | 58 | nicknam534534 | develop.py | f75c41 | 256.9 |

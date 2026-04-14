@@ -1,11 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 14, 2026 at 05:50:19 PM ET`
+Last updated: `April 14, 2026 at 06:05:25 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Apr 14 05:35 PM ET | TheProphet | late |  | develop.py | c2ab8d | 31.7/2.7/34.4 | 594.8 | 335.7 | 24.4 | 46.4 |
 | Apr 14 05:31 PM ET | siddarak | late |  | submission.py | 84ddeb | 36.4/3.4/39.9 | 482.6 | 260.1 | 34.6 | 65.5 |
+| Apr 14 05:31 PM ET | siddarak | late |  | develop.py | 84ddeb | 18.1/3.4/21.5 | 477.8 | 261.6 | 34.4 | 65.4 |
 | Apr 14 05:16 PM ET | siddarak | late |  | submission.py | 1c2ef6 | 19.6/6.3/25.9 | 177.9 | 171.7 | 34.5 | 65.6 |
 | Apr 14 04:28 PM ET | poppyPotatoe | late |  | submission.py | f2e30b | 15.3/9.0/24.4 | 155.9 | 117.1 | 210.0 | 134.5 |
 | Apr 14 04:20 PM ET | siddarak | late |  | submission.py | c1bf9e | 16.9/9.7/26.6 | 168.7 | 169.9 | 585.2 | 323.4 |
