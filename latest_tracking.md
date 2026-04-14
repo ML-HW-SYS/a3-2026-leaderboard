@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 14, 2026 at 10:27:14 AM ET`
+Last updated: `April 14, 2026 at 10:42:08 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 14 10:32 AM ET | sarah | failed_correctness | Correctness FAIL \| R1 (92.51%), R2 (92.01%), R3 (90.81%), R4 (90.73%) \| max_abs_diff=15.72 | develop.py | 2deeaa | 7.3/8.3/15.6 | 276.7 | 151.8 | 403.7 | 368.6 |
 | Apr 14 10:12 AM ET | sarah | failed_correctness | R2: ERR: The expanded size of the tensor (129) must match the existing size (32) at non-singleton dimension 3. Target... | develop.py | aeb3e1 | 7.3/6.7/14.0 | 76.1 | 0.0 | 0.0 | 0.0 |
 | Apr 14 10:02 AM ET | castillo | late |  | submission.py | f1bdd6 | 25.8/3.2/29.0 | 538.3 | 275.6 | 35.3 | 65.9 |
 | Apr 14 10:02 AM ET | castillo | late |  | develop.py | f1bdd6 | 18.8/3.2/22.0 | 534.3 | 275.4 | 35.3 | 66.0 |
