@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 14, 2026 at 02:18:47 PM ET`
+Last updated: `April 14, 2026 at 02:33:50 PM ET`
 
 ## R1 (tok/s)
 
@@ -111,7 +111,7 @@ Last updated: `April 14, 2026 at 02:18:47 PM ET`
 | 16 | zionrangers | develop.py | 7758e0 | 372.9 |
 | 17 | ashaikh23 | submission.py | 84a425 | 372.1 |
 | 18 | pyjuan91 | develop.py | 92d1da | 364.9 |
-| 19 | nkkrnkl | submission.py | 341d48 | 362.9 |
+| 19 | nkkrnkl | develop.py | de6b0f | 363.1 |
 | 20 | Shengwei | submission.py | 67896e | 362.7 |
 | 21 | 1_Core_2GHz_Colab_CPU | submission.py | 124a48 | 360.8 |
 | 22 | gm | develop.py | fd15e9 | 357.3 |
