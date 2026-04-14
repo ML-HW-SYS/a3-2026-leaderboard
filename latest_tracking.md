@@ -1,13 +1,16 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 07:53:57 PM ET`
+Last updated: `April 13, 2026 at 08:03:08 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 07:46 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.75%) \| max_abs_diff=12.18 | develop.py | 2bc0c9 | 49.3/2.5/51.8 | 562.3 | 380.5 | 24.1 | 46.5 |
 | Apr 13 07:46 PM ET | pick_a_nickname | evaluated |  | submission.py | c0f48f | 41.9/3.7/45.6 | 521.5 | 258.2 | 66.8 | 113.8 |
 | Apr 13 07:44 PM ET | TheProphet | evaluated |  | submission.py | 38ee53 | 26.5/6.2/32.7 | 355.8 | 128.0 | 96.0 | 100.2 |
 | Apr 13 07:43 PM ET | henry | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | a05ddd | 17.2/3.5/20.6 | 539.4 | 260.9 | 66.8 | 72.2 |
+| Apr 13 07:43 PM ET | henry | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | develop.py | a05ddd | 17.1/3.5/20.5 | 539.7 | 261.1 | 66.9 | 72.4 |
 | Apr 13 07:33 PM ET | jbc | evaluated |  | submission.py | 3d5258 | 19.2/2.6/21.8 | 557.2 | 403.2 | 32.6 | 59.0 |
+| Apr 13 07:33 PM ET | jbc | evaluated |  | develop.py | 3d5258 | 18.7/2.6/21.3 | 557.9 | 403.5 | 32.8 | 59.4 |
 | Apr 13 07:32 PM ET | avemaria | failed_compliance | Submission compliance check failed for develop.py: \| - missing required function(s): setup, run | develop.py | 61e59d |  |  |  |  |  |
 | Apr 13 07:29 PM ET | co-smith | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | submission.py | b1105a | 53.4/3.6/57.0 | 445.9 | 220.9 | 30.5 | 0.0 |
 | Apr 13 07:29 PM ET | co-smith | evaluated |  | develop.py | b1105a | 43.9/3.8/47.7 | 446.4 | 221.3 | 30.5 | 59.3 |
