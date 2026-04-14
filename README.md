@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 14, 2026 at 04:33:53 PM ET`
+Last updated: `April 14, 2026 at 04:49:22 PM ET`
 
 ## Pages
 
@@ -92,8 +92,8 @@ Last updated: `April 14, 2026 at 04:33:53 PM ET`
 | 78 | tif03 | evaluated | ec268d | 19.7/6.3/26.0 | 0.518 | 501.2 | 167.6 | 309.4 | 249.5 |
 | 79 | avemaria | evaluated | 6a5e32 | 20.0/6.4/26.4 | 0.512 | 521.6 | 165.3 | 323.4 | 256.7 |
 | 80 | dhanushikka | late | 9e7232 | 21.0/6.5/27.5 | 0.493 | 518.8 | 178.9 | 386.6 | 268.2 |
-| 81 | poppyPotatoe | late | d5cd12 | 14.7/8.6/23.3 | 0.466 | 162.6 | 125.0 | 210.5 | 135.1 |
-| 82 | siddarak | late | cbf90a | 17.3/9.6/26.9 | 0.319 | 174.5 | 168.4 | 585.1 | 323.1 |
+| 81 | poppyPotatoe | late | f2e30b | 15.3/9.0/24.4 | 0.455 | 155.9 | 117.1 | 210.0 | 134.5 |
+| 82 | siddarak | late | c1bf9e | 16.9/9.7/26.6 | 0.317 | 168.7 | 169.9 | 585.2 | 323.4 |
 |  | SIUUU | failed | 522695 | 37.9/4.1/42.0 |  |  |  |  |  |
 
 ## Column Guide

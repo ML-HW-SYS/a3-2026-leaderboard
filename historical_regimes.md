@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 14, 2026 at 04:33:53 PM ET`
+Last updated: `April 14, 2026 at 04:49:22 PM ET`
 
 ## R1 (tok/s)
 
@@ -163,14 +163,14 @@ Last updated: `April 14, 2026 at 04:33:53 PM ET`
 | 68 | yb | develop.py | 92193f | 174.2 |
 | 69 | your_nickname_here | submission.py | 59e245 | 173.4 |
 | 70 | yoursun1220 | submission.py | 27e400 | 169.9 |
-| 71 | axel4 | submission.py | ea45fd | 169.9 |
-| 72 | brandon_lorenzo | submission.py | 67c79e | 169.8 |
-| 73 | hw_bloss | submission.py | b2767b | 169.8 |
-| 74 | Akash Basu | develop.py | fa6371 | 169.8 |
-| 75 | Junyi Li | submission.py | c7a1b3 | 169.7 |
-| 76 | dylanjhnsondj | submission.py | c4e1ab | 169.6 |
-| 77 | somita | submission.py | bbe658 | 169.5 |
-| 78 | siddarak | submission.py | cbf90a | 168.4 |
+| 71 | siddarak | submission.py | c1bf9e | 169.9 |
+| 72 | axel4 | submission.py | ea45fd | 169.9 |
+| 73 | brandon_lorenzo | submission.py | 67c79e | 169.8 |
+| 74 | hw_bloss | submission.py | b2767b | 169.8 |
+| 75 | Akash Basu | develop.py | fa6371 | 169.8 |
+| 76 | Junyi Li | submission.py | c7a1b3 | 169.7 |
+| 77 | dylanjhnsondj | submission.py | c4e1ab | 169.6 |
+| 78 | somita | submission.py | bbe658 | 169.5 |
 | 79 | tif03 | submission.py | ec268d | 167.6 |
 | 80 | avemaria | develop.py | 242975 | 165.7 |
 | 81 | JaneShuey | submission.py | 882419 | 165.2 |
