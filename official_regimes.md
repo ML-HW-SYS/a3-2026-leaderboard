@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 14, 2026 at 01:01:42 AM ET`
+Last updated: `April 14, 2026 at 01:16:47 AM ET`
 
 ## R1 (tok/s)
 
@@ -87,7 +87,7 @@ Last updated: `April 14, 2026 at 01:01:42 AM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | nkkrnkl | failed | ceb8f5 |  |
 |  | sarah | failed | c2bb47 |  |
-|  | siddarak | failed | 21bc6d |  |
+|  | siddarak | failed | 25626c |  |
 |  | SIUUU | failed | 522695 |  |
 
 ## R2 (tok/s)
@@ -175,7 +175,7 @@ Last updated: `April 14, 2026 at 01:01:42 AM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | nkkrnkl | failed | ceb8f5 |  |
 |  | sarah | failed | c2bb47 |  |
-|  | siddarak | failed | 21bc6d |  |
+|  | siddarak | failed | 25626c |  |
 |  | SIUUU | failed | 522695 |  |
 
 ## R3 (ms)
@@ -263,7 +263,7 @@ Last updated: `April 14, 2026 at 01:01:42 AM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | nkkrnkl | failed | ceb8f5 |  |
 |  | sarah | failed | c2bb47 |  |
-|  | siddarak | failed | 21bc6d |  |
+|  | siddarak | failed | 25626c |  |
 |  | SIUUU | failed | 522695 |  |
 
 ## R4 (ms)
@@ -351,5 +351,5 @@ Last updated: `April 14, 2026 at 01:01:42 AM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | nkkrnkl | failed | ceb8f5 |  |
 |  | sarah | failed | c2bb47 |  |
-|  | siddarak | failed | 21bc6d |  |
+|  | siddarak | failed | 25626c |  |
 |  | SIUUU | failed | 522695 |  |

@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 14, 2026 at 01:01:42 AM ET`
+Last updated: `April 14, 2026 at 01:16:47 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 14 12:49 AM ET | siddarak | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 25626c | 19.6/5.7/25.3 | 536.2 | 176.8 | 279.4 | 187.6 |
 | Apr 14 12:04 AM ET | TheProphet | failed_correctness | R1: SETUP: ERR: AttributeError: 'AssignmentTransformerModel_R1' object has no attribute 'decode_stream' \| R2: SETUP: ... | develop.py | 898e24 | 25.3/0.3/25.6 | 0.0 | 0.0 | 24.4 | 46.7 |
 | Apr 13 11:52 PM ET | Akash Basu | evaluated |  | submission.py | 365e59 | 23.6/6.2/29.8 | 518.7 | 169.0 | 303.8 | 233.5 |
 | Apr 13 11:52 PM ET | Akash Basu | evaluated |  | develop.py | 365e59 | 25.4/6.1/31.5 | 522.5 | 169.8 | 302.0 | 232.0 |
