@@ -1,13 +1,18 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 11:19:10 PM ET`
+Last updated: `April 13, 2026 at 11:26:06 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 11:22 PM ET | sarah | failed_correctness | Correctness FAIL \| R1 (92.46%), R2 (92.02%), R3 (90.77%), R4 (90.73%) \| max_abs_diff=16.17 | develop.py | cb31d0 | 7.3/9.0/16.3 | 264.2 | 140.8 | 459.0 | 397.2 |
+| Apr 13 11:19 PM ET | yb | evaluated |  | submission.py | ec6a2f | 74.7/5.1/79.8 | 524.4 | 174.1 | 132.6 | 153.4 |
+| Apr 13 11:17 PM ET | avemaria | evaluated |  | submission.py | 6a5e32 | 20.0/6.4/26.4 | 521.6 | 165.3 | 323.4 | 256.7 |
 | Apr 13 11:15 PM ET | avemaria | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | submission.py | d49431 | 80.0/4.1/84.2 | 509.8 | 163.7 | 0.0 | 0.0 |
+| Apr 13 11:14 PM ET | TheProphet | evaluated |  | develop.py | 3c2897 | 43.8/2.5/46.3 | 581.0 | 381.2 | 24.2 | 46.4 |
 | Apr 13 11:11 PM ET | yb | evaluated |  | submission.py | 312a78 | 29.9/6.1/36.0 | 524.6 | 173.8 | 306.5 | 238.6 |
 | Apr 13 11:10 PM ET | kade_lin_is_here | evaluated |  | submission.py | f5916e | 53.1/4.4/57.5 | 543.3 | 209.5 | 109.5 | 138.5 |
 | Apr 13 11:09 PM ET | chyyy | evaluated |  | submission.py | ea0704 | 33.8/2.4/36.2 | 559.8 | 422.3 | 25.0 | 48.6 |
+| Apr 13 11:09 PM ET | chyyy | evaluated |  | develop.py | ea0704 | 23.3/2.4/25.7 | 559.4 | 422.3 | 25.0 | 48.3 |
 | Apr 13 11:08 PM ET | siddarak | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | f39c78 | 19.2/3.8/23.0 | 521.7 | 254.9 | 70.5 | 125.5 |
 | Apr 13 11:03 PM ET | nkkrnkl | evaluated |  | submission.py | b2a745 | 43.7/8.4/52.1 | 503.7 | 135.9 | 589.6 | 317.3 |
 | Apr 13 11:03 PM ET | nkkrnkl | evaluated |  | develop.py | b2a745 | 21.9/8.4/30.3 | 498.3 | 135.9 | 589.6 | 317.5 |

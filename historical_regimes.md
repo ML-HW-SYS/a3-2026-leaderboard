@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 11:19:10 PM ET`
+Last updated: `April 13, 2026 at 11:26:06 PM ET`
 
 ## R1 (tok/s)
 
@@ -238,11 +238,11 @@ Last updated: `April 13, 2026 at 11:19:10 PM ET`
 | 62 | pallavi-srinivas | submission.py | 72c655 | 104.2 |
 | 63 | SIUUU | develop.py | 522695 | 104.4 |
 | 64 | lipphi | develop.py | d58cae | 104.4 |
-| 65 | tuo | submission.py | 92c00e | 166.9 |
-| 66 | poppyPotatoe | submission.py | e01605 | 209.9 |
-| 67 | mdavalos10 | submission.py | 871ac2 | 279.7 |
-| 68 | Akash Basu | develop.py | 26a442 | 303.0 |
-| 69 | yb | develop.py | 92193f | 305.6 |
+| 65 | yb | submission.py | ec6a2f | 132.6 |
+| 66 | tuo | submission.py | 92c00e | 166.9 |
+| 67 | poppyPotatoe | submission.py | e01605 | 209.9 |
+| 68 | mdavalos10 | submission.py | 871ac2 | 279.7 |
+| 69 | Akash Basu | develop.py | 26a442 | 303.0 |
 | 70 | dylanjhnsondj | submission.py | c4e1ab | 306.0 |
 | 71 | hw_bloss | submission.py | b2767b | 306.7 |
 | 72 | your_nickname_here | submission.py | 59e245 | 307.4 |
@@ -325,12 +325,12 @@ Last updated: `April 13, 2026 at 11:19:10 PM ET`
 | 63 | Bulbasaur | develop.py | dfcccd | 150.1 |
 | 64 | lipphi | submission.py | a3a71b | 150.9 |
 | 65 | SIUUU | develop.py | 522695 | 151.0 |
-| 66 | tuo | submission.py | 4274da | 160.5 |
-| 67 | mdavalos10 | submission.py | af3233 | 189.4 |
-| 68 | Akash Basu | develop.py | 26a442 | 231.1 |
-| 69 | dylanjhnsondj | submission.py | c4e1ab | 236.8 |
-| 70 | hw_bloss | submission.py | b2767b | 237.0 |
-| 71 | yb | develop.py | 92193f | 238.2 |
+| 66 | yb | submission.py | ec6a2f | 153.4 |
+| 67 | tuo | submission.py | 4274da | 160.5 |
+| 68 | mdavalos10 | submission.py | af3233 | 189.4 |
+| 69 | Akash Basu | develop.py | 26a442 | 231.1 |
+| 70 | dylanjhnsondj | submission.py | c4e1ab | 236.8 |
+| 71 | hw_bloss | submission.py | b2767b | 237.0 |
 | 72 | Sulaiman Alam | develop.py | c7ede2 | 244.4 |
 | 73 | your_nickname_here | submission.py | 59e245 | 245.7 |
 | 74 | axel4 | submission.py | c74a1e | 247.5 |
