@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 14, 2026 at 11:44:01 AM ET`
+Last updated: `April 14, 2026 at 12:00:17 PM ET`
 
 ## R1 (tok/s)
 
@@ -81,11 +81,12 @@ Last updated: `April 14, 2026 at 11:44:01 AM ET`
 | 73 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
 | 74 | yoursun1220 | submission.py | f4e2be | 524.2 |
 | 75 | hw_bloss | submission.py | 2d26da | 523.5 |
-| 76 | PurplePickle67 | submission.py | 68d34e | 520.5 |
-| 77 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
-| 78 | tuo | submission.py | 4274da | 507.3 |
-| 79 | tif03 | submission.py | e84053 | 501.5 |
-| 80 | poppyPotatoe | submission.py | dd4e57 | 169.9 |
+| 76 | dhanushikka | develop.py | 4ec3db | 522.3 |
+| 77 | PurplePickle67 | submission.py | 68d34e | 520.5 |
+| 78 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
+| 79 | tuo | submission.py | 4274da | 507.3 |
+| 80 | tif03 | submission.py | e84053 | 501.5 |
+| 81 | poppyPotatoe | submission.py | dd4e57 | 169.9 |
 
 ## R2 (tok/s)
 
@@ -157,20 +158,21 @@ Last updated: `April 14, 2026 at 11:44:01 AM ET`
 | 64 | tuo | submission.py | 3d6d40 | 204.6 |
 | 65 | Sulaiman Alam | submission.py | c7ede2 | 197.4 |
 | 66 | mdavalos10 | submission.py | af3233 | 177.8 |
-| 67 | yb | develop.py | 92193f | 174.2 |
-| 68 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 69 | yoursun1220 | submission.py | 27e400 | 169.9 |
-| 70 | axel4 | submission.py | ea45fd | 169.9 |
-| 71 | brandon_lorenzo | submission.py | 67c79e | 169.8 |
-| 72 | hw_bloss | submission.py | b2767b | 169.8 |
-| 73 | Akash Basu | develop.py | fa6371 | 169.8 |
-| 74 | Junyi Li | submission.py | c7a1b3 | 169.7 |
-| 75 | dylanjhnsondj | submission.py | c4e1ab | 169.6 |
-| 76 | somita | submission.py | bbe658 | 169.5 |
-| 77 | tif03 | submission.py | ec268d | 167.6 |
-| 78 | avemaria | develop.py | 242975 | 165.7 |
-| 79 | JaneShuey | submission.py | 882419 | 165.2 |
-| 80 | poppyPotatoe | develop.py | e01605 | 127.2 |
+| 67 | dhanushikka | develop.py | 4ec3db | 177.3 |
+| 68 | yb | develop.py | 92193f | 174.2 |
+| 69 | your_nickname_here | submission.py | 59e245 | 173.4 |
+| 70 | yoursun1220 | submission.py | 27e400 | 169.9 |
+| 71 | axel4 | submission.py | ea45fd | 169.9 |
+| 72 | brandon_lorenzo | submission.py | 67c79e | 169.8 |
+| 73 | hw_bloss | submission.py | b2767b | 169.8 |
+| 74 | Akash Basu | develop.py | fa6371 | 169.8 |
+| 75 | Junyi Li | submission.py | c7a1b3 | 169.7 |
+| 76 | dylanjhnsondj | submission.py | c4e1ab | 169.6 |
+| 77 | somita | submission.py | bbe658 | 169.5 |
+| 78 | tif03 | submission.py | ec268d | 167.6 |
+| 79 | avemaria | develop.py | 242975 | 165.7 |
+| 80 | JaneShuey | submission.py | 882419 | 165.2 |
+| 81 | poppyPotatoe | develop.py | e01605 | 127.2 |
 
 ## R3 (ms)
 
@@ -258,6 +260,7 @@ Last updated: `April 14, 2026 at 11:44:01 AM ET`
 | 80 | tif03 | submission.py | ec268d | 309.4 |
 | 81 | somita | submission.py | bbe658 | 309.5 |
 | 82 | avemaria | submission.py | 6c5090 | 316.6 |
+| 83 | dhanushikka | develop.py | 4ec3db | 393.9 |
 
 ## R4 (ms)
 
@@ -322,7 +325,7 @@ Last updated: `April 14, 2026 at 11:44:01 AM ET`
 | 57 | jet2holiday | submission.py | 0bf782 | 127.0 |
 | 58 | kade_lin_is_here | submission.py | f52035 | 131.5 |
 | 59 | TA | submission.py | 324cb8 | 131.7 |
-| 60 | poppyPotatoe | submission.py | daea72 | 133.5 |
+| 60 | poppyPotatoe | submission.py | b7bdd9 | 133.4 |
 | 61 | fishyfins | submission.py | 6b3edb | 138.3 |
 | 62 | 13rabbit | submission.py | 49d27b | 141.4 |
 | 63 | Bulbasaur | develop.py | d42099 | 145.4 |
@@ -345,3 +348,4 @@ Last updated: `April 14, 2026 at 11:44:01 AM ET`
 | 80 | brandon_lorenzo | submission.py | 67c79e | 249.6 |
 | 81 | somita | submission.py | bbe658 | 249.8 |
 | 82 | avemaria | develop.py | 242975 | 254.8 |
+| 83 | dhanushikka | develop.py | 4ec3db | 268.9 |

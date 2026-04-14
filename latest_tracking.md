@@ -1,11 +1,14 @@
 # Latest Tracking
 
-Last updated: `April 14, 2026 at 11:44:01 AM ET`
+Last updated: `April 14, 2026 at 12:00:17 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Apr 14 11:36 AM ET | sarah | late |  | develop.py | b44c34 | 20.9/3.7/24.6 | 535.1 | 259.9 | 64.3 | 124.5 |
+| Apr 14 11:32 AM ET | dhanushikka | late |  | develop.py | 4ec3db | 41.6/6.5/48.1 | 522.3 | 177.3 | 393.9 | 268.9 |
+| Apr 14 11:31 AM ET | poppyPotatoe | late |  | submission.py | b7bdd9 | 14.7/8.6/23.3 | 164.1 | 125.8 | 210.0 | 133.4 |
 | Apr 14 11:31 AM ET | hngydn20 | late |  | submission.py | 52c925 | 38.1/3.0/41.2 | 558.0 | 347.5 | 68.5 | 85.7 |
+| Apr 14 11:31 AM ET | hngydn20 | late |  | develop.py | 52c925 | 20.4/3.0/23.5 | 553.1 | 347.4 | 68.6 | 85.8 |
 | Apr 14 11:12 AM ET | dhanushikka | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | 915abd |  |  |  |  |  |
 | Apr 14 11:03 AM ET | hngydn20 | failed_correctness | R1: SETUP: ERR: NameError: name 'q_len' is not defined \| R2: SETUP: ERR: NameError: name 'q_len' is not defined \| R3:... | submission.py | 1bf680 | 14.6/0.0/14.6 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 14 10:47 AM ET | nkkrnkl | late |  | submission.py | 1558fa | 32.2/3.2/35.4 | 529.3 | 325.0 | 76.8 | 84.9 |
