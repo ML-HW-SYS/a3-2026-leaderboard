@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 13, 2026 at 11:39:03 PM ET`
+Last updated: `April 13, 2026 at 11:44:26 PM ET`
 
 ## R1 (tok/s)
 
@@ -67,9 +67,9 @@ Last updated: `April 13, 2026 at 11:39:03 PM ET`
 | 59 | JaneShuey | evaluated | 882419 | 526.2 |
 | 60 | bl792 | evaluated | 09cd73 | 524.7 |
 | 61 | somita | evaluated | bbe658 | 524.7 |
-| 62 | yb | evaluated | ec6a2f | 524.4 |
-| 63 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
-| 64 | ethanchen | evaluated | ea518d | 523.7 |
+| 62 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
+| 63 | ethanchen | evaluated | ea518d | 523.7 |
+| 64 | yb | evaluated | a49d40 | 523.5 |
 | 65 | Akash Basu | evaluated | 26a442 | 522.7 |
 | 66 | hw_bloss | evaluated | 4c9666 | 522.2 |
 | 67 | yoursun1220 | evaluated | d8b590 | 521.8 |
@@ -158,7 +158,7 @@ Last updated: `April 13, 2026 at 11:39:03 PM ET`
 | 62 | tuo | evaluated | 3d6d40 | 204.6 |
 | 63 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
 | 64 | mdavalos10 | evaluated | af3233 | 177.8 |
-| 65 | yb | evaluated | ec6a2f | 174.1 |
+| 65 | yb | evaluated | a49d40 | 174.1 |
 | 66 | your_nickname_here | evaluated | 0949d0 | 172.4 |
 | 67 | brandon_lorenzo | evaluated | 67c79e | 169.8 |
 | 68 | axel4 | evaluated | 717d73 | 169.8 |
@@ -245,7 +245,7 @@ Last updated: `April 13, 2026 at 11:39:03 PM ET`
 | 61 | fishyfins | evaluated | 5ef586 | 106.0 |
 | 62 | kade_lin_is_here | evaluated | 6f69a9 | 108.4 |
 | 63 | castillo | evaluated | b62311 | 112.0 |
-| 64 | yb | evaluated | ec6a2f | 132.6 |
+| 64 | yb | evaluated | a49d40 | 133.1 |
 | 65 | tuo | evaluated | 3d6d40 | 167.8 |
 | 66 | poppyPotatoe | evaluated | e01605 | 209.9 |
 | 67 | mdavalos10 | evaluated | af3233 | 279.7 |
@@ -334,7 +334,7 @@ Last updated: `April 13, 2026 at 11:39:03 PM ET`
 | 62 | fishyfins | evaluated | 5ef586 | 150.9 |
 | 63 | lipphi | evaluated | a3a71b | 150.9 |
 | 64 | pallavi-srinivas | evaluated | 3c1d3c | 151.0 |
-| 65 | yb | evaluated | ec6a2f | 153.4 |
+| 65 | yb | evaluated | a49d40 | 154.0 |
 | 66 | tuo | evaluated | 3d6d40 | 162.8 |
 | 67 | mdavalos10 | evaluated | af3233 | 189.4 |
 | 68 | Akash Basu | evaluated | 26a442 | 232.8 |

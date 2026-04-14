@@ -1,12 +1,15 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 11:39:03 PM ET`
+Last updated: `April 13, 2026 at 11:44:26 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 11:37 PM ET | sarah | failed_correctness | R4: ERR: The size of tensor a (8) must match the size of tensor b (1024) at non-singleton dimension 2 | develop.py | b37dbb | 7.3/6.7/14.0 | 283.4 | 155.0 | 394.8 | 0.0 |
+| Apr 13 11:37 PM ET | yb | evaluated |  | submission.py | a49d40 | 77.1/5.1/82.2 | 523.5 | 174.1 | 133.1 | 154.0 |
 | Apr 13 11:33 PM ET | kade_lin_is_here | evaluated |  | submission.py | 6f69a9 | 45.9/4.1/50.0 | 541.8 | 237.6 | 108.4 | 138.5 |
 | Apr 13 11:33 PM ET | sarah | failed_correctness | R2: ERR: The size of tensor a (32) must match the size of tensor b (4096) at non-singleton dimension 3 \| R3: ERR: The... | develop.py | d87689 | 7.3/7.0/14.3 | 73.4 | 0.0 | 0.0 | 0.0 |
 | Apr 13 11:32 PM ET | Bulbasaur | evaluated |  | submission.py | d42099 | 40.3/3.6/43.9 | 533.8 | 305.9 | 103.1 | 146.5 |
+| Apr 13 11:32 PM ET | Bulbasaur | evaluated |  | develop.py | d42099 | 19.8/3.6/23.4 | 538.0 | 306.2 | 102.3 | 145.4 |
 | Apr 13 11:30 PM ET | onlythingIcanDOisTAPEOUT | evaluated |  | submission.py | 6a5359 | 69.1/3.2/72.2 | 536.1 | 281.1 | 33.0 | 64.2 |
 | Apr 13 11:29 PM ET | castillo | evaluated |  | submission.py | b62311 | 29.2/4.0/33.2 | 527.4 | 236.1 | 112.0 | 106.7 |
 | Apr 13 11:29 PM ET | castillo | evaluated |  | develop.py | b62311 | 19.0/4.0/23.0 | 523.2 | 235.9 | 112.1 | 106.6 |

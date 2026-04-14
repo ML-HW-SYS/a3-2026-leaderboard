@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 11:39:03 PM ET`
+Last updated: `April 13, 2026 at 11:44:26 PM ET`
 
 ## R1 (tok/s)
 
@@ -127,7 +127,7 @@ Last updated: `April 13, 2026 at 11:39:03 PM ET`
 | 35 | goingbananas | submission.py | 2ce123 | 307.6 |
 | 36 | pallavi-srinivas | submission.py | 26a6d9 | 307.4 |
 | 37 | lipphi | submission.py | a3a71b | 306.7 |
-| 38 | Bulbasaur | submission.py | d42099 | 305.9 |
+| 38 | Bulbasaur | develop.py | d42099 | 306.2 |
 | 39 | PurplePickle67 | submission.py | 68d34e | 303.7 |
 | 40 | TA | submission.py | 324cb8 | 295.5 |
 | 41 | beratcelik | submission.py | 7c87c2 | 294.0 |
@@ -233,7 +233,7 @@ Last updated: `April 13, 2026 at 11:39:03 PM ET`
 | 57 | hngydn20 | develop.py | 7ec9c9 | 99.3 |
 | 58 | fishyfins | develop.py | 6b3edb | 101.0 |
 | 59 | jl | submission.py | e6ce85 | 101.9 |
-| 60 | Bulbasaur | submission.py | d42099 | 103.1 |
+| 60 | Bulbasaur | develop.py | d42099 | 102.3 |
 | 61 | goingbananas | develop.py | 162a5a | 104.2 |
 | 62 | pallavi-srinivas | submission.py | 72c655 | 104.2 |
 | 63 | SIUUU | develop.py | 522695 | 104.4 |
@@ -319,8 +319,8 @@ Last updated: `April 13, 2026 at 11:39:03 PM ET`
 | 57 | poppyPotatoe | submission.py | e01605 | 133.8 |
 | 58 | fishyfins | submission.py | 6b3edb | 138.3 |
 | 59 | 13rabbit | submission.py | 49d27b | 141.4 |
-| 60 | hngydn20 | submission.py | 7ec9c9 | 145.9 |
-| 61 | Bulbasaur | submission.py | d42099 | 146.5 |
+| 60 | Bulbasaur | develop.py | d42099 | 145.4 |
+| 61 | hngydn20 | submission.py | 7ec9c9 | 145.9 |
 | 62 | jl | submission.py | e6ce85 | 148.1 |
 | 63 | pallavi-srinivas | submission.py | 72c655 | 149.7 |
 | 64 | goingbananas | develop.py | 162a5a | 149.8 |
