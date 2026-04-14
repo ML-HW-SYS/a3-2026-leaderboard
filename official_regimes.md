@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 13, 2026 at 09:54:13 PM ET`
+Last updated: `April 13, 2026 at 10:06:02 PM ET`
 
 ## R1 (tok/s)
 
@@ -55,16 +55,16 @@ Last updated: `April 13, 2026 at 09:54:13 PM ET`
 | 47 | stefan | evaluated | cf00e7 | 534.0 |
 | 48 | pallavi-srinivas | evaluated | 3c1d3c | 533.0 |
 | 49 | gravlax | evaluated | b1229d | 532.3 |
-| 50 | jet2holiday | evaluated | 3794df | 531.3 |
-| 51 | henry | evaluated | a20a6f | 531.2 |
-| 52 | Decode_speed | evaluated | d54f1d | 530.2 |
-| 53 | 13rabbit | evaluated | 49d27b | 529.4 |
-| 54 | mdavalos10 | evaluated | af3233 | 529.3 |
-| 55 | kaimaeda | evaluated | 4360ef | 528.1 |
-| 56 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
-| 57 | Junyi Li | evaluated | c7a1b3 | 527.3 |
-| 58 | castillo | evaluated | 0e93de | 526.6 |
-| 59 | JaneShuey | evaluated | 882419 | 526.2 |
+| 50 | henry | evaluated | a20a6f | 531.2 |
+| 51 | Decode_speed | evaluated | d54f1d | 530.2 |
+| 52 | 13rabbit | evaluated | 49d27b | 529.4 |
+| 53 | mdavalos10 | evaluated | af3233 | 529.3 |
+| 54 | kaimaeda | evaluated | 4360ef | 528.1 |
+| 55 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
+| 56 | Junyi Li | evaluated | c7a1b3 | 527.3 |
+| 57 | castillo | evaluated | 0e93de | 526.6 |
+| 58 | JaneShuey | evaluated | 882419 | 526.2 |
+| 59 | jet2holiday | evaluated | 82cf94 | 525.8 |
 | 60 | bl792 | evaluated | 09cd73 | 524.7 |
 | 61 | somita | evaluated | bbe658 | 524.7 |
 | 62 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
@@ -87,7 +87,7 @@ Last updated: `April 13, 2026 at 09:54:13 PM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | nkkrnkl | failed | 23a7a1 |  |
 |  | sarah | failed | c2bb47 |  |
-|  | siddarak | failed | 5563a4 |  |
+|  | siddarak | failed | 95841f |  |
 |  | SIUUU | failed | 522695 |  |
 
 ## R2 (tok/s)
@@ -147,8 +147,8 @@ Last updated: `April 13, 2026 at 09:54:13 PM ET`
 | 51 | advaith-1212 | evaluated | f4f700 | 260.2 |
 | 52 | henry | evaluated | a20a6f | 259.4 |
 | 53 | nicknam534534 | evaluated | 59bdfc | 256.3 |
-| 54 | jet2holiday | evaluated | 3794df | 251.9 |
-| 55 | ethanchen | evaluated | ea518d | 251.2 |
+| 54 | ethanchen | evaluated | ea518d | 251.2 |
+| 55 | jet2holiday | evaluated | 82cf94 | 250.7 |
 | 56 | bl792 | evaluated | 09cd73 | 238.8 |
 | 57 | Licha | evaluated | 9666cd | 238.1 |
 | 58 | kade_lin_is_here | evaluated | c157d0 | 237.8 |
@@ -175,7 +175,7 @@ Last updated: `April 13, 2026 at 09:54:13 PM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | nkkrnkl | failed | 23a7a1 |  |
 |  | sarah | failed | c2bb47 |  |
-|  | siddarak | failed | 5563a4 |  |
+|  | siddarak | failed | 95841f |  |
 |  | SIUUU | failed | 522695 |  |
 
 ## R3 (ms)
@@ -233,7 +233,7 @@ Last updated: `April 13, 2026 at 09:54:13 PM ET`
 | 49 | JasonWang07 | evaluated | a4b405 | 70.8 |
 | 50 | leoli | evaluated | 5cdac4 | 71.0 |
 | 51 | ethanchen | evaluated | ea518d | 74.4 |
-| 52 | jet2holiday | evaluated | 3794df | 77.4 |
+| 52 | jet2holiday | evaluated | 82cf94 | 77.2 |
 | 53 | TA | evaluated | a6e863 | 85.6 |
 | 54 | 13rabbit | evaluated | 49d27b | 97.1 |
 | 55 | hngydn20 | evaluated | 7ec9c9 | 99.4 |
@@ -263,7 +263,7 @@ Last updated: `April 13, 2026 at 09:54:13 PM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | nkkrnkl | failed | 23a7a1 |  |
 |  | sarah | failed | c2bb47 |  |
-|  | siddarak | failed | 5563a4 |  |
+|  | siddarak | failed | 95841f |  |
 |  | SIUUU | failed | 522695 |  |
 
 ## R4 (ms)
@@ -321,7 +321,7 @@ Last updated: `April 13, 2026 at 09:54:13 PM ET`
 | 49 | ethanchen | evaluated | ea518d | 123.6 |
 | 50 | advaith-1212 | evaluated | f4f700 | 123.6 |
 | 51 | nicknam534534 | evaluated | 59bdfc | 126.3 |
-| 52 | jet2holiday | evaluated | 3794df | 127.1 |
+| 52 | jet2holiday | evaluated | 82cf94 | 127.3 |
 | 53 | poppyPotatoe | evaluated | e01605 | 133.8 |
 | 54 | TA | evaluated | a6e863 | 135.6 |
 | 55 | kade_lin_is_here | evaluated | c157d0 | 138.3 |
@@ -351,5 +351,5 @@ Last updated: `April 13, 2026 at 09:54:13 PM ET`
 |  | dhanushikka | failed | 14b1fd |  |
 |  | nkkrnkl | failed | 23a7a1 |  |
 |  | sarah | failed | c2bb47 |  |
-|  | siddarak | failed | 5563a4 |  |
+|  | siddarak | failed | 95841f |  |
 |  | SIUUU | failed | 522695 |  |

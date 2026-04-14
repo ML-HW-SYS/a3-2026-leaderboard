@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 13, 2026 at 09:54:13 PM ET`
+Last updated: `April 13, 2026 at 10:06:02 PM ET`
 
 ## Pages
 
@@ -62,7 +62,7 @@ Last updated: `April 13, 2026 at 09:54:13 PM ET`
 | 48 | nicknam534534 | evaluated | 59bdfc | 33.5/3.8/37.2 | 1.011 | 503.8 | 256.3 | 64.8 | 126.3 |
 | 49 | ethanchen | evaluated | ea518d | 37.9/3.8/41.7 | 0.987 | 523.7 | 251.2 | 74.4 | 123.6 |
 | 50 | TA | evaluated | a6e863 | 47.2/3.5/50.8 | 0.984 | 556.6 | 294.5 | 85.6 | 135.6 |
-| 51 | jet2holiday | evaluated | 3794df | 43.6/3.8/47.5 | 0.974 | 531.3 | 251.9 | 77.4 | 127.1 |
+| 51 | jet2holiday | evaluated | 82cf94 | 21.2/3.8/25.0 | 0.971 | 525.8 | 250.7 | 77.2 | 127.3 |
 | 52 | JaneShuey | evaluated | 882419 | 54.6/4.8/59.4 | 0.966 | 526.2 | 165.2 | 59.6 | 111.1 |
 | 53 | Junyi Li | evaluated | c7a1b3 | 38.5/4.7/43.2 | 0.963 | 527.3 | 169.7 | 60.9 | 113.1 |
 | 54 | hngydn20 | evaluated | 7ec9c9 | 38.5/3.5/42.0 | 0.949 | 552.6 | 321.2 | 99.4 | 145.9 |
@@ -93,7 +93,7 @@ Last updated: `April 13, 2026 at 09:54:13 PM ET`
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
 |  | nkkrnkl | failed | 23a7a1 |  |  |  |  |  |  |
 |  | sarah | failed | c2bb47 | 0.0/0.0/0.0 |  |  |  |  |  |
-|  | siddarak | failed | 5563a4 | 26.7/3.7/30.4 |  |  |  |  |  |
+|  | siddarak | failed | 95841f | 19.3/3.7/23.0 |  |  |  |  |  |
 |  | SIUUU | failed | 522695 | 37.9/4.1/42.0 |  |  |  |  |  |
 
 ## Column Guide

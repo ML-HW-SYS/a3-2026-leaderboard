@@ -1,12 +1,19 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 09:54:13 PM ET`
+Last updated: `April 13, 2026 at 10:06:02 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 10:00 PM ET | advaith-1212 | evaluated |  | develop.py | 759741 | 20.8/3.7/24.5 | 540.1 | 260.4 | 64.2 | 124.2 |
+| Apr 13 09:58 PM ET | co-smith | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | develop.py | dbdb3b | 57.0/2.2/59.2 | 560.3 | 403.0 | 0.0 | 0.0 |
+| Apr 13 09:56 PM ET | jet2holiday | evaluated |  | submission.py | 82cf94 | 21.2/3.8/25.0 | 525.8 | 250.7 | 77.2 | 127.3 |
+| Apr 13 09:50 PM ET | siddarak | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | 95841f | 19.3/3.7/23.0 | 519.3 | 259.7 | 62.4 | 123.6 |
+| Apr 13 09:49 PM ET | sarah | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in develop.py. A practical starting point is one of the gui... | develop.py | 0b4f95 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 09:48 PM ET | pick_a_nickname | evaluated |  | submission.py | 3e41c6 | 71.6/2.6/74.2 | 555.1 | 375.9 | 28.3 | 50.9 |
 | Apr 13 09:46 PM ET | co-smith | evaluated |  | develop.py | 578c90 | 59.0/2.6/61.6 | 559.6 | 404.5 | 30.4 | 69.9 |
 | Apr 13 09:45 PM ET | avemaria | evaluated |  | submission.py | feb82c | 65.6/8.6/74.2 | 537.9 | 125.1 | 534.5 | 348.9 |
+| Apr 13 09:45 PM ET | avemaria | evaluated |  | develop.py | feb82c | 27.2/8.5/35.7 | 538.0 | 125.7 | 533.6 | 347.5 |
+| Apr 13 09:44 PM ET | TheProphet | evaluated |  | develop.py | e8b283 | 30.3/2.9/33.2 | 467.9 | 331.5 | 24.3 | 46.4 |
 | Apr 13 09:43 PM ET | advaith-1212 | evaluated |  | submission.py | f4f700 | 41.0/3.7/44.7 | 540.3 | 260.2 | 64.1 | 123.6 |
 | Apr 13 09:40 PM ET | TheProphet | evaluated |  | submission.py | e610bf | 28.5/2.9/31.4 | 393.9 | 384.6 | 24.2 | 46.6 |
 | Apr 13 09:38 PM ET | 1_Core_2GHz_Colab_CPU | evaluated |  | develop.py | 680fa3 | 19.2/2.8/22.0 | 544.8 | 360.7 | 33.7 | 66.3 |
