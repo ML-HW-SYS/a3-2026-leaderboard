@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 14, 2026 at 01:31:53 AM ET`
+Last updated: `April 14, 2026 at 01:47:15 AM ET`
 
 ## R1 (tok/s)
 
@@ -293,7 +293,7 @@ Last updated: `April 14, 2026 at 01:31:53 AM ET`
 | 31 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 59.9 |
 | 32 | onlythingIcanDOisTAPEOUT | submission.py | 39c775 | 63.7 |
 | 33 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
-| 34 | siddarak | submission.py | 21bc6d | 63.8 |
+| 34 | siddarak | submission.py | b4ad9a | 63.7 |
 | 35 | ck | submission.py | 4ef89e | 64.3 |
 | 36 | omermoav | submission.py | b01c0e | 64.6 |
 | 37 | blabrl | submission.py | ca60eb | 65.2 |
