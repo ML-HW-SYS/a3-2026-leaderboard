@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 14, 2026 at 08:54:00 AM ET`
+Last updated: `April 14, 2026 at 09:09:06 AM ET`
 
 ## R1 (tok/s)
 
@@ -61,15 +61,15 @@ Last updated: `April 14, 2026 at 08:54:00 AM ET`
 | 53 | mdavalos10 | evaluated | af3233 | 529.3 |
 | 54 | kaimaeda | evaluated | 4360ef | 528.1 |
 | 55 | jet2holiday | evaluated | 2b3796 | 528.0 |
-| 56 | castillo | evaluated | b62311 | 527.4 |
-| 57 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
-| 58 | Junyi Li | evaluated | c7a1b3 | 527.3 |
-| 59 | JaneShuey | evaluated | 882419 | 526.2 |
-| 60 | bl792 | evaluated | 09cd73 | 524.7 |
-| 61 | somita | evaluated | bbe658 | 524.7 |
-| 62 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
-| 63 | ethanchen | evaluated | ea518d | 523.7 |
-| 64 | yb | evaluated | a49d40 | 523.5 |
+| 56 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
+| 57 | Junyi Li | evaluated | c7a1b3 | 527.3 |
+| 58 | JaneShuey | evaluated | 882419 | 526.2 |
+| 59 | bl792 | evaluated | 09cd73 | 524.7 |
+| 60 | somita | evaluated | bbe658 | 524.7 |
+| 61 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
+| 62 | ethanchen | evaluated | ea518d | 523.7 |
+| 63 | yb | evaluated | a49d40 | 523.5 |
+| 64 | castillo | late | c33082 | 523.2 |
 | 65 | hw_bloss | evaluated | 4c9666 | 522.2 |
 | 66 | yoursun1220 | evaluated | d8b590 | 521.8 |
 | 67 | avemaria | evaluated | 6a5e32 | 521.6 |
@@ -140,19 +140,19 @@ Last updated: `April 14, 2026 at 08:54:00 AM ET`
 | 44 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
 | 45 | landrum | evaluated | 61ab81 | 276.9 |
 | 46 | Decode_speed | evaluated | d54f1d | 274.5 |
-| 47 | gravlax | evaluated | b1229d | 272.5 |
-| 48 | Yize | evaluated | c8c9f7 | 269.9 |
-| 49 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
-| 50 | happyface | evaluated | 4ce0f3 | 263.7 |
-| 51 | advaith-1212 | evaluated | f4f700 | 260.2 |
-| 52 | henry | evaluated | 92577d | 259.6 |
-| 53 | nicknam534534 | evaluated | 59bdfc | 256.3 |
-| 54 | ethanchen | evaluated | ea518d | 251.2 |
-| 55 | jet2holiday | evaluated | 2b3796 | 250.8 |
-| 56 | bl792 | evaluated | 09cd73 | 238.8 |
-| 57 | Licha | evaluated | 9666cd | 238.1 |
-| 58 | kade_lin_is_here | evaluated | 6f69a9 | 237.6 |
-| 59 | castillo | evaluated | b62311 | 236.1 |
+| 47 | castillo | late | c33082 | 273.8 |
+| 48 | gravlax | evaluated | b1229d | 272.5 |
+| 49 | Yize | evaluated | c8c9f7 | 269.9 |
+| 50 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
+| 51 | happyface | evaluated | 4ce0f3 | 263.7 |
+| 52 | advaith-1212 | evaluated | f4f700 | 260.2 |
+| 53 | henry | evaluated | 92577d | 259.6 |
+| 54 | nicknam534534 | evaluated | 59bdfc | 256.3 |
+| 55 | ethanchen | evaluated | ea518d | 251.2 |
+| 56 | jet2holiday | evaluated | 2b3796 | 250.8 |
+| 57 | bl792 | evaluated | 09cd73 | 238.8 |
+| 58 | Licha | evaluated | 9666cd | 238.1 |
+| 59 | kade_lin_is_here | evaluated | 6f69a9 | 237.6 |
 | 60 | 13rabbit | evaluated | 49d27b | 234.5 |
 | 61 | beratcelik | evaluated | 863a89 | 231.2 |
 | 62 | tuo | evaluated | 3d6d40 | 204.6 |
@@ -214,37 +214,37 @@ Last updated: `April 14, 2026 at 08:54:00 AM ET`
 | 30 | gravlax | evaluated | b1229d | 35.0 |
 | 31 | ck | evaluated | f75094 | 35.1 |
 | 32 | omermoav | evaluated | b01c0e | 35.2 |
-| 33 | PurplePickle67 | evaluated | 68d34e | 37.3 |
-| 34 | Yize | evaluated | c8c9f7 | 39.4 |
-| 35 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
-| 36 | sjb | evaluated | 373553 | 50.8 |
-| 37 | abhik | evaluated | 0b4b08 | 55.4 |
-| 38 | kaimaeda | evaluated | 4360ef | 56.3 |
-| 39 | vallabkaranam | evaluated | 0bdeec | 57.3 |
-| 40 | act | evaluated | fce2ab | 59.5 |
-| 41 | JaneShuey | evaluated | 882419 | 59.6 |
-| 42 | Junyi Li | evaluated | c7a1b3 | 60.9 |
-| 43 | Licha | evaluated | 9666cd | 61.8 |
-| 44 | advaith-1212 | evaluated | f4f700 | 64.1 |
-| 45 | nicknam534534 | evaluated | 59bdfc | 64.8 |
-| 46 | alifim | evaluated | 701077 | 64.8 |
-| 47 | henry | evaluated | 92577d | 66.8 |
-| 48 | beratcelik | evaluated | 863a89 | 68.2 |
-| 49 | jet2holiday | evaluated | 2b3796 | 69.4 |
-| 50 | JasonWang07 | evaluated | a4b405 | 70.8 |
-| 51 | leoli | evaluated | 5cdac4 | 71.0 |
-| 52 | ethanchen | evaluated | ea518d | 74.4 |
-| 53 | TA | evaluated | a6e863 | 85.6 |
-| 54 | 13rabbit | evaluated | 49d27b | 97.1 |
-| 55 | hngydn20 | evaluated | 7ec9c9 | 99.4 |
-| 56 | jl | evaluated | 8b6423 | 102.6 |
-| 57 | Bulbasaur | evaluated | d42099 | 103.1 |
-| 58 | lipphi | evaluated | a3a71b | 104.4 |
-| 59 | goingbananas | evaluated | 2ce123 | 104.8 |
-| 60 | pallavi-srinivas | evaluated | 3c1d3c | 105.4 |
-| 61 | fishyfins | evaluated | 5ef586 | 106.0 |
-| 62 | kade_lin_is_here | evaluated | 6f69a9 | 108.4 |
-| 63 | castillo | evaluated | b62311 | 112.0 |
+| 33 | castillo | late | c33082 | 35.8 |
+| 34 | PurplePickle67 | evaluated | 68d34e | 37.3 |
+| 35 | Yize | evaluated | c8c9f7 | 39.4 |
+| 36 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
+| 37 | sjb | evaluated | 373553 | 50.8 |
+| 38 | abhik | evaluated | 0b4b08 | 55.4 |
+| 39 | kaimaeda | evaluated | 4360ef | 56.3 |
+| 40 | vallabkaranam | evaluated | 0bdeec | 57.3 |
+| 41 | act | evaluated | fce2ab | 59.5 |
+| 42 | JaneShuey | evaluated | 882419 | 59.6 |
+| 43 | Junyi Li | evaluated | c7a1b3 | 60.9 |
+| 44 | Licha | evaluated | 9666cd | 61.8 |
+| 45 | advaith-1212 | evaluated | f4f700 | 64.1 |
+| 46 | nicknam534534 | evaluated | 59bdfc | 64.8 |
+| 47 | alifim | evaluated | 701077 | 64.8 |
+| 48 | henry | evaluated | 92577d | 66.8 |
+| 49 | beratcelik | evaluated | 863a89 | 68.2 |
+| 50 | jet2holiday | evaluated | 2b3796 | 69.4 |
+| 51 | JasonWang07 | evaluated | a4b405 | 70.8 |
+| 52 | leoli | evaluated | 5cdac4 | 71.0 |
+| 53 | ethanchen | evaluated | ea518d | 74.4 |
+| 54 | TA | evaluated | a6e863 | 85.6 |
+| 55 | 13rabbit | evaluated | 49d27b | 97.1 |
+| 56 | hngydn20 | evaluated | 7ec9c9 | 99.4 |
+| 57 | jl | evaluated | 8b6423 | 102.6 |
+| 58 | Bulbasaur | evaluated | d42099 | 103.1 |
+| 59 | lipphi | evaluated | a3a71b | 104.4 |
+| 60 | goingbananas | evaluated | 2ce123 | 104.8 |
+| 61 | pallavi-srinivas | evaluated | 3c1d3c | 105.4 |
+| 62 | fishyfins | evaluated | 5ef586 | 106.0 |
+| 63 | kade_lin_is_here | evaluated | 6f69a9 | 108.4 |
 | 64 | yb | evaluated | a49d40 | 133.1 |
 | 65 | tuo | evaluated | 3d6d40 | 167.8 |
 | 66 | poppyPotatoe | evaluated | e01605 | 209.9 |
@@ -305,11 +305,11 @@ Last updated: `April 14, 2026 at 08:54:00 AM ET`
 | 33 | ck | evaluated | f75094 | 64.6 |
 | 34 | blabrl | evaluated | ca60eb | 65.2 |
 | 35 | 1_Core_2GHz_Colab_CPU | evaluated | 4e42ed | 66.8 |
-| 36 | co-smith | evaluated | 089c7d | 70.1 |
-| 37 | henry | evaluated | 92577d | 72.1 |
-| 38 | leoli | evaluated | 5cdac4 | 87.4 |
-| 39 | JasonWang07 | evaluated | a4b405 | 88.9 |
-| 40 | castillo | evaluated | b62311 | 106.7 |
+| 36 | castillo | late | c33082 | 67.2 |
+| 37 | co-smith | evaluated | 089c7d | 70.1 |
+| 38 | henry | evaluated | 92577d | 72.1 |
+| 39 | leoli | evaluated | 5cdac4 | 87.4 |
+| 40 | JasonWang07 | evaluated | a4b405 | 88.9 |
 | 41 | abhik | evaluated | 0b4b08 | 107.2 |
 | 42 | vallabkaranam | evaluated | 0bdeec | 108.2 |
 | 43 | alifim | evaluated | 701077 | 109.2 |
