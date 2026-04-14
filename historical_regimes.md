@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 14, 2026 at 03:18:40 PM ET`
+Last updated: `April 14, 2026 at 03:33:43 PM ET`
 
 ## R1 (tok/s)
 
@@ -174,7 +174,7 @@ Last updated: `April 14, 2026 at 03:18:40 PM ET`
 | 79 | siddarak | submission.py | b24e6b | 166.3 |
 | 80 | avemaria | develop.py | 242975 | 165.7 |
 | 81 | JaneShuey | submission.py | 882419 | 165.2 |
-| 82 | poppyPotatoe | develop.py | e01605 | 127.2 |
+| 82 | poppyPotatoe | develop.py | d5cd12 | 129.7 |
 
 ## R3 (ms)
 
