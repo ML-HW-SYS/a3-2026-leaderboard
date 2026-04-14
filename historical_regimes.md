@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 10:06:02 PM ET`
+Last updated: `April 13, 2026 at 10:18:37 PM ET`
 
 ## R1 (tok/s)
 
@@ -33,24 +33,24 @@ Last updated: `April 13, 2026 at 10:06:02 PM ET`
 | 25 | ishan-pat | submission.py | 99aac6 | 553.2 |
 | 26 | hngydn20 | submission.py | c63812 | 552.9 |
 | 27 | ss4478 | develop.py | ece454 | 552.9 |
-| 28 | gm | develop.py | a57e9f | 548.9 |
-| 29 | happyface | develop.py | f86cad | 545.6 |
-| 30 | leoli | submission.py | 7ef4b9 | 544.9 |
-| 31 | Licha | submission.py | 7cca48 | 544.4 |
-| 32 | Shengwei | submission.py | 33733e | 543.9 |
-| 33 | kade_lin_is_here | submission.py | c157d0 | 543.4 |
-| 34 | pallavi-srinivas | develop.py | bd1b29 | 543.3 |
-| 35 | vallabkaranam | develop.py | f3a1fe | 543.0 |
-| 36 | 13rabbit | submission.py | fe30c9 | 543.0 |
-| 37 | alifim | develop.py | ad261a | 541.7 |
-| 38 | ngoguen | submission.py | be566d | 541.1 |
-| 39 | landrum | develop.py | b61e15 | 540.9 |
-| 40 | pyjuan91 | submission.py | fe8f27 | 540.9 |
-| 41 | andrasferenczy | submission.py | 6204c7 | 540.6 |
-| 42 | stefan | develop.py | 4bac49 | 540.4 |
-| 43 | advaith-1212 | submission.py | f4f700 | 540.3 |
-| 44 | Bulbasaur | submission.py | dfcccd | 540.2 |
-| 45 | henry | develop.py | a20a6f | 540.0 |
+| 28 | henry | submission.py | fe8c07 | 550.9 |
+| 29 | gm | develop.py | a57e9f | 548.9 |
+| 30 | happyface | develop.py | f86cad | 545.6 |
+| 31 | leoli | submission.py | 7ef4b9 | 544.9 |
+| 32 | Licha | submission.py | 7cca48 | 544.4 |
+| 33 | Shengwei | submission.py | 33733e | 543.9 |
+| 34 | kade_lin_is_here | submission.py | c157d0 | 543.4 |
+| 35 | pallavi-srinivas | develop.py | bd1b29 | 543.3 |
+| 36 | vallabkaranam | develop.py | f3a1fe | 543.0 |
+| 37 | 13rabbit | submission.py | fe30c9 | 543.0 |
+| 38 | alifim | develop.py | ad261a | 541.7 |
+| 39 | ngoguen | submission.py | be566d | 541.1 |
+| 40 | landrum | develop.py | b61e15 | 540.9 |
+| 41 | pyjuan91 | submission.py | fe8f27 | 540.9 |
+| 42 | andrasferenczy | submission.py | 6204c7 | 540.6 |
+| 43 | stefan | develop.py | 4bac49 | 540.4 |
+| 44 | advaith-1212 | submission.py | f4f700 | 540.3 |
+| 45 | Bulbasaur | submission.py | dfcccd | 540.2 |
 | 46 | avemaria | submission.py | 866c91 | 539.6 |
 | 47 | abhik | develop.py | 41a3ec | 539.5 |
 | 48 | axel4 | submission.py | 66964d | 537.9 |
@@ -152,7 +152,7 @@ Last updated: `April 13, 2026 at 10:06:02 PM ET`
 | 61 | tuo | submission.py | 3d6d40 | 204.6 |
 | 62 | Sulaiman Alam | submission.py | c7ede2 | 197.4 |
 | 63 | mdavalos10 | submission.py | af3233 | 177.8 |
-| 64 | yb | submission.py | 1533ce | 174.0 |
+| 64 | yb | submission.py | 8c5f0e | 174.1 |
 | 65 | your_nickname_here | submission.py | 59e245 | 173.4 |
 | 66 | yoursun1220 | submission.py | 27e400 | 169.9 |
 | 67 | axel4 | submission.py | ea45fd | 169.9 |
@@ -243,9 +243,9 @@ Last updated: `April 13, 2026 at 10:06:02 PM ET`
 | 69 | hw_bloss | submission.py | b2767b | 306.7 |
 | 70 | your_nickname_here | submission.py | 59e245 | 307.4 |
 | 71 | yoursun1220 | submission.py | 27e400 | 308.6 |
-| 72 | Sulaiman Alam | submission.py | c7ede2 | 308.7 |
-| 73 | Akash Basu | submission.py | fa6371 | 308.7 |
-| 74 | axel4 | submission.py | ea45fd | 309.0 |
+| 72 | axel4 | submission.py | c74a1e | 308.6 |
+| 73 | Sulaiman Alam | submission.py | c7ede2 | 308.7 |
+| 74 | Akash Basu | submission.py | fa6371 | 308.7 |
 | 75 | yb | develop.py | 1533ce | 309.2 |
 | 76 | brandon_lorenzo | submission.py | 67c79e | 309.2 |
 | 77 | tif03 | submission.py | ec268d | 309.4 |
@@ -328,10 +328,10 @@ Last updated: `April 13, 2026 at 10:06:02 PM ET`
 | 69 | hw_bloss | submission.py | b2767b | 237.0 |
 | 70 | Sulaiman Alam | develop.py | c7ede2 | 244.4 |
 | 71 | your_nickname_here | submission.py | 59e245 | 245.7 |
-| 72 | Akash Basu | submission.py | fa6371 | 247.9 |
-| 73 | yoursun1220 | submission.py | 27e400 | 248.7 |
-| 74 | yb | develop.py | 1533ce | 248.8 |
-| 75 | axel4 | submission.py | 66964d | 248.8 |
+| 72 | axel4 | submission.py | c74a1e | 247.5 |
+| 73 | Akash Basu | submission.py | fa6371 | 247.9 |
+| 74 | yoursun1220 | submission.py | 27e400 | 248.7 |
+| 75 | yb | develop.py | 1533ce | 248.8 |
 | 76 | tif03 | submission.py | ec268d | 249.5 |
 | 77 | brandon_lorenzo | submission.py | 67c79e | 249.6 |
 | 78 | somita | submission.py | bbe658 | 249.8 |
