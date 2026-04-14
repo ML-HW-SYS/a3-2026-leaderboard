@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 14, 2026 at 11:13:18 AM ET`
+Last updated: `April 14, 2026 at 11:28:12 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 14 11:12 AM ET | dhanushikka | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | 915abd |  |  |  |  |  |
+| Apr 14 11:03 AM ET | hngydn20 | failed_correctness | R1: SETUP: ERR: NameError: name 'q_len' is not defined \| R2: SETUP: ERR: NameError: name 'q_len' is not defined \| R3:... | submission.py | 1bf680 | 14.6/0.0/14.6 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 14 10:47 AM ET | nkkrnkl | late |  | submission.py | 1558fa | 32.2/3.2/35.4 | 529.3 | 325.0 | 76.8 | 84.9 |
 | Apr 14 10:47 AM ET | nkkrnkl | late |  | develop.py | 1558fa | 20.0/3.2/23.2 | 534.1 | 325.4 | 77.4 | 84.9 |
 | Apr 14 10:39 AM ET | dhanushikka | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | develop.py | eb8c07 | 19.9/6.2/26.2 | 518.2 | 169.4 | 308.7 | 246.7 |
