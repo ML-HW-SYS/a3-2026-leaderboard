@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 10:18:37 PM ET`
+Last updated: `April 13, 2026 at 10:32:50 PM ET`
 
 ## R1 (tok/s)
 
@@ -26,14 +26,14 @@ Last updated: `April 13, 2026 at 10:18:37 PM ET`
 | 18 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 560.4 |
 | 19 | your_nickname_here | submission.py | 59e245 | 559.6 |
 | 20 | blabrl | develop.py | 9873f9 | 559.5 |
-| 21 | jbc | develop.py | 3d5258 | 557.9 |
-| 22 | chyyy | submission.py | 56b321 | 557.7 |
+| 21 | chyyy | develop.py | fde2e4 | 558.5 |
+| 22 | jbc | develop.py | 3d5258 | 557.9 |
 | 23 | TA | submission.py | a6e863 | 556.6 |
 | 24 | pick_a_nickname | submission.py | 3e41c6 | 555.1 |
-| 25 | ishan-pat | submission.py | 99aac6 | 553.2 |
-| 26 | hngydn20 | submission.py | c63812 | 552.9 |
-| 27 | ss4478 | develop.py | ece454 | 552.9 |
-| 28 | henry | submission.py | fe8c07 | 550.9 |
+| 25 | henry | develop.py | fe8c07 | 553.9 |
+| 26 | ishan-pat | submission.py | 99aac6 | 553.2 |
+| 27 | hngydn20 | submission.py | c63812 | 552.9 |
+| 28 | ss4478 | develop.py | ece454 | 552.9 |
 | 29 | gm | develop.py | a57e9f | 548.9 |
 | 30 | happyface | develop.py | f86cad | 545.6 |
 | 31 | leoli | submission.py | 7ef4b9 | 544.9 |
@@ -251,7 +251,7 @@ Last updated: `April 13, 2026 at 10:18:37 PM ET`
 | 77 | tif03 | submission.py | ec268d | 309.4 |
 | 78 | somita | submission.py | bbe658 | 309.5 |
 | 79 | castillo | develop.py | 0e93de | 310.9 |
-| 80 | avemaria | develop.py | 242975 | 322.2 |
+| 80 | avemaria | submission.py | 6c5090 | 316.6 |
 
 ## R4 (ms)
 
