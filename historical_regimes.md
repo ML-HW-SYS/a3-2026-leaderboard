@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 08:44:56 PM ET`
+Last updated: `April 13, 2026 at 08:55:14 PM ET`
 
 ## R1 (tok/s)
 
@@ -17,13 +17,13 @@ Last updated: `April 13, 2026 at 08:44:56 PM ET`
 | 9 | nickname55555555 | submission.py | 45cab4 | 568.8 |
 | 10 | zionrangers | develop.py | 7758e0 | 568.5 |
 | 11 | beratcelik | submission.py | ecf890 | 564.7 |
-| 12 | ashaikh23 | submission.py | 062f0e | 563.6 |
-| 13 | goingbananas | develop.py | fc1133 | 563.5 |
-| 14 | abarat007 | develop.py | d7f626 | 562.9 |
-| 15 | act | develop.py | fce2ab | 562.9 |
-| 16 | JasonWang07 | submission.py | 1b4aca | 561.1 |
-| 17 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 560.4 |
-| 18 | co-smith | develop.py | 92ebc9 | 560.3 |
+| 12 | co-smith | develop.py | 40bf23 | 563.8 |
+| 13 | ashaikh23 | submission.py | 062f0e | 563.6 |
+| 14 | goingbananas | develop.py | fc1133 | 563.5 |
+| 15 | abarat007 | develop.py | d7f626 | 562.9 |
+| 16 | act | develop.py | fce2ab | 562.9 |
+| 17 | JasonWang07 | submission.py | 1b4aca | 561.1 |
+| 18 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 560.4 |
 | 19 | your_nickname_here | submission.py | 59e245 | 559.6 |
 | 20 | blabrl | develop.py | 9873f9 | 559.5 |
 | 21 | jbc | develop.py | 3d5258 | 557.9 |

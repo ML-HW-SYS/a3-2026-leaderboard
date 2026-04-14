@@ -1,11 +1,14 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 08:44:56 PM ET`
+Last updated: `April 13, 2026 at 08:55:14 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 08:45 PM ET | stefan | evaluated |  | submission.py | cf00e7 | 29.0/3.1/32.2 | 534.0 | 278.5 | 29.7 | 54.4 |
+| Apr 13 08:43 PM ET | co-smith | evaluated |  | develop.py | 40bf23 | 49.5/2.6/52.1 | 563.8 | 404.4 | 35.6 | 69.9 |
 | Apr 13 08:37 PM ET | avemaria | failed_security | Security policy check failed for develop.py: \| - prohibited call: compile \| - prohibited call: exec \| - prohibited ca... | develop.py | 112bee |  |  |  |  |  |
 | Apr 13 08:34 PM ET | TheProphet | failed_correctness | R2: ERR: hard timeout exceeded (worker killed) \| R3: ERR: total timeout exceeded before regime start \| R4: ERR: total... | submission.py | 80a82b | 53.3/0.8/54.1 | 642.9 | 0.0 | 0.0 | 0.0 |
+| Apr 13 08:34 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.76%) \| max_abs_diff=12.18 | develop.py | 80a82b | 72.3/2.8/75.1 | 640.9 | 366.5 | 67.6 | 81.4 |
 | Apr 13 08:33 PM ET | pick_a_nickname | evaluated |  | submission.py | 1d4f9c | 28.6/3.6/32.2 | 524.4 | 264.4 | 56.8 | 108.2 |
 | Apr 13 08:32 PM ET | kade_lin_is_here | evaluated |  | submission.py | c157d0 | 76.1/4.1/80.2 | 543.4 | 237.8 | 107.9 | 138.3 |
 | Apr 13 08:31 PM ET | avemaria | failed_security | Security policy check failed for develop.py: \| - prohibited import: importlib.util \| - prohibited import: pathlib | develop.py | c9c9ee |  |  |  |  |  |

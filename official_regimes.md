@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 13, 2026 at 08:44:56 PM ET`
+Last updated: `April 13, 2026 at 08:55:14 PM ET`
 
 ## R1 (tok/s)
 
@@ -48,7 +48,7 @@ Last updated: `April 13, 2026 at 08:44:56 PM ET`
 | 40 | chickfila | evaluated | f0956d | 534.5 |
 | 41 | Licha | evaluated | 9666cd | 534.4 |
 | 42 | Yize | evaluated | c8c9f7 | 534.4 |
-| 43 | stefan | evaluated | 9e3945 | 534.2 |
+| 43 | stefan | evaluated | cf00e7 | 534.0 |
 | 44 | pallavi-srinivas | evaluated | 3c1d3c | 533.0 |
 | 45 | gravlax | evaluated | b1229d | 532.3 |
 | 46 | jet2holiday | evaluated | 3794df | 531.3 |
@@ -131,7 +131,7 @@ Last updated: `April 13, 2026 at 08:44:56 PM ET`
 | 37 | TA | evaluated | a6e863 | 294.5 |
 | 38 | ngoguen | evaluated | f69acc | 282.0 |
 | 39 | onlythingIcanDOisTAPEOUT | evaluated | 39c775 | 280.9 |
-| 40 | stefan | evaluated | 9e3945 | 278.6 |
+| 40 | stefan | evaluated | cf00e7 | 278.5 |
 | 41 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
 | 42 | landrum | evaluated | 61ab81 | 276.9 |
 | 43 | Decode_speed | evaluated | d54f1d | 274.5 |
@@ -195,7 +195,7 @@ Last updated: `April 13, 2026 at 08:44:56 PM ET`
 | 15 | happyface | evaluated | 4ce0f3 | 28.8 |
 | 16 | pyjuan91 | evaluated | fe8f27 | 28.8 |
 | 17 | ashaikh23 | evaluated | 84a425 | 29.1 |
-| 18 | stefan | evaluated | 9e3945 | 29.8 |
+| 18 | stefan | evaluated | cf00e7 | 29.7 |
 | 19 | landrum | evaluated | 61ab81 | 29.9 |
 | 20 | andrasferenczy | evaluated | 9c7f53 | 31.9 |
 | 21 | onlythingIcanDOisTAPEOUT | evaluated | 39c775 | 32.3 |
@@ -286,7 +286,7 @@ Last updated: `April 13, 2026 at 08:44:56 PM ET`
 | 20 | pyjuan91 | evaluated | fe8f27 | 53.3 |
 | 21 | sjb | evaluated | 373553 | 53.6 |
 | 22 | landrum | evaluated | 61ab81 | 53.7 |
-| 23 | stefan | evaluated | 9e3945 | 54.5 |
+| 23 | stefan | evaluated | cf00e7 | 54.4 |
 | 24 | jbc | evaluated | 3d5258 | 59.0 |
 | 25 | gravlax | evaluated | b1229d | 59.7 |
 | 26 | bl792 | evaluated | 09cd73 | 59.9 |
