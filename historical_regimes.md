@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 08:12:37 PM ET`
+Last updated: `April 13, 2026 at 08:23:36 PM ET`
 
 ## R1 (tok/s)
 
@@ -37,11 +37,11 @@ Last updated: `April 13, 2026 at 08:12:37 PM ET`
 | 29 | leoli | submission.py | 7ef4b9 | 544.9 |
 | 30 | Licha | submission.py | 7cca48 | 544.4 |
 | 31 | Shengwei | submission.py | 33733e | 543.9 |
-| 32 | pallavi-srinivas | develop.py | bd1b29 | 543.3 |
-| 33 | vallabkaranam | develop.py | f3a1fe | 543.0 |
-| 34 | 13rabbit | submission.py | fe30c9 | 543.0 |
-| 35 | alifim | develop.py | ad261a | 541.7 |
-| 36 | kade_lin_is_here | submission.py | 9c847b | 541.5 |
+| 32 | kade_lin_is_here | submission.py | 2f480f | 543.3 |
+| 33 | pallavi-srinivas | develop.py | bd1b29 | 543.3 |
+| 34 | vallabkaranam | develop.py | f3a1fe | 543.0 |
+| 35 | 13rabbit | submission.py | fe30c9 | 543.0 |
+| 36 | alifim | develop.py | ad261a | 541.7 |
 | 37 | ngoguen | submission.py | be566d | 541.1 |
 | 38 | landrum | develop.py | b61e15 | 540.9 |
 | 39 | pyjuan91 | submission.py | fe8f27 | 540.9 |
@@ -82,7 +82,7 @@ Last updated: `April 13, 2026 at 08:12:37 PM ET`
 | 74 | tuo | submission.py | 4274da | 507.3 |
 | 75 | tif03 | submission.py | e84053 | 501.5 |
 | 76 | poppyPotatoe | submission.py | dd4e57 | 169.9 |
-| 77 | advaith-1212 | submission.py | 343672 | 147.5 |
+| 77 | advaith-1212 | develop.py | 343672 | 155.8 |
 
 ## R2 (tok/s)
 
@@ -120,7 +120,7 @@ Last updated: `April 13, 2026 at 08:12:37 PM ET`
 | 30 | vallabkaranam | develop.py | b27b18 | 318.8 |
 | 31 | ss4478 | develop.py | 93d739 | 314.6 |
 | 32 | jl | submission.py | e6ce85 | 313.1 |
-| 33 | fishyfins | submission.py | 5ef586 | 309.8 |
+| 33 | fishyfins | develop.py | 13b4a5 | 310.5 |
 | 34 | goingbananas | submission.py | 2ce123 | 307.6 |
 | 35 | pallavi-srinivas | submission.py | 26a6d9 | 307.4 |
 | 36 | lipphi | submission.py | a3a71b | 306.7 |
@@ -143,9 +143,9 @@ Last updated: `April 13, 2026 at 08:12:37 PM ET`
 | 53 | jet2holiday | submission.py | 3794df | 251.9 |
 | 54 | ethanchen | submission.py | ea518d | 251.2 |
 | 55 | 13rabbit | develop.py | b38df9 | 243.3 |
-| 56 | bl792 | develop.py | 09cd73 | 239.0 |
-| 57 | Licha | submission.py | 094c4b | 238.2 |
-| 58 | kade_lin_is_here | submission.py | 104152 | 237.9 |
+| 56 | kade_lin_is_here | submission.py | 2f480f | 241.9 |
+| 57 | bl792 | develop.py | 09cd73 | 239.0 |
+| 58 | Licha | submission.py | 094c4b | 238.2 |
 | 59 | tuo | submission.py | 3d6d40 | 204.6 |
 | 60 | Sulaiman Alam | submission.py | c7ede2 | 197.4 |
 | 61 | mdavalos10 | submission.py | af3233 | 177.8 |
@@ -318,7 +318,7 @@ Last updated: `April 13, 2026 at 08:12:37 PM ET`
 | 61 | Bulbasaur | develop.py | dfcccd | 150.1 |
 | 62 | lipphi | submission.py | a3a71b | 150.9 |
 | 63 | SIUUU | develop.py | 522695 | 151.0 |
-| 64 | advaith-1212 | submission.py | 343672 | 152.1 |
+| 64 | advaith-1212 | develop.py | 343672 | 151.3 |
 | 65 | tuo | submission.py | 4274da | 160.5 |
 | 66 | mdavalos10 | submission.py | af3233 | 189.4 |
 | 67 | dylanjhnsondj | submission.py | c4e1ab | 236.8 |

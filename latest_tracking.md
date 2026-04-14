@@ -1,12 +1,18 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 08:12:37 PM ET`
+Last updated: `April 13, 2026 at 08:23:36 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 08:16 PM ET | kade_lin_is_here | failed_correctness | R3: ERR: hard timeout exceeded (worker killed) \| R4: ERR: total timeout exceeded before regime start | submission.py | 2f480f | 47.6/3.1/50.7 | 543.3 | 241.9 | 0.0 | 0.0 |
+| Apr 13 08:14 PM ET | co-smith | evaluated |  | submission.py | 0ce3fd | 26.7/3.9/30.5 | 445.0 | 220.7 | 35.5 | 69.8 |
+| Apr 13 08:09 PM ET | TheProphet | failed_compliance | Submission compliance check failed for develop.py: \| - run(...) must have arguments exactly `(model, dataset_chunk)` | develop.py | 76a77f |  |  |  |  |  |
+| Apr 13 08:07 PM ET | fishyfins | evaluated |  | develop.py | 13b4a5 | 22.8/3.6/26.4 | 578.7 | 310.5 | 106.2 | 151.2 |
 | Apr 13 08:03 PM ET | Akash Basu | failed_correctness | R2: SETUP: ERR: RuntimeError: Expected qScaleAndZeros.size(1) == n to be true, but got false. (Could this error messa... | submission.py | 0d44ec | 38.6/1.0/39.6 | 522.0 | 0.0 | 0.0 | 0.0 |
+| Apr 13 08:03 PM ET | Akash Basu | failed_correctness | R2: SETUP: ERR: RuntimeError: Expected qScaleAndZeros.size(1) == n to be true, but got false. (Could this error messa... | develop.py | 0d44ec | 21.8/1.0/22.8 | 524.7 | 0.0 | 0.0 | 0.0 |
 | Apr 13 08:02 PM ET | fishyfins | evaluated |  | submission.py | 5ef586 | 45.5/3.6/49.1 | 564.8 | 309.8 | 106.0 | 150.9 |
 | Apr 13 08:01 PM ET | advaith-1212 | evaluated |  | submission.py | 343672 | 15.9/8.3/24.2 | 147.5 | 133.1 | 105.7 | 152.1 |
+| Apr 13 08:01 PM ET | advaith-1212 | evaluated |  | develop.py | 343672 | 15.3/8.3/23.6 | 155.8 | 130.2 | 107.4 | 151.3 |
 | Apr 13 07:46 PM ET | TheProphet | failed_correctness | Correctness FAIL \| R1 (86.75%) \| max_abs_diff=12.18 | develop.py | 2bc0c9 | 49.3/2.5/51.8 | 562.3 | 380.5 | 24.1 | 46.5 |
 | Apr 13 07:46 PM ET | pick_a_nickname | evaluated |  | submission.py | c0f48f | 41.9/3.7/45.6 | 521.5 | 258.2 | 66.8 | 113.8 |
 | Apr 13 07:44 PM ET | TheProphet | evaluated |  | submission.py | 38ee53 | 26.5/6.2/32.7 | 355.8 | 128.0 | 96.0 | 100.2 |
