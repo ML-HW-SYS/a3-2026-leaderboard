@@ -1,10 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 09:21:35 PM ET`
+Last updated: `April 13, 2026 at 09:30:52 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 09:23 PM ET | TheProphet | evaluated |  | submission.py | c3c2c4 | 37.7/4.3/42.0 | 194.3 | 372.4 | 24.1 | 46.4 |
+| Apr 13 09:23 PM ET | co-smith | evaluated |  | develop.py | ad7ad1 | 28.4/2.6/31.0 | 565.9 | 403.2 | 30.7 | 70.0 |
 | Apr 13 09:17 PM ET | avemaria | evaluated |  | submission.py | 6a5e32 | 20.4/6.4/26.8 | 523.7 | 165.1 | 324.2 | 257.1 |
+| Apr 13 09:17 PM ET | avemaria | evaluated |  | develop.py | 6a5e32 | 20.0/6.4/26.4 | 522.5 | 165.5 | 323.1 | 255.8 |
 | Apr 13 09:04 PM ET | siddarak | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (70.97%), R4 (71.35%) \| max_abs_diff=inf | submission.py | 5563a4 | 26.7/3.7/30.4 | 527.8 | 259.5 | 62.6 | 124.6 |
 | Apr 13 09:04 PM ET | siddarak | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (70.97%), R4 (71.35%) \| max_abs_diff=inf | develop.py | 5563a4 | 19.0/3.7/22.8 | 521.6 | 258.7 | 62.6 | 124.8 |
 | Apr 13 09:00 PM ET | avemaria | evaluated |  | develop.py | edebd9 | 21.3/6.4/27.7 | 525.7 | 165.6 | 323.0 | 256.1 |
