@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 14, 2026 at 12:14:57 PM ET`
+Last updated: `April 14, 2026 at 12:30:06 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 14 12:13 PM ET | sarah | late |  | submission.py | 0a16b5 | 20.8/3.7/24.5 | 539.5 | 259.9 | 64.4 | 124.9 |
 | Apr 14 11:36 AM ET | sarah | late |  | develop.py | b44c34 | 20.9/3.7/24.6 | 535.1 | 259.9 | 64.3 | 124.5 |
 | Apr 14 11:32 AM ET | dhanushikka | late |  | develop.py | 4ec3db | 41.6/6.5/48.1 | 522.3 | 177.3 | 393.9 | 268.9 |
 | Apr 14 11:31 AM ET | poppyPotatoe | late |  | submission.py | b7bdd9 | 14.7/8.6/23.3 | 164.1 | 125.8 | 210.0 | 133.4 |

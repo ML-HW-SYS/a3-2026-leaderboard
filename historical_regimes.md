@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 14, 2026 at 12:14:57 PM ET`
+Last updated: `April 14, 2026 at 12:30:06 PM ET`
 
 ## R1 (tok/s)
 
@@ -52,13 +52,13 @@ Last updated: `April 14, 2026 at 12:14:57 PM ET`
 | 44 | advaith-1212 | submission.py | f4f700 | 540.3 |
 | 45 | Bulbasaur | submission.py | dfcccd | 540.2 |
 | 46 | avemaria | submission.py | 866c91 | 539.6 |
-| 47 | abhik | develop.py | 41a3ec | 539.5 |
-| 48 | castillo | submission.py | f1bdd6 | 538.3 |
-| 49 | axel4 | submission.py | 66964d | 537.9 |
-| 50 | sjb | develop.py | 3359ec | 537.0 |
-| 51 | onlythingIcanDOisTAPEOUT | submission.py | b40e4a | 536.3 |
-| 52 | mdavalos10 | develop.py | 6e0754 | 535.4 |
-| 53 | sarah | develop.py | b44c34 | 535.1 |
+| 47 | sarah | submission.py | 0a16b5 | 539.5 |
+| 48 | abhik | develop.py | 41a3ec | 539.5 |
+| 49 | castillo | submission.py | f1bdd6 | 538.3 |
+| 50 | axel4 | submission.py | 66964d | 537.9 |
+| 51 | sjb | develop.py | 3359ec | 537.0 |
+| 52 | onlythingIcanDOisTAPEOUT | submission.py | b40e4a | 536.3 |
+| 53 | mdavalos10 | develop.py | 6e0754 | 535.4 |
 | 54 | lipphi | submission.py | a3a71b | 534.8 |
 | 55 | gravlax | develop.py | 1f23d9 | 534.6 |
 | 56 | chickfila | submission.py | 29860a | 534.6 |
@@ -146,7 +146,7 @@ Last updated: `April 14, 2026 at 12:14:57 PM ET`
 | 52 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
 | 53 | happyface | develop.py | f8fcfd | 265.8 |
 | 54 | advaith-1212 | develop.py | 759741 | 260.4 |
-| 55 | sarah | develop.py | b44c34 | 259.9 |
+| 55 | sarah | submission.py | 0a16b5 | 259.9 |
 | 56 | henry | submission.py | 92577d | 259.6 |
 | 57 | nicknam534534 | develop.py | f75c41 | 256.9 |
 | 58 | jet2holiday | submission.py | 3794df | 251.9 |
