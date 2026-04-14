@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 08:55:14 PM ET`
+Last updated: `April 13, 2026 at 09:04:44 PM ET`
 
 ## R1 (tok/s)
 
@@ -17,7 +17,7 @@ Last updated: `April 13, 2026 at 08:55:14 PM ET`
 | 9 | nickname55555555 | submission.py | 45cab4 | 568.8 |
 | 10 | zionrangers | develop.py | 7758e0 | 568.5 |
 | 11 | beratcelik | submission.py | ecf890 | 564.7 |
-| 12 | co-smith | develop.py | 40bf23 | 563.8 |
+| 12 | co-smith | submission.py | cc09aa | 564.4 |
 | 13 | ashaikh23 | submission.py | 062f0e | 563.6 |
 | 14 | goingbananas | develop.py | fc1133 | 563.5 |
 | 15 | abarat007 | develop.py | d7f626 | 562.9 |
@@ -72,8 +72,8 @@ Last updated: `April 13, 2026 at 08:55:14 PM ET`
 | 64 | yb | submission.py | ea23ab | 525.9 |
 | 65 | nicknam534534 | develop.py | 83a901 | 525.8 |
 | 66 | pick_a_nickname | submission.py | c47490 | 525.7 |
-| 67 | brandon_lorenzo | submission.py | 494304 | 525.0 |
-| 68 | avemaria | develop.py | 242975 | 524.7 |
+| 67 | avemaria | develop.py | edebd9 | 525.7 |
+| 68 | brandon_lorenzo | submission.py | 494304 | 525.0 |
 | 69 | somita | submission.py | bbe658 | 524.7 |
 | 70 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
 | 71 | yoursun1220 | submission.py | f4e2be | 524.2 |

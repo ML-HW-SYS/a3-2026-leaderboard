@@ -1,10 +1,14 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 08:55:14 PM ET`
+Last updated: `April 13, 2026 at 09:04:44 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 09:00 PM ET | avemaria | evaluated |  | develop.py | edebd9 | 21.3/6.4/27.7 | 525.7 | 165.6 | 323.0 | 256.1 |
+| Apr 13 08:57 PM ET | co-smith | evaluated |  | submission.py | cc09aa | 22.0/2.6/24.6 | 564.4 | 404.3 | 35.5 | 69.7 |
+| Apr 13 08:57 PM ET | TheProphet | evaluated |  | submission.py | ff8eaa | 27.3/3.4/30.7 | 467.0 | 300.4 | 67.8 | 81.4 |
 | Apr 13 08:45 PM ET | stefan | evaluated |  | submission.py | cf00e7 | 29.0/3.1/32.2 | 534.0 | 278.5 | 29.7 | 54.4 |
+| Apr 13 08:45 PM ET | stefan | evaluated |  | develop.py | cf00e7 | 22.0/3.1/25.1 | 537.0 | 278.8 | 29.7 | 54.5 |
 | Apr 13 08:43 PM ET | co-smith | evaluated |  | develop.py | 40bf23 | 49.5/2.6/52.1 | 563.8 | 404.4 | 35.6 | 69.9 |
 | Apr 13 08:37 PM ET | avemaria | failed_security | Security policy check failed for develop.py: \| - prohibited call: compile \| - prohibited call: exec \| - prohibited ca... | develop.py | 112bee |  |  |  |  |  |
 | Apr 13 08:34 PM ET | TheProphet | failed_correctness | R2: ERR: hard timeout exceeded (worker killed) \| R3: ERR: total timeout exceeded before regime start \| R4: ERR: total... | submission.py | 80a82b | 53.3/0.8/54.1 | 642.9 | 0.0 | 0.0 | 0.0 |
