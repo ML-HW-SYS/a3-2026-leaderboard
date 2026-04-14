@@ -1,12 +1,20 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 10:48:59 PM ET`
+Last updated: `April 13, 2026 at 10:57:48 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 10:50 PM ET | jet2holiday | evaluated |  | submission.py | 2b3796 | 41.4/3.8/45.2 | 528.0 | 250.8 | 69.4 | 128.2 |
+| Apr 13 10:49 PM ET | Akash Basu | failed_correctness | Correctness FAIL \| R2 (62.86%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=391.5 | submission.py | d942a2 | 33.0/20.9/54.0 | 524.0 | 129.7 | 866.7 | 3139.4 |
+| Apr 13 10:48 PM ET | avemaria | evaluated |  | submission.py | 6a5e32 | 19.9/6.4/26.3 | 523.3 | 165.5 | 322.5 | 255.7 |
+| Apr 13 10:48 PM ET | yb | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | develop.py | aa2710 | 25.1/3.9/29.0 | 522.6 | 174.0 | 0.0 | 0.0 |
+| Apr 13 10:48 PM ET | henry | evaluated |  | submission.py | 12ed18 | 45.7/5.9/51.5 | 566.4 | 187.6 | 343.2 | 212.4 |
 | Apr 13 10:45 PM ET | yb | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | submission.py | 902a7b | 44.0/3.9/48.0 | 524.1 | 174.0 | 0.0 | 0.0 |
+| Apr 13 10:43 PM ET | TheProphet | evaluated |  | submission.py | 18b265 | 28.7/2.7/31.4 | 472.2 | 381.7 | 24.3 | 46.4 |
+| Apr 13 10:42 PM ET | siddarak | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | 9319b0 | 19.1/3.8/22.9 | 522.9 | 255.2 | 70.5 | 125.0 |
 | Apr 13 10:41 PM ET | chyyy | failed_correctness | Correctness FAIL \| R2 (27.76%) \| max_abs_diff=1.773 | develop.py | 236060 | 51.8/2.4/54.2 | 555.3 | 427.1 | 25.2 | 48.4 |
 | Apr 13 10:41 PM ET | jbc | evaluated |  | submission.py | 66b81a | 42.1/2.6/44.7 | 559.5 | 403.8 | 32.6 | 59.3 |
+| Apr 13 10:41 PM ET | jbc | evaluated |  | develop.py | 66b81a | 18.8/2.6/21.4 | 559.3 | 403.0 | 32.6 | 59.7 |
 | Apr 13 10:41 PM ET | siddarak | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | dc9b40 | 19.3/3.8/23.0 | 523.9 | 254.4 | 70.6 | 125.5 |
 | Apr 13 10:35 PM ET | co-smith | failed_correctness | R2: SETUP: ERR: NameError: name '_pick_prefill_plan_launch_params' is not defined \| R3: SETUP: ERR: NameError: name '... | develop.py | 37b4d5 | 18.4/0.9/19.4 | 565.2 | 0.0 | 0.0 | 0.0 |
 | Apr 13 10:32 PM ET | yb | evaluated |  | submission.py | be62b7 | 21.5/6.2/27.7 | 524.8 | 173.8 | 310.6 | 250.4 |
