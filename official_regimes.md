@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 13, 2026 at 09:04:44 PM ET`
+Last updated: `April 13, 2026 at 09:13:16 PM ET`
 
 ## R1 (tok/s)
 
@@ -85,7 +85,7 @@ Last updated: `April 13, 2026 at 09:04:44 PM ET`
 |  | Akash Basu | failed | 0d44ec |  |
 |  | avemaria | failed | 3b3135 |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | siddarak | failed | d85766 |  |
+|  | siddarak | failed | 5563a4 |  |
 |  | SIUUU | failed | 522695 |  |
 
 ## R2 (tok/s)
@@ -171,7 +171,7 @@ Last updated: `April 13, 2026 at 09:04:44 PM ET`
 |  | Akash Basu | failed | 0d44ec |  |
 |  | avemaria | failed | 3b3135 |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | siddarak | failed | d85766 |  |
+|  | siddarak | failed | 5563a4 |  |
 |  | SIUUU | failed | 522695 |  |
 
 ## R3 (ms)
@@ -257,7 +257,7 @@ Last updated: `April 13, 2026 at 09:04:44 PM ET`
 |  | Akash Basu | failed | 0d44ec |  |
 |  | avemaria | failed | 3b3135 |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | siddarak | failed | d85766 |  |
+|  | siddarak | failed | 5563a4 |  |
 |  | SIUUU | failed | 522695 |  |
 
 ## R4 (ms)
@@ -343,5 +343,5 @@ Last updated: `April 13, 2026 at 09:04:44 PM ET`
 |  | Akash Basu | failed | 0d44ec |  |
 |  | avemaria | failed | 3b3135 |  |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | siddarak | failed | d85766 |  |
+|  | siddarak | failed | 5563a4 |  |
 |  | SIUUU | failed | 522695 |  |

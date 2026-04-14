@@ -1,6 +1,6 @@
 # A3 2026 Leaderboard
 
-Last updated: `April 13, 2026 at 09:04:44 PM ET`
+Last updated: `April 13, 2026 at 09:13:16 PM ET`
 
 ## Pages
 
@@ -91,7 +91,7 @@ Last updated: `April 13, 2026 at 09:04:44 PM ET`
 |  | Akash Basu | failed | 0d44ec | 38.6/1.0/39.6 |  |  |  |  |  |
 |  | avemaria | failed | 3b3135 |  |  |  |  |  |  |
 |  | dhanushikka | failed | 14b1fd |  |  |  |  |  |  |
-|  | siddarak | failed | d85766 | 21.8/9.2/31.0 |  |  |  |  |  |
+|  | siddarak | failed | 5563a4 | 26.7/3.7/30.4 |  |  |  |  |  |
 |  | SIUUU | failed | 522695 | 37.9/4.1/42.0 |  |  |  |  |  |
 
 ## Column Guide

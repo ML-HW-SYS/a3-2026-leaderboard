@@ -1,12 +1,14 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 09:04:44 PM ET`
+Last updated: `April 13, 2026 at 09:13:16 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 09:04 PM ET | siddarak | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (70.97%), R4 (71.35%) \| max_abs_diff=inf | submission.py | 5563a4 | 26.7/3.7/30.4 | 527.8 | 259.5 | 62.6 | 124.6 |
 | Apr 13 09:00 PM ET | avemaria | evaluated |  | develop.py | edebd9 | 21.3/6.4/27.7 | 525.7 | 165.6 | 323.0 | 256.1 |
 | Apr 13 08:57 PM ET | co-smith | evaluated |  | submission.py | cc09aa | 22.0/2.6/24.6 | 564.4 | 404.3 | 35.5 | 69.7 |
 | Apr 13 08:57 PM ET | TheProphet | evaluated |  | submission.py | ff8eaa | 27.3/3.4/30.7 | 467.0 | 300.4 | 67.8 | 81.4 |
+| Apr 13 08:57 PM ET | TheProphet | evaluated |  | develop.py | ff8eaa | 27.1/3.4/30.5 | 466.1 | 300.7 | 67.6 | 81.4 |
 | Apr 13 08:45 PM ET | stefan | evaluated |  | submission.py | cf00e7 | 29.0/3.1/32.2 | 534.0 | 278.5 | 29.7 | 54.4 |
 | Apr 13 08:45 PM ET | stefan | evaluated |  | develop.py | cf00e7 | 22.0/3.1/25.1 | 537.0 | 278.8 | 29.7 | 54.5 |
 | Apr 13 08:43 PM ET | co-smith | evaluated |  | develop.py | 40bf23 | 49.5/2.6/52.1 | 563.8 | 404.4 | 35.6 | 69.9 |
