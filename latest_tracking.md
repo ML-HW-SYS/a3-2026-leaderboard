@@ -1,14 +1,21 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 09:41:26 PM ET`
+Last updated: `April 13, 2026 at 09:54:13 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 09:48 PM ET | pick_a_nickname | evaluated |  | submission.py | 3e41c6 | 71.6/2.6/74.2 | 555.1 | 375.9 | 28.3 | 50.9 |
+| Apr 13 09:46 PM ET | co-smith | evaluated |  | develop.py | 578c90 | 59.0/2.6/61.6 | 559.6 | 404.5 | 30.4 | 69.9 |
+| Apr 13 09:45 PM ET | avemaria | evaluated |  | submission.py | feb82c | 65.6/8.6/74.2 | 537.9 | 125.1 | 534.5 | 348.9 |
+| Apr 13 09:43 PM ET | advaith-1212 | evaluated |  | submission.py | f4f700 | 41.0/3.7/44.7 | 540.3 | 260.2 | 64.1 | 123.6 |
+| Apr 13 09:40 PM ET | TheProphet | evaluated |  | submission.py | e610bf | 28.5/2.9/31.4 | 393.9 | 384.6 | 24.2 | 46.6 |
 | Apr 13 09:38 PM ET | 1_Core_2GHz_Colab_CPU | evaluated |  | develop.py | 680fa3 | 19.2/2.8/22.0 | 544.8 | 360.7 | 33.7 | 66.3 |
 | Apr 13 09:37 PM ET | avemaria | failed_correctness | R3: SETUP: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent ... | submission.py | 866c91 | 57.6/5.0/62.6 | 539.6 | 125.7 | 0.0 | 0.0 |
+| Apr 13 09:37 PM ET | sarah | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | c2bb47 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 09:33 PM ET | co-smith | evaluated |  | submission.py | 089c7d | 28.5/2.6/31.1 | 562.4 | 403.1 | 30.7 | 70.1 |
 | Apr 13 09:31 PM ET | chyyy | evaluated |  | develop.py | c3c23c | 23.3/2.4/25.7 | 551.3 | 426.0 | 25.3 | 48.9 |
 | Apr 13 09:26 PM ET | nkkrnkl | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | 23a7a1 |  |  |  |  |  |
+| Apr 13 09:26 PM ET | nkkrnkl | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | 23a7a1 |  |  |  |  |  |
 | Apr 13 09:23 PM ET | TheProphet | evaluated |  | submission.py | c3c2c4 | 37.7/4.3/42.0 | 194.3 | 372.4 | 24.1 | 46.4 |
 | Apr 13 09:23 PM ET | TheProphet | failed_security | Security policy check failed for develop.py: \| - prohibited import: os \| - prohibited import: pathlib \| - prohibited ... | develop.py | c3c2c4 |  |  |  |  |  |
 | Apr 13 09:23 PM ET | co-smith | evaluated |  | develop.py | ad7ad1 | 28.4/2.6/31.0 | 565.9 | 403.2 | 30.7 | 70.0 |
