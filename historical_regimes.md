@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 11:31:19 PM ET`
+Last updated: `April 13, 2026 at 11:39:03 PM ET`
 
 ## R1 (tok/s)
 
@@ -127,8 +127,8 @@ Last updated: `April 13, 2026 at 11:31:19 PM ET`
 | 35 | goingbananas | submission.py | 2ce123 | 307.6 |
 | 36 | pallavi-srinivas | submission.py | 26a6d9 | 307.4 |
 | 37 | lipphi | submission.py | a3a71b | 306.7 |
-| 38 | PurplePickle67 | submission.py | 68d34e | 303.7 |
-| 39 | Bulbasaur | develop.py | dfcccd | 302.4 |
+| 38 | Bulbasaur | submission.py | d42099 | 305.9 |
+| 39 | PurplePickle67 | submission.py | 68d34e | 303.7 |
 | 40 | TA | submission.py | 324cb8 | 295.5 |
 | 41 | beratcelik | submission.py | 7c87c2 | 294.0 |
 | 42 | ngoguen | submission.py | ecab75 | 282.6 |
@@ -233,7 +233,7 @@ Last updated: `April 13, 2026 at 11:31:19 PM ET`
 | 57 | hngydn20 | develop.py | 7ec9c9 | 99.3 |
 | 58 | fishyfins | develop.py | 6b3edb | 101.0 |
 | 59 | jl | submission.py | e6ce85 | 101.9 |
-| 60 | Bulbasaur | develop.py | dfcccd | 103.8 |
+| 60 | Bulbasaur | submission.py | d42099 | 103.1 |
 | 61 | goingbananas | develop.py | 162a5a | 104.2 |
 | 62 | pallavi-srinivas | submission.py | 72c655 | 104.2 |
 | 63 | SIUUU | develop.py | 522695 | 104.4 |
@@ -299,7 +299,7 @@ Last updated: `April 13, 2026 at 11:31:19 PM ET`
 | 37 | henry | submission.py | a20a6f | 72.0 |
 | 38 | JasonWang07 | develop.py | f27837 | 78.3 |
 | 39 | leoli | submission.py | 5cdac4 | 87.4 |
-| 40 | castillo | submission.py | b62311 | 106.7 |
+| 40 | castillo | develop.py | b62311 | 106.6 |
 | 41 | abhik | submission.py | 0b4b08 | 107.2 |
 | 42 | vallabkaranam | submission.py | 0bdeec | 108.2 |
 | 43 | alifim | submission.py | 701077 | 109.2 |
@@ -320,10 +320,10 @@ Last updated: `April 13, 2026 at 11:31:19 PM ET`
 | 58 | fishyfins | submission.py | 6b3edb | 138.3 |
 | 59 | 13rabbit | submission.py | 49d27b | 141.4 |
 | 60 | hngydn20 | submission.py | 7ec9c9 | 145.9 |
-| 61 | jl | submission.py | e6ce85 | 148.1 |
-| 62 | pallavi-srinivas | submission.py | 72c655 | 149.7 |
-| 63 | goingbananas | develop.py | 162a5a | 149.8 |
-| 64 | Bulbasaur | develop.py | dfcccd | 150.1 |
+| 61 | Bulbasaur | submission.py | d42099 | 146.5 |
+| 62 | jl | submission.py | e6ce85 | 148.1 |
+| 63 | pallavi-srinivas | submission.py | 72c655 | 149.7 |
+| 64 | goingbananas | develop.py | 162a5a | 149.8 |
 | 65 | lipphi | submission.py | a3a71b | 150.9 |
 | 66 | SIUUU | develop.py | 522695 | 151.0 |
 | 67 | yb | develop.py | ec6a2f | 153.1 |
