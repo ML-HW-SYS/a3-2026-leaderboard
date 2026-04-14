@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 14, 2026 at 09:56:47 AM ET`
+Last updated: `April 14, 2026 at 10:11:56 AM ET`
 
 ## R1 (tok/s)
 
@@ -42,34 +42,34 @@ Last updated: `April 14, 2026 at 09:56:47 AM ET`
 | 34 | alifim | evaluated | 701077 | 539.6 |
 | 35 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
 | 36 | ngoguen | evaluated | f69acc | 538.9 |
-| 37 | Shengwei | evaluated | f78d37 | 537.7 |
-| 38 | onlythingIcanDOisTAPEOUT | evaluated | 6a5359 | 536.1 |
-| 39 | landrum | evaluated | 61ab81 | 535.7 |
-| 40 | goingbananas | evaluated | 2ce123 | 535.5 |
-| 41 | sjb | evaluated | 373553 | 535.3 |
-| 42 | lipphi | evaluated | a3a71b | 534.8 |
-| 43 | chickfila | evaluated | f0956d | 534.5 |
-| 44 | Licha | evaluated | 9666cd | 534.4 |
-| 45 | Yize | evaluated | c8c9f7 | 534.4 |
-| 46 | stefan | evaluated | cf00e7 | 534.0 |
-| 47 | Bulbasaur | evaluated | d42099 | 533.8 |
-| 48 | axel4 | evaluated | 717d73 | 533.4 |
-| 49 | pallavi-srinivas | evaluated | 3c1d3c | 533.0 |
-| 50 | gravlax | evaluated | b1229d | 532.3 |
-| 51 | Decode_speed | evaluated | d54f1d | 530.2 |
-| 52 | 13rabbit | evaluated | 49d27b | 529.4 |
-| 53 | mdavalos10 | evaluated | af3233 | 529.3 |
-| 54 | kaimaeda | evaluated | 4360ef | 528.1 |
-| 55 | jet2holiday | evaluated | 2b3796 | 528.0 |
-| 56 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
-| 57 | Junyi Li | evaluated | c7a1b3 | 527.3 |
-| 58 | JaneShuey | evaluated | 882419 | 526.2 |
-| 59 | bl792 | evaluated | 09cd73 | 524.7 |
-| 60 | somita | evaluated | bbe658 | 524.7 |
-| 61 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
-| 62 | ethanchen | evaluated | ea518d | 523.7 |
-| 63 | yb | evaluated | a49d40 | 523.5 |
-| 64 | castillo | late | c33082 | 523.2 |
+| 37 | castillo | late | f1bdd6 | 538.3 |
+| 38 | Shengwei | evaluated | f78d37 | 537.7 |
+| 39 | onlythingIcanDOisTAPEOUT | evaluated | 6a5359 | 536.1 |
+| 40 | landrum | evaluated | 61ab81 | 535.7 |
+| 41 | goingbananas | evaluated | 2ce123 | 535.5 |
+| 42 | sjb | evaluated | 373553 | 535.3 |
+| 43 | lipphi | evaluated | a3a71b | 534.8 |
+| 44 | chickfila | evaluated | f0956d | 534.5 |
+| 45 | Licha | evaluated | 9666cd | 534.4 |
+| 46 | Yize | evaluated | c8c9f7 | 534.4 |
+| 47 | stefan | evaluated | cf00e7 | 534.0 |
+| 48 | Bulbasaur | evaluated | d42099 | 533.8 |
+| 49 | axel4 | evaluated | 717d73 | 533.4 |
+| 50 | pallavi-srinivas | evaluated | 3c1d3c | 533.0 |
+| 51 | gravlax | evaluated | b1229d | 532.3 |
+| 52 | Decode_speed | evaluated | d54f1d | 530.2 |
+| 53 | 13rabbit | evaluated | 49d27b | 529.4 |
+| 54 | mdavalos10 | evaluated | af3233 | 529.3 |
+| 55 | kaimaeda | evaluated | 4360ef | 528.1 |
+| 56 | jet2holiday | evaluated | 2b3796 | 528.0 |
+| 57 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
+| 58 | Junyi Li | evaluated | c7a1b3 | 527.3 |
+| 59 | JaneShuey | evaluated | 882419 | 526.2 |
+| 60 | bl792 | evaluated | 09cd73 | 524.7 |
+| 61 | somita | evaluated | bbe658 | 524.7 |
+| 62 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
+| 63 | ethanchen | evaluated | ea518d | 523.7 |
+| 64 | yb | evaluated | a49d40 | 523.5 |
 | 65 | hw_bloss | evaluated | 4c9666 | 522.2 |
 | 66 | yoursun1220 | evaluated | d8b590 | 521.8 |
 | 67 | avemaria | evaluated | 6a5e32 | 521.6 |
@@ -139,8 +139,8 @@ Last updated: `April 14, 2026 at 09:56:47 AM ET`
 | 43 | stefan | evaluated | cf00e7 | 278.5 |
 | 44 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
 | 45 | landrum | evaluated | 61ab81 | 276.9 |
-| 46 | Decode_speed | evaluated | d54f1d | 274.5 |
-| 47 | castillo | late | c33082 | 273.8 |
+| 46 | castillo | late | f1bdd6 | 275.6 |
+| 47 | Decode_speed | evaluated | d54f1d | 274.5 |
 | 48 | gravlax | evaluated | b1229d | 272.5 |
 | 49 | Yize | evaluated | c8c9f7 | 269.9 |
 | 50 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
@@ -214,7 +214,7 @@ Last updated: `April 14, 2026 at 09:56:47 AM ET`
 | 30 | gravlax | evaluated | b1229d | 35.0 |
 | 31 | ck | evaluated | f75094 | 35.1 |
 | 32 | omermoav | evaluated | b01c0e | 35.2 |
-| 33 | castillo | late | c33082 | 35.8 |
+| 33 | castillo | late | f1bdd6 | 35.3 |
 | 34 | PurplePickle67 | evaluated | 68d34e | 37.3 |
 | 35 | Yize | evaluated | c8c9f7 | 39.4 |
 | 36 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
@@ -304,8 +304,8 @@ Last updated: `April 14, 2026 at 09:56:47 AM ET`
 | 32 | omermoav | evaluated | b01c0e | 64.6 |
 | 33 | ck | evaluated | f75094 | 64.6 |
 | 34 | blabrl | evaluated | ca60eb | 65.2 |
-| 35 | 1_Core_2GHz_Colab_CPU | evaluated | 4e42ed | 66.8 |
-| 36 | castillo | late | c33082 | 67.2 |
+| 35 | castillo | late | f1bdd6 | 65.9 |
+| 36 | 1_Core_2GHz_Colab_CPU | evaluated | 4e42ed | 66.8 |
 | 37 | co-smith | evaluated | 089c7d | 70.1 |
 | 38 | henry | evaluated | 92577d | 72.1 |
 | 39 | leoli | evaluated | 5cdac4 | 87.4 |

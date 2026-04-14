@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 14, 2026 at 09:56:47 AM ET`
+Last updated: `April 14, 2026 at 10:11:56 AM ET`
 
 ## R1 (tok/s)
 
@@ -53,22 +53,22 @@ Last updated: `April 14, 2026 at 09:56:47 AM ET`
 | 45 | Bulbasaur | submission.py | dfcccd | 540.2 |
 | 46 | avemaria | submission.py | 866c91 | 539.6 |
 | 47 | abhik | develop.py | 41a3ec | 539.5 |
-| 48 | axel4 | submission.py | 66964d | 537.9 |
-| 49 | sjb | develop.py | 3359ec | 537.0 |
-| 50 | onlythingIcanDOisTAPEOUT | submission.py | b40e4a | 536.3 |
-| 51 | mdavalos10 | develop.py | 6e0754 | 535.4 |
-| 52 | lipphi | submission.py | a3a71b | 534.8 |
-| 53 | gravlax | develop.py | 1f23d9 | 534.6 |
-| 54 | chickfila | submission.py | 29860a | 534.6 |
-| 55 | Yize | submission.py | c8c9f7 | 534.4 |
-| 56 | Decode_speed | submission.py | 236fa2 | 533.3 |
-| 57 | jet2holiday | submission.py | 0bf782 | 532.9 |
-| 58 | Junyi Li | submission.py | 2e381b | 529.4 |
-| 59 | bl792 | submission.py | 3b3a8a | 528.5 |
-| 60 | dylanjhnsondj | develop.py | 55a3fd | 528.5 |
-| 61 | kaimaeda | submission.py | 4360ef | 528.1 |
-| 62 | ethanchen | submission.py | a0d359 | 528.1 |
-| 63 | castillo | submission.py | b62311 | 527.4 |
+| 48 | castillo | submission.py | f1bdd6 | 538.3 |
+| 49 | axel4 | submission.py | 66964d | 537.9 |
+| 50 | sjb | develop.py | 3359ec | 537.0 |
+| 51 | onlythingIcanDOisTAPEOUT | submission.py | b40e4a | 536.3 |
+| 52 | mdavalos10 | develop.py | 6e0754 | 535.4 |
+| 53 | lipphi | submission.py | a3a71b | 534.8 |
+| 54 | gravlax | develop.py | 1f23d9 | 534.6 |
+| 55 | chickfila | submission.py | 29860a | 534.6 |
+| 56 | Yize | submission.py | c8c9f7 | 534.4 |
+| 57 | Decode_speed | submission.py | 236fa2 | 533.3 |
+| 58 | jet2holiday | submission.py | 0bf782 | 532.9 |
+| 59 | Junyi Li | submission.py | 2e381b | 529.4 |
+| 60 | bl792 | submission.py | 3b3a8a | 528.5 |
+| 61 | dylanjhnsondj | develop.py | 55a3fd | 528.5 |
+| 62 | kaimaeda | submission.py | 4360ef | 528.1 |
+| 63 | ethanchen | submission.py | a0d359 | 528.1 |
 | 64 | Rithvik | submission.py | 1a7556 | 527.1 |
 | 65 | JaneShuey | submission.py | 882419 | 526.2 |
 | 66 | yb | develop.py | 92193f | 525.9 |
@@ -137,8 +137,8 @@ Last updated: `April 14, 2026 at 09:56:47 AM ET`
 | 45 | stefan | develop.py | c521d2 | 279.0 |
 | 46 | andrasferenczy | submission.py | 9c7f53 | 277.2 |
 | 47 | landrum | submission.py | 61ab81 | 276.9 |
-| 48 | Decode_speed | submission.py | 3ff088 | 275.1 |
-| 49 | castillo | develop.py | c33082 | 274.7 |
+| 48 | castillo | submission.py | f1bdd6 | 275.6 |
+| 49 | Decode_speed | submission.py | 3ff088 | 275.1 |
 | 50 | gravlax | develop.py | b1229d | 273.0 |
 | 51 | Yize | submission.py | c8c9f7 | 269.9 |
 | 52 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
@@ -207,8 +207,8 @@ Last updated: `April 14, 2026 at 09:56:47 AM ET`
 | 31 | chickfila | submission.py | f0956d | 34.7 |
 | 32 | gravlax | develop.py | b1229d | 35.0 |
 | 33 | ck | submission.py | f75094 | 35.1 |
-| 34 | nkkrnkl | develop.py | ceb8f5 | 35.5 |
-| 35 | castillo | develop.py | c33082 | 35.7 |
+| 34 | castillo | submission.py | f1bdd6 | 35.3 |
+| 35 | nkkrnkl | develop.py | ceb8f5 | 35.5 |
 | 36 | PurplePickle67 | submission.py | 2efdba | 36.3 |
 | 37 | Yize | develop.py | 4c7928 | 39.3 |
 | 38 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 43.1 |
@@ -297,8 +297,8 @@ Last updated: `April 14, 2026 at 09:56:47 AM ET`
 | 35 | ck | submission.py | 4ef89e | 64.3 |
 | 36 | omermoav | submission.py | b01c0e | 64.6 |
 | 37 | blabrl | submission.py | ca60eb | 65.2 |
-| 38 | 1_Core_2GHz_Colab_CPU | develop.py | 680fa3 | 66.3 |
-| 39 | castillo | submission.py | c33082 | 67.2 |
+| 38 | castillo | submission.py | f1bdd6 | 65.9 |
+| 39 | 1_Core_2GHz_Colab_CPU | develop.py | 680fa3 | 66.3 |
 | 40 | henry | submission.py | a20a6f | 72.0 |
 | 41 | JasonWang07 | develop.py | f27837 | 78.3 |
 | 42 | leoli | submission.py | 5cdac4 | 87.4 |
