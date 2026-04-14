@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 10:57:48 PM ET`
+Last updated: `April 13, 2026 at 11:03:17 PM ET`
 
 ## R1 (tok/s)
 
@@ -16,7 +16,7 @@ Last updated: `April 13, 2026 at 10:57:48 PM ET`
 | 8 | omermoav | submission.py | b01c0e | 569.6 |
 | 9 | nickname55555555 | submission.py | 45cab4 | 568.8 |
 | 10 | zionrangers | develop.py | 7758e0 | 568.5 |
-| 11 | henry | submission.py | 12ed18 | 566.4 |
+| 11 | henry | develop.py | 12ed18 | 567.6 |
 | 12 | co-smith | develop.py | ad7ad1 | 565.9 |
 | 13 | beratcelik | submission.py | ecf890 | 564.7 |
 | 14 | ashaikh23 | submission.py | 062f0e | 563.6 |
@@ -152,7 +152,7 @@ Last updated: `April 13, 2026 at 10:57:48 PM ET`
 | 61 | tuo | submission.py | 3d6d40 | 204.6 |
 | 62 | Sulaiman Alam | submission.py | c7ede2 | 197.4 |
 | 63 | mdavalos10 | submission.py | af3233 | 177.8 |
-| 64 | yb | submission.py | 8c5f0e | 174.1 |
+| 64 | yb | submission.py | 92193f | 174.1 |
 | 65 | your_nickname_here | submission.py | 59e245 | 173.4 |
 | 66 | yoursun1220 | submission.py | 27e400 | 169.9 |
 | 67 | axel4 | submission.py | ea45fd | 169.9 |
@@ -239,13 +239,13 @@ Last updated: `April 13, 2026 at 10:57:48 PM ET`
 | 65 | tuo | submission.py | 92c00e | 166.9 |
 | 66 | poppyPotatoe | submission.py | e01605 | 209.9 |
 | 67 | mdavalos10 | submission.py | 871ac2 | 279.7 |
-| 68 | dylanjhnsondj | submission.py | c4e1ab | 306.0 |
-| 69 | hw_bloss | submission.py | b2767b | 306.7 |
-| 70 | your_nickname_here | submission.py | 59e245 | 307.4 |
-| 71 | yoursun1220 | submission.py | 27e400 | 308.6 |
-| 72 | axel4 | submission.py | c74a1e | 308.6 |
-| 73 | Sulaiman Alam | submission.py | c7ede2 | 308.7 |
-| 74 | Akash Basu | submission.py | fa6371 | 308.7 |
+| 68 | Akash Basu | submission.py | 26a442 | 303.1 |
+| 69 | dylanjhnsondj | submission.py | c4e1ab | 306.0 |
+| 70 | hw_bloss | submission.py | b2767b | 306.7 |
+| 71 | your_nickname_here | submission.py | 59e245 | 307.4 |
+| 72 | yoursun1220 | submission.py | 27e400 | 308.6 |
+| 73 | axel4 | submission.py | c74a1e | 308.6 |
+| 74 | Sulaiman Alam | submission.py | c7ede2 | 308.7 |
 | 75 | yb | develop.py | 1533ce | 309.2 |
 | 76 | brandon_lorenzo | submission.py | 67c79e | 309.2 |
 | 77 | tif03 | submission.py | ec268d | 309.4 |
@@ -324,12 +324,12 @@ Last updated: `April 13, 2026 at 10:57:48 PM ET`
 | 65 | SIUUU | develop.py | 522695 | 151.0 |
 | 66 | tuo | submission.py | 4274da | 160.5 |
 | 67 | mdavalos10 | submission.py | af3233 | 189.4 |
-| 68 | dylanjhnsondj | submission.py | c4e1ab | 236.8 |
-| 69 | hw_bloss | submission.py | b2767b | 237.0 |
-| 70 | Sulaiman Alam | develop.py | c7ede2 | 244.4 |
-| 71 | your_nickname_here | submission.py | 59e245 | 245.7 |
-| 72 | axel4 | submission.py | c74a1e | 247.5 |
-| 73 | Akash Basu | submission.py | fa6371 | 247.9 |
+| 68 | Akash Basu | submission.py | 26a442 | 232.8 |
+| 69 | dylanjhnsondj | submission.py | c4e1ab | 236.8 |
+| 70 | hw_bloss | submission.py | b2767b | 237.0 |
+| 71 | Sulaiman Alam | develop.py | c7ede2 | 244.4 |
+| 72 | your_nickname_here | submission.py | 59e245 | 245.7 |
+| 73 | axel4 | submission.py | c74a1e | 247.5 |
 | 74 | yoursun1220 | submission.py | 27e400 | 248.7 |
 | 75 | yb | develop.py | 1533ce | 248.8 |
 | 76 | tif03 | submission.py | ec268d | 249.5 |
