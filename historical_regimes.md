@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 08:34:57 PM ET`
+Last updated: `April 13, 2026 at 08:44:56 PM ET`
 
 ## R1 (tok/s)
 
@@ -48,18 +48,18 @@ Last updated: `April 13, 2026 at 08:34:57 PM ET`
 | 40 | andrasferenczy | submission.py | 6204c7 | 540.6 |
 | 41 | stefan | develop.py | 4bac49 | 540.4 |
 | 42 | Bulbasaur | submission.py | dfcccd | 540.2 |
-| 43 | abhik | develop.py | 41a3ec | 539.5 |
-| 44 | axel4 | submission.py | 66964d | 537.9 |
-| 45 | sjb | develop.py | 3359ec | 537.0 |
-| 46 | onlythingIcanDOisTAPEOUT | submission.py | b40e4a | 536.3 |
-| 47 | mdavalos10 | develop.py | 6e0754 | 535.4 |
-| 48 | lipphi | submission.py | a3a71b | 534.8 |
-| 49 | gravlax | develop.py | 1f23d9 | 534.6 |
-| 50 | chickfila | submission.py | 29860a | 534.6 |
-| 51 | Yize | submission.py | c8c9f7 | 534.4 |
-| 52 | Decode_speed | submission.py | 236fa2 | 533.3 |
-| 53 | jet2holiday | submission.py | 0bf782 | 532.9 |
-| 54 | henry | submission.py | a20a6f | 531.2 |
+| 43 | henry | develop.py | a20a6f | 540.0 |
+| 44 | abhik | develop.py | 41a3ec | 539.5 |
+| 45 | axel4 | submission.py | 66964d | 537.9 |
+| 46 | sjb | develop.py | 3359ec | 537.0 |
+| 47 | onlythingIcanDOisTAPEOUT | submission.py | b40e4a | 536.3 |
+| 48 | mdavalos10 | develop.py | 6e0754 | 535.4 |
+| 49 | lipphi | submission.py | a3a71b | 534.8 |
+| 50 | gravlax | develop.py | 1f23d9 | 534.6 |
+| 51 | chickfila | submission.py | 29860a | 534.6 |
+| 52 | Yize | submission.py | c8c9f7 | 534.4 |
+| 53 | Decode_speed | submission.py | 236fa2 | 533.3 |
+| 54 | jet2holiday | submission.py | 0bf782 | 532.9 |
 | 55 | Junyi Li | submission.py | 2e381b | 529.4 |
 | 56 | bl792 | submission.py | 3b3a8a | 528.5 |
 | 57 | dylanjhnsondj | develop.py | 55a3fd | 528.5 |
@@ -139,7 +139,7 @@ Last updated: `April 13, 2026 at 08:34:57 PM ET`
 | 48 | Yize | submission.py | c8c9f7 | 269.9 |
 | 49 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 266.6 |
 | 50 | happyface | develop.py | f8fcfd | 265.8 |
-| 51 | pick_a_nickname | submission.py | d94152 | 259.8 |
+| 51 | pick_a_nickname | submission.py | 1d4f9c | 264.4 |
 | 52 | henry | submission.py | a20a6f | 259.4 |
 | 53 | nicknam534534 | develop.py | f75c41 | 256.9 |
 | 54 | jet2holiday | submission.py | 3794df | 251.9 |
@@ -209,12 +209,12 @@ Last updated: `April 13, 2026 at 08:34:57 PM ET`
 | 35 | sjb | develop.py | 7fb492 | 50.4 |
 | 36 | abhik | develop.py | 0b4b08 | 55.4 |
 | 37 | kaimaeda | submission.py | 4360ef | 56.3 |
-| 38 | vallabkaranam | submission.py | 0bdeec | 57.3 |
-| 39 | act | submission.py | fce2ab | 59.5 |
-| 40 | JaneShuey | submission.py | 882419 | 59.6 |
-| 41 | Junyi Li | submission.py | c7a1b3 | 60.9 |
-| 42 | Licha | submission.py | 9666cd | 61.8 |
-| 43 | pick_a_nickname | submission.py | 964d0c | 64.4 |
+| 38 | pick_a_nickname | submission.py | 1d4f9c | 56.8 |
+| 39 | vallabkaranam | submission.py | 0bdeec | 57.3 |
+| 40 | act | submission.py | fce2ab | 59.5 |
+| 41 | JaneShuey | submission.py | 882419 | 59.6 |
+| 42 | Junyi Li | submission.py | c7a1b3 | 60.9 |
+| 43 | Licha | submission.py | 9666cd | 61.8 |
 | 44 | nicknam534534 | submission.py | 59bdfc | 64.8 |
 | 45 | alifim | submission.py | 701077 | 64.8 |
 | 46 | beratcelik | submission.py | 11c1b8 | 65.4 |
@@ -297,11 +297,11 @@ Last updated: `April 13, 2026 at 08:34:57 PM ET`
 | 38 | leoli | submission.py | 5cdac4 | 87.4 |
 | 39 | abhik | submission.py | 0b4b08 | 107.2 |
 | 40 | vallabkaranam | submission.py | 0bdeec | 108.2 |
-| 41 | alifim | submission.py | 701077 | 109.2 |
-| 42 | kaimaeda | submission.py | 4360ef | 109.4 |
-| 43 | act | submission.py | fce2ab | 109.5 |
-| 44 | beratcelik | submission.py | 11c1b8 | 110.5 |
-| 45 | pick_a_nickname | submission.py | 964d0c | 110.5 |
+| 41 | pick_a_nickname | submission.py | 1d4f9c | 108.2 |
+| 42 | alifim | submission.py | 701077 | 109.2 |
+| 43 | kaimaeda | submission.py | 4360ef | 109.4 |
+| 44 | act | submission.py | fce2ab | 109.5 |
+| 45 | beratcelik | submission.py | 11c1b8 | 110.5 |
 | 46 | JaneShuey | submission.py | 882419 | 111.1 |
 | 47 | Junyi Li | submission.py | c7a1b3 | 113.1 |
 | 48 | Licha | submission.py | 9666cd | 115.6 |
