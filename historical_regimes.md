@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 14, 2026 at 01:47:57 PM ET`
+Last updated: `April 14, 2026 at 02:03:06 PM ET`
 
 ## R1 (tok/s)
 
@@ -350,4 +350,4 @@ Last updated: `April 14, 2026 at 01:47:57 PM ET`
 | 80 | brandon_lorenzo | submission.py | 67c79e | 249.6 |
 | 81 | somita | submission.py | bbe658 | 249.8 |
 | 82 | avemaria | develop.py | 242975 | 254.8 |
-| 83 | dhanushikka | develop.py | 3a0ea1 | 268.5 |
+| 83 | dhanushikka | submission.py | 9e7232 | 268.2 |
