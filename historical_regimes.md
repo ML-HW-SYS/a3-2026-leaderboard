@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 14, 2026 at 04:18:16 PM ET`
+Last updated: `April 14, 2026 at 04:33:53 PM ET`
 
 ## R1 (tok/s)
 
@@ -99,7 +99,7 @@ Last updated: `April 14, 2026 at 04:18:16 PM ET`
 | 4 | co-smith | develop.py | d8d4f1 | 404.8 |
 | 5 | jbc | submission.py | 66b81a | 403.8 |
 | 6 | chickfila | submission.py | f0956d | 398.8 |
-| 7 | prousoglou | develop.py | 5379db | 396.0 |
+| 7 | prousoglou | submission.py | 1a9700 | 396.2 |
 | 8 | - - | submission.py | adc0f3 | 386.9 |
 | 9 | TheProphet | develop.py | 3a9c2e | 385.3 |
 | 10 | blabrl | develop.py | 9873f9 | 383.8 |
@@ -170,8 +170,8 @@ Last updated: `April 14, 2026 at 04:18:16 PM ET`
 | 75 | Junyi Li | submission.py | c7a1b3 | 169.7 |
 | 76 | dylanjhnsondj | submission.py | c4e1ab | 169.6 |
 | 77 | somita | submission.py | bbe658 | 169.5 |
-| 78 | tif03 | submission.py | ec268d | 167.6 |
-| 79 | siddarak | submission.py | b24e6b | 166.3 |
+| 78 | siddarak | submission.py | cbf90a | 168.4 |
+| 79 | tif03 | submission.py | ec268d | 167.6 |
 | 80 | avemaria | develop.py | 242975 | 165.7 |
 | 81 | JaneShuey | submission.py | 882419 | 165.2 |
 | 82 | poppyPotatoe | develop.py | d5cd12 | 129.7 |
