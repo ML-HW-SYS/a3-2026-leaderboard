@@ -1,13 +1,18 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 10:41:12 PM ET`
+Last updated: `April 13, 2026 at 10:48:59 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 10:45 PM ET | yb | failed_correctness | R3: ERR: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent run. Stack trace: Fil... | submission.py | 902a7b | 44.0/3.9/48.0 | 524.1 | 174.0 | 0.0 | 0.0 |
+| Apr 13 10:41 PM ET | chyyy | failed_correctness | Correctness FAIL \| R2 (27.76%) \| max_abs_diff=1.773 | develop.py | 236060 | 51.8/2.4/54.2 | 555.3 | 427.1 | 25.2 | 48.4 |
+| Apr 13 10:41 PM ET | jbc | evaluated |  | submission.py | 66b81a | 42.1/2.6/44.7 | 559.5 | 403.8 | 32.6 | 59.3 |
+| Apr 13 10:41 PM ET | siddarak | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%), R3 (100.00%), R4 (100.00%) \| max_abs_diff=inf | submission.py | dc9b40 | 19.3/3.8/23.0 | 523.9 | 254.4 | 70.6 | 125.5 |
 | Apr 13 10:35 PM ET | co-smith | failed_correctness | R2: SETUP: ERR: NameError: name '_pick_prefill_plan_launch_params' is not defined \| R3: SETUP: ERR: NameError: name '... | develop.py | 37b4d5 | 18.4/0.9/19.4 | 565.2 | 0.0 | 0.0 | 0.0 |
 | Apr 13 10:32 PM ET | yb | evaluated |  | submission.py | be62b7 | 21.5/6.2/27.7 | 524.8 | 173.8 | 310.6 | 250.4 |
 | Apr 13 10:31 PM ET | siddarak | failed_correctness | R2: SETUP: ERR: RuntimeError: error encountered during parsing \| R3: SETUP: ERR: RuntimeError: error encountered duri... | submission.py | 257ffa | 17.7/1.0/18.7 | 524.7 | 0.0 | 0.0 | 0.0 |
 | Apr 13 10:30 PM ET | Akash Basu | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | submission.py | 729795 | 26.5/16.9/43.4 | 521.2 | 129.8 | 2981.2 | 0.0 |
+| Apr 13 10:30 PM ET | Akash Basu | failed_correctness | Correctness FAIL \| R2 (62.86%), R3 (100.00%) \| max_abs_diff=352.1 | develop.py | 729795 | 27.9/27.2/55.2 | 522.3 | 130.1 | 863.0 | 4718.1 |
 | Apr 13 10:24 PM ET | yb | evaluated |  | submission.py | f94762 | 21.5/6.2/27.7 | 516.4 | 173.9 | 310.3 | 250.9 |
 | Apr 13 10:23 PM ET | TheProphet | evaluated |  | submission.py | c18fc9 | 30.3/3.2/33.5 | 371.9 | 334.7 | 24.2 | 46.2 |
 | Apr 13 10:22 PM ET | co-smith | evaluated |  | develop.py | 786ded | 33.6/3.5/37.1 | 563.7 | 247.4 | 30.6 | 87.8 |

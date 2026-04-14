@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 13, 2026 at 10:41:12 PM ET`
+Last updated: `April 13, 2026 at 10:48:59 PM ET`
 
 ## R1 (tok/s)
 
@@ -25,9 +25,9 @@ Last updated: `April 13, 2026 at 10:41:12 PM ET`
 | 17 | JasonWang07 | submission.py | 1b4aca | 561.1 |
 | 18 | 1_Core_2GHz_Colab_CPU | submission.py | 91d4be | 560.4 |
 | 19 | your_nickname_here | submission.py | 59e245 | 559.6 |
-| 20 | blabrl | develop.py | 9873f9 | 559.5 |
-| 21 | chyyy | develop.py | fde2e4 | 558.5 |
-| 22 | jbc | develop.py | 3d5258 | 557.9 |
+| 20 | jbc | submission.py | 66b81a | 559.5 |
+| 21 | blabrl | develop.py | 9873f9 | 559.5 |
+| 22 | chyyy | develop.py | fde2e4 | 558.5 |
 | 23 | TA | submission.py | a6e863 | 556.6 |
 | 24 | pick_a_nickname | submission.py | 3e41c6 | 555.1 |
 | 25 | henry | develop.py | fe8c07 | 553.9 |
@@ -93,7 +93,7 @@ Last updated: `April 13, 2026 at 10:41:12 PM ET`
 | 2 | chyyy | submission.py | 34cc06 | 433.8 |
 | 3 | kaimaeda | develop.py | dfd931 | 411.0 |
 | 4 | co-smith | develop.py | d8d4f1 | 404.8 |
-| 5 | jbc | develop.py | 3d5258 | 403.5 |
+| 5 | jbc | submission.py | 66b81a | 403.8 |
 | 6 | chickfila | submission.py | f0956d | 398.8 |
 | 7 | prousoglou | develop.py | 5379db | 396.0 |
 | 8 | - - | submission.py | adc0f3 | 386.9 |
