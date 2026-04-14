@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 14, 2026 at 12:30:06 PM ET`
+Last updated: `April 14, 2026 at 12:46:41 PM ET`
 
 ## R1 (tok/s)
 
@@ -85,9 +85,9 @@ Last updated: `April 14, 2026 at 12:30:06 PM ET`
 | 77 | tif03 | evaluated | ec268d | 501.2 |
 | 78 | Rithvik | evaluated | 2924a0 | 495.8 |
 | 79 | tuo | evaluated | 3d6d40 | 494.8 |
-| 80 | poppyPotatoe | late | b7bdd9 | 164.1 |
+| 80 | poppyPotatoe | late | 6b365f | 39.9 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | siddarak | failed | b4ad9a |  |
+|  | siddarak | failed | cf4b5f |  |
 |  | SIUUU | failed | 522695 |  |
 
 ## R2 (tok/s)
@@ -173,9 +173,9 @@ Last updated: `April 14, 2026 at 12:30:06 PM ET`
 | 77 | tif03 | evaluated | ec268d | 167.6 |
 | 78 | avemaria | evaluated | 6a5e32 | 165.3 |
 | 79 | JaneShuey | evaluated | 882419 | 165.2 |
-| 80 | poppyPotatoe | late | b7bdd9 | 125.8 |
+| 80 | poppyPotatoe | late | 6b365f | 35.9 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | siddarak | failed | b4ad9a |  |
+|  | siddarak | failed | cf4b5f |  |
 |  | SIUUU | failed | 522695 |  |
 
 ## R3 (ms)
@@ -249,7 +249,7 @@ Last updated: `April 14, 2026 at 12:30:06 PM ET`
 | 65 | kade_lin_is_here | evaluated | 6f69a9 | 108.4 |
 | 66 | yb | evaluated | a49d40 | 133.1 |
 | 67 | tuo | evaluated | 3d6d40 | 167.8 |
-| 68 | poppyPotatoe | late | b7bdd9 | 210.0 |
+| 68 | poppyPotatoe | late | 6b365f | 210.0 |
 | 69 | mdavalos10 | evaluated | af3233 | 279.7 |
 | 70 | Akash Basu | evaluated | 365e59 | 303.8 |
 | 71 | dylanjhnsondj | evaluated | c4e1ab | 306.0 |
@@ -263,7 +263,7 @@ Last updated: `April 14, 2026 at 12:30:06 PM ET`
 | 79 | your_nickname_here | evaluated | 0949d0 | 311.5 |
 | 80 | avemaria | evaluated | 6a5e32 | 323.4 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | siddarak | failed | b4ad9a |  |
+|  | siddarak | failed | cf4b5f |  |
 |  | SIUUU | failed | 522695 |  |
 
 ## R4 (ms)
@@ -326,7 +326,7 @@ Last updated: `April 14, 2026 at 12:30:06 PM ET`
 | 54 | sarah | late | 0a16b5 | 124.9 |
 | 55 | nicknam534534 | evaluated | 59bdfc | 126.3 |
 | 56 | jet2holiday | evaluated | 2b3796 | 128.2 |
-| 57 | poppyPotatoe | late | b7bdd9 | 133.4 |
+| 57 | poppyPotatoe | late | 6b365f | 134.3 |
 | 58 | TA | evaluated | a6e863 | 135.6 |
 | 59 | kade_lin_is_here | evaluated | 6f69a9 | 138.5 |
 | 60 | 13rabbit | evaluated | 49d27b | 141.4 |
@@ -351,5 +351,5 @@ Last updated: `April 14, 2026 at 12:30:06 PM ET`
 | 79 | your_nickname_here | evaluated | 0949d0 | 250.7 |
 | 80 | avemaria | evaluated | 6a5e32 | 256.7 |
 |  | dhanushikka | failed | 14b1fd |  |
-|  | siddarak | failed | b4ad9a |  |
+|  | siddarak | failed | cf4b5f |  |
 |  | SIUUU | failed | 522695 |  |
