@@ -1,9 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 14, 2026 at 02:03:06 PM ET`
+Last updated: `April 14, 2026 at 02:18:47 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 14 02:03 PM ET | nkkrnkl | late |  | submission.py | de6b0f | 30.1/2.7/32.8 | 539.9 | 362.4 | 36.5 | 56.1 |
+| Apr 14 01:53 PM ET | dhanushikka | late |  | develop.py | cf6cd1 | 20.9/6.5/27.4 | 521.9 | 179.0 | 386.9 | 269.0 |
 | Apr 14 01:33 PM ET | dhanushikka | late |  | submission.py | 9e7232 | 21.0/6.5/27.5 | 518.8 | 178.9 | 386.6 | 268.2 |
 | Apr 14 01:23 PM ET | dhanushikka | late |  | develop.py | 0c2f1c | 20.9/6.5/27.4 | 520.8 | 178.8 | 386.6 | 268.5 |
 | Apr 14 01:15 PM ET | nkkrnkl | late |  | submission.py | 489319 | 32.5/2.9/35.5 | 487.8 | 340.3 | 36.1 | 55.6 |

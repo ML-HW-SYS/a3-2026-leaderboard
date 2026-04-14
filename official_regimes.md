@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 14, 2026 at 02:03:06 PM ET`
+Last updated: `April 14, 2026 at 02:18:47 PM ET`
 
 ## R1 (tok/s)
 
@@ -39,53 +39,53 @@ Last updated: `April 14, 2026 at 02:03:06 PM ET`
 | 31 | pyjuan91 | evaluated | fe8f27 | 540.9 |
 | 32 | advaith-1212 | evaluated | f4f700 | 540.3 |
 | 33 | henry | evaluated | 92577d | 540.0 |
-| 34 | alifim | evaluated | 701077 | 539.6 |
-| 35 | sarah | late | 0a16b5 | 539.5 |
-| 36 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
-| 37 | ngoguen | evaluated | f69acc | 538.9 |
-| 38 | castillo | late | f1bdd6 | 538.3 |
-| 39 | Shengwei | evaluated | f78d37 | 537.7 |
-| 40 | onlythingIcanDOisTAPEOUT | evaluated | 6a5359 | 536.1 |
-| 41 | landrum | evaluated | 61ab81 | 535.7 |
-| 42 | goingbananas | evaluated | 2ce123 | 535.5 |
-| 43 | sjb | evaluated | 373553 | 535.3 |
-| 44 | lipphi | evaluated | a3a71b | 534.8 |
-| 45 | chickfila | evaluated | f0956d | 534.5 |
-| 46 | Licha | evaluated | 9666cd | 534.4 |
-| 47 | Yize | evaluated | c8c9f7 | 534.4 |
-| 48 | stefan | evaluated | cf00e7 | 534.0 |
-| 49 | Bulbasaur | evaluated | d42099 | 533.8 |
-| 50 | axel4 | evaluated | 717d73 | 533.4 |
-| 51 | pallavi-srinivas | evaluated | 3c1d3c | 533.0 |
-| 52 | gravlax | evaluated | b1229d | 532.3 |
-| 53 | Decode_speed | evaluated | d54f1d | 530.2 |
-| 54 | 13rabbit | evaluated | 49d27b | 529.4 |
-| 55 | mdavalos10 | evaluated | af3233 | 529.3 |
-| 56 | kaimaeda | evaluated | 4360ef | 528.1 |
-| 57 | jet2holiday | evaluated | 2b3796 | 528.0 |
-| 58 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
-| 59 | Junyi Li | evaluated | c7a1b3 | 527.3 |
-| 60 | JaneShuey | evaluated | 882419 | 526.2 |
-| 61 | bl792 | evaluated | 09cd73 | 524.7 |
-| 62 | somita | evaluated | bbe658 | 524.7 |
-| 63 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
-| 64 | ethanchen | evaluated | ea518d | 523.7 |
-| 65 | yb | evaluated | a49d40 | 523.5 |
-| 66 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 67 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 68 | avemaria | evaluated | 6a5e32 | 521.6 |
-| 69 | PurplePickle67 | evaluated | 68d34e | 520.5 |
-| 70 | dhanushikka | late | 9e7232 | 518.8 |
-| 71 | Akash Basu | evaluated | 365e59 | 518.7 |
-| 72 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 73 | vallabkaranam | evaluated | 0bdeec | 513.3 |
-| 74 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
-| 75 | abhik | evaluated | 0b4b08 | 507.2 |
-| 76 | nicknam534534 | evaluated | 59bdfc | 503.8 |
-| 77 | tif03 | evaluated | ec268d | 501.2 |
-| 78 | Rithvik | evaluated | 2924a0 | 495.8 |
-| 79 | tuo | evaluated | 3d6d40 | 494.8 |
-| 80 | nkkrnkl | late | 489319 | 487.8 |
+| 34 | nkkrnkl | late | de6b0f | 539.9 |
+| 35 | alifim | evaluated | 701077 | 539.6 |
+| 36 | sarah | late | 0a16b5 | 539.5 |
+| 37 | andrasferenczy | evaluated | 9c7f53 | 539.1 |
+| 38 | ngoguen | evaluated | f69acc | 538.9 |
+| 39 | castillo | late | f1bdd6 | 538.3 |
+| 40 | Shengwei | evaluated | f78d37 | 537.7 |
+| 41 | onlythingIcanDOisTAPEOUT | evaluated | 6a5359 | 536.1 |
+| 42 | landrum | evaluated | 61ab81 | 535.7 |
+| 43 | goingbananas | evaluated | 2ce123 | 535.5 |
+| 44 | sjb | evaluated | 373553 | 535.3 |
+| 45 | lipphi | evaluated | a3a71b | 534.8 |
+| 46 | chickfila | evaluated | f0956d | 534.5 |
+| 47 | Licha | evaluated | 9666cd | 534.4 |
+| 48 | Yize | evaluated | c8c9f7 | 534.4 |
+| 49 | stefan | evaluated | cf00e7 | 534.0 |
+| 50 | Bulbasaur | evaluated | d42099 | 533.8 |
+| 51 | axel4 | evaluated | 717d73 | 533.4 |
+| 52 | pallavi-srinivas | evaluated | 3c1d3c | 533.0 |
+| 53 | gravlax | evaluated | b1229d | 532.3 |
+| 54 | Decode_speed | evaluated | d54f1d | 530.2 |
+| 55 | 13rabbit | evaluated | 49d27b | 529.4 |
+| 56 | mdavalos10 | evaluated | af3233 | 529.3 |
+| 57 | kaimaeda | evaluated | 4360ef | 528.1 |
+| 58 | jet2holiday | evaluated | 2b3796 | 528.0 |
+| 59 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
+| 60 | Junyi Li | evaluated | c7a1b3 | 527.3 |
+| 61 | JaneShuey | evaluated | 882419 | 526.2 |
+| 62 | bl792 | evaluated | 09cd73 | 524.7 |
+| 63 | somita | evaluated | bbe658 | 524.7 |
+| 64 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
+| 65 | ethanchen | evaluated | ea518d | 523.7 |
+| 66 | yb | evaluated | a49d40 | 523.5 |
+| 67 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 68 | yoursun1220 | evaluated | d8b590 | 521.8 |
+| 69 | avemaria | evaluated | 6a5e32 | 521.6 |
+| 70 | PurplePickle67 | evaluated | 68d34e | 520.5 |
+| 71 | dhanushikka | late | 9e7232 | 518.8 |
+| 72 | Akash Basu | evaluated | 365e59 | 518.7 |
+| 73 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 74 | vallabkaranam | evaluated | 0bdeec | 513.3 |
+| 75 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
+| 76 | abhik | evaluated | 0b4b08 | 507.2 |
+| 77 | nicknam534534 | evaluated | 59bdfc | 503.8 |
+| 78 | tif03 | evaluated | ec268d | 501.2 |
+| 79 | Rithvik | evaluated | 2924a0 | 495.8 |
+| 80 | tuo | evaluated | 3d6d40 | 494.8 |
 | 81 | siddarak | late | b24e6b | 171.4 |
 | 82 | poppyPotatoe | late | 6b365f | 39.9 |
 |  | SIUUU | failed | 522695 |  |
@@ -112,15 +112,15 @@ Last updated: `April 14, 2026 at 02:03:06 PM ET`
 | 16 | ashaikh23 | evaluated | 84a425 | 372.1 |
 | 17 | zionrangers | evaluated | 7758e0 | 371.7 |
 | 18 | pyjuan91 | evaluated | fe8f27 | 363.6 |
-| 19 | Shengwei | evaluated | f78d37 | 361.2 |
-| 20 | 1_Core_2GHz_Colab_CPU | evaluated | 4e42ed | 359.3 |
-| 21 | gm | evaluated | 2898fc | 357.0 |
-| 22 | nickname55555555 | evaluated | f68498 | 354.5 |
-| 23 | ishan-pat | evaluated | a4749e | 351.9 |
-| 24 | hngydn20 | late | 52c925 | 347.5 |
-| 25 | sjb | evaluated | 373553 | 346.4 |
-| 26 | JasonWang07 | evaluated | a4b405 | 342.2 |
-| 27 | nkkrnkl | late | 489319 | 340.3 |
+| 19 | nkkrnkl | late | de6b0f | 362.4 |
+| 20 | Shengwei | evaluated | f78d37 | 361.2 |
+| 21 | 1_Core_2GHz_Colab_CPU | evaluated | 4e42ed | 359.3 |
+| 22 | gm | evaluated | 2898fc | 357.0 |
+| 23 | nickname55555555 | evaluated | f68498 | 354.5 |
+| 24 | ishan-pat | evaluated | a4749e | 351.9 |
+| 25 | hngydn20 | late | 52c925 | 347.5 |
+| 26 | sjb | evaluated | 373553 | 346.4 |
+| 27 | JasonWang07 | evaluated | a4b405 | 342.2 |
 | 28 | Rithvik | evaluated | 2924a0 | 335.8 |
 | 29 | act | evaluated | fce2ab | 332.5 |
 | 30 | leoli | evaluated | 5cdac4 | 327.5 |
@@ -216,7 +216,7 @@ Last updated: `April 14, 2026 at 02:03:06 PM ET`
 | 32 | ck | evaluated | f75094 | 35.1 |
 | 33 | omermoav | evaluated | b01c0e | 35.2 |
 | 34 | castillo | late | f1bdd6 | 35.3 |
-| 35 | nkkrnkl | late | 489319 | 36.1 |
+| 35 | nkkrnkl | late | de6b0f | 36.5 |
 | 36 | PurplePickle67 | evaluated | 68d34e | 37.3 |
 | 37 | Yize | evaluated | c8c9f7 | 39.4 |
 | 38 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
@@ -295,7 +295,7 @@ Last updated: `April 14, 2026 at 02:03:06 PM ET`
 | 23 | sjb | evaluated | 373553 | 53.6 |
 | 24 | landrum | evaluated | 61ab81 | 53.7 |
 | 25 | stefan | evaluated | cf00e7 | 54.4 |
-| 26 | nkkrnkl | late | 489319 | 55.6 |
+| 26 | nkkrnkl | late | de6b0f | 56.1 |
 | 27 | jbc | evaluated | 66b81a | 59.3 |
 | 28 | gravlax | evaluated | b1229d | 59.7 |
 | 29 | bl792 | evaluated | 09cd73 | 59.9 |

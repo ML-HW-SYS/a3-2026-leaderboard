@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 14, 2026 at 02:03:06 PM ET`
+Last updated: `April 14, 2026 at 02:18:47 PM ET`
 
 ## R1 (tok/s)
 
@@ -51,19 +51,19 @@ Last updated: `April 14, 2026 at 02:03:06 PM ET`
 | 43 | stefan | develop.py | 4bac49 | 540.4 |
 | 44 | advaith-1212 | submission.py | f4f700 | 540.3 |
 | 45 | Bulbasaur | submission.py | dfcccd | 540.2 |
-| 46 | avemaria | submission.py | 866c91 | 539.6 |
-| 47 | sarah | submission.py | 0a16b5 | 539.5 |
-| 48 | abhik | develop.py | 41a3ec | 539.5 |
-| 49 | castillo | submission.py | f1bdd6 | 538.3 |
-| 50 | axel4 | submission.py | 66964d | 537.9 |
-| 51 | sjb | develop.py | 3359ec | 537.0 |
-| 52 | onlythingIcanDOisTAPEOUT | submission.py | b40e4a | 536.3 |
-| 53 | mdavalos10 | develop.py | 6e0754 | 535.4 |
-| 54 | lipphi | submission.py | a3a71b | 534.8 |
-| 55 | gravlax | develop.py | 1f23d9 | 534.6 |
-| 56 | chickfila | submission.py | 29860a | 534.6 |
-| 57 | Yize | submission.py | c8c9f7 | 534.4 |
-| 58 | nkkrnkl | develop.py | 1558fa | 534.1 |
+| 46 | nkkrnkl | submission.py | de6b0f | 539.9 |
+| 47 | avemaria | submission.py | 866c91 | 539.6 |
+| 48 | sarah | submission.py | 0a16b5 | 539.5 |
+| 49 | abhik | develop.py | 41a3ec | 539.5 |
+| 50 | castillo | submission.py | f1bdd6 | 538.3 |
+| 51 | axel4 | submission.py | 66964d | 537.9 |
+| 52 | sjb | develop.py | 3359ec | 537.0 |
+| 53 | onlythingIcanDOisTAPEOUT | submission.py | b40e4a | 536.3 |
+| 54 | mdavalos10 | develop.py | 6e0754 | 535.4 |
+| 55 | lipphi | submission.py | a3a71b | 534.8 |
+| 56 | gravlax | develop.py | 1f23d9 | 534.6 |
+| 57 | chickfila | submission.py | 29860a | 534.6 |
+| 58 | Yize | submission.py | c8c9f7 | 534.4 |
 | 59 | Decode_speed | submission.py | 236fa2 | 533.3 |
 | 60 | jet2holiday | submission.py | 0bf782 | 532.9 |
 | 61 | Junyi Li | submission.py | 2e381b | 529.4 |
