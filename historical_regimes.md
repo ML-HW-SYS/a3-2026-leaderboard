@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 14, 2026 at 12:46:41 PM ET`
+Last updated: `April 14, 2026 at 01:01:42 PM ET`
 
 ## R1 (tok/s)
 
@@ -86,7 +86,8 @@ Last updated: `April 14, 2026 at 12:46:41 PM ET`
 | 78 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
 | 79 | tuo | submission.py | 4274da | 507.3 |
 | 80 | tif03 | submission.py | e84053 | 501.5 |
-| 81 | poppyPotatoe | submission.py | dd4e57 | 169.9 |
+| 81 | siddarak | submission.py | b24e6b | 171.4 |
+| 82 | poppyPotatoe | submission.py | dd4e57 | 169.9 |
 
 ## R2 (tok/s)
 
@@ -170,9 +171,10 @@ Last updated: `April 14, 2026 at 12:46:41 PM ET`
 | 76 | dylanjhnsondj | submission.py | c4e1ab | 169.6 |
 | 77 | somita | submission.py | bbe658 | 169.5 |
 | 78 | tif03 | submission.py | ec268d | 167.6 |
-| 79 | avemaria | develop.py | 242975 | 165.7 |
-| 80 | JaneShuey | submission.py | 882419 | 165.2 |
-| 81 | poppyPotatoe | develop.py | e01605 | 127.2 |
+| 79 | siddarak | submission.py | b24e6b | 166.3 |
+| 80 | avemaria | develop.py | 242975 | 165.7 |
+| 81 | JaneShuey | submission.py | 882419 | 165.2 |
+| 82 | poppyPotatoe | develop.py | e01605 | 127.2 |
 
 ## R3 (ms)
 
@@ -297,9 +299,9 @@ Last updated: `April 14, 2026 at 12:46:41 PM ET`
 | 29 | gravlax | submission.py | b1229d | 59.7 |
 | 30 | bl792 | develop.py | 09cd73 | 59.8 |
 | 31 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 59.9 |
-| 32 | onlythingIcanDOisTAPEOUT | submission.py | 39c775 | 63.7 |
-| 33 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
-| 34 | siddarak | submission.py | b4ad9a | 63.7 |
+| 32 | siddarak | submission.py | b24e6b | 63.6 |
+| 33 | onlythingIcanDOisTAPEOUT | submission.py | 39c775 | 63.7 |
+| 34 | andrasferenczy | submission.py | 9c7f53 | 63.7 |
 | 35 | ck | submission.py | 4ef89e | 64.3 |
 | 36 | omermoav | submission.py | b01c0e | 64.6 |
 | 37 | blabrl | submission.py | ca60eb | 65.2 |

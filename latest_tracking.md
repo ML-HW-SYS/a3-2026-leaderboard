@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 14, 2026 at 12:46:41 PM ET`
+Last updated: `April 14, 2026 at 01:01:42 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 14 12:36 PM ET | siddarak | late |  | submission.py | b24e6b | 15.4/6.4/21.9 | 171.4 | 166.3 | 31.8 | 63.6 |
 | Apr 14 12:32 PM ET | poppyPotatoe | late |  | submission.py | 6b365f | 39.1/28.5/67.6 | 39.9 | 35.9 | 210.0 | 134.3 |
 | Apr 14 12:25 PM ET | siddarak | failed_correctness | Correctness FAIL \| R1 (100.00%), R2 (100.00%) \| max_abs_diff=inf | submission.py | cf4b5f | 15.1/6.4/21.4 | 174.4 | 168.5 | 32.0 | 64.0 |
 | Apr 14 12:18 PM ET | dhanushikka | late |  | develop.py | ec6298 | 19.4/7.4/26.9 | 519.3 | 176.8 | 505.8 | 383.6 |
