@@ -1,15 +1,21 @@
 # Latest Tracking
 
-Last updated: `April 13, 2026 at 10:32:50 PM ET`
+Last updated: `April 13, 2026 at 10:41:12 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 13 10:35 PM ET | co-smith | failed_correctness | R2: SETUP: ERR: NameError: name '_pick_prefill_plan_launch_params' is not defined \| R3: SETUP: ERR: NameError: name '... | develop.py | 37b4d5 | 18.4/0.9/19.4 | 565.2 | 0.0 | 0.0 | 0.0 |
+| Apr 13 10:32 PM ET | yb | evaluated |  | submission.py | be62b7 | 21.5/6.2/27.7 | 524.8 | 173.8 | 310.6 | 250.4 |
+| Apr 13 10:31 PM ET | siddarak | failed_correctness | R2: SETUP: ERR: RuntimeError: error encountered during parsing \| R3: SETUP: ERR: RuntimeError: error encountered duri... | submission.py | 257ffa | 17.7/1.0/18.7 | 524.7 | 0.0 | 0.0 | 0.0 |
+| Apr 13 10:30 PM ET | Akash Basu | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | submission.py | 729795 | 26.5/16.9/43.4 | 521.2 | 129.8 | 2981.2 | 0.0 |
 | Apr 13 10:24 PM ET | yb | evaluated |  | submission.py | f94762 | 21.5/6.2/27.7 | 516.4 | 173.9 | 310.3 | 250.9 |
+| Apr 13 10:23 PM ET | TheProphet | evaluated |  | submission.py | c18fc9 | 30.3/3.2/33.5 | 371.9 | 334.7 | 24.2 | 46.2 |
 | Apr 13 10:22 PM ET | co-smith | evaluated |  | develop.py | 786ded | 33.6/3.5/37.1 | 563.7 | 247.4 | 30.6 | 87.8 |
 | Apr 13 10:21 PM ET | axel4 | evaluated |  | submission.py | 717d73 | 19.7/6.2/25.9 | 533.4 | 169.8 | 309.5 | 248.3 |
 | Apr 13 10:19 PM ET | chyyy | evaluated |  | develop.py | fde2e4 | 43.7/2.4/46.1 | 558.5 | 422.5 | 25.1 | 48.4 |
 | Apr 13 10:19 PM ET | TheProphet | evaluated |  | develop.py | 117209 | 61.8/2.7/64.5 | 471.0 | 380.8 | 24.4 | 46.4 |
 | Apr 13 10:17 PM ET | avemaria | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | submission.py | 6c5090 | 59.9/5.3/65.3 | 525.4 | 165.4 | 316.6 | 0.0 |
+| Apr 13 10:17 PM ET | avemaria | evaluated |  | develop.py | 6c5090 | 19.9/6.4/26.3 | 524.4 | 165.5 | 323.2 | 256.3 |
 | Apr 13 10:11 PM ET | fishyfins | failed_correctness | R1: SETUP: ERR: CompilationError: at 100:12: scores = tl.where(final_mask, scores, INF_NEG) # Online softmax m_ij = t... | develop.py | be6e4a | 15.5/0.0/15.5 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 13 10:09 PM ET | co-smith | evaluated |  | develop.py | f824e0 | 30.2/2.6/32.8 | 565.4 | 404.4 | 30.4 | 72.9 |
 | Apr 13 10:06 PM ET | axel4 | failed_correctness | Correctness FAIL \| R1 (86.48%), R2 (87.15%) \| max_abs_diff=16.16 | submission.py | c74a1e | 42.0/6.3/48.3 | 523.3 | 162.8 | 308.6 | 247.5 |
