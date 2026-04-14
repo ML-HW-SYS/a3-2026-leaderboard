@@ -1,10 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 14, 2026 at 09:25:41 AM ET`
+Last updated: `April 14, 2026 at 09:41:42 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 14 09:31 AM ET | sarah | failed_correctness | R1: ERR: name 'cfg' is not defined \| R2: ERR: name 'cfg' is not defined \| R3: ERR: name 'cfg' is not defined \| R4: ER... | develop.py | eaa370 | 7.3/0.0/7.3 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 14 09:10 AM ET | nkkrnkl | failed_correctness | R4: ERR: hard timeout exceeded (worker killed) | submission.py | 341d48 | 64.6/2.6/67.1 | 504.9 | 362.9 | 36.7 | 0.0 |
+| Apr 14 09:10 AM ET | nkkrnkl | late |  | develop.py | 341d48 | 68.4/2.8/71.2 | 504.6 | 362.7 | 36.6 | 50.5 |
 | Apr 14 08:58 AM ET | castillo | late |  | submission.py | c33082 | 21.9/3.3/25.2 | 523.2 | 273.8 | 35.8 | 67.2 |
 | Apr 14 08:58 AM ET | castillo | late |  | develop.py | c33082 | 18.8/3.3/22.0 | 522.0 | 274.7 | 35.7 | 67.2 |
 | Apr 14 07:56 AM ET | TheProphet | late |  | develop.py | 5d7af4 | 27.2/2.5/29.7 | 580.2 | 377.0 | 24.2 | 46.3 |
