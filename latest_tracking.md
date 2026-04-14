@@ -1,10 +1,12 @@
 # Latest Tracking
 
-Last updated: `April 14, 2026 at 01:32:26 PM ET`
+Last updated: `April 14, 2026 at 01:47:57 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 14 01:23 PM ET | dhanushikka | late |  | develop.py | 0c2f1c | 20.9/6.5/27.4 | 520.8 | 178.8 | 386.6 | 268.5 |
 | Apr 14 01:15 PM ET | nkkrnkl | late |  | submission.py | 489319 | 32.5/2.9/35.5 | 487.8 | 340.3 | 36.1 | 55.6 |
+| Apr 14 01:15 PM ET | nkkrnkl | late |  | develop.py | 489319 | 19.8/2.9/22.7 | 483.7 | 339.2 | 36.0 | 55.8 |
 | Apr 14 12:51 PM ET | dhanushikka | late |  | develop.py | 3a0ea1 | 20.9/6.5/27.4 | 523.7 | 179.2 | 386.4 | 268.5 |
 | Apr 14 12:36 PM ET | siddarak | late |  | submission.py | b24e6b | 15.4/6.4/21.9 | 171.4 | 166.3 | 31.8 | 63.6 |
 | Apr 14 12:36 PM ET | siddarak | late |  | develop.py | b24e6b | 14.9/6.4/21.3 | 179.2 | 163.3 | 32.0 | 63.8 |
