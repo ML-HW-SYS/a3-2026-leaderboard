@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 15, 2026 at 01:43:13 PM ET`
+Last updated: `April 15, 2026 at 01:58:09 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 15 01:51 PM ET | somita | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 71:12: for t0 in tl.range(0, KV_LEN, BLOCK_SIZE): kv_block = t0 // B... | submission.py | 3bbf65 | 16.1/0.0/16.1 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 15 01:27 PM ET | somita | failed_correctness | R1: SETUP: ERR: RuntimeError: Decode path requires quantized packed weights/scales (no fallback). \| R2: SETUP: ERR: U... | submission.py | 514c3f | 15.6/0.0/15.6 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 15 01:19 PM ET | somita | late |  | submission.py | 930cb9 | 27.4/6.2/33.6 | 526.4 | 169.5 | 310.0 | 250.1 |
 | Apr 15 01:08 PM ET | somita | failed_correctness | R1: SETUP: ERR: AttributeError: 'AssignmentTransformerModel' object has no attribute 'head_dim' \| R2: SETUP: ERR: Att... | submission.py | 9f1c8c | 14.2/0.0/14.2 | 0.0 | 0.0 | 0.0 | 0.0 |
