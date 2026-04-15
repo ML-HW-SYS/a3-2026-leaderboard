@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 15, 2026 at 12:58:11 PM ET`
+Last updated: `April 15, 2026 at 01:13:04 PM ET`
 
 ## R1 (tok/s)
 
@@ -69,28 +69,28 @@ Last updated: `April 15, 2026 at 12:58:11 PM ET`
 | 61 | Junyi Li | evaluated | c7a1b3 | 527.3 |
 | 62 | JaneShuey | evaluated | 882419 | 526.2 |
 | 63 | bl792 | evaluated | 09cd73 | 524.7 |
-| 64 | somita | evaluated | bbe658 | 524.7 |
-| 65 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
-| 66 | dhanushikka | late | 0c1345 | 523.9 |
-| 67 | ethanchen | evaluated | ea518d | 523.7 |
-| 68 | yb | evaluated | a49d40 | 523.5 |
-| 69 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 70 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 71 | avemaria | evaluated | 6a5e32 | 521.6 |
-| 72 | PurplePickle67 | evaluated | 68d34e | 520.5 |
-| 73 | Akash Basu | evaluated | 365e59 | 518.7 |
-| 74 | tired_yoda | late | e938a0 | 517.9 |
-| 75 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 76 | vallabkaranam | evaluated | 0bdeec | 513.3 |
-| 77 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
-| 78 | abhik | evaluated | 0b4b08 | 507.2 |
-| 79 | nicknam534534 | evaluated | 59bdfc | 503.8 |
-| 80 | tif03 | evaluated | ec268d | 501.2 |
-| 81 | Rithvik | evaluated | 2924a0 | 495.8 |
-| 82 | tuo | evaluated | 3d6d40 | 494.8 |
-| 83 | siddarak | late | 84ddeb | 482.6 |
-| 84 | poppyPotatoe | late | 4a5cd6 | 165.6 |
+| 64 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
+| 65 | dhanushikka | late | 0c1345 | 523.9 |
+| 66 | ethanchen | evaluated | ea518d | 523.7 |
+| 67 | yb | evaluated | a49d40 | 523.5 |
+| 68 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 69 | yoursun1220 | evaluated | d8b590 | 521.8 |
+| 70 | avemaria | evaluated | 6a5e32 | 521.6 |
+| 71 | PurplePickle67 | evaluated | 68d34e | 520.5 |
+| 72 | Akash Basu | evaluated | 365e59 | 518.7 |
+| 73 | tired_yoda | late | e938a0 | 517.9 |
+| 74 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 75 | vallabkaranam | evaluated | 0bdeec | 513.3 |
+| 76 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
+| 77 | abhik | evaluated | 0b4b08 | 507.2 |
+| 78 | nicknam534534 | evaluated | 59bdfc | 503.8 |
+| 79 | tif03 | evaluated | ec268d | 501.2 |
+| 80 | Rithvik | evaluated | 2924a0 | 495.8 |
+| 81 | tuo | evaluated | 3d6d40 | 494.8 |
+| 82 | siddarak | late | 84ddeb | 482.6 |
+| 83 | poppyPotatoe | late | 4a5cd6 | 165.6 |
 |  | SIUUU | failed | 522695 |  |
+|  | somita | failed | 9f1c8c |  |
 
 ## R2 (tok/s)
 
@@ -172,15 +172,15 @@ Last updated: `April 15, 2026 at 12:58:11 PM ET`
 | 74 | axel4 | evaluated | 717d73 | 169.8 |
 | 75 | Junyi Li | evaluated | c7a1b3 | 169.7 |
 | 76 | dylanjhnsondj | evaluated | c4e1ab | 169.6 |
-| 77 | somita | evaluated | bbe658 | 169.5 |
-| 78 | yoursun1220 | evaluated | d8b590 | 169.2 |
-| 79 | hw_bloss | evaluated | 4c9666 | 169.1 |
-| 80 | Akash Basu | evaluated | 365e59 | 169.0 |
-| 81 | tif03 | evaluated | ec268d | 167.6 |
-| 82 | avemaria | evaluated | 6a5e32 | 165.3 |
-| 83 | JaneShuey | evaluated | 882419 | 165.2 |
-| 84 | poppyPotatoe | late | 4a5cd6 | 124.0 |
+| 77 | yoursun1220 | evaluated | d8b590 | 169.2 |
+| 78 | hw_bloss | evaluated | 4c9666 | 169.1 |
+| 79 | Akash Basu | evaluated | 365e59 | 169.0 |
+| 80 | tif03 | evaluated | ec268d | 167.6 |
+| 81 | avemaria | evaluated | 6a5e32 | 165.3 |
+| 82 | JaneShuey | evaluated | 882419 | 165.2 |
+| 83 | poppyPotatoe | late | 4a5cd6 | 124.0 |
 |  | SIUUU | failed | 522695 |  |
+|  | somita | failed | 9f1c8c |  |
 
 ## R3 (ms)
 
@@ -265,12 +265,12 @@ Last updated: `April 15, 2026 at 12:58:11 PM ET`
 | 77 | brandon_lorenzo | evaluated | 67c79e | 309.2 |
 | 78 | tif03 | evaluated | ec268d | 309.4 |
 | 79 | axel4 | evaluated | 717d73 | 309.5 |
-| 80 | somita | evaluated | bbe658 | 309.5 |
-| 81 | yoursun1220 | evaluated | d8b590 | 310.7 |
-| 82 | your_nickname_here | evaluated | 0949d0 | 311.5 |
-| 83 | avemaria | evaluated | 6a5e32 | 323.4 |
-| 84 | dhanushikka | late | 0c1345 | 352.0 |
+| 80 | yoursun1220 | evaluated | d8b590 | 310.7 |
+| 81 | your_nickname_here | evaluated | 0949d0 | 311.5 |
+| 82 | avemaria | evaluated | 6a5e32 | 323.4 |
+| 83 | dhanushikka | late | 0c1345 | 352.0 |
 |  | SIUUU | failed | 522695 |  |
+|  | somita | failed | 9f1c8c |  |
 
 ## R4 (ms)
 
@@ -355,9 +355,9 @@ Last updated: `April 15, 2026 at 12:58:11 PM ET`
 | 77 | axel4 | evaluated | 717d73 | 248.3 |
 | 78 | tif03 | evaluated | ec268d | 249.5 |
 | 79 | brandon_lorenzo | evaluated | 67c79e | 249.6 |
-| 80 | somita | evaluated | bbe658 | 249.8 |
-| 81 | yoursun1220 | evaluated | d8b590 | 250.1 |
-| 82 | your_nickname_here | evaluated | 0949d0 | 250.7 |
-| 83 | avemaria | evaluated | 6a5e32 | 256.7 |
-| 84 | dhanushikka | late | 0c1345 | 266.4 |
+| 80 | yoursun1220 | evaluated | d8b590 | 250.1 |
+| 81 | your_nickname_here | evaluated | 0949d0 | 250.7 |
+| 82 | avemaria | evaluated | 6a5e32 | 256.7 |
+| 83 | dhanushikka | late | 0c1345 | 266.4 |
 |  | SIUUU | failed | 522695 |  |
+|  | somita | failed | 9f1c8c |  |
