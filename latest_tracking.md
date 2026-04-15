@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 15, 2026 at 04:27:25 PM ET`
+Last updated: `April 15, 2026 at 04:43:30 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 15 04:35 PM ET | somita | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | 062704 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 15 04:20 PM ET | somita | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | c4ad92 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 15 02:51 PM ET | somita | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 71:12: for t0 in tl.range(0, KV_LEN, BLOCK_SIZE): kv_block = t0 // B... | submission.py | b2d57b | 14.8/0.0/14.8 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 15 02:51 PM ET | somita | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 71:12: for t0 in tl.range(0, KV_LEN, BLOCK_SIZE): kv_block = t0 // B... | develop.py | b2d57b | 14.9/0.0/14.9 | 0.0 | 0.0 | 0.0 | 0.0 |

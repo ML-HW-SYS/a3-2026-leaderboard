@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 15, 2026 at 04:27:25 PM ET`
+Last updated: `April 15, 2026 at 04:43:30 PM ET`
 
 ## R1 (tok/s)
 
@@ -90,7 +90,7 @@ Last updated: `April 15, 2026 at 04:27:25 PM ET`
 | 82 | siddarak | late | 84ddeb | 482.6 |
 | 83 | poppyPotatoe | late | 4a5cd6 | 165.6 |
 |  | SIUUU | failed | 522695 |  |
-|  | somita | failed | c4ad92 |  |
+|  | somita | failed | 062704 |  |
 
 ## R2 (tok/s)
 
@@ -180,7 +180,7 @@ Last updated: `April 15, 2026 at 04:27:25 PM ET`
 | 82 | JaneShuey | evaluated | 882419 | 165.2 |
 | 83 | poppyPotatoe | late | 4a5cd6 | 124.0 |
 |  | SIUUU | failed | 522695 |  |
-|  | somita | failed | c4ad92 |  |
+|  | somita | failed | 062704 |  |
 
 ## R3 (ms)
 
@@ -270,7 +270,7 @@ Last updated: `April 15, 2026 at 04:27:25 PM ET`
 | 82 | avemaria | evaluated | 6a5e32 | 323.4 |
 | 83 | dhanushikka | late | 0c1345 | 352.0 |
 |  | SIUUU | failed | 522695 |  |
-|  | somita | failed | c4ad92 |  |
+|  | somita | failed | 062704 |  |
 
 ## R4 (ms)
 
@@ -360,4 +360,4 @@ Last updated: `April 15, 2026 at 04:27:25 PM ET`
 | 82 | avemaria | evaluated | 6a5e32 | 256.7 |
 | 83 | dhanushikka | late | 0c1345 | 266.4 |
 |  | SIUUU | failed | 522695 |  |
-|  | somita | failed | c4ad92 |  |
+|  | somita | failed | 062704 |  |
