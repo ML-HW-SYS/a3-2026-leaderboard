@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 15, 2026 at 07:49:16 AM ET`
+Last updated: `April 15, 2026 at 08:04:37 AM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 15 07:45 AM ET | TheProphet | failed_correctness | R2: SETUP: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent ... | develop.py | 9df7b1 | 37.3/1.1/38.4 | 594.8 | 0.0 | 24.3 | 46.2 |
 | Apr 15 07:17 AM ET | TheProphet | failed_correctness | R2: SETUP: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent ... | develop.py | 283163 | 36.6/1.1/37.7 | 595.2 | 0.0 | 24.2 | 46.2 |
 | Apr 15 01:12 AM ET | tired_yoda | late |  | submission.py | e938a0 | 37.6/3.3/41.0 | 517.9 | 268.6 | 42.5 | 66.9 |
 | Apr 15 01:12 AM ET | tired_yoda | late |  | develop.py | e938a0 | 18.6/3.3/21.9 | 514.4 | 269.0 | 42.6 | 67.4 |
