@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 15, 2026 at 05:44:01 PM ET`
+Last updated: `April 15, 2026 at 05:59:04 PM ET`
 
 ## R1 (tok/s)
 
@@ -77,19 +77,19 @@ Last updated: `April 15, 2026 at 05:44:01 PM ET`
 | 69 | yoursun1220 | evaluated | d8b590 | 521.8 |
 | 70 | avemaria | evaluated | 6a5e32 | 521.6 |
 | 71 | PurplePickle67 | evaluated | 68d34e | 520.5 |
-| 72 | somita | late | 7829b2 | 519.5 |
-| 73 | Akash Basu | evaluated | 365e59 | 518.7 |
-| 74 | tired_yoda | late | e938a0 | 517.9 |
-| 75 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 76 | vallabkaranam | evaluated | 0bdeec | 513.3 |
-| 77 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
-| 78 | abhik | evaluated | 0b4b08 | 507.2 |
-| 79 | nicknam534534 | evaluated | 59bdfc | 503.8 |
-| 80 | tif03 | evaluated | ec268d | 501.2 |
-| 81 | Rithvik | evaluated | 2924a0 | 495.8 |
-| 82 | tuo | evaluated | 3d6d40 | 494.8 |
-| 83 | siddarak | late | 84ddeb | 482.6 |
-| 84 | poppyPotatoe | late | 4a5cd6 | 165.6 |
+| 72 | Akash Basu | evaluated | 365e59 | 518.7 |
+| 73 | tired_yoda | late | e938a0 | 517.9 |
+| 74 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
+| 75 | vallabkaranam | evaluated | 0bdeec | 513.3 |
+| 76 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
+| 77 | abhik | evaluated | 0b4b08 | 507.2 |
+| 78 | nicknam534534 | evaluated | 59bdfc | 503.8 |
+| 79 | tif03 | evaluated | ec268d | 501.2 |
+| 80 | Rithvik | evaluated | 2924a0 | 495.8 |
+| 81 | tuo | evaluated | 3d6d40 | 494.8 |
+| 82 | siddarak | late | 84ddeb | 482.6 |
+| 83 | poppyPotatoe | late | 4a5cd6 | 165.6 |
+| 84 | somita | late | 1ce979 | 150.6 |
 |  | SIUUU | failed | 522695 |  |
 
 ## R2 (tok/s)
@@ -171,15 +171,15 @@ Last updated: `April 15, 2026 at 05:44:01 PM ET`
 | 73 | brandon_lorenzo | evaluated | 67c79e | 169.8 |
 | 74 | axel4 | evaluated | 717d73 | 169.8 |
 | 75 | Junyi Li | evaluated | c7a1b3 | 169.7 |
-| 76 | somita | late | 7829b2 | 169.6 |
-| 77 | dylanjhnsondj | evaluated | c4e1ab | 169.6 |
-| 78 | yoursun1220 | evaluated | d8b590 | 169.2 |
-| 79 | hw_bloss | evaluated | 4c9666 | 169.1 |
-| 80 | Akash Basu | evaluated | 365e59 | 169.0 |
-| 81 | tif03 | evaluated | ec268d | 167.6 |
-| 82 | avemaria | evaluated | 6a5e32 | 165.3 |
-| 83 | JaneShuey | evaluated | 882419 | 165.2 |
-| 84 | poppyPotatoe | late | 4a5cd6 | 124.0 |
+| 76 | dylanjhnsondj | evaluated | c4e1ab | 169.6 |
+| 77 | yoursun1220 | evaluated | d8b590 | 169.2 |
+| 78 | hw_bloss | evaluated | 4c9666 | 169.1 |
+| 79 | Akash Basu | evaluated | 365e59 | 169.0 |
+| 80 | tif03 | evaluated | ec268d | 167.6 |
+| 81 | avemaria | evaluated | 6a5e32 | 165.3 |
+| 82 | JaneShuey | evaluated | 882419 | 165.2 |
+| 83 | poppyPotatoe | late | 4a5cd6 | 124.0 |
+| 84 | somita | late | 1ce979 | 110.3 |
 |  | SIUUU | failed | 522695 |  |
 
 ## R3 (ms)
@@ -263,13 +263,13 @@ Last updated: `April 15, 2026 at 05:44:01 PM ET`
 | 75 | hw_bloss | evaluated | 4c9666 | 308.1 |
 | 76 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
 | 77 | brandon_lorenzo | evaluated | 67c79e | 309.2 |
-| 78 | somita | late | 7829b2 | 309.4 |
-| 79 | tif03 | evaluated | ec268d | 309.4 |
-| 80 | axel4 | evaluated | 717d73 | 309.5 |
-| 81 | yoursun1220 | evaluated | d8b590 | 310.7 |
-| 82 | your_nickname_here | evaluated | 0949d0 | 311.5 |
-| 83 | avemaria | evaluated | 6a5e32 | 323.4 |
-| 84 | dhanushikka | late | 0c1345 | 352.0 |
+| 78 | tif03 | evaluated | ec268d | 309.4 |
+| 79 | axel4 | evaluated | 717d73 | 309.5 |
+| 80 | yoursun1220 | evaluated | d8b590 | 310.7 |
+| 81 | your_nickname_here | evaluated | 0949d0 | 311.5 |
+| 82 | avemaria | evaluated | 6a5e32 | 323.4 |
+| 83 | dhanushikka | late | 0c1345 | 352.0 |
+| 84 | somita | late | 1ce979 | 360.2 |
 |  | SIUUU | failed | 522695 |  |
 
 ## R4 (ms)
@@ -355,9 +355,9 @@ Last updated: `April 15, 2026 at 05:44:01 PM ET`
 | 77 | axel4 | evaluated | 717d73 | 248.3 |
 | 78 | tif03 | evaluated | ec268d | 249.5 |
 | 79 | brandon_lorenzo | evaluated | 67c79e | 249.6 |
-| 80 | somita | late | 7829b2 | 250.0 |
-| 81 | yoursun1220 | evaluated | d8b590 | 250.1 |
-| 82 | your_nickname_here | evaluated | 0949d0 | 250.7 |
-| 83 | avemaria | evaluated | 6a5e32 | 256.7 |
-| 84 | dhanushikka | late | 0c1345 | 266.4 |
+| 80 | yoursun1220 | evaluated | d8b590 | 250.1 |
+| 81 | your_nickname_here | evaluated | 0949d0 | 250.7 |
+| 82 | avemaria | evaluated | 6a5e32 | 256.7 |
+| 83 | dhanushikka | late | 0c1345 | 266.4 |
+| 84 | somita | late | 1ce979 | 267.3 |
 |  | SIUUU | failed | 522695 |  |
