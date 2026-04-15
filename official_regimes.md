@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 15, 2026 at 06:29:10 PM ET`
+Last updated: `April 15, 2026 at 06:44:13 PM ET`
 
 ## R1 (tok/s)
 
@@ -89,7 +89,7 @@ Last updated: `April 15, 2026 at 06:29:10 PM ET`
 | 81 | tuo | evaluated | 3d6d40 | 494.8 |
 | 82 | siddarak | late | 84ddeb | 482.6 |
 | 83 | poppyPotatoe | late | 4a5cd6 | 165.6 |
-| 84 | somita | late | 800aa2 | 152.7 |
+| 84 | somita | late | 484aab | 151.7 |
 |  | SIUUU | failed | 522695 |  |
 
 ## R2 (tok/s)
@@ -179,7 +179,7 @@ Last updated: `April 15, 2026 at 06:29:10 PM ET`
 | 81 | avemaria | evaluated | 6a5e32 | 165.3 |
 | 82 | JaneShuey | evaluated | 882419 | 165.2 |
 | 83 | poppyPotatoe | late | 4a5cd6 | 124.0 |
-| 84 | somita | late | 800aa2 | 113.2 |
+| 84 | somita | late | 484aab | 112.5 |
 |  | SIUUU | failed | 522695 |  |
 
 ## R3 (ms)
@@ -269,7 +269,7 @@ Last updated: `April 15, 2026 at 06:29:10 PM ET`
 | 81 | your_nickname_here | evaluated | 0949d0 | 311.5 |
 | 82 | avemaria | evaluated | 6a5e32 | 323.4 |
 | 83 | dhanushikka | late | 0c1345 | 352.0 |
-| 84 | somita | late | 800aa2 | 362.0 |
+| 84 | somita | late | 484aab | 362.1 |
 |  | SIUUU | failed | 522695 |  |
 
 ## R4 (ms)
@@ -358,6 +358,6 @@ Last updated: `April 15, 2026 at 06:29:10 PM ET`
 | 80 | yoursun1220 | evaluated | d8b590 | 250.1 |
 | 81 | your_nickname_here | evaluated | 0949d0 | 250.7 |
 | 82 | avemaria | evaluated | 6a5e32 | 256.7 |
-| 83 | dhanushikka | late | 0c1345 | 266.4 |
-| 84 | somita | late | 800aa2 | 268.7 |
+| 83 | somita | late | 484aab | 265.9 |
+| 84 | dhanushikka | late | 0c1345 | 266.4 |
 |  | SIUUU | failed | 522695 |  |
