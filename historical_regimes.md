@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 15, 2026 at 05:28:54 PM ET`
+Last updated: `April 15, 2026 at 05:44:01 PM ET`
 
 ## R1 (tok/s)
 
@@ -173,8 +173,8 @@ Last updated: `April 15, 2026 at 05:28:54 PM ET`
 | 76 | hw_bloss | submission.py | b2767b | 169.8 |
 | 77 | Akash Basu | develop.py | fa6371 | 169.8 |
 | 78 | Junyi Li | submission.py | c7a1b3 | 169.7 |
-| 79 | dylanjhnsondj | submission.py | c4e1ab | 169.6 |
-| 80 | somita | submission.py | 930cb9 | 169.5 |
+| 79 | somita | submission.py | 7829b2 | 169.6 |
+| 80 | dylanjhnsondj | submission.py | c4e1ab | 169.6 |
 | 81 | tif03 | submission.py | ec268d | 167.6 |
 | 82 | avemaria | develop.py | 242975 | 165.7 |
 | 83 | JaneShuey | submission.py | 882419 | 165.2 |
@@ -265,8 +265,8 @@ Last updated: `April 15, 2026 at 05:28:54 PM ET`
 | 79 | axel4 | submission.py | c74a1e | 308.6 |
 | 80 | Sulaiman Alam | submission.py | c7ede2 | 308.7 |
 | 81 | brandon_lorenzo | submission.py | 67c79e | 309.2 |
-| 82 | tif03 | submission.py | ec268d | 309.4 |
-| 83 | somita | submission.py | bbe658 | 309.5 |
+| 82 | somita | submission.py | 7829b2 | 309.4 |
+| 83 | tif03 | submission.py | ec268d | 309.4 |
 | 84 | avemaria | submission.py | 6c5090 | 316.6 |
 | 85 | dhanushikka | develop.py | 75407d | 352.0 |
 
