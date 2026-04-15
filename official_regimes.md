@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 14, 2026 at 10:10:35 PM ET`
+Last updated: `April 14, 2026 at 10:25:42 PM ET`
 
 ## R1 (tok/s)
 
@@ -70,13 +70,13 @@ Last updated: `April 14, 2026 at 10:10:35 PM ET`
 | 62 | bl792 | evaluated | 09cd73 | 524.7 |
 | 63 | somita | evaluated | bbe658 | 524.7 |
 | 64 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
-| 65 | ethanchen | evaluated | ea518d | 523.7 |
-| 66 | yb | evaluated | a49d40 | 523.5 |
-| 67 | hw_bloss | evaluated | 4c9666 | 522.2 |
-| 68 | yoursun1220 | evaluated | d8b590 | 521.8 |
-| 69 | avemaria | evaluated | 6a5e32 | 521.6 |
-| 70 | PurplePickle67 | evaluated | 68d34e | 520.5 |
-| 71 | dhanushikka | late | 9e7232 | 518.8 |
+| 65 | dhanushikka | late | 0c1345 | 523.9 |
+| 66 | ethanchen | evaluated | ea518d | 523.7 |
+| 67 | yb | evaluated | a49d40 | 523.5 |
+| 68 | hw_bloss | evaluated | 4c9666 | 522.2 |
+| 69 | yoursun1220 | evaluated | d8b590 | 521.8 |
+| 70 | avemaria | evaluated | 6a5e32 | 521.6 |
+| 71 | PurplePickle67 | evaluated | 68d34e | 520.5 |
 | 72 | Akash Basu | evaluated | 365e59 | 518.7 |
 | 73 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
 | 74 | vallabkaranam | evaluated | 0bdeec | 513.3 |
@@ -161,7 +161,7 @@ Last updated: `April 14, 2026 at 10:10:35 PM ET`
 | 63 | beratcelik | evaluated | 863a89 | 231.2 |
 | 64 | tuo | evaluated | 3d6d40 | 204.6 |
 | 65 | Sulaiman Alam | evaluated | c7ede2 | 197.4 |
-| 66 | dhanushikka | late | 9e7232 | 178.9 |
+| 66 | dhanushikka | late | 0c1345 | 189.0 |
 | 67 | mdavalos10 | evaluated | af3233 | 177.8 |
 | 68 | yb | evaluated | a49d40 | 174.1 |
 | 69 | your_nickname_here | evaluated | 0949d0 | 172.4 |
@@ -267,7 +267,7 @@ Last updated: `April 14, 2026 at 10:10:35 PM ET`
 | 79 | yoursun1220 | evaluated | d8b590 | 310.7 |
 | 80 | your_nickname_here | evaluated | 0949d0 | 311.5 |
 | 81 | avemaria | evaluated | 6a5e32 | 323.4 |
-| 82 | dhanushikka | late | 9e7232 | 386.6 |
+| 82 | dhanushikka | late | 0c1345 | 352.0 |
 |  | sarah | failed | 703b5b |  |
 |  | SIUUU | failed | 522695 |  |
 |  | tired_yoda | failed | 301f7f |  |
@@ -357,7 +357,7 @@ Last updated: `April 14, 2026 at 10:10:35 PM ET`
 | 79 | yoursun1220 | evaluated | d8b590 | 250.1 |
 | 80 | your_nickname_here | evaluated | 0949d0 | 250.7 |
 | 81 | avemaria | evaluated | 6a5e32 | 256.7 |
-| 82 | dhanushikka | late | 9e7232 | 268.2 |
+| 82 | dhanushikka | late | 0c1345 | 266.4 |
 |  | sarah | failed | 703b5b |  |
 |  | SIUUU | failed | 522695 |  |
 |  | tired_yoda | failed | 301f7f |  |

@@ -1,11 +1,13 @@
 # Latest Tracking
 
-Last updated: `April 14, 2026 at 10:10:35 PM ET`
+Last updated: `April 14, 2026 at 10:25:42 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 14 10:11 PM ET | dhanushikka | late |  | submission.py | 0c1345 | 20.7/6.2/26.8 | 523.9 | 189.0 | 352.0 | 266.4 |
 | Apr 14 10:00 PM ET | sarah | failed_correctness | R1: SETUP: ERR: NameError: name '_dequantize_state_dict' is not defined \| R2: SETUP: ERR: NameError: name '_dequantiz... | submission.py | 703b5b | 12.6/0.0/12.6 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 14 09:55 PM ET | tired_yoda | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | 301f7f |  |  |  |  |  |
+| Apr 14 09:55 PM ET | tired_yoda | failed_security | Security policy check failed for develop.py: \| - prohibited import: os | develop.py | 301f7f |  |  |  |  |  |
 | Apr 14 09:53 PM ET | TheProphet | failed_correctness | R2: SETUP: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent ... | develop.py | fb0ce9 | 58.6/1.1/59.7 | 594.0 | 0.0 | 24.4 | 46.5 |
 | Apr 14 08:48 PM ET | TheProphet | failed_correctness | R2: SETUP: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent ... | develop.py | 8f2f63 | 61.9/1.1/63.1 | 594.6 | 0.0 | 24.4 | 46.5 |
 | Apr 14 08:37 PM ET | sarah | failed_correctness | R1: SETUP: ERR: AttributeError: 'QuantizedLinear' object has no attribute 'weight' \| R2: SETUP: ERR: AttributeError: ... | submission.py | de3a33 | 14.1/0.0/14.1 | 0.0 | 0.0 | 0.0 | 0.0 |
