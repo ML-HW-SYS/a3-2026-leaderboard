@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 15, 2026 at 01:28:18 PM ET`
+Last updated: `April 15, 2026 at 01:43:13 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 15 01:27 PM ET | somita | failed_correctness | R1: SETUP: ERR: RuntimeError: Decode path requires quantized packed weights/scales (no fallback). \| R2: SETUP: ERR: U... | submission.py | 514c3f | 15.6/0.0/15.6 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 15 01:19 PM ET | somita | late |  | submission.py | 930cb9 | 27.4/6.2/33.6 | 526.4 | 169.5 | 310.0 | 250.1 |
 | Apr 15 01:08 PM ET | somita | failed_correctness | R1: SETUP: ERR: AttributeError: 'AssignmentTransformerModel' object has no attribute 'head_dim' \| R2: SETUP: ERR: Att... | submission.py | 9f1c8c | 14.2/0.0/14.2 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 15 12:38 PM ET | somita | failed_correctness | R1: SETUP: ERR: AttributeError: 'AssignmentTransformerModel' object has no attribute 'head_dim' \| R2: SETUP: ERR: Att... | develop.py | 26449c | 14.2/0.0/14.2 | 0.0 | 0.0 | 0.0 | 0.0 |
