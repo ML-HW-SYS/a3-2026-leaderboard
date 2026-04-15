@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 15, 2026 at 01:13:04 PM ET`
+Last updated: `April 15, 2026 at 01:28:18 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 15 01:19 PM ET | somita | late |  | submission.py | 930cb9 | 27.4/6.2/33.6 | 526.4 | 169.5 | 310.0 | 250.1 |
 | Apr 15 01:08 PM ET | somita | failed_correctness | R1: SETUP: ERR: AttributeError: 'AssignmentTransformerModel' object has no attribute 'head_dim' \| R2: SETUP: ERR: Att... | submission.py | 9f1c8c | 14.2/0.0/14.2 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 15 12:38 PM ET | somita | failed_correctness | R1: SETUP: ERR: AttributeError: 'AssignmentTransformerModel' object has no attribute 'head_dim' \| R2: SETUP: ERR: Att... | develop.py | 26449c | 14.2/0.0/14.2 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 15 07:45 AM ET | TheProphet | failed_correctness | R2: SETUP: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent ... | develop.py | 9df7b1 | 37.3/1.1/38.4 | 594.8 | 0.0 | 24.3 | 46.2 |

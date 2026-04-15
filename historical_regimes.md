@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 15, 2026 at 01:13:04 PM ET`
+Last updated: `April 15, 2026 at 01:28:18 PM ET`
 
 ## R1 (tok/s)
 
@@ -74,12 +74,12 @@ Last updated: `April 15, 2026 at 01:13:04 PM ET`
 | 66 | ethanchen | submission.py | a0d359 | 528.1 |
 | 67 | dhanushikka | develop.py | 75407d | 527.5 |
 | 68 | Rithvik | submission.py | 1a7556 | 527.1 |
-| 69 | JaneShuey | submission.py | 882419 | 526.2 |
-| 70 | yb | develop.py | 92193f | 525.9 |
-| 71 | Akash Basu | submission.py | b0a419 | 525.9 |
-| 72 | nicknam534534 | develop.py | 83a901 | 525.8 |
-| 73 | brandon_lorenzo | submission.py | 494304 | 525.0 |
-| 74 | somita | submission.py | bbe658 | 524.7 |
+| 69 | somita | submission.py | 930cb9 | 526.4 |
+| 70 | JaneShuey | submission.py | 882419 | 526.2 |
+| 71 | yb | develop.py | 92193f | 525.9 |
+| 72 | Akash Basu | submission.py | b0a419 | 525.9 |
+| 73 | nicknam534534 | develop.py | 83a901 | 525.8 |
+| 74 | brandon_lorenzo | submission.py | 494304 | 525.0 |
 | 75 | lofiWeightsToRelaxTo_ | submission.py | 48a97e | 524.5 |
 | 76 | yoursun1220 | submission.py | f4e2be | 524.2 |
 | 77 | hw_bloss | submission.py | 2d26da | 523.5 |
@@ -174,7 +174,7 @@ Last updated: `April 15, 2026 at 01:13:04 PM ET`
 | 77 | Akash Basu | develop.py | fa6371 | 169.8 |
 | 78 | Junyi Li | submission.py | c7a1b3 | 169.7 |
 | 79 | dylanjhnsondj | submission.py | c4e1ab | 169.6 |
-| 80 | somita | submission.py | bbe658 | 169.5 |
+| 80 | somita | submission.py | 930cb9 | 169.5 |
 | 81 | tif03 | submission.py | ec268d | 167.6 |
 | 82 | avemaria | develop.py | 242975 | 165.7 |
 | 83 | JaneShuey | submission.py | 882419 | 165.2 |
