@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 15, 2026 at 01:11:22 AM ET`
+Last updated: `April 15, 2026 at 01:26:49 AM ET`
 
 ## R1 (tok/s)
 
@@ -79,8 +79,8 @@ Last updated: `April 15, 2026 at 01:11:22 AM ET`
 | 71 | avemaria | evaluated | 6a5e32 | 521.6 |
 | 72 | PurplePickle67 | evaluated | 68d34e | 520.5 |
 | 73 | Akash Basu | evaluated | 365e59 | 518.7 |
-| 74 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
-| 75 | tired_yoda | late | 932138 | 514.9 |
+| 74 | tired_yoda | late | e938a0 | 517.9 |
+| 75 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 515.1 |
 | 76 | vallabkaranam | evaluated | 0bdeec | 513.3 |
 | 77 | Sulaiman Alam | evaluated | c7ede2 | 511.2 |
 | 78 | abhik | evaluated | 0b4b08 | 507.2 |
@@ -115,38 +115,38 @@ Last updated: `April 15, 2026 at 01:11:22 AM ET`
 | 17 | zionrangers | evaluated | 7758e0 | 371.7 |
 | 18 | pyjuan91 | evaluated | fe8f27 | 363.6 |
 | 19 | nkkrnkl | late | de6b0f | 362.4 |
-| 20 | tired_yoda | late | 932138 | 361.9 |
-| 21 | Shengwei | evaluated | f78d37 | 361.2 |
-| 22 | 1_Core_2GHz_Colab_CPU | evaluated | 4e42ed | 359.3 |
-| 23 | gm | evaluated | 2898fc | 357.0 |
-| 24 | nickname55555555 | evaluated | f68498 | 354.5 |
-| 25 | ishan-pat | evaluated | a4749e | 351.9 |
-| 26 | hngydn20 | late | 52c925 | 347.5 |
-| 27 | sjb | evaluated | 373553 | 346.4 |
-| 28 | JasonWang07 | evaluated | a4b405 | 342.2 |
-| 29 | Rithvik | evaluated | 2924a0 | 335.8 |
-| 30 | act | evaluated | fce2ab | 332.5 |
-| 31 | leoli | evaluated | 5cdac4 | 327.5 |
-| 32 | abhik | evaluated | 0b4b08 | 319.2 |
-| 33 | vallabkaranam | evaluated | 0bdeec | 318.5 |
-| 34 | ss4478 | evaluated | c35426 | 312.1 |
-| 35 | jl | evaluated | 8b6423 | 311.6 |
-| 36 | fishyfins | evaluated | 5ef586 | 309.8 |
-| 37 | goingbananas | evaluated | 2ce123 | 307.6 |
-| 38 | lipphi | evaluated | a3a71b | 306.7 |
-| 39 | Bulbasaur | evaluated | d42099 | 305.9 |
-| 40 | PurplePickle67 | evaluated | 68d34e | 303.7 |
-| 41 | pallavi-srinivas | evaluated | 3c1d3c | 302.6 |
-| 42 | TA | evaluated | a6e863 | 294.5 |
-| 43 | ngoguen | evaluated | f69acc | 282.0 |
-| 44 | onlythingIcanDOisTAPEOUT | evaluated | 6a5359 | 281.1 |
-| 45 | stefan | evaluated | cf00e7 | 278.5 |
-| 46 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
-| 47 | landrum | evaluated | 61ab81 | 276.9 |
-| 48 | castillo | late | f1bdd6 | 275.6 |
-| 49 | Decode_speed | evaluated | d54f1d | 274.5 |
-| 50 | gravlax | evaluated | b1229d | 272.5 |
-| 51 | Yize | evaluated | c8c9f7 | 269.9 |
+| 20 | Shengwei | evaluated | f78d37 | 361.2 |
+| 21 | 1_Core_2GHz_Colab_CPU | evaluated | 4e42ed | 359.3 |
+| 22 | gm | evaluated | 2898fc | 357.0 |
+| 23 | nickname55555555 | evaluated | f68498 | 354.5 |
+| 24 | ishan-pat | evaluated | a4749e | 351.9 |
+| 25 | hngydn20 | late | 52c925 | 347.5 |
+| 26 | sjb | evaluated | 373553 | 346.4 |
+| 27 | JasonWang07 | evaluated | a4b405 | 342.2 |
+| 28 | Rithvik | evaluated | 2924a0 | 335.8 |
+| 29 | act | evaluated | fce2ab | 332.5 |
+| 30 | leoli | evaluated | 5cdac4 | 327.5 |
+| 31 | abhik | evaluated | 0b4b08 | 319.2 |
+| 32 | vallabkaranam | evaluated | 0bdeec | 318.5 |
+| 33 | ss4478 | evaluated | c35426 | 312.1 |
+| 34 | jl | evaluated | 8b6423 | 311.6 |
+| 35 | fishyfins | evaluated | 5ef586 | 309.8 |
+| 36 | goingbananas | evaluated | 2ce123 | 307.6 |
+| 37 | lipphi | evaluated | a3a71b | 306.7 |
+| 38 | Bulbasaur | evaluated | d42099 | 305.9 |
+| 39 | PurplePickle67 | evaluated | 68d34e | 303.7 |
+| 40 | pallavi-srinivas | evaluated | 3c1d3c | 302.6 |
+| 41 | TA | evaluated | a6e863 | 294.5 |
+| 42 | ngoguen | evaluated | f69acc | 282.0 |
+| 43 | onlythingIcanDOisTAPEOUT | evaluated | 6a5359 | 281.1 |
+| 44 | stefan | evaluated | cf00e7 | 278.5 |
+| 45 | andrasferenczy | evaluated | 9c7f53 | 277.2 |
+| 46 | landrum | evaluated | 61ab81 | 276.9 |
+| 47 | castillo | late | f1bdd6 | 275.6 |
+| 48 | Decode_speed | evaluated | d54f1d | 274.5 |
+| 49 | gravlax | evaluated | b1229d | 272.5 |
+| 50 | Yize | evaluated | c8c9f7 | 269.9 |
+| 51 | tired_yoda | late | e938a0 | 268.6 |
 | 52 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 266.6 |
 | 53 | happyface | evaluated | 4ce0f3 | 263.7 |
 | 54 | advaith-1212 | evaluated | f4f700 | 260.2 |
@@ -223,7 +223,7 @@ Last updated: `April 15, 2026 at 01:11:22 AM ET`
 | 35 | nkkrnkl | late | de6b0f | 36.5 |
 | 36 | PurplePickle67 | evaluated | 68d34e | 37.3 |
 | 37 | Yize | evaluated | c8c9f7 | 39.4 |
-| 38 | tired_yoda | late | 932138 | 42.6 |
+| 38 | tired_yoda | late | e938a0 | 42.5 |
 | 39 | lofiWeightsToRelaxTo_ | evaluated | 5a5409 | 43.1 |
 | 40 | sjb | evaluated | 373553 | 50.8 |
 | 41 | abhik | evaluated | 0b4b08 | 55.4 |
@@ -314,7 +314,7 @@ Last updated: `April 15, 2026 at 01:11:22 AM ET`
 | 36 | siddarak | late | 84ddeb | 65.5 |
 | 37 | castillo | late | f1bdd6 | 65.9 |
 | 38 | 1_Core_2GHz_Colab_CPU | evaluated | 4e42ed | 66.8 |
-| 39 | tired_yoda | late | 932138 | 66.9 |
+| 39 | tired_yoda | late | e938a0 | 66.9 |
 | 40 | co-smith | evaluated | 089c7d | 70.1 |
 | 41 | henry | evaluated | 92577d | 72.1 |
 | 42 | hngydn20 | late | 52c925 | 85.7 |

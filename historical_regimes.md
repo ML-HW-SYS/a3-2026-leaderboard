@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 15, 2026 at 01:11:22 AM ET`
+Last updated: `April 15, 2026 at 01:26:49 AM ET`
 
 ## R1 (tok/s)
 
@@ -85,7 +85,7 @@ Last updated: `April 15, 2026 at 01:11:22 AM ET`
 | 77 | hw_bloss | submission.py | 2d26da | 523.5 |
 | 78 | PurplePickle67 | submission.py | 68d34e | 520.5 |
 | 79 | Sulaiman Alam | develop.py | 35c109 | 518.6 |
-| 80 | tired_yoda | submission.py | 1d559b | 517.8 |
+| 80 | tired_yoda | submission.py | e938a0 | 517.9 |
 | 81 | tuo | submission.py | 4274da | 507.3 |
 | 82 | tif03 | submission.py | e84053 | 501.5 |
 | 83 | siddarak | submission.py | 84ddeb | 482.6 |
@@ -221,7 +221,7 @@ Last updated: `April 15, 2026 at 01:11:22 AM ET`
 | 35 | nkkrnkl | develop.py | ceb8f5 | 35.5 |
 | 36 | PurplePickle67 | submission.py | 2efdba | 36.3 |
 | 37 | Yize | develop.py | 4c7928 | 39.3 |
-| 38 | tired_yoda | submission.py | 932138 | 42.6 |
+| 38 | tired_yoda | submission.py | e938a0 | 42.5 |
 | 39 | lofiWeightsToRelaxTo_ | submission.py | 5a5409 | 43.1 |
 | 40 | sjb | develop.py | 7fb492 | 50.4 |
 | 41 | abhik | develop.py | 0b4b08 | 55.4 |
@@ -313,7 +313,7 @@ Last updated: `April 15, 2026 at 01:11:22 AM ET`
 | 37 | blabrl | submission.py | ca60eb | 65.2 |
 | 38 | castillo | submission.py | f1bdd6 | 65.9 |
 | 39 | 1_Core_2GHz_Colab_CPU | develop.py | 680fa3 | 66.3 |
-| 40 | tired_yoda | submission.py | 932138 | 66.9 |
+| 40 | tired_yoda | submission.py | e938a0 | 66.9 |
 | 41 | henry | submission.py | a20a6f | 72.0 |
 | 42 | JasonWang07 | develop.py | f27837 | 78.3 |
 | 43 | hngydn20 | submission.py | 52c925 | 85.7 |
