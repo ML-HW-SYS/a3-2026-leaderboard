@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 15, 2026 at 02:42:52 PM ET`
+Last updated: `April 15, 2026 at 02:57:46 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 15 02:51 PM ET | somita | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 71:12: for t0 in tl.range(0, KV_LEN, BLOCK_SIZE): kv_block = t0 // B... | submission.py | b2d57b | 14.8/0.0/14.8 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 15 02:21 PM ET | somita | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 71:12: for t0 in tl.range(0, KV_LEN, BLOCK_SIZE): kv_block = t0 // B... | submission.py | ccca1e | 14.8/0.0/14.8 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 15 02:21 PM ET | somita | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 71:12: for t0 in tl.range(0, KV_LEN, BLOCK_SIZE): kv_block = t0 // B... | develop.py | ccca1e | 14.9/0.0/14.9 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 15 01:51 PM ET | somita | failed_correctness | R1: SETUP: ERR: UnsupportedLanguageConstruct: at 71:12: for t0 in tl.range(0, KV_LEN, BLOCK_SIZE): kv_block = t0 // B... | submission.py | 3bbf65 | 16.1/0.0/16.1 | 0.0 | 0.0 | 0.0 | 0.0 |
