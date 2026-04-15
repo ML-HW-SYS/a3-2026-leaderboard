@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 14, 2026 at 07:52:08 PM ET`
+Last updated: `April 14, 2026 at 08:07:20 PM ET`
 
 ## R1 (tok/s)
 
@@ -254,7 +254,7 @@ Last updated: `April 14, 2026 at 07:52:08 PM ET`
 | 70 | poppyPotatoe | submission.py | e01605 | 209.9 |
 | 71 | mdavalos10 | submission.py | 871ac2 | 279.7 |
 | 72 | Akash Basu | develop.py | 365e59 | 302.0 |
-| 73 | oculus | submission.py | 341224 | 303.5 |
+| 73 | oculus | develop.py | e87be4 | 302.3 |
 | 74 | dylanjhnsondj | submission.py | c4e1ab | 306.0 |
 | 75 | hw_bloss | submission.py | b2767b | 306.7 |
 | 76 | your_nickname_here | submission.py | 59e245 | 307.4 |
