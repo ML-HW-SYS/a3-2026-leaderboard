@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 14, 2026 at 08:07:20 PM ET`
+Last updated: `April 14, 2026 at 08:24:35 PM ET`
 
 ## R1 (tok/s)
 
@@ -88,7 +88,7 @@ Last updated: `April 14, 2026 at 08:07:20 PM ET`
 | 80 | tuo | evaluated | 3d6d40 | 494.8 |
 | 81 | siddarak | late | 84ddeb | 482.6 |
 | 82 | poppyPotatoe | late | 4a5cd6 | 165.6 |
-| 83 | sarah | late | 3b146f | 164.0 |
+|  | sarah | failed | a4543f |  |
 |  | SIUUU | failed | 522695 |  |
 
 ## R2 (tok/s)
@@ -177,7 +177,7 @@ Last updated: `April 14, 2026 at 08:07:20 PM ET`
 | 80 | avemaria | evaluated | 6a5e32 | 165.3 |
 | 81 | JaneShuey | evaluated | 882419 | 165.2 |
 | 82 | poppyPotatoe | late | 4a5cd6 | 124.0 |
-| 83 | sarah | late | 3b146f | 78.0 |
+|  | sarah | failed | a4543f |  |
 |  | SIUUU | failed | 522695 |  |
 
 ## R3 (ms)
@@ -266,7 +266,7 @@ Last updated: `April 14, 2026 at 08:07:20 PM ET`
 | 80 | your_nickname_here | evaluated | 0949d0 | 311.5 |
 | 81 | avemaria | evaluated | 6a5e32 | 323.4 |
 | 82 | dhanushikka | late | 9e7232 | 386.6 |
-| 83 | sarah | late | 3b146f | 791.0 |
+|  | sarah | failed | a4543f |  |
 |  | SIUUU | failed | 522695 |  |
 
 ## R4 (ms)
@@ -355,5 +355,5 @@ Last updated: `April 14, 2026 at 08:07:20 PM ET`
 | 80 | your_nickname_here | evaluated | 0949d0 | 250.7 |
 | 81 | avemaria | evaluated | 6a5e32 | 256.7 |
 | 82 | dhanushikka | late | 9e7232 | 268.2 |
-| 83 | sarah | late | 3b146f | 442.9 |
+|  | sarah | failed | a4543f |  |
 |  | SIUUU | failed | 522695 |  |
