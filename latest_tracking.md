@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 14, 2026 at 08:54:55 PM ET`
+Last updated: `April 14, 2026 at 09:10:41 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 14 08:48 PM ET | TheProphet | failed_correctness | R2: SETUP: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent ... | develop.py | 8f2f63 | 61.9/1.1/63.1 | 594.6 | 0.0 | 24.4 | 46.5 |
 | Apr 14 08:37 PM ET | sarah | failed_correctness | R1: SETUP: ERR: AttributeError: 'QuantizedLinear' object has no attribute 'weight' \| R2: SETUP: ERR: AttributeError: ... | submission.py | de3a33 | 14.1/0.0/14.1 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 14 08:14 PM ET | dhanushikka | late |  | develop.py | 75407d | 39.3/6.2/45.4 | 527.5 | 188.8 | 352.0 | 265.8 |
 | Apr 14 08:09 PM ET | TheProphet | late |  | develop.py | 1ec656 | 48.3/2.7/50.9 | 594.4 | 336.7 | 24.3 | 46.5 |
