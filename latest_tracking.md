@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 14, 2026 at 10:25:42 PM ET`
+Last updated: `April 14, 2026 at 10:41:03 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 14 10:18 PM ET | TheProphet | failed_correctness | R2: SETUP: ERR: RuntimeError: Error: accessing tensor output of CUDAGraphs that has been overwritten by a subsequent ... | develop.py | bbb471 | 37.3/1.1/38.4 | 594.9 | 0.0 | 24.3 | 46.3 |
 | Apr 14 10:11 PM ET | dhanushikka | late |  | submission.py | 0c1345 | 20.7/6.2/26.8 | 523.9 | 189.0 | 352.0 | 266.4 |
 | Apr 14 10:00 PM ET | sarah | failed_correctness | R1: SETUP: ERR: NameError: name '_dequantize_state_dict' is not defined \| R2: SETUP: ERR: NameError: name '_dequantiz... | submission.py | 703b5b | 12.6/0.0/12.6 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 14 09:55 PM ET | tired_yoda | failed_security | Security policy check failed for submission.py: \| - prohibited import: os | submission.py | 301f7f |  |  |  |  |  |
