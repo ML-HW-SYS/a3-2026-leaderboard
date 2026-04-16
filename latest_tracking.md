@@ -1,10 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 15, 2026 at 09:17:42 PM ET`
+Last updated: `April 15, 2026 at 09:33:46 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Apr 15 08:57 PM ET | somita | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | add23c | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 15 08:57 PM ET | somita | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | develop.py | add23c | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 15 07:46 PM ET | somita | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | c14c1b | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 15 07:46 PM ET | somita | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | develop.py | c14c1b | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 15 07:32 PM ET | somita | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | add23c | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
