@@ -1,10 +1,11 @@
 # Latest Tracking
 
-Last updated: `April 15, 2026 at 08:01:32 PM ET`
+Last updated: `April 15, 2026 at 08:17:37 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Apr 15 07:46 PM ET | somita | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | c14c1b | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Apr 15 07:46 PM ET | somita | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | develop.py | c14c1b | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 15 07:32 PM ET | somita | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | add23c | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 15 06:58 PM ET | somita | late |  | submission.py | 7e57dc | 13.5/10.5/24.0 | 146.7 | 113.9 | 360.9 | 266.9 |
 | Apr 15 06:58 PM ET | somita | late |  | develop.py | 7e57dc | 13.5/10.5/24.0 | 148.1 | 113.2 | 360.9 | 267.2 |
