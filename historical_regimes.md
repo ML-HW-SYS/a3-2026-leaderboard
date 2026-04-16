@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 16, 2026 at 06:51:07 PM ET`
+Last updated: `April 16, 2026 at 07:06:44 PM ET`
 
 ## R1 (tok/s)
 
@@ -167,7 +167,7 @@ Last updated: `April 16, 2026 at 06:51:07 PM ET`
 | 69 | mdavalos10 | submission.py | af3233 | 177.8 |
 | 70 | yb | develop.py | 92193f | 174.2 |
 | 71 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 72 | auan | submission.py | 1a8b2c | 170.0 |
+| 72 | auan | submission.py | 96da3c | 171.7 |
 | 73 | oculus | submission.py | 341224 | 170.0 |
 | 74 | yoursun1220 | submission.py | 27e400 | 169.9 |
 | 75 | axel4 | submission.py | ea45fd | 169.9 |
@@ -260,10 +260,10 @@ Last updated: `April 16, 2026 at 06:51:07 PM ET`
 | 72 | mdavalos10 | submission.py | 871ac2 | 279.7 |
 | 73 | Akash Basu | develop.py | 365e59 | 302.0 |
 | 74 | oculus | develop.py | e87be4 | 302.3 |
-| 75 | dylanjhnsondj | submission.py | c4e1ab | 306.0 |
-| 76 | hw_bloss | submission.py | b2767b | 306.7 |
-| 77 | your_nickname_here | submission.py | 59e245 | 307.4 |
-| 78 | auan | submission.py | 1a8b2c | 308.6 |
+| 75 | auan | submission.py | 96da3c | 304.4 |
+| 76 | dylanjhnsondj | submission.py | c4e1ab | 306.0 |
+| 77 | hw_bloss | submission.py | b2767b | 306.7 |
+| 78 | your_nickname_here | submission.py | 59e245 | 307.4 |
 | 79 | yoursun1220 | submission.py | 27e400 | 308.6 |
 | 80 | axel4 | submission.py | c74a1e | 308.6 |
 | 81 | Sulaiman Alam | submission.py | c7ede2 | 308.7 |
@@ -350,14 +350,14 @@ Last updated: `April 16, 2026 at 06:51:07 PM ET`
 | 71 | tuo | submission.py | 4274da | 160.5 |
 | 72 | mdavalos10 | submission.py | af3233 | 189.4 |
 | 73 | Akash Basu | develop.py | 26a442 | 231.1 |
-| 74 | oculus | submission.py | 341224 | 233.4 |
-| 75 | dylanjhnsondj | submission.py | c4e1ab | 236.8 |
-| 76 | hw_bloss | submission.py | b2767b | 237.0 |
-| 77 | Sulaiman Alam | develop.py | c7ede2 | 244.4 |
-| 78 | your_nickname_here | submission.py | 59e245 | 245.7 |
-| 79 | axel4 | submission.py | c74a1e | 247.5 |
-| 80 | yoursun1220 | submission.py | 27e400 | 248.7 |
-| 81 | auan | submission.py | 1a8b2c | 249.2 |
+| 74 | auan | submission.py | 96da3c | 232.5 |
+| 75 | oculus | submission.py | 341224 | 233.4 |
+| 76 | dylanjhnsondj | submission.py | c4e1ab | 236.8 |
+| 77 | hw_bloss | submission.py | b2767b | 237.0 |
+| 78 | Sulaiman Alam | develop.py | c7ede2 | 244.4 |
+| 79 | your_nickname_here | submission.py | 59e245 | 245.7 |
+| 80 | axel4 | submission.py | c74a1e | 247.5 |
+| 81 | yoursun1220 | submission.py | 27e400 | 248.7 |
 | 82 | tif03 | submission.py | ec268d | 249.5 |
 | 83 | brandon_lorenzo | submission.py | 67c79e | 249.6 |
 | 84 | somita | submission.py | bbe658 | 249.8 |
