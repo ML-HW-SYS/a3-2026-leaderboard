@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 16, 2026 at 05:52:00 PM ET`
+Last updated: `April 16, 2026 at 06:06:40 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 16 05:59 PM ET | auan | failed_correctness | R1: SETUP: ERR: NotImplementedError: Implement setup(...) in submission.py. Do not rely on develop.py for your offici... | submission.py | 8bc5f7 | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | Apr 15 10:13 PM ET | somita | late |  | submission.py | 930cb9 | 19.7/6.3/25.9 | 523.2 | 169.0 | 311.6 | 251.1 |
 | Apr 15 10:13 PM ET | somita | late |  | develop.py | 930cb9 | 19.7/6.3/25.9 | 517.7 | 168.7 | 312.0 | 251.2 |
 | Apr 15 08:57 PM ET | somita | failed_correctness | R1: ERR: hard timeout exceeded (worker killed) \| R2: ERR: total timeout exceeded before regime start \| R3: ERR: total... | submission.py | add23c | 0.0/0.0/0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
