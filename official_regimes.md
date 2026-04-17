@@ -1,6 +1,6 @@
 # Official Regimes
 
-Last updated: `April 16, 2026 at 08:20:05 PM ET`
+Last updated: `April 16, 2026 at 08:36:08 PM ET`
 
 ## R1 (tok/s)
 
@@ -67,14 +67,14 @@ Last updated: `April 16, 2026 at 08:20:05 PM ET`
 | 59 | sarah | late | 63f0eb | 527.9 |
 | 60 | dylanjhnsondj | evaluated | c4e1ab | 527.3 |
 | 61 | Junyi Li | evaluated | c7a1b3 | 527.3 |
-| 62 | JaneShuey | evaluated | 882419 | 526.2 |
-| 63 | bl792 | evaluated | 09cd73 | 524.7 |
-| 64 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
-| 65 | dhanushikka | late | 0c1345 | 523.9 |
-| 66 | ethanchen | evaluated | ea518d | 523.7 |
-| 67 | yb | evaluated | a49d40 | 523.5 |
-| 68 | somita | late | 930cb9 | 523.2 |
-| 69 | auan | late | 96da3c | 523.0 |
+| 62 | auan | late | 0636bd | 527.2 |
+| 63 | JaneShuey | evaluated | 882419 | 526.2 |
+| 64 | bl792 | evaluated | 09cd73 | 524.7 |
+| 65 | brandon_lorenzo | evaluated | 67c79e | 524.1 |
+| 66 | dhanushikka | late | 0c1345 | 523.9 |
+| 67 | ethanchen | evaluated | ea518d | 523.7 |
+| 68 | yb | evaluated | a49d40 | 523.5 |
+| 69 | somita | late | 930cb9 | 523.2 |
 | 70 | hw_bloss | evaluated | 4c9666 | 522.2 |
 | 71 | yoursun1220 | evaluated | d8b590 | 521.8 |
 | 72 | avemaria | evaluated | 6a5e32 | 521.6 |
@@ -168,7 +168,7 @@ Last updated: `April 16, 2026 at 08:20:05 PM ET`
 | 69 | mdavalos10 | evaluated | af3233 | 177.8 |
 | 70 | yb | evaluated | a49d40 | 174.1 |
 | 71 | your_nickname_here | evaluated | 0949d0 | 172.4 |
-| 72 | auan | late | 96da3c | 171.7 |
+| 72 | auan | late | 0636bd | 171.5 |
 | 73 | oculus | late | 341224 | 170.0 |
 | 74 | brandon_lorenzo | evaluated | 67c79e | 169.8 |
 | 75 | axel4 | evaluated | 717d73 | 169.8 |
@@ -260,8 +260,8 @@ Last updated: `April 16, 2026 at 08:20:05 PM ET`
 | 70 | poppyPotatoe | late | 4a5cd6 | 210.2 |
 | 71 | mdavalos10 | evaluated | af3233 | 279.7 |
 | 72 | oculus | late | 341224 | 303.5 |
-| 73 | Akash Basu | evaluated | 365e59 | 303.8 |
-| 74 | auan | late | 96da3c | 304.4 |
+| 73 | auan | late | 0636bd | 303.6 |
+| 74 | Akash Basu | evaluated | 365e59 | 303.8 |
 | 75 | dylanjhnsondj | evaluated | c4e1ab | 306.0 |
 | 76 | hw_bloss | evaluated | 4c9666 | 308.1 |
 | 77 | Sulaiman Alam | evaluated | c7ede2 | 308.7 |
@@ -350,7 +350,7 @@ Last updated: `April 16, 2026 at 08:20:05 PM ET`
 | 69 | yb | evaluated | a49d40 | 154.0 |
 | 70 | tuo | evaluated | 3d6d40 | 162.8 |
 | 71 | mdavalos10 | evaluated | af3233 | 189.4 |
-| 72 | auan | late | 96da3c | 232.5 |
+| 72 | auan | late | 0636bd | 233.0 |
 | 73 | oculus | late | 341224 | 233.4 |
 | 74 | Akash Basu | evaluated | 365e59 | 233.5 |
 | 75 | dylanjhnsondj | evaluated | c4e1ab | 236.8 |
