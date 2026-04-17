@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 16, 2026 at 09:21:19 PM ET`
+Last updated: `April 16, 2026 at 09:35:59 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 16 09:20 PM ET | auan | failed_compliance | Submission compliance check failed for submission.py: \| - non-allowed external import: numpy \| Allowed external libra... | submission.py | b0e95f |  |  |  |  |  |
 | Apr 16 09:07 PM ET | auan | failed_compliance | Submission compliance check failed for submission.py: \| - non-allowed external import: numpy \| Allowed external libra... | submission.py | ff6332 |  |  |  |  |  |
 | Apr 16 08:29 PM ET | auan | late |  | submission.py | 5e0166 | 62.5/6.1/68.6 | 525.9 | 171.8 | 303.2 | 232.2 |
 | Apr 16 08:29 PM ET | auan | late |  | submission.py | 0636bd | 74.7/6.1/80.8 | 527.2 | 171.5 | 303.6 | 233.0 |
