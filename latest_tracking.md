@@ -1,9 +1,10 @@
 # Latest Tracking
 
-Last updated: `April 16, 2026 at 10:36:36 PM ET`
+Last updated: `April 16, 2026 at 10:51:54 PM ET`
 
 | time | nickname | status | detail | graded_file | commit | runtime_s | R1 (tok/s) | R2 (tok/s) | R3 (ms) | R4 (ms) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr 16 10:39 PM ET | auan | late |  | submission.py | 25339d | 30.5/6.1/36.7 | 522.6 | 170.9 | 306.1 | 233.6 |
 | Apr 16 10:29 PM ET | auan | failed_correctness | R1: SETUP: ERR: RuntimeError: Decode path requires quantized packed weights/scales (no fallback). \| R2: SETUP: ERR: U... | submission.py | c1cbf8 | 36.3/2.2/38.4 | 0.0 | 0.0 | 305.8 | 233.0 |
 | Apr 16 09:56 PM ET | auan | late |  | submission.py | 96f6cb | 30.9/6.1/37.0 | 524.4 | 171.1 | 305.2 | 233.7 |
 | Apr 16 09:34 PM ET | auan | late |  | submission.py | 2259ea | 31.0/6.1/37.1 | 524.2 | 171.0 | 305.3 | 233.7 |
