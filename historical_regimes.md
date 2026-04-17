@@ -1,6 +1,6 @@
 # Historical Best By Regime
 
-Last updated: `April 16, 2026 at 08:36:08 PM ET`
+Last updated: `April 16, 2026 at 08:51:59 PM ET`
 
 ## R1 (tok/s)
 
@@ -167,7 +167,7 @@ Last updated: `April 16, 2026 at 08:36:08 PM ET`
 | 69 | mdavalos10 | submission.py | af3233 | 177.8 |
 | 70 | yb | develop.py | 92193f | 174.2 |
 | 71 | your_nickname_here | submission.py | 59e245 | 173.4 |
-| 72 | auan | submission.py | 96da3c | 171.7 |
+| 72 | auan | submission.py | 5e0166 | 171.8 |
 | 73 | oculus | submission.py | 341224 | 170.0 |
 | 74 | yoursun1220 | submission.py | 27e400 | 169.9 |
 | 75 | axel4 | submission.py | ea45fd | 169.9 |
@@ -260,7 +260,7 @@ Last updated: `April 16, 2026 at 08:36:08 PM ET`
 | 72 | mdavalos10 | submission.py | 871ac2 | 279.7 |
 | 73 | Akash Basu | develop.py | 365e59 | 302.0 |
 | 74 | oculus | develop.py | e87be4 | 302.3 |
-| 75 | auan | submission.py | 0636bd | 303.6 |
+| 75 | auan | submission.py | 5e0166 | 303.2 |
 | 76 | dylanjhnsondj | submission.py | c4e1ab | 306.0 |
 | 77 | hw_bloss | submission.py | b2767b | 306.7 |
 | 78 | your_nickname_here | submission.py | 59e245 | 307.4 |
@@ -350,7 +350,7 @@ Last updated: `April 16, 2026 at 08:36:08 PM ET`
 | 71 | tuo | submission.py | 4274da | 160.5 |
 | 72 | mdavalos10 | submission.py | af3233 | 189.4 |
 | 73 | Akash Basu | develop.py | 26a442 | 231.1 |
-| 74 | auan | submission.py | 96da3c | 232.5 |
+| 74 | auan | submission.py | 5e0166 | 232.2 |
 | 75 | oculus | submission.py | 341224 | 233.4 |
 | 76 | dylanjhnsondj | submission.py | c4e1ab | 236.8 |
 | 77 | hw_bloss | submission.py | b2767b | 237.0 |
